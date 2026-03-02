@@ -3,5 +3,987 @@
     "repoName": "FTRepo",
     "repoIcon": ""
   },
-  "data": []
+  "data": [
+    {
+      "name": "Instagram",
+      "version": "418.0.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.burbn.instagram_418.0.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.burbn.instagram",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/98/e6/1d98e661-2de2-b974-ab7c-562dddd94626/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "developer": "Instagram, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "ProFit",
+      "version": "7.16.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.maxty.gofitness_7.16.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.maxty.gofitness",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/61/63/156163de-1dff-a523-343e-db9070a56c6c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "Start training today to see tangible results and get fit!\n\nPro Fit is here to guide you and help you to building your core strength, melt your unwanted weight and improve your performances.\nWe are the most reliable and user-friendly application. Not only it is going to replace your traditional coach but also will let you track your performances in a simple way in order to make precise analyses about your workout. And it’s like having the best personal trainer in the palm of your hand, available 24/7/365.\nGet your whole body toned and feel like the best version of yourself.\n\nEveryday you will get what you’ve never seen before on the market: new, powerful, progressive and personalized workout for your level and goals that will look like some Stories form in most social apps.\nSurpass your expectations, achieve your daily goal, and share it with your friends on different social platforms. See your weight drop and your muscle grow in no time.\n\n\nKey Features:\n- 350+ Effective exercises for each muscle groups;\n- Detailed description of each exercise;\n- High quality photo and video guidance;\n- Images of involved muscles;\n- Pre-set workouts specific to your goals;\n- Ability to add your own workout with your custom exercises;\n- Built-in Journal for your workouts, for sets, reps and weights;\n- Built-in timer and calendar;\n- History of all your data with interactive graphs of your performance;\n- Fastest support;\n- Frequent updates;\n- Meal plans and recipes\n- Training plans created by top personal trainers\n- No muscle group is left behind in your personalized training plan.\n\nProFit uses HealthKit to populate user profile data. The application requests access to the following data types: Units, Gender, Age, Weight and Height. When you take the survey in the app, you can quickly fill out data using synchronization with Apple Health. The synchronization with Apple Health can be switched off in the application Settings.\n\nYou can try the ProFit app out for free by signing up to a free trial period. During the free 7-day trial, you’ll get the star treatment and will be able to try all fitness.\n\nAs a ProFit app user, you can choose the subscription plan that best suits your needs, by considering the workout, and the costs.\nOur Premium 1-year subscription plan offers unlimited access to every level of every imaginable workout routine in exchange for a single payment. In addition, 1-week subscription and 1-month are available for users. For your convenience, ProFit subscriptions are set to automatically renew within the 24-hour period prior to the subscription end date. You can cancel your subscription at any moment in your iTunes account settings but refunds will not be provided for any unused portion of the terms. Payment will be charged to iTunes Account at confirmation of purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nProFit is integrated with the Health kit, so you can find your activities data in the Health App.\n\nWe take the satisfaction and security of our customers very seriously. Read our terms of use at \n\nhttps://vgfit.com/terms \n\nand our privacy policy at \n\nhttps://vgfit.com/privacy\n\nFor more questions or suggestions, please contact us.",
+      "developer": "VGFIT LLC",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/322x572bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/322x572bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/bd/4c/2dbd4c54-f87e-b8b4-f573-fc9cca65e374/Screen_3.png/322x572bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/96/0d/d0960dd2-4d18-80a5-e83f-709bf60e90be/Screen_4.png/322x572bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/a3/a4/76a3a41a-45fb-7053-d582-6066794fe2bf/Screen_5.png/322x572bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "KineMaster",
+      "version": "8.1.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.kinemaster.kios_8.1.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.kinemaster.kios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/57/60/60576057-fa53-0b11-07ab-09ed3429b697/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "[ AI Tools for Your Next Video ]\nComplex videos can be made quickly with these AI features.\n\n• AI Auto Captions: Add subtitles instantly from video or audio\n• AI Text-to-Speech: Create spoken audio from text with one tap\n• AI Voice: Make your audio unique when you apply AI Voices\n• AI Music Match: Get song recommendations fast\n• AI Magic Removal: Cut out the background around people and faces\n• AI Noise Removal: Zap distracting sounds in your video or audio\n• AI Vocal Separator: Split a song into its vocals and music\n• AI Tracking: Make your text and stickers follow moving objects\n• AI Upscaling: Boost the size of low-resolution media\n• AI Style: Add artistic effects to your videos and images\n\n[ Professional Video Editing for Everyone ]\nKineMaster makes advanced tools easy to use.\n\n• Keyframe Animation: Adjust the size, position, and rotation of every layer\n• Chroma Key (Green Screen): Remove backgrounds and combine videos like the pros\n• Speed Control: Reverse, slow down, or turn your videos into time-lapse masterpieces\n\n[ Jumpstart Your Creativity ]\nPick a template, replace its photos and videos, and you’re done!\n\n• Thousands of Templates: Build your own from pre-made video projects \n• Mix: Save your video project as a template to share with KineMaster editors everywhere\n• KineCloud: Back up personal projects to the cloud to continue editing on another day or another device\n\n[ Make Your Video Stand Out with Assets ]\nThe KineMaster Asset Store has tens of thousands of resources to make your next video amazing! Effects, stickers, to music and fonts, transitions, and VFX: everything is ready to use.\n\n• Effects & Transitions: Enhance your videos with amazing visuals\n• Stickers & Clip Graphics: Add graphic animations and design elements \n• Music & SFX: Make a video that sounds as good as it looks\n• Stock Videos & Images: Get pre-made green screen effects, free stock footage, and tons of video backgrounds\n• Variety of Fonts: Apply design-ready stylish fonts \n• Color Filters: Choose from a huge variety of color filters for the perfect look\n\n[ High-Quality Output or Optimized Video: You Decide ]\nSave your edited videos in high resolution or dial the quality to make them load fast on social media.\n\nIncredible 4K 60 FPS: Produce videos in 4K and 60 frames per second\n\nOptimized for Social Media Sharing: Save videos that are ready to upload to YouTube, TikTok, Instagram, and more\n\nTransparent Background Support: Make videos ready for compositing for use with other videos\n\n[ The Best Tools for Fast, Precise Editing ]\nKineMaster is loaded with tools that make editing fun and easy. \n\n• Offers both portrait and landscape editing, the best of both worlds\n• Lots of layers: Add and stack photos, videos, and GIFs to all play at once\n• Multiple Undo (and Redo): Revert or reapply your editing history\n• Magnetic Guides: Align elements to guides and snap layers in place on the timeline \n• Full-Screen Previews: See your edits full screen before saving\n\nKineMaster & Asset Store Terms of Service:\nhttps://resource.kinemaster.com/document/tos.html\n\nContact: support@kinemaster.com",
+      "developer": "KineMaster Corporation",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/04/84/2d0484cc-4f81-9815-18ee-57fa40f0bf9a/02.High_Quality_Templates.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/29/56/ce295606-5902-9246-dad5-6effe3cdd91c/03.AI_Style__U0026_Visual_Effects.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/41/d3/0741d383-d0b2-624b-dab8-691c81d2a561/04.Incredible_Transitions.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/a3/4b/56a34b41-10be-6f05-bd8a-3144085842ae/05.Background_Remover.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/3d/64/853d642d-eefd-82a6-2b84-4382739a69c5/06.Powerful_Audio_Editing.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/6a/0a/4f6a0ab6-7282-f0ea-24f2-6b1a037f3a0a/07.Auto_Captions.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/79/ce/8379ce1a-d5e8-5600-1841-5b9e7f3f6668/08.Text_and_Stickers.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/b6/a6/3bb6a699-ff19-c68a-dd32-f20a08a33899/09.Thousands_of_Assets.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Diamond Finder",
+      "version": "8.0.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.mcdiamondfinder.app_8.0.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.mcdiamondfinder.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/98/47/f69847bd-f87a-c512-52d4-cbdc02ddafb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "Diamond Finder for Minecraft allows you to easily locate valuable ores, biomes and structures in your Minecraft world, including diamonds, emeralds, gold, iron, lapis, redstone, and coal. Whether you're a beginner or an experienced player, this app will help you find the resources you need to progress through the game.\n\nCompatible with all platforms including Bedrock edition and Java edition, and all devices including Mac, iOS, PS4, Xbox, and PC, this app supports Minecraft on any device that runs it. The app also supports the latest updates such as 1.19 The Wild update, 1.18 Caves and Cliffs, 1.17, 1.16, and below.\n\nUsing the app is simple - just type in your world seed and coordinates, and the app will show you the exact locations of the veins of diamond ore deep underground. With this information, you can plan your mining strategy to retrieve the valuable resources while avoiding the dangers of the game such as creepers, skeletons, and zombies.\n\nWhether you're looking to speed run Minecraft or just want to explore the game, the app is perfect for players of all levels. The \"seeds\" tab also provides a selection of popular Minecraft seeds to help you discover new and exciting worlds to play the game in.\n\nUpgrade your Minecraft gameplay with the Diamond Finder App - the ultimate tool for locating resources in your Minecraft world.\n\n\nTerms of Use: https://www.digitalappgroup.de/terms-of-use\nPrivacy Policy: https://www.digitalappgroup.de/diamondfinder\n\n\n\n\nDisclaimer: This is an unofficial application for Minecraft PE. This application is not affiliated with Mojang AB in any way. All rights reserved. The Minecraft name, Minecraft trademark, and Minecraft assets are the property of Mojang AB or their rightful owners. In accordance with http://account.mojang.com/documents/brand_guidelines",
+      "developer": "Digital App Group GmbH",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/17/36631760-d4a6-b5d5-a69f-47c19d2a1fba/d5ba64b7-c970-4aa0-9b3d-d5983bb3ba09_1242x2208_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/67/fb/ce67fb0c-8792-e826-d7df-098593ae0a5d/0e220864-fb59-4933-8226-973716ceb1d1_1242x2208_1-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/1f/05/c71f05d9-449b-b26c-a036-57726c8eca79/baf6fbb1-f1bb-4ece-bef2-69d47d8f961b_1242x2208_1-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/5c/a7/575ca7f0-7eb8-3a7c-9834-e12b0ce151d4/4cec1a69-b18a-4276-93b4-c4fe4a88dd81_1242x2208_1-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/aa/85/0caa853d-41f1-b871-5816-06e686f25621/c740598a-53c1-4e96-94a7-0978333613a5_1242x2208_1-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/29/58/a2295872-b2a7-4751-b3a9-5da4f21986f6/1284x2778_6-2.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Facetune",
+      "version": "3.120",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.lightricks.Facetune2_3.120.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.lightricks.Facetune2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/be/bf/febebfb8-df31-da6d-9a2f-20c5e60e4342/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Welcome to Facetune, the go-to photo editing app for creators, influencers, and selfie enthusiasts! We're all about celebrating you and helping your photos shine like never before. With Facetune, you get powerful tools, a user-friendly interface, and endless creative possibilities to express yourself with confidence.\n\nWhat's Hot in Facetune:\n• Headshots: Transform everyday photos into professional-grade headshots in seconds with AI technology.\n• Filters: Discover a variety of filters to give your photos the perfect mood and aesthetic.\n• Vanish & Remove Objects: Seamlessly remove unwanted objects or people from your background.\n• Blemish Remover: Instantly achieve a flawless complexion by removing blemishes and wrinkles.\n• Video Filters: Retouch skin and enhance your videos with stunning filters to make them pop.\n• Retouch: Fine-tune your selfies with advanced retouching tools to highlight your best features.\n• Teeth Whitening: Brighten your smile (or sneakers!) and make your teeth sparkle with our free teeth whitening feature.\n\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\nKey Features:\n\nAdvanced Retouching Tools:\n• Smooth: Achieve a natural, flawless complexion by removing blemishes and wrinkles instantly.\n• Reshape: Subtly enhance your natural beauty with precise facial adjustments.\n• Whiten: Brighten your smile and make your teeth look their best.\n\nProfessional Editing Tools:\n• Filters: Choose from a variety of filters to give your photos the perfect mood and aesthetic.\n• Light Effects: Adjust brightness, contrast, and highlights to create ideal lighting.\n• Details: Sharpen and enhance details to make your photos pop.\n\nCreative Enhancements:\n• Makeup: Apply virtual makeup to glam up your look without the fuss.\n• Hairstyles: Change your hair color and style with just a few taps.\n• Vanish: Remove unwanted objects or people from your background seamlessly.\n\nOne Tap Magic:\n• AI Enhance: Automatically enhance your photos with our AI technology.\n• Looks Presets: Instantly transform your photos with curated looks and presets.\n• Color Correction: Correct and enhance colors for a vibrant, polished look.\n\nUser-Friendly Interface: Facetune is designed to be intuitive and easy to use, making photo editing a breeze whether you're a beginner or a pro.\n\nSocial Media Ready: Create stunning photos that are ready to share on all your favorite social media platforms. Impress your followers with polished, eye-catching images that highlight your unique style.\n\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nWhy Facetune?\n\n- Authentic: Celebrate your true self with photos that reflect your real beauty.\n- Playful: Experiment with different looks and styles to express your creativity.\n- Sharp & Sassy: Make a statement with bold, confident photos.\n- Encouraging & Confident: Boost your confidence with tools that highlight your best features.\n\nJoin the Facetune Community:\nFacetune is more than just an app; it's a community of creators, influencers, and photo enthusiasts. Share your photos, discover new techniques, and get inspired by others.\nDownload Facetune Today!\n\nReady to turn those pics into pure fire? Get Facetune now and let's make some magic happen! Remember, life's a photoshoot, and you're the star. Now go out there and slay, bestie!\n\nLove, The Facetune Team\n\nP.S. Don't forget to check for updates! We're always cooking up new features to keep your photo editing game fresh and fabulous.\n\nTerms of use: https://static.lightricks.com/legal/terms-of-use.pdf \nPrivacy policy: https://static.lightricks.com/legal/privacy-policy.pdf\n\nTag us in your photos and videos with @Facetune and #facetune for a chance to be featured!",
+      "developer": "Lightricks Ltd.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/83/e3/8e83e39f-67d8-82c3-0ecf-488bb0b8028a/FT-250819-ASO-Baseline-5.5-03.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/44/ec/c444ec3e-1681-6b29-3f87-194e03bffd7a/FT-250819-ASO-Baseline-5.5-04.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/a9/7b/6da97b28-88fa-e7ce-9683-cce5236f4ebf/FT-250819-ASO-Baseline-5.5-05.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/25/0a/1c250a14-8dbf-eba6-54d7-ee28a2f1452d/FT-250819-ASO-Baseline-5.5-06.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/83/af/7c83af4f-2123-0ebb-e355-92e93cbe7ad2/FT-250819-ASO-Baseline-5.5-07.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/de/a9/9ddea9f4-fb28-99e4-9352-5cba5046bafb/FT-250819-ASO-Baseline-5.5-08.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/76/7b/e8767b93-4d0c-c71b-1dfb-e9ce3850f552/FT-250819-ASO-Baseline-5.5-09.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/d6/ee/fed6eebe-a3aa-cbce-9d4d-3c11c4d70fa7/FT-250819-ASO-Baseline-5.5-10.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "PUSH",
+      "version": "3.10.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.ADPTVLTD.push_3.10.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.ADPTVLTD.push",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/c3/7a/37c37af5-a78e-4857-5330-bfd9cfae7df6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "description": "PUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.\n\n- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n\n- PUSH generates a program based on your experience, sleep, gender, stress and time available to train. We fine tune your volume, frequency, rep range and exercise selection based on published research relating to these factors.\n\n- Exercises are selected based on resistance curve and rep range.\n\n- Over time PUSH will periodise and progress your program. We use your data to give you actionable insights including daily undulating periodisation systems. Don’t know what that means? You can read our short form (referenced) articles, or don’t! PUSH manages everything automatically for you anyway to keep you gaining.\n\n- Don’t like an exercise? PUSH will suggest the most similar exercises based on fatigue and resistance curve.\n\n- Optimised gym workouts make your weight lifting routine as efficient as possible at the gym. Built to help you get bigger, stronger, and reach your fitness goals\n\n- PUSH smart exercise planner schedules weightlifting exercises on a better schedule than common 5x5 routines. Whether you’re lifting with free weights, barbells or machines, the PUSH gym log and tracker is sure to exceed your muscle building hypertrophy.\n\n- Wether you want to get more toned, lean, bulk or cut, PUSH will generate the most optimal possible program by today’s standards\n\nHealthKit Integration\nHealthKit integration is used to save your workouts from PUSH to your Health data, which can be viewed from the Health app on your device.\nMetabolic rates and bodyweight are read to determine current bulking or cutting status.\n\nSUBSCRIPTION DETAILS\n\nAccess to PUSH requires a monthly or annual subscription. New users can have access for the period of the free trial stated on the paywall before committing to a subscription. Users can cancel at any point and not be charged while keeping full access to the app for the remainder of the trial period given.\n\nPayment will be charged to your iTunes account. Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current subscription period. Your account will be charged for renewal within 24-hours prior to the end of the current subscription period. Automatic renewals will cost the same price you were originally charged for the subscription. You can turn off auto-renewal at any time by going to your Account Settings on the App Store after purchase.\n\nPrivacy Policy: https://www.pushapp.co.uk/privacy\nTerms of Use: https://www.pushapp.co.uk/terms\nSupport: info@pushapp.co.uk",
+      "developer": "ADPTV LIMITED",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "The Piano",
+      "version": "2.16.8",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.impalastudios.pianofree_2.16.8.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.impalastudios.pianofree",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/36/10/143610b8-37c5-6052-b462-488813303210/pian_appIcon_2025-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Join over 14 million music lovers discovering piano! Learn piano the fun and easy way, no lessons needed.\nPlay songs, practice piano, and create music in one easy piano app.\nWith Piano, you can jump right in. Play to the rhythm, explore notes and chords, and create music at your own pace.\n\nDesigned for iOS (iPhone & iPad), Piano offers a smooth, responsive playing experience with intuitive touch controls, clean visuals, and a simple layout. Perfect for beginners, casual players, and anyone who wants to enjoy piano practice without pressure.\n\nJoin over 14 million music lovers discovering piano through interactive gameplay, creative tools, and realistic instrument sounds.\n\n\nWhat You Can Do\n\nPlay to the rhythm\nFollow timing cues, play step by step, and learn how songs come together.\n\nFreestyle Keyboard\nUse a full piano keyboard with real notes & chords, ideal for practicing, exploration, or composing your own melodies freely.\n\nResponsive Touch Keys\nEnjoy smooth, accurate playing with touch-sensitive keys built for a great iOS experience.\n\nCreate, Record & Share\nRecord your music, save your songs, and share your performances with friends. Be part of a global piano community where millions record and share every day.\n\nMultiple Instruments\nPlay grand piano, electric keys, xylophone, and more. A wide range of authentic sounds.\n\nProgress as You Play\nUnlock songs, earn rewards, and move from simple tunes to more advanced arrangements.\n\n\nExplore Every Genre\nPlay classical masterpieces, pop hits, jazz, kids' songs, film themes, and more.\nEnjoy music from Mozart, Beethoven, Chopin, Tchaikovsky, Vivaldi, Bach, Strauss, and Verdi, alongside modern favorites like Bella Ciao and Twinkle Twinkle.\nSearch, browse, and jump into any song you want to play.\n\nChoose Your Mode \n- Rhythm Play: Interactive gameplay to build timing, coordination, and confidence.\n- Freestyle Keyboard: A realistic instrument experience for practicing chords, melodies, and musical ideas.\nBoth modes are powerful practice tools, helping you focus on rhythm, control, and musical expression.\n\nPiano Pro\nUpgrade to unlock the full experience:\n• Unlimited songs to play\n• Multiple instrument sounds\n• Ad-free practice\n• Record with perfect timing\n\nYour subscription renews automatically unless canceled at least 24 hours before renewal.\nManage subscriptions in your App Store settings.\n\nTerms & Privacy: https://impalastudios.com/terms | https://impalastudios.com/privacy \n\nFeedback & Support\nWe'd love to hear from you: support@impalastudios.com\n\n\nAbout Impala Studios\nCreators of popular apps like Flight Tracker +, Weather Radar, Calculator₊, Storm Tracker°, and Alarm Clock, built to make everyday life easier and more enjoyable.\n\n© 2016-2026 Impala Studios",
+      "developer": "Impala Studios",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "SCRL",
+      "version": "9.28",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.dopedevelopment.Panels_9.28.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.dopedevelopment.Panels",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/d1/88c1d187-6363-58e2-07ec-23174741b815/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Unleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.\n\n• Exceptional Collage Maker with Hundreds of Hand-Picked Templates\nStart your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style. \n\nOur design experts hand-pick each template to ensure the highest quality and versatility. Plus, new collage templates are added regularly, so you’ll always have fresh options to choose from.\n\n• Seamless Swipe-Through Carousel Posts\nEasily create stunning swipe-through carousel posts that captivate your audience. Our intuitive design tools make it effortless to merge photos into panoramic carousel posts or create scroll-through collage layouts that flow seamlessly. \n\n• Premade Grid Layouts for Collages\nNow you can create beautiful, cohesive photo grids and Instagram layouts that span multiple photos, giving your feed a stunning, unified look. Combine grids with our photo collage templates, swipe-through carousel posts, and freeform canvas for endless possibilities.\n\n• Add More Than 10 Photos to a Single Post\nBreak the limitations of traditional posts & Instagram layouts. With SCRL, you can add more than 10 photos in a single post, providing more room for your creativity and storytelling. \n\n• Freeform Canvas for Ultimate Creativity\nDesign your way with our freeform canvas. Zoom in and out to perfect every detail or get an overview of your entire project. Create a layout that’s uniquely yours. \n\n• Hundreds of Free Stickers & Overlays \nEnhance your photo collages with our extensive library of stickers and overlays. Add fun and detail to your designs with just a few taps. Whatever your style, you’ll find stickers and overlays that complement your collages & carousels perfectly.\n\n• Instant Posting to Instagram and TikTok\nWhen your masterpiece is ready, post directly to Instagram or TikTok. SCRL streamlines the process, so you can share your work instantly and effortlessly. No more saving, exporting, and re-uploading your photocollages. With SCRL, you can create and post in one seamless workflow. \n\n• SCRL Premium Photo Collage Maker\nTake your designs to the next level with SCRL Premium. Unlock access to all collage templates, instagram layouts, and additional design tools. Add videos into grids, apply gradient backgrounds, and more. Our premium subscription offers weekly and yearly plans to suit your needs.\n\nTRUSTED BY THE BEST\nSCRL is trusted by Grammy Award-winning artists, NBA players, and major international music festivals. We’ve been featured numerous times in the App Store and recognized by top industry publications:\n\n\"14 Best Apps For Instagram Collages in 2023\" - Hootsuite, August 2022\n\"20 Mobile Apps to Create Stunning Social Media Visuals\" - HubSpot, August 2020\n\"8 Trendy Apps To Create Collages For Instagram\" - Later, April 2019\n\nTRIAL AND SUBSCRIPTION TERMS\nStart SCRL Premium Collage Maker with a free 7-day trial. Once the trial is over, you’ll be charged an annual subscription fee. SCRL Premium will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your Settings > iTunes Account & App Store > Apple ID > Subscriptions to manage your subscription and turn auto-renew off. Your iTunes Account will be charged when the purchase is confirmed.\n\nTerms of Use: https://scrl.com/terms-of-service\nPrivacy Policy: https://scrl.com/privacy-policy\n\nFollow @scrlgallery on Instagram for inspiration from our community of users. Add the #scrlgallery Instagram tag on your SCRLs to join the community and get a shout out on our page.\n\nWe love hearing your ideas and feedback. Please DM us on Instagram at @scrlgallery for questions or suggestions.\n\nStart making stunning photo collages with SCRL!",
+      "developer": "Appostrophe AB",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dc/49/2adc49b4-9f3f-6591-8c4c-fe699045fd13/23d473c0-b9bb-4925-b93f-4d4a86fdee0f_IOS_5.5_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/0a/ad/c60aad13-1a70-88ca-965e-2adc602161d4/ec6f8ffc-2c27-451e-a745-f2cfae82591c_IOS_5.5_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b4/bc/20b4bcca-0600-2151-f299-3b91e251bc6f/6c49538e-e386-4dc3-92aa-4fe79e093873_IOS_5.5_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/de/34/f2de346e-7075-a4b1-6f77-fa7ed1126754/b0a13888-f9c2-4362-9adb-4d8ff568581f_IOS_5.5_5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/49/9f/a2499fcd-9038-9385-bee6-99a1ffdd149e/61078484-31d1-447e-a656-a25cb4212285_IOS_5.5_6.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/b4/74/ebb474cf-e5f9-481a-226d-817c45b57b8d/1044b7ba-f80c-4008-81fb-8010ddd32ca7_IOS_5.5_8.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Darkroom",
+      "version": "7.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/co.bergen.Darkroom_7.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "co.bergen.Darkroom",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/3d/31/333d31e7-543b-1010-e057-da0dd8569710/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Transform your iPhone and iPad into a sophisticated editing suite with Darkroom, the highly acclaimed photo and video editor designed to empower both amateur photographers and professional creators. With desktop-quality tools at your fingertips, Darkroom competes with industry giants such as Adobe Lightroom and Photoshop, delivering unparalleled editing experiences right on your mobile device.\n\nAward-Winning App Recognitions:\nWinner of the Apple Design Award in 2020\nApple’s Editor’s Choice since 2018\nBest New App Winner in 2015\n\nWhy Choose Darkroom?\nAdvanced AI-Powered Editing: Leverage cutting-edge AI tools for precise, depth-based edits and intelligent object detection. Enhance specific elements like skies, skin tones, and landscapes with unmatched accuracy.\nVersatile Editing Capabilities: From high-resolution video playback and professional 8K color grading to batch photo editing, Darkroom addresses all your creative needs with efficiency. Its comprehensive toolset includes support for RAW and ProRAW files, making it perfect for high-quality photo projects.\n\nProfessional Tools for Every Creator:\nAll-Inclusive Format Support: Whether managing RAW files or crafting the perfect JPEG, Darkroom provides powerful editing tools that ensure top-tier output for all photo formats.\nTailored for iPhone Photographers: With iPhone-specific enhancements, Darkroom stands out as the premier editing tool for mobile photographers, offering intuitive interfaces and seamless integration with iOS features.\n\nPraise from Experts:\n\"I can't say enough good things about Darkroom. It's fast, beautiful, powerful, and easy to understand and explore. And the team behind it keep improving the app\non a regular basis.\" - John Gruber, Daringfireball\n\"Darkroom is one of the best apps around, offering extensive support for RAW and ProRAW photos and capabilities to batch edit photos with ease.\" – The Verge\n\"Its iPhone-specific features make Darkroom the leading editing app for iPhone photographers.\" – The Sweet Setup\n\nSeamless Organization and Sharing:\nOrganize your photos and videos with Darkroom's advanced management tools. Create stunning collages, manage hashtags effortlessly, and share your creations with ease. Streamline your workflow and keep your collections meticulously organized, whether for personal enjoyment or professional display.\n\nJoin Our Community and Enhance Your Creative Skills:\nBecome a Darkroom member to access exclusive features and regular updates that keep your tools cutting-edge. Our community is a hub for sharing tips, inspiration, and creative techniques.\n\nGet Started with Darkroom Today:\nDownload Darkroom and elevate your photo and video editing to professional levels. With ongoing enhancements and a focus on user-friendly design, Darkroom is dedicated to enriching your creative journey.\n\nSubscription and Membership Details:\nManage your Darkroom+ membership in the iTunes & App Store settings. Remember, subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.\n\nTerms and Conditions: https://darkroom.co/legal/terms.html\nPrivacy Policy: https://darkroom.co/legal/privacy-policy.html",
+      "developer": "Bergen Co.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7b/bc/e47bbcef-41ba-7fa0-4c6f-72efbd1be995/860502cb-b72a-474e-b89c-bcec75b94d34_55-1-masks.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/7d/4c/9f7d4c2f-bade-194a-eb3e-7ce1c60a0496/5ea2eb45-1299-46ee-875a-0746c380cb3f_55-2-sell.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/61/08/246108f9-1efe-3b43-59e9-6fabd260e122/9b66e9ba-536c-4b30-bc2e-5afa6288b487_55-3-presets.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/b4/e0/3db4e046-c41d-5bbd-4c3c-f4e6120cc1e7/8fe53768-1bf0-4553-9c40-b0362e59088e_55-4-grade.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/a3/c5/20a3c5b2-d61b-6187-97d0-aa38347b3aad/241318c3-c766-44c0-b3a0-12d312f8904b_55-5-frame.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/a8/51/85a85115-2b15-893b-2c50-327248c20758/68fdf098-026b-433c-b508-76c786090b39_55-6-batch.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/15/a7/b715a7a9-f56a-294b-8b92-c5642e4d223c/3e0f5c14-ab4e-492a-a09b-631e484615bc_55-7-raw.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/d8/20/4cd820d9-9b5c-5c8b-6752-573763186683/588690f7-95a9-4f9c-a358-bce10aa29bd7_55-8-transform.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/b6/f8/c4b6f899-9679-b214-f255-4e2a9bfa5e0c/4f72f74c-2bf2-40d5-ba4b-af4ffd16be6a_55-9-devices.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/10/3b/b4103bde-d04b-4ea2-2ea1-408543e2617f/f487c300-47ca-406b-ba39-90cb1f4cbc7c_55-10-reviews.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Box Box",
+      "version": "5.3.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/club.boxbox.widgets-ios_5.3.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "club.boxbox.widgets-ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/73/48/f9734812-afa3-83b4-4862-a9331863f84b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Join 3M+ Racing Fans With The Best F1® Widgets & App\n\n\nWe’ve got Lock Screen & Home Screen widgets for live F1 race updates, race schedules, and in-depth stats. Box Box is the most trusted app for Formula 1, F2, F3, and F1 Academy fans worldwide!\n\n\nOur stand-out app features:\n\n→ ⁠Personalised Widgets and Notifications\n→ ‘Head to Head’- select and compare drivers’ season and career stats\n→ Race Weekend schedule and weather updates (in your local time)\n→ Track driver and constructor championship standings\n→ In-depth circuit and driver stats\n→ Breaking motorsport news, education, glossary, and facts\n\n\nOur specialised widgets (Home Screen, Lock Screen, Apple Watch):\n\n→ ⁠Live activity- F1 race updates and standings in real time\n→ Race Schedule- dates, time, countdown, season progress\n→ WDC/WCC standings\n→ Favourite team & driver- points & position\n→ Driver and team badges, photo widget\n\n\nWidgets available in small, medium, & large sizes\n\nDark, Light, Clear and Tinted Modes supported for iPhones & iPads\n\nAvailable in 175+ countries with multilingual support in:\nSpanish | Italian | French | German | Dutch | Portuguese | Arabic | Russian | Chinese | Japanese | Korean | Turkish | Hungarian | Czech\n\nDownload Box Box now and bring the thrill of F1 to your fingertips!\n\n------------\n\n*Box Box Club app is unofficial and is not associated in any way with Formula One companies, any specific Formula 1 team, or any Formula 1 driver. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V. All assets used, including logos, images, and other copyrighted materials, are owned by the respective teams, drivers, and other entities. Box Box Club is an independent entity and does not claim to have any official relationship or partnership with Formula One companies, any specific Formula 1 team (McLaren, Mercedes AMG Petronas, Scuderia Ferrari, Williams, Alpine, Red Bull, VCARB, Stake, Kick, Aston Martin, Haas), or any Formula 1 driver (Lewis Hamilton, Max Verstappen, Charles Leclerc, Lando Norris, Carlos Sainz, Fernando Alonso, Sebastian Vettel, George Russell, Sergio Perez, Daniel Ricciardo). Any references to Formula One, F1®, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX, or related marks are made solely for editorial purposes and do not imply any endorsement, sponsorship, or affiliation by Formula One companies, any specific Formula 1 team, or any Formula 1 driver.\n\nFor details on our Privacy Policy and Terms of Use, please visit:\n\n- https://boxbox.club/Privacy.html\n- https://boxbox.club/Terms.html",
+      "developer": "ARKADE CLUB PRIVATE LIMITED",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Endel",
+      "version": "4.49.67",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.endel.endel_4.49.67.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.endel.endel",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/2d/c6/5c2dc635-66e4-a79c-dce2-62520cda86cd/AppIcon-Original-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.\n\nEndel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.\n\nGet access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:\n\n\n• Focus – boosts your productivity by helping you concentrate for longer\n\n• Sleep – soothes you into a deep sleep with soft, gentle sounds\n\n• Relax – calms your mind to create feelings of comfort and safety\n\n• Move – feel grounded and present while walking, hiking, or running\n\n\nENDEL PREMIUM SUBSCRIPTION\n\n\nAlongside the classics, the Premium package contains the following Endel Soundscapes and features:\n\n\n• Colored Noise – choose one of 9 colors of noise to focus, relax, sleep, and mask outside sound\n\n• Study – improves concentration and keeps you calm while studying or working\n\n• Dynamic Focus – get your perfect productivity support with real-time sound tuning\n\n• Hibernation – nourish your ears with cozy sounds for cold-season slumber\n\n• Nature Elements – nurture the mind with sounds of nature, your way\n\n• Rainy Outside – cozy up to the gentle patter of rain, blended with sleep-aiding sounds\n\n• Recovery – revives your wellbeing with sounds engineered to lower anxiety\n\n• Spatial Orbit – venture into a more peaceful dimension with an immersive Spatial Audio experience\n\n• Focus Timer – the famous interval work method, upgraded with science-backed Focus sounds\n\n\nOn top of the much-loved original Endel soundscapes, Endel works with innovative artists and thinkers to create unique experiences. These collaborative Endel Soundscapes are available for Premium users:\n\n\n• James Blake: Wind Down – prepare your body for sleep with soothing sounds from an award-winning artist\n\n• Grimes: AI Lullaby – supports sleep for babies and adults with original sounds and vocals from Grimes\n\n• Plastikman: Deeper Focus – a deep focus techno soundscape created with Richie Hawtin\n\n• Alan Watts: Wiggly Wisdom – soothing and motivation spoken word soundscape, infused with the playful wisdom from Alan Watts\n\n• Miguel: Clarity Trip – elevate your every step with original sounds from Miguel\n\n\nEndel Pacific is the patented technology that powers our apps and integrations. All soundscapes are available offline.\n\nApart from the Premium sounds and features, Endel Premium users get access to the exclusive Apple Podcast shows.\n\n\nSUBSCRIPTION TERMS\n\n\nSkip the payment screen by tapping “X” in the top-right corner of the offer. The Free Edition of Endel will start automatically.\n\nYou can get access to Endel Premium by subscribing to a recurrent plan of your choice or with a one-time Lifetime purchase.\n\nSubscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period.\n\nPayment will be charged to your Apple account at confirmation of purchase.\n\nAccount will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided.\n\nSubscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase.\n\nNo cancellation of the current subscription is allowed during the active subscription period.\n\nAny unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.\n\n\nFor more information:\n\nTerms of Use - https://endel.zendesk.com/hc/en-us/articles/360003558200\n\nPrivacy Policy - https://endel.zendesk.com/hc/en-us/articles/360003562619",
+      "developer": "Endel",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/74/63/db746385-f34c-f117-2ed5-7637c8a7203e/EN-Store-Screenshot-852_Hz-01.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/4b/07/bf4b07f9-221e-4e3d-4da4-cc7287d54a68/EN-Store-Screenshot-852_Hz-02.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/c5/a6/b6c5a60f-ffe0-d4e4-3407-6d62d8fc58d6/EN-Store-Screenshot-852_Hz-03.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/5e/8b/9a5e8bac-a295-cd85-5e95-eff3c10fe217/EN-Store-Screenshot-852_Hz-04.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/dd/d6/6dddd658-371d-a3aa-a77e-8015328daed1/EN-Store-Screenshot-852_Hz-05.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/06/67/c10667c3-de24-2e32-e358-b9e34e17e579/EN-Store-Screenshot-852_Hz-06.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/84/27/5b84272c-db71-8c54-6b92-358a66bd80e2/EN-Store-Screenshot-852_Hz-07.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/80/d8/f080d85d-a010-f371-1422-0ab6faf254ba/EN-Store-Screenshot-852_Hz-08.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Rest",
+      "version": "3.173.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.evolve.helm_3.173.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.evolve.helm",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/48/2a/d8482a6a-7f46-a036-dfab-393faa742a90/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Sleeping well is really hard. Maybe it’s time to get help. \nFiguring out how to improve your sleep on your own can take months of frustrating trial and error, spending countless hours on Google trying to discern good advice from bad. \n\nWorking with a sleep expert may get you results faster, but top experts can be expensive or have lengthy waiting lists, and you need results now. \n\nIdeally, you could take the expertise of a professional and apply it to your sleep tonight. While having 24/7 availability from them to support you when you need, as well as someone to keep you accountable and motivated. \n\nIntroducing Rest, the world’s first AI sleep coach developed in partnership with sleep experts that walks you through a step by step process to improve your sleep and supports you along the way. \n\n\nWith your Rest Premium Sleep Coach subscription, you get:\n\n- A direct path to better sleep habits \nWe use AI to assess your sleep challenges and match you with the right habits you need to develop for better sleep. Then, we’ll help you make those changes.  \n- Based on a scientifically proven approach \nOur sleep program is based on a clinically proven method and we use technology to personalize it to your life, giving you results fast. \n- Better sleep that sticks \nStay accountable with reminders, check-ins, streaks and daily habit tracking until good sleep becomes second nature. \n- Expertise when you need it most\nProfessional sleep expertise, powered by AI, is always on call to answer your questions and help you solve your challenges with sleep. \n\n\nHow we’ll get you there: \n- Sleep Plan: A personalized sleep plan using scientifically proven sleep improvement techniques created by experts\n- Tasks: Within the plan, we’ll recommend actions you can take throughout the day and night to improve your sleep\n- Ask the Coach: Plus, we’ll explain why each task is important for your health and help you apply it to the context of your life\n- Habit forming Tools: We’ll keep you on track with notifications, reminders and energy check-ins to help you stay accountable\n\nSubscription pricing and terms:\nRest offers an auto-renewing subscription at $79.99 per one year.\n\nThese prices are for United States customers. Pricing in other countries may vary, and actual charges may be converted to your local currency depending on the country of residence.\n\nThe subscription will automatically renew unless turned off in your iTunes Account Settings at least 24 hours before the current period ends. You can go to your iTunes Account settings to manage your subscription and turn off auto-renew. Your iTunes Account will be charged when the purchase is confirmed. If you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed.\n\n\nPrivacy Policy & Terms of Use: https://getrest.app/privacypolicy",
+      "developer": "Evolve Global, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/85/59/a3855969-d4bf-efc1-fcfc-f7071309aebd/5.5_-_Slide_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/34/0e/03340ec1-a3e6-cd3f-52c1-245f97762b4d/5.5_-_Slide_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/05/32/7c053254-64a9-0be7-fea3-0f19a240f735/5.5_-_Slide_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/12/6c/2b126c17-f15c-c72e-c585-4504b188602f/5.5_-_Slide_6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/53/8a/32538a55-34ba-0d84-f460-33c52bcfcd5e/5.5_-_Slide_7.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "PixelColor",
+      "version": "5.48.01",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.djitlabs.pixelcolor_5.48.01.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.djitlabs.pixelcolor",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/ef/2f/f1ef2f61-a717-f003-edc7-ae50cf8ccc30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "The World's 1st Pixel Art app to integrate a unique AI-powered drawing generation!\n\nIntroducing our new app, Pixel Color, the ultimate destination for color-by-numbers enthusiasts! Immerse yourself in a world of addictive gameplay as you choose from a wide variety of super fun images and bring them to life by following the numbers. With our app, coloring has never been easier!\n\nUnleash your inner artist and create stunning pixel art like never before with the revolutionary new feature: Our groundbreaking AI-powered art generation functionality is the first of its kind in the market, allowing you to generate any drawing instantly with just a few taps.\n\nImagine a world where you can transform your ideas into pixel-perfect masterpieces effortlessly. With Pixel Color, that world becomes a reality. Whether you're a seasoned pixel artist or a beginner exploring the wonders of this captivating art form, our app empowers you to bring your imagination to life with unprecedented ease and speed.\n\nExperience the ultimate anti-stress coloring therapy with Pixel Color. Enjoy the soothing and relaxing activity of coloring as you unwind and destress. Take advantage of our key features that make coloring a breeze. Select an image, start coloring, and await the surprise in the end.\n\nWith Pixel Color, you'll enjoy hours of relaxation and fun! Explore our extensive library of over 700 artworks or unleash your creativity by creating your own pixel art thanks to the AI generator feature. Whether you're into Mandalas, Patterns, Animals, Birds, Flowers, Places, Food, or any other theme, we've got a great variety of coloring pages to suit your taste.\n\nDiscover a world of endless possibilities with our daily updated collection of new images, ensuring that you always have fresh content to color.\n\nOur intuitive design and smooth performance make coloring a seamless and enjoyable experience. Say goodbye to the stress of picking up colors and just relax and enjoy the process. Pixel Color makes painting easier than ever before!\n\nDownload Pixel Color now and immerse yourself in the world of color by numbers. Get ready for hours of relaxation, fun, and creativity. \n\nHappy coloring!\n\nRead more about our terms and conditions here:\nTerms of service: https://storage.googleapis.com/mwm-web-static/tou/MWMTermsofUse.html",
+      "developer": "MWM",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/55/2b/cf552bdf-e05b-a2fa-5595-0a40c8e0fb86/233d5980-4447-408f-bd67-3b39d424e6e3_iPhone-01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/8e/4f/8b8e4fdc-45ce-3159-f83a-3cbab3a6a1a3/cf65c294-3199-4192-bc36-58c6d788714e_iPhone-02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/cf/52/35cf526f-e11d-0647-d460-409c6b486e79/0ab4f614-317e-436e-aa22-260abd4edff6_iPhone-03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/bb/2d/4fbb2d13-d599-8cb6-84ca-d2468e6814f7/bf60832a-df1d-4019-9d61-9dacc57115d2_iPhone-04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/71/46/2771468a-f8eb-4e86-5942-900593999e6e/837234b1-9a8f-4ff0-855b-200e3115d2fa_iPhone-05.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/43/71/bc437126-b2f3-a5ed-0664-4a5412c6ca43/20681d7b-1e3b-4624-8b04-40380b85fc83_iPhone-06.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/74/af/da74afc5-08ce-9d26-ef95-709dd4b1282d/24ad1ddf-2190-41ba-b42a-adae545558c1_iPhone-07.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/b1/0e/5eb10e9d-c62c-0463-3f3f-d7cf689e5827/a341d421-9b43-4184-9394-8b898e73eeb9_iPhone-08.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Elevate",
+      "version": "5.229.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.elevateapp.elevate_5.229.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.elevateapp.elevate",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/fe/45/01fe4508-0794-4b95-b14d-c527a223215b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "description": "Elevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequently use Elevate.\n\nIN THE NEWS\n\n“Elevate comes out ahead” in the battle of the brain training apps. – CNET\n\nElevate is a “cognitive pick-me-up” with games that are “good for mental breaks throughout the workday.” – Washington Post.\n\nFEATURES\n\n• 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games.\n• Performance Tracking: Track your progress and compare your mind’s performance over time with weekly reports and insights.\n• Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most.\n• Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging.\n• Workout Calendar: Stay motivated by tracking your training streaks and keeping your mind active daily.\n• And more!\n\nWHY YOU NEED ELEVATE\n\n• Express yourself more effectively in writing. Write with clarity, persuasiveness, and concision.\n• Improve your spelling and punctuation. Avoid common writing pitfalls.\n• Become a better reader. Read everyday materials faster and with greater understanding.\n• Expand your vocabulary.\n• Quickly and easily solve everyday math problems. Get better at comparing prices, splitting bills, and calculating discounts and markups.\n• Speak more effectively. Become more articulate and better at communicating tone and meaning.\n• Keep your mind engaged and challenged every day with short, effective exercises.\n\nRESEARCH BEHIND ELEVATE\n\nElevate's games are designed in collaboration with experts in neuroscience and cognitive learning and are based on extensive scientific research. Elevate’s brain training algorithms further focus the learning experience by drawing from research in memory studies to develop a personalized training program for each member.\n\nELEVATE SUBSCRIPTION TERMS\n\nElevate offers a 7-day free trial as well as a basic free version. To access the free version, tap the X in the upper left-hand corner after you sign up for an account.\n\nIf you choose to subscribe, you will be charged a yearly subscription fee according to your country. The subscription fee will be shown in the app before you complete the payment. Your subscription will automatically renew at the end of each subscription term, unless auto-renewal is turned off at least 24 hours before the end of the term. Subscription renewals cost the same as the original subscription, and your credit card will be charged through your iTunes account at confirmation of purchase.\n\nYou may manage your subscription and turn off auto-renewal at any time after purchase by going to your iTunes Account Settings. Refunds will not be given for any unused portion of the term.\n\nFor additional information, please read our Terms of Service (https://www.elevateapp.com/terms) and Privacy Policy (https://www.elevateapp.com/privacy).",
+      "developer": "The Mind Company",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "duet",
+      "version": "3.1.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.kairos.duet_3.1.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.kairos.duet",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/e6/1dfae6e4-1cad-80b7-9cc7-40cf8e35747a/DuetDisplayAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "description": "#1 best-selling iPad app in US, Japan, UK, Germany, and 17 other countries!\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.\n\n— DO MORE —\nBe twice as productive by multitasking with two screens. And for those that travel, have a portable way to stay productive. \n\n— INCREDIBLY SIMPLE —\nTo get started, plug your iPad into your desktop using your charging cable. The free Duet desktop app will automatically detect your device, and transform it into a high performance touchscreen display.\n\nThere’s no need to worry about unreliable Wi-Fi, laggy performance, pixelated screens or managing network passwords. \n\n— TOUCHSCREEN —\nInteract with Mac & PC like never before, with touch & gestures, including two-finger scrolling, pan and zoom.\n\nAnd with our latest release, you can even add a touch bar to any iPad with any Mac.\n\n— PERFECT FOR APPLE PENCIL —\nWith Duet Pro, you can turn your iPad and Apple Pencil into a professional graphics tablet. We’ve re-engineered our rendering algorithms for ultra-responsive drawing, optimized specifically for designers, illustrators and artists.\n\nDuet Pro also unlocks pressure & tilt sensitivity, hover, palm rejection, and more to seamlessly draw in the most powerful programs for professionals. Get precise control in Photoshop, Corel Painter, Lightroom, ToonBoom, Illustrator, Manga Studio and more. \n\n— PRESS —\nTechCrunch - \"Feels Like Magic\"\nTIME - \"Getting Work Done Faster and More Efficiently\"\nThe Guardian - \"Lag-free\"\nForbes - \"The simple thing to note is this...Duet Display works.\"\nThe Verge - \"Glorious Fluidity\"\nLifehacker - \"It's fast, easy to use, and works great\"\nBusiness Insider - \"Zero lag and true retina resolution”\nWall Street Journal - “It’s as easy as just plugging it in\"\n\n— REVIEWS —\n“Awesome! My iPad Pro can be an extra monitor! Cool app”\n~CEO of T-Mobile, John Legere\n\n“Very smooth and responsive indeed, plus you could use the touch screen to “click” on screen interfaces!”\n~Photographer, Lok Cheung\n\n“Love the ability to use my iPad as a monitor with Duet.”\n~Former Chief Evangelist of Apple, Guy Kawasaki\n\n“Just started using this app called Duet… Kinda love it so far.”\n~Comedian and Youtube, Phillip DeFranco\n\n“All my mac folks look at the Duet app… GREAT!”\n~Actor and Comedian, Sinbad \n\n\"I really like the app, I suppose the biggest compliment I can give is that it's so easy to setup it almost seems like an Apple product.”\n~Early Adopter, M. Nightingale\n\n\"Amazing solution for me by the way. Works as I was hoping for and actually my main reason for getting an iPad : )”\n~Early Adopter, M. Gemzoe\n\nDuet Works With:\nAll iPhones and iPads with iOS 7.0 and later\nAll Macs with 10.9 (Mavericks) and later\nAll PCs with Windows 7 and later\n\nDuet Pro Works With:\nAll iPad Pros with Apple Pencil\nAll Macs with 10.9 (Mavericks) and later\nAll PCs with Windows 8.1 and later (64 bit)\n\nDuet Pro is an optional upgrade for additional features, and price may vary by location. Duet Pro subscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You will not be able to cancel the subscription once activated. Manage Duet Pro in Account Settings after the optional upgrade.\n\nLearn more at http://www.duetdisplay.com\nTerms: https://www.duetdisplay.com/help-center/duet-terms-and-conditions\nPrivacy Policy: https://www.duetdisplay.com/help-center/duet-privacy-policy",
+      "developer": "Duet, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c9/da/acc9da7c-5562-dd17-3f6e-cb4dd6e7227c/pr_source.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/37/36/3b373606-6cce-f7ce-0c76-866c4fc28218/pr_source.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c6/70/7dc6700b-bbab-8374-debe-95aee232e661/mzl.swgojqwm.jpg/406x228bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Duolingo",
+      "version": "7.111.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.duolingo.DuolingoMobile_7.111.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.duolingo.DuolingoMobile",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/2e/fc/8c2efc2c-1efc-50ea-a0b1-16ab54db9102/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn Math, Music, and Chess the Duolingo way!  \n\n• Build real-world math skills – from calculating tips to identifying patterns – and sharpen your mental math in our Math course.\n\n• Learn how to read music and play familiar songs on your device in our Music course – no instrument required.\n\n• Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n\nWhether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.\n\nWhy Duolingo?\n • Duolingo is fun and effective. Game-like lessons and fun characters keep you motivated to build solid skills across language, math, music, and chess.\n\n• Duolingo works. Designed by learning experts, Duolingo has a science-based teaching methodology proven to foster long-term knowledge retention.\n\n• Track your progress. Work toward your learning goals with playful rewards and achievements when you make practicing a daily habit!\n\n• Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\n\n• Every course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian. And now, learn Math, Music, and Chess with our newest courses!\n\nWhat the world is saying about Duolingo:\n\n“Far and away the best language-learning app.” –The Wall Street Journal\n\n“This free app and website is among the most effective language-learning methods I’ve tried… lessons come in the form of brief challenges – speaking, translating, answering multiple-choice questions – that keep me coming back for more.” –The New York Times\n\n“Duolingo may hold the secret to the future of education.” – TIME Magazine\n\n“…Duolingo is cheerful, lighthearted and fun…” - Forbes\n\n“Our favorite language app…” - CNET\n\nIf you like Duolingo, try Super Duolingo for 14 days free! Learn a language fast with no ads, and get fun perks like Unlimited Hearts and Monthly Streak Repair.\n\nIf you choose to purchase Super Duolingo, payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nPrivacy Policy: https://www.duolingo.com/privacy\nTerms of Service: https://www.duolingo.com/terms",
+      "developer": "Duolingo",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Photoshop",
+      "version": "7.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.adobe.photoshop.ios_7.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.adobe.photoshop.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/3b/b4/6a3bb479-d3ae-058a-0b94-d503275a7939/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "Photoshop on mobile is an image editor app with a wide selection of free photo editing tools. Whether you are just getting started or already know Photoshop, it's easier than ever to transform a single photo or blend multiple images into a cohesive design.   \n\nWhat can Photoshop on mobile do?\n- Add new objects with AI\n- Blur or remove backgrounds\n- Replace backgrounds and remove unwanted objects\n- Retouch, refine, and perfect your images with targeted adjustments\n- Combine multiple images to create high-quality compositions \n- Make collages, album cover art, perfect your passion projects, and develop unique digital art\n \nHow to remove or replace backgrounds with Photoshop?\n- Select the backgrounds with the Tap Select tool.\n- Remove backgrounds or replace them with another image, create AI-generated backgrounds with Generative Fill, or select from our large library of Adobe Stock images, textures, filters, and patterns.\n- Adjust the background, brightness, effects, or vibrancy to bring your creations to life.\n\nHow to remove unwanted objects or distractions from photos with Photoshop?\n- To remove an unwanted object from photos is simple with our photo editor:\n- Brush out blemishes, spots, or small imperfections in seconds using the Spot Healing Brush.\n- Remove objects from your images with Generative Fill image assistant.\n \nHow to personalize a photo, image or design with Photoshop?\n- You can personalize your photos, images, or designs with Photoshop in multiple ways:\n- Create stunning visual images that are uniquely yours by blending photos, graphics, text, utilizing effects, and more.\n- Combine unique elements from your own photos with a selection of free Adobe Stock images, to create elevated images.\n- Retouch photos as you like, by selecting an object or person with the Tap Select tool.\n- Remove objects in your image or control how they come together with layers.\n- Easily add and remove content from your photos using simple text prompts with Generative Fill. Ideate, create new assets, and jumpstart your creativity using Generate Image.\n- Photoshop mobile allows you to adjust the color of anything, like your shirt, pants or shoes, using adjustment layers. Use the Tap Select and other selection tools to edit the brightness or vibrancy for a pop of color to your images.\n \nWhat premium features does Photoshop on mobile have?\n- Upgrade to the Photoshop Mobile and Web plan for enhanced control and precision, with access to iPhone, iPad, and web.\n- Easily remove entire objects just by brushing over it, and have the background filled in automatically with the Remove Tool.\n- Seamlessly fill selected portions of an image with content sampled from other parts of the image with Content Aware Fill.\n- Quickly and precisely select people and objects like plants, cars, and more with enhanced precision using Object Select.\n- 100 generative credits to add, expand, design or remove objects and people from your images. \n- Ideate, create new assets, and expand your creativity using the latest features like Generate Image.\n- Change unique layer interactions to control transparency, color effects, filters, and add style to your images with Advanced Blend Modes.\n- Quickly and easily select an object or area of your image based on similar colors and tones with the Magic Wand Tool, and retouch photos further with precise adjustments.\n- Export in additional file formats (PSD, TIFF, JPG, PNG) and export options for print quality and compression.\n \nFacial retouch feature processes data on the device only. No data is stored, processed or retained by Adobe or third parties.\n \nTERMS & CONDITIONS:\nYour use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_linkfree_en and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_linkfree_en\n \nDo not sell or share my personal information: www.adobe.com/go/ca-rights-linkfree",
+      "developer": "Adobe Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Rise Sleep",
+      "version": "0.1.571",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.risesci.nyx_0.1.571.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.risesci.nyx",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/9b/47/759b47e3-ccb3-0aac-8d56-fed25a72f550/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Join over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, smart alarm clocks, habit reminders, and a sleep knowledge library.\n\nFROM THE RISE COMMUNITY\n\n***\nChase M.\n\"RISE helped me understand how vital sleep truly is. In only a few weeks, I found myself more focused, energetic, and productive at work.\"\n\n***\nBecky G.\n\"I could see where sleep debt was causing issues, like temper short, not comprehending things, moving slowly.  I had an epiphany... I'm getting 45min more sleep on average than I was before RISE.\"\n\n\nUNLOCK BETTER SLEEP\nTired of the age-old \"eight hours of shut-eye\" advice? Go beyond buying a new mattress or pillow and discover the life-changing concept of Sleep Debt.\n\nScientifically proven to be a vital factor in your well-being, a low Sleep Debt can improve your life quality and even your longevity—while high Sleep Debt can cause fatigue and harm your health.\n\nRISE calculates your Sleep Debt, helps you understand its impact on your energy, and guides you on how to lower it by improving sleeping habits. Learn about your melatonin window, when to prioritize sleep, and understand the real cost of those late nights—and how you can benefit from naps.\n\nPERSONALIZED SLEEP TRACKER\nDo you find your mind racing when your head hits the pillow? Can’t stop doom-scrolling on your phone? Feeling fatigued all day?\n\nBased on your sleep data, circadian rhythm and research, we’ll make recommendations that fit your needs and guide you toward healthier habits.\n\nRISE will get you in bed on time, guide you when you can’t sleep, reduce the times you wake up at night, and make you feel less groggy in the morning.\n\nDISCOVER YOUR CIRCADIAN RHYTHM\nWe all have an internal brain clock, our circadian rhythm, it signals to our body when to be alert or go into recovery mode. Everyone is unique, from when we perform our best to when we should sleep and wake up. We use advanced algorithms to find your optimal sleep windows.\n\nYou’ll gain insight into your circadian rhythm and energy levels, helping you plan for a productive day.\n\nSleeping refuels energy, and 83% of RISE users feel more energy in a week or less.\n\nAUTOMATICALLY TRACK SLEEP\nThrough our integration with Apple Health, Apple Watch, Fitbit, Oura, and data from other sleep trackers on your phone, like Sleep Cycle and ShutEye, RISE can determine the hours of sleep you get every night, sleep debt, the number of steps you take each day, as well as data from other activities that affect your sleep pattern.\n\nWHY WE STARTED RISE\nWe want to help get ahead of the Insufficient Sleep Epidemic (CDC, 2014) we're experiencing, which has been increasing since 1985. This Epidemic has led to elevated mortality rates (Cappuccio, 2010) as well as underperformance in most aspects of life (RAND, 2016).\n\nToday, we look at sleep as a luxury. RISE strives to create a world where healthy sleep is a necessity.\n\nSubscription pricing & terms\nRISE offers auto-renewing yearly subscriptions to provide unlimited access to all premium features. There’s also a limited-time free trial of 7 days to explore the premium features for free. A Paid Subscription (or free trial) is required to access the content of the app.\n\nPayment will be charged to the credit card connected to your App Store account when you confirm the initial subscription purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Go to your Profile or App Store settings to manage your subscription.\n\nTerms of Service available at: bit.ly/rise-sleep-app-tos",
+      "developer": "Rise Science Inc",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/71/20/1f7120c3-b827-2b78-93f4-a9778d8e9fc0/0177d225-7314-4684-a2e1-6d1c340666be_5.5_SS3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/a3/e3/71a3e394-69ce-361c-332c-14153d4ff5c5/0b5936cc-13d1-4d8f-87ea-14bd6a8b2da4_5.5_SS4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/cd/e7/0fcde7ac-c1b2-2423-ca30-a3d9fba896bb/614eb2fd-bd8f-440b-a22f-59fb19b65f89_5.5_SS5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/06/31/00063188-0c81-e139-8873-198c6545da00/dee1f789-db60-4fe2-a3f1-8fbe8da4de83_5.5_SS6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/3f/26/b33f264b-6015-f3ff-0ad7-cb558f18d507/58fad260-f414-4d1a-a669-85539a8f97ae_5.5_SS7.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/46/51/974651a8-244c-a8a6-f788-2152997c8252/0bcbd3f6-cfaf-4ce5-b804-80df43281741_5.5_SS8.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Power Thesaurus",
+      "version": "2.9.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/org.powerthesaurus.powerthesaurus_2.9.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "org.powerthesaurus.powerthesaurus",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/08/14/29081492-773e-8c2a-e0d5-9ee7ccff48be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "Brought to you by PowerThesaurus.org, the trusted and acclaimed online thesaurus.\nDiscover accurate synonyms, antonyms, definitions and related words — expertly reviewed and continuously refined for clarity and context.\n\nEnjoy a fast, comprehensive, and user-friendly experience built for writers, students, and professionals. Power Thesaurus helps you express ideas clearly and confidently, wherever you write.\n\nKey Features\n\n• Ad-free PRO Membership – unlock more content and seamless browsing\n• Intuitive navigation – a clean, easy-to-use interface\n• Smart filters – narrow results by part of speech, tags, or type\n• Flexible sorting – arrange by rating, alphabet, syllables, or length\n• Quick tools – copy, pronounce, and save words instantly\n• Personal library – favorites and search history at your fingertips\n• Cross-device sync – access your account anywhere\n\nLoved by millions worldwide, Power Thesaurus makes word discovery effortless.\nIf you enjoy the app, please take a moment to rate and review — your feedback helps us improve.\n\nQuestions or suggestions? Contact apple@powerthesaurus.org.\n\nWrite with confidence. Express with precision!\n\nTerms and Conditions: https://www.powerthesaurus.org/_terms_conditions\nPrivacy Policy: https://www.powerthesaurus.org/_privacy_statement",
+      "developer": "Radyushin Pty Ltd",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/db/6b/c4db6b39-96b9-60b0-86b4-7d1be5a4182a/d61e3076-009d-4889-b7f8-c917f0295364_5_5_Easy-to-follow__U0028ios_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/fc/97/85fc97f2-1b40-643b-2055-1e10584682dc/1d703a8a-bcf0-45e6-bbdf-0a8908a8014f_5_5_Comprehensive__U0028ios_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/64/96/23649681-4051-5c84-bd76-83af9a8ee214/7d0c0195-3987-47c7-963c-f5041c3ddc93_5_5_Detailed_analysis__U0028ios_U0029.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Infuse",
+      "version": "8.3.9",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.firecore.infuse_8.3.9.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.firecore.infuse",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/15/1c/be151cfd-07e5-d26d-2488-2f95c3468beb/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
+      "description": "Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, Mac, and Vision. No need to convert files! Infuse is optimized for iOS 26, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.\n\n- PLAY MORE VIDEO TYPES\nA powerful video player that plays just about anything, including MP4, MKV, M4V and MOV – plus many others. Includes support for HDR, HDR10+, Dolby Vision, plus Dolby and DTS audio.\n\n- STREAM FROM OTHER DEVICES\nBrowse and play videos stored on your Mac, PC, NAS, Wi-Fi hard drive, apps like Plex, Emby, and Jellyfin, or from cloud services like Dropbox, Google Drive, OneDrive, Box, pCloud, Yandex.Disk, MEGA, Aliyun Drive, and others – no syncing required!\n\n- AIRPLAY & GOOGLE CAST OPTIONS\nStream a wide variety of videos types such as MKV, MP4, M4V, and others over AirPlay & Google Cast with full surround sound and subtitles.\n\n- TRAKT 2-WAY SYNC\nConnect with Trakt to sync watched history, submit ratings and post comments.\n\n- OPTIMIZED SUBTITLES POWERED BY OPENSUBTITLES\nBring your own subtitles, or download them on the fly (for free) in virtually any language.\n\n===== \n\n“Looks great, plays anything you throw at it...surprisingly powerful”\n- Lifehacker\n\n“The best media player for iPhone and iPad...superior to VLC.”\n- Cult of Mac\n\n“I can't give the UI high enough praise. It's great.”\n- 9to5Mac\n\n“I see no reason whatsoever to remove Infuse from my Home screen anytime soon.”\n- iDownloadBlog \n\n“A beautiful UI.”\n- Trakt co-founder\n\n“A mini Kodi!”\n- Infuse user\n\n=====\n\nMORE THAN JUST A PRETTY FACE\n\nTHE BASICS\n- Silky-smooth video player (plays full 4K w/ HDR & Dolby Vision)\n- Stream from a Mac, PC, NAS or Wi-Fi enabled hard drive\n- Connect with Plex, Emby, Jellyfin, Kodi (XBMC), WMC and other media servers\n- Beautiful layout with quick access to video info\n- Artwork and metadata added automatically\n- Split View & PIP\n- Spatial audio\n\nSUPPORTED FORMATS\n- Video: 33GP, AVI, AV1, ASF, BDMV, DIVX, DVDMEDIA, DVR-MS, FLV, H.264 (AVC), H.265 (HEVC), ISO/IMG, M4V, MKV, MOV, MP4, MPEG, MTS/M2TS, MXF, OGM, OGV, RMVB, TS, VC1, VIDEO_TS, VOB, VP9, WEBM, WMV, WTV\n- Audio: AAC, AC3/E-AC3, DOLBY TRUEHD, DTS, DTS-HD MA, FLAC, MP3, OGG, PCM, WMA\n- Subtitles: DVB, DVDSUB, MICRODVD, MPL2, PGS, SMI, SSA/ASS, SRT, SUB, SUP, TIMED TEXT, TXT, VOBSUB, VTT, XSUB\n\nPLAYER FEATURES\n- Multiple audio tracks\n- Chapters\n- Gesture controls\n- 8 video zoom options\n- Continuous playback\n- TV out via HDMI or VGA adapter\n- Deinterlacing\n\nEXTRAS\n- Folders\n- One-click subtitle downloads from OpenSubtitles\n- Scrobble plays to Trakt\n- Download videos from networked devices\n- Drag and drop uploads via web browser\n- Get extra onboard storage with SanDisk iXpand and other USB drives\n\nGET MORE WITH INFUSE PRO!\n- Play even more video formats\n- Stream video trailers for movies and TV shows\n- Enjoy high-resolution Dolby® and DTS® audio\n- Access videos stored in cloud services like Dropbox, Google Drive, Box, OneDrive, pCloud, Yandex.Disk, MEGA, Aliyun Drive, and more\n- Stream a wide variety of video types over AirPlay and Google Cast\n- Sync libraries, settings, watched history, and playback progress between devices\n\n====\n\nNote: DRM-protected movies & TV shows purchased from the iTunes store are not supported.\n\nMetadata and artwork provided by TMDB, which is a community maintained movie and TV show database.\n\n====\n\nInfuse Pro is available as a optional subscription, and includes a free trial period that begins once your purchase has been confirmed with your iTunes Account. When the trial period concludes, your subscription will start and renew automatically. Your iTunes Account will be charged for the upcoming period unless you disable auto-renew or cancel your subscription in your Account Settings at least 24-hours prior to the end of the current period. Visit firecore.com/terms-privacy for full terms and privacy policy.",
+      "developer": "Firecore, LLC",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "AlevioOS",
+      "version": "2.4.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.alevioos.app_2.4.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.alevioos.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/c2/7c/99c27c3b-2551-60a2-e23f-aa3a1d00df7b/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nAlevioOS is a next-generation AI platform built for mobile. Switch effortlessly between cutting-edge cloud models like Claude, GPT, and more – or run everything fully offline with fast and lightweight local AI like the custom-built Alevio Smart V1.\n\nRun Local AI: Enjoy blazing-fast performance with on-device models – no internet, no data sharing.\n\nCloud Model Access: Tap into powerful AI from industry leaders like Anthropic, OpenAI, and more.\n\nAlevio Smart V1: Our own optimized model designed specifically for mobile use – fast, private, and smart.\n\nImage AI: Create stunning AI images or analyze uploaded visuals in seconds.\n\nSeamless Switching: Choose the right model for every task – cloud or local – with just a tap.\n\nWhether you're experimenting with AI art, analyzing content, or just want full control over your assistant – AlevioOS gives you freedom, flexibility, and speed in one clean experience",
+      "developer": "SILVIA ISABELLA DANYLUK",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "MyFitnessPal",
+      "version": "26.8.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.myfitnesspal.mfp_26.8.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.myfitnesspal.mfp",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/26/be/3c26be82-4069-5379-fa2d-6bb279e5664a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "Achieve your nutrition, calorie, macro, and fitness goals with MyFitnessPal. MyFitnessPal is a comprehensive food and fitness tracker, with everything you need to reach your goals. Macros, calories, food, and workouts – track it all in one place.\n\nChange your habits with fitness and food. Download our health and nutrition app and start your free Premium trial today. With MyFitnessPal, you have access to exclusive food inspiration, an intermittent fasting tracker, fitness logging tools, expert guidance, and the calorie tracker. You’ll soon discover why MyFitnessPal is the #1 nutrition and food tracking app in the U.S and has been featured in the New York Times, Forbes, the Today Show, and U.S. News & World Report.\n\n\nMyFitnessPal is more than a calorie tracker & food journal. Monitor your health and fitness progress within the app.\n\nMYFITNESSPAL FEATURES\n\nFood Tracker – Track Calories & Macros\n■ Food tracking made easy. Quickly log your meals throughout your day from over 20.5 million foods (including restaurant dishes) from one of the largest food databases available\n■ Macro tracker lets you see carbs, fat, & protein breakdown—no need for a separate app! Set goals for macros, protein, sodium, fiber, and more\n■ Make sure you’re staying hydrated with our water tracker\n\nFitness – Track Workouts, Weight, and Progress\n■ Activity Tracker – Add workouts and steps with the integrated fitness tracker\n■ See Your Fitness Progress – Track at a glance, or analyze the details of your diet & macros\n■ Stay Inspired – Keep your diet and fitness routine exciting with workouts and food inspiration\n■ Exercise and Count Calories – See how your workouts, fitness, and diet affect daily calorie goals\n\nWorkouts & Meal Plans, Tailored to You\n■ Customize your health & fitness goals – Weight loss, weight gain, weight maintenance, nutrition, & fitness\n■ Personalized dashboards – Fitness, health, and diet stats are all in one place to easily see and track your progress\n\n■ Add Your Own Meals/Food Tracker – Save recipes and meals for quick logging and keep tabs on your diet\n■ Follow the new easy meal planner to simplify tracking and help hit your goals\n■ Connect 40+ Apps & Devices – From smartwatches, fitness trackers, and other health and fitness apps, track your intake and activity through your watch with WearOS\n■ Get Connected– Find friends and motivation in our active MyFitnessPal forums\n\nPremium\n■ Reach your goals with barcode scan, meal scan, and voice logging\n■ Customize macros and set custom goals\n■ Enjoy ad-free food logging with insights and comparisons built into premium \n■ Net Carbs Mode/Carb Tracker – Keep track of your low-carb or keto diet, view net carbs in your food\n\nPremium Plus - Expanded Features to Help Hit Your Goals\n■ All of the Premium features, like barcode scanning now available with meal planning\n■ Personalized meal plans, integrated grocery delivery, and smart meal tracking tools\n■ Your one-stop shop for meal planning, grocery shopping, food logging, and nutrition insights to help you reach your goals\n■ 1000s of healthy recipes to help you reach your goals\n\nMyFitnessPal is the leading health and nutrition app that helps you learn about your food habits, monitor your diet and conquer your health goals.\n\nDownload Today and Start Your Free Premium Trial\n\nView our terms & conditions and privacy policy: \nhttps://www.myfitnesspal.com/terms-of-service\nhttps://www.myfitnesspal.com/privacy-policy",
+      "developer": "MyFitnessPal, Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Captions",
+      "version": "13.6.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/boomer.Smart-Video_13.6.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "boomer.Smart-Video",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/d9/7c/64d97c57-602c-b2b3-7e4e-3bf3ba47e8d6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "AI EDIT THAT EDITS LIKE A PROFESSIONAL VIDEO EDITOR\n\nBuilt by Mirage™, Captions is an AI video generator and video editor that makes it easy to go from idea to ready-to-share content, no experience needed.\n\nGet started by importing a video or generating engaging content from scratch using text to video. You can create an AI actor or upload a selfie to create a personal avatar, allowing you to produce polished footage of yourself without ever needing to record again. \n\nFrom there, skip the hours spent toggling and tweaking manual edits. Our AI video editor applies editorial discernment to cut scenes, overlay B-roll, and integrate sounds based on your video. Whether you polish your video with our AI edit feature or describe desired changes to our chat-based editor, Captions’ intuitive video maker makes it easy to bring your vision to life.\n\n\nLET AI EDIT FOR YOU\n\n- One-tap AI video editing: Transform raw footage into ready-to-post content instantly with curated effects and trending aesthetics.\n- Edit like you text: Just describe your vision in plain language; our chat-based editor will apply effects, transitions, B-roll, and pacing per your direction.\n\n\nCREATE A PERSONAL AI AVATAR\n\n- AI Twin: Turn a single selfie into a high-quality video of yourself using our AI video generator.\n- AI Actors: Generate talking videos with engaging AI avatars, giving you a digital on-brand spokesperson.\n- Adjust looks: Change outfits, add objects, and switch backgrounds to feature the same AI avatar across unlimited videos.\n\n\n AI-POWERED EDITING TOOLS\n\n- AI Denoise: Automatically remove background noise from talking videos.\n- AI Zoom: Instantly add relevant zooms to your content.\n- AI Scale: Quickly resize videos for whatever aspect ratio you need.\n- AI Hashtags: Automatically generate video captions and hashtags.\n- AI Teleprompter: Read directly from your script while recording in-app.\n- Multiple AI models: Choose from 20+ models to generate music, sounds, and visuals.\n\n\nCAPTIONS AND DUBBING\n\n- AI Dubbing: Dub your content into 29 languages with just a tap of a button.\n- AI Subtitles: Automatically generate accurate captions or subtitles in 91+ languages. You can choose specific fonts and colors too.\n\nCaptions, LLC (US) Developer",
+      "developer": "Captions, LLC (US)",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/18/46/bd184695-f431-6a44-9ed1-5b760fcc68f0/4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/5f/14/c85f1427-5fa0-52f0-a25b-fb81f0c5efc1/4-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/00/b9/f700b917-673e-634a-c602-e66ed6a2f058/5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/5b/f4/055bf473-b8c8-46d5-5840-9d4e22cc2e98/5-1.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "TikTok",
+      "version": "43.9.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.zhiliaoapp.musically_43.9.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.zhiliaoapp.musically",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "TikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highlights, fashion tips to music and trending sounds, your For You feed reflects your current interests and changes based on what surprises and inspires you.\n\nCreating is simple. Capture and post everyday moments and turn them into something special with easy editing tools, effects, sounds, and music. Use our free library of sounds and music in your videos, plus filters and creative tools that help your content stand out. On TikTok, anyone can create, and ideas that inspire pick up momentum.\n\nTikTok is also where discovery becomes part of your everyday life. Find creators to follow, new ideas to try, and products you will love from small businesses and brands around the world. TikTok offers more than 50 preset safety and privacy features, from private accounts and content filters to screen time tools and Family Pairing, so you can choose an experience that works for you. TikTok provides extra support for teens and families on the app, letting you set time and content preferences that feel right for your family. \n\n■ Personalized discovery\nA For You feed that learns what you enjoy. Discover videos, creators, LIVE streams, shopping, and communities based on what you watch, like, and share.\n■ Entertainment, learning, and everything in between\nComedy, gaming, DIY, beauty, sports, music, lifestyle, education, and more. Find content that makes you laugh, think, and try something new.\n■ Simple, powerful creation tools\nRecord in clips, pause and resume, trim and merge, add text and stickers, and fine tune your video without leaving the app.\n■ Sounds, music, and effects\nUse our free library of sounds and music in your videos, plus filters, effects, and creative tools that help you express yourself and make your videos stand out.\n■ A global community of creators\nFollow your favorite creators and discover new voices every day. Share your own story or support the people who inspire you.\n■ Discover and shop with TikTok Shop\nExplore trending products, exclusive deals, and seamless shopping experiences inspired by creators and brands you love, all in one place. Shop directly from videos, LIVE, and the Shop tab, track your orders, and enjoy a safe, secure shopping experience.\n■ Go LIVE and connect in real time\nStart a LIVE to chat with your community, share moments as they happen, and unlock special features and benefits where available.\n■ Tools to shape your experience\nUse more than 50 safety and privacy features, from private accounts and content filters to screen time tools, Family Pairing, and other controls, to choose how TikTok works for you and your family.\n\nReady to see what you discover next? Download TikTok to start watching, creating, and exploring your world in a new way.\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nLearn more about our safety tools, resources, and policies at the TikTok Safety Center: https://www.tiktok.com/safety/en\n\nTerms of Service:\nhttps://www.tiktok.com/legal/terms-of-service\nPrivacy Policy:\nhttps://www.tiktok.com/legal/privacy-policy\nFeedback?\nContact us at https://www.tiktok.com/legal/report/feedback or tweet us @tiktok_us",
+      "developer": "TikTok Ltd.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Balance",
+      "version": "1.197.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.elevateapp.kamino.kamino_1.197.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.elevateapp.kamino.kamino",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c4/83/7bc48322-4493-b578-2616-d6a911dc18b8/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "Improve your stress, sleep, and more with Balance’s personalized guided meditation program.\n\nYOUR PERSONAL MEDITATION COACH\nBalance is your personal meditation coach. Each day, you’ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that’s perfect for you. The more you share over time, the more personalized and effective your meditations become.\n\nLEARN MEDITATION FUNDAMENTALS\nBalance’s daily meditations are organized in 10-day Plans that teach fundamental meditation skills geared toward your goals and needs. You’ll discover how to bring awareness to your day, increase your focus among distractions, and find deep relaxation in moments of stress.\n\nCLEAR YOUR MIND ANYTIME, ANYWHERE\nSingles are bite-sized guided meditations you can use anytime—even on the go. Wake up gently with a morning meditation, stretch, and then make your commute less chaotic with a meditation customized to your journey. Clear your mind with animated breathing exercises, and lower your stress, find energy, and increase your focus with quick Relax, Energize, and Concentrate meditations—and many more.\n\nSLEEP WELL WITH BED-TIME RELAXATION EXERCISES\nYou'll rest easy with our Sleep meditations, Sleep Sounds, and Wind Down activity—a first-of-its-kind interactive that uses bilateral stimulation and controlled breathing to help you relax before bed and find more restful sleep. You'll also experience cutting-edge Immersive Meditations, which blend vibrations, sound effects, and coach guidance to create a brand-new type of meditation experience.\n\nTAKE YOUR MEDITATION PRACTICE TO THE NEXT LEVEL\nGet started with our Foundations Plan, where you’ll train your focus and reduce anxiety. Or, if you already meditate often, start with our Advanced Plan, which helps you take your meditation practice to the next level.\n\nWHAT’S INCLUDED\n- Personalized guided meditations tailored to your mood and goals\n- 10-day Plans to help you develop your meditation skills\n- Bite-sized Single guided meditations you can use to get more out of any moment\n- First-of-their-kind Immersive Meditations to help you relax through a blend of vibration, sound effects, and guidance\n- Research-backed activities to help you relax and prepare for restful sleep\n- Mindful Minutes integration with Apple’s Health app\n- 10 concrete meditation techniques to build your practice: Breath Focus, Body Scan, and more\n\nIn meditation, “one-size-fits-all” fits no one. We all have our own ways of finding relaxation, focus, and rest. With thousands of paths and options, Balance helps you reach your goals—your way—through guided meditation that adapts to you.\n\nSUBSCRIPTION DETAILS\nStart your free trial to experience the benefits of Balance. After the trial, Balance offers two auto-renewing subscriptions at $11.99/month and $69.99/year. These prices are for United States customers, pricing in other countries may vary.\n\nYour subscription will automatically renew at the end of each subscription term unless auto-renewal is turned off at least 24 hours before the end of the term. Subscription renewals cost the same as the original subscription, and your credit card will be charged through your iTunes account at confirmation of purchase.\n\nBalance also offers a Lifetime subscription which is paid for by a one-off upfront payment of $399.99 with unlimited access to the Balance library forever.\n\nFor additional information, please read our Terms of Service (http://www.balanceapp.com/balance-terms.html) and Privacy Policy (http://www.balanceapp.com/balance-privacy.html).",
+      "developer": "The Mind Company",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Textastic",
+      "version": "10.9.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.textasticapp.textastic-universal_10.9.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.textasticapp.textastic-universal",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/d9/a1/c2d9a131-e706-eef7-dd04-100fb340d9c6/Textastic_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Textastic is a comprehensive and versatile text and code editor for iPad and iPhone. It supports syntax highlighting for more than 80 programming and markup languages. Connect to SFTP, FTP, and WebDAV servers or to your Dropbox account. Use the built-in SSH terminal to work directly on your server.\n\nFeatures:\n- Syntax highlighting for more than 80 languages, including HTML, JavaScript, CSS, C++, Swift, Objective-C, Rust, XML, Markdown, PHP, Perl, Python, Ruby, Lua, YAML, JSON, SQL, shell scripts, and many more (full list available on the website)\n- Compatible with Sublime Text 3 and TextMate 1 syntax definitions and themes\n- Code completion for HTML, CSS, JavaScript, C, Objective-C, and PHP\n- SFTP (SSH), FTP, FTPS (FTP over SSL), WebDAV, and Dropbox clients\n- SSH terminal connections\n- Code formatter for HTML, CSS, JavaScript, and JSON\n- Git repositories from the Git client app Working Copy can be opened as external folders in Textastic\n- Emmet support\n- JavaScript console\n- iCloud Drive file synchronization\n- WebDAV server for easy file transfer between Textastic and your Mac or PC over Wi-Fi\n- Symbol list for quick navigation within a file\n- Full support for external keyboards, trackpads, and mice\n- Configurable keyboard shortcuts\n- Additional keys above the virtual keyboard for frequently used programming characters\n- Cursor navigation wheel for easy text selection\n- Move the cursor using swipe gestures\n- Split View and Slide Over multitasking on iPad\n- Open multiple files in tabs\n- Multiple windows on iPadOS\n- Dark Mode support\n- Support for common text encodings such as UTF-8, UTF-16, and ISO-8859-1\n- Support for different tab widths and soft tabs (spaces instead of tabs)\n- Custom fonts\n- Find and Replace, including regular expression search\n- Find in multiple files\n- File information such as character and word counts\n- Local and remote web preview for HTML and Markdown files\n\nPricing:\nTextastic requires a monthly or yearly subscription or a one-time purchase. Each subscription includes a 7-day free trial with full access to all features.\n\nPrivacy Policy: https://www.textasticapp.com/privacy.html\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "developer": "Alexander Blach",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "PeakVisor",
+      "version": "5.83",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/ru.routes.peakvisor_5.83.ipa",
+      "category": "Tweaked",
+      "bundleID": "ru.routes.peakvisor",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/14/e7/d814e7e8-6dd8-af75-c5a5-96b4f6d94b74/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "PeakVisor will make you a champion of mountain navigation, putting state-of-the-art Peak Identification, 3D Maps, Trails, and outdoor GPS tracking into the palm of your hand. Our app is a one-stop shop for all your mountain adventures: hiking, skiing, climbing, mountain biking, and more. But PeakVisor is more than just another outdoors app; it’s an immersion into a carefully crafted 3D world that will give you an unprecedented understanding of the nuances of a mountain’s terrain. \n\n“PeakVisor uses your iPhone’s camera and augmented reality (AR) technology to display names and elevations of nearby peaks. The information will appear on your phone like magic.” \n- App Store, Take the Trail Less Traveled\n\nHere’s a brief orientation on the tools we offer to get oriented in the mountains:\n\n● 3D Maps\nAs human athletic achievement progresses in the mountains, so does the technology to assist your adventures. With PeakVisor, you unlock the topo maps of the future; our cutting-edge technology with high-precision terrain modeling offers deep insight into the mountain landscape of your choice. With one glance, you be blessed with years of knowledge about an area’s terrain.\n\n● Identify Peaks\nIdentify more than a million mountains, hills, buttes, spires, and more from all over the world, with a detailed profile for each of them! Our app shows you altitude, topographic prominence, mountain range, national parks or reserves, as well as photos and additional Wikipedia articles.\n\n● Plan Hiking Routes\nA vast network of worldwide hiking trails and walking pathways included in PeakVisor’s 3D Maps will help you compose a hiking route which includes evaluating the distance you can expect to hike as well as a route’s elevation profile and estimated time for completion.\n\n● Skiing\nIn winter mountain sports, PeakVisor’s topographic 3D Maps allow a visual understanding of the terrain and provide detailed information about mountain lifts, ski resort trails, and backcountry ski touring routes. The app also offers features such as winter mode and a slope steepness overlay to identify avalanche terrain on your route.\n\n● Cable Cars and Mountain Huts are inlaid onto our 3D Maps, complete with schedules. This is especially useful in Europe, where many objectives involve a cable car ride to gain some altitude, lest you want to do some genuinely punishing climbs. And you haven’t experienced the old-world mountain culture until you’ve had a memorable meal and night at a rustic mountain hut in the high country. \n\n● Peak Bagging\nThe app offers monthly climbing challenges and Peak Bagging competitions to keep the motivation where it needs to be…UP.  \n\n● Animated Flyover Videos\nYou can even initiate a ‘Flyover,’ our visually stunning animations that give you a token video of your route to show family and friends or inspire some memories down the road.\n\n● GPS Tracking\nTrack any outdoor adventures, whether hiking, skiing, mountain biking, etc. Post-adventure, you can visualize your route in the miniature 3D world, check out stats like distance and elevation gain, and export a GPX file of your new route.\n\n● Lock-Screen Navigation\n\n● All Features Work Offline\n\nPeakVisor is the Swiss army knife for outdoor adventure, one that you will soon find indispensable while in the mountains. With so many features at your fingertips, you’ll find value from the app whenever you're on the trail.\n\nPeakVisor PRO is a premium subscription that allows you to use the app without any limitations. By subscribing to PeakVisor PRO you make it possible for us to focus on the continued development of the app. PeakVisor PRO is available as a monthly or annual subscription. We have no advertising on the app; all revenue comes from our user subscriptions. We constantly modify the app and offer an update each week, always with new features and fewer bugs. You may find more details in our Terms and Privacy Policy by the link → https://peakvisor.com/en/terms.html",
+      "developer": "Routes Software SRL",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Tripsy",
+      "version": "3.7.11",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/app.tripsy.ios_3.7.11.ipa",
+      "category": "Tweaked",
+      "bundleID": "app.tripsy.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/a0/44/e9a04403-02d5-5915-0b5f-2a287df38da2/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "description": "Tripsy - Trip Planner & Itinerary Organizer is the complete travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\n\nPlan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends notifications for upcoming events. Whether you're organizing a romantic getaway or coordinating group travel with friends and family, Tripsy makes trip planning effortless.\n\nThe app also tracks your spending and manages your travel stats automatically, giving you insights like the number of countries visited, time and distance traveled, and much more.\n\nYour Travel Companion On Every Trip:\n\n– 10-day weather forecasts for all destinations\n– Real-time flight updates and notifications\n– Offline access to your complete itinerary\n– Automatic time zone adjustments\n– Seamless itinerary sharing and collaboration\n\nWhat Others Are Saying:\n\n– App Store Featured: \"Making the most of your holiday time requires some planning. With Tripsy, that's plain sailing. Enter flight times, hotels, and places you want to visit, then share your itinerary with your travel mates with a tap of a button.\"\n– MacStories: \"Tripsy does what I've long wished for: offers a compelling trip planning experience in a modern app that takes advantage of iOS' core technology strengths.\"\n– 9to5Mac: \"The app's interface is extremely user-friendly, and it also offers data syncing in the cloud, automation services, and Siri Shortcuts.\"\n\nKey Features:\n\n– Itinerary Organizer: Keep all travel information—flights, hotels, restaurants, tours—in one beautifully organized trip planner\n– Collaborative Planning: Share your trip itinerary with travel companions and plan together in real-time—perfect for group travel and couples travel\n– Weather Forecasts: Get 10-day forecasts for all your destinations\n– Expense Tracking: Monitor travel spending and stay on budget\n– Travel Stats: Track countries visited, flight time, distance traveled, and more\n– Flight Updates: Receive real-time push notifications for gate changes and delays\n– Memory Keeper: Store and share travel photos, notes, videos, and documents\n– Smart Import: Automatically import reservations from 700+ providers including Booking.com, Hotels.com, and major airlines\n– Calendar Sync: Sync your itinerary with your calendar for seamless organization\n– Navigation: One-click access to Waze, Google Maps, and Uber\n– Customization: Personalize your trip itinerary with background images or colors\n– Time Zones: Configure activities to display correct local times\n– Export: Export itineraries, lists, and expenses to CSV\n\nPerfect for:\n– Solo travelers seeking an organized itinerary maker\n– Couples travel planning romantic getaways together\n– Group travel coordination with friends and family\n– Business trips and conference planning\n– Multi-destination adventures\n\nTripsy is free to use, but for access to advanced features like expense tracking and document storage, upgrade to Tripsy Pro. Pro is available with weekly, monthly, and yearly subscription options, or as a one-time lifetime purchase.\n\nTerms of Service: https://tripsy.app/terms\nPrivacy Policy: https://tripsy.app/policy",
+      "developer": "Tripsy LLC",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "1Blocker",
+      "version": "6.4.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.khanov.BlockerX_6.4.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.khanov.BlockerX",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/46/bc/6e46bcdc-3e5d-fa07-7787-4eda164284d0/Blocker-AppStore-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "1Blocker lets you block obtrusive ads, sneaky trackers, and annoying elements on sites. With 1Blocker, you’re safe online and nothing will distract you from enjoying sites.\n\n1Blocker is very easy to use — just flip a couple of switches to start blocking ads and trackers. The app will automatically receive cloud updates to the built-in filters silently, so you don’t need to do anything. It’s as simple as setting and forgetting.\n\n1Blocker is a fully native app designed to extend Safari naturally. It’s lightweight and doesn’t drain your battery by taking up your device’s resources.\n\nThe blocking itself is super fast because Safari does it itself. We only provide filters to Safari and don’t modify webpages in any way. This vastly improves efficiency because Safari knows in advance what should be blocked. So, with 1Blocker, sites load on average 2-5x faster.\n\nIt’s important to note that not all ads can be blocked though. Some sites use techniques that make it impossible for us to block their ads using currently available features for Safari content blockers.\n\nSECURE BY DESIGN\n\n1Blocker is secure and private. It doesn’t have access to webpages and doesn’t track you in any way.\n\nWe believe that privacy is not for sale. That's why we don't have an \"Acceptable Ads\" program. We stay independent, and the only way we make money is through direct sales of 1Blocker in the App Store to you.\n\nADVANCED CUSTOMIZATION\n\n1Blocker is a highly customizable content blocker, providing the possibility to create powerful custom rules. It allows you to create custom rules that block any URL by providing a regular expression or hide any element by CSS. It also lets you block cookies. (Available in Premium)\n\nAVAILABLE ON ALL DEVICES\n\n1Blocker is available for iPhone, iPad, and Mac. Your preferences and custom rules are always in sync through iCloud no matter which device you're using.\n\nFEATURED IN THE PRESS\n\n1Blocker has been featured in TechCrunch, Lifehacker, MacStories, Macworld, and many more.\n\nFEATURES AVAILABLE FOR FREE\n\n• The ability to enable one category (for example, Block Ads only)\n• Whitelisting sites right from the Safari extension\n• Whitelist synchronization between devices via iCloud\n\nFRIENDLY SUPPORT\n\nSend your feedback at @1BlockerApp on Twitter or via email. Your feedback is always very welcome and considered for the next release.\n\n\nWe have been making 1Blocker since 2015. We believe it’s the best all-around package currently available in the App Store.\n\nPrivacy Policy: https://1blocker.com/privacy\nTerms of Use: https://1blocker.com/terms",
+      "developer": "1Blocker LLC",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "CARROT",
+      "version": "6.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.grailr.CARROTweather_6.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.grailr.CARROTweather",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/7e/1e/227e1ec8-3bf0-bc25-554c-80e87220d4f0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "CARROT Weather is a crazy-powerful (and privacy-conscious) weather app that delivers hilariously twisted forecasts. \n\n** Winner of Apple's App of the Year, Apple Design Award, and App Store Editors' Choice. Featured by The New York Times, Good Morning America, CNN, Wired, & more! ** \n\nOverflowing With Personality\nChoose one of five personalities for CARROT, from the straitlaced “professional” to the profanity-laden “overkill.” You’ll actually be looking forward to a torrential downpour just to see what your weather robot has in store for you!\n\nAccurate & Detailed\nCARROT’s super accurate weather data gives you lightning-quick access to your current, hourly, and daily forecasts. And the easy-to-read details screens are just dripping with with meteorological goodness. \n\nPrivacy First\nYour personal information, including your location data, will never be sold to third parties.\n\nMore Than A Weather App\nComplete activities to strengthen your relationship with the homicidal A.I. Follow clues to track down 150+ secret locations. Unlock 80+ achievements. Film your own TV-news-style weather report videos. Or use Augmented Reality Mode to bring CARROT right into your living room.\n\nJoin Premium Club to unlock:\n\n- More weather data sources, including The Weather Channel, AccuWeather, and Apple Weather\n- Notifications, including precipitation, weather alerts, and lightning strikes (where available)\n- Lock & Home Screen widgets \n- Live Activities\n- Apple Watch complications and background updates \n- Weather maps with next-hour radar, individual radar stations, and many different layers (where available)\n- Customization of the entire user interface\n- CarPlay app\n- And so much more!\n\nDon’t make CARROT angry. Download her now!\n\n---\n\nCARROT Weather uses auto-renewing subscriptions. \n\nPremium provides additional features like weather data sources, notifications, customization, widgets, and Apple Watch complications.\n\nPremium Ultra includes all the features of Premium, plus rain, lightning, and storm cell notifications (where available), a CarPlay app, super-res radar, a weather maps widget, and quick data source switching.\n\nPremium Family includes all the features of Premium Ultra, with the added benefit of being shareable with up to five family members via Apple’s Family Sharing service. \n\nPayment will be charged to your Apple ID account at the confirmation of purchase. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase. Cancellation of the current active subscription period is not allowed.\n\nTerms of Use: http://support.meetcarrot.com/weather/terms.html\nPrivacy Policy: http://support.meetcarrot.com/weather/privacypolicy.html",
+      "developer": "Grailr LLC",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/86/1aae86aa-2bbd-ae86-aedf-6bcf3ed08bd2/6561375a-42cc-4ccb-aa9b-71298cef0d58_phone-1-1_copy.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/57/f4/bb57f420-ac2f-d39e-a76e-f58c470bcc04/4cd4e55b-7815-4586-8e2f-bd75207a2950_phone-1-2_copy.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/ec/56/1fec565d-ba6a-c7a7-ef33-ec54181d6c9a/36cce7c2-2ad6-4946-82eb-b4532b41cceb_phone-1-3_copy.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f2/db/c5f2dbdb-d300-5b19-e91e-14673911fea4/8baae691-6c1b-425f-86f9-2a3617b3fcea_phone-chonk-widget.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/f4/77/dbf47751-e7c4-4e13-f4da-eb292758e917/d7345edb-d5f1-463c-b739-8c12c0474b53_phone-chonk-notifications.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d0/9f/96d09fa8-0f20-7080-7647-5bc000c05667/3008cf4a-5ef1-4125-8b3b-46b3880b5849_phone-chonk-watch.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/05/87/0a0587ab-5731-d8b9-f1f9-fd039cc71ea2/728544ce-ef31-454c-8543-0bc30bc7df37_phone-chonk-forecast.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/08/e6/0d08e64e-8db5-d8c2-187f-bd93cb24d101/ac4a3cb0-ad9e-4d7b-b12d-4a718ec816ef_phone-chonk-customization.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/2a/80/e82a8080-7a3e-d007-6058-0056500347a9/0a17c586-f68b-428d-bfd0-b9a0b8806bc7_phone-chonk-station.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/b4/f9/42b4f9e5-790b-47d8-bd40-b6973119dd81/d20982a0-ae71-4dd2-a032-c9a062912ea1_phone-chonk-fun.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Notability",
+      "version": "15.4.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.gingerlabs.Notability_15.4.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.gingerlabs.Notability",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/53/9c/de539cac-7e47-8cad-052e-384072cec73c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "From your first lecture to your next big meeting, Notability helps you think, learn, and work better. Take handwritten notes, annotate documents, record audio, and stay organized in one place so your ideas are always clear, searchable, and ready when you need them.\n\nFREE DIGITAL NOTES FOR WORK & SCHOOL\n• Write, type, or sketch with digital ink, highlighters, and text tools.\n• Mark up anything: PDFs, textbooks, lecture slides, images, and more.\n• Combine handwriting, typed text, images, diagrams, and sketches on the same page.\n• Stay organized with customizable folders and subjects that grow with you.\n\nFOR PROFESSIONALS: WORK SMARTER AND SAVE TIME\n• Mark up documents, capture meetings, organize ideas, and present with confidence.\n• Import and handwrite on any document: PDFs, DOCs, presentations, reports, and more.\n• Fill out forms in the office or on a job site.\n• Combine handwriting, text, photos and documents in one place.\n• Record calls and meetings to transcribe voice in real-time. Audio is synced to your notes so nothing is missed.\n• Receive automated meeting notes, takeaways, and summaries.\n• Search handwriting, transcripts, text, and PDFs to quickly revisit decisions and action items.\n• Present notes, documents, and ideas in full screen, with a laser pointer to guide attention.\n• View and edit two notes side-by-side to stay focused and productive.\n• Share a PDF of your note in one tap.\n\nFOR STUDENTS: STUDY SMARTER AND ACE EXAMS\n• Take handwritten notes digitally or annotate lecture slides or your textbooks.\n• Record lectures and get instant audio transcripts and real-time summaries in your notes.\n• Audio recordings are synced to the exact moment you write in a note — perfect for lectures.\n• Import lecture slides, textbook PDFs, and assignments into organized folders and subjects.\n• Search across handwriting, typed notes, and transcripts to instantly find content from classes.\n• Study content from your note with personalized quizzes and flashcards to practice with active recall.\n• Chat with your notes to review concepts, clarify ideas, and prepare for exams.\n \nWORK YOUR WAY\n• Seamlessly switch between handwriting and typing.\n• Import files instantly and keep everything connected.\n• Share notes easily to collaborate or get feedback when needed.\n• Access your notes across iPad, iPhone, Mac, and the web.\n• Create beautiful notes using templates from the Notability Gallery.\n\nUPGRADE TO A NOTABILITY SUBSCRIPTION\nNotability is free to use. With an upgraded subscription, you can receive:\n• Unlimited note-taking\n• AI-powered productivity and study tools\n• Handwriting recognition and math conversion\n• Live Audio transcripts\n• Auto-backup and iCloud sync\n\nDownload for free on iPad, iPhone, Mac, and web.\nPrivacy Policy: notability.com/privacy\nTerms of Service: notability.com/terms",
+      "developer": "Ginger Labs",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/35/3e/d3353edb-1003-a353-74a8-deedb53a63ca/3-iPhone55-EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/39/19/8b391919-a0c5-8a8f-ac1c-d9b8c7247540/4-iPhone55-EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/b3/244cb35c-927c-99c4-f018-9494f121e8d6/5-iPhone55-EN.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "PicsArt",
+      "version": "29.4.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.picsart.studio_29.4.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.picsart.studio",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/af/12/9caf1214-1f7d-bdbb-d37e-0487be5ebba0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Ignite your creative potential with Picsart — the all-in-one, AI-powered design studio that’s free and easy to use. From pro-quality business designs to next-gen AI art, Picsart is the perfect companion for any creative project that lets you go from inspiration to creation in a flash. Easily switch scenes with Background Remover, finesse your photos & videos with effects, filters, and powerful photo & video editor tools, create inspiring mood boards with photo collages, and more with a full suite of intuitive graphic design tools. \n\n\nKick-start projects with Templates \n\n• Accelerate your design process with customizable graphic design templates made by professional editors.\n• Make templates your own with just a few taps and create stunning brand logos, social stories, business cards, and more.\n\n\nTransform designs with Background Remover tools\n \n• Use advanced AI to create pro-quality product shots for your business. \n• Perfect for online sellers and solopreneurs, Smart Background seamlessly merges contextually suitable backgrounds using easy photo editor tools. \n• Switching backdrops is easy with the Background Remover tool. Make precise changes with easy graphic design editor tools and create fresh aesthetic styles.\n\n\nGet creative with AI \n\n• Make any low-quality image pop with the easy AI Enhance photo editor tool.\n• Remove Object quickly cleans up pictures and removes unwanted objects from the frame.\n• Apply stylized AI filters to your shots to create stunning photo effects.\n• Use AI Replace to instantly transform images with fun face swaps, hair color changes, selfie edits, and more.\n• From memorable quotes for social to compelling captions for marketing campaigns, Picsart’s AI Writer creates unique texts for all your content needs.\n• Turn text into AI art with the AI Image Generator and create customizable images and GIFs automatically.\n• Explore endless opportunities using AI Expand, the game-changing photo editor tool that seamlessly extends the boundaries of any image by adding new content that’s identical to the original. \n• Upload selfies to generate unique, customized AI avatar portraits in different styles.\n\n\nEdit videos like a pro\n\n• Create videos that shine on any platform. \n• Use the easy video editor to create and edit clips with music.\n• Take your IG Stories, TikToks & Reels to the next level.\n• Try retouch video effects and other trendy filters in the video editor.\n• Add your best moments to a video collage.\n\n\nAdd your flavor with the sticker maker\n\n• Discover 60+ million options in the Picsart sticker maker library.\n• Add stickers to pictures to turn up the fun level on your graphic designs or showcase special business promos.\n• Use the sticker maker to create your own custom stickers.\n\n\nTell your story in text \n\n• Create unforgettable designs by adding text to images with the Picsart Text Editor. \n• Discover 100s of classic and trending fonts to create the look you want.\n• Craft your own unique text styles with powerful customization options that elevate your graphic design game.\n\n\nDiscover endless inspiration\n\n• From solopreneurs to graphic design enthusiasts, AI art pioneers, photo editors and more, share your ideas, and get inspiration for that next big project with Picsart Spaces.\n\n\nCreate collage magic\n \n• Create on-trend photo collages with your favorite pictures. \n• Try photo grid collage or freestyle collage for mood boards and frames for selfies and pictures\n• Use the social media Story Maker and level up your Instagram game with templates.\n\n\nUpgrade your design experience: \n\nPICSART Plus\n\nIn addition to Background Remover and photo & video editing tools, elevate your graphic designs with premium content, templates, and retouch features. \n\nPicsart Pro\n\nExplore more premium possibilities with access to more AI tools, extra team seats for small businesses, and more storage space.\nTerms and conditions: https://picsart.com/terms-and-conditions\nAbout Ads: https://picsart.com/privacy-policy#interest-base",
+      "developer": "PicsArt, Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Water Reminder",
+      "version": "1.10.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.vgfit.waterreminder_1.10.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.vgfit.waterreminder",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/1e/08/4a1e08fa-caac-5fc6-19f0-d8d21077e91d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "Water is essential to our life, drinking enough and right quantity of water is vital for our health. Water Reminder by VGFIT will help you to calculate, how much water your body needs, will track your hydration and gently remind you to drink water to fulfill your goal.\n\n* Improve your health with personal drink notification.\n* Create custom drink volumes easily.\n* Schedule notifications according to the time you wake up and sleep.\n* Choose the interval between notifications.\n* Track your historical consumption during the day, week and month.\n* Track your daily nutrition values.\n* It is Good for weight Loss and it is the base of every healthy diet.\n* Supports Imperial ( fl. oz. ) and Metric ( ml. ) units.\n* Drinking enough water, will improve your health.\n\nWater Reminder uses HealthKit in order to record drinking data to Nutrition section in Health application. The app requests access to the following data types: Water, Caffeine, Protein, Dietary Energy, Fat, Carbs and Sugars. When you add a drink to the app - it automatically sends to Health app the following nutritional information of that drink: water, caffeine, protein, calories, fat, carbs and sugars content. The synchronization with Apple Health can be switched off in the application Settings.\n\nAs a Water Reminder app user, you can choose the subscription plan that best suits your needs. Our Premium 1-year subscription plan offers unlimited access to all drinks, notification sounds, app widget, watch and remove all advertising in exchange for a single payment. In addition, 1-month subscription is available for users. For your convenience, subscriptions are set to automatically renew within the 24-hour period prior to the subscription end date. You can cancel your subscription at any moment in your iTunes account settings but refunds will not be provided for any unused portion of the terms. Payment will be charged to iTunes Account at confirmation of purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nTerms of Use: https://vgfit.com/terms\nPrivacy Policy: https://vgfit.com/privacy\nDo you have questions or feedback? Feel free to contact us at support@vgfit.com",
+      "developer": "VGFIT LLC",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/73/e0/9b/73e09b74-ca81-9496-8684-5e4179e141eb/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/78/a1/7d78a1b4-84fe-c743-1478-a0b739036446/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/ae/e1/22aee19a-e5a2-3e5c-72d8-eaf09246d474/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ca/45/12/ca4512cd-f1e2-9d77-b272-8cf2d53a6a04/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d7/7d/40/d77d4042-4175-3ef9-afcb-44f3ad33bcea/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/b7/91/cab791f2-2967-6b27-e38c-ebbec7b199a4/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9d/59/a9/9d59a9a6-838e-4a17-a40e-fc12b0613007/pr_source.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Buddy",
+      "version": "13.27",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.iPwners.Plonkan_13.27.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.iPwners.Plonkan",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/d2/12/9cd2120a-dbfd-46ef-1fb0-6a3decddd379/Buddy-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "description": "Buddy helps you set up a budget and keep track of your expenses, either by yourself or together with your loved ones.\nHere’s what is waiting for you inside:\n\n\nBUDGETS\nBuddy will help you not to overspend on your well-earned salary by setting up a budget plan that fits you. \nDo you want a shared budget with your partner? Or keep the expenses between you and your mates fair on the vacation? No problem, just invite them and get a clear picture of who spent what.\n\nCONNECT YOUR BANK\nImport all transactions from your bank account into Buddy and see how your budget is doing.\n\nOVERVIEW\nWe'll give you a beautiful & detailed overview of your spendings, income, and savings.\n\nSPLIT\nSplit lets you know who paid what, and how to settle up.\n\n\nAnd much more for you to find.\nTake control of your finance today!\n\nBuddy offers a $9.99 monthly renewing and a $49.99 yearly renewing subscription to unlock Premium functionality.\nThe purchase will be charged from your iTunes account if you choose to buy the Buddy Premium subscription. You can manage or cancel your subscription through the user settings in iTunes after the purchase. The subscription period ends with the same kind of subscription you already bought to the same price unless you turn off your subscription 24 hours before it renews. It is not possible to cancel your current subscription during the time your subscription is active.\n\nTerms & Conditions: http://www.nattkod.tech/privacy_policy_terms_conditions",
+      "developer": "Buddy Budgeting AB",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Cleanup",
+      "version": "6.11.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.codeway.cleanerplus_6.11.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.codeway.cleanerplus",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/7a/62/427a62d2-d227-e975-aa41-b22b4332c32e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "Clean up your iPhone and optimize storage in seconds. \n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and promotional emails\n- Delete unused contacts and tidy up your address book\n- Free up storage instantly with one tap.\n\nCLEAN YOUR GALLERY FAST - DELETE DUPLICATE PHOTOS\nNo more manual browsing. Cleanup makes it easy:\n- Instantly detect and delete duplicate photos\n- Smart grouping for similar photos, with “Best” marked\n- Remove large, lookalike videos\n- Identify and delete screenshots in bulk\n\nEMAIL CLEANER - DECLUTTER YOUR INBOX\nDeclutter your inbox in seconds:\n- Highlight and remove promo, spam, and unread emails\n- Clear out junk with one tap\n\nCONTACTS CLEANUP\nKeep your contacts organized and up to date:\n- Merge duplicates\n- Remove incomplete or unused entries\n- View and edit from one place\n\nCOMPRESS VIDEOS  - SAVE SPACE, KEEP QUALITY\nSave storage without deleting memories:\n- Compress large files with minimal quality loss\n- Select exactly which videos to compress\n\nCHARGING ANIMATIONS\nTurn charging into a personal moment with vivid, customizable animations.\n\nSECRET SPACE – HIDE WHAT’S PERSONAL\nHide personal content in a secure, PIN-protected vault only you can access.\n\nWIDGETS\nAdd instant cleanup tools to your Home and Lock Screens:\n- Battery and storage widgets\n- Tap to launch cleanup features quickly\n\nREVIEW BEFORE YOU DELETE\nNothing is removed without your approval.  After each cleaning session, you get a final review screen to double-check your selections.\n No accidental deletions, no surprises — you're always in control.\n\nOFFLINE AND PRIVATE\nYour data stays private:\n- No internet connection needed\n- No files leave your phone\n- No tracking or data misuse\n\nYour privacy is fully protected — even we can’t access your photos.\n\n\n\nPayment & Subscription Terms:\n\n\nChoose between the following subscription options for unlimited access to all features:\n\n\n• Weekly Subscription\n• Lifetime Subscription\n\n\nFREE TRIAL FOR 7 DAYS - OFFERING UNLIMITED GALLERY CLEANING FOR A LIMITED TIME\n\n\n***You may cancel your subscription at any time***\n\n\nCleanup’s free trial allows you unlimited access to all features for the duration of 7 days. Your account will be automatically charged for renewal, based on the annual subscription plan, within 24 hours before the end of the 7 days free trial period.\n\n\nYou can cancel auto-renewal at any time, given that the cancellation is at least 24 hours before the end of the current period. Any unused portion of a free trial period will be forfeited when making a purchase of an auto-renewing subscription.\n\n\n***Manage your subscription directly from your iPhone***\nSubscriptions can be managed by the user and auto-renewal can be turned off by going to the Account Settings:\n- Open the Settings app.\n- Tap your name.\n- Tap Subscriptions.\n- Tap the subscription that you want to manage.\n\n\nPrivacy policy: https://cleanup.photos/privacy\nTerms of use: https://cleanup.photos/terms",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Sleep Cycle",
+      "version": "6.26.7",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.lexwarelabs.goodmorning_6.26.7.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.lexwarelabs.goodmorning",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/37/c4/7137c419-fbfe-0478-cfae-4f461b673440/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Built on science, Sleep Cycle uses sound analysis to track and improve sleep for over 3 million users worldwide. Our AI sleep coach, sleep tracker and Smart Alarm clock app help users to identify potential sleep issues, gain valuable insights into their sleep patterns and build a healthier sleep routine.\n\nSleep Cycle is the world’s no.1 sleep app with more than 40 million downloads. Track your rest, wake refreshed, and build lifelong sleep habits.\n\nAWARDS & RECOGNITIONS\nSleep Cycle has been awarded Best Sleep App in 2024 by Digital Health Magazine and featured as App of the Month in Wellness Today. In 2024, Sleep Cycle won two Merit Healthcare Awards: Gold for Mobile Digital Health Resources and Silver for Best Use of Artificial Intelligence.\n\nWITH SLEEP CYCLE YOU CAN\n• Get guidance based on your sleep patterns with our AI sleep coach Luma. \n• Wake up gently during your lightest sleep phase with our Smart Alarm clock.\n• Track every night using patented sound technology or accelerometer-based sleep detection, no wearables needed.\n• Detect nighttime noises like snoring, coughing, or sleep talking, for a path to quieter sleep.\n• Drift off easily using our sleep sounds library of relaxing stories, sleepy soundscapes and guided meditations.\n• Understand your sleep patterns with long-term trends and compare your sleep to global benchmarks.\n• Log sleep notes to understand how caffeine, stress, or exercise affect your rest.\n\nWHY USE SLEEP CYCLE?\n• Wake feeling refreshed with no more groggy mornings.\n• Get daily stats to help you understand your rest.\n• Sleep guidance based on your tracked nights.\n• Health insights with snoring and cough tracking for wellness.\n• No gadgets, just place your phone on the nightstand.\n• Premium tools like supportive soundscapes, sleep stories, data export, Philips HUE sunrise and Apple Health sync.\n\nABOUT SLEEP CYCLE\nSleep Cycle helps you sleep smarter. Track your nights, gain valuable insights into your sleep patterns, and wake at just the right time to start the day energized. Sleep Cycle gives you science-backed tools and an AI sleep coach Luma to help you improve your sleep for brighter days.\n\nOur popular features include:\n• Superior sleep tracker.\n• AI sleep coach.\n• Smart Alarm clock.\n• Sleep talking recorder.\n• Advanced sleep analysis.\n• Snore tracker.\n• Sleep timer. \n• Cough recorder.\n• Sleep stages.\n• Sleep programs.\n• SleepGPT.\n• Sleep goal and score.\n• Relaxing sleep sounds like nature, rain and ocean sounds.\n• Sleep Aid including calming meditations and breathing exercises.\n• And more features to help you improve your rest.\n\n\nTALK TO US\nIf you need any help please contact our customer service at support.sleepcycle.com\n \nJOIN THE COMMUNITY\n ▶ Web: https://sleepcycle.com/\n ▶ Instagram: https://www.instagram.com/sleepcycleapp/\n ▶ TikTok: https://www.tiktok.com/@sleep_cycle\n ▶ Reddit: https://www.reddit.com/r/sleepcycle/\n\nTerms & Privacy\nhttps://www.sleepcycle.com/privacy-policy/ \n\nDOWNLOAD NOW – Sleep Better with Sleep Cycle",
+      "developer": "Sleep Cycle AB",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "SimplyDraw",
+      "version": "1.6.12",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.joytunes.Draw_1.6.12.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.joytunes.Draw",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/83/f2/5583f2df-85eb-b97e-29a1-d669cbb4679b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Learn and practice drawing beautiful pencil drawings on paper.\n\n Creator Reviews:\n* “Simply Draw makes creating art a very calming and fun experience! The app inspires you to draw your own way and gives you a personalized path that teaches you exactly what you’re interested in. It’s truly the best way to learn and develop your skills.”\n* “Simply Draw made me hang my art on the fridge! Never in my life did I ever think I’d be proud enough of my work to do something like that, it’s really amazing”.\n\nFeatures (AKA: Why it’s amazing)\n* Receive a customized learning journey- Learn to draw what interests you!\n* Draw along with easy-to-follow video tutorials made by professional artists and teachers.\n* Learn at your own time, your own pace.\n* Learn and master new drawing skills.\n* Get insightful tips and tricks to help you even with the most challenging drawings.\n* New drawing sessions added weekly.\n\nPrivacy policy: https://www.hellosimply.com/legal/privacy\nTerms of use: https://www.hellosimply.com/legal/terms",
+      "developer": "Simply Ltd",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "SimplySing",
+      "version": "3.0.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.joytunes.Sing_3.0.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.joytunes.Sing",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/0a/29/080a29b6-55d9-9d5a-ca8d-575d2926d470/AppIcon-new-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "With Simply Sing, you’ll feel confident singing the songs you love. \n\nIf you've ever felt that singing well was beyond your reach, that changes now.​ Believing you can starts here. \n\nNAIL SONGS YOU LOVE\nNo more struggling to hit notes—the app finds your voice type, adjusts songs to you, and gives feedback to help you sing them better\n\nGROW WITH SINGING TIPS\nStart with easy songs and unlock levels to take on more challenging ones, with daily tips that keep you growing\n\nLEVEL UP YOUR CONFIDENCE\nThe more you sing, the more natural it feels—until one day, you're tackling songs you never thought possible\n \n--- Share your feedback ---\n\nFeel free to reach out to us about your experience with Simply Sing through the in-app chat by tapping \"Have a Question” in the menu.\n\n--- Part of the Simply family ---\n\nSimply Sing is created by Simply, developers of award-winning apps Simply Piano and Simply Guitar. Simply are experts in creating educational and fun music apps. Recommended and used by millions of people worldwide.\n\nAwards & Recognition:\n- “Editors' Choice” by Apple\n- SF Music Tech Summit Startup Innovators Challenge Winner\n- Best Tool for Beginners, NAMM\n- EMI Innovation Challenge Award\n\nPrivacy policy: https://www.hellosimply.com/legal/privacy\nTerms of use: https://www.hellosimply.com/legal/terms",
+      "developer": "Simply Ltd",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/a8/6d/caa86d47-4f66-38fd-6de1-45c8e344271d/80124bc5-c119-4a00-980e-1131fb7afd56_5.5_-_7.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/cb/e3/b2cbe3c2-d630-8c72-c076-c4c81b365fc9/a9b51ee4-6e46-4cdb-82e1-c37a243b9d4e_5.5_-_8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/4a/b9/3d4ab9f1-98a9-8f15-60ea-90c42f1c2cde/e5c26c98-5b09-42eb-8dbd-a697fdb8a757_5.5_-_9.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/54/03/5b540343-70fa-4a59-53d3-eb85797f8dc5/e8a421fb-d0fc-4afc-8767-fb5d5e273a4e_5.5_-_10.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/2b/d6/4c2bd6d9-764d-97ee-b3f7-c71ecf609e7b/caec5150-8dad-40eb-b447-49efea4eec52_5.5_-_11.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/65/cf/c665cf04-1c77-f278-733e-4c930723a69b/a98734bb-4180-4d12-af4a-eb1a01f45211_5.5_-_12.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "The Weather",
+      "version": "2.0.15",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.impalastudios.theweatherfree_2.0.15.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.impalastudios.theweatherfree",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/af/50/14af506a-a500-692c-26cb-321f61546ed9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "Weather is with you! Simply check any Local Weather Forecast, see details such as wind direction and Track the Rain, Storm, Snow, or Hail LIVE Radar to plan your day.\nSimple & accessible free weather app.\n\nWEATHER FORECAST\n• Hourly, up to 10 Days\n• Humidity, Precipitation, Pressure, and Visibility details\n• Wind direction & Speed details\n• 'Feels like' temperature\n• UV-Index\n• Sunrise & Sunset times\n\nPRECIPITATION RADAR LIVE\n• Rain, Snow, Drizzle, Hail\n\n• Unlimited Amount of Saved Locations\n• Supports Split View & Dark Mode\n\n\nSUBSCRIPTION\nUpgrade to a Premium Membership:\n• Hurricane Radar • Extended Rain Radar • Premium Customer Support • Ad Free\n\nSTORM TRACKER: HURRICANES, CYCLONES, TORNADOES, AND TYPHOONS\nStay on top of the hurricane’s development, its predicted path (and changes of such), wind speed, wind quadrants, and much more.\n*Display of active hurricanes, tropical storms, heavy storms, and tornadoes are part of the subscription.\n\nYOUR EXPERIENCE IS IMPORTANT TO US!\nWe’re very happy with your feedback, questions, and suggestions.\nOur support team is always ready to help via support@impalastudios.com.\n\nLOVING WEATHER?\nPlease show your support by rating us! Thank you.\n\nDATA SOURCES\nWe use data from Foreca, Naval Meteorology & Oceanography Command, and NOAA, amongst others. The data refreshes every fifteen to sixty minutes.\n\nTerms & Conditions: https://impalastudios.com/terms  Privacy Policy: https://impalastudios.com/privacy",
+      "developer": "Impala Studios",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/c1/f3/e9c1f350-9828-a2e2-eddb-bc2216b6f6ee/bbd74268-4cd3-44dd-9e6f-1dbab685557e_iPhone_5.5_SC_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/70/f3/7370f331-4094-86e4-afc5-6239308a5162/2d249b90-14ae-4823-8eb0-a3f65049d4c7_iPhone_5.5_SC_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/e7/55/7ce7555a-5514-24bf-7ea3-b5b1eddbfd95/345227dd-90e1-4a0a-9d5b-b3a77bf188b5_iPhone_5.5_SC_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/c5/15/91c5159a-81b7-47a1-bb49-72d36e144a1c/537bee1b-db67-4a5c-b719-6c5acadb7c7c_iPhone_5.5_SC_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ce/90/63/ce9063a3-d01c-eae4-46b2-d60c3c9f1e3d/7139e849-7216-461f-aae6-3b4def7db0b5_iPhone_5.5_SC_5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/16/48/131648b6-68f8-f937-1519-5770fe980ad4/cb8d77fe-4316-4722-91c0-6552d4d67e71_iPhone_5.5_SC_6.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Weather ·",
+      "version": "4.1.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.yoyoapps.weather_4.1.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.yoyoapps.weather",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/ba/d9/7ebad9f3-8efd-2f59-e0e0-684f1f0e9fd4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Experience the weather like never before.\nWeather Pro combines elegant design with precise weather data to help you plan your day with confidence.\n\nGet real-time rain alerts, explore an interactive weather radar, and check hyperlocal forecasts for the next hours or the next 10 days — all in one beautifully designed app.\n\nKey Features:\n\nAccurate & Real-Time Forecasts\nStay ahead with precise, up-to-the-minute weather updates powered by reliable data sources.\n\nRain & Severe Weather Alerts\nReceive instant notifications about rain, storms, and severe conditions before they reach you.\n\nInteractive Weather Radar\nTrack live weather patterns with a smooth, zoomable radar built for clarity and speed.\n\nMultiple Location Tracking\nMonitor weather conditions in multiple cities to stay connected wherever you go.\n\nImmersive Weather Animations\nEnjoy dynamic visuals that reflect real-time conditions in a stunning, realistic way.\n\nClean & Intuitive Design\nNavigate effortlessly through a thoughtfully crafted interface designed for simplicity and elegance.\n\nWhether you're planning your commute, a weekend trip, or simply deciding what to wear — Weather Pro gives you the clarity you need.\n\nDownload Weather Pro today and never get caught in the rain again.\n\nLinks to our ToS and Privacy Policy\nhttp://www.bucketlistlabs.com/TermsOfUse.html\nhttp://www.bucketlistlabs.com/PrivacyPolicy.html",
+      "developer": "BUCKET LIST LABS S.L.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/b4/b9/04b4b930-3f25-1f1e-dc57-f5b4d07830f6/a0b0c064-4b16-46ef-b985-6660f73ac72d_ECRAN_1_-_1242_x_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/2c/58/962c58ff-5ba0-40e1-ebad-98fbdb2717bd/3e719613-7c22-42c4-83b0-29ead19a5be2_ECRAN_2_-_1242_x_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/21/40/d22140f7-3ef3-c204-9fa8-bf17b595605d/50c36dc3-e80d-4d98-a3a2-9568155dc344_ECRAN_3_-_1242_x_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/57/2a/33572aa9-c090-c638-ed46-122b70dceddd/050e0167-fb3d-4ed3-ae93-e53985885326_ECRAN_4_-_1242_x_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/2b/5b/352b5bfd-f244-45e6-84af-8a374eadbc89/a3b5a729-abe8-4995-ba67-37228b9fd4c0_ECRAN_5_-_1242_x_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/99/1e/97991e44-b84e-c2f3-2398-124ec76e8733/5d9090c2-0c50-46a8-8e42-d12265cd85a6_ECRAN_6_-_1242_x_2208.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "FitnessAI",
+      "version": "15.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.jakemor.firness-ai_15.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.jakemor.firness-ai",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/f5/d2/69f5d245-b717-2af5-0be0-2a7ff154a726/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "Workout at home or at the gym with FitnessAI’s advanced training algorithm to guide you through the perfect set, rep and weight combination to reach your fitness goals.\n \n● Get results with whatever equipment you have available to you. Whether your fitness goals are to build muscle, get toned or lose weight fast, FitnessAI is the simplest way to access a world class training regiment.\n \n● Our easy to follow gym and home workouts are backed by data, not intuition. FitnessAI’s simple layout allows for easy exercise tracking for your full body workout.\n \n● FitnessAI plans your gym sessions and optimizing for health, strength and fitness. It’s algorithm offers high rep modes to help you get toned, as well as advanced progressive overload optimizations to help you build mass while weight lifting. Get stronger, faster at home or the gym.\n\n● Your personal trainer in your pocket offers the most effective gym / home exercises  that target your back, biceps, chest, triceps, shoulder, legs, core workouts and weight lifting ab exercises. Specializing in both beginner weight lifting exercises and advance strength training techniques, FitnessAI is sure to help you at the gym.\n \n● The best weight lifting app / best weightlifting gym routine designed by weightlifters, for weightlifters. Based on 5.9M workouts, our innovative algorithm is sure to out-perform any human personal trainer or fitness coach at the gym. Not to mention, it’s a fraction of the cost, and smarter! Finally a weight lifting app that does what a weight lifting app is meant to do!\n \n● Optimized gym workouts make your weight lifting routine as efficient as possible at the gym. Our gym routine is top notch and sure to help you get stronger, and reach your fitness goals\n \n● Set your mind on a workout or fitness goal and let Fitness AI do the rest. Smart exercise planner schedules weightlifting exercises on a better schedule than common 5x5 routines. Whether you’re lifting with free weights, barbells or machines, FitnessAI’s gym log and tracker is sure to exceed your weight lifting expectations.\n \n● A personalized weight lifting plan to get you leaner, stronger or bigger, faster than any personal trainer or fitness coach you find at the gym. Build your workout based on your strength-training history. Log your exercises and FitnessAI’s algorithm will do the rest.\n \n● Fitness AI builds you a personalized daily weight lifting and cardio plan that pushes you to your limits at the gym\n \n● Fitness AI automatically optimizes weight lifting sets, reps and weights for each exercise every time you work out — pushing you the perfect amount to build muscle efficiently. Much better than a gym trainer!\n \n● Our algorithm is based on 40k weight lifters and gym goers over a 3-year period — one of the largest weightlifting datasets in the world.\n \n● Our personalized weightlifting routine is balanced and boosts major muscle groups. Toggle between weight lifting workouts each day at the gym.\n \n● Weight lifting schedule incredibly easy to use ― focus on your fitness workout not your phone (or your gym trainer).\n\nHEALTHKIT INTEGRATION\n\nSync your FitnessAI workouts with Apple Health (activate in FitnessAI Settings -> HealthKit).\n\nSUBSCRIPTION DETAILS\n \nPayment will be charged to your iTunes account. Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of the current subscription period. Automatic renewals will cost the same price you were originally charged for the subscription. You can turn off auto-renewal at any time by going to your Account Settings on the App Store after purchase.\n\nPrivacy Policy: https://www.fitnessai.com/privacy\nTerms of Use: https://www.fitnessai.com/terms\nSupport: hello@fitnessai.com",
+      "developer": "FitnessAI Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Radarbot",
+      "version": "9.36",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.iteration-mobile.radarbot-free-ww_9.36.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.iteration-mobile.radarbot-free-ww",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/c0/aa/63c0aa70-6ec1-e0d3-a548-0ee573eac2c2/AppIcon-lite-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Radarbot is the only app that offers real-time alerts and offline detection for speed cameras. Get comprehensive speed camera alerts, real-time traffic updates, and specific speed limit notifications for cars, motorcycles, trucks, and commercial vehicles. Focus on what matters and enjoy your trip.\n\nWith Radarbot, drive more peacefully. Safer. Better.\n\nSPEED CAMERA ALERTS\nEnjoy driving without worrying about your driver’s license or safety. Avoid traffic fines with clear warnings before reaching:\n\n- Fixed speed cameras\n- Speed trap hotspots.\n- Tunnel speed cameras.\n- Average speed cameras (the app shows your average speed).\n- Red light cameras.\n- School zones cameras.\n\nPlus, get alerts for:\n- Dangerous driving areas.\n- Seat belt or cell phone use cameras.\n- Potholes and speed bumps on the road.\n\n* FEATURES:\n- Works in any country.\n- Compatible with other apps (Use Radarbot along with other GPS navigators or your favorite music app). You will continue to receive alerts in the background or while the screen is turned off.\n- Voice and sound alerts for speed cameras and speed limits.\n- Vibration mode for motorcyclists.\n- Completely personalized warning distances and settings.\n- Automatic Bluetooth connection and startup.\n- Compatible with Apple Watch.\n\nREAL-TIME ALERTS\nReal-time alerts will warn you of unexpected circumstances. Join a community of over 100 million drivers to share and receive alerts about traffic jams, road hazards, accidents, mobile speed cameras, police, helicopters, drones and much more.\n\nUPDATED RADARS\nRadarbot has the most powerful and updated speed and red light camera database in the world with real-time alerts from millions of users and experts.\n\nRADARBOT WORLDWIDE\nTry our FREE version with no time limits. For the full experience, upgrade to \"Radarbot GOLD\" or \"Radarbot GOLD RoadPro\" for integrated GPS navigation and no ads.\n\nGPS NAVIGATION AND SPEED LIMITS\nThe GOLD version provides everything you need on the road: GPS navigation, speed camera alerts, and speed limits. Reach your destination safely, even without an internet connection. Travel and receive speed cameras alerts all over the world, without worrying about mobile network coverage.\n\nWhere would you like to go?\n\n* FEATURES:\n- Offline navigation and 3D maps.\n- Option to choose a route with fewer radars.\n- Road speed limits.\n- Alert for school areas and their radars.\n- Radarbot copilot. Put your seat belt on!\n\nARE YOU A PROFESSIONAL DRIVER?\n\"Radarbot GOLD RoadPro\" includes everything a professional driver could need:\n\n- Routes with special restrictions for trucks and commercial vehicles.\n- Speed limits and specific radars for trucks.\n- Distance alerts adapted to heavy vehicles.\n\nIf you have any doubts or questions, we would be more than happy to assist you at radarbot@iteration-mobile.com or from the customer support option within the app.\n\nDownload Radarbot now and become a member of the \"Enjoy driving!\" movement.\n\n* The continuous use of GPS in the background can drastically reduce the battery life.",
+      "developer": "Iteration Mobile S.L",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Lampa",
+      "version": "2.0.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.lampa.photo_2.0.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.lampa.photo",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/61/f3/8861f364-d6e2-a5fb-cbe9-7ca3edd7b05b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "Lampa is a camera app for those who seek honest images and an analog look. It helps you get the most natural images without HDR or AI-driven effects and make soft, nostalgic photos and videos. The result feels balanced and film-like, ready straight from the camera without post-editing.\n\nNATURALLY PROCESSED PHOTO AND VIDEO\n— Minimal processing due to our own In-House Image Capture Engine. Lampa captures RAW data and processes it immediately with profiles. You get a result that can’t be achieved by editing photos taken with a standard camera.\n— True-to-life light depth, natural skin tones, and soft details.\n\nFILM AND DIGICAM COLOR PROFILES\n— Carefully tuned profiles inspired by 35mm film and compact digital cameras. Each profile is built around a specific tonal idea, from soft nostalgic tones to crisp digicam highlights and subtle halation.\n— Photo and video have a finished look, no editing required.\n\nVIDEO RECORDING\n— Video is naturally processed* and color graded with color profiles and dynamic grain.\n— Custom settings include up to 4K 60FPS and stabilization options.\n* Fully natural video processing is available on devices that support Log recording — iPhone 15/16/17 Pro\n\nIMAGE EDITING\nAdjust profiles and exposure after shooting. With RAW data, you can push or pull a lot of detail.\n\nRAW EXPORT\nExport RAW files for additional flexibility in external editors.\n\nINTUITIVE CAMERA INTERFACE\nIntuitive gestures and one-hand control. Quick access from the Lock Screen and Control Center.\n\n100% PRIVATE\nWe respect your privacy and do not collect or store your photos or any personal information.\n\nLAMPA MEMBERSHIP\nMembership is available as a subscription or lifetime purchase and unlocks:\n– Unlimited captures\n– Image redevelopment\n– RAW export\n– Access to all color profiles\n– Ongoing updates\n\nThe free version includes 5 captures per day with limited functionality.\n\nFor feedback: lampa.camera@gmail.com\nTerms of Use: https://lampa.notion.site/Terms-of-Use-for-Lampa-Alternative-Camera-20cb2ee4a1054970b26875d0d8606cdf\nPrivacy Policy: https://lampa.notion.site/Privacy-Policy-for-Lampa-Alternative-Camera-823d4b88775b4c5e9dc5b0faf392de1d",
+      "developer": "Alexey Teplonogov",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "YouTube",
+      "version": "21.08.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.google.ios.youtube_21.08.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.google.ios.youtube",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d1/36/8bd136c3-1844-128e-41c0-472731be32b8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "description": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore different topics, what’s popular, and on the rise (available in select countries)\n● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more\n● See what’s trending on YouTube and around the world on Explore\n● Learn about the coolest Creators, Gamers, and Artists on the Rise (available in select countries)\n\nConnect with the YouTube community\n● Keep up with your favorites creators with Posts, Stories, Premieres, and Live streams\n● Join the conversation with comments and interact with creators and other community members\n\nCreate content from your mobile device\n● Create or upload your own videos directly in the app\n● Engage with your audience in real time with live streaming right from the app\n\nFind the experience that fits you and your family (available in select countries)\n● Every family has their own approach to online video. Learn about your options: the YouTube Kids app or a new parent supervised experience on YouTube at youtube.com/myfamily\n\nSupport creators you love with channel memberships (available in select countries)\n● Join channels that offer paid monthly memberships and support their work\n● Get access to exclusive perks from the channel & become part of their members community\n● Stand out in comments and live chats with a loyalty badge next to your username\n\nUpgrade to YouTube Premium (available in select countries)\n● Watch videos uninterrupted by ads, while using other apps, or when the screen is locked\n● Save videos for when you really need them – like when you’re on a plane or commuting\n● Get access to YouTube Music Premium as part of your benefits\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice.\nPrivacy policy: https://www.google.com/policies/privacy",
+      "developer": "Google",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "X",
+      "version": "11.66",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/com.atebits.Tweetie2-11.66-1772448506024/BHX.11.66.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.atebits.Tweetie2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/b4/3a/14b43a76-a196-e5b9-6013-99169daf9b2e/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "description": "Welcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re always in the loop with relevant trending topics and breaking news, delivered instantly to your screen, raw and unfiltered.\n\nWhat You Can Do on X:\n• Follow breaking news from around the world before it hits the headlines, and stay ahead of the curve with real-time updates on trending topics and viral conversations.\n• Post your thoughts, photos, and videos with a global community. Join millions of users in shaping public dialogue across social, cultural, and political conversations.\n• Discover Grok, the AI assistant powered by X’s real-time data. You can ask Grok to summarize trending news, explain videos, or give you more context about posts.\n• Stream live video or go live with Spaces, our audio feature that enables you to host discussions, hold interviews, or start your next live podcast. Whether you're streaming a concert, a live game, or your thoughts on a hot topic, X keeps your audience engaged.\n• Watch videos: from live breaking news and sports clips to podcasts and gaming sessions that last up to 3 hours long. Many of the world’s leading voices, in comedy, gaming, podcasting, and politics, all share their content on X.\n• Connect and chat privately with friends, followers, customers, or collaborators through Direct Messages.\n• Join and build communities tailored to your interests: from sports news, gaming, entertainment, crypto, entrepreneurship, tech, and more.\n• Subscribe to X Premium to unlock exclusive features like a blue checkmark, boosted visibility, prioritized replies, fewer ads, longer videos, and post editing. X Premium also gives you access to creator revenue sharing and the ability to offer exclusive content to subscribers.\n\nWhy X?\nIn a world of constant change, X is your real-time source to stay ahead of the curve, connect with people, and explore diverse perspectives. From breaking live news and trending memes to top podcasts and live streams from your favorite creators, X brings it all together in one powerful social experience.\n\nPrivacy Policy: https://x.com/privacy\nTerms and Conditions: https://x.com/tos",
+      "developer": "X Corp.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    }
+  ]
 }
