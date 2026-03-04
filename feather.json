@@ -3,6 +3,216 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "duet",
+      "bundleIdentifier": "com.kairos.duet",
+      "developerName": "Duet, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/e6/1dfae6e4-1cad-80b7-9cc7-40cf8e35747a/DuetDisplayAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDuet Display\n\n• Bundle ID: com.kairos.duet\n• Updated to: 3.1.2\n• Minimum iOS: 12.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "3.1.2",
+          "date": "2026-03-04",
+          "size": 44148097,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.kairos.duet_DuetDisplay_3.1.2.ipa"
+        },
+        {
+          "version": "3.1.1",
+          "date": "2026-03-02",
+          "size": 44148089,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.kairos.duet_3.1.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.1.2",
+      "versionDate": "2026-03-04T10:54:24.240Z",
+      "size": 44148097,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.kairos.duet_DuetDisplay_3.1.2.ipa"
+    },
+    {
+      "name": "Rest",
+      "bundleIdentifier": "com.evolve.helm",
+      "developerName": "Evolve Global, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/48/2a/d8482a6a-7f46-a036-dfab-393faa742a90/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nRest: Fix Your Sleep For Good\n\n• Bundle ID: com.evolve.helm\n• Updated to: 3.175\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "3.174.0",
+          "date": "2026-03-04",
+          "size": 172716985,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.evolve.helm_AutoRcSideload_3.174.0.ipa"
+        },
+        {
+          "version": "3.173.0",
+          "date": "2026-03-02",
+          "size": 169749441,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.evolve.helm_3.173.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.174.0",
+      "versionDate": "2026-03-04T10:54:02.463Z",
+      "size": 172716985,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.evolve.helm_AutoRcSideload_3.174.0.ipa"
+    },
+    {
+      "name": "Happy Scale",
+      "bundleIdentifier": "com.frontpocketsoftware.happyscale",
+      "developerName": "Front Pocket Software LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/f5/42/edf54269-409c-b161-271e-3ac9780545ae/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nHappy Scale\n\n• Bundle ID: com.frontpocketsoftware.happyscale\n• Updated to: 2026.4\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "2026.4",
+          "date": "2026-03-04",
+          "size": 40311059,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.frontpocketsoftware.happyscale_AutoRcSideload_2026.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.4",
+      "versionDate": "2026-03-04T10:52:49.160Z",
+      "size": 40311059,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.frontpocketsoftware.happyscale_AutoRcSideload_2026.4.ipa"
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Duolingo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/2e/fc/8c2efc2c-1efc-50ea-a0b1-16ab54db9102/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDuolingo - Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.112.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "7.112.1",
+          "date": "2026-03-04",
+          "size": 201539313,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.duolingo.DuolingoMobile_Duolingo_7.112.1.ipa"
+        },
+        {
+          "version": "7.111.0",
+          "date": "2026-03-02",
+          "size": 200661987,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.duolingo.DuolingoMobile_7.111.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "7.112.1",
+      "versionDate": "2026-03-04T10:52:27.151Z",
+      "size": 201539313,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.duolingo.DuolingoMobile_Duolingo_7.112.1.ipa"
+    },
+    {
+      "name": "Coconote",
+      "bundleIdentifier": "com.bbauman.Scripty",
+      "developerName": "Quizlet Inc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/58/b7/6258b7d1-80f2-f565-ac1d-249e40cb110e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nCoconote - AI Note Taker\n\n• Bundle ID: com.bbauman.Scripty\n• Updated to: 2.41\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nFilepicker fix by ChocolateFluffy\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "2.41",
+          "date": "2026-03-04",
+          "size": 50124099,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.bbauman.Scripty_FilePickerFix_2.41.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.41",
+      "versionDate": "2026-03-04T10:51:01.036Z",
+      "size": 50124099,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.bbauman.Scripty_FilePickerFix_2.41.ipa"
+    },
+    {
+      "name": "MyFitnessPal",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "developerName": "MyFitnessPal, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/26/be/3c26be82-4069-5379-fa2d-6bb279e5664a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.9.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "26.9.0",
+          "date": "2026-03-04",
+          "size": 142491010,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.myfitnesspal.mfp_sideloadKeychainfix_26.9.0.ipa"
+        },
+        {
+          "version": "26.8.0",
+          "date": "2026-03-02",
+          "size": 142299391,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.myfitnesspal.mfp_26.8.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.9.0",
+      "versionDate": "2026-03-04T10:50:35.542Z",
+      "size": 142491010,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.myfitnesspal.mfp_sideloadKeychainfix_26.9.0.ipa"
+    },
+    {
+      "name": "Premiere",
+      "bundleIdentifier": "com.adobe.premiere.ios",
+      "developerName": "Adobe Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/ea/74/b8ea7490-b6b6-066b-4b9e-b41ae94bb166/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAdobe Premiere: Video Editor\n\n• Bundle ID: com.adobe.premiere.ios\n• Updated to: 26.7.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "26.7.0",
+          "date": "2026-03-04",
+          "size": 75344555,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.adobe.premiere.ios_FilePickerFix_26.7.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.7.0",
+      "versionDate": "2026-03-04T10:49:34.477Z",
+      "size": 75344555,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.adobe.premiere.ios_FilePickerFix_26.7.0.ipa"
+    },
+    {
+      "name": "Scanner",
+      "bundleIdentifier": "scannerapp.free",
+      "developerName": "Luni",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/09/18/ec09186a-f1d4-6144-09d7-876647a1279a/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nScanner ·\n\n• Bundle ID: scannerapp.free\n• Updated to: 2.11.1\n• Minimum iOS: 15.4\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "2.11.1",
+          "date": "2026-03-04",
+          "size": 41098251,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/scannerapp.free_ScannerApp_2.11.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.11.1",
+      "versionDate": "2026-03-04T10:48:51.021Z",
+      "size": 41098251,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/scannerapp.free_ScannerApp_2.11.1.ipa"
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d1/36/8bd136c3-1844-128e-41c0-472731be32b8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore different topics, what’s popular, and on the rise (available in select countries)\n● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more\n● See what’s trending on YouTube and around the world on Explore\n● Learn about the coolest Creators, Gamers, and Artists on the Rise (available in select countries)\n\nConnect with the YouTube community\n● Keep up with your favorites creators with Posts, Stories, Premieres, and Live streams\n● Join the conversation with comments and interact with creators and other community members\n\nCreate content from your mobile device\n● Create or upload your own videos directly in the app\n● Engage with your audience in real time with live streaming right from the app\n\nFind the experience that fits you and your family (available in select countries)\n● Every family has their own approach to online video. Learn about your options: the YouTube Kids app or a new parent supervised experience on YouTube at youtube.com/myfamily\n\nSupport creators you love with channel memberships (available in select countries)\n● Join channels that offer paid monthly memberships and support their work\n● Get access to exclusive perks from the channel & become part of their members community\n● Stand out in comments and live chats with a loyalty badge next to your username\n\nUpgrade to YouTube Premium (available in select countries)\n● Watch videos uninterrupted by ads, while using other apps, or when the screen is locked\n● Save videos for when you really need them – like when you’re on a plane or commuting\n● Get access to YouTube Music Premium as part of your benefits\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice.\nPrivacy policy: https://www.google.com/policies/privacy",
+      "versions": [
+        {
+          "version": "21.09.2",
+          "date": "2026-03-04",
+          "size": 124519546,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.google.ios.youtube_YouSpeed_21.09.2.ipa"
+        },
+        {
+          "version": "21.08.3",
+          "date": "2026-03-02",
+          "size": 294290564,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.google.ios.youtube_21.08.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "21.09.2",
+      "versionDate": "2026-03-04T10:48:28.708Z",
+      "size": 124519546,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-04/com.google.ios.youtube_YouSpeed_21.09.2.ipa"
+    },
+    {
       "name": "Slopes",
       "bundleIdentifier": "com.consumedbycode.slopes",
       "developerName": "Breakpoint Studio LLC",
@@ -162,16 +372,10 @@
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-03/com.burbn.instagram_418.0.0.ipa"
         },
         {
-          "version": "418.0.0",
+          "version": "418.1.0",
           "date": "2026-03-02",
-          "size": 311988479,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.burbn.instagram_418.0.0.ipa"
-        },
-        {
-          "version": "418.0.0",
-          "date": "2026-03-02",
-          "size": 244293320,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.burbn.instagram_418.0.0.ipa"
+          "size": 261446244,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.burbn.instagram_418.1.0.ipa"
         }
       ],
       "appPermissions": {},
@@ -219,6 +423,38 @@
       "versionDate": "2026-03-03T06:28:12.603Z",
       "size": 58965541,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-03/com.tripleglazedstudios.Weather_3.4.2.ipa"
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Instagram, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/98/e6/1d98e661-2de2-b974-ab7c-562dddd94626/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "versions": [
+        {
+          "version": "418.0.0",
+          "date": "2026-03-02",
+          "size": 311988479,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.burbn.instagram_418.0.0.ipa"
+        },
+        {
+          "version": "418.0.0",
+          "date": "2026-03-02",
+          "size": 244293320,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.burbn.instagram_418.0.0.ipa"
+        },
+        {
+          "version": "418.2.0",
+          "date": "2026-03-02",
+          "size": 283043840,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.burbn.instagram_418.2.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "418.0.0",
+      "versionDate": "2026-03-02T12:28:20.247Z",
+      "size": 311988479,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.burbn.instagram_418.0.0.ipa"
     },
     {
       "name": "ProFit",
@@ -421,26 +657,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.endel.endel_4.49.67.ipa"
     },
     {
-      "name": "Rest",
-      "bundleIdentifier": "com.evolve.helm",
-      "developerName": "Evolve Global, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/48/2a/d8482a6a-7f46-a036-dfab-393faa742a90/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Sleeping well is really hard. Maybe it’s time to get help. \nFiguring out how to improve your sleep on your own can take months of frustrating trial and error, spending countless hours on Google trying to discern good advice from bad. \n\nWorking with a sleep expert may get you results faster, but top experts can be expensive or have lengthy waiting lists, and you need results now. \n\nIdeally, you could take the expertise of a professional and apply it to your sleep tonight. While having 24/7 availability from them to support you when you need, as well as someone to keep you accountable and motivated. \n\nIntroducing Rest, the world’s first AI sleep coach developed in partnership with sleep experts that walks you through a step by step process to improve your sleep and supports you along the way. \n\n\nWith your Rest Premium Sleep Coach subscription, you get:\n\n- A direct path to better sleep habits \nWe use AI to assess your sleep challenges and match you with the right habits you need to develop for better sleep. Then, we’ll help you make those changes.  \n- Based on a scientifically proven approach \nOur sleep program is based on a clinically proven method and we use technology to personalize it to your life, giving you results fast. \n- Better sleep that sticks \nStay accountable with reminders, check-ins, streaks and daily habit tracking until good sleep becomes second nature. \n- Expertise when you need it most\nProfessional sleep expertise, powered by AI, is always on call to answer your questions and help you solve your challenges with sleep. \n\n\nHow we’ll get you there: \n- Sleep Plan: A personalized sleep plan using scientifically proven sleep improvement techniques created by experts\n- Tasks: Within the plan, we’ll recommend actions you can take throughout the day and night to improve your sleep\n- Ask the Coach: Plus, we’ll explain why each task is important for your health and help you apply it to the context of your life\n- Habit forming Tools: We’ll keep you on track with notifications, reminders and energy check-ins to help you stay accountable\n\nSubscription pricing and terms:\nRest offers an auto-renewing subscription at $79.99 per one year.\n\nThese prices are for United States customers. Pricing in other countries may vary, and actual charges may be converted to your local currency depending on the country of residence.\n\nThe subscription will automatically renew unless turned off in your iTunes Account Settings at least 24 hours before the current period ends. You can go to your iTunes Account settings to manage your subscription and turn off auto-renew. Your iTunes Account will be charged when the purchase is confirmed. If you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed.\n\n\nPrivacy Policy & Terms of Use: https://getrest.app/privacypolicy",
-      "versions": [
-        {
-          "version": "3.173.0",
-          "date": "2026-03-02",
-          "size": 169749441,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.evolve.helm_3.173.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.173.0",
-      "versionDate": "2026-03-02T12:15:17.857Z",
-      "size": 169749441,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.evolve.helm_3.173.0.ipa"
-    },
-    {
       "name": "PixelColor",
       "bundleIdentifier": "com.djitlabs.pixelcolor",
       "developerName": "MWM",
@@ -459,46 +675,6 @@
       "versionDate": "2026-03-02T12:14:07.381Z",
       "size": 95130907,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.djitlabs.pixelcolor_5.48.01.ipa"
-    },
-    {
-      "name": "duet",
-      "bundleIdentifier": "com.kairos.duet",
-      "developerName": "Duet, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/e6/1dfae6e4-1cad-80b7-9cc7-40cf8e35747a/DuetDisplayAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "#1 best-selling iPad app in US, Japan, UK, Germany, and 17 other countries!\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.\n\n— DO MORE —\nBe twice as productive by multitasking with two screens. And for those that travel, have a portable way to stay productive. \n\n— INCREDIBLY SIMPLE —\nTo get started, plug your iPad into your desktop using your charging cable. The free Duet desktop app will automatically detect your device, and transform it into a high performance touchscreen display.\n\nThere’s no need to worry about unreliable Wi-Fi, laggy performance, pixelated screens or managing network passwords. \n\n— TOUCHSCREEN —\nInteract with Mac & PC like never before, with touch & gestures, including two-finger scrolling, pan and zoom.\n\nAnd with our latest release, you can even add a touch bar to any iPad with any Mac.\n\n— PERFECT FOR APPLE PENCIL —\nWith Duet Pro, you can turn your iPad and Apple Pencil into a professional graphics tablet. We’ve re-engineered our rendering algorithms for ultra-responsive drawing, optimized specifically for designers, illustrators and artists.\n\nDuet Pro also unlocks pressure & tilt sensitivity, hover, palm rejection, and more to seamlessly draw in the most powerful programs for professionals. Get precise control in Photoshop, Corel Painter, Lightroom, ToonBoom, Illustrator, Manga Studio and more. \n\n— PRESS —\nTechCrunch - \"Feels Like Magic\"\nTIME - \"Getting Work Done Faster and More Efficiently\"\nThe Guardian - \"Lag-free\"\nForbes - \"The simple thing to note is this...Duet Display works.\"\nThe Verge - \"Glorious Fluidity\"\nLifehacker - \"It's fast, easy to use, and works great\"\nBusiness Insider - \"Zero lag and true retina resolution”\nWall Street Journal - “It’s as easy as just plugging it in\"\n\n— REVIEWS —\n“Awesome! My iPad Pro can be an extra monitor! Cool app”\n~CEO of T-Mobile, John Legere\n\n“Very smooth and responsive indeed, plus you could use the touch screen to “click” on screen interfaces!”\n~Photographer, Lok Cheung\n\n“Love the ability to use my iPad as a monitor with Duet.”\n~Former Chief Evangelist of Apple, Guy Kawasaki\n\n“Just started using this app called Duet… Kinda love it so far.”\n~Comedian and Youtube, Phillip DeFranco\n\n“All my mac folks look at the Duet app… GREAT!”\n~Actor and Comedian, Sinbad \n\n\"I really like the app, I suppose the biggest compliment I can give is that it's so easy to setup it almost seems like an Apple product.”\n~Early Adopter, M. Nightingale\n\n\"Amazing solution for me by the way. Works as I was hoping for and actually my main reason for getting an iPad : )”\n~Early Adopter, M. Gemzoe\n\nDuet Works With:\nAll iPhones and iPads with iOS 7.0 and later\nAll Macs with 10.9 (Mavericks) and later\nAll PCs with Windows 7 and later\n\nDuet Pro Works With:\nAll iPad Pros with Apple Pencil\nAll Macs with 10.9 (Mavericks) and later\nAll PCs with Windows 8.1 and later (64 bit)\n\nDuet Pro is an optional upgrade for additional features, and price may vary by location. Duet Pro subscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You will not be able to cancel the subscription once activated. Manage Duet Pro in Account Settings after the optional upgrade.\n\nLearn more at http://www.duetdisplay.com\nTerms: https://www.duetdisplay.com/help-center/duet-terms-and-conditions\nPrivacy Policy: https://www.duetdisplay.com/help-center/duet-privacy-policy",
-      "versions": [
-        {
-          "version": "3.1.1",
-          "date": "2026-03-02",
-          "size": 44148089,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.kairos.duet_3.1.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.1.1",
-      "versionDate": "2026-03-02T12:10:55.725Z",
-      "size": 44148089,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.kairos.duet_3.1.1.ipa"
-    },
-    {
-      "name": "Duolingo",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "Duolingo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/2e/fc/8c2efc2c-1efc-50ea-a0b1-16ab54db9102/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn Math, Music, and Chess the Duolingo way!  \n\n• Build real-world math skills – from calculating tips to identifying patterns – and sharpen your mental math in our Math course.\n\n• Learn how to read music and play familiar songs on your device in our Music course – no instrument required.\n\n• Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n\nWhether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.\n\nWhy Duolingo?\n • Duolingo is fun and effective. Game-like lessons and fun characters keep you motivated to build solid skills across language, math, music, and chess.\n\n• Duolingo works. Designed by learning experts, Duolingo has a science-based teaching methodology proven to foster long-term knowledge retention.\n\n• Track your progress. Work toward your learning goals with playful rewards and achievements when you make practicing a daily habit!\n\n• Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\n\n• Every course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian. And now, learn Math, Music, and Chess with our newest courses!\n\nWhat the world is saying about Duolingo:\n\n“Far and away the best language-learning app.” –The Wall Street Journal\n\n“This free app and website is among the most effective language-learning methods I’ve tried… lessons come in the form of brief challenges – speaking, translating, answering multiple-choice questions – that keep me coming back for more.” –The New York Times\n\n“Duolingo may hold the secret to the future of education.” – TIME Magazine\n\n“…Duolingo is cheerful, lighthearted and fun…” - Forbes\n\n“Our favorite language app…” - CNET\n\nIf you like Duolingo, try Super Duolingo for 14 days free! Learn a language fast with no ads, and get fun perks like Unlimited Hearts and Monthly Streak Repair.\n\nIf you choose to purchase Super Duolingo, payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nPrivacy Policy: https://www.duolingo.com/privacy\nTerms of Service: https://www.duolingo.com/terms",
-      "versions": [
-        {
-          "version": "7.111.0",
-          "date": "2026-03-02",
-          "size": 200661987,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.duolingo.DuolingoMobile_7.111.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "7.111.0",
-      "versionDate": "2026-03-02T12:08:50.071Z",
-      "size": 200661987,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.duolingo.DuolingoMobile_7.111.0.ipa"
     },
     {
       "name": "Photoshop",
@@ -607,26 +783,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.alevioos.app_2.4.4.ipa"
     },
     {
-      "name": "MyFitnessPal",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "developerName": "MyFitnessPal, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/26/be/3c26be82-4069-5379-fa2d-6bb279e5664a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Achieve your nutrition, calorie, macro, and fitness goals with MyFitnessPal. MyFitnessPal is a comprehensive food and fitness tracker, with everything you need to reach your goals. Macros, calories, food, and workouts – track it all in one place.\n\nChange your habits with fitness and food. Download our health and nutrition app and start your free Premium trial today. With MyFitnessPal, you have access to exclusive food inspiration, an intermittent fasting tracker, fitness logging tools, expert guidance, and the calorie tracker. You’ll soon discover why MyFitnessPal is the #1 nutrition and food tracking app in the U.S and has been featured in the New York Times, Forbes, the Today Show, and U.S. News & World Report.\n\n\nMyFitnessPal is more than a calorie tracker & food journal. Monitor your health and fitness progress within the app.\n\nMYFITNESSPAL FEATURES\n\nFood Tracker – Track Calories & Macros\n■ Food tracking made easy. Quickly log your meals throughout your day from over 20.5 million foods (including restaurant dishes) from one of the largest food databases available\n■ Macro tracker lets you see carbs, fat, & protein breakdown—no need for a separate app! Set goals for macros, protein, sodium, fiber, and more\n■ Make sure you’re staying hydrated with our water tracker\n\nFitness – Track Workouts, Weight, and Progress\n■ Activity Tracker – Add workouts and steps with the integrated fitness tracker\n■ See Your Fitness Progress – Track at a glance, or analyze the details of your diet & macros\n■ Stay Inspired – Keep your diet and fitness routine exciting with workouts and food inspiration\n■ Exercise and Count Calories – See how your workouts, fitness, and diet affect daily calorie goals\n\nWorkouts & Meal Plans, Tailored to You\n■ Customize your health & fitness goals – Weight loss, weight gain, weight maintenance, nutrition, & fitness\n■ Personalized dashboards – Fitness, health, and diet stats are all in one place to easily see and track your progress\n\n■ Add Your Own Meals/Food Tracker – Save recipes and meals for quick logging and keep tabs on your diet\n■ Follow the new easy meal planner to simplify tracking and help hit your goals\n■ Connect 40+ Apps & Devices – From smartwatches, fitness trackers, and other health and fitness apps, track your intake and activity through your watch with WearOS\n■ Get Connected– Find friends and motivation in our active MyFitnessPal forums\n\nPremium\n■ Reach your goals with barcode scan, meal scan, and voice logging\n■ Customize macros and set custom goals\n■ Enjoy ad-free food logging with insights and comparisons built into premium \n■ Net Carbs Mode/Carb Tracker – Keep track of your low-carb or keto diet, view net carbs in your food\n\nPremium Plus - Expanded Features to Help Hit Your Goals\n■ All of the Premium features, like barcode scanning now available with meal planning\n■ Personalized meal plans, integrated grocery delivery, and smart meal tracking tools\n■ Your one-stop shop for meal planning, grocery shopping, food logging, and nutrition insights to help you reach your goals\n■ 1000s of healthy recipes to help you reach your goals\n\nMyFitnessPal is the leading health and nutrition app that helps you learn about your food habits, monitor your diet and conquer your health goals.\n\nDownload Today and Start Your Free Premium Trial\n\nView our terms & conditions and privacy policy: \nhttps://www.myfitnesspal.com/terms-of-service\nhttps://www.myfitnesspal.com/privacy-policy",
-      "versions": [
-        {
-          "version": "26.8.0",
-          "date": "2026-03-02",
-          "size": 142299391,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.myfitnesspal.mfp_26.8.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.8.0",
-      "versionDate": "2026-03-02T12:03:36.899Z",
-      "size": 142299391,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.myfitnesspal.mfp_26.8.0.ipa"
-    },
-    {
       "name": "Captions",
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
@@ -658,13 +814,41 @@
           "date": "2026-03-02",
           "size": 412796326,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.zhiliaoapp.musically_43.9.0.ipa"
-        },
+        }
+      ],
+      "appPermissions": {},
+      "version": "43.9.0",
+      "versionDate": "2026-03-02T11:59:55.000Z",
+      "size": 412796326,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.zhiliaoapp.musically_43.9.0.ipa"
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "TikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highlights, fashion tips to music and trending sounds, your For You feed reflects your current interests and changes based on what surprises and inspires you.\n\nCreating is simple. Capture and post everyday moments and turn them into something special with easy editing tools, effects, sounds, and music. Use our free library of sounds and music in your videos, plus filters and creative tools that help your content stand out. On TikTok, anyone can create, and ideas that inspire pick up momentum.\n\nTikTok is also where discovery becomes part of your everyday life. Find creators to follow, new ideas to try, and products you will love from small businesses and brands around the world. TikTok offers more than 50 preset safety and privacy features, from private accounts and content filters to screen time tools and Family Pairing, so you can choose an experience that works for you. TikTok provides extra support for teens and families on the app, letting you set time and content preferences that feel right for your family. \n\n■ Personalized discovery\nA For You feed that learns what you enjoy. Discover videos, creators, LIVE streams, shopping, and communities based on what you watch, like, and share.\n■ Entertainment, learning, and everything in between\nComedy, gaming, DIY, beauty, sports, music, lifestyle, education, and more. Find content that makes you laugh, think, and try something new.\n■ Simple, powerful creation tools\nRecord in clips, pause and resume, trim and merge, add text and stickers, and fine tune your video without leaving the app.\n■ Sounds, music, and effects\nUse our free library of sounds and music in your videos, plus filters, effects, and creative tools that help you express yourself and make your videos stand out.\n■ A global community of creators\nFollow your favorite creators and discover new voices every day. Share your own story or support the people who inspire you.\n■ Discover and shop with TikTok Shop\nExplore trending products, exclusive deals, and seamless shopping experiences inspired by creators and brands you love, all in one place. Shop directly from videos, LIVE, and the Shop tab, track your orders, and enjoy a safe, secure shopping experience.\n■ Go LIVE and connect in real time\nStart a LIVE to chat with your community, share moments as they happen, and unlock special features and benefits where available.\n■ Tools to shape your experience\nUse more than 50 safety and privacy features, from private accounts and content filters to screen time tools, Family Pairing, and other controls, to choose how TikTok works for you and your family.\n\nReady to see what you discover next? Download TikTok to start watching, creating, and exploring your world in a new way.\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nLearn more about our safety tools, resources, and policies at the TikTok Safety Center: https://www.tiktok.com/safety/en\n\nTerms of Service:\nhttps://www.tiktok.com/legal/terms-of-service\nPrivacy Policy:\nhttps://www.tiktok.com/legal/privacy-policy\nFeedback?\nContact us at https://www.tiktok.com/legal/report/feedback or tweet us @tiktok_us",
+      "versions": [
         {
           "version": "43.9.0",
           "date": "2026-03-02",
           "size": 413871878,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.zhiliaoapp.musically_43.9.0.ipa"
-        },
+        }
+      ],
+      "appPermissions": {},
+      "version": "43.9.0",
+      "versionDate": "2026-03-02T11:57:12.661Z",
+      "size": 413871878,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.zhiliaoapp.musically_43.9.0.ipa"
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "TikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highlights, fashion tips to music and trending sounds, your For You feed reflects your current interests and changes based on what surprises and inspires you.\n\nCreating is simple. Capture and post everyday moments and turn them into something special with easy editing tools, effects, sounds, and music. Use our free library of sounds and music in your videos, plus filters and creative tools that help your content stand out. On TikTok, anyone can create, and ideas that inspire pick up momentum.\n\nTikTok is also where discovery becomes part of your everyday life. Find creators to follow, new ideas to try, and products you will love from small businesses and brands around the world. TikTok offers more than 50 preset safety and privacy features, from private accounts and content filters to screen time tools and Family Pairing, so you can choose an experience that works for you. TikTok provides extra support for teens and families on the app, letting you set time and content preferences that feel right for your family. \n\n■ Personalized discovery\nA For You feed that learns what you enjoy. Discover videos, creators, LIVE streams, shopping, and communities based on what you watch, like, and share.\n■ Entertainment, learning, and everything in between\nComedy, gaming, DIY, beauty, sports, music, lifestyle, education, and more. Find content that makes you laugh, think, and try something new.\n■ Simple, powerful creation tools\nRecord in clips, pause and resume, trim and merge, add text and stickers, and fine tune your video without leaving the app.\n■ Sounds, music, and effects\nUse our free library of sounds and music in your videos, plus filters, effects, and creative tools that help you express yourself and make your videos stand out.\n■ A global community of creators\nFollow your favorite creators and discover new voices every day. Share your own story or support the people who inspire you.\n■ Discover and shop with TikTok Shop\nExplore trending products, exclusive deals, and seamless shopping experiences inspired by creators and brands you love, all in one place. Shop directly from videos, LIVE, and the Shop tab, track your orders, and enjoy a safe, secure shopping experience.\n■ Go LIVE and connect in real time\nStart a LIVE to chat with your community, share moments as they happen, and unlock special features and benefits where available.\n■ Tools to shape your experience\nUse more than 50 safety and privacy features, from private accounts and content filters to screen time tools, Family Pairing, and other controls, to choose how TikTok works for you and your family.\n\nReady to see what you discover next? Download TikTok to start watching, creating, and exploring your world in a new way.\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nLearn more about our safety tools, resources, and policies at the TikTok Safety Center: https://www.tiktok.com/safety/en\n\nTerms of Service:\nhttps://www.tiktok.com/legal/terms-of-service\nPrivacy Policy:\nhttps://www.tiktok.com/legal/privacy-policy\nFeedback?\nContact us at https://www.tiktok.com/legal/report/feedback or tweet us @tiktok_us",
+      "versions": [
         {
           "version": "43.9.0",
           "date": "2026-03-02",
@@ -674,8 +858,8 @@
       ],
       "appPermissions": {},
       "version": "43.9.0",
-      "versionDate": "2026-03-02T11:59:55.000Z",
-      "size": 412796326,
+      "versionDate": "2026-03-02T11:54:29.814Z",
+      "size": 412556553,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.zhiliaoapp.musically_43.9.0.ipa"
     },
     {
@@ -1057,26 +1241,6 @@
       "versionDate": "2026-03-02T11:33:42.460Z",
       "size": 75069857,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.lampa.photo_2.0.0.ipa"
-    },
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Google",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d1/36/8bd136c3-1844-128e-41c0-472731be32b8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore different topics, what’s popular, and on the rise (available in select countries)\n● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more\n● See what’s trending on YouTube and around the world on Explore\n● Learn about the coolest Creators, Gamers, and Artists on the Rise (available in select countries)\n\nConnect with the YouTube community\n● Keep up with your favorites creators with Posts, Stories, Premieres, and Live streams\n● Join the conversation with comments and interact with creators and other community members\n\nCreate content from your mobile device\n● Create or upload your own videos directly in the app\n● Engage with your audience in real time with live streaming right from the app\n\nFind the experience that fits you and your family (available in select countries)\n● Every family has their own approach to online video. Learn about your options: the YouTube Kids app or a new parent supervised experience on YouTube at youtube.com/myfamily\n\nSupport creators you love with channel memberships (available in select countries)\n● Join channels that offer paid monthly memberships and support their work\n● Get access to exclusive perks from the channel & become part of their members community\n● Stand out in comments and live chats with a loyalty badge next to your username\n\nUpgrade to YouTube Premium (available in select countries)\n● Watch videos uninterrupted by ads, while using other apps, or when the screen is locked\n● Save videos for when you really need them – like when you’re on a plane or commuting\n● Get access to YouTube Music Premium as part of your benefits\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice.\nPrivacy policy: https://www.google.com/policies/privacy",
-      "versions": [
-        {
-          "version": "21.08.3",
-          "date": "2026-03-02",
-          "size": 294290564,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.google.ios.youtube_21.08.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "21.08.3",
-      "versionDate": "2026-03-02T11:33:07.798Z",
-      "size": 294290564,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-02/com.google.ios.youtube_21.08.3.ipa"
     },
     {
       "name": "X",
