@@ -3,6 +3,27 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Rest",
+      "version": "3.176.0",
+      "versionDate": "2026-03-05",
+      "size": 172716981,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_AutoRcSideload_3.176.0.ipa",
+      "developerName": "Evolve Global, Inc.",
+      "bundleIdentifier": "com.evolve.helm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/84/7c/5d847c81-a499-80bb-5ac7-fbc5e4e828c8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nRest: Fix Your Sleep For Good\n\n• Bundle ID: com.evolve.helm\n• Updated to: 3.176.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/85/59/a3855969-d4bf-efc1-fcfc-f7071309aebd/5.5_-_Slide_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/34/0e/03340ec1-a3e6-cd3f-52c1-245f97762b4d/5.5_-_Slide_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/05/32/7c053254-64a9-0be7-fea3-0f19a240f735/5.5_-_Slide_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/12/6c/2b126c17-f15c-c72e-c585-4504b188602f/5.5_-_Slide_6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/53/8a/32538a55-34ba-0d84-f460-33c52bcfcd5e/5.5_-_Slide_7.png/392x696bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Petty",
       "version": "8.0.3",
       "versionDate": "2026-03-05",
@@ -512,27 +533,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/f0/10/f9f01031-6fed-1477-42a6-cf5c5071fc9b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Calorie Counter: ParrotPal\n\nTweak: Subscription Unlocked\n\nVersion: 186\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: ai.parrotpal\nDeveloper: Scott Flear",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Rest",
-      "version": "3.174.0",
-      "versionDate": "2026-03-05",
-      "size": 167961245,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_Sideloadbypass2_3.174.0.ipa",
-      "developerName": "Evolve Global, Inc.",
-      "bundleIdentifier": "com.evolve.helm",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/84/7c/5d847c81-a499-80bb-5ac7-fbc5e4e828c8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nRest: Fix Your Sleep For Good\n\nTweak: Subscription Unlocked\n\nVersion: 3.174.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.helm\nDeveloper: Evolve Global, Inc.",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/85/59/a3855969-d4bf-efc1-fcfc-f7071309aebd/5.5_-_Slide_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/34/0e/03340ec1-a3e6-cd3f-52c1-245f97762b4d/5.5_-_Slide_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/05/32/7c053254-64a9-0be7-fea3-0f19a240f735/5.5_-_Slide_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/12/6c/2b126c17-f15c-c72e-c585-4504b188602f/5.5_-_Slide_6.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/53/8a/32538a55-34ba-0d84-f460-33c52bcfcd5e/5.5_-_Slide_7.png/392x696bb.png"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
