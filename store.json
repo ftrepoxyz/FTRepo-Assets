@@ -3,6 +3,32 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "Twitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/85/ae/d985ae30-cb26-999f-b954-9e81e6e23e21/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nClassic BHTwitter+ 11.71.1\n\n- Twitter to 11.71.1\n- Info: NeoFreeBird witch is a fork of BHTwitter\n- Classic style NeoFreeBird\n- TwitDate\n- OLED Keyboard\n- Added TWIGalaxy\n- FixTwitterLogin\n- Patch already included\n- TwitterNoID\n\nCracked by @Jacks_Apps0510\nApp decrypted by @eeveedecrypterbot",
+      "versions": [
+        {
+          "version": "11.71.1",
+          "date": "2026-03-05",
+          "size": 190234504,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TwitDate_11.71.1.ipa"
+        },
+        {
+          "version": "11.71",
+          "date": "2026-03-05",
+          "size": 173230154,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TWIGalaxy_11.71.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "11.71.1",
+      "versionDate": "2026-03-05T22:19:59.168Z",
+      "size": 190234504,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TwitDate_11.71.1.ipa"
+    },
+    {
       "name": "Rest",
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
@@ -1699,26 +1725,6 @@
       "versionDate": "2026-03-05T10:29:02.567Z",
       "size": 181908956,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_BHTwitter_11.71.ipa"
-    },
-    {
-      "name": "X",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/85/ae/d985ae30-cb26-999f-b954-9e81e6e23e21/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTWIGalaxy\n\nMake Twitter Better!\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "versions": [
-        {
-          "version": "11.71",
-          "date": "2026-03-05",
-          "size": 173230154,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TWIGalaxy_11.71.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "11.71",
-      "versionDate": "2026-03-05T10:28:37.961Z",
-      "size": 173230154,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TWIGalaxy_11.71.ipa"
     },
     {
       "name": "PDF Viewer",
