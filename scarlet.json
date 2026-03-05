@@ -5,6 +5,24 @@
   },
   "data": [
     {
+      "name": "Twitter",
+      "version": "11.71.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TwitDate_11.71.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.atebits.Tweetie2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/85/ae/d985ae30-cb26-999f-b954-9e81e6e23e21/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @thescholarslounge |\n----------------\nClassic BHTwitter+ 11.71.1\n\n- Twitter to 11.71.1\n- Info: NeoFreeBird witch is a fork of BHTwitter\n- Classic style NeoFreeBird\n- TwitDate\n- OLED Keyboard\n- Added TWIGalaxy\n- FixTwitterLogin\n- Patch already included\n- TwitterNoID\n\nCracked by @Jacks_Apps0510\nApp decrypted by @eeveedecrypterbot",
+      "developer": "X Corp.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Rest",
       "version": "3.176.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_AutoRcSideload_3.176.0.ipa",
@@ -1758,24 +1776,6 @@
       "bundleID": "com.atebits.Tweetie2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/85/ae/d985ae30-cb26-999f-b954-9e81e6e23e21/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "description": "from @binnichtaktivsipas |\n----------------\nBHX\nAwesome tweak for Twitter\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "developer": "X Corp.",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "X",
-      "version": "11.71",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TWIGalaxy_11.71.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.atebits.Tweetie2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/85/ae/d985ae30-cb26-999f-b954-9e81e6e23e21/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nTWIGalaxy\n\nMake Twitter Better!\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
       "developer": "X Corp.",
       "screenshots": [],
       "accentColor": {
