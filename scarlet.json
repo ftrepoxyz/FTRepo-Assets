@@ -5,6 +5,24 @@
   },
   "data": [
     {
+      "name": "Petty",
+      "version": "8.0.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/zachsim.one.Petty_Sideloadbypass2_8.0.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "zachsim.one.Petty",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/d5/98/48d59857-5152-24e5-7dd4-195400a05a88/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nPetty: Petrol Prices Australia\n\nTweak: Premium Unlocked\n\nVersion: 8.0.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: zachsim.one.Petty\nDeveloper: Harbour City Software Pty Ltd",
+      "developer": "Harbour City Software Pty Ltd",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Reframe",
       "version": "3.9.32",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.32.ipa",
