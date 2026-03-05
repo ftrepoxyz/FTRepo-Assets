@@ -3,12 +3,64 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "Captions",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "developerName": "Captions, LLC (US)",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c3/66/55c366e5-bb10-dc0b-2b4f-225acdbc85d5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCaptions: For Talking Videos\n\nTweak: Premium Unlocked\n\nVersion: 13.8.0\n\nNotes: Press restore once then close the app if subscription isn't activated\n\n@riftysIPAlibrary\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: boomer.Smart-Video\nDeveloper: Captions, LLC (US)",
+      "versions": [
+        {
+          "version": "13.8.0",
+          "date": "2026-03-05",
+          "size": 409068822,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/boomer.Smart-Video_Sideloadbypass2_13.8.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "13.8.0",
+      "versionDate": "2026-03-05T15:50:36.659Z",
+      "size": 409068822,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/boomer.Smart-Video_Sideloadbypass2_13.8.0.ipa"
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "versions": [
+        {
+          "version": "21.09.3",
+          "date": "2026-03-05",
+          "size": 124519602,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_YouSpeed_21.09.3.ipa"
+        },
+        {
+          "version": "19.34.2",
+          "date": "2026-03-05",
+          "size": 108187797,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_YouQuality_19.34.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "21.09.3",
+      "versionDate": "2026-03-05T15:49:52.818Z",
+      "size": 124519602,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_YouSpeed_21.09.3.ipa"
+    },
+    {
       "name": "Open",
       "bundleIdentifier": "com.o-p-e-n.open",
       "developerName": "Open Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/c9/0d/c0c90d8e-a38d-2681-9161-7da4a7f4ed0b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpen: Breathwork + Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 26.10\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.o-p-e-n.open\nDeveloper: Open Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpen: Breathwork + Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 26.10.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.o-p-e-n.open\nDeveloper: Open Inc.",
       "versions": [
+        {
+          "version": "26.10.1",
+          "date": "2026-03-05",
+          "size": 103364842,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.1.ipa"
+        },
         {
           "version": "26.10",
           "date": "2026-03-05",
@@ -17,10 +69,76 @@
         }
       ],
       "appPermissions": {},
-      "version": "26.10",
-      "versionDate": "2026-03-05T12:27:57.903Z",
-      "size": 103364815,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.ipa"
+      "version": "26.10.1",
+      "versionDate": "2026-03-05T15:20:02.995Z",
+      "size": 103364842,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.1.ipa"
+    },
+    {
+      "name": "SnapEdit",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "developerName": "SilverAI Joint Stock Company",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/2f/1a/b42f1a3a-9a96-c08d-9945-05555ebeb8c8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.4.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "6.4.3",
+          "date": "2026-03-05",
+          "size": 84101399,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.sfun.snapedit_SnapEdit_6.4.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.4.3",
+      "versionDate": "2026-03-05T14:37:11.700Z",
+      "size": 84101399,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.sfun.snapedit_SnapEdit_6.4.3.ipa"
+    },
+    {
+      "name": "Lens AI",
+      "bundleIdentifier": "com.lens.ai.app",
+      "developerName": "XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/b5/e1/26b5e18d-e54d-e016-1e0e-a6a7a84f1cb1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLens AI: Scanner & Identifier\n\nTweak: Pro Unlocked\n\nVersion: 1.0.40\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.lens.ai.app\nDeveloper: XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
+      "versions": [
+        {
+          "version": "1.0.40",
+          "date": "2026-03-05",
+          "size": 92585522,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.lens.ai.app_Sideloadbypass2_1.0.40.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0.40",
+      "versionDate": "2026-03-05T14:34:05.130Z",
+      "size": 92585522,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.lens.ai.app_Sideloadbypass2_1.0.40.ipa"
+    },
+    {
+      "name": "Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "developerName": "Nutrition Technologies",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/21/12/7c2112cc-a1f6-f95a-ebfe-b410e8945cac/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 22.0\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "22.0",
+          "date": "2026-03-05",
+          "size": 104983466,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.ulisesolave.Fitia_Fitia_22.0.ipa"
+        },
+        {
+          "version": "21.2.4",
+          "date": "2026-03-05",
+          "size": 102214079,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.ulisesolave.Fitia_Fitia_21.2.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "22.0",
+      "versionDate": "2026-03-05T14:33:43.371Z",
+      "size": 104983466,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.ulisesolave.Fitia_Fitia_22.0.ipa"
     },
     {
       "name": "Crsel",
@@ -2169,26 +2287,6 @@
       "versionDate": "2026-03-05T08:46:12.770Z",
       "size": 131369093,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.yazio.ios.YAZIO_Yazio_12.74.1.ipa"
-    },
-    {
-      "name": "Fitia",
-      "bundleIdentifier": "com.ulisesolave.Fitia",
-      "developerName": "Nutrition Technologies",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/21/12/7c2112cc-a1f6-f95a-ebfe-b410e8945cac/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 21.2.4\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ Jailbreak Repo | ♡ Support",
-      "versions": [
-        {
-          "version": "21.2.4",
-          "date": "2026-03-05",
-          "size": 102214079,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.ulisesolave.Fitia_Fitia_21.2.4.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "21.2.4",
-      "versionDate": "2026-03-05T08:45:56.338Z",
-      "size": 102214079,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.ulisesolave.Fitia_Fitia_21.2.4.ipa"
     },
     {
       "name": "SimplyPiano",
