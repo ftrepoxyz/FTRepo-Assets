@@ -3,6 +3,38 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "Rest",
+      "bundleIdentifier": "com.evolve.helm",
+      "developerName": "Evolve Global, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/84/7c/5d847c81-a499-80bb-5ac7-fbc5e4e828c8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nRest: Fix Your Sleep For Good\n\n• Bundle ID: com.evolve.helm\n• Updated to: 3.176.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "3.176.0",
+          "date": "2026-03-05",
+          "size": 172716981,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_AutoRcSideload_3.176.0.ipa"
+        },
+        {
+          "version": "3.176.0",
+          "date": "2026-03-05",
+          "size": 167961251,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_Sideloadbypass2_3.176.0.ipa"
+        },
+        {
+          "version": "3.174.0",
+          "date": "2026-03-05",
+          "size": 167961245,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_Sideloadbypass2_3.174.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.176.0",
+      "versionDate": "2026-03-05T21:49:52.550Z",
+      "size": 172716981,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_AutoRcSideload_3.176.0.ipa"
+    },
+    {
       "name": "Petty",
       "bundleIdentifier": "zachsim.one.Petty",
       "developerName": "Harbour City Software Pty Ltd",
@@ -681,32 +713,6 @@
       "versionDate": "2026-03-05T10:45:04.599Z",
       "size": 108717249,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/ai.parrotpal_Sideloadbypass2_186.ipa"
-    },
-    {
-      "name": "Rest",
-      "bundleIdentifier": "com.evolve.helm",
-      "developerName": "Evolve Global, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/84/7c/5d847c81-a499-80bb-5ac7-fbc5e4e828c8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nRest: Fix Your Sleep For Good\n\nTweak: Subscription Unlocked\n\nVersion: 3.174.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.helm\nDeveloper: Evolve Global, Inc.",
-      "versions": [
-        {
-          "version": "3.174.0",
-          "date": "2026-03-05",
-          "size": 167961245,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_Sideloadbypass2_3.174.0.ipa"
-        },
-        {
-          "version": "3.174.0",
-          "date": "2026-03-05",
-          "size": 172716985,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_AutoRcSideload_3.174.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.174.0",
-      "versionDate": "2026-03-05T10:44:51.353Z",
-      "size": 167961245,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.evolve.helm_Sideloadbypass2_3.174.0.ipa"
     },
     {
       "name": "12min",
