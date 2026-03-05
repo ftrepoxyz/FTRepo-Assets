@@ -3,6 +3,38 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "versions": [
+        {
+          "version": "21.09.3",
+          "date": "2026-03-05",
+          "size": 132968518,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_MadeByMohkg_21.09.3.ipa"
+        },
+        {
+          "version": "21.09.3",
+          "date": "2026-03-05",
+          "size": 124519602,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_YouSpeed_21.09.3.ipa"
+        },
+        {
+          "version": "19.34.2",
+          "date": "2026-03-05",
+          "size": 108187797,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_YouQuality_19.34.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "21.09.3",
+      "versionDate": "2026-03-05T17:49:52.198Z",
+      "size": 132968518,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_MadeByMohkg_21.09.3.ipa"
+    },
+    {
       "name": "simple-weather",
       "bundleIdentifier": "com.andyworks.weather",
       "developerName": "Not Boring Software LLC",
@@ -47,32 +79,6 @@
       "versionDate": "2026-03-05T16:20:10.903Z",
       "size": 416576858,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/boomer.Smart-Video_Captions_13.8.0.ipa"
-    },
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Google",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "versions": [
-        {
-          "version": "21.09.3",
-          "date": "2026-03-05",
-          "size": 124519602,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_YouSpeed_21.09.3.ipa"
-        },
-        {
-          "version": "19.34.2",
-          "date": "2026-03-05",
-          "size": 108187797,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_YouQuality_19.34.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "21.09.3",
-      "versionDate": "2026-03-05T15:49:52.818Z",
-      "size": 124519602,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_YouSpeed_21.09.3.ipa"
     },
     {
       "name": "Open",
