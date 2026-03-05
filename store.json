@@ -3,6 +3,46 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "#DRIVE",
+      "bundleIdentifier": "com.pixelperfectdude.htdrive",
+      "developerName": "Pixel Perfect Dude S.A.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/98/b9/1998b90f-7e72-1bba-a940-2aad4ce30139/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\n#DRIVE\n\nTweak: Premium Unlocked\n\nVersion: 3.1.438\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.pixelperfectdude.htdrive\nDeveloper: Pixel Perfect Dude S.A.",
+      "versions": [
+        {
+          "version": "3.1.438",
+          "date": "2026-03-05",
+          "size": 268286309,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.pixelperfectdude.htdrive_Sideloadbypass2_3.1.438.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.1.438",
+      "versionDate": "2026-03-05T12:03:42.312Z",
+      "size": 268286309,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.pixelperfectdude.htdrive_Sideloadbypass2_3.1.438.ipa"
+    },
+    {
+      "name": "Documents",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "developerName": "Readdle Technologies Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDocuments: File Manager & Docs\n\n• Bundle ID: com.readdle.ReaddleDocsIPad\n• Updated to: 8.19.6\n• Minimum iOS: 16.0\n• Patched\n• Modifier: DocumentsPlus Unlocked\n• Tweaked by @blatants\n\n• Note:\nNo \"Update available\" popup 😄\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "8.19.6",
+          "date": "2026-03-05",
+          "size": 357431677,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.19.6",
+      "versionDate": "2026-03-05T11:23:58.597Z",
+      "size": 357431677,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.6.ipa"
+    },
+    {
       "name": "Livity",
       "bundleIdentifier": "com.app-livity",
       "developerName": "Martynas Narijauskas",
@@ -1098,7 +1138,7 @@
       "name": "xChat β",
       "bundleIdentifier": "com.x.chat.beta.testflight",
       "developerName": "Unknown Developer",
-      "iconURL": "",
+      "iconURL": null,
       "localizedDescription": "from @thescholarslounge |\n----------------\nxChat Beta (requires iOS 26)\nMade by @nollidzsab\ndecrypted by @eeveedecrypterbot\nprepatched already thanks to asdfzxcvbn0 ipapatch bot found here",
       "versions": [
         {
