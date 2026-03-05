@@ -3,6 +3,32 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Open",
+      "version": "26.10",
+      "versionDate": "2026-03-05",
+      "size": 103364815,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.ipa",
+      "developerName": "Open Inc.",
+      "bundleIdentifier": "com.o-p-e-n.open",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/c9/0d/c0c90d8e-a38d-2681-9161-7da4a7f4ed0b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpen: Breathwork + Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 26.10\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.o-p-e-n.open\nDeveloper: Open Inc.",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Crsel",
+      "version": "1.3.6",
+      "versionDate": "2026-03-05",
+      "size": 150216349,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.frameoneapps.Crsel_Crsel_1.3.6.ipa",
+      "developerName": "Georgy Romelashvili",
+      "bundleIdentifier": "com.frameoneapps.Crsel",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2e/95/8e2e95c1-d80b-5cc3-2b7c-9523413f9980/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nCrsel: Сarousel, Video Сollage\n\n• Bundle ID: com.frameoneapps.Crsel\n• Updated to: 1.3.6\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "#DRIVE",
       "version": "3.1.438",
       "versionDate": "2026-03-05",
