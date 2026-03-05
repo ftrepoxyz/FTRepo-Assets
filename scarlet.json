@@ -5,6 +5,33 @@
   },
   "data": [
     {
+      "name": "Bunpo",
+      "version": "3.5.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.N2BunpouApp.yuki_Sideloadbypass2_3.5.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.N2BunpouApp.yuki",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/d5/c5/97d5c57f-e140-efaa-a0b6-26c07ec5378b/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nBunpo: Learn Japanese\n\nTweak: Platinum Unlocked\n\nVersion: 3.5.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.N2BunpouApp.yuki\nDeveloper: Bunpo Language Learning",
+      "developer": "Bunpo Language Learning",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/e1/61/eae161b5-c501-d7d4-4f54-201c3f3e85a8/eca99410-bc01-4837-af87-5a5b6dc8b41b_k_U002cch_U002cj2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/99/2a/ee992a0f-63af-6b69-325d-1f6eeee94a96/c4dfd54a-986a-4445-90cd-4d1c90db9805_m2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/1d/28/d31d2857-344a-ee08-b43f-89424aeb0dce/8e92d51d-2f3f-448e-8139-8828ae32224d_s3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/33/6d/70336d99-a74a-eeff-791f-38debd2bdc76/7ed9539a-a151-46c1-b457-a93a1c6bc6fd_m4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/e9/03/41e903c5-2c20-f36e-ede5-d927a771a17b/f3091b0c-c816-497b-8659-3ff50684dabd_m3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/46/51/3e4651b6-75f0-013b-7c6d-417ba88ba685/02aa5f78-fe8c-4214-9d10-e28551c02c1a_m5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/cd/3f/09cd3f08-0075-1b97-c922-0d58fa68a71a/da4f5960-9201-43eb-96bf-720a67ce834a_pronounce_es1-22.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/08/7c/02087ca2-ac4e-1624-384a-5aef2a0af48b/a30a4012-aa7c-4e38-9155-926081c4bfd9_pronounce_es1-2.png/392x696bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "YouTube",
       "version": "21.09.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.google.ios.youtube_MadeByMohkg_21.09.3.ipa",
