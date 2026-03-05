@@ -3,6 +3,19 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Twitter",
+      "version": "11.71.1",
+      "versionDate": "2026-03-05",
+      "size": 190234504,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TwitDate_11.71.1.ipa",
+      "developerName": "X Corp.",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/85/ae/d985ae30-cb26-999f-b954-9e81e6e23e21/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nClassic BHTwitter+ 11.71.1\n\n- Twitter to 11.71.1\n- Info: NeoFreeBird witch is a fork of BHTwitter\n- Classic style NeoFreeBird\n- TwitDate\n- OLED Keyboard\n- Added TWIGalaxy\n- FixTwitterLogin\n- Patch already included\n- TwitterNoID\n\nCracked by @Jacks_Apps0510\nApp decrypted by @eeveedecrypterbot",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Rest",
       "version": "3.176.0",
       "versionDate": "2026-03-05",
@@ -1373,19 +1386,6 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/85/ae/d985ae30-cb26-999f-b954-9e81e6e23e21/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBHX\nAwesome tweak for Twitter\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "X",
-      "version": "11.71",
-      "versionDate": "2026-03-05",
-      "size": 173230154,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.atebits.Tweetie2_TWIGalaxy_11.71.ipa",
-      "developerName": "X Corp.",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/85/ae/d985ae30-cb26-999f-b954-9e81e6e23e21/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTWIGalaxy\n\nMake Twitter Better!\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
       "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
