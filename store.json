@@ -3,6 +3,250 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "Voloco",
+      "bundleIdentifier": "com.resonantcavity.Voloco",
+      "developerName": "Resonant Cavity, LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/40/d8/ad40d8f3-1b78-9861-764a-2814da186bb0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVoloco: Vocal Recording Studio\n\nTweak: Subscription Unlocked\n\nVersion: 9.13.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.resonantcavity.Voloco\nDeveloper: Resonant Cavity, LLC",
+      "versions": [
+        {
+          "version": "9.13.2",
+          "date": "2026-03-06",
+          "size": 146497465,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.resonantcavity.Voloco_popuprifty_9.13.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.13.2",
+      "versionDate": "2026-03-06T11:03:58.832Z",
+      "size": 146497465,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.resonantcavity.Voloco_popuprifty_9.13.2.ipa"
+    },
+    {
+      "name": "Paired",
+      "bundleIdentifier": "io.betterhalf.app",
+      "developerName": "Better Half Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/6d/44/5d6d445f-5a91-cc1e-94fa-ba4f15d2406d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPaired: Couples & Relationship\n\nPremium features unlocked\n\nTweak made by Dell\n\nMinimum OS version 15.5\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "2.73.0",
+          "date": "2026-03-06",
+          "size": 43832101,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/io.betterhalf.app_PairedPatch_2.73.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.73.0",
+      "versionDate": "2026-03-06T11:03:41.748Z",
+      "size": 43832101,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/io.betterhalf.app_PairedPatch_2.73.0.ipa"
+    },
+    {
+      "name": "SnapEdit",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "developerName": "SilverAI Joint Stock Company",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/2f/1a/b42f1a3a-9a96-c08d-9945-05555ebeb8c8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSnapEdit - Remove Objects AI\n\nPremium features unlocked\n\n⚠️ AI is NOT unlocked\n\nTweak made by David\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "6.4.3",
+          "date": "2026-03-06",
+          "size": 78977000,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.sfun.snapedit_Sideloadbypass2_6.4.3.ipa"
+        },
+        {
+          "version": "6.4.3",
+          "date": "2026-03-06",
+          "size": 84101399,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.sfun.snapedit_SnapEdit_6.4.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.4.3",
+      "versionDate": "2026-03-06T11:03:34.828Z",
+      "size": 78977000,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.sfun.snapedit_Sideloadbypass2_6.4.3.ipa"
+    },
+    {
+      "name": "Reface",
+      "bundleIdentifier": "com.neocortext.doublicatapp",
+      "developerName": "NEOCORTEXT, INC.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/00/8a/7b008a1d-5d04-ac3c-0c95-864b02f5c7f7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nReface: Face Swap AI Photo App\n\nPro features unlocked\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "6.2.0",
+          "date": "2026-03-06",
+          "size": 109239816,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.neocortext.doublicatapp_FixCrash2_6.2.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.2.0",
+      "versionDate": "2026-03-06T11:03:24.540Z",
+      "size": 109239816,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.neocortext.doublicatapp_FixCrash2_6.2.0.ipa"
+    },
+    {
+      "name": "Documents",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "developerName": "Readdle Technologies Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDocuments: File Manager & Docs\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "8.19.6",
+          "date": "2026-03-06",
+          "size": 348365477,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.readdle.ReaddleDocsIPad_Documents_8.19.6.ipa"
+        },
+        {
+          "version": "8.19.6",
+          "date": "2026-03-06",
+          "size": 357431677,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.19.6",
+      "versionDate": "2026-03-06T11:03:11.926Z",
+      "size": 348365477,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.readdle.ReaddleDocsIPad_Documents_8.19.6.ipa"
+    },
+    {
+      "name": "WL Analysis",
+      "bundleIdentifier": "com.karolsmolak.WL-analysis",
+      "developerName": "Karol Smolak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/25/9b/53259ba1-3e40-808b-bb09-f9c628124a40/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWL Analysis\n\nTap on buy then cancel\n\n⚠️ only works with Trollstore / Jailbreak. It crashes when sideloaded\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "1.4.9",
+          "date": "2026-03-06",
+          "size": 16539928,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.karolsmolak.WL-analysis_SatellaJailed_1.4.9.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.4.9",
+      "versionDate": "2026-03-06T11:02:43.647Z",
+      "size": 16539928,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.karolsmolak.WL-analysis_SatellaJailed_1.4.9.ipa"
+    },
+    {
+      "name": "AlfredCamera",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "developerName": "Alfred Systems Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/bb/99/3bbb990f-9a66-0911-b214-761f379e84f0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAlfred Home Security Camera\n \nPro features unlocked\n \nTap on restore or restart app if pro is not unlocked\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "2026.4.0",
+          "date": "2026-03-06",
+          "size": 129556297,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.kalavision.alfred_RevenueCatFix26_2026.4.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.4.0",
+      "versionDate": "2026-03-06T11:02:39.830Z",
+      "size": 129556297,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.kalavision.alfred_RevenueCatFix26_2026.4.0.ipa"
+    },
+    {
+      "name": "Captions",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "developerName": "Captions, LLC (US)",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c3/66/55c366e5-bb10-dc0b-2b4f-225acdbc85d5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nCaptions: For Talking Videos\n\nPro features unlocked\n\n⚠️ AI is NOT unlocked!\n\nTweak made by blatant\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "13.8.0",
+          "date": "2026-03-06",
+          "size": 410909763,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/boomer.Smart-Video_Captions_13.8.0.ipa"
+        },
+        {
+          "version": "13.8.0",
+          "date": "2026-03-06",
+          "size": 416576858,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/boomer.Smart-Video_Captions_13.8.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "13.8.0",
+      "versionDate": "2026-03-06T11:02:23.918Z",
+      "size": 410909763,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/boomer.Smart-Video_Captions_13.8.0.ipa"
+    },
+    {
+      "name": "Messenger ",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "Meta Platforms, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/a6/5c/31a65c68-60ab-bb92-f38b-a6e0b955f0cb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFacebook Messenger Flow\n\nA lightweight Messenger enhancer\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "551.0.0",
+          "date": "2026-03-06",
+          "size": 70421258,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.facebook.Messenger_Flow_551.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "551.0.0",
+      "versionDate": "2026-03-06T11:01:49.424Z",
+      "size": 70421258,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.facebook.Messenger_Flow_551.0.0.ipa"
+    },
+    {
+      "name": "SimplySing",
+      "bundleIdentifier": "com.joytunes.Sing",
+      "developerName": "Simply Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/44/37/2444370c-d825-715a-08b9-66236a2de10a/AppIcon-new-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSimply Sing: My Singing App\n\nPremium features unlocked\n\nTweak made by Никита\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "versions": [
+        {
+          "version": "3.0.1",
+          "date": "2026-03-06",
+          "size": 96158903,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.joytunes.Sing_SimplySingPatch_3.0.1.ipa"
+        },
+        {
+          "version": "3.0.1",
+          "date": "2026-03-06",
+          "size": 118825249,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.joytunes.Sing_SimplyCrack_3.0.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.0.1",
+      "versionDate": "2026-03-06T11:01:39.613Z",
+      "size": 96158903,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.joytunes.Sing_SimplySingPatch_3.0.1.ipa"
+    },
+    {
+      "name": "superagent",
+      "bundleIdentifier": "com.agent.super.extension.safari",
+      "developerName": "Super Agent, Inc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/e6/4a/8ae64aaa-a22e-8f22-9f63-026cbbfd4456/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSuper Agent for Safari\n\n• Bundle ID: com.agent.super.extension.safari\n• Updated to: 3.48\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⚠️Use esign + paid certificate.\n>Ignore purchase page and restart the app.\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "3.48.0",
+          "date": "2026-03-06",
+          "size": 40273253,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.agent.super.extension.safari_AutoRcSideload_3.48.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.48.0",
+      "versionDate": "2026-03-06T11:01:27.279Z",
+      "size": 40273253,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.agent.super.extension.safari_AutoRcSideload_3.48.0.ipa"
+    },
+    {
       "name": "Spotify Spotify (EeveeSpotify)",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
@@ -1777,46 +2021,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.sillens.iShape_LifesumCrack_23.7.1.ipa"
     },
     {
-      "name": "Documents",
-      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-      "developerName": "Readdle Technologies Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDocuments: File Manager & Docs\n\n• Bundle ID: com.readdle.ReaddleDocsIPad\n• Updated to: 8.19.6\n• Minimum iOS: 16.0\n• Patched\n• Modifier: DocumentsPlus Unlocked\n• Tweaked by @blatants\n\n• Note:\nNo \"Update available\" popup 😄\n\nッ Jailbreak Repo | ♡ Support",
-      "versions": [
-        {
-          "version": "8.19.6",
-          "date": "2026-03-06",
-          "size": 357431677,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.6.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "8.19.6",
-      "versionDate": "2026-03-06T09:37:14.999Z",
-      "size": 357431677,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.6.ipa"
-    },
-    {
-      "name": "SimplySing",
-      "bundleIdentifier": "com.joytunes.Sing",
-      "developerName": "Simply Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/44/37/2444370c-d825-715a-08b9-66236a2de10a/AppIcon-new-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSimply Sing: My Singing App\n\n• Bundle ID: com.joytunes.Sing\n• Updated to: 3.0.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ Jailbreak Repo | ♡ Support",
-      "versions": [
-        {
-          "version": "3.0.1",
-          "date": "2026-03-06",
-          "size": 118825249,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.joytunes.Sing_SimplyCrack_3.0.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.0.1",
-      "versionDate": "2026-03-06T09:37:10.545Z",
-      "size": 118825249,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.joytunes.Sing_SimplyCrack_3.0.1.ipa"
-    },
-    {
       "name": "Crsel",
       "bundleIdentifier": "com.frameoneapps.Crsel",
       "developerName": "Georgy Romelashvili",
@@ -1835,46 +2039,6 @@
       "versionDate": "2026-03-06T09:36:51.281Z",
       "size": 150216349,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.frameoneapps.Crsel_Crsel_1.3.6.ipa"
-    },
-    {
-      "name": "SnapEdit",
-      "bundleIdentifier": "com.sfun.snapedit",
-      "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/2f/1a/b42f1a3a-9a96-c08d-9945-05555ebeb8c8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.4.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "versions": [
-        {
-          "version": "6.4.3",
-          "date": "2026-03-06",
-          "size": 84101399,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.sfun.snapedit_SnapEdit_6.4.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "6.4.3",
-      "versionDate": "2026-03-06T09:36:44.359Z",
-      "size": 84101399,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.sfun.snapedit_SnapEdit_6.4.3.ipa"
-    },
-    {
-      "name": "Captions",
-      "bundleIdentifier": "boomer.Smart-Video",
-      "developerName": "Captions, LLC (US)",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c3/66/55c366e5-bb10-dc0b-2b4f-225acdbc85d5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCaptions: AI Edits Your Video\n\n• Bundle ID: boomer.Smart-Video\n• Updated to: 13.8.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Scale Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app if subscription isn't active.\nOnly subscription is unlocked!! Credits cannot be unlocked.\n\nッ Jailbreak Repo | ♡ Support",
-      "versions": [
-        {
-          "version": "13.8.0",
-          "date": "2026-03-06",
-          "size": 416576858,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/boomer.Smart-Video_Captions_13.8.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "13.8.0",
-      "versionDate": "2026-03-06T09:36:32.703Z",
-      "size": 416576858,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/boomer.Smart-Video_Captions_13.8.0.ipa"
     },
     {
       "name": "Videoleap",
