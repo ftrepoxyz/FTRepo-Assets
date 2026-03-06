@@ -3,6 +3,46 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "ParrotPal",
+      "bundleIdentifier": "ai.parrotpal",
+      "developerName": "Scott Flear",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/f0/10/f9f01031-6fed-1477-42a6-cf5c5071fc9b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Calorie Counter: ParrotPal\n\nTweak: Subscription Unlocked\n\nVersion: 187\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: ai.parrotpal\nDeveloper: Scott Flear",
+      "versions": [
+        {
+          "version": "187",
+          "date": "2026-03-06",
+          "size": 108639048,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/ai.parrotpal_Sideloadbypass2_187.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "187",
+      "versionDate": "2026-03-06T14:30:35.517Z",
+      "size": 108639048,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/ai.parrotpal_Sideloadbypass2_187.ipa"
+    },
+    {
+      "name": "Recify",
+      "bundleIdentifier": "com.bakeryscent.recipeai",
+      "developerName": "MIRO CONSULTING SRL",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/ff/85/e9ff851a-b020-0fd4-3cb7-8c368d0ac7b4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRecipe Keeper & Saver - Recify\n\nTweak: Premium Unlocked\n\nVersion: 1.6.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: com.bakeryscent.recipeai\nDeveloper: MIRO CONSULTING SRL",
+      "versions": [
+        {
+          "version": "1.6.7",
+          "date": "2026-03-06",
+          "size": 38064283,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.bakeryscent.recipeai_Sideloadbypass2_1.6.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.6.7",
+      "versionDate": "2026-03-06T14:00:29.342Z",
+      "size": 38064283,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.bakeryscent.recipeai_Sideloadbypass2_1.6.7.ipa"
+    },
+    {
       "name": "Voloco",
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, LLC",
