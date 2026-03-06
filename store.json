@@ -3,6 +3,38 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "MyFitnessPal",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "developerName": "MyFitnessPal, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5f/ad/7c5fad01-895c-8540-1202-9145e27bcf64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.9.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "26.9.1",
+          "date": "2026-03-05",
+          "size": 142501208,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.myfitnesspal.mfp_sideloadKeychainfix_26.9.1.ipa"
+        },
+        {
+          "version": "26.9.0",
+          "date": "2026-03-05",
+          "size": 135165680,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.myfitnesspal.mfp_MyFitnessPal_26.9.0.ipa"
+        },
+        {
+          "version": "26.9.0",
+          "date": "2026-03-05",
+          "size": 142491010,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.myfitnesspal.mfp_sideloadKeychainfix_26.9.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.9.1",
+      "versionDate": "2026-03-05T23:49:49.200Z",
+      "size": 142501208,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.myfitnesspal.mfp_sideloadKeychainfix_26.9.1.ipa"
+    },
+    {
       "name": "Twitter",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
@@ -1579,32 +1611,6 @@
       "versionDate": "2026-03-05T10:31:27.918Z",
       "size": 78864672,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.mindsethealth.ibs_RevenueCatFix26_49.1.ipa"
-    },
-    {
-      "name": "MyFitnessPal",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "developerName": "MyFitnessPal, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5f/ad/7c5fad01-895c-8540-1202-9145e27bcf64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMyFitnessPal: Calorie Counter\n\nPremium features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "versions": [
-        {
-          "version": "26.9.0",
-          "date": "2026-03-05",
-          "size": 135165680,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.myfitnesspal.mfp_MyFitnessPal_26.9.0.ipa"
-        },
-        {
-          "version": "26.9.0",
-          "date": "2026-03-05",
-          "size": 142491010,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.myfitnesspal.mfp_sideloadKeychainfix_26.9.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.9.0",
-      "versionDate": "2026-03-05T10:31:17.513Z",
-      "size": 135165680,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.myfitnesspal.mfp_MyFitnessPal_26.9.0.ipa"
     },
     {
       "name": "AllTrails",
