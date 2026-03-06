@@ -3,6 +3,32 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "!Habits",
+      "bundleIdentifier": "com.andyworks.streaks",
+      "developerName": "Not Boring Software LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/66/3e/d6663e3e-1ede-34a6-3ddb-d5312d4d4fa7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\n(Not Boring) Habits\n\n• Bundle ID: com.andyworks.streaks\n• Updated to: 3.32\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "3.32",
+          "date": "2026-03-06",
+          "size": 210534334,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.andyworks.streaks_NotBoringCrack_3.32.ipa"
+        },
+        {
+          "version": "3.31",
+          "date": "2026-03-05",
+          "size": 208089498,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.andyworks.streaks_NotBoringCrack_3.31.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.32",
+      "versionDate": "2026-03-06T01:19:54.723Z",
+      "size": 210534334,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.andyworks.streaks_NotBoringCrack_3.32.ipa"
+    },
+    {
       "name": "TapeKit",
       "bundleIdentifier": "com.widget-kid",
       "developerName": "Pavel Serdziukou",
@@ -2589,26 +2615,6 @@
       "versionDate": "2026-03-05T08:40:29.103Z",
       "size": 111613751,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.joytunes.Draw_SimplyCrack_1.6.14.ipa"
-    },
-    {
-      "name": "!Habits",
-      "bundleIdentifier": "com.andyworks.streaks",
-      "developerName": "Not Boring Software LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/66/3e/d6663e3e-1ede-34a6-3ddb-d5312d4d4fa7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\n(Not Boring) Habits\n\n• Bundle ID: com.andyworks.streaks\n• Updated to: 3.31\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "versions": [
-        {
-          "version": "3.31",
-          "date": "2026-03-05",
-          "size": 208089498,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.andyworks.streaks_NotBoringCrack_3.31.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.31",
-      "versionDate": "2026-03-05T08:40:12.409Z",
-      "size": 208089498,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.andyworks.streaks_NotBoringCrack_3.31.ipa"
     },
     {
       "name": "Power Thesaurus",
