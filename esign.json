@@ -3,6 +3,19 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "TapeKit",
+      "version": "3.1.0",
+      "versionDate": "2026-03-06",
+      "size": 145223504,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.widget-kid_Sideloadbypass2_3.1.0.ipa",
+      "developerName": "Pavel Serdziukou",
+      "bundleIdentifier": "com.widget-kid",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/c4/c1/5cc4c1eb-2cef-1fa0-2209-59f1a2637261/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTapeKit・Lab of Top Widgets・GIF\n\nTweak: Premium Unlocked\n\nVersion: 3.1.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.widget-kid\nDeveloper: Pavel Serdziukou",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "MyFitnessPal",
       "version": "26.9.1",
       "versionDate": "2026-03-05",
