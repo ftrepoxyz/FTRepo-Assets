@@ -3,6 +3,112 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "Reddit",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "REDDIT, INC.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/34/6d/93346d07-1aad-aa61-0cd2-0322721dd27a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nRedditDeluxe 2026.09.0\n- Reddit 2026.09.0\n- RedditFilter (MoeReddit) \n- RedditUndoScrollUp\n- redditColorComments\n- OledKeyboard\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
+      "versions": [
+        {
+          "version": "2026.09.0",
+          "date": "2026-03-06",
+          "size": 162160558,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.reddit.Reddit_redditColorComments_2026.09.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.09.0",
+      "versionDate": "2026-03-06T06:21:25.239Z",
+      "size": 162160558,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.reddit.Reddit_redditColorComments_2026.09.0.ipa"
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/16/5b/00165b98-657a-056c-8ae2-3bfe162c51f7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nYT Music Ultimate+ 9.09\n- YouTube Music 9.09\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- YouMusicPIP\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
+      "versions": [
+        {
+          "version": "9.09.3",
+          "date": "2026-03-06",
+          "size": 103099229,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.google.ios.youtubemusic_YTMABConfig_9.09.3.ipa"
+        },
+        {
+          "version": "9.09.3",
+          "date": "2026-03-06",
+          "size": 103089283,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.google.ios.youtubemusic_YTMABConfig_9.09.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.09.3",
+      "versionDate": "2026-03-06T06:21:05.214Z",
+      "size": 103099229,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.google.ios.youtubemusic_YTMABConfig_9.09.3.ipa"
+    },
+    {
+      "name": "Twitch",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "Twitch Interactive, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/e0/48/4be04802-10c9-ce75-c113-ebed876dcd4a/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTry this",
+      "versions": [
+        {
+          "version": "28.4",
+          "date": "2026-03-06",
+          "size": 147314945,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/tv.twitch_TwitchAdBlock_28.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "28.4",
+      "versionDate": "2026-03-06T06:19:45.519Z",
+      "size": 147314945,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/tv.twitch_TwitchAdBlock_28.4.ipa"
+    },
+    {
+      "name": "Discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Discord Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/71/22/357122bd-547c-de26-b341-d5cdfe6e3e65/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nHopefully this works",
+      "versions": [
+        {
+          "version": "318.0",
+          "date": "2026-03-06",
+          "size": 90767535,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.hammerandchisel.discord_BTLoader_318.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "318.0",
+      "versionDate": "2026-03-06T06:19:27.469Z",
+      "size": 90767535,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.hammerandchisel.discord_BTLoader_318.0.ipa"
+    },
+    {
+      "name": "KineMaster",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "developerName": "KineMaster Corporation",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/1a/3d/e31a3dcb-0386-fba5-c848-7a9b5f1b2fb1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nKineMaster - Video Editor\n\n• Bundle ID: com.kinemaster.kios\n• Updated to: 8.1.2\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription and ignore \"Get Premium\" banner.\n\nッ Jailbreak Repo | ♡ Support",
+      "versions": [
+        {
+          "version": "8.1.2",
+          "date": "2026-03-06",
+          "size": 115967258,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.kinemaster.kios_KineMaster_8.1.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.1.2",
+      "versionDate": "2026-03-06T05:49:44.291Z",
+      "size": 115967258,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.kinemaster.kios_KineMaster_8.1.2.ipa"
+    },
+    {
       "name": "Gratitude",
       "bundleIdentifier": "com.northstar.gratitude",
       "developerName": "Hapjoy Technologies Private Limited",
