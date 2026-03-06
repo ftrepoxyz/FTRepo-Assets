@@ -3,6 +3,19 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Block Blast!",
+      "version": "6.8.4",
+      "versionDate": "2026-03-06",
+      "size": 131920923,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.4.ipa",
+      "developerName": "Hungry Studio",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3c/8d/823c8d06-4d8b-dedd-8c05-c662f5f8c02f/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 6.8.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Emphasis",
       "version": "10.4.1",
       "versionDate": "2026-03-06",
@@ -892,19 +905,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/e7/40/3ce740db-326e-bf1f-b3af-f17830d44899/51352ad3-c27e-43b7-88c0-59d2146e903f_Playful_19_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/5f/21/965f2125-3559-f465-859c-1501fd639e97/eb40aec7-dac3-4b23-a980-ae3868dd84b5_Playful_20_5.5.png/392x696bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Block Blast!",
-      "version": "6.8.3",
-      "versionDate": "2026-03-05",
-      "size": 129529028,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.3.ipa",
-      "developerName": "Hungry Studio",
-      "bundleIdentifier": "com.blockpuzzle.us.ios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3c/8d/823c8d06-4d8b-dedd-8c05-c662f5f8c02f/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 6.8.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
