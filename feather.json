@@ -3,6 +3,1664 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "Riverside",
+      "bundleIdentifier": "RVS-Riverside.fm",
+      "developerName": "riverside.fm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/68/df/b668df3e-5c6a-92e8-0514-7f107aed5673/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRiverside Podcast Video Studio\n\nTweak: Premium Unlocked\n\nVersion: 4.9.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: RVS-Riverside.fm\nDeveloper: riverside.fm",
+      "versions": [
+        {
+          "version": "4.9.0",
+          "date": "2026-03-06",
+          "size": 203464394,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/RVS-Riverside.fm_Sideloadbypass2_4.9.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.9.0",
+      "versionDate": "2026-03-06T06:41:13.773Z",
+      "size": 203464394,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/RVS-Riverside.fm_Sideloadbypass2_4.9.0.ipa"
+    },
+    {
+      "name": "Open",
+      "bundleIdentifier": "com.o-p-e-n.open",
+      "developerName": "Open Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/c9/0d/c0c90d8e-a38d-2681-9161-7da4a7f4ed0b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpen: Breathwork + Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 26.09\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.o-p-e-n.open\nDeveloper: Open Inc.",
+      "versions": [
+        {
+          "version": "26.09",
+          "date": "2026-03-06",
+          "size": 102035249,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.o-p-e-n.open_Sideloadbypass2_26.09.ipa"
+        },
+        {
+          "version": "26.10.1",
+          "date": "2026-03-05",
+          "size": 103364842,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.1.ipa"
+        },
+        {
+          "version": "26.10",
+          "date": "2026-03-05",
+          "size": 103364815,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.09",
+      "versionDate": "2026-03-06T06:40:49.793Z",
+      "size": 102035249,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.o-p-e-n.open_Sideloadbypass2_26.09.ipa"
+    },
+    {
+      "name": "Combyne",
+      "bundleIdentifier": "com.pungme.combyne",
+      "developerName": "combyne GmbH",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ef/5a/29ef5abb-9d01-6c8e-24d6-6fd42966b756/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCombyne - your perfect Outfit\n\nTweak: Subscription Unlocked\n\nVersion: 8.6.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.pungme.combyne\nDeveloper: combyne GmbH",
+      "versions": [
+        {
+          "version": "8.6.5",
+          "date": "2026-03-06",
+          "size": 55423292,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.pungme.combyne_Sideloadbypass2_8.6.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.6.5",
+      "versionDate": "2026-03-06T06:40:36.031Z",
+      "size": 55423292,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.pungme.combyne_Sideloadbypass2_8.6.5.ipa"
+    },
+    {
+      "name": "HiiKER",
+      "bundleIdentifier": "com.hiiker.hiiker",
+      "developerName": "Waymarked Trails LTD",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/a5/df/cfa5dfbf-df3f-6d14-1cb9-1d514e48b48c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nHiiKER: The Hiking Maps App\n\nTweak: Premium Unlocked\n\nVersion: 26.2.12\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.hiiker.hiiker\nDeveloper: Waymarked Trails LTD",
+      "versions": [
+        {
+          "version": "26.2.12",
+          "date": "2026-03-06",
+          "size": 115059167,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.hiiker.hiiker_Sideloadbypass2_26.2.12.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.2.12",
+      "versionDate": "2026-03-06T06:40:27.732Z",
+      "size": 115059167,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.hiiker.hiiker_Sideloadbypass2_26.2.12.ipa"
+    },
+    {
+      "name": "Bill Tracker",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "developerName": "Bill Tracker Pro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/df/c7/96dfc745-6ce9-4d82-fbb1-0e4c1e1ce6a6/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.48\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "versions": [
+        {
+          "version": "4.1.48",
+          "date": "2026-03-06",
+          "size": 146616175,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.48.ipa"
+        },
+        {
+          "version": "4.1.49",
+          "date": "2026-03-06",
+          "size": 146644332,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.49.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.1.48",
+      "versionDate": "2026-03-06T06:40:12.416Z",
+      "size": 146616175,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.48.ipa"
+    },
+    {
+      "name": "Pinterest",
+      "bundleIdentifier": "pinterest",
+      "developerName": "Pinterest",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/2d/09/032d0903-de67-fa76-08ed-4f93eeb4b9c3/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPinterest\n\nTweak: Download Videos, Sponsored Pins Removed\n\nVersion: 14.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: pinterest\nDeveloper: Pinterest",
+      "versions": [
+        {
+          "version": "14.7",
+          "date": "2026-03-06",
+          "size": 114093577,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/pinterest_Sideloadbypass2_14.7.ipa"
+        },
+        {
+          "version": "14.8",
+          "date": "2026-03-05",
+          "size": 115607718,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/pinterest_Sideloadbypass2_14.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "14.7",
+      "versionDate": "2026-03-06T06:39:55.143Z",
+      "size": 114093577,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/pinterest_Sideloadbypass2_14.7.ipa"
+    },
+    {
+      "name": "Bend",
+      "bundleIdentifier": "com.bowery-digital.bend",
+      "developerName": "Bowery Digital",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/20/55/d0205556-aa4a-45e2-457e-a0fe0de9dd8e/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nStretching & Flexibility: Bend\n\nTweak: Subscription Unlocked\n\nVersion: 7.2.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.bowery-digital.bend\nDeveloper: Bowery Digital",
+      "versions": [
+        {
+          "version": "7.2.1",
+          "date": "2026-03-06",
+          "size": 104450908,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.bowery-digital.bend_Sideloadbypass2_7.2.1.ipa"
+        },
+        {
+          "version": "7.2.2",
+          "date": "2026-03-06",
+          "size": 104857254,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.bowery-digital.bend_Sideloadbypass2_7.2.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "7.2.1",
+      "versionDate": "2026-03-06T06:39:40.915Z",
+      "size": 104450908,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.bowery-digital.bend_Sideloadbypass2_7.2.1.ipa"
+    },
+    {
+      "name": "Podcast App",
+      "bundleIdentifier": "com.evolve.podcast",
+      "developerName": "Evolve Global, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/55/9b/f7559bdd-8207-62a2-7a8f-13203c943a23/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPodcast App\n\nTweak: Premium Unlocked\n\nVersion: 6.138.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.podcast\nDeveloper: Evolve Global, Inc.",
+      "versions": [
+        {
+          "version": "6.138.0",
+          "date": "2026-03-06",
+          "size": 47104302,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.evolve.podcast_Sideloadbypass2_6.138.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.138.0",
+      "versionDate": "2026-03-06T06:39:27.533Z",
+      "size": 47104302,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.evolve.podcast_Sideloadbypass2_6.138.0.ipa"
+    },
+    {
+      "name": "Cozy Couples",
+      "bundleIdentifier": "com.clarity.cozycouples",
+      "developerName": "Clarity Applications",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/47/23/4947239a-ece5-19c1-a4e7-3f24a1708abf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCozy Couples: Relationship App\n\nTweak: Subscription Unlocked\n\nVersion: 1.65\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.clarity.cozycouples\nDeveloper: Clarity Applications",
+      "versions": [
+        {
+          "version": "1.65",
+          "date": "2026-03-06",
+          "size": 39196710,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.clarity.cozycouples_Sideloadbypass2_1.65.ipa"
+        },
+        {
+          "version": "1.66",
+          "date": "2026-03-06",
+          "size": 39204516,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.clarity.cozycouples_Sideloadbypass2_1.66.ipa"
+        },
+        {
+          "version": "1.67",
+          "date": "2026-03-05",
+          "size": 39211752,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.clarity.cozycouples_Sideloadbypass2_1.67.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.65",
+      "versionDate": "2026-03-06T06:39:19.960Z",
+      "size": 39196710,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.clarity.cozycouples_Sideloadbypass2_1.65.ipa"
+    },
+    {
+      "name": "BAM!",
+      "bundleIdentifier": "com.optiflow.imposter",
+      "developerName": "Red Ocean Apps",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/85/7e/cb857ef5-16ef-16e4-626b-e1cbc23ee76b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.19\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
+      "versions": [
+        {
+          "version": "2.19",
+          "date": "2026-03-06",
+          "size": 97224161,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.optiflow.imposter_Sideloadbypass2_2.19.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.19",
+      "versionDate": "2026-03-06T06:39:14.157Z",
+      "size": 97224161,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.optiflow.imposter_Sideloadbypass2_2.19.ipa"
+    },
+    {
+      "name": "Soundscape",
+      "bundleIdentifier": "com.soundscape.music",
+      "developerName": "Soundscape",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/41/0a/e8410aef-55dd-b5e1-1ec8-3d2158b3b082/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 9.8.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
+      "versions": [
+        {
+          "version": "9.8.6",
+          "date": "2026-03-06",
+          "size": 85952984,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.soundscape.music_Sideloadbypass2_9.8.6.ipa"
+        },
+        {
+          "version": "9.8.7",
+          "date": "2026-03-06",
+          "size": 85952814,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.soundscape.music_Sideloadbypass2_9.8.7.ipa"
+        },
+        {
+          "version": "9.8.8",
+          "date": "2026-03-06",
+          "size": 85953680,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.soundscape.music_Sideloadbypass2_9.8.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.8.6",
+      "versionDate": "2026-03-06T06:39:02.205Z",
+      "size": 85952984,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.soundscape.music_Sideloadbypass2_9.8.6.ipa"
+    },
+    {
+      "name": "Unstuck",
+      "bundleIdentifier": "com.unstuckstudy",
+      "developerName": "Quizard AI, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/5c/6f/5e5c6f67-5699-b9f4-8d86-e5c382067520/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nUnstuck AI Note Taker\n\nTweak: Subscription Unlocked\n\nVersion: 1.7.11\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.4\nBundle ID: com.unstuckstudy\nDeveloper: Quizard AI, Inc.",
+      "versions": [
+        {
+          "version": "1.7.11",
+          "date": "2026-03-06",
+          "size": 26713461,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.unstuckstudy_Sideloadbypass2_1.7.11.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.7.11",
+      "versionDate": "2026-03-06T06:38:51.602Z",
+      "size": 26713461,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.unstuckstudy_Sideloadbypass2_1.7.11.ipa"
+    },
+    {
+      "name": "GPTalk",
+      "bundleIdentifier": "labs.mehmet.gptalk",
+      "developerName": "TAMERZA LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b4/66/6db4662e-a7e2-79f7-2933-d0758b0a4838/AppIcon18-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAsk AI Anything - Aido\n\nTweak: Subscription Unlocked\n\nVersion: 1.9.9\n\nNotes: press restore purchase if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: labs.mehmet.gptalk\nDeveloper: TAMERZA LLC",
+      "versions": [
+        {
+          "version": "1.9.9",
+          "date": "2026-03-06",
+          "size": 99546923,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/labs.mehmet.gptalk_popuprifty_1.9.9.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.9.9",
+      "versionDate": "2026-03-06T06:38:46.329Z",
+      "size": 99546923,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/labs.mehmet.gptalk_popuprifty_1.9.9.ipa"
+    },
+    {
+      "name": "Reframe",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "developerName": "Glucobit Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/86/14/e8861472-7e5e-7eb9-94d9-03381b94a84d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.28\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.",
+      "versions": [
+        {
+          "version": "3.9.28",
+          "date": "2026-03-06",
+          "size": 268358031,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.28.ipa"
+        },
+        {
+          "version": "3.9.29",
+          "date": "2026-03-06",
+          "size": 268425498,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.29.ipa"
+        },
+        {
+          "version": "3.9.30",
+          "date": "2026-03-06",
+          "size": 268451640,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.30.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.9.28",
+      "versionDate": "2026-03-06T06:38:33.219Z",
+      "size": 268358031,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.28.ipa"
+    },
+    {
+      "name": "MealPrepPro",
+      "bundleIdentifier": "com.nibbleapps.MealPrepPro",
+      "developerName": "Nibble Apps Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a2/5b/64a25b0a-6897-50f2-2079-7d248c9cc046/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMealPrepPro Planner & Recipes\n\nTweak: Subscription Unlocked\n\nVersion: 3.135\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.nibbleapps.MealPrepPro\nDeveloper: Nibble Apps Ltd",
+      "versions": [
+        {
+          "version": "3.135",
+          "date": "2026-03-06",
+          "size": 125716431,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.nibbleapps.MealPrepPro_Sideloadbypass2_3.135.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.135",
+      "versionDate": "2026-03-06T06:38:07.842Z",
+      "size": 125716431,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.nibbleapps.MealPrepPro_Sideloadbypass2_3.135.ipa"
+    },
+    {
+      "name": "RoutineFlow",
+      "bundleIdentifier": "app.routineflow.routineflow",
+      "developerName": "Thomas Wolfgang Menzel",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b9/96/88b99601-df19-d74d-f408-67106485145e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRoutineFlow: Guided Routines\n\nTweak: Subscription Unlocked\n\nVersion: 0.9.94\n\nNotes: Restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: app.routineflow.routineflow\nDeveloper: Thomas Wolfgang Menzel",
+      "versions": [
+        {
+          "version": "0.9.94",
+          "date": "2026-03-06",
+          "size": 36582636,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/app.routineflow.routineflow_Sideloadbypass2_0.9.94.ipa"
+        },
+        {
+          "version": "0.9.95",
+          "date": "2026-03-06",
+          "size": 36711007,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/app.routineflow.routineflow_Sideloadbypass2_0.9.95.ipa"
+        },
+        {
+          "version": "1.0.7",
+          "date": "2026-03-05",
+          "size": 36718436,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/app.routineflow.routineflow_Sideloadbypass2_1.0.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "0.9.94",
+      "versionDate": "2026-03-06T06:37:51.609Z",
+      "size": 36582636,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/app.routineflow.routineflow_Sideloadbypass2_0.9.94.ipa"
+    },
+    {
+      "name": "SnoreLab",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "developerName": "Reviva Softworks Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/99/a0/3999a08a-d156-9b2a-93ad-3ac877e9de5a/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSnoreLab : Record Your Snoring\n\nTweak: Satella injected for unlocking subscription\n\nVersion: 6.2.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.revivasoftworks.Snore-Lab\nDeveloper: Reviva Softworks Ltd",
+      "versions": [
+        {
+          "version": "6.2.2",
+          "date": "2026-03-06",
+          "size": 153328791,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.2.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.2.2",
+      "versionDate": "2026-03-06T06:37:35.492Z",
+      "size": 153328791,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.2.2.ipa"
+    },
+    {
+      "name": "xZoom Cam",
+      "bundleIdentifier": "com.mobndev.xZoom-pro",
+      "developerName": "Slava Plisko",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/a3/de/cca3def5-a634-0f23-bc91-2f9e7526b4a2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nxZoom Cam - PRO Camera\n\nTweak: Premium Unlocked\n\nVersion: 1.1.419\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.mobndev.xZoom-pro\nDeveloper: Slava Plisko",
+      "versions": [
+        {
+          "version": "1.1.419",
+          "date": "2026-03-06",
+          "size": 29942457,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.mobndev.xZoom-pro_Sideloadbypass2_1.1.419.ipa"
+        },
+        {
+          "version": "1.1.420",
+          "date": "2026-03-06",
+          "size": 29942484,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.mobndev.xZoom-pro_Sideloadbypass2_1.1.420.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.1.419",
+      "versionDate": "2026-03-06T06:37:18.266Z",
+      "size": 29942457,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.mobndev.xZoom-pro_Sideloadbypass2_1.1.419.ipa"
+    },
+    {
+      "name": "Zen Color",
+      "bundleIdentifier": "happy.paint.color.coloring.number",
+      "developerName": "Oakever Games",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/9f/75/849f75cf-f081-2a83-4ac1-dd9d291d4dd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nZen Color - Color By Number\n\nTweak: No Ads\n\nVersion: 1.84.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: happy.paint.color.coloring.number\nDeveloper: Oakever Games",
+      "versions": [
+        {
+          "version": "1.84.7",
+          "date": "2026-03-06",
+          "size": 135147642,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/happy.paint.color.coloring.number_NetworkBlocker.adblocker._1.84.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.84.7",
+      "versionDate": "2026-03-06T06:37:12.787Z",
+      "size": 135147642,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/happy.paint.color.coloring.number_NetworkBlocker.adblocker._1.84.7.ipa"
+    },
+    {
+      "name": "Photoroom",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "developerName": "Photoroom",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/17/42/451742df-6962-117a-f032-0a58c3068d4a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhotoroom: AI Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2026.08.02\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.dr1ven.eraser\nDeveloper: Photoroom",
+      "versions": [
+        {
+          "version": "2026.08.02",
+          "date": "2026-03-06",
+          "size": 124638390,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.dr1ven.eraser_Sideloadbypass2_2026.08.02.ipa"
+        },
+        {
+          "version": "2026.09.01",
+          "date": "2026-03-05",
+          "size": 124801759,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.dr1ven.eraser_Sideloadbypass2_2026.09.01.ipa"
+        },
+        {
+          "version": "2026.09.01",
+          "date": "2026-03-05",
+          "size": 134176128,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.dr1ven.eraser_Photoroom_2026.09.01.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.08.02",
+      "versionDate": "2026-03-06T06:36:57.225Z",
+      "size": 124638390,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.dr1ven.eraser_Sideloadbypass2_2026.08.02.ipa"
+    },
+    {
+      "name": "Car Match",
+      "bundleIdentifier": "com.grandgames.carmatch",
+      "developerName": "Grand Games A.Ş.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/54/91/675491f4-9a49-55d0-6fd8-98903f978ba8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCar Match - Traffic Puzzle\n\nTweak: Free iAP\n\nVersion: 0.0.537\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.carmatch\nDeveloper: Grand Games A.Ş.",
+      "versions": [
+        {
+          "version": "0.0.537",
+          "date": "2026-03-06",
+          "size": 157897360,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.grandgames.carmatch_Sideloadbypass2_0.0.537.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "0.0.537",
+      "versionDate": "2026-03-06T06:36:41.677Z",
+      "size": 157897360,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.grandgames.carmatch_Sideloadbypass2_0.0.537.ipa"
+    },
+    {
+      "name": "Gratitude",
+      "bundleIdentifier": "com.northstar.gratitude",
+      "developerName": "Hapjoy Technologies Private Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/3c/8a/ea3c8afe-0924-4839-6b2e-d37cda54ba6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.4.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
+      "versions": [
+        {
+          "version": "5.4.7",
+          "date": "2026-03-06",
+          "size": 43755001,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.northstar.gratitude_Sideloadbypass2_5.4.7.ipa"
+        },
+        {
+          "version": "5.4.8",
+          "date": "2026-03-06",
+          "size": 43772103,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.northstar.gratitude_Sideloadbypass2_5.4.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.4.7",
+      "versionDate": "2026-03-06T06:36:23.459Z",
+      "size": 43755001,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.northstar.gratitude_Sideloadbypass2_5.4.7.ipa"
+    },
+    {
+      "name": "PlantSnap",
+      "bundleIdentifier": "net.plantsnap.freemium",
+      "developerName": "PlantSnap, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/59/ce/9059ce54-3892-285b-70ff-3146f2d38a19/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPlantSnap - Plant Identifier\n\nTweak: Subscription Unlocked\n\nVersion: 7.6.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: net.plantsnap.freemium\nDeveloper: PlantSnap, Inc.",
+      "versions": [
+        {
+          "version": "7.6.1",
+          "date": "2026-03-06",
+          "size": 55189541,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/net.plantsnap.freemium_Sideloadbypass2_7.6.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "7.6.1",
+      "versionDate": "2026-03-06T06:36:16.421Z",
+      "size": 55189541,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/net.plantsnap.freemium_Sideloadbypass2_7.6.1.ipa"
+    },
+    {
+      "name": "CHANI",
+      "bundleIdentifier": "com.chaninicholas.chaniapp",
+      "developerName": "Chani Nicholas Incorporated",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/e7/d6/7be7d634-dfd9-974a-cef0-a925d64f2a46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCHANI: Your Astrology Guide\n\nTweak: Premium Unlocked\n\nVersion: 2.7.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.chaninicholas.chaniapp\nDeveloper: Chani Nicholas Incorporated",
+      "versions": [
+        {
+          "version": "2.7.1",
+          "date": "2026-03-06",
+          "size": 37637051,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.chaninicholas.chaniapp_Sideloadbypass2_2.7.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.7.1",
+      "versionDate": "2026-03-06T06:35:56.053Z",
+      "size": 37637051,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.chaninicholas.chaniapp_Sideloadbypass2_2.7.1.ipa"
+    },
+    {
+      "name": "Captions",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "developerName": "Captions, LLC (US)",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c3/66/55c366e5-bb10-dc0b-2b4f-225acdbc85d5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCaptions: For Talking Videos\n\nTweak: Premium Unlocked\n\nVersion: 13.7.0\n\nNotes: Press restore once then close the app if subscription isn't activated\n\n@riftysIPAlibrary\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: boomer.Smart-Video\nDeveloper: Captions, LLC (US)",
+      "versions": [
+        {
+          "version": "13.7.0",
+          "date": "2026-03-06",
+          "size": 407229002,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/boomer.Smart-Video_Sideloadbypass2_13.7.0.ipa"
+        },
+        {
+          "version": "13.8.0",
+          "date": "2026-03-05",
+          "size": 416576858,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/boomer.Smart-Video_Captions_13.8.0.ipa"
+        },
+        {
+          "version": "13.8.0",
+          "date": "2026-03-05",
+          "size": 409068822,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/boomer.Smart-Video_Sideloadbypass2_13.8.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "13.7.0",
+      "versionDate": "2026-03-06T06:35:49.705Z",
+      "size": 407229002,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/boomer.Smart-Video_Sideloadbypass2_13.7.0.ipa"
+    },
+    {
+      "name": "Invoice Simple",
+      "bundleIdentifier": "com.logicalengine.qsei",
+      "developerName": "Zenvoice Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/6b/c2/d56bc2b3-3180-83d4-260d-589b86fb6070/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nInvoice Simple: Invoice Maker\n\nTweak: Premium Unlocked\n\nVersion: 5.13.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.logicalengine.qsei\nDeveloper: Zenvoice Inc.",
+      "versions": [
+        {
+          "version": "5.13.0",
+          "date": "2026-03-06",
+          "size": 71743087,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.logicalengine.qsei_Sideloadbypass2_5.13.0.ipa"
+        },
+        {
+          "version": "5.13.1",
+          "date": "2026-03-05",
+          "size": 71743380,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.logicalengine.qsei_Sideloadbypass2_5.13.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.13.0",
+      "versionDate": "2026-03-06T06:34:58.826Z",
+      "size": 71743087,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.logicalengine.qsei_Sideloadbypass2_5.13.0.ipa"
+    },
+    {
+      "name": "OffScreen",
+      "bundleIdentifier": "tech.miidii.off-screen",
+      "developerName": "MD Studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/00/51/2900519e-a076-de61-c91c-7e0313faf41e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOffScreen: Screen Time Control\n\nTweak: Subscription Unlocked\n\nVersion: 3.20.7\n\nNotes: Some features require trollstore/jailbreak\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: tech.miidii.off-screen\nDeveloper: MD Studio",
+      "versions": [
+        {
+          "version": "3.20.7",
+          "date": "2026-03-06",
+          "size": 61981995,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/tech.miidii.off-screen_Sideloadbypass2_3.20.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.20.7",
+      "versionDate": "2026-03-06T06:34:48.092Z",
+      "size": 61981995,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/tech.miidii.off-screen_Sideloadbypass2_3.20.7.ipa"
+    },
+    {
+      "name": "I Am Sober",
+      "bundleIdentifier": "com.thehungrywasp.iamsober",
+      "developerName": "I Am Sober LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/53/38/ba533869-5b56-22da-b673-19a53d5f81de/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nI Am Sober\n\nTweak: Premium Unlocked\n\nVersion: 8.5.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.thehungrywasp.iamsober\nDeveloper: I Am Sober LLC",
+      "versions": [
+        {
+          "version": "8.5.3",
+          "date": "2026-03-06",
+          "size": 41686490,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.thehungrywasp.iamsober_Sideloadbypass2_8.5.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.5.3",
+      "versionDate": "2026-03-06T06:34:28.259Z",
+      "size": 41686490,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.thehungrywasp.iamsober_Sideloadbypass2_8.5.3.ipa"
+    },
+    {
+      "name": "Box Box",
+      "bundleIdentifier": "club.boxbox.widgets-ios",
+      "developerName": "ARKADE CLUB PRIVATE LIMITED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/73/48/f9734812-afa3-83b4-4862-a9331863f84b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBox Box Club: Formula Widgets\n\nTweak: Ultra Unlocked\n\nVersion: 5.3.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: club.boxbox.widgets-ios\nDeveloper: ARKADE CLUB PRIVATE LIMITED",
+      "versions": [
+        {
+          "version": "5.3.5",
+          "date": "2026-03-06",
+          "size": 85025261,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/club.boxbox.widgets-ios_Sideloadbypass2_5.3.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.3.5",
+      "versionDate": "2026-03-06T06:34:20.569Z",
+      "size": 85025261,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/club.boxbox.widgets-ios_Sideloadbypass2_5.3.5.ipa"
+    },
+    {
+      "name": "Phlow",
+      "bundleIdentifier": "com.app.phlow",
+      "developerName": "Phlow, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/48/4c/43484c80-ed87-2275-9913-de8e2f5b1828/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhlow: Camera & Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2.1.7\n\nNotes: press restore purchase\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.2\nBundle ID: com.app.phlow\nDeveloper: Phlow, Inc.",
+      "versions": [
+        {
+          "version": "2.1.7",
+          "date": "2026-03-06",
+          "size": 189420162,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.app.phlow_Sideloadbypass2_2.1.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.1.7",
+      "versionDate": "2026-03-06T06:34:10.242Z",
+      "size": 189420162,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.app.phlow_Sideloadbypass2_2.1.7.ipa"
+    },
+    {
+      "name": "ParrotPal",
+      "bundleIdentifier": "ai.parrotpal",
+      "developerName": "Scott Flear",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/f0/10/f9f01031-6fed-1477-42a6-cf5c5071fc9b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Calorie Counter: ParrotPal\n\nTweak: Subscription Unlocked\n\nVersion: 185\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: ai.parrotpal\nDeveloper: Scott Flear",
+      "versions": [
+        {
+          "version": "185",
+          "date": "2026-03-06",
+          "size": 108445920,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/ai.parrotpal_Sideloadbypass2_185.ipa"
+        },
+        {
+          "version": "186",
+          "date": "2026-03-05",
+          "size": 108717249,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/ai.parrotpal_Sideloadbypass2_186.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "185",
+      "versionDate": "2026-03-06T06:33:48.042Z",
+      "size": 108445920,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/ai.parrotpal_Sideloadbypass2_185.ipa"
+    },
+    {
+      "name": "VocaCircle",
+      "bundleIdentifier": "com.genau.MemoryCircle",
+      "developerName": "Genau Factory",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/bb/c8/aabbc8ab-1473-137c-78bf-8cb2b70fb5fa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVocaCircle: AI Smart Flashcard\n\nTweak: Subscription Unlocked\n\nVersion: 3.2.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.MemoryCircle\nDeveloper: Genau Factory",
+      "versions": [
+        {
+          "version": "3.2.4",
+          "date": "2026-03-06",
+          "size": 14420037,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.genau.MemoryCircle_Sideloadbypass2_3.2.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.2.4",
+      "versionDate": "2026-03-06T06:33:34.492Z",
+      "size": 14420037,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.genau.MemoryCircle_Sideloadbypass2_3.2.4.ipa"
+    },
+    {
+      "name": "Spiik",
+      "bundleIdentifier": "io.fadel.Spiik",
+      "developerName": "Fadel.io OU",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/dd/fa/fcddfa73-e031-e7fe-c45e-81fe0817340b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVoice Recorder AI Notes: Spiik\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.128\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: io.fadel.Spiik\nDeveloper: Fadel.io OU",
+      "versions": [
+        {
+          "version": "1.0.128",
+          "date": "2026-03-06",
+          "size": 28793315,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/io.fadel.Spiik_Sideloadbypass2_1.0.128.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0.128",
+      "versionDate": "2026-03-06T06:33:31.023Z",
+      "size": 28793315,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/io.fadel.Spiik_Sideloadbypass2_1.0.128.ipa"
+    },
+    {
+      "name": "MoneyCircle",
+      "bundleIdentifier": "com.genau.MoneyCircle",
+      "developerName": "Genau Factory",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/51/7a/07517aa0-e287-4f33-f6de-479a416d8174/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 2.9.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
+      "versions": [
+        {
+          "version": "2.9.9",
+          "date": "2026-03-06",
+          "size": 13620481,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.genau.MoneyCircle_Sideloadbypass2_2.9.9.ipa"
+        },
+        {
+          "version": "3.0.0",
+          "date": "2026-03-05",
+          "size": 13625010,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.genau.MoneyCircle_Sideloadbypass2_3.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.9.9",
+      "versionDate": "2026-03-06T06:33:25.367Z",
+      "size": 13620481,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.genau.MoneyCircle_Sideloadbypass2_2.9.9.ipa"
+    },
+    {
+      "name": "Hunter Assassin",
+      "bundleIdentifier": "com.rubygames.assassin",
+      "developerName": "RUBY OYUN VE YAZILIM DANISMANLIK SANAYI TICARET ANONIM SIRKETI",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/36/3a/8d363a92-22c1-9bcd-18fc-90a06a554426/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nHunter Assassin\n\nTweak: Unlimited Gems, - Unlimited Coins, - No Ads\n\nVersion: 2.039\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.rubygames.assassin\nDeveloper: RUBY OYUN VE YAZILIM DANISMANLIK SANAYI TICARET ANONIM SIRKETI",
+      "versions": [
+        {
+          "version": "2.039",
+          "date": "2026-03-06",
+          "size": 111553340,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.rubygames.assassin_hunterassassin_2.039.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.039",
+      "versionDate": "2026-03-06T06:33:21.697Z",
+      "size": 111553340,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.rubygames.assassin_hunterassassin_2.039.ipa"
+    },
+    {
+      "name": "Parking Jam 3D",
+      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
+      "developerName": "Popcore GmbH",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/6a/4f/006a4fb2-8138-1cd7-73c0-234570cf427b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nParking Jam 3D\n\nTweak: No Ads, Unlimited Coins\n\nVersion: 231.0.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.uqxuwtxbbu.parkingjam\nDeveloper: Popcore GmbH",
+      "versions": [
+        {
+          "version": "231.0.5",
+          "date": "2026-03-06",
+          "size": 220824020,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "231.0.5",
+      "versionDate": "2026-03-06T06:33:07.693Z",
+      "size": 220824020,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.5.ipa"
+    },
+    {
+      "name": "Daygram",
+      "bundleIdentifier": "com.saltycrackers.daygram",
+      "developerName": "EUIHYUNG JUNG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/cb/c7/02cbc728-1ef8-13d0-d572-aded88867185/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nDaygram: Daily Journal\n\nTweak: Premium Unlocked\n\nVersion: 5.6.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: com.saltycrackers.daygram\nDeveloper: EUIHYUNG JUNG",
+      "versions": [
+        {
+          "version": "5.6.0",
+          "date": "2026-03-06",
+          "size": 29595906,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.saltycrackers.daygram_Sideloadbypass2_5.6.0.ipa"
+        },
+        {
+          "version": "5.6.2",
+          "date": "2026-03-06",
+          "size": 29597325,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.saltycrackers.daygram_Sideloadbypass2_5.6.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.6.0",
+      "versionDate": "2026-03-06T06:32:43.167Z",
+      "size": 29595906,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.saltycrackers.daygram_Sideloadbypass2_5.6.0.ipa"
+    },
+    {
+      "name": "Youper",
+      "bundleIdentifier": "br.com.youper",
+      "developerName": "Youper, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/51/fc/5551fcc3-0a01-d4de-b6ea-b5ec1531889d/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nYouper: AI Mental Health\n\nTweak: Subscription Unlocked\n\nVersion: 12.07.004\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: br.com.youper\nDeveloper: Youper, Inc.",
+      "versions": [
+        {
+          "version": "12.07.004",
+          "date": "2026-03-06",
+          "size": 13666336,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/br.com.youper_Sideloadbypass2_12.07.004.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "12.07.004",
+      "versionDate": "2026-03-06T06:32:27.170Z",
+      "size": 13666336,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/br.com.youper_Sideloadbypass2_12.07.004.ipa"
+    },
+    {
+      "name": "Flourish",
+      "bundleIdentifier": "vladchechura.AffirmationsEN",
+      "developerName": "Positive Mindset sp. z o. o.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/79/eb/8079eb2b-5e3a-a3f3-9ac2-85220f0edf43/App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nFlourish - Daily Affirmations\n\nTweak: Subscription Unlocked\n\nVersion: 1.8.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: vladchechura.AffirmationsEN\nDeveloper: Positive Mindset sp. z o. o.",
+      "versions": [
+        {
+          "version": "1.8.6",
+          "date": "2026-03-06",
+          "size": 58454701,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/vladchechura.AffirmationsEN_Sideloadbypass2_1.8.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.8.6",
+      "versionDate": "2026-03-06T06:32:23.707Z",
+      "size": 58454701,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/vladchechura.AffirmationsEN_Sideloadbypass2_1.8.6.ipa"
+    },
+    {
+      "name": "SCRL",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "developerName": "Appostrophe AB",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/d1/88c1d187-6363-58e2-07ec-23174741b815/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.28.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
+      "versions": [
+        {
+          "version": "9.28.1",
+          "date": "2026-03-06",
+          "size": 77255079,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.dopedevelopment.Panels_Sideloadbypass2_9.28.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.28.1",
+      "versionDate": "2026-03-06T06:32:15.210Z",
+      "size": 77255079,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.dopedevelopment.Panels_Sideloadbypass2_9.28.1.ipa"
+    },
+    {
+      "name": "Sticky Widgets",
+      "bundleIdentifier": "com.tylerhillsman.Stickies",
+      "developerName": "1881 Digital, LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/b8/78/1eb878a7-0955-eb1a-f55a-09b630362b71/sw-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSticky Widgets\n\nTweak: Subscription Unlocked\n\nVersion: 5.0.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.tylerhillsman.Stickies\nDeveloper: 1881 Digital, LLC",
+      "versions": [
+        {
+          "version": "5.0.6",
+          "date": "2026-03-06",
+          "size": 39327133,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.tylerhillsman.Stickies_Sideloadbypass2_5.0.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.0.6",
+      "versionDate": "2026-03-06T06:32:05.677Z",
+      "size": 39327133,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.tylerhillsman.Stickies_Sideloadbypass2_5.0.6.ipa"
+    },
+    {
+      "name": "Scanner Pro",
+      "bundleIdentifier": "com.readdle.Scanner",
+      "developerName": "Readdle Technologies Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/90/9e/e2909e46-4414-7cd8-cffe-c378c0b29f4f/ScannerPro-NoFlag-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nScanner Pro - Scan Documents\n\nTweak: Plus Unlocked\n\nVersion: 8.34.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.readdle.Scanner\nDeveloper: Readdle Technologies Limited",
+      "versions": [
+        {
+          "version": "8.34.0",
+          "date": "2026-03-06",
+          "size": 273038732,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.readdle.Scanner_AutoRevenueCat_8.34.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.34.0",
+      "versionDate": "2026-03-06T06:31:54.105Z",
+      "size": 273038732,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.readdle.Scanner_AutoRevenueCat_8.34.0.ipa"
+    },
+    {
+      "name": "Imposter",
+      "bundleIdentifier": "at.vucak.impostor",
+      "developerName": "Sven Vucak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/9a/44/a39a44be-b868-f179-2005-791bf3386a3c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nImposter - Party Word Game\n\nTweak: Premium Unlocked\n\nVersion: 4.2.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 12.0\nBundle ID: at.vucak.impostor\nDeveloper: Sven Vucak",
+      "versions": [
+        {
+          "version": "4.2.0",
+          "date": "2026-03-06",
+          "size": 37118762,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/at.vucak.impostor_Sideloadbypass2_4.2.0.ipa"
+        },
+        {
+          "version": "4.2.1",
+          "date": "2026-03-05",
+          "size": 37140089,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/at.vucak.impostor_Sideloadbypass2_4.2.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.2.0",
+      "versionDate": "2026-03-06T06:31:23.152Z",
+      "size": 37118762,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/at.vucak.impostor_Sideloadbypass2_4.2.0.ipa"
+    },
+    {
+      "name": "Sunlitt",
+      "bundleIdentifier": "eu.sun.litt",
+      "developerName": "Flipping Hues Srls",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/35/ea/9c35eaee-6ebf-8d44-4bd7-dc387e14301a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSun Position and Path Sunlitt\n\nTweak: Premium Unlocked\n\nVersion: 4.9.11\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: eu.sun.litt\nDeveloper: Flipping Hues Srls",
+      "versions": [
+        {
+          "version": "4.9.11",
+          "date": "2026-03-06",
+          "size": 115073437,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/eu.sun.litt_Sideloadbypass2_4.9.11.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.9.11",
+      "versionDate": "2026-03-06T06:31:17.284Z",
+      "size": 115073437,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/eu.sun.litt_Sideloadbypass2_4.9.11.ipa"
+    },
+    {
+      "name": "MusicBox",
+      "bundleIdentifier": "br.com.marcosatanaka.musicbox",
+      "developerName": "Loop Apps LTDA",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/5e/2c/7a5e2c52-b7e5-8927-9455-d94fb016692d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMusicBox: Save Music for Later\n\nTweak: Subscription Unlocked\n\nVersion: 1.6.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: br.com.marcosatanaka.musicbox\nDeveloper: Loop Apps LTDA",
+      "versions": [
+        {
+          "version": "1.6.7",
+          "date": "2026-03-06",
+          "size": 20893845,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/br.com.marcosatanaka.musicbox_Sideloadbypass2_1.6.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.6.7",
+      "versionDate": "2026-03-06T06:31:03.544Z",
+      "size": 20893845,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/br.com.marcosatanaka.musicbox_Sideloadbypass2_1.6.7.ipa"
+    },
+    {
+      "name": "QuoteUp",
+      "bundleIdentifier": "vladchechura.MotivationEN",
+      "developerName": "Positive Mindset sp. z o. o.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/6b/73/be6b73bf-6a09-0087-e033-37b77021f684/App_Icon-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nQuoteUp - Daily Motivation\n\nTweak: Premium Unlocked\n\nVersion: 1.5.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: vladchechura.MotivationEN\nDeveloper: Positive Mindset sp. z o. o.",
+      "versions": [
+        {
+          "version": "1.5.3",
+          "date": "2026-03-06",
+          "size": 80670999,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/vladchechura.MotivationEN_Sideloadbypass2_1.5.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.5.3",
+      "versionDate": "2026-03-06T06:30:59.239Z",
+      "size": 80670999,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/vladchechura.MotivationEN_Sideloadbypass2_1.5.3.ipa"
+    },
+    {
+      "name": "MusicHarbor",
+      "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
+      "developerName": "Loop Apps LTDA",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/86/c6/6086c651-b783-63d0-3c57-2a479432cf39/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMusicHarbor - Track New Music\n\nTweak: Premium Unlocked\n\nVersion: 5.1.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: br.com.marcosatanaka.music-harbor\nDeveloper: Loop Apps LTDA",
+      "versions": [
+        {
+          "version": "5.1.8",
+          "date": "2026-03-06",
+          "size": 46180741,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/br.com.marcosatanaka.music-harbor_Sideloadbypass2_5.1.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.1.8",
+      "versionDate": "2026-03-06T06:30:47.598Z",
+      "size": 46180741,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/br.com.marcosatanaka.music-harbor_Sideloadbypass2_5.1.8.ipa"
+    },
+    {
+      "name": "Sofascore",
+      "bundleIdentifier": "com.SofaScore.iOS",
+      "developerName": "Sofascore",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/39/40/0039408b-165a-39a7-89b8-a29a9a7d762a/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSofascore - Live sports scores\n\nTweak: Premium Unlocked\n\nVersion: 26.02.12\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.SofaScore.iOS\nDeveloper: Sofascore",
+      "versions": [
+        {
+          "version": "26.02.12",
+          "date": "2026-03-06",
+          "size": 94314885,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.SofaScore.iOS_Sideloadbypass2_26.02.12.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.02.12",
+      "versionDate": "2026-03-06T06:30:40.467Z",
+      "size": 94314885,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.SofaScore.iOS_Sideloadbypass2_26.02.12.ipa"
+    },
+    {
+      "name": "Quiche Browser",
+      "bundleIdentifier": "org.quiche.Browser",
+      "developerName": "Gregory de Jonckheere",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ba/5f/36ba5fc7-4969-7c28-a655-308f3a8de71a/AppIcon-Series6-1-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nQuiche Browser\n\nTweak: Plus Unlocked\n\nVersion: 1.69.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: org.quiche.Browser\nDeveloper: Gregory de Jonckheere",
+      "versions": [
+        {
+          "version": "1.69.3",
+          "date": "2026-03-06",
+          "size": 87196150,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/org.quiche.Browser_Sideloadbypass2_1.69.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.69.3",
+      "versionDate": "2026-03-06T06:30:05.340Z",
+      "size": 87196150,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/org.quiche.Browser_Sideloadbypass2_1.69.3.ipa"
+    },
+    {
+      "name": "Sworkit",
+      "bundleIdentifier": "AHorseCalledScarlet.Sworkit",
+      "developerName": "Nexercise",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/c6/8f/99c68f71-8d2d-8c9e-b510-10dbf2ef0769/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSworkit Fitness & Wellness App\n\nTweak: Subscription Unlocked\n\nVersion: 11.4.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: AHorseCalledScarlet.Sworkit\nDeveloper: Nexercise",
+      "versions": [
+        {
+          "version": "11.4.5",
+          "date": "2026-03-06",
+          "size": 73042548,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/AHorseCalledScarlet.Sworkit_Sideloadbypass2_11.4.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "11.4.5",
+      "versionDate": "2026-03-06T06:29:53.362Z",
+      "size": 73042548,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/AHorseCalledScarlet.Sworkit_Sideloadbypass2_11.4.5.ipa"
+    },
+    {
+      "name": "Imprint",
+      "bundleIdentifier": "com.polywise.weekly",
+      "developerName": "Polywise, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/7c/ff/557cffc1-2953-e2f7-c85e-231960784100/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nImprint: Learn Visually\n\nTweak: Subscription Unlocked\n\nVersion: 5.0.16\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.polywise.weekly\nDeveloper: Polywise, Inc.",
+      "versions": [
+        {
+          "version": "5.0.16",
+          "date": "2026-03-06",
+          "size": 118558887,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.polywise.weekly_Sideloadbypass2_5.0.16.ipa"
+        },
+        {
+          "version": "5.0.17",
+          "date": "2026-03-05",
+          "size": 118560646,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.polywise.weekly_Sideloadbypass2_5.0.17.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.0.16",
+      "versionDate": "2026-03-06T06:29:43.226Z",
+      "size": 118558887,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.polywise.weekly_Sideloadbypass2_5.0.16.ipa"
+    },
+    {
+      "name": "Lungy",
+      "bundleIdentifier": "com.pia.lungy",
+      "developerName": "Pi-A",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/1e/76/9e1e76ad-82cf-8109-159a-032c277018d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLungy: Breathing Exercises\n\nTweak: Premium Unlocked\n\nVersion: 3.0.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.pia.lungy\nDeveloper: Pi-A",
+      "versions": [
+        {
+          "version": "3.0.7",
+          "date": "2026-03-06",
+          "size": 222894123,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.pia.lungy_Sideloadbypass2_3.0.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.0.7",
+      "versionDate": "2026-03-06T06:29:25.873Z",
+      "size": 222894123,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.pia.lungy_Sideloadbypass2_3.0.7.ipa"
+    },
+    {
+      "name": "FarOut",
+      "bundleIdentifier": "com.guthookhikes.ATHiker",
+      "developerName": "Atlas Guides DE, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/fb/97/66fb9726-f252-a640-3daa-1d578afef94d/FarOut_Icon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nFarOut Guides\n\nTweak: Unlimited Unlocked\n\nVersion: 15.1\n\nNotes: sign in then restart app to unlock unlimited\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.guthookhikes.ATHiker\nDeveloper: Atlas Guides DE, Inc.",
+      "versions": [
+        {
+          "version": "15.1",
+          "date": "2026-03-06",
+          "size": 127902701,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.guthookhikes.ATHiker_Sideloadbypass2_15.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "15.1",
+      "versionDate": "2026-03-06T06:28:48.042Z",
+      "size": 127902701,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.guthookhikes.ATHiker_Sideloadbypass2_15.1.ipa"
+    },
+    {
+      "name": "Accountit",
+      "bundleIdentifier": "DesignTech-SIA.Spendit",
+      "developerName": "DesignTech SIA",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/73/1e/85731ed9-6dcd-78e4-9cdd-8c61626561c6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nExpense Tracker - Accountit\n\nTweak: Subscription Unlocked\n\nVersion: 2.6.9\n\nNotes: press restore once then just press X on all the banners\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: DesignTech-SIA.Spendit\nDeveloper: DesignTech SIA",
+      "versions": [
+        {
+          "version": "2.6.9",
+          "date": "2026-03-06",
+          "size": 57669442,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/DesignTech-SIA.Spendit_popuprifty_2.6.9.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.6.9",
+      "versionDate": "2026-03-06T06:28:33.117Z",
+      "size": 57669442,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/DesignTech-SIA.Spendit_popuprifty_2.6.9.ipa"
+    },
+    {
+      "name": "Planta",
+      "bundleIdentifier": "com.stromming.Plants",
+      "developerName": "Planta AB",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/3b/e8/b43be835-9443-68a8-a9d7-c2bc46336b13/AppIcon-Prod-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPlanta: Plant & Garden Care\n\nTweak: Subscription Unlocked\n\nVersion: 3.106.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.stromming.Plants\nDeveloper: Planta AB",
+      "versions": [
+        {
+          "version": "3.106.2",
+          "date": "2026-03-06",
+          "size": 109326754,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.stromming.Plants_Sideloadbypass2_3.106.2.ipa"
+        },
+        {
+          "version": "3.106.3",
+          "date": "2026-03-05",
+          "size": 109329516,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.stromming.Plants_Sideloadbypass2_3.106.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.106.2",
+      "versionDate": "2026-03-06T06:28:25.217Z",
+      "size": 109326754,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.stromming.Plants_Sideloadbypass2_3.106.2.ipa"
+    },
+    {
+      "name": "Lyfta",
+      "bundleIdentifier": "com.lyftaios",
+      "developerName": "Lindberg Development AS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/52/18/0c521811-e714-0e90-d77b-7313d29f8f29/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.137\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS",
+      "versions": [
+        {
+          "version": "1.137",
+          "date": "2026-03-06",
+          "size": 47809161,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.lyftaios_Sideloadbypass2_1.137.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.137",
+      "versionDate": "2026-03-06T06:28:11.659Z",
+      "size": 47809161,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.lyftaios_Sideloadbypass2_1.137.ipa"
+    },
+    {
+      "name": "Detail",
+      "bundleIdentifier": "co.detail.duo",
+      "developerName": "Detail Technologies B.V.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/69/42/e869426d-3c23-44fb-9553-2ba4d4d140d6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nDetail: Camera & Video Editor\n\nTweak: Pro Unlocked\n\nVersion: 5.5.8\n\nNotes: restart app if it isnt pro\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: co.detail.duo\nDeveloper: Detail Technologies B.V.",
+      "versions": [
+        {
+          "version": "5.5.8",
+          "date": "2026-03-06",
+          "size": 210378528,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/co.detail.duo_Sideloadbypass2_5.5.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.5.8",
+      "versionDate": "2026-03-06T06:28:04.507Z",
+      "size": 210378528,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/co.detail.duo_Sideloadbypass2_5.5.8.ipa"
+    },
+    {
+      "name": "Shinobi",
+      "bundleIdentifier": "com.shinobiapp.shinobi",
+      "developerName": "Jeremy Pitault",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/54/85/b154859b-1283-8137-1196-acfd3637f01e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nShinobi: Read Japanese Stories\n\nTweak: Subscription Unlocked\n\nVersion: 1.3.0\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.shinobiapp.shinobi\nDeveloper: Jeremy Pitault",
+      "versions": [
+        {
+          "version": "1.3.0",
+          "date": "2026-03-06",
+          "size": 51851451,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.shinobiapp.shinobi_Sideloadbypass2_1.3.0.ipa"
+        },
+        {
+          "version": "1.3.1",
+          "date": "2026-03-06",
+          "size": 51851005,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.shinobiapp.shinobi_Sideloadbypass2_1.3.1.ipa"
+        },
+        {
+          "version": "1.3.2",
+          "date": "2026-03-05",
+          "size": 51851049,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.shinobiapp.shinobi_Sideloadbypass2_1.3.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.3.0",
+      "versionDate": "2026-03-06T06:27:40.372Z",
+      "size": 51851451,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.shinobiapp.shinobi_Sideloadbypass2_1.3.0.ipa"
+    },
+    {
+      "name": "Block Blast!",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "developerName": "Hungry Studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3c/8d/823c8d06-4d8b-dedd-8c05-c662f5f8c02f/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 6.8.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio",
+      "versions": [
+        {
+          "version": "6.8.2",
+          "date": "2026-03-06",
+          "size": 129514949,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.2.ipa"
+        },
+        {
+          "version": "6.8.4",
+          "date": "2026-03-06",
+          "size": 131920923,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.4.ipa"
+        },
+        {
+          "version": "6.8.3",
+          "date": "2026-03-05",
+          "size": 129529028,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.8.2",
+      "versionDate": "2026-03-06T06:27:32.910Z",
+      "size": 129514949,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.2.ipa"
+    },
+    {
+      "name": "OnTheWay",
+      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
+      "developerName": "Piotr Knapczyk",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/e2/28/4fe22874-cf48-d46f-7515-0d936faa9168/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nWeather on the Way\n\nTweak: Pro Unlocked\n\nVersion: 2.5.0\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: ideastudio.Weather-on-the-Way\nDeveloper: Piotr Knapczyk",
+      "versions": [
+        {
+          "version": "2.5.0",
+          "date": "2026-03-06",
+          "size": 44118174,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/ideastudio.Weather-on-the-Way_Sideloadbypass2_2.5.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.5.0",
+      "versionDate": "2026-03-06T06:27:07.057Z",
+      "size": 44118174,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/ideastudio.Weather-on-the-Way_Sideloadbypass2_2.5.0.ipa"
+    },
+    {
+      "name": "aa",
+      "bundleIdentifier": "com.aagame.aagame",
+      "developerName": "General Adaptive Apps Pty Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/1d/4f/5e1d4ffc-0336-463f-6ee7-bc2401c9afb1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAA Game\n\nTweak: Premium Unlocked\n\nVersion: 7.0.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.aagame.aagame\nDeveloper: General Adaptive Apps Pty Ltd",
+      "versions": [
+        {
+          "version": "7.0.2",
+          "date": "2026-03-06",
+          "size": 40359767,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.aagame.aagame_popuprifty_7.0.2.ipa"
+        },
+        {
+          "version": "7.0.3",
+          "date": "2026-03-05",
+          "size": 40360378,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.aagame.aagame_popuprifty_7.0.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "7.0.2",
+      "versionDate": "2026-03-06T06:26:54.866Z",
+      "size": 40359767,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.aagame.aagame_popuprifty_7.0.2.ipa"
+    },
+    {
+      "name": "Vocal Image",
+      "bundleIdentifier": "app.vocalimage.bessia",
+      "developerName": "Vocal Image OU",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/bd/7d/c9bd7d80-17d8-4e0f-d3b1-da47567d3061/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVocal Image: AI Voice Coach\n\nTweak: Premium Unlocked\n\nVersion: 8.41.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: app.vocalimage.bessia\nDeveloper: Vocal Image OU",
+      "versions": [
+        {
+          "version": "8.41.3",
+          "date": "2026-03-06",
+          "size": 143169576,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/app.vocalimage.bessia_Sideloadbypass2_8.41.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.41.3",
+      "versionDate": "2026-03-06T06:26:41.025Z",
+      "size": 143169576,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/app.vocalimage.bessia_Sideloadbypass2_8.41.3.ipa"
+    },
+    {
+      "name": "s c e n i c",
+      "bundleIdentifier": "com.pinguido.scenic",
+      "developerName": "Applified Life Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/1e/e9/cc1ee91d-566e-2b3c-17a4-3547fc19b652/Scenic_Apple_Icon_Texture-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nScenic Motorcycle Navigation\n\nTweak: Premium Unlocked\n\nVersion: 4.31\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.pinguido.scenic\nDeveloper: Applified Life Ltd.",
+      "versions": [
+        {
+          "version": "4.31",
+          "date": "2026-03-06",
+          "size": 121103823,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.pinguido.scenic_Sideloadbypass2_4.31.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.31",
+      "versionDate": "2026-03-06T06:26:24.921Z",
+      "size": 121103823,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.pinguido.scenic_Sideloadbypass2_4.31.ipa"
+    },
+    {
+      "name": "Solid Starts",
+      "bundleIdentifier": "com.digitas.solidstarts",
+      "developerName": "SolidStarts LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/1d/be/b21dbe1e-a51b-94cd-aef6-215d1d70a0de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSolid Starts: Baby First Foods\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.digitas.solidstarts\nDeveloper: SolidStarts LLC",
+      "versions": [
+        {
+          "version": "4.6.0",
+          "date": "2026-03-06",
+          "size": 84178250,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.digitas.solidstarts_Sideloadbypass2_4.6.0.ipa"
+        },
+        {
+          "version": "4.11.1",
+          "date": "2026-03-05",
+          "size": 84181928,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.digitas.solidstarts_Sideloadbypass2_4.11.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.6.0",
+      "versionDate": "2026-03-06T06:26:09.841Z",
+      "size": 84178250,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.digitas.solidstarts_Sideloadbypass2_4.6.0.ipa"
+    },
+    {
+      "name": "Magic Sort",
+      "bundleIdentifier": "com.grandgames.magicsort",
+      "developerName": "Grand Games A.Ş.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e0/25/71e0255e-c277-9928-83f5-58468d4b4213/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMagic Sort!\n\nTweak: Free iAP\n\nVersion: 0.0.2286\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.magicsort\nDeveloper: Grand Games A.Ş.",
+      "versions": [
+        {
+          "version": "0.0.2286",
+          "date": "2026-03-06",
+          "size": 206084333,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.grandgames.magicsort_Sideloadbypass2_0.0.2286.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "0.0.2286",
+      "versionDate": "2026-03-06T06:25:43.415Z",
+      "size": 206084333,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.grandgames.magicsort_Sideloadbypass2_0.0.2286.ipa"
+    },
+    {
+      "name": "Push Training",
+      "bundleIdentifier": "com.albernackee.blur",
+      "developerName": "Jacob Rice",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/80/23/5a80234a-6043-181d-515b-73b7b6699b9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTreadmill Workout PushTraining\n\nTweak: Premium Unlocked\n\nVersion: 1.1.2602280\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.albernackee.blur\nDeveloper: Jacob Rice",
+      "versions": [
+        {
+          "version": "1.1.2602280",
+          "date": "2026-03-06",
+          "size": 217218277,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.albernackee.blur_Sideloadbypass2_1.1.2602280.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.1.2602280",
+      "versionDate": "2026-03-06T06:24:50.560Z",
+      "size": 217218277,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.albernackee.blur_Sideloadbypass2_1.1.2602280.ipa"
+    },
+    {
+      "name": "Jetpack",
+      "bundleIdentifier": "com.halfbrick.jetpack",
+      "developerName": "Halfbrick Studios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/5f/b7/975fb768-0ead-faff-d690-1835ce44408e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nJetpack Joyride\n\nTweak: Free iAP\n\nVersion: 1.104.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: com.halfbrick.jetpack\nDeveloper: Halfbrick Studios",
+      "versions": [
+        {
+          "version": "1.104.1",
+          "date": "2026-03-06",
+          "size": 308572918,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.halfbrick.jetpack_popuprifty_1.104.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.104.1",
+      "versionDate": "2026-03-06T06:24:26.909Z",
+      "size": 308572918,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.halfbrick.jetpack_popuprifty_1.104.1.ipa"
+    },
+    {
+      "name": "The Way",
+      "bundleIdentifier": "com.thewayapp.mobile",
+      "developerName": "The Way App Inc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/45/a8/ad45a830-67c0-060c-615d-19ec36353028/app-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nThe Way: Meditation Path\n\nTweak: Subscription Unlocked\n\nVersion: 1.17.10\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.thewayapp.mobile\nDeveloper: The Way App Inc",
+      "versions": [
+        {
+          "version": "1.17.10",
+          "date": "2026-03-06",
+          "size": 82639643,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.thewayapp.mobile_Sideloadbypass2_1.17.10.ipa"
+        },
+        {
+          "version": "1.17.11",
+          "date": "2026-03-05",
+          "size": 83018821,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.thewayapp.mobile_Sideloadbypass2_1.17.11.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.17.10",
+      "versionDate": "2026-03-06T06:23:58.215Z",
+      "size": 82639643,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.thewayapp.mobile_Sideloadbypass2_1.17.10.ipa"
+    },
+    {
+      "name": "Offline Games",
+      "bundleIdentifier": "com.media720.offlinegames",
+      "developerName": "720 Media LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/df/85/3edf8518-3ba7-7bf0-4032-d5a2e70b134a/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOffline Games No WiFi Fun 100+\n\nTweak: Ads Removed\n\nVersion: 1.53\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.media720.offlinegames\nDeveloper: 720 Media LLC",
+      "versions": [
+        {
+          "version": "1.53",
+          "date": "2026-03-06",
+          "size": 203223659,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.media720.offlinegames_Sideloadbypass2_1.53.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.53",
+      "versionDate": "2026-03-06T06:23:47.034Z",
+      "size": 203223659,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.media720.offlinegames_Sideloadbypass2_1.53.ipa"
+    },
+    {
+      "name": "WordPal",
+      "bundleIdentifier": "com.dynamicapps.Vocab-Builder",
+      "developerName": "Dynamic Apps Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/4b/20/df4b20d0-cbc7-b4db-4c1a-521ed6f9d4d8/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nWordPal - Vocabulary Builder\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.18\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.dynamicapps.Vocab-Builder\nDeveloper: Dynamic Apps Ltd",
+      "versions": [
+        {
+          "version": "4.6.18",
+          "date": "2026-03-06",
+          "size": 93404744,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.dynamicapps.Vocab-Builder_autoRevenuecat_4.6.18.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.6.18",
+      "versionDate": "2026-03-06T06:23:24.972Z",
+      "size": 93404744,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.dynamicapps.Vocab-Builder_autoRevenuecat_4.6.18.ipa"
+    },
+    {
+      "name": "Tiimo",
+      "bundleIdentifier": "com.tiimo.app",
+      "developerName": "tiimo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ef/17/fbef17ab-d93d-8746-823a-fb1ac415ac7e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTiimo: AI Plan, Focus & To-do\n\nTweak: Premium Unlocked\n\nVersion: 3.44.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.tiimo.app\nDeveloper: tiimo",
+      "versions": [
+        {
+          "version": "3.44.0",
+          "date": "2026-03-06",
+          "size": 93163132,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.tiimo.app_Sideloadbypass2_3.44.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.44.0",
+      "versionDate": "2026-03-06T06:23:12.585Z",
+      "size": 93163132,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.tiimo.app_Sideloadbypass2_3.44.0.ipa"
+    },
+    {
+      "name": "Ereasy",
+      "bundleIdentifier": "background.remover.bg.eraser",
+      "developerName": "Video editor & maker app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5e/26/295e2635-ecb1-e954-fa2b-8ac1e583172f/AppIconV2-0-0-1x_U007ephone-0-11-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Background Remover - Ereasy\n\nTweak: Subscription Unlocked\n\nVersion: 2.11.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: background.remover.bg.eraser\nDeveloper: Video editor & maker app",
+      "versions": [
+        {
+          "version": "2.11.0",
+          "date": "2026-03-06",
+          "size": 88033300,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/background.remover.bg.eraser_Sideloadbypass2_2.11.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.11.0",
+      "versionDate": "2026-03-06T06:23:01.558Z",
+      "size": 88033300,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/background.remover.bg.eraser_Sideloadbypass2_2.11.0.ipa"
+    },
+    {
+      "name": "Breeze",
+      "bundleIdentifier": "com.basenji.mood",
+      "developerName": "Basenji Apps",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/06/ba/4206ba97-dde3-1eb9-d6d9-58b273adffe3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBreeze: Start Self-Discovery\n\nTweak: Subscription Unlocked\n\nVersion: 3.4.6\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.basenji.mood\nDeveloper: Basenji Apps",
+      "versions": [
+        {
+          "version": "3.4.6",
+          "date": "2026-03-06",
+          "size": 191522257,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.basenji.mood_Sideloadbypass2_3.4.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.4.6",
+      "versionDate": "2026-03-06T06:22:49.581Z",
+      "size": 191522257,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.basenji.mood_Sideloadbypass2_3.4.6.ipa"
+    },
+    {
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
@@ -107,52 +1765,6 @@
       "versionDate": "2026-03-06T05:49:44.291Z",
       "size": 115967258,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.kinemaster.kios_KineMaster_8.1.2.ipa"
-    },
-    {
-      "name": "Gratitude",
-      "bundleIdentifier": "com.northstar.gratitude",
-      "developerName": "Hapjoy Technologies Private Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/3c/8a/ea3c8afe-0924-4839-6b2e-d37cda54ba6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.4.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
-      "versions": [
-        {
-          "version": "5.4.8",
-          "date": "2026-03-06",
-          "size": 43772103,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.northstar.gratitude_Sideloadbypass2_5.4.8.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.4.8",
-      "versionDate": "2026-03-06T04:21:58.381Z",
-      "size": 43772103,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.northstar.gratitude_Sideloadbypass2_5.4.8.ipa"
-    },
-    {
-      "name": "Block Blast!",
-      "bundleIdentifier": "com.blockpuzzle.us.ios",
-      "developerName": "Hungry Studio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3c/8d/823c8d06-4d8b-dedd-8c05-c662f5f8c02f/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 6.8.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio",
-      "versions": [
-        {
-          "version": "6.8.4",
-          "date": "2026-03-06",
-          "size": 131920923,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.4.ipa"
-        },
-        {
-          "version": "6.8.3",
-          "date": "2026-03-05",
-          "size": 129529028,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "6.8.4",
-      "versionDate": "2026-03-06T03:49:56.652Z",
-      "size": 131920923,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.4.ipa"
     },
     {
       "name": "Emphasis",
@@ -377,32 +1989,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/zachsim.one.Petty_Sideloadbypass2_8.0.3.ipa"
     },
     {
-      "name": "Reframe",
-      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "developerName": "Glucobit Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/86/14/e8861472-7e5e-7eb9-94d9-03381b94a84d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.32\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.",
-      "versions": [
-        {
-          "version": "3.9.32",
-          "date": "2026-03-05",
-          "size": 268950272,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.32.ipa"
-        },
-        {
-          "version": "3.9.31",
-          "date": "2026-03-05",
-          "size": 268635551,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.31.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.9.32",
-      "versionDate": "2026-03-05T19:49:56.427Z",
-      "size": 268950272,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.32.ipa"
-    },
-    {
       "name": "Tripsy",
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
@@ -493,58 +2079,6 @@
       "versionDate": "2026-03-05T16:49:56.912Z",
       "size": 199816536,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.andyworks.weather_NotBoringCrack_3.45.ipa"
-    },
-    {
-      "name": "Captions",
-      "bundleIdentifier": "boomer.Smart-Video",
-      "developerName": "Captions, LLC (US)",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c3/66/55c366e5-bb10-dc0b-2b4f-225acdbc85d5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCaptions: AI Edits Your Video\n\n• Bundle ID: boomer.Smart-Video\n• Updated to: 13.8.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Scale Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app if subscription isn't active.\nOnly subscription is unlocked!! Credits cannot be unlocked.\n\nッ Jailbreak Repo | ♡ Support",
-      "versions": [
-        {
-          "version": "13.8.0",
-          "date": "2026-03-05",
-          "size": 416576858,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/boomer.Smart-Video_Captions_13.8.0.ipa"
-        },
-        {
-          "version": "13.8.0",
-          "date": "2026-03-05",
-          "size": 409068822,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/boomer.Smart-Video_Sideloadbypass2_13.8.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "13.8.0",
-      "versionDate": "2026-03-05T16:20:10.903Z",
-      "size": 416576858,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/boomer.Smart-Video_Captions_13.8.0.ipa"
-    },
-    {
-      "name": "Open",
-      "bundleIdentifier": "com.o-p-e-n.open",
-      "developerName": "Open Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/c9/0d/c0c90d8e-a38d-2681-9161-7da4a7f4ed0b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpen: Breathwork + Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 26.10.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.o-p-e-n.open\nDeveloper: Open Inc.",
-      "versions": [
-        {
-          "version": "26.10.1",
-          "date": "2026-03-05",
-          "size": 103364842,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.1.ipa"
-        },
-        {
-          "version": "26.10",
-          "date": "2026-03-05",
-          "size": 103364815,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.10.1",
-      "versionDate": "2026-03-05T15:20:02.995Z",
-      "size": 103364842,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.o-p-e-n.open_Sideloadbypass2_26.10.1.ipa"
     },
     {
       "name": "SnapEdit",
@@ -693,26 +2227,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.app-livity_Sideloadbypass2_4.4.1.ipa"
     },
     {
-      "name": "Invoice Simple",
-      "bundleIdentifier": "com.logicalengine.qsei",
-      "developerName": "Zenvoice Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/6b/c2/d56bc2b3-3180-83d4-260d-589b86fb6070/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nInvoice Simple: Invoice Maker\n\nTweak: Premium Unlocked\n\nVersion: 5.13.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.logicalengine.qsei\nDeveloper: Zenvoice Inc.",
-      "versions": [
-        {
-          "version": "5.13.1",
-          "date": "2026-03-05",
-          "size": 71743380,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.logicalengine.qsei_Sideloadbypass2_5.13.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.13.1",
-      "versionDate": "2026-03-05T10:48:23.059Z",
-      "size": 71743380,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.logicalengine.qsei_Sideloadbypass2_5.13.1.ipa"
-    },
-    {
       "name": "Voloco",
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, LLC",
@@ -763,26 +2277,6 @@
       "versionDate": "2026-03-05T10:47:49.140Z",
       "size": 11603997,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/ventures.slam.minutes_Sideloadbypass2_1.9.14.ipa"
-    },
-    {
-      "name": "Cozy Couples",
-      "bundleIdentifier": "com.clarity.cozycouples",
-      "developerName": "Clarity Applications",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/47/23/4947239a-ece5-19c1-a4e7-3f24a1708abf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nCozy Couples: Relationship App\n\nTweak: Subscription Unlocked\n\nVersion: 1.67\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.clarity.cozycouples\nDeveloper: Clarity Applications",
-      "versions": [
-        {
-          "version": "1.67",
-          "date": "2026-03-05",
-          "size": 39211752,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.clarity.cozycouples_Sideloadbypass2_1.67.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.67",
-      "versionDate": "2026-03-05T10:47:44.943Z",
-      "size": 39211752,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.clarity.cozycouples_Sideloadbypass2_1.67.ipa"
     },
     {
       "name": "Recify",
@@ -1017,26 +2511,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.ToweringTower.KnightLancer_Sideloadbypass2_1.59.ipa"
     },
     {
-      "name": "ParrotPal",
-      "bundleIdentifier": "ai.parrotpal",
-      "developerName": "Scott Flear",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/f0/10/f9f01031-6fed-1477-42a6-cf5c5071fc9b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Calorie Counter: ParrotPal\n\nTweak: Subscription Unlocked\n\nVersion: 186\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: ai.parrotpal\nDeveloper: Scott Flear",
-      "versions": [
-        {
-          "version": "186",
-          "date": "2026-03-05",
-          "size": 108717249,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/ai.parrotpal_Sideloadbypass2_186.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "186",
-      "versionDate": "2026-03-05T10:45:04.599Z",
-      "size": 108717249,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/ai.parrotpal_Sideloadbypass2_186.ipa"
-    },
-    {
       "name": "12min",
       "bundleIdentifier": "com.br.12min.mobile",
       "developerName": "12 MIN SERVICOS DIGITAIS E NEGOCIOS LTDA",
@@ -1075,26 +2549,6 @@
       "versionDate": "2026-03-05T10:44:25.174Z",
       "size": 43293941,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.alexdudar.plesso_Sideloadbypass2_1.8.1.ipa"
-    },
-    {
-      "name": "Shinobi",
-      "bundleIdentifier": "com.shinobiapp.shinobi",
-      "developerName": "Jeremy Pitault",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/54/85/b154859b-1283-8137-1196-acfd3637f01e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nShinobi: Read Japanese Stories\n\nTweak: Subscription Unlocked\n\nVersion: 1.3.2\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.shinobiapp.shinobi\nDeveloper: Jeremy Pitault",
-      "versions": [
-        {
-          "version": "1.3.2",
-          "date": "2026-03-05",
-          "size": 51851049,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.shinobiapp.shinobi_Sideloadbypass2_1.3.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.3.2",
-      "versionDate": "2026-03-05T10:44:18.234Z",
-      "size": 51851049,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.shinobiapp.shinobi_Sideloadbypass2_1.3.2.ipa"
     },
     {
       "name": "Eden",
@@ -1161,46 +2615,6 @@
       "versionDate": "2026-03-05T10:43:44.702Z",
       "size": 166364213,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.withopal.opal_Sideloadbypass2_3.151.ipa"
-    },
-    {
-      "name": "The Way",
-      "bundleIdentifier": "com.thewayapp.mobile",
-      "developerName": "The Way App Inc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/45/a8/ad45a830-67c0-060c-615d-19ec36353028/app-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nThe Way: Meditation Path\n\nTweak: Subscription Unlocked\n\nVersion: 1.17.11\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.thewayapp.mobile\nDeveloper: The Way App Inc",
-      "versions": [
-        {
-          "version": "1.17.11",
-          "date": "2026-03-05",
-          "size": 83018821,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.thewayapp.mobile_Sideloadbypass2_1.17.11.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.17.11",
-      "versionDate": "2026-03-05T10:43:25.274Z",
-      "size": 83018821,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.thewayapp.mobile_Sideloadbypass2_1.17.11.ipa"
-    },
-    {
-      "name": "MoneyCircle",
-      "bundleIdentifier": "com.genau.MoneyCircle",
-      "developerName": "Genau Factory",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/51/7a/07517aa0-e287-4f33-f6de-479a416d8174/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.0.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
-      "versions": [
-        {
-          "version": "3.0.0",
-          "date": "2026-03-05",
-          "size": 13625010,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.genau.MoneyCircle_Sideloadbypass2_3.0.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.0.0",
-      "versionDate": "2026-03-05T10:43:13.821Z",
-      "size": 13625010,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.genau.MoneyCircle_Sideloadbypass2_3.0.0.ipa"
     },
     {
       "name": "Speak4Me",
@@ -1323,126 +2737,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.aheadsolutions.aHead_Sideloadbypass2_1.60.19.ipa"
     },
     {
-      "name": "Soundscape",
-      "bundleIdentifier": "com.soundscape.music",
-      "developerName": "Soundscape",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/41/0a/e8410aef-55dd-b5e1-1ec8-3d2158b3b082/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 9.9.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
-      "versions": [
-        {
-          "version": "9.9.0",
-          "date": "2026-03-05",
-          "size": 85945624,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.soundscape.music_Sideloadbypass2_9.9.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "9.9.0",
-      "versionDate": "2026-03-05T10:40:43.947Z",
-      "size": 85945624,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.soundscape.music_Sideloadbypass2_9.9.0.ipa"
-    },
-    {
-      "name": "Solid Starts",
-      "bundleIdentifier": "com.digitas.solidstarts",
-      "developerName": "SolidStarts LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/1d/be/b21dbe1e-a51b-94cd-aef6-215d1d70a0de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSolid Starts: Baby First Foods\n\nTweak: Subscription Unlocked\n\nVersion: 4.11.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.digitas.solidstarts\nDeveloper: SolidStarts LLC",
-      "versions": [
-        {
-          "version": "4.11.1",
-          "date": "2026-03-05",
-          "size": 84181928,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.digitas.solidstarts_Sideloadbypass2_4.11.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.11.1",
-      "versionDate": "2026-03-05T10:40:31.614Z",
-      "size": 84181928,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.digitas.solidstarts_Sideloadbypass2_4.11.1.ipa"
-    },
-    {
-      "name": "RoutineFlow",
-      "bundleIdentifier": "app.routineflow.routineflow",
-      "developerName": "Thomas Wolfgang Menzel",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b9/96/88b99601-df19-d74d-f408-67106485145e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nRoutineFlow: Guided Routines\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.7\n\nNotes: Restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: app.routineflow.routineflow\nDeveloper: Thomas Wolfgang Menzel",
-      "versions": [
-        {
-          "version": "1.0.7",
-          "date": "2026-03-05",
-          "size": 36718436,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/app.routineflow.routineflow_Sideloadbypass2_1.0.7.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.0.7",
-      "versionDate": "2026-03-05T10:40:20.410Z",
-      "size": 36718436,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/app.routineflow.routineflow_Sideloadbypass2_1.0.7.ipa"
-    },
-    {
-      "name": "Imprint",
-      "bundleIdentifier": "com.polywise.weekly",
-      "developerName": "Polywise, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/7c/ff/557cffc1-2953-e2f7-c85e-231960784100/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nImprint: Learn Visually\n\nTweak: Subscription Unlocked\n\nVersion: 5.0.17\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.polywise.weekly\nDeveloper: Polywise, Inc.",
-      "versions": [
-        {
-          "version": "5.0.17",
-          "date": "2026-03-05",
-          "size": 118560646,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.polywise.weekly_Sideloadbypass2_5.0.17.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.0.17",
-      "versionDate": "2026-03-05T10:40:13.292Z",
-      "size": 118560646,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.polywise.weekly_Sideloadbypass2_5.0.17.ipa"
-    },
-    {
-      "name": "Planta",
-      "bundleIdentifier": "com.stromming.Plants",
-      "developerName": "Planta AB",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/3b/e8/b43be835-9443-68a8-a9d7-c2bc46336b13/AppIcon-Prod-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPlanta: Plant & Garden Care\n\nTweak: Subscription Unlocked\n\nVersion: 3.106.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.stromming.Plants\nDeveloper: Planta AB",
-      "versions": [
-        {
-          "version": "3.106.3",
-          "date": "2026-03-05",
-          "size": 109329516,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.stromming.Plants_Sideloadbypass2_3.106.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.106.3",
-      "versionDate": "2026-03-05T10:39:43.434Z",
-      "size": 109329516,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.stromming.Plants_Sideloadbypass2_3.106.3.ipa"
-    },
-    {
-      "name": "Pinterest",
-      "bundleIdentifier": "pinterest",
-      "developerName": "Pinterest",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/2d/09/032d0903-de67-fa76-08ed-4f93eeb4b9c3/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPinterest\n\nTweak: Download Videos, Sponsored Pins Removed\n\nVersion: 14.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: pinterest\nDeveloper: Pinterest",
-      "versions": [
-        {
-          "version": "14.8",
-          "date": "2026-03-05",
-          "size": 115607718,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/pinterest_Sideloadbypass2_14.8.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "14.8",
-      "versionDate": "2026-03-05T10:39:29.797Z",
-      "size": 115607718,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/pinterest_Sideloadbypass2_14.8.ipa"
-    },
-    {
       "name": "Liftoff",
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
@@ -1509,46 +2803,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.huckleberry-labs.app_Sideloadbypass2_0.9.287.ipa"
     },
     {
-      "name": "aa",
-      "bundleIdentifier": "com.aagame.aagame",
-      "developerName": "General Adaptive Apps Pty Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/1d/4f/5e1d4ffc-0336-463f-6ee7-bc2401c9afb1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAA Game\n\nTweak: Premium Unlocked\n\nVersion: 7.0.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.aagame.aagame\nDeveloper: General Adaptive Apps Pty Ltd",
-      "versions": [
-        {
-          "version": "7.0.3",
-          "date": "2026-03-05",
-          "size": 40360378,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.aagame.aagame_popuprifty_7.0.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "7.0.3",
-      "versionDate": "2026-03-05T10:38:23.776Z",
-      "size": 40360378,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.aagame.aagame_popuprifty_7.0.3.ipa"
-    },
-    {
-      "name": "Imposter",
-      "bundleIdentifier": "at.vucak.impostor",
-      "developerName": "Sven Vucak",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/9a/44/a39a44be-b868-f179-2005-791bf3386a3c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nImposter - Party Word Game\n\nTweak: Premium Unlocked\n\nVersion: 4.2.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 12.0\nBundle ID: at.vucak.impostor\nDeveloper: Sven Vucak",
-      "versions": [
-        {
-          "version": "4.2.1",
-          "date": "2026-03-05",
-          "size": 37140089,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/at.vucak.impostor_Sideloadbypass2_4.2.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.2.1",
-      "versionDate": "2026-03-05T10:38:17.715Z",
-      "size": 37140089,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/at.vucak.impostor_Sideloadbypass2_4.2.1.ipa"
-    },
-    {
       "name": "BeFreed",
       "bundleIdentifier": "ai.befreed.freed-frontend-rn",
       "developerName": "beFreed, Inc",
@@ -1567,32 +2821,6 @@
       "versionDate": "2026-03-05T10:38:11.511Z",
       "size": 43977794,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.3.ipa"
-    },
-    {
-      "name": "Photoroom",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "developerName": "Photoroom",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/17/42/451742df-6962-117a-f032-0a58c3068d4a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhotoroom: AI Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2026.09.01\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.dr1ven.eraser\nDeveloper: Photoroom",
-      "versions": [
-        {
-          "version": "2026.09.01",
-          "date": "2026-03-05",
-          "size": 124801759,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.dr1ven.eraser_Sideloadbypass2_2026.09.01.ipa"
-        },
-        {
-          "version": "2026.09.01",
-          "date": "2026-03-05",
-          "size": 134176128,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.dr1ven.eraser_Photoroom_2026.09.01.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2026.09.01",
-      "versionDate": "2026-03-05T10:38:04.243Z",
-      "size": 124801759,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-05/com.dr1ven.eraser_Sideloadbypass2_2026.09.01.ipa"
     },
     {
       "name": "Tappy",
