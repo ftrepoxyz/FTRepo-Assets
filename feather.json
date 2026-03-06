@@ -3,6 +3,26 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "Bill Tracker",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "developerName": "Bill Tracker Pro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/df/c7/96dfc745-6ce9-4d82-fbb1-0e4c1e1ce6a6/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.50\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "versions": [
+        {
+          "version": "4.1.50",
+          "date": "2026-03-06",
+          "size": 146963823,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.50.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.1.50",
+      "versionDate": "2026-03-06T17:00:42.466Z",
+      "size": 146963823,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.50.ipa"
+    },
+    {
       "name": "MoneyCoach",
       "bundleIdentifier": "com.duuro.moneyCoach",
       "developerName": "MoneyCoach UG",
