@@ -3,6 +3,46 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "MoneyCoach",
+      "bundleIdentifier": "com.duuro.moneyCoach",
+      "developerName": "MoneyCoach UG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/49/80/a049808e-f1d3-c0f3-0297-27eb071f5708/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoney Coach My Budget Planner\n\nTweak: Subscription Unlocked\n\nVersion: 11.2.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.duuro.moneyCoach\nDeveloper: MoneyCoach UG",
+      "versions": [
+        {
+          "version": "11.2.3",
+          "date": "2026-03-06",
+          "size": 96437106,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.duuro.moneyCoach_Sideloadbypass2_11.2.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "11.2.3",
+      "versionDate": "2026-03-06T15:30:37.127Z",
+      "size": 96437106,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.duuro.moneyCoach_Sideloadbypass2_11.2.3.ipa"
+    },
+    {
+      "name": "Idle Miner",
+      "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
+      "developerName": "Kolibri Games GmbH",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/9c/eb/bf9cebf2-bf64-9dcc-c055-cefa247c277b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nIdle Miner Tycoon\n\nTweak: Free iAP\n\nVersion: 5.45.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.2\nBundle ID: com.fluffyfairygames.idleminertycoon\nDeveloper: Kolibri Games GmbH",
+      "versions": [
+        {
+          "version": "5.45.0",
+          "date": "2026-03-06",
+          "size": 143976948,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.fluffyfairygames.idleminertycoon_popuprifty_5.45.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.45.0",
+      "versionDate": "2026-03-06T15:00:40.613Z",
+      "size": 143976948,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.fluffyfairygames.idleminertycoon_popuprifty_5.45.0.ipa"
+    },
+    {
       "name": "ParrotPal",
       "bundleIdentifier": "ai.parrotpal",
       "developerName": "Scott Flear",
