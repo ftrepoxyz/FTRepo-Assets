@@ -5,6 +5,30 @@
   },
   "data": [
     {
+      "name": "Swiftgram",
+      "version": "12.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/app.swiftgram.ios_SwiftgramEntitlementsFix_12.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "app.swiftgram.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/b3/50/ecb35019-e45f-c064-19a1-11a5df0e8ef2/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nSwiftgram: Telegram mod client\n\n• Bundle ID: app.swiftgram.ios\n• Reuploaded: 12.4\n• Minimum iOS: 13.0\n• Patched\n• Modifier: TGExtra v1.7.3\n• Tweaked by @blatants\n\n• Note:\n•TGExtra v1.7.3 by ChocolateFluffy\n• Bug fixes\n•To open the tweak settings Tap 5 Times on the Chats Tab Button. Or Go To settings and Long Press on \"Ask a Question\".\n•Disable Ads\n•Ghost Mode\n•No Read Receipt for messages and Stories\n•Allow saving Protected Content\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Akentech Ltd",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/99/fc/be99fc56-675f-d3be-836b-25e22595270b/33a91d32-a749-467d-abc5-309c1d008023_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/a6/87d5a6de-7521-895d-8e24-9d57fcf0ed87/1ec71ec7-3132-4188-b61e-5e4be9e79d15_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ba/0b/deba0b19-dceb-bbbe-4c4a-d7e34483405f/f6e02763-35db-4f45-b447-ddfbacba9e88_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/96/282e9660-e71e-d00e-36e3-729b1cdc3fbd/2d0e5ff1-9351-48f6-9d2a-b26954f9125c_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/af/91/5eaf916a-8bcf-4fa4-56b4-d81ccbf09653/22205c94-1c69-4e32-b193-3b28cb0690cf_6.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Going Balls",
       "version": "1.4.17",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.pronetis.ironballride2_Sideloadbypass2_1.4.17.ipa",
@@ -2506,30 +2530,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Swiftgram",
-      "version": "12.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/app.swiftgram.ios_SwiftgramCrack_12.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "app.swiftgram.ios",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/b3/50/ecb35019-e45f-c064-19a1-11a5df0e8ef2/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @glesign |\n----------------\nSwiftgram v12.4 (265) | TGExtra v1.7.1\n\n🇷🇺 Бета версия Swiftgram с новым интерфейсом Liquid Glass и TGExtra для конфиденциальности\n— Приложение из TestFlight\n— Нет Рекламы\n— Режим Призрака, Нечиталка Историй, Сообщение\n— Скрытие 'Печатает...'\n— Разрешены снимки экрана везде\n— Чтобы открыть настройки удерживаете 'Помощь' в настройках Telegram\n— Чтобы починить 'Соединение…' выключите 'Разрешить сохранение защищённого контента'\n— Чтобы починить, то что Чаты не открываются, перейдите в приложение Настройки - Swiftgram - Сбросить Метадату\n— Для уведомлений: t.me/glesign_chat/32572\n© Создано: iOSDecrypted \n\n🇺🇸 Beta version of Swiftgram with new Liquid Glass interface and TGExtra for privacy\n— The app from TestFlight\n— No Ads\n— Ghost Mode, Anonymous Messages, Stories viewing\n— Hiding 'Typing...'\n— No Screenshot Restriction\n— To open Settings hold 'Ask a question' in Telegram's settings\n— To fix 'Connection…' disable 'Allow Saving Protected Content'\n— To fix Chats not opening go to Settings app - Swiftgram - Reset Metadata\n— To fix Notifications: t.me/glesign_chat/32578\n© Created by: iOSDecrypted",
-      "developer": "Akentech Ltd",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/99/fc/be99fc56-675f-d3be-836b-25e22595270b/33a91d32-a749-467d-abc5-309c1d008023_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/a6/87d5a6de-7521-895d-8e24-9d57fcf0ed87/1ec71ec7-3132-4188-b61e-5e4be9e79d15_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ba/0b/deba0b19-dceb-bbbe-4c4a-d7e34483405f/f6e02763-35db-4f45-b447-ddfbacba9e88_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/96/282e9660-e71e-d00e-36e3-729b1cdc3fbd/2d0e5ff1-9351-48f6-9d2a-b26954f9125c_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/af/91/5eaf916a-8bcf-4fa4-56b4-d81ccbf09653/22205c94-1c69-4e32-b193-3b28cb0690cf_6.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
