@@ -3,6 +3,70 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Going Balls",
+      "version": "1.4.17",
+      "versionDate": "2026-03-09",
+      "size": 265876840,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.pronetis.ironballride2_Sideloadbypass2_1.4.17.ipa",
+      "developerName": "SUPERSONIC STUDIOS LTD",
+      "bundleIdentifier": "com.pronetis.ironballride2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/73/c3/5c73c3df-1f25-c227-b368-331164264ce3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGoing Balls\n\nTweak: no ads\n\nVersion: 1.4.17\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.pronetis.ironballride2\nDeveloper: SUPERSONIC STUDIOS LTD",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/ea/13/9cea13ce-4ae1-accb-d6c3-b982e0afce24/2f89d271-b4bf-4b8d-b8b1-a5f2864d030f_0_Gcity_1242x2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/23/c5/f823c5d8-c6b9-5a99-6f49-4ae9921f0d8d/de337f24-327e-47fa-83a0-e3445ff654f6_1_Galien_1242x2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/fd/ba/c4fdba35-24b0-dc37-6ca0-7f1d6b3e914d/7ebfad0a-ba0c-44b3-b57f-81ad58c92b55_2_Ghexagon_1242x2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/bd/60/11bd6089-605d-d8d5-d232-0758b6facce2/ad4e0ccb-2012-4f4d-b7a5-dcdaa287d9d8_3_CityWhite_1242x2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fb/32/ee/fb32ee90-6d72-eea9-4df6-56fa6ddf9578/3e78a902-7d48-4c05-8f61-a030ad019d3c_4_Bonus_1242x2208.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Mercury",
+      "version": "3.4.5",
+      "versionDate": "2026-03-09",
+      "size": 59002951,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.tripleglazedstudios.Weather_MercuryWeather_3.4.5.ipa",
+      "developerName": "Triple Glazed Studios",
+      "bundleIdentifier": "com.tripleglazedstudios.Weather",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/af/06/42af066b-48ad-b847-ca12-b7891ed78677/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMercury Weather\n\n• Bundle ID: com.tripleglazedstudios.Weather\n• Updated to: 3.4.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when installed with a certificate with Appgroups enabled.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/06/17/eb0617e1-3ddf-c259-0388-15097aa73909/0fc24c54-17ee-43a0-bc3b-05e244f1f110_Screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/ea/6d/a8ea6d78-c936-0dda-c4a8-3380c8d77c61/f6538015-5ad3-4868-94dd-2e9b76ecefb7_Screen_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/b5/f1/7bb5f17f-c322-7e48-d518-d250d2c0a3b8/d32abd68-598f-43d9-b7dc-2c57df308c46_Screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/68/88/40688894-854d-3f63-9043-4dcc0be1db2b/fa98b9a7-dfed-4f66-9a75-e4a133cd94a2_Screen_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/c9/35/48c935a3-681e-d449-c61e-957b0630a8b2/cb525558-ad4f-4c9d-95c1-86549fba8090_Screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/2a/01/682a013f-a044-4a4f-c84c-5b9c0ba509df/1b6298d1-7b1f-4478-8f9f-d9254fde9235_Screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/c8/25/80c82501-7d3c-bdb3-ec01-ecbc3eff0d4b/e7f5ec32-0d15-43b1-9a14-1d6493f63bfe_Screen_2.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "NeoServer",
+      "version": "8.1.1",
+      "versionDate": "2026-03-09",
+      "size": 21968447,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.neo.NeoMan_NeoServer_8.1.1.ipa",
+      "developerName": "Space-Time Transformation Technology Co., Ltd.",
+      "bundleIdentifier": "com.neo.NeoMan",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/8b/a1/3f8ba11f-918f-4aaa-3a03-04c0a8dee0bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nNeoServer: SSH Client|Terminal\n\n• Bundle ID: com.neo.NeoMan\n• Updated to: 8.1.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/51/e9/7051e9d4-9400-ba5e-c0c4-b3c3028896a3/6ea7619e-b9fe-45ca-8c94-ac17544b1668_metrics.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/7a/8e/107a8e2f-99cf-e69b-ad17-21ea74a368b6/71a4a532-2c52-4e24-a1a3-90412bb627ad_detail.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/d6/7a/c7d67ad5-bfce-2194-b197-538cad1d5c11/de92a40d-1932-47c6-b46e-4b1a7701364b_container.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/e3/52/1ce352e2-f5bd-60b2-017d-6a5f1d4232c0/b364a3d0-04ff-4430-a090-b248826ba20e_top__U00282_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/02/8e/6b028ed3-2654-0289-d2e7-7640008e3c25/73bd8271-8ea2-44b5-9375-7abae09e3296_bastion.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/8a/3b/2e8a3bec-dc21-3960-d9a6-3a7c460c45bd/c05c007d-7c49-4811-b9c3-7edf6b438cb3_widget.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/ab/47/deab47f7-e291-4a0f-1220-151698126bb3/f4974bc9-a400-4514-ad87-3f48c529f054_setting.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/4d/6c/494d6c0c-7be2-08b5-7529-b45afe930ff1/d7c463a7-3337-4a2c-a113-2be93ecf9496_ssh.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/99/5e/ce995e86-222e-e399-212a-2a4259a4231c/35e98d2a-8178-4e1b-bcbd-7f4b3d1f15cc_sftp.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/df/c3/09dfc360-2cc5-aa6d-8a43-60ca1ae4460c/c72929c7-d422-4939-baa4-a2aa566fea7a_snippets.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "POV",
       "version": "5.51",
       "versionDate": "2026-03-09",
@@ -2620,27 +2684,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/db/22/28db220f-e149-9a78-9211-9bb1e25ca333/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nShutEye®: Sleep Tracker, Sound\n\n• Bundle ID: health.sleep.sounds.tracker.alarm.calm\n• Updated to: 3.3.6\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Mercury",
-      "version": "3.4.4",
-      "versionDate": "2026-03-09",
-      "size": 58993685,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.tripleglazedstudios.Weather_MercuryWeather_3.4.4.ipa",
-      "developerName": "Triple Glazed Studios",
-      "bundleIdentifier": "com.tripleglazedstudios.Weather",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/af/06/42af066b-48ad-b847-ca12-b7891ed78677/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMercury Weather\n\n• Bundle ID: com.tripleglazedstudios.Weather\n• Updated to: 3.4.4\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when installed with a certificate with Appgroups enabled.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/06/17/eb0617e1-3ddf-c259-0388-15097aa73909/0fc24c54-17ee-43a0-bc3b-05e244f1f110_Screen_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/ea/6d/a8ea6d78-c936-0dda-c4a8-3380c8d77c61/f6538015-5ad3-4868-94dd-2e9b76ecefb7_Screen_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/b5/f1/7bb5f17f-c322-7e48-d518-d250d2c0a3b8/d32abd68-598f-43d9-b7dc-2c57df308c46_Screen_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/68/88/40688894-854d-3f63-9043-4dcc0be1db2b/fa98b9a7-dfed-4f66-9a75-e4a133cd94a2_Screen_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/c9/35/48c935a3-681e-d449-c61e-957b0630a8b2/cb525558-ad4f-4c9d-95c1-86549fba8090_Screen_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/2a/01/682a013f-a044-4a4f-c84c-5b9c0ba509df/1b6298d1-7b1f-4478-8f9f-d9254fde9235_Screen_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/c8/25/80c82501-7d3c-bdb3-ec01-ecbc3eff0d4b/e7f5ec32-0d15-43b1-9a14-1d6493f63bfe_Screen_2.png/1320x2868bb.jpg"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
