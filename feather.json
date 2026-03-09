@@ -1,0 +1,132 @@
+{
+  "name": "FTRepo",
+  "identifier": "xyz.ftrepo",
+  "apps": [
+    {
+      "name": "Spotify (EeveeSpotify)",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @eeveespotifyrevived",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+      ],
+      "versions": [
+        {
+          "version": "9.1.24",
+          "date": "2026-03-09",
+          "size": 101566003,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.spotify.client_EeveeSpotify_9.1.24.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.1.24",
+      "versionDate": "2026-03-09T13:48:38.219Z",
+      "size": 101566003,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.spotify.client_EeveeSpotify_9.1.24.ipa"
+    },
+    {
+      "name": "Diamond Finder",
+      "bundleIdentifier": "com.mcdiamondfinder.app",
+      "developerName": "Digital App Group GmbH",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/98/47/f69847bd-f87a-c512-52d4-cbdc02ddafb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDiamond Finder for Minecraft +\n\n• Bundle ID: com.mcdiamondfinder.app\n• Updated to: 8.0.0\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/17/36631760-d4a6-b5d5-a69f-47c19d2a1fba/d5ba64b7-c970-4aa0-9b3d-d5983bb3ba09_1242x2208_1.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/67/fb/ce67fb0c-8792-e826-d7df-098593ae0a5d/0e220864-fb59-4933-8226-973716ceb1d1_1242x2208_1-1.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/1f/05/c71f05d9-449b-b26c-a036-57726c8eca79/baf6fbb1-f1bb-4ece-bef2-69d47d8f961b_1242x2208_1-2.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/5c/a7/575ca7f0-7eb8-3a7c-9834-e12b0ce151d4/4cec1a69-b18a-4276-93b4-c4fe4a88dd81_1242x2208_1-3.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/aa/85/0caa853d-41f1-b871-5816-06e686f25621/c740598a-53c1-4e96-94a7-0978333613a5_1242x2208_1-4.png/392x696bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/29/58/a2295872-b2a7-4751-b3a9-5da4f21986f6/1284x2778_6-2.jpg/392x696bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/17/36631760-d4a6-b5d5-a69f-47c19d2a1fba/d5ba64b7-c970-4aa0-9b3d-d5983bb3ba09_1242x2208_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/67/fb/ce67fb0c-8792-e826-d7df-098593ae0a5d/0e220864-fb59-4933-8226-973716ceb1d1_1242x2208_1-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/1f/05/c71f05d9-449b-b26c-a036-57726c8eca79/baf6fbb1-f1bb-4ece-bef2-69d47d8f961b_1242x2208_1-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/5c/a7/575ca7f0-7eb8-3a7c-9834-e12b0ce151d4/4cec1a69-b18a-4276-93b4-c4fe4a88dd81_1242x2208_1-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/aa/85/0caa853d-41f1-b871-5816-06e686f25621/c740598a-53c1-4e96-94a7-0978333613a5_1242x2208_1-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/29/58/a2295872-b2a7-4751-b3a9-5da4f21986f6/1284x2778_6-2.jpg/392x696bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "9.0.0",
+          "date": "2026-03-09",
+          "size": 50700158,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.mcdiamondfinder.app_DiamondFinder_9.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.0.0",
+      "versionDate": "2026-03-09T13:47:56.321Z",
+      "size": 50700158,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.mcdiamondfinder.app_DiamondFinder_9.0.0.ipa"
+    },
+    {
+      "name": "Tiimo",
+      "bundleIdentifier": "com.tiimo.app",
+      "developerName": "tiimo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ef/17/fbef17ab-d93d-8746-823a-fb1ac415ac7e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTiimo: AI Plan, Focus & To-do\n\nTweak: Premium Unlocked\n\nVersion: 3.45.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.tiimo.app\nDeveloper: tiimo",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "3.45.1",
+          "date": "2026-03-09",
+          "size": 93183394,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.tiimo.app_Sideloadbypass2_3.45.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.45.1",
+      "versionDate": "2026-03-09T13:48:08.856Z",
+      "size": 93183394,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.tiimo.app_Sideloadbypass2_3.45.1.ipa"
+    }
+  ]
+}
