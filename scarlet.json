@@ -5,6 +5,24 @@
   },
   "data": [
     {
+      "name": "Flight Tracker",
+      "version": "8.7.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.iaftt.flightplusfree_flighttracker%2B_8.7.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.iaftt.flightplusfree",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/e1/83/c5e18351-7dc2-236a-bc54-0aad3a4dc005/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nFlight Tracker +\n\n• Bundle ID: com.iaftt.flightplusfree\n• Updated to: 8.7.4\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Impala Studios",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": " ",
       "version": "3.12",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/tech.miidii.MDBlank_MDWidgets_3.12.ipa",
