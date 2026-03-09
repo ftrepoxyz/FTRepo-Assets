@@ -1813,13 +1813,13 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @eeveespotifyrevived",
+      "localizedDescription": "from @eeveespotifyrevived |\n----------------\n• Updated to Spotify v9.1.24\n• Fixed logout issues\n• Added debugging to settings\n• Known bugs (Crash on first launch, crash when opening sidebar/settings) Both fixed by relaunching the app\n• Eevee Spotify v6.6.0 included\n• OpenSpotifySafariExtension included",
       "versions": [
         {
-          "version": "9.1.22",
-          "date": "2026-03-06",
-          "size": 99334975,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.spotify.client_EeveeSpotify_9.1.22.ipa"
+          "version": "9.1.24",
+          "date": "2026-03-09",
+          "size": 99392024,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.spotify.client_EeveeSpotify_9.1.24.ipa"
         },
         {
           "version": "9.1.12",
@@ -1835,10 +1835,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.1.22",
-      "versionDate": "2026-03-06T21:14:16.469Z",
-      "size": 99334975,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.spotify.client_EeveeSpotify_9.1.22.ipa"
+      "version": "9.1.24",
+      "versionDate": "2026-03-09T11:10:02.059Z",
+      "size": 99392024,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.spotify.client_EeveeSpotify_9.1.24.ipa"
     },
     {
       "name": "Unfold",
