@@ -3,6 +3,19 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Bearable",
+      "version": "1.0.588",
+      "versionDate": "2026-03-09",
+      "size": 58360312,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/co.codeleap.bearable_AutoRcSideload_1.0.588.ipa",
+      "developerName": "Bearable Ltd",
+      "bundleIdentifier": "co.codeleap.bearable",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/b1/65/1eb16539-86ae-81c9-b982-be033ae6b7c5/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nBearable - Symptom Tracker\n\n• Bundle ID: co.codeleap.bearable\n• Updated to: 1.0.588\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nPremium Unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Spotify (EeveeSpotify)",
       "version": "9.1.24",
       "versionDate": "2026-03-09",
@@ -3871,19 +3884,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/0d/0b/690d0b41-158d-c107-56cd-7dfe4c3d3f02/a1ddf4a2-d67b-4115-acc9-018a71b93cf5_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-04_at_14.28.23.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/05/98/50059892-770c-2520-3ee0-989d62ed012c/1067ae59-965e-4a6d-a4e1-ea5322057086_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-04_at_14.28.24.png/392x696bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Bearable",
-      "version": "1.0.586",
-      "versionDate": "2026-03-06",
-      "size": 57787535,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/co.codeleap.bearable_AutoRcSideload_1.0.586.ipa",
-      "developerName": "Bearable Ltd",
-      "bundleIdentifier": "co.codeleap.bearable",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/b1/65/1eb16539-86ae-81c9-b982-be033ae6b7c5/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBearable - Symptom Tracker\n\n• Bundle ID: co.codeleap.bearable\n• Updated to: 1.0.586\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nPremium Unlocked\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
