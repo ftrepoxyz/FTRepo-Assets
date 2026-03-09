@@ -4283,8 +4283,14 @@
       "bundleIdentifier": "tech.miidii.MDBlank",
       "developerName": "MD Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/4e/0a/e44e0af8-e7d8-f3df-2903-41d08d0d4298/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Widgets - Countdown widget\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 3.11.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nMD Widgets - Countdown widget\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 3.12\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "versions": [
+        {
+          "version": "3.12",
+          "date": "2026-03-09",
+          "size": 178852611,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/tech.miidii.MDBlank_MDWidgets_3.12.ipa"
+        },
         {
           "version": "3.11.3",
           "date": "2026-03-06",
@@ -4293,10 +4299,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.11.3",
-      "versionDate": "2026-03-06T21:25:53.104Z",
-      "size": 173964893,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/tech.miidii.MDBlank_MDWidgets_3.11.3.ipa"
+      "version": "3.12",
+      "versionDate": "2026-03-09T05:24:33.309Z",
+      "size": 178852611,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/tech.miidii.MDBlank_MDWidgets_3.12.ipa"
     },
     {
       "name": "Reframe",
