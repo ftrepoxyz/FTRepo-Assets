@@ -1093,8 +1093,14 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nYTLitePlusEXTRA updated to v21.10.2, has the YTUHD smth went wrong fix",
       "versions": [
+        {
+          "version": "21.10.2",
+          "date": "2026-03-09",
+          "size": 124570653,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.google.ios.youtube_YouSpeed_21.10.2.ipa"
+        },
         {
           "version": "21.09.3",
           "date": "2026-03-06",
@@ -1106,19 +1112,13 @@
           "date": "2026-03-06",
           "size": 123498390,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.google.ios.youtube_YouTubeSy_20.44.2.ipa"
-        },
-        {
-          "version": "19.34.2",
-          "date": "2026-03-06",
-          "size": 108187797,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.google.ios.youtube_YouQuality_19.34.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "21.09.3",
-      "versionDate": "2026-03-06T21:37:08.970Z",
-      "size": 132968518,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.google.ios.youtube_MadeByMohkg_21.09.3.ipa"
+      "version": "21.10.2",
+      "versionDate": "2026-03-09T09:15:57.789Z",
+      "size": 124570653,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.google.ios.youtube_YouSpeed_21.10.2.ipa"
     },
     {
       "name": "Strides",
@@ -2759,8 +2759,14 @@
       "bundleIdentifier": "com.lexwarelabs.goodmorning",
       "developerName": "Sleep Cycle AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/fa/66/28fa66c2-b564-4f53-fe15-6a3c91e51570/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.8\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.9\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "versions": [
+        {
+          "version": "6.26.9",
+          "date": "2026-03-09",
+          "size": 330550651,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.lexwarelabs.goodmorning_SleepCycle_6.26.9.ipa"
+        },
         {
           "version": "6.26.8",
           "date": "2026-03-06",
@@ -2775,10 +2781,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.26.8",
-      "versionDate": "2026-03-06T21:17:10.410Z",
-      "size": 330758594,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/com.lexwarelabs.goodmorning_SleepCycle_6.26.8.ipa"
+      "version": "6.26.9",
+      "versionDate": "2026-03-09T09:15:29.345Z",
+      "size": 330550651,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.lexwarelabs.goodmorning_SleepCycle_6.26.9.ipa"
     },
     {
       "name": "Forza Football",
@@ -4539,6 +4545,26 @@
       "versionDate": "2026-03-06T20:50:10.188Z",
       "size": 446984165,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.3.6.ipa"
+    },
+    {
+      "name": "swipewipe",
+      "bundleIdentifier": "com.aoklab.fewerphotos",
+      "developerName": "MWM",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/2e/22/122e220a-b8d7-10ae-fd8a-930712e6fac0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPhoto Cleaner: Swipewipe\n\n• Bundle ID: com.aoklab.fewerphotos\n• Updated to: 3.2.47\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "versions": [
+        {
+          "version": "3.2.47",
+          "date": "2026-03-09",
+          "size": 121409130,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.aoklab.fewerphotos_SwipeWipe_3.2.47.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.2.47",
+      "versionDate": "2026-03-09T08:44:45.683Z",
+      "size": 121409130,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.aoklab.fewerphotos_SwipeWipe_3.2.47.ipa"
     },
     {
       "name": "VocaCircle",
