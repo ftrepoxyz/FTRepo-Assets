@@ -5,6 +5,53 @@
   },
   "data": [
     {
+      "name": "VDIT",
+      "version": "3.7.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/me.imgbase.videoday_Sideloadbypass2_3.7.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "me.imgbase.videoday",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/58/cd/5358cd46-360e-2e98-a825-c9f442d03d89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nVDIT - Video Maker & Editor\n\nTweak: Premium Unlocked\n\nVersion: 3.7.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: me.imgbase.videoday\nDeveloper: ImgBase, Inc.",
+      "developer": "ImgBase, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/d0/66/a7d06691-27a3-84e7-26f0-df83fcce5a9d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Intro_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/f8/c2/dff8c247-7876-0a11-d5a9-ae4d14c50a8e/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Mosaic_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/59/05/1859050c-9c6b-e842-bbea-3e9ffafde071/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Cutout_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/ef/db/f7efdb8a-24b0-fdae-d520-3192ea87585c/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Speed_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/ba/6f/90ba6fa0-55bf-11b5-c3a8-5296ab211b85/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Effect_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/4f/f9/a54ff95c-ff9e-a221-ac33-2cb17144ba82/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Text_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/13/33/c21333ac-d9de-61ec-8311-70da5c983618/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Sticker_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/e0/83/a3e083a7-0292-d6f9-8e4f-8ed24082798d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_BGM_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/40/18/26401869-0522-7c5a-85fe-d79e2af7a4bf/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Transition_EnWinter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/e6/18/c4e618d2-322a-682f-19b4-727ea98c80fe/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Filter_EnWinter.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Soundscape",
+      "version": "9.9.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.soundscape.music_Sideloadbypass2_9.9.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.soundscape.music",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/18/95/16189572-d33a-06bc-d576-f509aec92eea/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 9.9.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
+      "developer": "Soundscape",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "BAM!",
       "version": "2.19.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.optiflow.imposter_Sideloadbypass2_2.19.1.ipa",
@@ -278,24 +325,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/00/51/2900519e-a076-de61-c91c-7e0313faf41e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "description": "from @riftysipalibrary |\n----------------\nOffScreen: Screen Time Control\n\nTweak: Subscription Unlocked\n\nVersion: 3.20.7\n\nNotes: Some features require trollstore/jailbreak\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: tech.miidii.off-screen\nDeveloper: MD Studio",
       "developer": "MD Studio",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Soundscape",
-      "version": "9.9.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.soundscape.music_Sideloadbypass2_9.9.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.soundscape.music",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/18/95/16189572-d33a-06bc-d576-f509aec92eea/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 9.9.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
-      "developer": "Soundscape",
       "screenshots": [],
       "accentColor": {
         "light": {
@@ -2235,35 +2264,6 @@
       "description": "from @riftysipalibrary |\n----------------\nLiftoff - Ranked Gym Workouts\n\nTweak: Subscription Unlocked\n\nVersion: 2.11.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.gymbros.app\nDeveloper: GymBros Inc.",
       "developer": "GymBros Inc.",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "VDIT",
-      "version": "3.7.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/me.imgbase.videoday_Sideloadbypass2_3.7.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "me.imgbase.videoday",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/58/cd/5358cd46-360e-2e98-a825-c9f442d03d89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nVDIT - Video Maker & Editor\n\nTweak: Premium Unlocked\n\nVersion: 3.7.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: me.imgbase.videoday\nDeveloper: ImgBase, Inc.",
-      "developer": "ImgBase, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/d0/66/a7d06691-27a3-84e7-26f0-df83fcce5a9d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Intro_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/f8/c2/dff8c247-7876-0a11-d5a9-ae4d14c50a8e/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Mosaic_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/59/05/1859050c-9c6b-e842-bbea-3e9ffafde071/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Cutout_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/ef/db/f7efdb8a-24b0-fdae-d520-3192ea87585c/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Speed_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/ba/6f/90ba6fa0-55bf-11b5-c3a8-5296ab211b85/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Effect_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/4f/f9/a54ff95c-ff9e-a221-ac33-2cb17144ba82/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Text_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/13/33/c21333ac-d9de-61ec-8311-70da5c983618/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Sticker_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/e0/83/a3e083a7-0292-d6f9-8e4f-8ed24082798d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_BGM_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/40/18/26401869-0522-7c5a-85fe-d79e2af7a4bf/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Transition_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/e6/18/c4e618d2-322a-682f-19b4-727ea98c80fe/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Filter_EnWinter.png/1320x2868bb.png"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
