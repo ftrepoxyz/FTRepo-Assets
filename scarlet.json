@@ -5,6 +5,35 @@
   },
   "data": [
     {
+      "name": " ",
+      "version": "3.12",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/tech.miidii.MDBlank_MDWidgets_3.12.ipa",
+      "category": "Tweaked",
+      "bundleID": "tech.miidii.MDBlank",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/4e/0a/e44e0af8-e7d8-f3df-2903-41d08d0d4298/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nMD Widgets - Countdown widget\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 3.12\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "MD Studio",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/a6/b5/a8a6b55b-53c4-3fe3-9ee5-2f13c2a7acc9/2984f10d-5c7d-4968-9394-7109faf02343_EN_-_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/5d/8c/805d8c85-d32d-7466-9260-a92174ab163e/612e3c0d-d337-4d36-9d36-fd49d987826b_EN_-_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/90/78/d5907816-05ad-2f0b-c6ac-f85ca073f597/de9628ab-1fc4-4bff-a8be-c4813b36d9fc_5.5-3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/3e/2c/2c3e2c70-7191-d4c5-af2b-0450675973a7/e2ed6bef-cbbf-4750-9f10-42073f16441b_5.5-4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/83/70/4d837059-3706-395a-fd27-9d8cce21140a/5430d329-b9f0-4fde-95c5-aeb2ea0b757f_5.5_EN-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/12/c2/b812c2e1-d2c4-71f1-7e6b-42f70da284c2/3d188f47-4537-451b-97ea-6ef16e6dc7d8_5.5_EN-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/3d/f5/e63df5a7-d99d-69d9-1a21-0046fe0007f9/b2eaef4f-5d32-4290-9d0c-936e43ea1b2b_5.5_EN-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/6f/66/956f66c0-ef5e-7efe-d57b-43aaf50ee30f/7e3b1582-e856-4023-8bb1-853bb152fd8c_Slice_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/64/0c/4c640cbe-f429-b809-a62c-038e1939c3ca/f1422160-e732-4ef8-87af-c8c11906e7b9_5.5-5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/6a/b5/516ab50a-a7b4-4647-4fc1-aff2c38cd61d/d9e9b845-c4f5-44a4-b5b4-94194cf414eb_5.5-6.jpg/392x696bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Level Devil",
       "version": "1.34.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-08/com.unept.leveldevil_Sideloadbypass2_1.34.4.ipa",
@@ -5025,35 +5054,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/25/fb/3a25fbc0-175d-1241-9298-728cd04d57d6/_U1100_U1169_U1112_U116a_U110c_U1175_U11af_EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/20/b9/d220b9f3-7537-69f9-e173-616458dfd885/_U1111_U1175_U11af_U1110_U1165_EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/2a/a7/432aa799-27fe-642c-c354-173c864edc63/_U1112_U116a_U110c_U1175_U11af_U1100_U1162_U1109_U1165_U11ab_EN.png/392x696bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": " ",
-      "version": "3.11.3",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-06/tech.miidii.MDBlank_MDWidgets_3.11.3.ipa",
-      "category": "Tweaked",
-      "bundleID": "tech.miidii.MDBlank",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/4e/0a/e44e0af8-e7d8-f3df-2903-41d08d0d4298/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nMD Widgets - Countdown widget\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 3.11.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "MD Studio",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/a6/b5/a8a6b55b-53c4-3fe3-9ee5-2f13c2a7acc9/2984f10d-5c7d-4968-9394-7109faf02343_EN_-_1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/5d/8c/805d8c85-d32d-7466-9260-a92174ab163e/612e3c0d-d337-4d36-9d36-fd49d987826b_EN_-_2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/90/78/d5907816-05ad-2f0b-c6ac-f85ca073f597/de9628ab-1fc4-4bff-a8be-c4813b36d9fc_5.5-3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/3e/2c/2c3e2c70-7191-d4c5-af2b-0450675973a7/e2ed6bef-cbbf-4750-9f10-42073f16441b_5.5-4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/83/70/4d837059-3706-395a-fd27-9d8cce21140a/5430d329-b9f0-4fde-95c5-aeb2ea0b757f_5.5_EN-1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/12/c2/b812c2e1-d2c4-71f1-7e6b-42f70da284c2/3d188f47-4537-451b-97ea-6ef16e6dc7d8_5.5_EN-2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/3d/f5/e63df5a7-d99d-69d9-1a21-0046fe0007f9/b2eaef4f-5d32-4290-9d0c-936e43ea1b2b_5.5_EN-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/6f/66/956f66c0-ef5e-7efe-d57b-43aaf50ee30f/7e3b1582-e856-4023-8bb1-853bb152fd8c_Slice_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/64/0c/4c640cbe-f429-b809-a62c-038e1939c3ca/f1422160-e732-4ef8-87af-c8c11906e7b9_5.5-5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/6a/b5/516ab50a-a7b4-4647-4fc1-aff2c38cd61d/d9e9b845-c4f5-44a4-b5b4-94194cf414eb_5.5-6.jpg/392x696bb.jpg"
       ],
       "accentColor": {
         "light": {
