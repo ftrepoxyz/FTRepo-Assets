@@ -5,6 +5,30 @@
   },
   "data": [
     {
+      "name": "YouTube Music",
+      "version": "9.10.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.google.ios.youtubemusic_YTMABConfig_9.10.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.google.ios.youtubemusic",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/16/5b/00165b98-657a-056c-8ae2-3bfe162c51f7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @thescholarslounge |\n----------------\nYT Music Ultimate+ 9.10\n- YouTube Music 9.10\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- YouMusicPIP\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
+      "developer": "Google",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "VivaCut",
       "version": "4.5.6",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.vivacut.videoeditor_sideloadKeychainfix_4.5.6.ipa",
