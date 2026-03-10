@@ -5,6 +5,50 @@
   },
   "data": [
     {
+      "name": "DoCast",
+      "version": "5.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/us.electronic.docast_RevenueCatFix26_5.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "us.electronic.docast",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/58/66/4d586680-0477-6fa1-d4b7-780f4b2db8aa/AppIcon-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nScreen Mirror Smart TV: DoCast\n\nPremium features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "Electronic Team, Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "SCRL",
+      "version": "9.28.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.dopedevelopment.Panels_AutoRcSideload_9.28.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.dopedevelopment.Panels",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/d1/88c1d187-6363-58e2-07ec-23174741b815/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nSCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.28.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Appostrophe AB",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dc/49/2adc49b4-9f3f-6591-8c4c-fe699045fd13/23d473c0-b9bb-4925-b93f-4d4a86fdee0f_IOS_5.5_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/0a/ad/c60aad13-1a70-88ca-965e-2adc602161d4/ec6f8ffc-2c27-451e-a745-f2cfae82591c_IOS_5.5_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b4/bc/20b4bcca-0600-2151-f299-3b91e251bc6f/6c49538e-e386-4dc3-92aa-4fe79e093873_IOS_5.5_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/de/34/f2de346e-7075-a4b1-6f77-fa7ed1126754/b0a13888-f9c2-4362-9adb-4d8ff568581f_IOS_5.5_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/49/9f/a2499fcd-9038-9385-bee6-99a1ffdd149e/61078484-31d1-447e-a656-a25cb4212285_IOS_5.5_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/b4/74/ebb474cf-e5f9-481a-226d-817c45b57b8d/1044b7ba-f80c-4008-81fb-8010ddd32ca7_IOS_5.5_8.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "‎WA Business",
       "version": "26.9.75",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/net.whatsapp.WhatsAppSMB.C3S4S6NFFS_Cycript_26.9.75.ipa",
@@ -1152,32 +1196,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/87/c6/e187c6e7-9973-dd40-dec3-06316eb41bf7/AppStore-screenshot-X-en-04.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/0a/ea/c90aead9-85df-063a-dddd-c4b4b320b431/AppStore-screenshot-X-en-05.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/a6/88/c6a688e4-175a-a803-b386-4efba31c5d58/AppStore-screenshot-X-en-06.jpg/1320x2868bb.webp"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "SCRL",
-      "version": "9.28.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.dopedevelopment.Panels_AutoRcSideload_9.28.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.dopedevelopment.Panels",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/d1/88c1d187-6363-58e2-07ec-23174741b815/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nSCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.28.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Appostrophe AB",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dc/49/2adc49b4-9f3f-6591-8c4c-fe699045fd13/23d473c0-b9bb-4925-b93f-4d4a86fdee0f_IOS_5.5_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/0a/ad/c60aad13-1a70-88ca-965e-2adc602161d4/ec6f8ffc-2c27-451e-a745-f2cfae82591c_IOS_5.5_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b4/bc/20b4bcca-0600-2151-f299-3b91e251bc6f/6c49538e-e386-4dc3-92aa-4fe79e093873_IOS_5.5_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/de/34/f2de346e-7075-a4b1-6f77-fa7ed1126754/b0a13888-f9c2-4362-9adb-4d8ff568581f_IOS_5.5_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/49/9f/a2499fcd-9038-9385-bee6-99a1ffdd149e/61078484-31d1-447e-a656-a25cb4212285_IOS_5.5_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/b4/74/ebb474cf-e5f9-481a-226d-817c45b57b8d/1044b7ba-f80c-4008-81fb-8010ddd32ca7_IOS_5.5_8.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
