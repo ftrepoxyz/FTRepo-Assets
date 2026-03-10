@@ -5,6 +5,137 @@
   },
   "data": [
     {
+      "name": "AlfredCamera",
+      "version": "2026.5.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.kalavision.alfred_RevenueCatFix26_2026.5.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.kalavision.alfred",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/bb/99/3bbb990f-9a66-0911-b214-761f379e84f0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nAlfred Home Security Camera\n \nPro features unlocked\n \nTap on restore or restart app if pro is not unlocked\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
+      "developer": "Alfred Systems Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/10/ba/3510ba98-8e41-8c1a-9486-8e2dfeb40f51/iphone_5.5__1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/57/29/205729cf-b0ba-f256-e7dc-ab9812776c11/iphone_5.5__2__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/d5/18/e0d51898-5c23-a31c-04de-290f71678337/iphone_5.5__3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/e2/a7/4be2a7ca-f709-8d58-22b1-5a379c4ec77a/iphone_5.5__4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/41/37/bf4137a6-2b69-b2bf-6372-eda422c52ffe/iphone_5.5__5__U00282_U0029.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Shapr3D",
+      "version": "26.32.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.shapr3d.shapr_Shapr3DPatch_26.32.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.shapr3d.shapr",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/31/517b3143-c46a-f8ae-8c0f-eeb7020e7522/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nShapr 3D CAD modeling\n\nPro features unlocked\n\nTweak made by Никита and @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "developer": "Shapr3D Zrt",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/10/2a/84102a82-9d53-5823-34e4-120da736f3d4/0_APP_IPAD_PRO_3GEN_129_0.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/9b/40/bc9b4072-f0d7-2cda-18e2-ff967557b2ba/1_APP_IPAD_PRO_3GEN_129_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/52/70/7e5270bd-ba27-f8cc-4012-5559d7fc5190/2_APP_IPAD_PRO_3GEN_129_2.jpg/1320x2868bb.webp"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Six Pack Abs - Abs Workout",
+      "version": "1.47.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.abishkking.sixpack_SatellaJailed_1.47.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.abishkking.sixpack",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/5a/09/c25a09e8-9ce0-d9e3-db88-692ed76e59ab/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nSix Pack in 30 Days - 6 Pack\n\nTap on buy pro then cancel\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "Leap Health",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/a5/02/a4a50265-aed0-18ea-2a9c-e994e00fe45c/4adcd25a-1fa0-4fd0-8884-0fb00f0d18eb_en_55_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/fe/03/b9fe0309-25da-7780-a8b1-92c8b40f9b6f/8d952034-5784-4248-b977-909b604dc704_en_55_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/1f/da/851fda08-bdf7-84eb-907d-3d802952aeaf/90df7943-404d-4763-9823-ef4b0a4fd1a9_en_55_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/c2/0b/9bc20ba7-637b-afdc-3fb7-a4fabc8f1ab8/en_55_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/e6/84/5ee6842d-2380-1f58-dc20-fd3532c4c306/65f2da99-0565-4bb4-aa83-5bc229ab534d_en_55_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/4d/46/6a4d4655-50f8-a7d7-ee87-38b9674a062b/EN_5.5_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/aa/da/03aada67-223a-3894-1223-037ad8baff3f/c655b46b-5c0d-4d86-b4d6-b66dd9d4f2f0_en_55_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/57/4b/53574b24-e656-5cdb-20e0-26d51d1ea2f3/f15be6e6-dc52-49aa-90d4-e04082810f81_en_55_08.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Diamond Finder",
+      "version": "9.0.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.mcdiamondfinder.app_DiamondFinder_9.0.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.mcdiamondfinder.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/98/47/f69847bd-f87a-c512-52d4-cbdc02ddafb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nDiamond Finder for Minecraft +\n\nPremium features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 16.6\n\nAppStore link | Donate",
+      "developer": "Digital App Group GmbH",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/17/36631760-d4a6-b5d5-a69f-47c19d2a1fba/d5ba64b7-c970-4aa0-9b3d-d5983bb3ba09_1242x2208_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/67/fb/ce67fb0c-8792-e826-d7df-098593ae0a5d/0e220864-fb59-4933-8226-973716ceb1d1_1242x2208_1-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/1f/05/c71f05d9-449b-b26c-a036-57726c8eca79/baf6fbb1-f1bb-4ece-bef2-69d47d8f961b_1242x2208_1-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/5c/a7/575ca7f0-7eb8-3a7c-9834-e12b0ce151d4/4cec1a69-b18a-4276-93b4-c4fe4a88dd81_1242x2208_1-3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/aa/85/0caa853d-41f1-b871-5816-06e686f25621/c740598a-53c1-4e96-94a7-0978333613a5_1242x2208_1-4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/29/58/a2295872-b2a7-4751-b3a9-5da4f21986f6/1284x2778_6-2.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Tiimo",
+      "version": "3.45.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.tiimo.app_RevenueCatFix26_3.45.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.tiimo.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/48/30/1c483073-a59f-3cf6-45ac-72ce677078c0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nTiimo: AI Planner & To-do\n\nPro features unlocked\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "developer": "tiimo",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/d3/b5/2bd3b5d3-692e-98c5-db0e-5f0fd54ab9d5/iPhone_6.5_01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/2e/56/082e5675-a539-c904-1e1d-3af46266a0ca/iPhone_6.5_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/bc/0b/cebc0bc8-0418-4b15-7496-610b89ffd089/iPhone_6.5_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/fc/d6/3ffcd6e4-e57d-53c2-ec57-e7e508e2bd4b/iPhone_6.5_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/47/b1/fb47b1b8-3661-cfb2-72fc-8e3d9e4ac4e8/iPhone_6.5_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/1d/bf/861dbfa3-2510-c232-2e39-df6bbd06debd/iPhone_6.5_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/a5/7b/9aa57bc7-4b65-5c7d-b771-574d4532b6fc/iPhone_6.5_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/30/bc/2b30bc00-4546-e4bd-62a4-37959f169ed0/iPhone_6.5_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/c2/1b/dcc21b3d-f9f0-087d-3567-250a4924e044/iPad_01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/eb/26/c8eb2678-a593-b412-bc97-b9016aee2d55/iPad_02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/69/46/d76946c9-dd49-526f-4c91-e42a082461a4/iPad_01-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/1f/41/3d1f4127-3cbb-af2c-8b20-fd9c40a7904d/iPad_01-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/34/fd/7d34fd73-6b15-c8d1-fff9-e66a4a86c63b/iPad_01-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/0d/76/800d76f9-8c3e-8654-abd1-4a6942bc9748/iPad_01-4.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "YouTube Music",
       "version": "9.10.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.google.ios.youtubemusic_YTMABConfig_9.10.3.ipa",
@@ -1025,39 +1156,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/9c/eb/1c9ceb0f-f11c-6543-219e-f75677e84abc/3dcfc6e0-9866-4595-97be-dea9f51e031f_iPhone_5.5in_5_sRGB.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/e3/f4/c0e3f4a6-a847-6a42-fb5c-21484082f43b/847baeb7-366a-4a95-916d-9f6edea9ee6a_iPhone_5.5in_6_sRGB.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/57/f7/1157f7f2-b5ad-1328-41e0-2b23892302f8/87cbcd6a-30b3-4ca3-9ff0-5f9cdca5906c_iPhone_5.5in_7_sRGB.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Tiimo",
-      "version": "3.45.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.tiimo.app_Sideloadbypass2_3.45.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.tiimo.app",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/48/30/1c483073-a59f-3cf6-45ac-72ce677078c0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nTiimo: AI Plan, Focus & To-do\n\nTweak: Premium Unlocked\n\nVersion: 3.45.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.tiimo.app\nDeveloper: tiimo",
-      "developer": "tiimo",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/d3/b5/2bd3b5d3-692e-98c5-db0e-5f0fd54ab9d5/iPhone_6.5_01.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/2e/56/082e5675-a539-c904-1e1d-3af46266a0ca/iPhone_6.5_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/bc/0b/cebc0bc8-0418-4b15-7496-610b89ffd089/iPhone_6.5_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/fc/d6/3ffcd6e4-e57d-53c2-ec57-e7e508e2bd4b/iPhone_6.5_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/47/b1/fb47b1b8-3661-cfb2-72fc-8e3d9e4ac4e8/iPhone_6.5_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/1d/bf/861dbfa3-2510-c232-2e39-df6bbd06debd/iPhone_6.5_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/a5/7b/9aa57bc7-4b65-5c7d-b771-574d4532b6fc/iPhone_6.5_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/30/bc/2b30bc00-4546-e4bd-62a4-37959f169ed0/iPhone_6.5_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/c2/1b/dcc21b3d-f9f0-087d-3567-250a4924e044/iPad_01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/eb/26/c8eb2678-a593-b412-bc97-b9016aee2d55/iPad_02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/69/46/d76946c9-dd49-526f-4c91-e42a082461a4/iPad_01-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/1f/41/3d1f4127-3cbb-af2c-8b20-fd9c40a7904d/iPad_01-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/34/fd/7d34fd73-6b15-c8d1-fff9-e66a4a86c63b/iPad_01-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/0d/76/800d76f9-8c3e-8654-abd1-4a6942bc9748/iPad_01-4.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -3835,31 +3933,6 @@
       "description": "from @blatants |\n----------------\nBearable - Symptom Tracker\n\n• Bundle ID: co.codeleap.bearable\n• Updated to: 1.0.588\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nPremium Unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "Bearable Ltd",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Diamond Finder",
-      "version": "9.0.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.mcdiamondfinder.app_DiamondFinder_9.0.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.mcdiamondfinder.app",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/98/47/f69847bd-f87a-c512-52d4-cbdc02ddafb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nDiamond Finder for Minecraft +\n\n• Bundle ID: com.mcdiamondfinder.app\n• Updated to: 8.0.0\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Digital App Group GmbH",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/17/36631760-d4a6-b5d5-a69f-47c19d2a1fba/d5ba64b7-c970-4aa0-9b3d-d5983bb3ba09_1242x2208_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/67/fb/ce67fb0c-8792-e826-d7df-098593ae0a5d/0e220864-fb59-4933-8226-973716ceb1d1_1242x2208_1-1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/1f/05/c71f05d9-449b-b26c-a036-57726c8eca79/baf6fbb1-f1bb-4ece-bef2-69d47d8f961b_1242x2208_1-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/5c/a7/575ca7f0-7eb8-3a7c-9834-e12b0ce151d4/4cec1a69-b18a-4276-93b4-c4fe4a88dd81_1242x2208_1-3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/aa/85/0caa853d-41f1-b871-5816-06e686f25621/c740598a-53c1-4e96-94a7-0978333613a5_1242x2208_1-4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/29/58/a2295872-b2a7-4751-b3a9-5da4f21986f6/1284x2778_6-2.jpg/1320x2868bb.jpg"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
