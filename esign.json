@@ -3,15 +3,34 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
-      "name": "Spotify",
+      "name": "Notability",
+      "version": "15.4.3",
+      "versionDate": "2026-03-10",
+      "size": 236452370,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.gingerlabs.Notability_Notability_15.4.3.ipa",
+      "developerName": "Ginger Labs",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ea/aa/bdeaaadc-07a7-bb3c-b116-2a464622868a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 15.4.3\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/35/3e/d3353edb-1003-a353-74a8-deedb53a63ca/3-iPhone55-EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/39/19/8b391919-a0c5-8a8f-ac1c-d9b8c7247540/4-iPhone55-EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/b3/244cb35c-927c-99c4-f018-9494f121e8d6/5-iPhone55-EN.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Spotify (EeveeSpotify)",
       "version": "9.1.28",
       "versionDate": "2026-03-10",
-      "size": 103632242,
+      "size": 100759744,
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.spotify.client_EeveeSpotify_9.1.28.ipa",
       "developerName": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
+      "localizedDescription": "from @eeveespotifyrevived",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
@@ -25,15 +44,15 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Spotify (EeveeSpotify)",
+      "name": "Spotify",
       "version": "9.1.28",
       "versionDate": "2026-03-10",
-      "size": 100765681,
+      "size": 103632242,
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.spotify.client_EeveeSpotify_9.1.28.ipa",
       "developerName": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @eeveespotifyrevived",
+      "localizedDescription": "from @binnichtaktivsipas",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
@@ -2795,25 +2814,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/e0/83/a3e083a7-0292-d6f9-8e4f-8ed24082798d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_BGM_EnWinter.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/40/18/26401869-0522-7c5a-85fe-d79e2af7a4bf/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Transition_EnWinter.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/e6/18/c4e618d2-322a-682f-19b4-727ea98c80fe/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Filter_EnWinter.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Notability",
-      "version": "15.4.2",
-      "versionDate": "2026-03-10",
-      "size": 236511085,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.gingerlabs.Notability_Notability_15.4.2.ipa",
-      "developerName": "Ginger Labs",
-      "bundleIdentifier": "com.gingerlabs.Notability",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ea/aa/bdeaaadc-07a7-bb3c-b116-2a464622868a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 15.4.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/35/3e/d3353edb-1003-a353-74a8-deedb53a63ca/3-iPhone55-EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/39/19/8b391919-a0c5-8a8f-ac1c-d9b8c7247540/4-iPhone55-EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/b3/244cb35c-927c-99c4-f018-9494f121e8d6/5-iPhone55-EN.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
