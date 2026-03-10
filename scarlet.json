@@ -5,6 +5,103 @@
   },
   "data": [
     {
+      "name": "Spotify (EeveeSpotify)",
+      "version": "9.1.28",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.spotify.client_EeveeSpotify_9.1.28.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.spotify.client",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @eeveespotifyrevived",
+      "developer": "Spotify",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "GOWOD",
+      "version": "5.6.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/eu.gowod_gowod_5.6.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "eu.gowod",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7a/dd/727add0a-9584-b34c-9f52-6d2582d4eae9/icon_liquid-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nGOWOD – Mobility & Stretching\n\n• Bundle ID: eu.gowod\n• Updated to: 5.6.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Mobility First Group",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/5d/ed/945dedc6-2d10-5323-00ce-5c32820328b5/Screen_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/af/1c26af8e-45f2-0786-b3da-1595eb8dede7/Screen_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/53/1a/1b531a26-3614-08dc-ed7e-d6be509e6b58/Screen_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c7/b6/42c7b69c-5508-47fa-4271-15f395af8000/Screen_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/04/a3/c904a30d-384a-cc0b-8db4-e8a188c7c3f8/Screen_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/df/28/e7df2854-5da8-c92c-4b64-c4e6bb47368a/Screen_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/a2/e6/4ea2e6d3-9231-97de-82bc-46156d78a665/Screen_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/ae/9d/16ae9d72-3457-083f-d33f-585f866071b3/Screen_8.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "SnoreLab",
+      "version": "6.2.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.revivasoftworks.Snore-Lab_sideloadKeychainfix_6.2.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.revivasoftworks.Snore-Lab",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/c7/13/9ac713c4-c51d-c82b-b10e-ecef2eafcda6/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nSnoreLab : Record Your Snoring\n\n• Bundle ID: com.revivasoftworks.Snore-Lab\n• Updated to: 6.2.3\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nClick restore or restart the app if not unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Reviva Softworks Ltd",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Truecaller",
+      "version": "26.9.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.truesoftware.TrueCallerOther_Truecaller_26.9.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.truesoftware.TrueCallerOther",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/a5/b6/c6a5b69b-7c5b-83f8-f216-c3aef26c5d07/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nTruecaller: Premium Caller ID\n\n• Bundle ID: com.truesoftware.TrueCallerOther\n• Updated to: 26.9\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Unlocked\n• Tweaked by @blatants\n\n• Note:\nApp requires a paid cert to function properly\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "True Software Scandinavia AB",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/ea/b4/1feab40a-4ee6-3e64-fcd2-2c85ee763396/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/c5/03/c0c50380-24e5-d033-04d6-4af628f50526/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1a/a7/411aa7f3-b478-4775-fff6-e1a58ecd7b9b/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/96/a5/9596a588-71de-0fbd-c065-fa1f7bcfa149/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/3f/62/843f623b-84c4-809e-0e91-4bef7d8cca57/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/27/f9/8527f92b-2bbe-4a9d-34d4-7f480c1efd10/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_08.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "CHANI",
       "version": "2.7.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.chaninicholas.chaniapp_Sideloadbypass2_2.7.1.ipa",
@@ -2516,33 +2613,6 @@
       }
     },
     {
-      "name": "GOWOD",
-      "version": "5.5.8",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/eu.gowod_gowod_5.5.8.ipa",
-      "category": "Tweaked",
-      "bundleID": "eu.gowod",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7a/dd/727add0a-9584-b34c-9f52-6d2582d4eae9/icon_liquid-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nGOWOD – Mobility & Stretching\n\n• Bundle ID: eu.gowod\n• Updated to: 5.5.8\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Mobility First Group",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/5d/ed/945dedc6-2d10-5323-00ce-5c32820328b5/Screen_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/af/1c26af8e-45f2-0786-b3da-1595eb8dede7/Screen_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/53/1a/1b531a26-3614-08dc-ed7e-d6be509e6b58/Screen_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c7/b6/42c7b69c-5508-47fa-4271-15f395af8000/Screen_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/04/a3/c904a30d-384a-cc0b-8db4-e8a188c7c3f8/Screen_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/df/28/e7df2854-5da8-c92c-4b64-c4e6bb47368a/Screen_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/a2/e6/4ea2e6d3-9231-97de-82bc-46156d78a665/Screen_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/ae/9d/16ae9d72-3457-083f-d33f-585f866071b3/Screen_8.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Unfold",
       "version": "8.155.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.moonlab.unfoldstories_AutoRcSideload_8.155.1.ipa",
@@ -4207,33 +4277,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/98/66/0998668b-73f7-8bae-4a3f-b297ea6daa8c/57e725bc-7c7c-4a4a-af40-400656063d1c_5.5_progressions.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/03/37/de0337cf-b27f-5338-4f28-c724b016066c/a23207ab-1c27-414c-9b9f-7f9a85296c97_5.5_records__U00281_U0029.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/f1/65/67f1654b-64c1-6e59-4318-5c5d4d767676/5279075b-b575-4273-85b5-48b111b41d07_5.5_sets.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Spotify (EeveeSpotify)",
-      "version": "9.1.22",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.spotify.client_EeveeSpotify_9.1.22.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.spotify.client",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @eeveespotifyrevived",
-      "developer": "Spotify",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
