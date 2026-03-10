@@ -2133,7 +2133,7 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ea/aa/bdeaaadc-07a7-bb3c-b116-2a464622868a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 15.4.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 15.4.3\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png"
@@ -2160,6 +2160,12 @@
       ],
       "versions": [
         {
+          "version": "15.4.3",
+          "date": "2026-03-10",
+          "size": 236452370,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.gingerlabs.Notability_Notability_15.4.3.ipa"
+        },
+        {
           "version": "15.4.2",
           "date": "2026-03-10",
           "size": 236511085,
@@ -2167,10 +2173,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "15.4.2",
-      "versionDate": "2026-03-10T09:38:08.872Z",
-      "size": 236511085,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.gingerlabs.Notability_Notability_15.4.2.ipa"
+      "version": "15.4.3",
+      "versionDate": "2026-03-10T18:04:26.610Z",
+      "size": 236452370,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.gingerlabs.Notability_Notability_15.4.3.ipa"
     },
     {
       "name": "FarOut",
@@ -3714,7 +3720,7 @@
         {
           "version": "9.1.28",
           "date": "2026-03-10",
-          "size": 100765681,
+          "size": 100759744,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.spotify.client_EeveeSpotify_9.1.28.ipa"
         },
         {
@@ -3732,8 +3738,8 @@
       ],
       "appPermissions": {},
       "version": "9.1.28",
-      "versionDate": "2026-03-10T15:34:46.687Z",
-      "size": 100765681,
+      "versionDate": "2026-03-10T17:04:57.767Z",
+      "size": 100759744,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.spotify.client_EeveeSpotify_9.1.28.ipa"
     },
     {
