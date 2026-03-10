@@ -2949,7 +2949,7 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/d1/88c1d187-6363-58e2-07ec-23174741b815/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.28.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nSCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.28.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg"
@@ -2984,6 +2984,12 @@
       ],
       "versions": [
         {
+          "version": "9.28.2",
+          "date": "2026-03-10",
+          "size": 82846772,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.dopedevelopment.Panels_AutoRcSideload_9.28.2.ipa"
+        },
+        {
           "version": "9.28.1",
           "date": "2026-03-10",
           "size": 82572376,
@@ -2991,10 +2997,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.28.1",
-      "versionDate": "2026-03-10T10:01:51.279Z",
-      "size": 82572376,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.dopedevelopment.Panels_AutoRcSideload_9.28.1.ipa"
+      "version": "9.28.2",
+      "versionDate": "2026-03-10T12:28:36.185Z",
+      "size": 82846772,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.dopedevelopment.Panels_AutoRcSideload_9.28.2.ipa"
     },
     {
       "name": "The Calculator",
@@ -6403,6 +6409,28 @@
       "versionDate": "2026-03-10T09:51:52.570Z",
       "size": 225466187,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.yengshine.proccd_ProCCD_5.6.1.ipa"
+    },
+    {
+      "name": "DoCast",
+      "bundleIdentifier": "us.electronic.docast",
+      "developerName": "Electronic Team, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/58/66/4d586680-0477-6fa1-d4b7-780f4b2db8aa/AppIcon-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nScreen Mirror Smart TV: DoCast\n\nPremium features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "5.6",
+          "date": "2026-03-10",
+          "size": 19371927,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/us.electronic.docast_RevenueCatFix26_5.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.6",
+      "versionDate": "2026-03-10T12:28:48.489Z",
+      "size": 19371927,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/us.electronic.docast_RevenueCatFix26_5.6.ipa"
     },
     {
       "name": "Detail",
