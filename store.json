@@ -4805,7 +4805,7 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/55/a1/7f55a1cf-8fde-9957-8016-c6d50f269dcb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDuolingo - Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.112.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nDuolingo - Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.113.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/32/13/a032137c-b6b5-8533-8b4d-00734cb192dd/iPhone6.5_-_Current_ASO_-_1.png/1320x2868bb.webp"
@@ -4888,6 +4888,12 @@
       ],
       "versions": [
         {
+          "version": "7.113.0",
+          "date": "2026-03-10",
+          "size": 203314339,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.duolingo.DuolingoMobile_Duolingo_7.113.0.ipa"
+        },
+        {
           "version": "7.112.1",
           "date": "2026-03-10",
           "size": 201539313,
@@ -4901,10 +4907,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "7.112.1",
-      "versionDate": "2026-03-10T09:44:21.790Z",
-      "size": 201539313,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.duolingo.DuolingoMobile_Duolingo_7.112.1.ipa"
+      "version": "7.113.0",
+      "versionDate": "2026-03-10T21:06:36.838Z",
+      "size": 203314339,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.duolingo.DuolingoMobile_Duolingo_7.113.0.ipa"
     },
     {
       "name": "ism",
