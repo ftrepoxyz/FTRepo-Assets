@@ -12297,7 +12297,7 @@
       "bundleIdentifier": "com.pixelperfectdude.htdrive",
       "developerName": "Pixel Perfect Dude S.A.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/98/b9/1998b90f-7e72-1bba-a940-2aad4ce30139/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\n#DRIVE\n\nTweak: Premium Unlocked\n\nVersion: 3.1.438\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.pixelperfectdude.htdrive\nDeveloper: Pixel Perfect Dude S.A.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\n#DRIVE\n\nTweak: Premium Unlocked\n\nVersion: 3.1.442\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.pixelperfectdude.htdrive\nDeveloper: Pixel Perfect Dude S.A.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/59/36/1b593604-d390-37d8-15e4-284099a35004/DRIVE_2208x1242_U002841_U0029.jpg/1320x2868bb.jpg"
@@ -12344,6 +12344,12 @@
       ],
       "versions": [
         {
+          "version": "3.1.442",
+          "date": "2026-03-11",
+          "size": 268286843,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.pixelperfectdude.htdrive_Sideloadbypass2_3.1.442.ipa"
+        },
+        {
           "version": "3.1.438",
           "date": "2026-03-11",
           "size": 268286309,
@@ -12351,10 +12357,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.1.438",
-      "versionDate": "2026-03-11T13:41:07.510Z",
-      "size": 268286309,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.pixelperfectdude.htdrive_Sideloadbypass2_3.1.438.ipa"
+      "version": "3.1.442",
+      "versionDate": "2026-03-11T15:26:48.831Z",
+      "size": 268286843,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.pixelperfectdude.htdrive_Sideloadbypass2_3.1.442.ipa"
     },
     {
       "name": "Rootd",
