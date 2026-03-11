@@ -3,6 +3,689 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Minecraft Preview",
+      "version": "1.21.130",
+      "versionDate": "2026-03-11",
+      "size": 604734109,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mojang.minecraftpreview_1.21.130.ipa",
+      "developerName": "Unknown Developer",
+      "bundleIdentifier": "com.mojang.minecraftpreview",
+      "iconURL": "",
+      "localizedDescription": "from @glesign |\n----------------\nMinecraft Preview v1.21.130.22\n\n🇷🇺 Бета версия Minecraft. Исследуйте бесконечные миры и стройте что угодно: от простейших домов до грандиозных замков и дворцов.\n— Приложение из TestFlight\n© Создано: iOSDecrypted\n\n🇺🇸 Beta version of Minecraft. Explore endless worlds and build anything from the simplest houses to grandiose castles and palaces.\n— App from TestFlight\n© Created by: iOSDecrypted",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Вместе",
+      "version": "1.4.2",
+      "versionDate": "2026-03-11",
+      "size": 138212767,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.triptally.app_1.4.2.ipa",
+      "developerName": "Unknown Developer",
+      "bundleIdentifier": "com.triptally.app",
+      "iconURL": "",
+      "localizedDescription": "from @glesign |\n----------------\nMoneySplit v1.4.2\n\n🇷🇺 Приложение Альфа Банка\n— Удалённое приложение из AppStore  \n© Создано: GLESign \n\n🇺🇸 The Alpha Bank Application\n— Removed app from the AppStore  \n© Created: GLESign",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Instagram (IGFormat)",
+      "version": "398.1.0",
+      "versionDate": "2026-03-11",
+      "size": 208748457,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._398.1.0.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nInstagram v398.1.0 | IGFormat v1.86\n\n🇷🇺 Модифицированный клиент Instagram\n— IGFormat (твик) может иметь проблемы на iPad\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Нет Рекламы\n— Улучшена функция «поделиться по ссылке»\n— Улучшено общение сообщениями\n— Настройки находятся на вкладке Профиль, иконка с листком\n© Создано: iOSDecrypted x DeNsor\n\n🇺🇸 Modified Instagram client\n— IGFormat (tweak) may have issues on iPads\n— Anonymous viewing of Stories, messages\n— No ads\n— Better sharing as link\n— Better messaging experience\n— Settings are located in Profile tab, leaf icon\n© Created by: iOSDecrypted x DeNsor",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "‎WA Business WhatsApp (Watusi)",
+      "version": "25.28.10",
+      "versionDate": "2026-03-11",
+      "size": 116936809,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsAppSMB__ipa_by_iosdecrypted_.sideloadKeychainFix._25.28.10.ipa",
+      "developerName": "WhatsApp Inc.",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d4/b2/a1d4b276-cb04-c596-fd73-41cb908b1fb8/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nWhatsApp Business v25.28.10 | Watusi v1.2.85\n\n🇷🇺 Платная модификация для WhatsApp Business\n— Приложение из TestFlight\n— Нет Рекламы\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted x Fouad Raheb\n\n🇺🇸 Paid modification for WhatsApp Business\n— The app from TestFlight\n— No ads\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted x Fouad Raheb",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/72/f5/7672f52e-e13c-6c7b-2ea2-65311cb10d4d/06_iOS_Notes.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/12/f44612f2-5bba-2767-14f1-9246171b27f7/07_iOS_CtWA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/d0/3b/21d03b3f-0fd4-8a16-1e5f-2bdbbe9a624f/08_iOS_Chat.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Telegram",
+      "version": "12.2",
+      "versionDate": "2026-03-11",
+      "size": 67469224,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_sideloadFixerLol_12.2.ipa",
+      "developerName": "Telegram FZ-LLC",
+      "bundleIdentifier": "ph.telegra.Telegraph",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/f8/9c/e8f89c9f-a513-9823-0766-52e61eef66d0/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nTelegram v12.2 (31623) | TGExtra v1.5\n\n🇷🇺 Бета версия Telegram с улучшенным интерфейсом Liquid Glass и TGExtra для конфиденциальности\n— Приложение из TestFlight\n— Нет Рекламы\n— Режим Призрака, Нечиталка Историй, Сообщение\n— Скрытие “Печатает...”\n— Разрешены снимки экрана везде\n— Чтобы открыть настройки удерживаете “Помощь” в настройках Telegram\n— Чтобы починить “Соединение…” выключите “Разрешить сохранение защищённого контента\n© Создано: iOSDecrypted x Chocolate Fluffy\n\n🇺🇸 Beta version of Telegram with improved Liquid Glass interface and TGExtra for privacy\n— The app from TestFlight\n— No Ads\n— Ghost Mode, Anonymous Messages, Stories viewing\n— Hiding “Typing...”\n— No Screenshot Restriction\n— To open Settings hold “Ask a question” in Telegram’s settings\n— To fix “Connection…” disable “Allow Saving Protected Content”\n© Created by: iOSDecrypted x Chocolate Fluffy",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/b1/b9/e6b1b943-d7ea-73cc-69e7-9d9e22a27a5b/0_APP_IPHONE_55_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/06/a9/6106a923-72e2-29f9-2a9e-2356912d9995/1_APP_IPHONE_55_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/4f/15/864f15d3-5b7a-71d5-0c46-98ed7d9e656b/2_APP_IPHONE_55_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/f3/1f/c6f31f4f-a957-3b02-27bb-2d764ccedcb4/3_APP_IPHONE_55_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/5a/77/915a7745-ffaa-a37c-3d26-d35bcb4d9ee3/4_APP_IPHONE_55_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/8f/d7/998fd71b-7856-ee21-4ffb-e61ef9b13c28/5_APP_IPHONE_55_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/dd/4e/acdd4e22-40ca-5ed9-49d1-39fa3da0d32a/6_APP_IPHONE_55_6.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "TikTok (BHTikTok)",
+      "version": "42.0.0",
+      "versionDate": "2026-03-11",
+      "size": 326788417,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.0.0.ipa",
+      "developerName": "TikTok Ltd.",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nTikTok v42.0.0 | BHTikTok++ v1.9.3\n\n🇷🇺 Модифицированный клиент TikTok\n— Приложение из TestFlight\n— На iOS 26 используйте Feather с опцией «Replace Substrate with Ellekit»\n— Нет Рекламы\n— Скачивание постов и историй\n— Анонимное чтение сообщений\n— Убрать Прямые Трансляции из ленты\n— Для просмотра из России, рекомендуется использовать смену региона\n— Рекомендуемые регионы для смены: Казахстан, Беларусь\n© Создано: iOSDecrypted x RXTikTok\n\n🇺🇸 Modified TikTok client\n— The app from TestFlight\n— On iOS 26 use Feather with “Replace Substrate with Ellekit” option\n— No ads\n— Download posts and stories\n— Anonymous reading of messages\n— Remove Live streams from FYP\n— Region Changer\n© Created by: iOSDecrypted x RXTikTok",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "TikTok",
+      "version": "42.3.0",
+      "versionDate": "2026-03-11",
+      "size": 350188150,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.3.0.ipa",
+      "developerName": "TikTok Ltd.",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nTikTok v42.3.0 | RXTikTok v1.4.5\n\n🇷🇺 Платная модификация TikTok\n— Требуется лицензия\n— Приложение из TestFlight\n— Нет Рекламы\n— Скачивание постов и историй\n— Анонимное чтение сообщений\n— Убрать Прямые Трансляции из ленты\n— Для просмотра из России, рекомендуется использовать смену региона\n— Рекомендуемые регионы для смены: Казахстан, Беларусь\n© Создано: iOSDecrypted x RXTikTok\n\n🇺🇸 Paid TikTok modification\n— Requires license\n— The app from TestFlight\n— No Ads\n— Download posts and stories\n— Anonymous reading of messages\n— Remove Live streams from FYP\n— Region Changer\n© Created by: iOSDecrypted x RXTikTok",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Instagram (Theta)",
+      "version": "402.0.0",
+      "versionDate": "2026-03-11",
+      "size": 226763362,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._402.0.0.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nInstagram v402.0.0 | Theta v4.0\n\n🇷🇺 Одна из лучших бесплатных модификаций для Instagram\n— в приложение есть полная поддержка iPad\n— Нет Рекламы\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Сохранение удаленных сообщений\n— Различные другие улучшения\n© Создано: iOSDecrypted x objc_msgSend\n\n🇺🇸 One of the best modifications for Instagram\n— the app has full iPad support\n— No Ads\n— Download posts and stories\n— Anonymous viewing of Stories, messages\n— Keep deleted messages\n— Various other modifications\n© Created by: iOSDecrypted x objc_msgSend",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "‎WhatsApp WhatsApp (Watusi)",
+      "version": "25.28.10",
+      "versionDate": "2026-03-11",
+      "size": 111132054,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._25.28.10.ipa",
+      "developerName": "WhatsApp Inc.",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f4/0d/88f40df9-9a8c-235f-dc2c-48c3bd5b4345/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nWhatsApp v25.28.10 | Watusi v1.2.85\n\n🇷🇺 Платная модификация для WhatsApp\n— Приложение из TestFlight\n— Нет Рекламы\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted x Fouad Raheb\n\n🇺🇸 Paid modification for WhatsApp\n— The app from TestFlight\n— No ads\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted x Fouad Raheb",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Instagram InstaLRD",
+      "version": "403.0.0",
+      "versionDate": "2026-03-11",
+      "size": 211823859,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._403.0.0.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nInstagram v403.0.0 | InstaLRD v2.18\n\n🇷🇺 Модифицированный клиент Instagram\n— работает лишь с сертификатом GLESign\n— требует Feather или GBox для установки. Невозможно использовать с Esign\n— в приложение есть полная поддержка iPad\n— Нет Рекламы\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Сохранение удаленных сообщений\n© Создано: iOSDecrypted x iStore\n\n🇺🇸 Modified Instagram client\n— works only with GLESign certificate\n— requires Feather or GBox to install. Impossible to use it with Esign\n— the app has full iPad support\n— No Ads\n— Download posts and stories\n— Anonymous viewing of Stories, messages\n— Keep deleted messages\n© Created by: iOSDecrypted x iStore",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Swiftgram",
+      "version": "12.5",
+      "versionDate": "2026-03-11",
+      "size": 79731270,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.swiftgram.ios_SwiftgramCrack_12.5.ipa",
+      "developerName": "Akentech Ltd",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/b3/50/ecb35019-e45f-c064-19a1-11a5df0e8ef2/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nSwiftgram v12.5 (267) | TGExtra v1.7.3\n\n🇷🇺 Бета версия Swiftgram с новым интерфейсом Liquid Glass и TGExtra для конфиденциальности\n— Приложение из TestFlight\n— Нет Рекламы\n— Режим Призрака, Нечиталка Историй, Сообщение\n— Скрытие 'Печатает...'\n— Разрешены снимки экрана везде\n— Чтобы открыть настройки удерживаете 'Помощь' в настройках Telegram\n— Чтобы починить 'Соединение…' выключите 'Разрешить сохранение защищённого контента'\n— Чтобы починить, то что Чаты не открываются, перейдите в приложение Настройки - Swiftgram - Сбросить Метадату\n— Для уведомлений: t.me/glesign_chat/32572\n© Создано: iOSDecrypted\n\n🇺🇸 Beta version of Swiftgram with new Liquid Glass interface and TGExtra for privacy\n— The app from TestFlight\n— No Ads\n— Ghost Mode, Anonymous Messages, Stories viewing\n— Hiding 'Typing...'\n— No Screenshot Restriction\n— To open Settings hold 'Ask a question' in Telegram's settings\n— To fix 'Connection…' disable 'Allow Saving Protected Content'\n— To fix Chats not opening go to Settings app - Swiftgram - Reset Metadata\n— To fix Notifications: t.me/glesign_chat/32578\n© Created by: iOSDecrypted",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/99/fc/be99fc56-675f-d3be-836b-25e22595270b/33a91d32-a749-467d-abc5-309c1d008023_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/a6/87d5a6de-7521-895d-8e24-9d57fcf0ed87/1ec71ec7-3132-4188-b61e-5e4be9e79d15_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ba/0b/deba0b19-dceb-bbbe-4c4a-d7e34483405f/f6e02763-35db-4f45-b447-ddfbacba9e88_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/96/282e9660-e71e-d00e-36e3-729b1cdc3fbd/2d0e5ff1-9351-48f6-9d2a-b26954f9125c_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/af/91/5eaf916a-8bcf-4fa4-56b4-d81ccbf09653/22205c94-1c69-4e32-b193-3b28cb0690cf_6.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Minecraft",
+      "version": "1.21.132",
+      "versionDate": "2026-03-09",
+      "size": 605375936,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.mojang.minecraftpe_1.21.132.ipa",
+      "developerName": "Mojang",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nMinecraft v1.21.132\n\n🇷🇺 Исследуйте бесконечные миры и стройте что угодно: от простейших домов до грандиозных замков и дворцов.\n— Платное приложение из App Store\n© Создано: GLESign\n\n🇺🇸 Explore endless worlds and build anything from the simplest houses to grandiose castles and palaces.\n— Paid app from App Store\n© Created by: GLESign",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/47/6f/07476fcd-1ecf-18ca-e7f7-364d6c6cd5e1/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a6/ed/74a6ed67-e5e9-a1ae-3233-225b651d6bf0/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4f/92/be4f92ef-8b4b-94e3-cd78-da32db4193b0/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/03/ee/6403eee1-4fbf-6b89-d2ec-6fc410182689/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6b/4e/1f6b4ef1-3ebb-526a-b6fb-a0d1301e30df/b66be1fb-63e6-48ee-b33e-201f6e5229b1_TrailsAndTales_Apple_2208x1242_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ed/c4/a2edc497-b844-0e65-a682-f427f4e7505c/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/db/86/77db860c-9b7e-f5ee-c849-f98640e6f9c9/e8534913-e159-4489-a2b2-ff14785e2ca9_LushCaves_2208x1242_GB.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/eb/58/4aeb585d-ec15-a57b-7475-9de908d27446/dbcfdd4e-840f-4b82-824a-4db2201f31d6_Goat_2208x1242_GB.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/85/2c/d7852cb7-013e-16ed-e77d-734eec50cc70/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/24/0e/d3240e89-cfae-f07e-b506-eb60987a55a7/pr_source.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "AniLiberty",
+      "version": "2.5.1",
+      "versionDate": "2026-03-11",
+      "size": 3847539,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/tv.anilibria.anilibria_2.5.1.ipa",
+      "developerName": "Unknown Developer",
+      "bundleIdentifier": "tv.anilibria.anilibria",
+      "iconURL": "",
+      "localizedDescription": "from @glesign |\n----------------\nAniLiberty 2.5.1\n\n🇷🇺 Приложение для просмотра аниме от команды Aniliberty. \n— Требуется iOS 13.0+\n© Создано: AniLibria\n\n🇺🇸 The Aniliberty team's anime viewing app\n— Requires iOS 13.0+\n© Created: AniLibria",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "YouTube",
+      "version": "21.09.2",
+      "versionDate": "2026-03-11",
+      "size": 124519546,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_YouSpeed_21.09.2.ipa",
+      "developerName": "Google",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Instagram",
+      "version": "418.2.0",
+      "versionDate": "2026-03-11",
+      "size": 283043840,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_FLEXing_418.2.0.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "X",
+      "version": "11.71",
+      "versionDate": "2026-03-11",
+      "size": 181908956,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_BHTwitter_11.71.ipa",
+      "developerName": "X Corp.",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/13/16/69131624-7232-3d78-8c2b-44494958efad/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBHX\nAwesome tweak for Twitter\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/08/bb/4908bb23-f894-6820-0813-7787e71e05f5/89eae6ec-850a-46e4-a590-bb462e354b1b_iPad_12.9_-_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/e2/1e/18e21ed5-e600-5886-4a64-440fd75966ad/c60cd26e-fd51-4459-8941-f5ac72fc19a0_iPad_12.9_-_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/25/15/fa2515f3-c9e0-7a00-b9c3-e91ac2a87a1f/abdab1ff-1d0a-4c36-96a5-b574c62f2d85_iPad_12.9_-_1.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Narwhal",
+      "version": "2026.2",
+      "versionDate": "2026-03-10",
+      "size": 16802484,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.rickharrison.narwhal_RevenueCatFix26_2026.2.ipa",
+      "developerName": "robot swingset, llc.",
+      "bundleIdentifier": "com.rickharrison.narwhal",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/33/98/a03398d6-31c6-2f95-d1af-71ba19411161/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNarwhal for Reddit\n\nPro features unlocked\n\nRestart app if you get \"subscription not found\" error\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/6f/a5/356fa5c7-f99e-0432-ae33-08cc2f3f8632/screen-1-a.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/20/8a/6c208aa0-e350-9bd8-9730-c67be88ea994/screen-2-a.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/51/e1/ce51e1a5-b73d-476e-506a-e62548bf34dd/screen-3-a.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/dd/3c/93dd3c41-47e7-326e-ab51-3370a07b7816/screen-4-a.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/ba/b4/5abab456-571f-b34a-3369-f14ebc392fb6/screen-5-a.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/83/ec/6583ec8d-c757-02cf-c1fc-3777aac7d38f/screen-6-a.png/1320x2868bb.webp"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Speedometer",
+      "version": "8.0.6",
+      "versionDate": "2026-03-10",
+      "size": 33804166,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.jps.gpspeedhud_StopReviews_8.0.6.ipa",
+      "developerName": "BITHAUS.TECH, UNIPESSOAL LDA",
+      "bundleIdentifier": "com.jps.gpspeedhud",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/69/0f/07690fca-6e49-cf1e-e7f9-cfab549c2f5a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSpeedometer Speed Tracker GPS\n\nPro features unlocked\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/64/75/ed6475a5-a556-c0b3-2880-a08e013f3e75/1067dd29-1f70-4f00-844a-b651b19e242f_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/d1/7f/f3d17f7d-2517-d546-c5fe-c831b3351007/c2516102-e049-4c6a-9c75-d4fa3513a698_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/e1/60/42e160e8-c758-9a3f-47cc-a382ccd431fd/ae539092-d125-4c96-bd96-c5c1cb624438_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/44/06/404406e7-f846-16c7-0c92-7beef1397616/3983dde1-bb88-4cd6-945a-0d376db99e7d_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/f0/70/e8f070b7-3a6b-b847-6b86-4b1363816eaa/c8f2b738-f5cf-4858-9adc-75cd561bc336_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/22/35/5b22359b-2cca-5e03-0783-8aa4f4ed5f46/b7572613-c04b-42fc-8fbc-ce3894857f88_6.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Unfold",
+      "version": "8.155.1",
+      "versionDate": "2026-03-11",
+      "size": 167046296,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.moonlab.unfoldstories_AutoRc_8.155.1.ipa",
+      "developerName": "Squarespace, Inc.",
+      "bundleIdentifier": "com.moonlab.unfoldstories",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/3f/e6/f03fe6a6-3b9b-bbfa-a409-79c1d55535ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUnfold: Video & Photo Editor\n\nPlus features unlocked\n\nTweak made by Chocolate FLuffy\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/51/47/c0514749-ff9a-3b93-8cf2-260242139a6d/4dbb9940-67ea-429f-8352-364c31f13a66_option_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/ff/d3/93ffd355-6449-741d-5aa1-e78779fa25bd/2585f158-68b0-43c9-be57-df9f2c8e4043_Unfold_AS_SC_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/8e/40/b68e40c4-975e-6a9b-9cee-ccfc85586e61/647a6b90-648f-4aa3-b39c-2a76a39d626b_Unfold_AS_SC_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/31/64/fe316465-9428-cb9b-0d5f-fe7eefeaf880/3270ab35-4f36-4f89-96de-12f1e35a28cb_Unfold_AS_SC_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/d5/cb/c0d5cb21-168d-e77b-bd91-c860469d7229/867a180d-9bc7-4b90-b569-a1de64435ddc_Unfold_AS_SC_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/d8/99/f1d89984-ce13-f4d6-34f2-869b711b8b07/a87fb8c7-9bf7-4942-804d-5b5b92b8a901_Unfold_AS_SC_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/52/44/a152440a-59a3-0660-5f94-ebeb2fe9c2ee/7fbccf76-d88a-4ac8-90d5-962c6ff7d6f2_Unfold_AS_SC_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/71/ba/6d71babc-0655-a524-3249-88019aab27da/3ffc6224-8e40-4d82-ae75-315ebdc004c0_Unfold_AS_SC_09.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "TravelBoast",
+      "version": "2.29",
+      "versionDate": "2026-03-11",
+      "size": 372290657,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.travelboast.travelboast_SatellaJailed_2.29.ipa",
+      "developerName": "ALEXSANDR KUZNETSOV",
+      "bundleIdentifier": "com.travelboast.travelboast",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b3/86/1cb38628-9fbb-2e78-e7e6-86f3c4432c93/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTravelBoast: My Journey Routes\n\nTap on buy then cancel\n\nYou might have to buy it every time you open the app!\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/63/e4/cc63e4af-1803-c1b0-53a4-092291d07015/tb_screen_01_us.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4c/19/364c19aa-8c1e-0fe2-d242-9a4100c256ff/tb_screen_02_us.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/7e/9c/0c7e9ced-7363-5451-cfc9-7b92a788dd8e/tb_screen_03_us.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d5/23/3cd5234c-d0d3-503e-65cc-27441da55be7/tb_screen_04_us.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/dc/70/99dc70cd-26f3-355a-9c7a-a25d05a578ec/tb_screen_05_us.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/da/a3/5ddaa321-2933-86ed-c300-3e6267fef7e5/69e2c693-fdee-4aa9-a686-3f38031f76a0_ipad_screen_01_en.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/22/93/f5229332-5da8-b175-9061-30d9466e631a/08581539-e771-47cf-9717-710772a91405_ipad_screen_02_en.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/fb/1e/4bfb1e41-428e-6296-33da-8ee149c83a21/9ff117c2-98b1-4879-8996-56e655dc7351_ipad_screen_03_en.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/69/bc/2369bcab-6646-0411-48d8-92aaec50f679/1d750f06-9b1e-46b3-9619-13f02769b3e4_store_Screen_IPAD_02.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Headway",
+      "version": "371.2",
+      "versionDate": "2026-03-11",
+      "size": 233251987,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.headway.books_Headway_371.2.ipa",
+      "developerName": "GTHW App Limited",
+      "bundleIdentifier": "com.headway.books",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/f8/e2/26f8e2ac-652d-a2fe-24ed-32db504a0c54/AppIcon-0-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nHeadway: Daily Book Summaries\n\nPremium features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 16.1\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/4b/e3/974be323-c75a-2016-04c4-dd2be4dff31f/315b35ee-d3c5-4f44-9e9a-bacb568b7f72_store-screen-small-C.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/e7/c1/93e7c109-6fb1-6e6e-ee61-7c38d83219d1/e5de9589-d6fd-4577-9251-72cf6ab04ec7_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/a6/dd/39a6dd07-5e3e-c038-7cec-ed8c4e2fe538/0704bf74-b387-45ae-9f3c-4de3e846171c_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/b7/8c/12b78ce8-5210-deb9-6d83-058ac2ecb392/96e322bf-cccd-4d32-ae63-f1201766d3f7_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/e4/3c/ece43c0f-36ce-1f70-e146-884861a02d98/2be2e4b9-99da-4a0b-95e9-37a42f162eb5_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/40/ee/3f40ee75-9ebf-e18f-bccc-c05604919b75/a253a0be-0d66-4f35-9177-109e641061ca_store-screen-small06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/85/14/94851496-f15f-2f1e-a6dc-88eb4c2f7a0e/830f4e93-809c-4698-ad22-f7aa0c91b03b_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/5d/06/fe5d06c9-e7a6-5c0b-3fb6-4e473b1939a0/65ca42c4-bd3d-467e-81df-6ebcac7c53d2_08.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Magic Tiles 3",
+      "version": "13.021.002",
+      "versionDate": "2026-03-11",
+      "size": 268775417,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.amanotes.magictiles_MagicTiles3Patch_13.021.002.ipa",
+      "developerName": "Amanotes Pte. Ltd.",
+      "bundleIdentifier": "com.amanotes.magictiles",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/0c/de/b20cde1b-26b7-8002-e097-e48017b6fa12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMagic Tiles 3: Piano Game\n\nVip features unlocked\n\nTweak made by Dell\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/8e/c6/d48ec697-828d-8006-35d4-4f96e4728379/a150f9de-4ce3-4993-92c8-18f7122463e6_240823_PI_GL_SNA_FE0TaF0Lay0Original01stSS0DarkTheme_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/f1/30/43f13009-dab3-b92b-c9c4-dc04931bf97e/Artboard_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/6b/1e/416b1e64-72c9-fce1-91a0-f3ad91b5bdbd/Artboard_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/0d/c1/860dc1ab-774c-a881-67a5-97bd0a1dba87/3aacb0f8-2acc-4f87-a80c-639736e709f8_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/7b/04/5e7b0466-9b37-1d1c-40a7-698542c0a7d7/0ac00755-939a-4ba7-82ae-0fb4d76896ae_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/ee/54/3bee54cb-fbd7-fe2f-5b30-299ced9698f7/ac1909a3-2fcf-4ad1-8123-26b975e6b44d_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/af/47/36af470b-67bd-4e18-7504-bb0dc2dce45d/d8c5a71c-b24f-4fde-805b-fb26c7d6e10c_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/e6/14/c1e614bf-3fe1-48e2-f322-e8b3b8c32bfc/ffc6936a-2d93-43fb-82db-071905ae4634_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S10.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/33/d8/d433d890-6d15-9b03-69e4-e36e12aa016d/2214e8b6-a873-4f0c-b2ad-05be37035d95_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S8.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Unscripted",
+      "version": "4.8.0",
+      "versionDate": "2026-03-09",
+      "size": 163467534,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.ibit.UNPOSED_RevenueCatFix26_4.8.0.ipa",
+      "developerName": "OMJ Holdings Pty Ltd",
+      "bundleIdentifier": "com.ibit.UNPOSED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/8d/ff/648dffbf-4486-bf81-1199-2e75f97d7085/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUNSCRIPTED Photography Poses\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/e7/c8/95e7c833-b668-03ae-bc04-bf81ed90b9b7/5ac8ac8c-24f2-4c14-9e4f-0a56a428f737_15.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/b3/e1/87b3e1df-499e-29d8-75d5-fe3fd7699b47/f82882fd-5f30-4a57-aacf-6180adb0747a_25.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/10/a8/1610a8ce-6063-ce3e-ceb5-c877b3427d64/fe835d3d-bd28-4692-8764-59c6af0d2311_35.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/a1/03/dea10348-211f-7ae4-eafc-6d18c4517cc3/991439ca-ad55-4271-afaa-450b90fbe6be_45.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ea/5c/44ea5cea-ba55-c4d6-f444-bc090e4bcaec/2e3c87bf-fc56-4b09-90cd-2b0ca44379ce_55.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/2d/76/9c2d76ab-e1ec-93ee-2bc2-251497e63bc1/41d726ae-e723-4a76-9b02-ee62e368d99c_65.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/fb/1b/9cfb1b90-0aac-a6ba-762f-b09a2f48d1d3/ec1518e5-d99c-433b-970d-29b78efee518_75.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/32/f4/9332f451-6ae7-9bec-ef7d-83ac8dbee26d/fec297fd-2404-44df-bce4-3c0c262ed921_85.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/31/1a/5f311ab2-4524-5b13-9b6c-346c3267683c/344052e7-2339-42da-9b55-3bd7b032558e_95.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/89/53/4d895344-e0c7-0a45-16d0-f3d5811d3608/e0d9cc5a-63d2-49f6-9775-1d740bf2aabe_105.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Uplens",
+      "version": "3.4.10",
+      "versionDate": "2026-03-11",
+      "size": 176883424,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.uplens_uplens_3.4.10.ipa",
+      "developerName": "MPGames",
+      "bundleIdentifier": "app.uplens",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/af/13f1affa-cf26-3e4c-cdbf-08789fe8ef43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUplens: Photo & Video Editor\n\nPro features unlocked\n\nNote: Click Restore Purchases\n\nTweak made by Zzz Zzz\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b761d1-4520-bb1f-6f9c-2a33cf99be0d/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/28/a5/bf28a59a-a008-cdac-ab71-c7524b09f019/fb3be5a6-4f05-40fd-b202-8f672503eab0_3-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ef/74/e7ef743b-6b1a-4655-934b-dcd188dd82c4/912accdc-d02d-42fc-9ca2-dd1c42202b39_4-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/af/9a/81af9a34-d92d-293f-c4c1-10e5a4d080fc/d1322cb8-ae03-427f-a3c0-a35d50619bca_5-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/08/d4/cd08d444-b47d-6ae2-10a4-94721adf0f9a/18a65433-b405-4d79-93f6-63a86d81c02c_6-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/f4/ff/32f4ffac-f03c-1378-c44e-5ab439c74b14/5de6ad60-b69d-46da-96c0-19c0d39a7386_7-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fe/b3/36feb3fa-21ef-370f-8943-525e7d1efc57/1018be1f-f9b9-4153-a6a9-5193a2f14411_8-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/97/7f/38977fee-266c-66c3-5839-157f94a87ae2/1082e6ed-cf5b-49d2-a774-68148aeb5519_9-5_U00275-en.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Calm",
+      "version": "6.90",
+      "versionDate": "2026-03-11",
+      "size": 119163400,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.calm.calmapp_BBAESXORNEWOBFUSCATION_6.90.ipa",
+      "developerName": "Calm.com",
+      "bundleIdentifier": "com.calm.calmapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/9e/e5/179ee569-5dae-d85f-5d52-92b607761a48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nCalm\n\nPremium features unlocked\n\nTweak made by Никита\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d7/a0/c4d7a09f-9670-503d-548b-dac1f19012a2/92a594c0-f5b1-4739-bffd-88930991b524_iPhone_5.5_Inch_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b9/78/c2b978bb-3fe0-c2ab-6777-917fc5a89bc0/6f697906-3d56-49aa-9a43-9450f30baa69_iPhone_5.5_Inch_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/4a/8d/294a8d22-65f9-054b-8d9d-158a4a3a5079/1e1fea27-bf2c-4468-90f2-41dfc4dc2487_iPhone_5.5_Inch_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/9d/e1/2c9de18e-fd34-40b2-3c45-43d7922199ae/1ab114e3-3a44-4557-95c4-f3ec3b27ec42_iPhone_5.5_Inch_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/a4/8f/4da48ffc-e467-bcd2-9901-74e60449a423/da0538ba-be45-42e7-b3fa-b6f44e0223ba_iPhone_5.5_Inch_06.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Car Scanner",
+      "version": "2.1.9",
+      "versionDate": "2026-03-10",
+      "size": 68112935,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/ovz.Car-Scanner_SatellaJailed_2.1.9.ipa",
+      "developerName": "Stanislav Svistunov",
+      "bundleIdentifier": "ovz.Car-Scanner",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/b2/5d/57b25dd0-24f4-2933-1ebe-45658f64c7dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nCar Scanner ELM OBD2\n\nTap on buy pro then cancel\n\nMinimum OS version 12.2\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/15/0a/76/150a7638-0a44-90f5-54ea-3c5a7dfb2c8b/mzl.ueseydxs.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a0/4d/b7/a04db726-431f-85e3-7f1f-0c6a94492feb/mzl.dmfuesnn.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/68/bd/56/68bd56c0-85ff-91f0-fc1f-d2464456573e/mzl.xvyohazf.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5e/6a/3e/5e6a3e6d-6cbd-ae8b-d9f5-ab1eb24981e8/mzl.hwipufme.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/76/28/89/76288937-40be-9542-80f1-b58ccc041ea8/mzl.fnuvfnjn.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7e/91/d8/7e91d8f0-4057-0a5c-5a32-2e1f2df425bb/mzl.wzzujcyd.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/25/0a/9f250a42-4b1b-79dd-553e-4ad04c0ad686/mzl.csnfwfjd.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/5a/b6/485ab64a-637e-f88b-e8de-c35a6bbd51f9/mzl.egbnuasx.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9b/8d/9d/9b8d9d2a-3a3c-ae2d-9fee-cdc4b5eb9650/mzl.ygsdsqpl.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Paired",
+      "version": "2.73.0",
+      "versionDate": "2026-03-11",
+      "size": 43832101,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/io.betterhalf.app_PairedPatch_2.73.0.ipa",
+      "developerName": "Better Half Limited",
+      "bundleIdentifier": "io.betterhalf.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/6d/44/5d6d445f-5a91-cc1e-94fa-ba4f15d2406d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPaired: Couples & Relationship\n\nPremium features unlocked\n\nTweak made by Dell\n\nMinimum OS version 15.5\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "GOWOD",
+      "version": "5.6.0",
+      "versionDate": "2026-03-10",
+      "size": 59922778,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/eu.gowod_gowod_5.6.0.ipa",
+      "developerName": "Mobility First Group",
+      "bundleIdentifier": "eu.gowod",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7a/dd/727add0a-9584-b34c-9f52-6d2582d4eae9/icon_liquid-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nGOWOD – Mobility & Stretching\n\n• Bundle ID: eu.gowod\n• Updated to: 5.6.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/5d/ed/945dedc6-2d10-5323-00ce-5c32820328b5/Screen_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/af/1c26af8e-45f2-0786-b3da-1595eb8dede7/Screen_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/53/1a/1b531a26-3614-08dc-ed7e-d6be509e6b58/Screen_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c7/b6/42c7b69c-5508-47fa-4271-15f395af8000/Screen_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/04/a3/c904a30d-384a-cc0b-8db4-e8a188c7c3f8/Screen_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/df/28/e7df2854-5da8-c92c-4b64-c4e6bb47368a/Screen_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/a2/e6/4ea2e6d3-9231-97de-82bc-46156d78a665/Screen_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/ae/9d/16ae9d72-3457-083f-d33f-585f866071b3/Screen_8.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Precious",
+      "version": "3.50.4",
+      "versionDate": "2026-03-10",
+      "size": 318561097,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.laubrothersllc.BabyArt_RevenueCatFix26_3.50.4.ipa",
+      "developerName": "Curious Creators Co.",
+      "bundleIdentifier": "com.laubrothersllc.BabyArt",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/86/52/3286522d-d91d-7e66-fe5f-a8bff0ef102c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPrecious - Baby Photo Art\n\nUnlimited features unlocked\n\nSelect a subscription and then tap on buy\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/47/8e/5e478ed8-49f6-3b97-2366-27b1ab4061cf/25.03.18_1_Adorable_iPad.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/cf/17/6ecf1778-f4fa-c2fe-431f-5997d2c53de7/25.03.18_2_Superman_iPad.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/fa/7e/e4fa7e6a-2a96-fb18-56a2-5d19d6504a81/25.03.18_3_Foot_Milestone_iPad.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/41/d6/be41d689-9180-14ce-74c0-4428774bf449/25.03.18_4_Explore_Designs_iPad.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/f1/eb/b9f1eb19-632d-bf01-b79a-9e646b04085a/25.03.18_5_See_Baby_Grow_Up_Still_iPad.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "InstagramRegram Instagram (Regram)",
+      "version": "419.0.0",
+      "versionDate": "2026-03-11",
+      "size": 304007247,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_RegramCrack_419.0.0.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Threads",
+      "version": "419.1.0",
+      "versionDate": "2026-03-11",
+      "size": 87357821,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.barcelona_blatantsPatch_419.1.0.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/75/54/af7554a0-f3ac-d1b8-a0d7-6f9f791f64fc/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Wikiloc",
+      "version": "3.26.3",
+      "versionDate": "2026-03-11",
+      "size": 109378511,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.wikiloc.wikiloc_Wikiloc_3.26.3.ipa",
+      "developerName": "Wikiloc Outdoor SL",
+      "bundleIdentifier": "com.wikiloc.wikiloc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWikiloc - Trails of the World\n\nPremium features unlocked\n\n3D maps feature is server-sided and doesn't work\n\nTweak made by Blatant\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/17/68/e9176897-2173-495f-be87-c6a4a232401d/2._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fa/b7/34fab736-0bb8-c8e7-971a-005e267a9055/3._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1c/e4/c61ce48e-6e58-3554-1536-f09883f5a6a8/4._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/6e/09426ed8-6ab0-9b9e-790c-cbb48c1a7128/6._5.5_U0027_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2c/c6/882cc652-3db9-4d6d-ff6d-e9d42733b44e/7._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Tiimo",
+      "version": "3.45.1",
+      "versionDate": "2026-03-10",
+      "size": 93054753,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.tiimo.app_RevenueCatFix26_3.45.1.ipa",
+      "developerName": "tiimo",
+      "bundleIdentifier": "com.tiimo.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/48/30/1c483073-a59f-3cf6-45ac-72ce677078c0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTiimo: AI Planner & To-do\n\nPro features unlocked\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/d3/b5/2bd3b5d3-692e-98c5-db0e-5f0fd54ab9d5/iPhone_6.5_01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/2e/56/082e5675-a539-c904-1e1d-3af46266a0ca/iPhone_6.5_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/bc/0b/cebc0bc8-0418-4b15-7496-610b89ffd089/iPhone_6.5_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/fc/d6/3ffcd6e4-e57d-53c2-ec57-e7e508e2bd4b/iPhone_6.5_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/47/b1/fb47b1b8-3661-cfb2-72fc-8e3d9e4ac4e8/iPhone_6.5_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/1d/bf/861dbfa3-2510-c232-2e39-df6bbd06debd/iPhone_6.5_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/a5/7b/9aa57bc7-4b65-5c7d-b771-574d4532b6fc/iPhone_6.5_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/30/bc/2b30bc00-4546-e4bd-62a4-37959f169ed0/iPhone_6.5_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/c2/1b/dcc21b3d-f9f0-087d-3567-250a4924e044/iPad_01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/eb/26/c8eb2678-a593-b412-bc97-b9016aee2d55/iPad_02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/69/46/d76946c9-dd49-526f-4c91-e42a082461a4/iPad_01-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/1f/41/3d1f4127-3cbb-af2c-8b20-fd9c40a7904d/iPad_01-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/34/fd/7d34fd73-6b15-c8d1-fff9-e66a4a86c63b/iPad_01-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/0d/76/800d76f9-8c3e-8654-abd1-4a6942bc9748/iPad_01-4.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Soundmap",
+      "version": "2.9.9",
+      "versionDate": "2026-03-11",
+      "size": 57152218,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.mmap.mobile_SoundmapPatch_2.9.9.ipa",
+      "developerName": "Intonation Studios Inc.",
+      "bundleIdentifier": "app.mmap.mobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ac/e3/4dace33b-9c89-b605-002b-b50681791c13/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSoundmap: Find Your Songs\n\nPro features unlocked\n\nTweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/b4/7a/72b47a9f-30e3-382d-c20b-67fe0ebfe172/7ddf4fbe-95b0-4e01-b89e-0de1cf6ebf47_5.5_Inch_-_1.29__U00231.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/aa/95/05aa9553-0c6e-3d78-e187-a077f8374648/bbb1060d-b59e-4a0b-983a-8b1d2f64b485_5.5_Inch_-_1.29__U00232.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/9f/50/629f5036-5009-3be8-e8da-57b02bd65687/a526bb13-f2d2-4f39-a533-05e05714c0f5_5.5_Inch_-_1.29__U00233.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/86/68/18866801-c8ab-f20a-1564-77c896b79c01/e25d19c4-1fb3-44f7-ab6f-a5ec89f44b76_5.5_Inch_-_1.29__U00233-1.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Bend",
       "version": "7.2.2",
       "versionDate": "2026-03-11",
@@ -100,27 +783,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Instagram (IGFormat)",
-      "version": "419.0.0",
-      "versionDate": "2026-03-11",
-      "size": 249938769,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_IGHDMedia_419.0.0.ipa",
-      "developerName": "Instagram, Inc.",
-      "bundleIdentifier": "com.burbn.instagram",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nInstagram IGFormat\n\nMake Instagram Better!\n\nMany features and completely free - try it\n\nTelegram channel\n\nMinimum OS version 16.3\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Motobit",
       "version": "1.0.62",
       "versionDate": "2026-03-11",
@@ -137,47 +799,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/ce/3d/52ce3d2b-eaec-2800-c5bc-4da13f1a42ff/448579f0-5b19-47fb-8d43-156fa0d01786_Portrait_4_2208_55inch.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/de/7c/77de7cca-8e02-27fe-9981-592d31d85b73/221836b4-7b9b-4f81-8a8d-7f8a3ddf067d_Portrait_5_2208_55inch.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/4e/1f/dd4e1fc8-93db-c7ae-47e2-ad217ddb9fe0/ea64ffce-f17a-42b1-a211-497e3613b233_Portrait_6_2208_55inch.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Spotify",
-      "version": "9.1.28",
-      "versionDate": "2026-03-11",
-      "size": 100759744,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.spotify.client_EeveeSpotify_9.1.28.ipa",
-      "developerName": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "YouTube",
-      "version": "21.09.3",
-      "versionDate": "2026-03-11",
-      "size": 124519602,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_YouSpeed_21.09.3.ipa",
-      "developerName": "Google",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -377,23 +998,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "X",
-      "version": "11.71",
-      "versionDate": "2026-03-11",
-      "size": 181908956,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_BHTwitter_11.71.ipa",
-      "developerName": "X Corp.",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/13/16/69131624-7232-3d78-8c2b-44494958efad/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBHX\nAwesome tweak for Twitter\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/08/bb/4908bb23-f894-6820-0813-7787e71e05f5/89eae6ec-850a-46e4-a590-bb462e354b1b_iPad_12.9_-_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/e2/1e/18e21ed5-e600-5886-4a64-440fd75966ad/c60cd26e-fd51-4459-8941-f5ac72fc19a0_iPad_12.9_-_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/25/15/fa2515f3-c9e0-7a00-b9c3-e91ac2a87a1f/abdab1ff-1d0a-4c36-96a5-b574c62f2d85_iPad_12.9_-_1.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "PDF Viewer",
       "version": "2026.3",
       "versionDate": "2026-03-11",
@@ -486,69 +1090,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/04/10/8a04100a-1c97-4bfa-6651-5e711aa3e080/66222a32-f038-429b-b8ac-6810c633bab8_iPhone_5.5-2.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b3/b1/99b3b177-799b-de93-da15-7174e7ade48f/0cab03d9-b134-4590-a4ae-d3ef0f370336_iPhone_5.5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/26/f9/5f26f9fa-f8c2-2d76-a96b-8b7f979f513d/45584eac-a0a1-4a1d-aa08-9aca3ed88a70_iPhone_5.5-1.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Unfold",
-      "version": "8.155.1",
-      "versionDate": "2026-03-11",
-      "size": 167046296,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.moonlab.unfoldstories_AutoRc_8.155.1.ipa",
-      "developerName": "Squarespace, Inc.",
-      "bundleIdentifier": "com.moonlab.unfoldstories",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/3f/e6/f03fe6a6-3b9b-bbfa-a409-79c1d55535ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUnfold: Video & Photo Editor\n\nPlus features unlocked\n\nTweak made by Chocolate FLuffy\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/51/47/c0514749-ff9a-3b93-8cf2-260242139a6d/4dbb9940-67ea-429f-8352-364c31f13a66_option_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/ff/d3/93ffd355-6449-741d-5aa1-e78779fa25bd/2585f158-68b0-43c9-be57-df9f2c8e4043_Unfold_AS_SC_03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/8e/40/b68e40c4-975e-6a9b-9cee-ccfc85586e61/647a6b90-648f-4aa3-b39c-2a76a39d626b_Unfold_AS_SC_04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/31/64/fe316465-9428-cb9b-0d5f-fe7eefeaf880/3270ab35-4f36-4f89-96de-12f1e35a28cb_Unfold_AS_SC_05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/d5/cb/c0d5cb21-168d-e77b-bd91-c860469d7229/867a180d-9bc7-4b90-b569-a1de64435ddc_Unfold_AS_SC_06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/d8/99/f1d89984-ce13-f4d6-34f2-869b711b8b07/a87fb8c7-9bf7-4942-804d-5b5b92b8a901_Unfold_AS_SC_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/52/44/a152440a-59a3-0660-5f94-ebeb2fe9c2ee/7fbccf76-d88a-4ac8-90d5-962c6ff7d6f2_Unfold_AS_SC_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/71/ba/6d71babc-0655-a524-3249-88019aab27da/3ffc6224-8e40-4d82-ae75-315ebdc004c0_Unfold_AS_SC_09.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Soundmap",
-      "version": "2.9.9",
-      "versionDate": "2026-03-11",
-      "size": 57152218,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.mmap.mobile_SoundmapPatch_2.9.9.ipa",
-      "developerName": "Intonation Studios Inc.",
-      "bundleIdentifier": "app.mmap.mobile",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ac/e3/4dace33b-9c89-b605-002b-b50681791c13/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSoundmap: Find Your Songs\n\nPro features unlocked\n\nTweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/b4/7a/72b47a9f-30e3-382d-c20b-67fe0ebfe172/7ddf4fbe-95b0-4e01-b89e-0de1cf6ebf47_5.5_Inch_-_1.29__U00231.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/aa/95/05aa9553-0c6e-3d78-e187-a077f8374648/bbb1060d-b59e-4a0b-983a-8b1d2f64b485_5.5_Inch_-_1.29__U00232.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/9f/50/629f5036-5009-3be8-e8da-57b02bd65687/a526bb13-f2d2-4f39-a533-05e05714c0f5_5.5_Inch_-_1.29__U00233.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/86/68/18866801-c8ab-f20a-1564-77c896b79c01/e25d19c4-1fb3-44f7-ab6f-a5ec89f44b76_5.5_Inch_-_1.29__U00233-1.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "TravelBoast",
-      "version": "2.29",
-      "versionDate": "2026-03-11",
-      "size": 372290657,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.travelboast.travelboast_SatellaJailed_2.29.ipa",
-      "developerName": "ALEXSANDR KUZNETSOV",
-      "bundleIdentifier": "com.travelboast.travelboast",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b3/86/1cb38628-9fbb-2e78-e7e6-86f3c4432c93/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTravelBoast: My Journey Routes\n\nTap on buy then cancel\n\nYou might have to buy it every time you open the app!\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/63/e4/cc63e4af-1803-c1b0-53a4-092291d07015/tb_screen_01_us.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4c/19/364c19aa-8c1e-0fe2-d242-9a4100c256ff/tb_screen_02_us.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/7e/9c/0c7e9ced-7363-5451-cfc9-7b92a788dd8e/tb_screen_03_us.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d5/23/3cd5234c-d0d3-503e-65cc-27441da55be7/tb_screen_04_us.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/dc/70/99dc70cd-26f3-355a-9c7a-a25d05a578ec/tb_screen_05_us.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/da/a3/5ddaa321-2933-86ed-c300-3e6267fef7e5/69e2c693-fdee-4aa9-a686-3f38031f76a0_ipad_screen_01_en.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/22/93/f5229332-5da8-b175-9061-30d9466e631a/08581539-e771-47cf-9717-710772a91405_ipad_screen_02_en.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/fb/1e/4bfb1e41-428e-6296-33da-8ee149c83a21/9ff117c2-98b1-4879-8996-56e655dc7351_ipad_screen_03_en.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/69/bc/2369bcab-6646-0411-48d8-92aaec50f679/1d750f06-9b1e-46b3-9619-13f02769b3e4_store_Screen_IPAD_02.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -662,19 +1203,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/49/0a/46/490a46ab-d45c-9129-a7ac-2dfd823ee692/b12a3bcf-5252-4cb5-a923-dd464716d969_5.5_inch_7.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/47/5f/43/475f43cb-c451-77f2-0dcc-816cb3b76f56/4d781323-760a-4e07-9e55-c7cd2f255225_5.5_inch_5.png/1320x2868bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Paired",
-      "version": "2.73.0",
-      "versionDate": "2026-03-11",
-      "size": 43832101,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/io.betterhalf.app_PairedPatch_2.73.0.ipa",
-      "developerName": "Better Half Limited",
-      "bundleIdentifier": "io.betterhalf.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/6d/44/5d6d445f-5a91-cc1e-94fa-ba4f15d2406d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPaired: Couples & Relationship\n\nPremium features unlocked\n\nTweak made by Dell\n\nMinimum OS version 15.5\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -1092,19 +1620,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Threads",
-      "version": "420.0.0",
-      "versionDate": "2026-03-10",
-      "size": 83106384,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.burbn.barcelona_ThreadSaver_420.0.0.ipa",
-      "developerName": "Instagram, Inc.",
-      "bundleIdentifier": "com.burbn.barcelona",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/75/54/af7554a0-f3ac-d1b8-a0d7-6f9f791f64fc/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nThreads\n\nAd blocker and media downloader\n\nThanks to Chocolate Fluffy for this tweak\n\nMinimum OS version 16.3\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -1843,29 +2358,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Uplens",
-      "version": "3.4.10",
-      "versionDate": "2026-03-10",
-      "size": 179275006,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/app.uplens_Uplens_3.4.10.ipa",
-      "developerName": "MPGames",
-      "bundleIdentifier": "app.uplens",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/af/13f1affa-cf26-3e4c-cdbf-08789fe8ef43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nUplens: Photo & Video Editor\n\n• Bundle ID: app.uplens\n• Updated to: 3.4.10\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b761d1-4520-bb1f-6f9c-2a33cf99be0d/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/28/a5/bf28a59a-a008-cdac-ab71-c7524b09f019/fb3be5a6-4f05-40fd-b202-8f672503eab0_3-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ef/74/e7ef743b-6b1a-4655-934b-dcd188dd82c4/912accdc-d02d-42fc-9ca2-dd1c42202b39_4-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/af/9a/81af9a34-d92d-293f-c4c1-10e5a4d080fc/d1322cb8-ae03-427f-a3c0-a35d50619bca_5-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/08/d4/cd08d444-b47d-6ae2-10a4-94721adf0f9a/18a65433-b405-4d79-93f6-63a86d81c02c_6-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/f4/ff/32f4ffac-f03c-1378-c44e-5ab439c74b14/5de6ad60-b69d-46da-96c0-19c0d39a7386_7-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fe/b3/36feb3fa-21ef-370f-8943-525e7d1efc57/1018be1f-f9b9-4153-a6a9-5193a2f14411_8-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/97/7f/38977fee-266c-66c3-5839-157f94a87ae2/1082e6ed-cf5b-49d2-a774-68148aeb5519_9-5_U00275-en.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Yazio",
       "version": "12.74.1",
       "versionDate": "2026-03-10",
@@ -1941,27 +2433,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/c9/35/48c935a3-681e-d449-c61e-957b0630a8b2/cb525558-ad4f-4c9d-95c1-86549fba8090_Screen_1.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/2a/01/682a013f-a044-4a4f-c84c-5b9c0ba509df/1b6298d1-7b1f-4478-8f9f-d9254fde9235_Screen_3.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/c8/25/80c82501-7d3c-bdb3-ec01-ecbc3eff0d4b/e7f5ec32-0d15-43b1-9a14-1d6493f63bfe_Screen_2.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "InstagramRegram Instagram (Regram)",
-      "version": "419.0.0",
-      "versionDate": "2026-03-10",
-      "size": 314713943,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.burbn.instagram_RegramCrack_419.0.0.ipa",
-      "developerName": "Instagram, Inc.",
-      "bundleIdentifier": "com.burbn.instagram",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\n✨ Here's your patched IPA!",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -2835,48 +3306,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "TikTok",
-      "version": "43.9.0",
-      "versionDate": "2026-03-11",
-      "size": 412796326,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically_sideloadKeychainfixBlatants_43.9.0.ipa",
-      "developerName": "TikTok Ltd.",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nTikTok - Videos, Shop & LIVE\n\n• Bundle ID: com.zhiliaoapp.musically\n• Updated to: 43.9.0\n• Minimum iOS: 12.0\n• Patched\n• Modifier: ACTikTok v2.1\n• Tweaked by @blatants\n\n• Note:\nTweak by aJBbo Showcase\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "TikTok (BHTikTok)",
-      "version": "43.9.0",
-      "versionDate": "2026-03-11",
-      "size": 413871878,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically_FLEXing_43.9.0.ipa",
-      "developerName": "TikTok Ltd.",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nTikTok - Videos, Shop & LIVE\n\n• Bundle ID: com.zhiliaoapp.musically\n• Updated to: 43.9.0\n• Minimum iOS: 12.0\n• Patched\n• Modifier: BHTikTok++ v1.9.3\n• Tweaked by @blatants\n\n• Note:\nTweak by Raulsaeed Features\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "TikTok (VibeTok)",
       "version": "43.9.0",
       "versionDate": "2026-03-11",
@@ -2894,25 +3323,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Swiftgram",
-      "version": "12.5",
-      "versionDate": "2026-03-11",
-      "size": 79731270,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.swiftgram.ios_SwiftgramCrack_12.5.ipa",
-      "developerName": "Akentech Ltd",
-      "bundleIdentifier": "app.swiftgram.ios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/b3/50/ecb35019-e45f-c064-19a1-11a5df0e8ef2/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nSwiftgram v12.5 (267) | TGExtra v1.7.3\n\n🇷🇺 Бета версия Swiftgram с новым интерфейсом Liquid Glass и TGExtra для конфиденциальности\n— Приложение из TestFlight\n— Нет Рекламы\n— Режим Призрака, Нечиталка Историй, Сообщение\n— Скрытие 'Печатает...'\n— Разрешены снимки экрана везде\n— Чтобы открыть настройки удерживаете 'Помощь' в настройках Telegram\n— Чтобы починить 'Соединение…' выключите 'Разрешить сохранение защищённого контента'\n— Чтобы починить, то что Чаты не открываются, перейдите в приложение Настройки - Swiftgram - Сбросить Метадату\n— Для уведомлений: t.me/glesign_chat/32572\n© Создано: iOSDecrypted\n\n🇺🇸 Beta version of Swiftgram with new Liquid Glass interface and TGExtra for privacy\n— The app from TestFlight\n— No Ads\n— Ghost Mode, Anonymous Messages, Stories viewing\n— Hiding 'Typing...'\n— No Screenshot Restriction\n— To open Settings hold 'Ask a question' in Telegram's settings\n— To fix 'Connection…' disable 'Allow Saving Protected Content'\n— To fix Chats not opening go to Settings app - Swiftgram - Reset Metadata\n— To fix Notifications: t.me/glesign_chat/32578\n© Created by: iOSDecrypted",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/99/fc/be99fc56-675f-d3be-836b-25e22595270b/33a91d32-a749-467d-abc5-309c1d008023_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/a6/87d5a6de-7521-895d-8e24-9d57fcf0ed87/1ec71ec7-3132-4188-b61e-5e4be9e79d15_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ba/0b/deba0b19-dceb-bbbe-4c4a-d7e34483405f/f6e02763-35db-4f45-b447-ddfbacba9e88_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/96/282e9660-e71e-d00e-36e3-729b1cdc3fbd/2d0e5ff1-9351-48f6-9d2a-b26954f9125c_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/af/91/5eaf916a-8bcf-4fa4-56b4-d81ccbf09653/22205c94-1c69-4e32-b193-3b28cb0690cf_6.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -2935,28 +3345,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "GOWOD",
-      "version": "5.6.0",
-      "versionDate": "2026-03-10",
-      "size": 59922778,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/eu.gowod_gowod_5.6.0.ipa",
-      "developerName": "Mobility First Group",
-      "bundleIdentifier": "eu.gowod",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7a/dd/727add0a-9584-b34c-9f52-6d2582d4eae9/icon_liquid-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nGOWOD – Mobility & Stretching\n\n• Bundle ID: eu.gowod\n• Updated to: 5.6.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/5d/ed/945dedc6-2d10-5323-00ce-5c32820328b5/Screen_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/af/1c26af8e-45f2-0786-b3da-1595eb8dede7/Screen_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/53/1a/1b531a26-3614-08dc-ed7e-d6be509e6b58/Screen_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c7/b6/42c7b69c-5508-47fa-4271-15f395af8000/Screen_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/04/a3/c904a30d-384a-cc0b-8db4-e8a188c7c3f8/Screen_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/df/28/e7df2854-5da8-c92c-4b64-c4e6bb47368a/Screen_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/a2/e6/4ea2e6d3-9231-97de-82bc-46156d78a665/Screen_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/ae/9d/16ae9d72-3457-083f-d33f-585f866071b3/Screen_8.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -3024,113 +3412,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/5a/80/2f5a808a-d960-cabc-bd41-ef120ec3476f/InvoiceSimple_iOS_iPad13_EN_4.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/42/09/1f420906-1750-9ed5-fdd6-80679190d279/InvoiceSimple_iOS_iPad13_EN_5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/c6/83/d5c683d5-8802-8f15-6a47-0779c5dc0210/InvoiceSimple_iOS_iPad13_EN_6.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "‎WhatsApp WhatsApp (Watusi)",
-      "version": "25.34.10",
-      "versionDate": "2026-03-10",
-      "size": 118828540,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._25.34.10.ipa",
-      "developerName": "WhatsApp Inc.",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f4/0d/88f40df9-9a8c-235f-dc2c-48c3bd5b4345/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nWhatsApp v25.34.10 | Watusi v1.2.91\n\n🇷🇺 Платная модификация для WhatsApp\n— Приложение из TestFlight\n— Нет Рекламы\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted x Fouad Raheb\n\n🇺🇸 Paid modification for WhatsApp\n— The app from TestFlight\n— No Ads\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted x Fouad Raheb",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "‎WA Business WhatsApp (Watusi)",
-      "version": "25.33.10",
-      "versionDate": "2026-03-10",
-      "size": 123249945,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/net.whatsapp.WhatsAppSMB__ipa_by_iosdecrypted_.sideloadKeychainFix._25.33.10.ipa",
-      "developerName": "WhatsApp Inc.",
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d4/b2/a1d4b276-cb04-c596-fd73-41cb908b1fb8/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nWhatsApp Business v25.33.10 | Watusi v1.2.91\n\n🇷🇺 Платная модификация для WhatsApp Business\n— Приложение из TestFlight\n— Нет Рекламы\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted x Fouad Raheb\n\n🇺🇸 Paid modification for WhatsApp Business\n— The app from TestFlight\n— No Ads\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted x Fouad Raheb",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/72/f5/7672f52e-e13c-6c7b-2ea2-65311cb10d4d/06_iOS_Notes.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/12/f44612f2-5bba-2767-14f1-9246171b27f7/07_iOS_CtWA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/d0/3b/21d03b3f-0fd4-8a16-1e5f-2bdbbe9a624f/08_iOS_Chat.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Instagram (Theta)",
-      "version": "404.0.0",
-      "versionDate": "2026-03-10",
-      "size": 227564306,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._404.0.0.ipa",
-      "developerName": "Instagram, Inc.",
-      "bundleIdentifier": "com.burbn.instagram",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nInstagram v404.0.0 | Theta v4.0\n\n🇷🇺 Одна из лучших бесплатных модификаций для Instagram\n— в приложение есть полная поддержка iPad\n— Нет Рекламы\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Сохранение удаленных сообщений\n— Различные другие улучшения\n© Создано: iOSDecrypted x objc_msgSend\n\n🇺🇸 One of the best modifications for Instagram\n— the app has full iPad support\n— No Ads\n— Download posts and stories\n— Anonymous viewing of Stories, messages\n— Keep deleted messages\n— Various other modifications\n© Created by: iOSDecrypted x objc_msgSend",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Telegram",
-      "version": "12.4.1",
-      "versionDate": "2026-03-09",
-      "size": 76440060,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/ph.telegra.Telegraph_TelegramChatFixer_12.4.1.ipa",
-      "developerName": "Telegram FZ-LLC",
-      "bundleIdentifier": "ph.telegra.Telegraph",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/f8/9c/e8f89c9f-a513-9823-0766-52e61eef66d0/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nTelegram v12.4.1 (32360) | TGExtra v1.7.1\n\n🇷🇺 Бета версия Telegram с улучшенным интерфейсом Liquid Glass и TGExtra для конфиденциальности\n— Приложение из TestFlight\n— Нет Рекламы\n— Режим Призрака, Нечиталка Историй, Сообщение\n— Скрытие 'Печатает...'\n— Разрешены снимки экрана везде\n— Чтобы открыть настройки удерживаете 'Помощь' в настройках Telegram\n— Чтобы починить 'Соединение…' выключите 'Разрешить сохранение защищённого контента'\n© Создано: iOSDecrypted \n\n🇺🇸 Beta version of Telegram with improved Liquid Glass interface and TGExtra for privacy\n— The app from TestFlight\n— No Ads\n— Ghost Mode, Anonymous Messages, Stories viewing\n— Hiding 'Typing...'\n— No Screenshot Restriction\n— To open Settings hold 'Ask a question' in Telegram's settings\n— To fix 'Connection…' disable 'Allow Saving Protected Content'\n© Created by: iOSDecrypted",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/b1/b9/e6b1b943-d7ea-73cc-69e7-9d9e22a27a5b/0_APP_IPHONE_55_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/06/a9/6106a923-72e2-29f9-2a9e-2356912d9995/1_APP_IPHONE_55_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/4f/15/864f15d3-5b7a-71d5-0c46-98ed7d9e656b/2_APP_IPHONE_55_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/f3/1f/c6f31f4f-a957-3b02-27bb-2d764ccedcb4/3_APP_IPHONE_55_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/5a/77/915a7745-ffaa-a37c-3d26-d35bcb4d9ee3/4_APP_IPHONE_55_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/8f/d7/998fd71b-7856-ee21-4ffb-e61ef9b13c28/5_APP_IPHONE_55_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/dd/4e/acdd4e22-40ca-5ed9-49d1-39fa3da0d32a/6_APP_IPHONE_55_6.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Minecraft",
-      "version": "1.21.132",
-      "versionDate": "2026-03-09",
-      "size": 605375936,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.mojang.minecraftpe_1.21.132.ipa",
-      "developerName": "Mojang",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nMinecraft v1.21.132\n\n🇷🇺 Исследуйте бесконечные миры и стройте что угодно: от простейших домов до грандиозных замков и дворцов.\n— Платное приложение из App Store\n© Создано: GLESign\n\n🇺🇸 Explore endless worlds and build anything from the simplest houses to grandiose castles and palaces.\n— Paid app from App Store\n© Created by: GLESign",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/47/6f/07476fcd-1ecf-18ca-e7f7-364d6c6cd5e1/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a6/ed/74a6ed67-e5e9-a1ae-3233-225b651d6bf0/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4f/92/be4f92ef-8b4b-94e3-cd78-da32db4193b0/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/03/ee/6403eee1-4fbf-6b89-d2ec-6fc410182689/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6b/4e/1f6b4ef1-3ebb-526a-b6fb-a0d1301e30df/b66be1fb-63e6-48ee-b33e-201f6e5229b1_TrailsAndTales_Apple_2208x1242_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ed/c4/a2edc497-b844-0e65-a682-f427f4e7505c/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/db/86/77db860c-9b7e-f5ee-c849-f98640e6f9c9/e8534913-e159-4489-a2b2-ff14785e2ca9_LushCaves_2208x1242_GB.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/eb/58/4aeb585d-ec15-a57b-7475-9de908d27446/dbcfdd4e-840f-4b82-824a-4db2201f31d6_Goat_2208x1242_GB.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/85/2c/d7852cb7-013e-16ed-e77d-734eec50cc70/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/24/0e/d3240e89-cfae-f07e-b506-eb60987a55a7/pr_source.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -3614,48 +3895,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Instagram InstaLRD",
-      "version": "405.1.0",
-      "versionDate": "2026-03-10",
-      "size": 212849655,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._405.1.0.ipa",
-      "developerName": "Instagram, Inc.",
-      "bundleIdentifier": "com.burbn.instagram",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nInstagram v405.1.0 | InstaLRD v2.18\n\n🇷🇺 Модифицированный клиент Instagram\n— работает лишь с сертификатом GLESign\n— требует Feather или GBox для установки. Невозможно использовать с Esign\n— в приложение есть полная поддержка iPad\n— Нет Рекламы\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Сохранение удаленных сообщений\n© Создано: iOSDecrypted x iStore\n\n🇺🇸 Modified Instagram client\n— works only with GLESign certificate\n— requires Feather or GBox to install. Impossible to use it with Esign\n— the app has full iPad support\n— No Ads\n— Download posts and stories\n— Anonymous viewing of Stories, messages\n— Keep deleted messages\n© Created by: iOSDecrypted x iStore",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Beegram",
-      "version": "419.0.0",
-      "versionDate": "2026-03-10",
-      "size": 215290484,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.burbn.instagram_Beegram_419.0.0.ipa",
-      "developerName": "Instagram, Inc.",
-      "bundleIdentifier": "com.burbn.instagram",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "‎WA Business",
       "version": "25.33.10",
       "versionDate": "2026-03-10",
@@ -3675,19 +3914,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/12/f44612f2-5bba-2767-14f1-9246171b27f7/07_iOS_CtWA.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/d0/3b/21d03b3f-0fd4-8a16-1e5f-2bdbbe9a624f/08_iOS_Chat.png/1320x2868bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Minecraft Preview",
-      "version": "1.21.130",
-      "versionDate": "2026-03-10",
-      "size": 616085021,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.mojang.minecraftpreview_1.21.130.ipa",
-      "developerName": "Unknown Developer",
-      "bundleIdentifier": "com.mojang.minecraftpreview",
-      "iconURL": "",
-      "localizedDescription": "from @glesign |\n----------------\nMinecraft Preview v1.21.130.27\n\n🇷🇺 Бета версия Minecraft. Исследуйте бесконечные миры и стройте что угодно: от простейших домов до грандиозных замков и дворцов.\n— Приложение из TestFlight\n© Создано: iOSDecrypted\n\n🇺🇸 Beta version of Minecraft. Explore endless worlds and build anything from the simplest houses to grandiose castles and palaces.\n— App from TestFlight\n© Created by: iOSDecrypted",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -3757,65 +3983,6 @@
       "iconURL": "",
       "localizedDescription": "from @glesign |\n----------------\nRust Mobile v1.32.1 Beta\n\n🇷🇺 Легендарный шутер от Facepunch теперь на iOS и находится в  закрытом тестирование\n— Приложение из TestFlight\n— Требуется iOS 15.0+\n— Для игры после начала тестирования вам нужен будет аккаунт Level Infinite с доступом к ЗБТ\n© Создано: GLESign\n\n🇺🇸 The legendary shooter from Facepunch is now on iOS and is in closed testing\n— The app from TestFlight\n— Requires iOS 15.0+\n— To play after the start of testing, you will need a Level Infinite account with access to the CBT\n© Created: GLESign",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Narwhal",
-      "version": "2026.2",
-      "versionDate": "2026-03-10",
-      "size": 16802484,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.rickharrison.narwhal_RevenueCatFix26_2026.2.ipa",
-      "developerName": "robot swingset, llc.",
-      "bundleIdentifier": "com.rickharrison.narwhal",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/33/98/a03398d6-31c6-2f95-d1af-71ba19411161/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNarwhal for Reddit\n\nPro features unlocked\n\nRestart app if you get \"subscription not found\" error\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/6f/a5/356fa5c7-f99e-0432-ae33-08cc2f3f8632/screen-1-a.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/20/8a/6c208aa0-e350-9bd8-9730-c67be88ea994/screen-2-a.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/51/e1/ce51e1a5-b73d-476e-506a-e62548bf34dd/screen-3-a.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/dd/3c/93dd3c41-47e7-326e-ab51-3370a07b7816/screen-4-a.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/ba/b4/5abab456-571f-b34a-3369-f14ebc392fb6/screen-5-a.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/83/ec/6583ec8d-c757-02cf-c1fc-3777aac7d38f/screen-6-a.png/1320x2868bb.webp"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Speedometer",
-      "version": "8.0.6",
-      "versionDate": "2026-03-10",
-      "size": 33804166,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.jps.gpspeedhud_StopReviews_8.0.6.ipa",
-      "developerName": "BITHAUS.TECH, UNIPESSOAL LDA",
-      "bundleIdentifier": "com.jps.gpspeedhud",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/69/0f/07690fca-6e49-cf1e-e7f9-cfab549c2f5a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSpeedometer Speed Tracker GPS\n\nPro features unlocked\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/64/75/ed6475a5-a556-c0b3-2880-a08e013f3e75/1067dd29-1f70-4f00-844a-b651b19e242f_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/d1/7f/f3d17f7d-2517-d546-c5fe-c831b3351007/c2516102-e049-4c6a-9c75-d4fa3513a698_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/e1/60/42e160e8-c758-9a3f-47cc-a382ccd431fd/ae539092-d125-4c96-bd96-c5c1cb624438_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/44/06/404406e7-f846-16c7-0c92-7beef1397616/3983dde1-bb88-4cd6-945a-0d376db99e7d_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/f0/70/e8f070b7-3a6b-b847-6b86-4b1363816eaa/c8f2b738-f5cf-4858-9adc-75cd561bc336_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/22/35/5b22359b-2cca-5e03-0783-8aa4f4ed5f46/b7572613-c04b-42fc-8fbc-ce3894857f88_6.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Precious",
-      "version": "3.50.4",
-      "versionDate": "2026-03-10",
-      "size": 318561097,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.laubrothersllc.BabyArt_RevenueCatFix26_3.50.4.ipa",
-      "developerName": "Curious Creators Co.",
-      "bundleIdentifier": "com.laubrothersllc.BabyArt",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/86/52/3286522d-d91d-7e66-fe5f-a8bff0ef102c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPrecious - Baby Photo Art\n\nUnlimited features unlocked\n\nSelect a subscription and then tap on buy\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/47/8e/5e478ed8-49f6-3b97-2366-27b1ab4061cf/25.03.18_1_Adorable_iPad.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/cf/17/6ecf1778-f4fa-c2fe-431f-5997d2c53de7/25.03.18_2_Superman_iPad.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/fa/7e/e4fa7e6a-2a96-fb18-56a2-5d19d6504a81/25.03.18_3_Foot_Milestone_iPad.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/41/d6/be41d689-9180-14ce-74c0-4428774bf449/25.03.18_4_Explore_Designs_iPad.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/f1/eb/b9f1eb19-632d-bf01-b79a-9e646b04085a/25.03.18_5_See_Baby_Grow_Up_Still_iPad.png/1320x2868bb.jpg"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
@@ -4259,49 +4426,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Calm",
-      "version": "6.90",
-      "versionDate": "2026-03-10",
-      "size": 119870305,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.calm.calmapp_Calm_6.90.ipa",
-      "developerName": "Calm.com",
-      "bundleIdentifier": "com.calm.calmapp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/9e/e5/179ee569-5dae-d85f-5d52-92b607761a48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCalm\n\n• Bundle ID: com.calm.calmapp\n• Updated to: 6.90\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore purchase pages all the features should work.\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d7/a0/c4d7a09f-9670-503d-548b-dac1f19012a2/92a594c0-f5b1-4739-bffd-88930991b524_iPhone_5.5_Inch_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b9/78/c2b978bb-3fe0-c2ab-6777-917fc5a89bc0/6f697906-3d56-49aa-9a43-9450f30baa69_iPhone_5.5_Inch_03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/4a/8d/294a8d22-65f9-054b-8d9d-158a4a3a5079/1e1fea27-bf2c-4468-90f2-41dfc4dc2487_iPhone_5.5_Inch_04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/9d/e1/2c9de18e-fd34-40b2-3c45-43d7922199ae/1ab114e3-3a44-4557-95c4-f3ec3b27ec42_iPhone_5.5_Inch_05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/a4/8f/4da48ffc-e467-bcd2-9901-74e60449a423/da0538ba-be45-42e7-b3fa-b6f44e0223ba_iPhone_5.5_Inch_06.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Wikiloc",
-      "version": "3.26.3",
-      "versionDate": "2026-03-10",
-      "size": 113961501,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.wikiloc.wikiloc_Wikiloc_3.26.3.ipa",
-      "developerName": "Wikiloc Outdoor SL",
-      "bundleIdentifier": "com.wikiloc.wikiloc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nWikiloc - Trails of the World\n\n• Bundle ID: com.wikiloc.wikiloc\n• Updated to: 3.26.3\n• Minimum iOS: 16.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>3D Maps feature won't work\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/17/68/e9176897-2173-495f-be87-c6a4a232401d/2._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fa/b7/34fab736-0bb8-c8e7-971a-005e267a9055/3._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1c/e4/c61ce48e-6e58-3554-1536-f09883f5a6a8/4._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/6e/09426ed8-6ab0-9b9e-790c-cbb48c1a7128/6._5.5_U0027_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2c/c6/882cc652-3db9-4d6d-ff6d-e9d42733b44e/7._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Widgetsmith",
       "version": "8.2",
       "versionDate": "2026-03-10",
@@ -4636,29 +4760,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Car Scanner",
-      "version": "2.1.9",
-      "versionDate": "2026-03-10",
-      "size": 68112935,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/ovz.Car-Scanner_SatellaJailed_2.1.9.ipa",
-      "developerName": "Stanislav Svistunov",
-      "bundleIdentifier": "ovz.Car-Scanner",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/b2/5d/57b25dd0-24f4-2933-1ebe-45658f64c7dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nCar Scanner ELM OBD2\n\nTap on buy pro then cancel\n\nMinimum OS version 12.2\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/15/0a/76/150a7638-0a44-90f5-54ea-3c5a7dfb2c8b/mzl.ueseydxs.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a0/4d/b7/a04db726-431f-85e3-7f1f-0c6a94492feb/mzl.dmfuesnn.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/68/bd/56/68bd56c0-85ff-91f0-fc1f-d2464456573e/mzl.xvyohazf.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5e/6a/3e/5e6a3e6d-6cbd-ae8b-d9f5-ab1eb24981e8/mzl.hwipufme.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/76/28/89/76288937-40be-9542-80f1-b58ccc041ea8/mzl.fnuvfnjn.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7e/91/d8/7e91d8f0-4057-0a5c-5a32-2e1f2df425bb/mzl.wzzujcyd.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/25/0a/9f250a42-4b1b-79dd-553e-4ad04c0ad686/mzl.csnfwfjd.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/5a/b6/485ab64a-637e-f88b-e8de-c35a6bbd51f9/mzl.egbnuasx.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9b/8d/9d/9b8d9d2a-3a3c-ae2d-9fee-cdc4b5eb9650/mzl.ygsdsqpl.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Lingokids",
       "version": "26.11.0",
       "versionDate": "2026-03-10",
@@ -4727,34 +4828,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/4d/46/6a4d4655-50f8-a7d7-ee87-38b9674a062b/EN_5.5_6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/aa/da/03aada67-223a-3894-1223-037ad8baff3f/c655b46b-5c0d-4d86-b4d6-b66dd9d4f2f0_en_55_07.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/57/4b/53574b24-e656-5cdb-20e0-26d51d1ea2f3/f15be6e6-dc52-49aa-90d4-e04082810f81_en_55_08.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Tiimo",
-      "version": "3.45.1",
-      "versionDate": "2026-03-10",
-      "size": 93054753,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-10/com.tiimo.app_RevenueCatFix26_3.45.1.ipa",
-      "developerName": "tiimo",
-      "bundleIdentifier": "com.tiimo.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/48/30/1c483073-a59f-3cf6-45ac-72ce677078c0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTiimo: AI Planner & To-do\n\nPro features unlocked\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/d3/b5/2bd3b5d3-692e-98c5-db0e-5f0fd54ab9d5/iPhone_6.5_01.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/2e/56/082e5675-a539-c904-1e1d-3af46266a0ca/iPhone_6.5_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/bc/0b/cebc0bc8-0418-4b15-7496-610b89ffd089/iPhone_6.5_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/fc/d6/3ffcd6e4-e57d-53c2-ec57-e7e508e2bd4b/iPhone_6.5_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/47/b1/fb47b1b8-3661-cfb2-72fc-8e3d9e4ac4e8/iPhone_6.5_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/1d/bf/861dbfa3-2510-c232-2e39-df6bbd06debd/iPhone_6.5_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/a5/7b/9aa57bc7-4b65-5c7d-b771-574d4532b6fc/iPhone_6.5_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/30/bc/2b30bc00-4546-e4bd-62a4-37959f169ed0/iPhone_6.5_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/c2/1b/dcc21b3d-f9f0-087d-3567-250a4924e044/iPad_01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/eb/26/c8eb2678-a593-b412-bc97-b9016aee2d55/iPad_02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/69/46/d76946c9-dd49-526f-4c91-e42a082461a4/iPad_01-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/1f/41/3d1f4127-3cbb-af2c-8b20-fd9c40a7904d/iPad_01-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/34/fd/7d34fd73-6b15-c8d1-fff9-e66a4a86c63b/iPad_01-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/0d/76/800d76f9-8c3e-8654-abd1-4a6942bc9748/iPad_01-4.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -4867,30 +4940,6 @@
       "localizedDescription": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.19.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6c/2a/5d6c2a9d-9108-db75-57de-8b013e15c6bb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Unscripted",
-      "version": "4.8.0",
-      "versionDate": "2026-03-09",
-      "size": 163467534,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.ibit.UNPOSED_RevenueCatFix26_4.8.0.ipa",
-      "developerName": "OMJ Holdings Pty Ltd",
-      "bundleIdentifier": "com.ibit.UNPOSED",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/8d/ff/648dffbf-4486-bf81-1199-2e75f97d7085/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUNSCRIPTED Photography Poses\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/e7/c8/95e7c833-b668-03ae-bc04-bf81ed90b9b7/5ac8ac8c-24f2-4c14-9e4f-0a56a428f737_15.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/b3/e1/87b3e1df-499e-29d8-75d5-fe3fd7699b47/f82882fd-5f30-4a57-aacf-6180adb0747a_25.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/10/a8/1610a8ce-6063-ce3e-ceb5-c877b3427d64/fe835d3d-bd28-4692-8764-59c6af0d2311_35.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/a1/03/dea10348-211f-7ae4-eafc-6d18c4517cc3/991439ca-ad55-4271-afaa-450b90fbe6be_45.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ea/5c/44ea5cea-ba55-c4d6-f444-bc090e4bcaec/2e3c87bf-fc56-4b09-90cd-2b0ca44379ce_55.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/2d/76/9c2d76ab-e1ec-93ee-2bc2-251497e63bc1/41d726ae-e723-4a76-9b02-ee62e368d99c_65.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/fb/1b/9cfb1b90-0aac-a6ba-762f-b09a2f48d1d3/ec1518e5-d99c-433b-970d-29b78efee518_75.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/32/f4/9332f451-6ae7-9bec-ef7d-83ac8dbee26d/fec297fd-2404-44df-bce4-3c0c262ed921_85.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/31/1a/5f311ab2-4524-5b13-9b6c-346c3267683c/344052e7-2339-42da-9b55-3bd7b032558e_95.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/89/53/4d895344-e0c7-0a45-16d0-f3d5811d3608/e0d9cc5a-63d2-49f6-9775-1d740bf2aabe_105.5.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -6374,28 +6423,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b7/86/d7b7867f-ae73-5dd0-0542-43ec9aac2ad8/10_iPhone_5.5_Dark_Mode.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/ee/18/60ee187b-1814-88b9-c347-7d327c0db60a/12_iPhone_5.5_Summary_Reports.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/4e/5d/144e5d6d-3d43-766a-ce25-9f58de9a566e/13_iPhone_5.5_Insights.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "SoundCloud",
-      "version": "8.51.0",
-      "versionDate": "2026-03-09",
-      "size": 110418972,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-09/com.soundcloud.TouchApp_SoundCloudPlus_8.51.0.ipa",
-      "developerName": "SoundCloud Global Limited & Co KG",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5b/4e/745b4e63-9c36-975e-2155-903f8efbb097/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.51.0.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/c8/04/33c804b6-7339-b144-5c82-7d1b7902f731/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/2d/5e/fc2d5e03-6ba3-650c-4ff9-10c93d6d56d6/ba7696c7-7243-486b-9c7d-068909e90818_iPad_Pro_2A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/e7/43/29e743f9-d42a-3952-6adc-eb1aceea5cdf/0b5c0fa0-9dcc-4bb8-8ebb-5398547b1971_iPad_Pro_3A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/39/ae/f639aeff-9798-bf82-b564-b98ab1e494ec/b4ea7933-cecc-4049-aa93-38ce38cd95ca_iPad_Pro_4A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/d5/20/bed5207d-f641-11f4-759e-55538516869f/a7dbf188-1858-4698-b27a-a37b7fb0970e_iPad_Pro_5A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/f7/5e/36f75e02-1540-9e8c-d982-06953ef3f6ba/ebc3b586-fbda-4a39-a00c-cb28b6d70f7d_iPad_Pro_6A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/67/ae/c467ae4a-2bcb-3898-9cf2-d85668e8328d/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/1e/2c/381e2cc8-8670-caff-0c88-b2297e64174a/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
