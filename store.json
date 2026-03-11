@@ -2545,7 +2545,7 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ulisesolave.Fitia_Fitia_22.0.1.ipa"
     },
     {
-      "name": "YTTubeLRD InstaLRD",
+      "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
@@ -2576,23 +2576,29 @@
       ],
       "versions": [
         {
-          "version": "21.08.3",
+          "version": "21.10.2",
           "date": "2026-03-11",
-          "size": 127492740,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_MadeByMohkg_21.08.3.ipa"
+          "size": 124570653,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_YouSpeed_21.10.2.ipa"
         },
         {
-          "version": "21.07.4",
+          "version": "20.44.2",
           "date": "2026-03-11",
-          "size": 305473169,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_MadeByMohkg_21.07.4.ipa"
+          "size": 123498390,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_YouTubeSy_20.44.2.ipa"
+        },
+        {
+          "version": "20.10.4",
+          "date": "2026-03-11",
+          "size": 113675169,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_YouPiP_20.10.4.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "21.08.3",
-      "versionDate": "2026-03-11T11:36:41.354Z",
-      "size": 127492740,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_MadeByMohkg_21.08.3.ipa"
+      "version": "21.10.2",
+      "versionDate": "2026-03-11T16:26:31.294Z",
+      "size": 124570653,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_YouSpeed_21.10.2.ipa"
     },
     {
       "name": "Strides",
@@ -2967,7 +2973,7 @@
       "bundleIdentifier": "pinterest",
       "developerName": "Pinterest",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/2d/09/032d0903-de67-fa76-08ed-4f93eeb4b9c3/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPinterest\n\nTweak: Download Videos, Sponsored Pins Removed\n\nVersion: 14.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: pinterest\nDeveloper: Pinterest",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPinterest\n\nTweak: Download Videos, Sponsored Pins Removed\n\nVersion: 14.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: pinterest\nDeveloper: Pinterest",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/95/30/a59530ed-4a7d-e1e7-a374-68098426c68c/fb7ce02a-e14d-4c33-be3b-fb422f1db141_240318_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Fashion_InclusiveAI_4.png/1320x2868bb.png"
@@ -2998,6 +3004,12 @@
       ],
       "versions": [
         {
+          "version": "14.9",
+          "date": "2026-03-11",
+          "size": 116257017,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/pinterest_Sideloadbypass2_14.9.ipa"
+        },
+        {
           "version": "14.8",
           "date": "2026-03-11",
           "size": 115607718,
@@ -3005,10 +3017,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "14.8",
-      "versionDate": "2026-03-11T13:44:59.482Z",
-      "size": 115607718,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/pinterest_Sideloadbypass2_14.8.ipa"
+      "version": "14.9",
+      "versionDate": "2026-03-11T16:27:14.811Z",
+      "size": 116257017,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/pinterest_Sideloadbypass2_14.9.ipa"
     },
     {
       "name": "Buddy",
@@ -5515,7 +5527,7 @@
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/1a/3d/e31a3dcb-0386-fba5-c848-7a9b5f1b2fb1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nKineMaster - Video Editor\n\n• Bundle ID: com.kinemaster.kios\n• Updated to: 8.1.2\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription and ignore \"Get Premium\" banner.\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nKineMaster - Video Editor\n\n• Bundle ID: com.kinemaster.kios\n• Updated to: 8.1.3\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription and ignore \"Get Premium\" banner.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/1320x2868bb.jpg"
@@ -5558,6 +5570,12 @@
       ],
       "versions": [
         {
+          "version": "8.1.3",
+          "date": "2026-03-11",
+          "size": 115503738,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.kinemaster.kios_sideloadKeychainfix_8.1.3.ipa"
+        },
+        {
           "version": "8.1.2",
           "date": "2026-03-11",
           "size": 115967258,
@@ -5571,10 +5589,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.1.2",
-      "versionDate": "2026-03-11T08:08:39.612Z",
-      "size": 115967258,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.kinemaster.kios_KineMaster_8.1.2.ipa"
+      "version": "8.1.3",
+      "versionDate": "2026-03-11T16:56:24.739Z",
+      "size": 115503738,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.kinemaster.kios_sideloadKeychainfix_8.1.3.ipa"
     },
     {
       "name": "NeoServer",
