@@ -3,6 +3,106 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Photoshop",
+      "version": "7.5.1",
+      "versionDate": "2026-03-11",
+      "size": 267004516,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.photoshop.ios_AdobePhotoshopPatch_7.5.1.ipa",
+      "developerName": "Adobe Inc.",
+      "bundleIdentifier": "com.adobe.photoshop.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/bf/d1/5fbfd11e-cf26-b8a3-9203-3a00087a8b37/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAdobe Photoshop: Image Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/a2/88/2ca28814-47af-83c7-2d96-eb84aa5ed6f0/Adobe_PSM_iOS_US_Screenshot-69-v1-2-withperiod_251103.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/60/2d/05602d06-8d78-7891-8c20-feb66447b90b/Adobe_PSM_iOS_US_Screenshot-69-v1-3_251103.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/73/e1/ef73e11a-1308-1fa8-69a6-708ba359444a/Adobe_PSM_iOS_US_Screenshot-69-v1-4_251103.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/dd/3c/27dd3c7c-1c87-07c9-c5b6-b20563447247/Adobe_PSM_iOS_US_Screenshot-69-v1-5_251103.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/c9/d2/ffc9d2ac-470b-aa5b-816f-95ac4a253515/Adobe_PSM_iOS_US_Screenshot-69-v1-6_251103.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/3d/2c/4a3d2cb0-a759-45e3-051c-ba59582519fd/Adobe_PSM_iOS_US_Screenshot-69-v1-7_251103.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/3d/cc/2d3dcc59-d17f-cafa-cbb3-9077c3e67ce5/Adobe_PSM_iOS_US_Screenshot-69-v1-8_251103.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/00/50/bd00506f-9e5e-c0c7-0954-b2e293e14ebb/Adobe_PSM_iOS_US_Screenshot-69-v1-9_251103.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/5c/81/7e5c8165-05b2-c2ec-4d7f-b8ef0ac8c8ee/01_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/f5/4c/54f54c19-7832-3692-97b9-f24c12a2137c/02_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/d6/4d/a1d64dfc-e68c-18a1-b2b1-dc855bd9a84e/03_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/12/fb/7c12fb94-1434-60d1-9829-8975deac3c9b/04_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/06/d9/5606d979-a240-ce7a-6856-f4937760e406/05_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/13/94/9a1394b1-9082-fc69-0268-0174fcd46ea7/06_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "X",
+      "version": "11.72",
+      "versionDate": "2026-03-11",
+      "size": 181985452,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_BHTwitter_11.72.ipa",
+      "developerName": "X Corp.",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/13/16/69131624-7232-3d78-8c2b-44494958efad/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBHX\nAwesome tweak for Twitter\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/08/bb/4908bb23-f894-6820-0813-7787e71e05f5/89eae6ec-850a-46e4-a590-bb462e354b1b_iPad_12.9_-_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/e2/1e/18e21ed5-e600-5886-4a64-440fd75966ad/c60cd26e-fd51-4459-8941-f5ac72fc19a0_iPad_12.9_-_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/25/15/fa2515f3-c9e0-7a00-b9c3-e91ac2a87a1f/abdab1ff-1d0a-4c36-96a5-b574c62f2d85_iPad_12.9_-_1.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "OldRoll",
+      "version": "8.4.4",
+      "versionDate": "2026-03-11",
+      "size": 178351890,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zijayrate.analogcam_SatellaJailed_8.4.4.ipa",
+      "developerName": "梓杰 张",
+      "bundleIdentifier": "com.zijayrate.analogcam",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/5a/4c/635a4c8a-5be5-82b6-a1eb-0bb147acf6c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nOldRoll - Vintage Film Camera\n\nTap on buy VIP then cancel\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "GOWOD",
+      "version": "5.6.0",
+      "versionDate": "2026-03-11",
+      "size": 57033721,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/eu.gowod_gowod_5.6.0.ipa",
+      "developerName": "Mobility First Group",
+      "bundleIdentifier": "eu.gowod",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7a/dd/727add0a-9584-b34c-9f52-6d2582d4eae9/icon_liquid-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nGOWOD\n\nPremium features unlocked\n\nOnly login with Google/Facebook/Apple is supported at the moment\n\nTweak made by Blatant\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/5d/ed/945dedc6-2d10-5323-00ce-5c32820328b5/Screen_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/af/1c26af8e-45f2-0786-b3da-1595eb8dede7/Screen_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/53/1a/1b531a26-3614-08dc-ed7e-d6be509e6b58/Screen_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c7/b6/42c7b69c-5508-47fa-4271-15f395af8000/Screen_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/04/a3/c904a30d-384a-cc0b-8db4-e8a188c7c3f8/Screen_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/df/28/e7df2854-5da8-c92c-4b64-c4e6bb47368a/Screen_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/a2/e6/4ea2e6d3-9231-97de-82bc-46156d78a665/Screen_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/ae/9d/16ae9d72-3457-083f-d33f-585f866071b3/Screen_8.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Mimo",
+      "version": "12.4.0",
+      "versionDate": "2026-03-11",
+      "size": 79419869,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.getmimo.mimo_Mimo_12.4.0.ipa",
+      "developerName": "Mimo GmbH",
+      "bundleIdentifier": "com.getmimo.mimo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8b/64/638b64fe-a691-4a54-517f-70cb5196dbcf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nLearn Coding/Programming: Mimo\n\nMax subscription \n\nTweak made by Blatant\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/75/f9/7c75f957-5a4b-8c56-5478-6dbbd29cb51e/AppStore-screenshot-X-en-01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/1e/ce/e81ecee7-fcc8-9221-26a3-5549443a9166/AppStore-screenshot-X-en-02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ff/fd/46fffd4d-5faa-b039-0dd0-7999f06c60bc/AppStore-screenshot-X-en-03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/87/c6/e187c6e7-9973-dd40-dec3-06316eb41bf7/AppStore-screenshot-X-en-04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/0a/ea/c90aead9-85df-063a-dddd-c4b4b320b431/AppStore-screenshot-X-en-05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/a6/88/c6a688e4-175a-a803-b386-4efba31c5d58/AppStore-screenshot-X-en-06.jpg/1320x2868bb.webp"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Offline Games",
       "version": "3.9.1",
       "versionDate": "2026-03-11",
@@ -2354,23 +2454,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Twitter",
-      "version": "11.63",
-      "versionDate": "2026-03-11",
-      "size": 167932012,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_TwitDate_11.63.ipa",
-      "developerName": "X Corp.",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/13/16/69131624-7232-3d78-8c2b-44494958efad/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nClassic BHTwitter+ 11.63\n\n- Twitter to 11.63\n- Info: NeoFreeBird witch is a fork of BHTwitter\n- Classic style NeoFreeBird\n- TwitDate\n- OLED Keyboard\n- Added TWIGalaxy\n- FixTwitterLogin\n- Patch already included\n\nCracked by @Jacks_Apps0510\nApp decrypted by @eeveedecrypterbot",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/08/bb/4908bb23-f894-6820-0813-7787e71e05f5/89eae6ec-850a-46e4-a590-bb462e354b1b_iPad_12.9_-_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/e2/1e/18e21ed5-e600-5886-4a64-440fd75966ad/c60cd26e-fd51-4459-8941-f5ac72fc19a0_iPad_12.9_-_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/25/15/fa2515f3-c9e0-7a00-b9c3-e91ac2a87a1f/abdab1ff-1d0a-4c36-96a5-b574c62f2d85_iPad_12.9_-_1.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "True Skate+",
       "version": "1.6.2",
       "versionDate": "2026-03-11",
@@ -3785,54 +3868,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Mimo",
-      "version": "12.4.0",
-      "versionDate": "2026-03-11",
-      "size": 83218249,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.getmimo.mimo_sideloadKeychainfix_12.4.0.ipa",
-      "developerName": "Mimo GmbH",
-      "bundleIdentifier": "com.getmimo.mimo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8b/64/638b64fe-a691-4a54-517f-70cb5196dbcf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMimo: Learn Coding/Programming\n\n• Bundle ID: com.getmimo.mimo\n• Updated to: 12.4.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Max Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/75/f9/7c75f957-5a4b-8c56-5478-6dbbd29cb51e/AppStore-screenshot-X-en-01.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/1e/ce/e81ecee7-fcc8-9221-26a3-5549443a9166/AppStore-screenshot-X-en-02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ff/fd/46fffd4d-5faa-b039-0dd0-7999f06c60bc/AppStore-screenshot-X-en-03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/87/c6/e187c6e7-9973-dd40-dec3-06316eb41bf7/AppStore-screenshot-X-en-04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/0a/ea/c90aead9-85df-063a-dddd-c4b4b320b431/AppStore-screenshot-X-en-05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/a6/88/c6a688e4-175a-a803-b386-4efba31c5d58/AppStore-screenshot-X-en-06.jpg/1320x2868bb.webp"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Photoshop",
-      "version": "7.5.1",
-      "versionDate": "2026-03-11",
-      "size": 279002403,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.photoshop.ios_AdobePhotoshop_7.5.1.ipa",
-      "developerName": "Adobe Inc.",
-      "bundleIdentifier": "com.adobe.photoshop.ios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/bf/d1/5fbfd11e-cf26-b8a3-9203-3a00087a8b37/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAdobe Photoshop: Photo Editor\n\n• Bundle ID: com.adobe.photoshop.ios\n• Updated to: 7.5\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/a2/88/2ca28814-47af-83c7-2d96-eb84aa5ed6f0/Adobe_PSM_iOS_US_Screenshot-69-v1-2-withperiod_251103.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/60/2d/05602d06-8d78-7891-8c20-feb66447b90b/Adobe_PSM_iOS_US_Screenshot-69-v1-3_251103.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/73/e1/ef73e11a-1308-1fa8-69a6-708ba359444a/Adobe_PSM_iOS_US_Screenshot-69-v1-4_251103.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/dd/3c/27dd3c7c-1c87-07c9-c5b6-b20563447247/Adobe_PSM_iOS_US_Screenshot-69-v1-5_251103.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/c9/d2/ffc9d2ac-470b-aa5b-816f-95ac4a253515/Adobe_PSM_iOS_US_Screenshot-69-v1-6_251103.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/3d/2c/4a3d2cb0-a759-45e3-051c-ba59582519fd/Adobe_PSM_iOS_US_Screenshot-69-v1-7_251103.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/3d/cc/2d3dcc59-d17f-cafa-cbb3-9077c3e67ce5/Adobe_PSM_iOS_US_Screenshot-69-v1-8_251103.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/00/50/bd00506f-9e5e-c0c7-0954-b2e293e14ebb/Adobe_PSM_iOS_US_Screenshot-69-v1-9_251103.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/5c/81/7e5c8165-05b2-c2ec-4d7f-b8ef0ac8c8ee/01_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/f5/4c/54f54c19-7832-3692-97b9-f24c12a2137c/02_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/d6/4d/a1d64dfc-e68c-18a1-b2b1-dc855bd9a84e/03_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/12/fb/7c12fb94-1434-60d1-9829-8975deac3c9b/04_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/06/d9/5606d979-a240-ce7a-6856-f4937760e406/05_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/13/94/9a1394b1-9082-fc69-0268-0174fcd46ea7/06_Ps_iOS_iPad_2732x2048_en-US.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "SnapEdit",
       "version": "6.4.3",
       "versionDate": "2026-03-11",
@@ -3996,28 +4031,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/4a/8d/294a8d22-65f9-054b-8d9d-158a4a3a5079/1e1fea27-bf2c-4468-90f2-41dfc4dc2487_iPhone_5.5_Inch_04.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/9d/e1/2c9de18e-fd34-40b2-3c45-43d7922199ae/1ab114e3-3a44-4557-95c4-f3ec3b27ec42_iPhone_5.5_Inch_05.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/a4/8f/4da48ffc-e467-bcd2-9901-74e60449a423/da0538ba-be45-42e7-b3fa-b6f44e0223ba_iPhone_5.5_Inch_06.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "GOWOD",
-      "version": "5.6.0",
-      "versionDate": "2026-03-11",
-      "size": 59922778,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/eu.gowod_gowod_5.6.0.ipa",
-      "developerName": "Mobility First Group",
-      "bundleIdentifier": "eu.gowod",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7a/dd/727add0a-9584-b34c-9f52-6d2582d4eae9/icon_liquid-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nGOWOD – Mobility & Stretching\n\n• Bundle ID: eu.gowod\n• Updated to: 5.6.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/5d/ed/945dedc6-2d10-5323-00ce-5c32820328b5/Screen_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/af/1c26af8e-45f2-0786-b3da-1595eb8dede7/Screen_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/53/1a/1b531a26-3614-08dc-ed7e-d6be509e6b58/Screen_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c7/b6/42c7b69c-5508-47fa-4271-15f395af8000/Screen_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/04/a3/c904a30d-384a-cc0b-8db4-e8a188c7c3f8/Screen_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/df/28/e7df2854-5da8-c92c-4b64-c4e6bb47368a/Screen_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/a2/e6/4ea2e6d3-9231-97de-82bc-46156d78a665/Screen_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/ae/9d/16ae9d72-3457-083f-d33f-585f866071b3/Screen_8.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -6166,19 +6179,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/2a/01/682a013f-a044-4a4f-c84c-5b9c0ba509df/1b6298d1-7b1f-4478-8f9f-d9254fde9235_Screen_3.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/c8/25/80c82501-7d3c-bdb3-ec01-ecbc3eff0d4b/e7f5ec32-0d15-43b1-9a14-1d6493f63bfe_Screen_2.png/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "OldRoll",
-      "version": "8.4.3",
-      "versionDate": "2026-03-11",
-      "size": 178374686,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zijayrate.analogcam_SatellaJailed_8.4.3.ipa",
-      "developerName": "梓杰 张",
-      "bundleIdentifier": "com.zijayrate.analogcam",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/5a/4c/635a4c8a-5be5-82b6-a1eb-0bb147acf6c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nOldRoll - Vintage Film Camera\n\nTap on buy VIP then cancel\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
