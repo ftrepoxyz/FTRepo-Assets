@@ -3773,7 +3773,7 @@
       "bundleIdentifier": "com.andydev.alpenglow",
       "developerName": "Andrew Yates",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/a3/eb/faa3ebb9-9243-483a-e6e4-969bcdb5a429/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAlpenglow: Sunset Prediction\n\nTweak: Pro Unlocked\n\nVersion: 11.1.13\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.andydev.alpenglow\nDeveloper: Andrew Yates",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAlpenglow: Sunset Prediction\n\nTweak: Pro Unlocked\n\nVersion: 11.1.14\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.andydev.alpenglow\nDeveloper: Andrew Yates",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/61/6f/0d616f34-f74b-aa5b-f316-2dabbd0393ec/iPad_1.png/1320x2868bb.jpg"
@@ -3852,6 +3852,12 @@
       ],
       "versions": [
         {
+          "version": "11.1.14",
+          "date": "2026-03-11",
+          "size": 64657210,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.andydev.alpenglow_Sideloadbypass2_11.1.14.ipa"
+        },
+        {
           "version": "11.1.13",
           "date": "2026-03-11",
           "size": 63502520,
@@ -3859,10 +3865,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "11.1.13",
-      "versionDate": "2026-03-11T13:25:38.165Z",
-      "size": 63502520,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.andydev.alpenglow_Sideloadbypass2_11.1.13.ipa"
+      "version": "11.1.14",
+      "versionDate": "2026-03-11T21:26:53.474Z",
+      "size": 64657210,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.andydev.alpenglow_Sideloadbypass2_11.1.14.ipa"
     },
     {
       "name": "Flightradar24",
@@ -10539,10 +10545,16 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/d2/a6/65d2a69f-95c3-a7cc-a53b-4ee8724aa860/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.50\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.52\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "4.1.52",
+          "date": "2026-03-11",
+          "size": 147099696,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.52.ipa"
+        },
         {
           "version": "4.1.50",
           "date": "2026-03-11",
@@ -10551,10 +10563,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.1.50",
-      "versionDate": "2026-03-11T13:29:31.910Z",
-      "size": 146963823,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.50.ipa"
+      "version": "4.1.52",
+      "versionDate": "2026-03-11T21:56:41.364Z",
+      "size": 147099696,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.52.ipa"
     },
     {
       "name": "Stndrd",
@@ -12049,7 +12061,7 @@
       "bundleIdentifier": "app.uplens",
       "developerName": "MPGames",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/af/13f1affa-cf26-3e4c-cdbf-08789fe8ef43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUplens: Photo & Video Editor\n\nPro features unlocked\n\nNote: Click Restore Purchases\n\nTweak made by Zzz Zzz\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nUplens: Photo & Video Editor\n\n• Bundle ID: app.uplens\n• Updated to: 3.4.11\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/1320x2868bb.jpg"
@@ -12092,6 +12104,12 @@
       ],
       "versions": [
         {
+          "version": "3.4.11",
+          "date": "2026-03-11",
+          "size": 178831894,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.uplens_Uplens_3.4.11.ipa"
+        },
+        {
           "version": "3.4.9",
           "date": "2026-03-11",
           "size": 176857252,
@@ -12099,10 +12117,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.4.9",
-      "versionDate": "2026-03-11T11:38:41.244Z",
-      "size": 176857252,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.uplens_uplens_3.4.9.ipa"
+      "version": "3.4.11",
+      "versionDate": "2026-03-11T21:26:40.165Z",
+      "size": 178831894,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.uplens_Uplens_3.4.11.ipa"
     },
     {
       "name": "Breeze",
