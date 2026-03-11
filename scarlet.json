@@ -5,6 +5,98 @@
   },
   "data": [
     {
+      "name": "Riverside",
+      "version": "4.10.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/RVS-Riverside.fm_Sideloadbypass2_4.10.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "RVS-Riverside.fm",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/95/f9/b495f95b-2b44-abcb-b5f0-d2d0a1110dea/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nRiverside Podcast Video Studio\n\nTweak: Premium Unlocked\n\nVersion: 4.10.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: RVS-Riverside.fm\nDeveloper: riverside.fm",
+      "developer": "riverside.fm",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "OnTheWay",
+      "version": "2.5.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ideastudio.Weather-on-the-Way_Sideloadbypass2_2.5.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "ideastudio.Weather-on-the-Way",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/e2/28/4fe22874-cf48-d46f-7515-0d936faa9168/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nWeather on the Way\n\nTweak: Pro Unlocked\n\nVersion: 2.5.1\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: ideastudio.Weather-on-the-Way\nDeveloper: Piotr Knapczyk",
+      "developer": "Piotr Knapczyk",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fb/48/2ffb4821-b956-c6e2-566d-89c7b377a40a/808e6ca1-4819-43af-ac14-791117fa7c4d_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/79/149579a5-c05e-895a-2c8d-4419cc541044/046845d0-1aa4-4068-9b2b-af3d2be2de61_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c5/31/28c53108-fb6a-7cc8-4fdb-846ebed74049/67716423-30ba-4f05-a936-085c95d1e180_2_small.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b5/95/53b595bf-9ba1-cca2-be5c-969203e3c515/dd710f28-d4e3-42b6-9192-08a98f48e42c_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/3f/48/1e3f48e4-1506-1239-d98a-eca1ef4bcb12/a9885f79-8525-498a-bc7b-cb356ad0588e_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/e8/aa1be85a-5484-ffda-698c-e47594d8afb2/1b5f2626-8222-424c-94cb-39a39b5bfe2b_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/6e/5a/a16e5a9d-535a-e3ab-387f-ac9e12472af6/88e5a55c-52d3-4597-964d-5765b5b07633_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c2/01/79c2019f-3016-d5a0-bb31-9928f91a4800/73a3af20-5e27-49ae-89b1-6b7cd618d751_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/40/d6/1840d633-626c-93ae-bb0f-0ae1b53c65f7/497699c5-6237-4015-ba65-088facaa5fb5_8_small.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Adobe Express",
+      "version": "29.8.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.post_FilePickerFix_29.8.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.adobe.post",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/fc/b7/d7fcb745-b31a-5779-b9c6-9d45274ad519/AppIconSpark-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nAdobe Express: Create Anything\n\n• Bundle ID: com.adobe.post\n• Updated to: 29.8.1\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Adobe Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/05/25/0d052588-609a-17c0-0b45-376810645082/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/5b/28/0a5b28b4-673e-a677-20fd-915943cb2f09/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/1c/68/d81c688b-7d82-0434-bddf-ca328f4eda23/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/e8/9c/23e89cae-dd17-06f5-de1d-fd00eba73216/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/e9/e5/a2e9e54c-c41d-c07d-d064-af7c65af8d87/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_05.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/e2/92/77e2922a-fd38-28d6-4182-2f0979d3042b/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_06.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/90/18/f590180f-5d03-bdf0-7954-6dccfd8be50f/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/70/e9/2170e964-59e5-491a-52e9-f185872fa3af/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_08.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/00/80/a80080db-0d98-a61d-1c0e-13a6a055c822/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_09.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/0e/64/2b0e64a7-2afe-5346-5a27-e914cd45c3f2/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_10.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/d6/8d/e8d68d93-820d-4dda-ba2b-effbee980268/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_01A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/22/ee/cd22ee92-d48c-c26b-dc95-b8e7d2f0981f/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/f0/ba/38f0ba97-c566-7396-baef-c297b1642acc/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/e0/9f/ffe09f2a-6c44-eb61-dc6d-406a0316b697/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_04.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/fc/b7/78fcb72d-c0eb-e8dd-fa56-71da2468f9b2/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_05.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/9f/27/2f9f2726-0485-a952-af99-9c8f25742dae/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_06.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/b4/b7/bfb4b7ee-7e28-1499-ddcd-a413be98cfdd/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/5b/83/e55b8323-f5d1-69a6-b251-4824fcbf1111/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_08.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/b7/3b/0fb73b2d-12f6-c632-d175-dc2f5030627e/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_09.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/f6/df/a1f6df72-01cf-0b1c-9c78-36c56c5fcfaa/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_10.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Opal",
       "version": "3.151.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.withopal.opal_Sideloadbypass2_3.151.1.ipa",
@@ -6167,45 +6259,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/bd/4c/2dbd4c54-f87e-b8b4-f573-fc9cca65e374/Screen_3.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/96/0d/d0960dd2-4d18-80a5-e83f-709bf60e90be/Screen_4.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/a3/a4/76a3a41a-45fb-7053-d582-6066794fe2bf/Screen_5.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Adobe Express",
-      "version": "29.8.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.post_AdobeExpress_29.8.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.adobe.post",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/fc/b7/d7fcb745-b31a-5779-b9c6-9d45274ad519/AppIconSpark-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nAdobe Express: Create Anything\n\n• Bundle ID: com.adobe.post\n• Updated to: 29.8.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Adobe Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/05/25/0d052588-609a-17c0-0b45-376810645082/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/5b/28/0a5b28b4-673e-a677-20fd-915943cb2f09/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/1c/68/d81c688b-7d82-0434-bddf-ca328f4eda23/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/e8/9c/23e89cae-dd17-06f5-de1d-fd00eba73216/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_04.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/e9/e5/a2e9e54c-c41d-c07d-d064-af7c65af8d87/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_05.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/e2/92/77e2922a-fd38-28d6-4182-2f0979d3042b/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_06.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/90/18/f590180f-5d03-bdf0-7954-6dccfd8be50f/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/70/e9/2170e964-59e5-491a-52e9-f185872fa3af/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_08.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/00/80/a80080db-0d98-a61d-1c0e-13a6a055c822/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_09.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/0e/64/2b0e64a7-2afe-5346-5a27-e914cd45c3f2/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_10.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/d6/8d/e8d68d93-820d-4dda-ba2b-effbee980268/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_01A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/22/ee/cd22ee92-d48c-c26b-dc95-b8e7d2f0981f/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/f0/ba/38f0ba97-c566-7396-baef-c297b1642acc/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/e0/9f/ffe09f2a-6c44-eb61-dc6d-406a0316b697/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_04.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/fc/b7/78fcb72d-c0eb-e8dd-fa56-71da2468f9b2/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_05.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/9f/27/2f9f2726-0485-a952-af99-9c8f25742dae/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_06.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/b4/b7/bfb4b7ee-7e28-1499-ddcd-a413be98cfdd/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/5b/83/e55b8323-f5d1-69a6-b251-4824fcbf1111/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_08.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/b7/3b/0fb73b2d-12f6-c632-d175-dc2f5030627e/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_09.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/f6/df/a1f6df72-01cf-0b1c-9c78-36c56c5fcfaa/Adobe_Adobe-Express_en-US_iOS_13_Screenshot-Mockup_251017_10.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
