@@ -3,6 +3,28 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "SplitActivities",
+      "bundleIdentifier": "com.splitactivities.app",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nSplitActivities v28052025.3\n\n🇷🇺 Приложение красного банка\n— Удалённое приложение из AppStore\n— Требует iOS 14.0\n© Создано: GLESign\n\n🇺🇸 The Red Bank Application\n— Removed app from AppStore\n— Requires iOS 14.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "28052025.3",
+          "date": "2026-03-11",
+          "size": 248721942,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.splitactivities.app_28052025.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "28052025.3",
+      "versionDate": "2026-03-11T12:04:05.503Z",
+      "size": 248721942,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.splitactivities.app_28052025.3.ipa"
+    },
+    {
       "name": "Video Lite",
       "bundleIdentifier": "com.videobrowser.ios",
       "developerName": "Video Lite, Inc.",
@@ -83,6 +105,66 @@
       "versionDate": "2026-03-11T10:32:09.654Z",
       "size": 144088419,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.dr1ven.eraser_Photoroom_2026.10.01.ipa"
+    },
+    {
+      "name": "Reddit Deluxe",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "REDDIT, INC.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/34/6d/93346d07-1aad-aa61-0cd2-0322721dd27a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "2026.07.0",
+          "date": "2026-03-11",
+          "size": 156516706,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.reddit.Reddit_MadeByMohkg_2026.07.0.ipa"
+        },
+        {
+          "version": "2026.06.0",
+          "date": "2026-03-11",
+          "size": 159777599,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.reddit.Reddit_RedditUndoScrollUp_2026.06.0.ipa"
+        },
+        {
+          "version": "2026.05.0",
+          "date": "2026-03-11",
+          "size": 159376428,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.reddit.Reddit_RedditUndoScrollUp_2026.05.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.07.0",
+      "versionDate": "2026-03-11T12:35:18.455Z",
+      "size": 156516706,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.reddit.Reddit_MadeByMohkg_2026.07.0.ipa"
     },
     {
       "name": "Slopes",
@@ -764,10 +846,10 @@
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_Regram_419.0.0.ipa"
         },
         {
-          "version": "418.0.0",
+          "version": "414.0.0",
           "date": "2026-03-11",
-          "size": 302627016,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_RegramCrack_418.0.0.ipa"
+          "size": 299590658,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_Regram_414.0.0.ipa"
         },
         {
           "version": "413.0.0",
@@ -817,7 +899,7 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.barcelona_blatantsPatch_419.0.0.ipa"
     },
     {
-      "name": "Beegram",
+      "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
@@ -856,12 +938,6 @@
       ],
       "versions": [
         {
-          "version": "419.0.0",
-          "date": "2026-03-11",
-          "size": 215290484,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_Beegram_419.0.0.ipa"
-        },
-        {
           "version": "418.2.0",
           "date": "2026-03-11",
           "size": 283043840,
@@ -872,13 +948,19 @@
           "date": "2026-03-11",
           "size": 206399685,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_InstagramSy_406.0.0.ipa"
+        },
+        {
+          "version": "405.1.0",
+          "date": "2026-03-11",
+          "size": 205588465,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_InstagramSy_405.1.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "419.0.0",
-      "versionDate": "2026-03-11T09:25:28.934Z",
-      "size": 215290484,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_Beegram_419.0.0.ipa"
+      "version": "418.2.0",
+      "versionDate": "2026-03-11T11:28:21.954Z",
+      "size": 283043840,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_FLEXing_418.2.0.ipa"
     },
     {
       "name": "Instagram (Rocket)",
@@ -933,11 +1015,11 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_LeTi_410.1.0.ipa"
     },
     {
-      "name": "Instagram (IGFormat)",
+      "name": "Instagram InstaLRD",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nInstagram v407.0.0 | IGFormat v1.89\n\n🇷🇺 Улучшенная и кастомизируемая модификация Instagram\n— в приложение есть полная поддержка iPad\n— Нет Рекламы\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Настройки находятся на вкладке Профиль, иконка с листком\n© Создано: iOSDecrypted x DeNsor\n\n🇺🇸 Enhanced and customizable to your needs Instagram modification\n— the app has full iPad support\n— No Ads\n— Download posts and stories\n— Anonymous viewing of Stories, messages\n— Settings are located in Profile tab, leaf icon\n© Created by: iOSDecrypted x DeNsor",
+      "localizedDescription": "from @glesign |\n----------------\nInstagram v403.0.0 | InstaLRD v2.18\n\n🇷🇺 Модифицированный клиент Instagram\n— работает лишь с сертификатом GLESign\n— требует Feather или GBox для установки. Невозможно использовать с Esign\n— в приложение есть полная поддержка iPad\n— Нет Рекламы\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Сохранение удаленных сообщений\n© Создано: iOSDecrypted x iStore\n\n🇺🇸 Modified Instagram client\n— works only with GLESign certificate\n— requires Feather or GBox to install. Impossible to use it with Esign\n— the app has full iPad support\n— No Ads\n— Download posts and stories\n— Anonymous viewing of Stories, messages\n— Keep deleted messages\n© Created by: iOSDecrypted x iStore",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg"
@@ -972,29 +1054,127 @@
       ],
       "versions": [
         {
-          "version": "407.0.0",
+          "version": "403.0.0",
           "date": "2026-03-11",
-          "size": 221538234,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._407.0.0.ipa"
+          "size": 211823859,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._403.0.0.ipa"
         },
         {
-          "version": "406.1.0",
+          "version": "402.0.0",
           "date": "2026-03-11",
-          "size": 219742683,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram_IGFormat_406.1.0.ipa"
-        },
-        {
-          "version": "406.0.0",
-          "date": "2026-03-11",
-          "size": 219677803,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._406.0.0.ipa"
+          "size": 211305437,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._402.0.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "407.0.0",
-      "versionDate": "2026-03-11T11:50:33.014Z",
-      "size": 221538234,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._407.0.0.ipa"
+      "version": "403.0.0",
+      "versionDate": "2026-03-11T12:09:36.660Z",
+      "size": 211823859,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._403.0.0.ipa"
+    },
+    {
+      "name": "Instagram (IGFormat)",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Instagram, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nInstagram v401.0.0 | IGFormat v1.87\n\n🇷🇺 Улучшенная и кастомизируемая модификация Instagram\n— в приложение есть полная поддержка iPad\n— Нет Рекламы\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Настройки находятся на вкладке Профиль, иконка с листком\n© Создано: iOSDecrypted x DeNsor\n\n🇺🇸 Enhanced and customizable to your needs Instagram modification\n— the app has full iPad support\n— No Ads\n— Download posts and stories\n— Anonymous viewing of Stories, messages\n— Settings are located in Profile tab, leaf icon\n© Created by: iOSDecrypted x DeNsor",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "401.0.0",
+          "date": "2026-03-11",
+          "size": 216975666,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._401.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "401.0.0",
+      "versionDate": "2026-03-11T12:14:48.221Z",
+      "size": 216975666,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._401.0.0.ipa"
+    },
+    {
+      "name": "Instagram (Theta)",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Instagram, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nInstagram v399.0.0 | Theta v4.0\n\n🇷🇺 Модифицированный клиент Instagram\n— в приложение есть полная поддержка iPad\n— Скачивание постов и Историй\n— Анонимный просмотр Историй, сообщений\n— Сохранение удаленных сообщений\n— Нет Рекламы\n— Возможность само-ограничения просмотра Reels\n© Создано: iOSDecrypted x objc_msgSend\n\n🇺🇸 Modified Instagram client\n— the app has full iPad support\n— Anonymous viewing of Stories, messages\n— Keep deleted messages\n— No ads\n— Ability to self-limit Reels\n© Created by: iOSDecrypted x objc_msgSend",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "399.0.0",
+          "date": "2026-03-11",
+          "size": 223748622,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._399.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "399.0.0",
+      "versionDate": "2026-03-11T12:16:22.414Z",
+      "size": 223748622,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._399.0.0.ipa"
     },
     {
       "name": "Headway",
@@ -1107,6 +1287,64 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.hammerandchisel.discord_BTLoader_319.0.ipa"
     },
     {
+      "name": "Bloons TD 6+",
+      "bundleIdentifier": "com.ninjakiwi.bloonstd6plus",
+      "developerName": "Ninja Kiwi",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/07/63/6f076328-5624-0721-fe23-9ee9134774bd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nBloons TD 6+\nPaid app: (Apple Arcade)\nVersion: 53.1\nBundle ID: com.ninjakiwi.bloonstd6plus\nAppStore link: https://apps.apple.com/app/id1584423325\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/d2/f0/acd2f0d0-e781-cea3-a4ce-6338edf3c194/685b7a93-6fb8-4ecb-979c-da9cd74b0556_1_5.5__0001_English.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/08/9e/49/089e49e9-2580-26c9-80b6-ac2063fdf339/0c541254-337a-4c04-a59b-73247bca92ff_English.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/ab/a6/34aba64a-a8c0-3709-b877-ab9b9b4e8ad4/98a8b52c-2865-4dd0-88fc-cc9c53e525ed_3_5.5__0000_English.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8e/9e/a9/8e9ea9bf-da35-ec10-3ec6-d4a35d040418/01f0becf-7c3c-48bf-9668-e829425bbe65_English.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/27/f4/2727f449-6949-16e3-26e6-b47cb2c02ff0/242857c6-993e-4b70-ab2a-92e7f2e0984c_5_5.5__0000_English.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/a6/12/c1a612ba-0d9f-d777-a6c9-c863c5a70a35/b551970a-13ac-4dd2-9404-86e259b689a1_6_5.5__0000_English.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/86/6b/ec866b8e-b9e9-c089-8150-43b49dbcc954/a164a1ad-a9d8-4181-9788-f1d68531cce2_iphone-5.5-Title.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/d2/f0/acd2f0d0-e781-cea3-a4ce-6338edf3c194/685b7a93-6fb8-4ecb-979c-da9cd74b0556_1_5.5__0001_English.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/08/9e/49/089e49e9-2580-26c9-80b6-ac2063fdf339/0c541254-337a-4c04-a59b-73247bca92ff_English.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/ab/a6/34aba64a-a8c0-3709-b877-ab9b9b4e8ad4/98a8b52c-2865-4dd0-88fc-cc9c53e525ed_3_5.5__0000_English.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8e/9e/a9/8e9ea9bf-da35-ec10-3ec6-d4a35d040418/01f0becf-7c3c-48bf-9668-e829425bbe65_English.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/27/f4/2727f449-6949-16e3-26e6-b47cb2c02ff0/242857c6-993e-4b70-ab2a-92e7f2e0984c_5_5.5__0000_English.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/a6/12/c1a612ba-0d9f-d777-a6c9-c863c5a70a35/b551970a-13ac-4dd2-9404-86e259b689a1_6_5.5__0000_English.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/86/6b/ec866b8e-b9e9-c089-8150-43b49dbcc954/a164a1ad-a9d8-4181-9788-f1d68531cce2_iphone-5.5-Title.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "53.1",
+          "date": "2026-03-11",
+          "size": 849545025,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ninjakiwi.bloonstd6plus_53.1.ipa"
+        },
+        {
+          "version": "53.0",
+          "date": "2026-03-11",
+          "size": 849444405,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ninjakiwi.bloonstd6plus_53.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "53.1",
+      "versionDate": "2026-03-11T12:37:22.840Z",
+      "size": 849545025,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ninjakiwi.bloonstd6plus_53.1.ipa"
+    },
+    {
       "name": "Nerva",
       "bundleIdentifier": "com.mindsethealth.ibs",
       "developerName": "Mindset Health Pty Ltd",
@@ -1163,58 +1401,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mindsethealth.ibs_RevenueCatFix26_49.1.ipa"
     },
     {
-      "name": "BHTikTokPlus TikTok (BHTikTok)",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "TikTok Ltd.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBHTikTokPlus\n\nAn awesome tweak for \n\nFeatures\n\nFix was made by choco\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "43.9.0",
-          "date": "2026-03-11",
-          "size": 396130174,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically_AutoCacheDelete_43.9.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "43.9.0",
-      "versionDate": "2026-03-11T11:34:58.733Z",
-      "size": 396130174,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically_AutoCacheDelete_43.9.0.ipa"
-    },
-    {
       "name": "TikTok (VibeTok)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
@@ -1265,6 +1451,168 @@
       "versionDate": "2026-03-11T11:34:22.255Z",
       "size": 395618097,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically_VibeTok_43.9.0.ipa"
+    },
+    {
+      "name": "TikTok (LRD)",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nTikTok v42.6.0 | TikTokLRD v3.11\n\n🇷🇺 Модифицированный клиент TikTok\n— работает лишь с сертификатом GLESign\n— требует Feather или GBox для установки. Невозможно использовать с Esign\n— Приложение из TestFlight\n— Нет Рекламы\n— Скачивание постов и историй\n— Анонимное чтение сообщений\n— Убрать Прямые Трансляции из ленты\n— Для просмотра из России, рекомендуется использовать смену региона\n— Рекомендуемые регионы для смены: Казахстан, Беларусь\n© Создано: iOSDecrypted x iStore\n\n🇺🇸 Modified TikTok client\n— works only with GLESign certificate\n— requires Feather or GBox to install. Impossible to use it with Esign\n— The app from TestFlight\n— No Ads\n— Download posts and stories\n— Anonymous reading of messages\n— Remove Live streams from FYP\n— Region Changer\n© Created by: iOSDecrypted x iStore",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "42.6.0",
+          "date": "2026-03-11",
+          "size": 352711676,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.6.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "42.6.0",
+      "versionDate": "2026-03-11T11:59:21.234Z",
+      "size": 352711676,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.6.0.ipa"
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nTikTok v42.3.0 | RXTikTok v1.4.5\n\n🇷🇺 Платная модификация TikTok\n— Требуется лицензия\n— Приложение из TestFlight\n— Нет Рекламы\n— Скачивание постов и историй\n— Анонимное чтение сообщений\n— Убрать Прямые Трансляции из ленты\n— Для просмотра из России, рекомендуется использовать смену региона\n— Рекомендуемые регионы для смены: Казахстан, Беларусь\n© Создано: iOSDecrypted x RXTikTok\n\n🇺🇸 Paid TikTok modification\n— Requires license\n— The app from TestFlight\n— No Ads\n— Download posts and stories\n— Anonymous reading of messages\n— Remove Live streams from FYP\n— Region Changer\n© Created by: iOSDecrypted x RXTikTok",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "42.3.0",
+          "date": "2026-03-11",
+          "size": 350188150,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.3.0.ipa"
+        },
+        {
+          "version": "42.0.0",
+          "date": "2026-03-11",
+          "size": 329473735,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically_libsubstrate_42.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "42.3.0",
+      "versionDate": "2026-03-11T12:10:40.712Z",
+      "size": 350188150,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.3.0.ipa"
+    },
+    {
+      "name": "TikTok (BHTikTok)",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nTikTok v42.0.0 | BHTikTok++ v1.9.3\n\n🇷🇺 Модифицированный клиент TikTok\n— Приложение из TestFlight\n— На iOS 26 используйте Feather с опцией «Replace Substrate with Ellekit»\n— Нет Рекламы\n— Скачивание постов и историй\n— Анонимное чтение сообщений\n— Убрать Прямые Трансляции из ленты\n— Для просмотра из России, рекомендуется использовать смену региона\n— Рекомендуемые регионы для смены: Казахстан, Беларусь\n© Создано: iOSDecrypted x RXTikTok\n\n🇺🇸 Modified TikTok client\n— The app from TestFlight\n— On iOS 26 use Feather with “Replace Substrate with Ellekit” option\n— No ads\n— Download posts and stories\n— Anonymous reading of messages\n— Remove Live streams from FYP\n— Region Changer\n© Created by: iOSDecrypted x RXTikTok",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "42.0.0",
+          "date": "2026-03-11",
+          "size": 326788417,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "42.0.0",
+      "versionDate": "2026-03-11T12:18:17.831Z",
+      "size": 326788417,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.0.0.ipa"
     },
     {
       "name": "TuneIn Radio",
@@ -1832,6 +2180,12 @@
           "date": "2026-03-11",
           "size": 160800997,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.PSMobile_PSExpress_26.9.0.ipa"
+        },
+        {
+          "version": "26.3.0",
+          "date": "2026-03-11",
+          "size": 154266224,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.PSMobile_SubstrateInjection_26.3.0.ipa"
         }
       ],
       "appPermissions": {},
@@ -1955,56 +2309,6 @@
       "versionDate": "2026-03-11T08:27:16.980Z",
       "size": 75344555,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.premiere.ios_FilePickerFix_26.7.0.ipa"
-    },
-    {
-      "name": "‎WhatsApp WhatsApp (Watusi)",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "WhatsApp Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f4/0d/88f40df9-9a8c-235f-dc2c-48c3bd5b4345/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "26.4.10",
-          "date": "2026-03-11",
-          "size": 135141521,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._26.4.10.ipa"
-        },
-        {
-          "version": "25.34.10",
-          "date": "2026-03-11",
-          "size": 118828540,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._25.34.10.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.4.10",
-      "versionDate": "2026-03-11T09:13:21.425Z",
-      "size": 135141521,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._26.4.10.ipa"
     },
     {
       "name": "AllTrails",
@@ -2204,6 +2508,12 @@
           "date": "2026-03-11",
           "size": 123249945,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsAppSMB__ipa_by_iosdecrypted_.sideloadKeychainFix._25.33.10.ipa"
+        },
+        {
+          "version": "25.28.10",
+          "date": "2026-03-11",
+          "size": 116936809,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsAppSMB__ipa_by_iosdecrypted_.sideloadKeychainFix._25.28.10.ipa"
         }
       ],
       "appPermissions": {},
@@ -2267,6 +2577,62 @@
       "versionDate": "2026-03-11T11:55:07.763Z",
       "size": 124966544,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsAppSMB_libsubstrate_25.33.10.ipa"
+    },
+    {
+      "name": "‎WhatsApp WhatsApp (Watusi)",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "WhatsApp Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f4/0d/88f40df9-9a8c-235f-dc2c-48c3bd5b4345/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nWhatsApp v25.28.10 | Watusi v1.2.85\n\n🇷🇺 Платная модификация для WhatsApp\n— Приложение из TestFlight\n— Нет Рекламы\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted x Fouad Raheb\n\n🇺🇸 Paid modification for WhatsApp\n— The app from TestFlight\n— No ads\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted x Fouad Raheb",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "25.28.10",
+          "date": "2026-03-11",
+          "size": 111132054,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._25.28.10.ipa"
+        },
+        {
+          "version": "25.21.80",
+          "date": "2026-03-11",
+          "size": 113753038,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._25.21.80.ipa"
+        },
+        {
+          "version": "25.18.86",
+          "date": "2026-03-11",
+          "size": 123911941,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._25.18.86.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "25.28.10",
+      "versionDate": "2026-03-11T12:15:36.296Z",
+      "size": 111132054,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp__ipa_by_iosdecrypted_.sideloadKeychainFix._25.28.10.ipa"
     },
     {
       "name": "Lifesum",
@@ -2400,6 +2766,12 @@
           "date": "2026-03-11",
           "size": 127492740,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_MadeByMohkg_21.08.3.ipa"
+        },
+        {
+          "version": "21.07.4",
+          "date": "2026-03-11",
+          "size": 305473169,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_MadeByMohkg_21.07.4.ipa"
         }
       ],
       "appPermissions": {},
@@ -3079,70 +3451,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/overlook.fing_Fing_12.11.8.ipa"
     },
     {
-      "name": "Telegram",
-      "bundleIdentifier": "ph.telegra.Telegraph",
-      "developerName": "Telegram FZ-LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/f8/9c/e8f89c9f-a513-9823-0766-52e61eef66d0/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nTelegram v12.4.1 (32360) | TGExtra v1.7.1\n\n🇷🇺 Бета версия Telegram с улучшенным интерфейсом Liquid Glass и TGExtra для конфиденциальности\n— Приложение из TestFlight\n— Нет Рекламы\n— Режим Призрака, Нечиталка Историй, Сообщение\n— Скрытие 'Печатает...'\n— Разрешены снимки экрана везде\n— Чтобы открыть настройки удерживаете 'Помощь' в настройках Telegram\n— Чтобы починить 'Соединение…' выключите 'Разрешить сохранение защищённого контента'\n© Создано: iOSDecrypted \n\n🇺🇸 Beta version of Telegram with improved Liquid Glass interface and TGExtra for privacy\n— The app from TestFlight\n— No Ads\n— Ghost Mode, Anonymous Messages, Stories viewing\n— Hiding 'Typing...'\n— No Screenshot Restriction\n— To open Settings hold 'Ask a question' in Telegram's settings\n— To fix 'Connection…' disable 'Allow Saving Protected Content'\n© Created by: iOSDecrypted",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/b1/b9/e6b1b943-d7ea-73cc-69e7-9d9e22a27a5b/0_APP_IPHONE_55_0.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/06/a9/6106a923-72e2-29f9-2a9e-2356912d9995/1_APP_IPHONE_55_1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/4f/15/864f15d3-5b7a-71d5-0c46-98ed7d9e656b/2_APP_IPHONE_55_2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/f3/1f/c6f31f4f-a957-3b02-27bb-2d764ccedcb4/3_APP_IPHONE_55_3.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/5a/77/915a7745-ffaa-a37c-3d26-d35bcb4d9ee3/4_APP_IPHONE_55_4.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/8f/d7/998fd71b-7856-ee21-4ffb-e61ef9b13c28/5_APP_IPHONE_55_5.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/dd/4e/acdd4e22-40ca-5ed9-49d1-39fa3da0d32a/6_APP_IPHONE_55_6.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/b1/b9/e6b1b943-d7ea-73cc-69e7-9d9e22a27a5b/0_APP_IPHONE_55_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/06/a9/6106a923-72e2-29f9-2a9e-2356912d9995/1_APP_IPHONE_55_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/4f/15/864f15d3-5b7a-71d5-0c46-98ed7d9e656b/2_APP_IPHONE_55_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/f3/1f/c6f31f4f-a957-3b02-27bb-2d764ccedcb4/3_APP_IPHONE_55_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/5a/77/915a7745-ffaa-a37c-3d26-d35bcb4d9ee3/4_APP_IPHONE_55_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/8f/d7/998fd71b-7856-ee21-4ffb-e61ef9b13c28/5_APP_IPHONE_55_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/dd/4e/acdd4e22-40ca-5ed9-49d1-39fa3da0d32a/6_APP_IPHONE_55_6.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "12.4.1",
-          "date": "2026-03-11",
-          "size": 76440060,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_TelegramChatFixer_12.4.1.ipa"
-        },
-        {
-          "version": "12.3.3",
-          "date": "2026-03-11",
-          "size": 76070679,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_sideloadFixerLol_12.3.3.ipa"
-        },
-        {
-          "version": "12.2",
-          "date": "2026-03-11",
-          "size": 67887983,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_sideloadFixerLol_12.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "12.4.1",
-      "versionDate": "2026-03-11T11:43:55.609Z",
-      "size": 76440060,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_TelegramChatFixer_12.4.1.ipa"
-    },
-    {
       "name": "Mimo",
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
@@ -3248,7 +3556,7 @@
         {
           "version": "12.1.1",
           "date": "2026-03-11",
-          "size": 71750822,
+          "size": 71012754,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.swiftgram.ios_sideloadFixerLol_12.1.1.ipa"
         }
       ],
@@ -3257,6 +3565,70 @@
       "versionDate": "2026-03-11T11:46:16.754Z",
       "size": 74763296,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.swiftgram.ios_sideloadFixerLol_12.3.3.ipa"
+    },
+    {
+      "name": "Telegram",
+      "bundleIdentifier": "ph.telegra.Telegraph",
+      "developerName": "Telegram FZ-LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/f8/9c/e8f89c9f-a513-9823-0766-52e61eef66d0/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nTelegram v12.2 (31623) | TGExtra v1.5\n\n🇷🇺 Бета версия Telegram с улучшенным интерфейсом Liquid Glass и TGExtra для конфиденциальности\n— Приложение из TestFlight\n— Нет Рекламы\n— Режим Призрака, Нечиталка Историй, Сообщение\n— Скрытие “Печатает...”\n— Разрешены снимки экрана везде\n— Чтобы открыть настройки удерживаете “Помощь” в настройках Telegram\n— Чтобы починить “Соединение…” выключите “Разрешить сохранение защищённого контента\n© Создано: iOSDecrypted x Chocolate Fluffy\n\n🇺🇸 Beta version of Telegram with improved Liquid Glass interface and TGExtra for privacy\n— The app from TestFlight\n— No Ads\n— Ghost Mode, Anonymous Messages, Stories viewing\n— Hiding “Typing...”\n— No Screenshot Restriction\n— To open Settings hold “Ask a question” in Telegram’s settings\n— To fix “Connection…” disable “Allow Saving Protected Content”\n© Created by: iOSDecrypted x Chocolate Fluffy",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/b1/b9/e6b1b943-d7ea-73cc-69e7-9d9e22a27a5b/0_APP_IPHONE_55_0.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/06/a9/6106a923-72e2-29f9-2a9e-2356912d9995/1_APP_IPHONE_55_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/4f/15/864f15d3-5b7a-71d5-0c46-98ed7d9e656b/2_APP_IPHONE_55_2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/f3/1f/c6f31f4f-a957-3b02-27bb-2d764ccedcb4/3_APP_IPHONE_55_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/5a/77/915a7745-ffaa-a37c-3d26-d35bcb4d9ee3/4_APP_IPHONE_55_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/8f/d7/998fd71b-7856-ee21-4ffb-e61ef9b13c28/5_APP_IPHONE_55_5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/dd/4e/acdd4e22-40ca-5ed9-49d1-39fa3da0d32a/6_APP_IPHONE_55_6.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/b1/b9/e6b1b943-d7ea-73cc-69e7-9d9e22a27a5b/0_APP_IPHONE_55_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/06/a9/6106a923-72e2-29f9-2a9e-2356912d9995/1_APP_IPHONE_55_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/4f/15/864f15d3-5b7a-71d5-0c46-98ed7d9e656b/2_APP_IPHONE_55_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/f3/1f/c6f31f4f-a957-3b02-27bb-2d764ccedcb4/3_APP_IPHONE_55_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/5a/77/915a7745-ffaa-a37c-3d26-d35bcb4d9ee3/4_APP_IPHONE_55_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/8f/d7/998fd71b-7856-ee21-4ffb-e61ef9b13c28/5_APP_IPHONE_55_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/dd/4e/acdd4e22-40ca-5ed9-49d1-39fa3da0d32a/6_APP_IPHONE_55_6.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "12.2",
+          "date": "2026-03-11",
+          "size": 67469224,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_sideloadFixerLol_12.2.ipa"
+        },
+        {
+          "version": "12.1.1",
+          "date": "2026-03-11",
+          "size": 71909030,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_sideloadFixerLol_12.1.1.ipa"
+        },
+        {
+          "version": "12.1",
+          "date": "2026-03-11",
+          "size": 67149003,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_sideloadFixerLol_12.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "12.2",
+      "versionDate": "2026-03-11T12:12:43.164Z",
+      "size": 67469224,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ph.telegra.Telegraph_sideloadFixerLol_12.2.ipa"
     },
     {
       "name": "LookUp",
@@ -3333,11 +3705,33 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.lemon.mriosnhat_lidersunframe_12.0.ipa"
     },
     {
-      "name": "X",
+      "name": "xChat β",
+      "bundleIdentifier": "com.x.chat.beta.testflight",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nxChat Beta (requires iOS 26)\nMade by @nollidzsab\ndecrypted by @eeveedecrypterbot\nprepatched already thanks to asdfzxcvbn0 ipapatch bot found here",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "11.71",
+          "date": "2026-03-11",
+          "size": 39840510,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.x.chat.beta.testflight_11.71.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "11.71",
+      "versionDate": "2026-03-11T12:26:00.041Z",
+      "size": 39840510,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.x.chat.beta.testflight_11.71.ipa"
+    },
+    {
+      "name": "Twitter",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/13/16/69131624-7232-3d78-8c2b-44494958efad/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBHX\nAwesome tweak for Twitter\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nClassic BHTwitter+ 11.63\n\n- Twitter to 11.63\n- Info: NeoFreeBird witch is a fork of BHTwitter\n- Classic style NeoFreeBird\n- TwitDate\n- OLED Keyboard\n- Added TWIGalaxy\n- FixTwitterLogin\n- Patch already included\n\nCracked by @Jacks_Apps0510\nApp decrypted by @eeveedecrypterbot",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/08/bb/4908bb23-f894-6820-0813-7787e71e05f5/89eae6ec-850a-46e4-a590-bb462e354b1b_iPad_12.9_-_2.png/1320x2868bb.jpg"
@@ -3356,29 +3750,29 @@
       ],
       "versions": [
         {
-          "version": "11.71",
+          "version": "11.63",
           "date": "2026-03-11",
-          "size": 181908956,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_BHTwitter_11.71.ipa"
+          "size": 167932012,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_TwitDate_11.63.ipa"
         },
         {
-          "version": "11.69",
+          "version": "11.62",
           "date": "2026-03-11",
-          "size": 183264776,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_BHTwitter_11.69.ipa"
+          "size": 163590433,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_TwitDate_11.62.ipa"
         },
         {
-          "version": "11.66",
+          "version": "10.16",
           "date": "2026-03-11",
-          "size": 170657039,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_BHTwitter_11.66.ipa"
+          "size": 120664663,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_XLogin_10.16.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "11.71",
-      "versionDate": "2026-03-11T11:14:55.788Z",
-      "size": 181908956,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_BHTwitter_11.71.ipa"
+      "version": "11.63",
+      "versionDate": "2026-03-11T12:49:59.626Z",
+      "size": 167932012,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_TwitDate_11.63.ipa"
     },
     {
       "name": "BandLab",
@@ -3883,7 +4277,7 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/16/5b/00165b98-657a-056c-8ae2-3bfe162c51f7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nYTMusicUltimate\n\nThe best tweak for YouTube Music on iOS.\n\nRelease information\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nYT Music Ultimate+ 9.08\n- YouTube Music 9.08\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- YouMusicPIP\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png"
@@ -3910,29 +4304,29 @@
       ],
       "versions": [
         {
-          "version": "9.10.3",
-          "date": "2026-03-11",
-          "size": 98812362,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.10.3.ipa"
-        },
-        {
-          "version": "9.09.3",
-          "date": "2026-03-11",
-          "size": 98366585,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.09.3.ipa"
-        },
-        {
           "version": "9.08.2",
           "date": "2026-03-11",
-          "size": 99224389,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_YTMusicUltimate_9.08.2.ipa"
+          "size": 105848688,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_YTMABConfig_9.08.2.ipa"
+        },
+        {
+          "version": "9.06.4",
+          "date": "2026-03-11",
+          "size": 105358815,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_YTMABConfig_9.06.4.ipa"
+        },
+        {
+          "version": "9.05.2",
+          "date": "2026-03-11",
+          "size": 105130489,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_YTMABConfig_9.05.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.10.3",
-      "versionDate": "2026-03-11T08:42:07.671Z",
-      "size": 98812362,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.10.3.ipa"
+      "version": "9.08.2",
+      "versionDate": "2026-03-11T12:32:38.482Z",
+      "size": 105848688,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_YTMABConfig_9.08.2.ipa"
     },
     {
       "name": "أندلسي",
@@ -4071,6 +4465,28 @@
       "versionDate": "2026-03-11T10:29:00.007Z",
       "size": 99334975,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.spotify.client_EeveeSpotify_9.1.22.ipa"
+    },
+    {
+      "name": "Кофе в Кармане",
+      "bundleIdentifier": "cafeinpocket.appstore",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nКофе в Кармане v9.0.0\n\n🇷🇺 Приложение МТС банка\n— Удалённое приложение из AppStore\n— Требует iOS 14.0\n© Создано: GLESign\n\n🇺🇸 MTS Bank Application\n— Removed app from AppStore\n— Requires iOS 14.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "9.0.0",
+          "date": "2026-03-11",
+          "size": 344832998,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/cafeinpocket.appstore_9.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.0.0",
+      "versionDate": "2026-03-11T12:00:48.736Z",
+      "size": 344832998,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/cafeinpocket.appstore_9.0.0.ipa"
     },
     {
       "name": "Diamond Finder",
@@ -4559,21 +4975,27 @@
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Firecore, LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/15/1c/be151cfd-07e5-d26d-2488-2f95c3468beb/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nInfuse • Video Player\n\nPlus unlocked\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @thescholarslounge",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
         {
           "version": "8.3.9",
           "date": "2026-03-11",
-          "size": 73508626,
+          "size": 74592875,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.firecore.infuse_InfusePlus_8.3.9.ipa"
+        },
+        {
+          "version": "8.2.4",
+          "date": "2026-03-11",
+          "size": 68974859,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.firecore.infuse_InfusePlus_8.2.4.ipa"
         }
       ],
       "appPermissions": {},
       "version": "8.3.9",
-      "versionDate": "2026-03-11T11:33:44.819Z",
-      "size": 73508626,
+      "versionDate": "2026-03-11T12:33:08.171Z",
+      "size": 74592875,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.firecore.infuse_InfusePlus_8.3.9.ipa"
     },
     {
@@ -6011,6 +6433,62 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.autodesk.autocadws_AutoCADUnlocked_6.21.1.ipa"
     },
     {
+      "name": "Theory Test",
+      "bundleIdentifier": "com.tso.cartheorytestkit",
+      "developerName": "TSO (The Stationery Office)",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/61/4c/12614c22-3aa9-7c7d-4eab-6784c00ddaf8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nTheory Test\nPaid app: $5.99\nVersion: 6.12.2\nBundle ID: com.tso.cartheorytestkit\nAppStore link: https://apps.apple.com/app/id463295925\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/bc/a5/74bca560-84fd-e556-a806-3087a20a5868/d7ca487a-57a5-48e5-a1dd-6e96ea957df1_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_01.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/1e/68/c41e68f9-b40e-d5ec-e2d4-decbc814ad3e/cfc7b785-5746-4ddc-a686-311c6a944948_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_02.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/56/44/2b5644d3-2991-28ba-1080-61d0edc02bf0/2faa28df-3720-4f67-a289-5591a5b33421_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_03.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/f9/66/fef966f4-4a0d-3799-e9ea-022870d18324/a1156d76-b93b-459a-8258-20654803ecaa_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_04.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/2d/4a/682d4adc-8f2f-8dea-691b-12701982a377/d12467a3-6088-403e-bb15-093f0831cdf6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_05.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/44/51/fc4451c5-dd19-be16-0ae0-58795e7535d5/57797f11-c4b8-4f76-9fd7-77ad455d1b3a_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_06.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/92/5d/76925d89-6269-5214-2b57-eda5b398aa8e/1def1fe4-3ac7-4d66-81fd-b6afa2b272e6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_07.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/f3/68/2bf36815-bc7e-b51a-45fb-d36266e05ccd/8fd9c835-e7b5-48d6-894e-f942e2a2d29c_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_08.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/bc/a5/74bca560-84fd-e556-a806-3087a20a5868/d7ca487a-57a5-48e5-a1dd-6e96ea957df1_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/1e/68/c41e68f9-b40e-d5ec-e2d4-decbc814ad3e/cfc7b785-5746-4ddc-a686-311c6a944948_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/56/44/2b5644d3-2991-28ba-1080-61d0edc02bf0/2faa28df-3720-4f67-a289-5591a5b33421_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/f9/66/fef966f4-4a0d-3799-e9ea-022870d18324/a1156d76-b93b-459a-8258-20654803ecaa_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/2d/4a/682d4adc-8f2f-8dea-691b-12701982a377/d12467a3-6088-403e-bb15-093f0831cdf6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/44/51/fc4451c5-dd19-be16-0ae0-58795e7535d5/57797f11-c4b8-4f76-9fd7-77ad455d1b3a_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/92/5d/76925d89-6269-5214-2b57-eda5b398aa8e/1def1fe4-3ac7-4d66-81fd-b6afa2b272e6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/f3/68/2bf36815-bc7e-b51a-45fb-d36266e05ccd/8fd9c835-e7b5-48d6-894e-f942e2a2d29c_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_08.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "6.12.2",
+          "date": "2026-03-11",
+          "size": 903667048,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.tso.cartheorytestkit_6.12.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.12.2",
+      "versionDate": "2026-03-11T12:40:12.329Z",
+      "size": 903667048,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.tso.cartheorytestkit_6.12.2.ipa"
+    },
+    {
       "name": "Cleanup",
       "bundleIdentifier": "com.codeway.cleanerplus",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
@@ -6751,6 +7229,98 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/org.borrowedcache.ultimate531_KeyLiftsPro_5.19.0.ipa"
     },
     {
+      "name": "Waze",
+      "bundleIdentifier": "com.waze.iphone",
+      "developerName": "Waze Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/fd/7a/e8fd7a22-edfc-b154-1a02-cb3a460efa5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nWaze 5.16.2.0\n- Waze 5.16.2.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/54/e5/6554e54a-854b-8270-2d6d-ca73cb449412/98def561-b8fc-4650-8946-15239d81a878_Usecase_01.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/df/ed/81dfedae-d72e-a25d-24e7-2f43b64ab618/cf7d60dc-7f33-474b-ab60-bd3b9ff24dc0_Usecase_02.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/04/84/c70484a3-4301-f9cf-9716-a95e0ac6bc8a/ff02c3c6-aaf3-439e-98e2-328fd053fe98_Usecase_03.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/8d/20/ff8d2076-abdd-5705-23de-129db40b0532/63513f6f-9f7e-41bd-837a-60446b30594d_Usecase_08.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/0a/f4/460af40d-a2b9-a88b-724b-2acad30eee09/22d189f4-236d-4018-9631-cee16a583c47_Usecase_05.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/31/40/d4314022-7502-9148-a125-458a604e9549/bd6ad41f-146e-4f88-bd78-822da6a1a571_Usecase_06.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/35/2a/60352a8e-6902-ecf4-dcfc-9d7b91ede190/9b909502-6ee7-40ad-8cba-0b8314c0a8a0_Usecase_07.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d0/5e/d4d05e3c-bd6c-f65c-a0d5-57b8e4ce1b61/90ea4f0a-a0ed-4c93-86e8-e560706ce284_Usecase_04.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/f5/51/0cf551e5-0745-374a-cf94-3d32793a2618/5f8c9915-9d27-49ef-b765-65b9d2f502fd_Usecase_09.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/f8/41/acf84125-b2ea-898d-27dd-f10d76385172/6e201d84-e76d-4e8a-bd47-af0e6670e6bf_Usecase_10.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/54/e5/6554e54a-854b-8270-2d6d-ca73cb449412/98def561-b8fc-4650-8946-15239d81a878_Usecase_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/df/ed/81dfedae-d72e-a25d-24e7-2f43b64ab618/cf7d60dc-7f33-474b-ab60-bd3b9ff24dc0_Usecase_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/04/84/c70484a3-4301-f9cf-9716-a95e0ac6bc8a/ff02c3c6-aaf3-439e-98e2-328fd053fe98_Usecase_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/8d/20/ff8d2076-abdd-5705-23de-129db40b0532/63513f6f-9f7e-41bd-837a-60446b30594d_Usecase_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/0a/f4/460af40d-a2b9-a88b-724b-2acad30eee09/22d189f4-236d-4018-9631-cee16a583c47_Usecase_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/31/40/d4314022-7502-9148-a125-458a604e9549/bd6ad41f-146e-4f88-bd78-822da6a1a571_Usecase_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/35/2a/60352a8e-6902-ecf4-dcfc-9d7b91ede190/9b909502-6ee7-40ad-8cba-0b8314c0a8a0_Usecase_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d0/5e/d4d05e3c-bd6c-f65c-a0d5-57b8e4ce1b61/90ea4f0a-a0ed-4c93-86e8-e560706ce284_Usecase_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/f5/51/0cf551e5-0745-374a-cf94-3d32793a2618/5f8c9915-9d27-49ef-b765-65b9d2f502fd_Usecase_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/f8/41/acf84125-b2ea-898d-27dd-f10d76385172/6e201d84-e76d-4e8a-bd47-af0e6670e6bf_Usecase_10.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.16.2",
+          "date": "2026-03-11",
+          "size": 96930283,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.waze.iphone_SubstrateInjection_5.16.2.ipa"
+        },
+        {
+          "version": "5.15.5",
+          "date": "2026-03-11",
+          "size": 88152715,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.waze.iphone_SubstrateInjection_5.15.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.16.2",
+      "versionDate": "2026-03-11T12:31:39.310Z",
+      "size": 96930283,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.waze.iphone_SubstrateInjection_5.16.2.ipa"
+    },
+    {
+      "name": "Cash Hunt",
+      "bundleIdentifier": "ru.app.cash.hunter.prod",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nCash Hunter v5.9.0\n\n🇷🇺 Приложение ГазпромБанка\n— Удалённое приложение из AppStore\n— Требует iOS 16.0\n© Создано: GLESign\n\n🇺🇸 Gazprombank's App\n— Removed app from AppStore\n— Requires iOS 16.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "5.9.0",
+          "date": "2026-03-11",
+          "size": 283164901,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.app.cash.hunter.prod_5.9.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.9.0",
+      "versionDate": "2026-03-11T12:03:08.716Z",
+      "size": 283164901,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.app.cash.hunter.prod_5.9.0.ipa"
+    },
+    {
       "name": "djay",
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "Algoriddim GmbH",
@@ -7115,6 +7685,176 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.detail.duo_Detail_5.5.8.ipa"
     },
     {
+      "name": "Kids",
+      "bundleIdentifier": "com.superpulp.pulp",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nKids v5.5.5\n\n🇷🇺 Детское приложение зелёного банка\n— Удалённое приложение из AppStore\n— Требует iOS 15.0\n© Создано: GLESign\n\n🇺🇸 The Green Bank's Children's App\n— Removed app from AppStore\n— Requires iOS 15.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "5.5.5",
+          "date": "2026-03-11",
+          "size": 144713747,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.superpulp.pulp_5.5.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.5.5",
+      "versionDate": "2026-03-11T12:04:41.549Z",
+      "size": 144713747,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.superpulp.pulp_5.5.5.ipa"
+    },
+    {
+      "name": "LumaFusion",
+      "bundleIdentifier": "com.luma-touch.LumaFusion",
+      "developerName": "Luma Touch LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/18/8b/c9188b88-840b-548e-165c-a93cacdcc951/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nLumaFusion\nPaid app $29.99\nVersion: 5.4.3\nBundle ID: com.luma-touch.LumaFusion\nAppStore link: https://apps.apple.com/app/id1062022008\nRequires iOS 26.0 or later\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/cd/45/a7cd45e2-8bad-9e31-c90e-61f30f056d4d/iPhone-en-1-Awards.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/ac/1f/45ac1f7d-475d-80c5-7645-d13ad6770d16/iPhone-en-2-Timeline.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/25/5c/40255c17-b4a2-8be1-9fa0-0f1c8e550809/iPhone-en-3-Color.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/c8/bd/84c8bd9e-61af-c9bc-3bb0-80669d60269e/iPhone-en-4-Effects.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/af/50/82af505b-fcba-a231-eb97-adfab163ea65/iPhone-en-5-Bezier_Curves.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/1a/00/081a004a-ab1e-3f6f-0cae-492aa4ad49c7/iPhone-en-6-Keyframing.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/c5/c7/c9c5c796-06bd-296f-b8a2-cd8777f6619b/iPhone-en-7-Speed.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/93/c4/5e93c47d-39b4-676c-bea1-6253725cd88f/iPhone-en-8-Multicam.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/94/c9/ca94c977-bf62-c2ac-1cb6-e2d9a296e34c/iPhone-en-9-Audio.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/90/e4/b590e427-d2ce-a48f-c605-c19fc31094a9/iPhone-en-10-Titles.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/06/fb/8106fb00-9ab5-4737-926d-92ada8f403f0/en-1-Awards_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/05/62/3b056203-62a1-8a1a-ebd6-c96abbdee710/en-2-Timeline_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/ec/c6/9fecc626-54a8-520f-aaab-0c906b3f9b8c/en-3-Color_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/91/3d/44913d0e-b4fb-294a-f227-78d42b5aa945/en-4-Effects_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/e0/00/03e00045-fd4c-1be3-e689-90251fafdd2d/en-5-Bezier_Curves_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/25/67/362567fe-d1a5-2c6a-c831-3c3c41f331a0/en-6-Keyframing_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/40/42/c84042ca-3e2c-8d3d-17ec-f178dd402b55/en-7-Speed_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/d2/d8/2fd2d844-73b6-2ee3-5255-9576c6509ff4/en-8-Multicam_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/2d/7c/d12d7c8d-35cb-f2f0-df4b-2774f23de143/en-9-Audio_ipadPro129.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/3e/8a/4f3e8a39-184a-8ed5-8a51-a372cae80c69/en-10-Titles_ipadPro129.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/cd/45/a7cd45e2-8bad-9e31-c90e-61f30f056d4d/iPhone-en-1-Awards.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/ac/1f/45ac1f7d-475d-80c5-7645-d13ad6770d16/iPhone-en-2-Timeline.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/25/5c/40255c17-b4a2-8be1-9fa0-0f1c8e550809/iPhone-en-3-Color.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/c8/bd/84c8bd9e-61af-c9bc-3bb0-80669d60269e/iPhone-en-4-Effects.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/af/50/82af505b-fcba-a231-eb97-adfab163ea65/iPhone-en-5-Bezier_Curves.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/1a/00/081a004a-ab1e-3f6f-0cae-492aa4ad49c7/iPhone-en-6-Keyframing.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/c5/c7/c9c5c796-06bd-296f-b8a2-cd8777f6619b/iPhone-en-7-Speed.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/93/c4/5e93c47d-39b4-676c-bea1-6253725cd88f/iPhone-en-8-Multicam.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/94/c9/ca94c977-bf62-c2ac-1cb6-e2d9a296e34c/iPhone-en-9-Audio.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/90/e4/b590e427-d2ce-a48f-c605-c19fc31094a9/iPhone-en-10-Titles.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/06/fb/8106fb00-9ab5-4737-926d-92ada8f403f0/en-1-Awards_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/05/62/3b056203-62a1-8a1a-ebd6-c96abbdee710/en-2-Timeline_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/ec/c6/9fecc626-54a8-520f-aaab-0c906b3f9b8c/en-3-Color_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/91/3d/44913d0e-b4fb-294a-f227-78d42b5aa945/en-4-Effects_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/e0/00/03e00045-fd4c-1be3-e689-90251fafdd2d/en-5-Bezier_Curves_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/25/67/362567fe-d1a5-2c6a-c831-3c3c41f331a0/en-6-Keyframing_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/40/42/c84042ca-3e2c-8d3d-17ec-f178dd402b55/en-7-Speed_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/d2/d8/2fd2d844-73b6-2ee3-5255-9576c6509ff4/en-8-Multicam_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/2d/7c/d12d7c8d-35cb-f2f0-df4b-2774f23de143/en-9-Audio_ipadPro129.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/3e/8a/4f3e8a39-184a-8ed5-8a51-a372cae80c69/en-10-Titles_ipadPro129.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.4.3",
+          "date": "2026-03-11",
+          "size": 172103406,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.luma-touch.LumaFusion_5.4.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.4.3",
+      "versionDate": "2026-03-11T12:37:47.636Z",
+      "size": 172103406,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.luma-touch.LumaFusion_5.4.3.ipa"
+    },
+    {
+      "name": "Der Die Das",
+      "bundleIdentifier": "com.lubosmikusiak.articuli.de",
+      "developerName": "Lubos Mikusiak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/43/b7/7443b720-957b-5351-dcc9-f001bedd8fde/AppIcon-de-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/0d/58/5a0d58a1-a491-cad4-92e1-035866f61ed1/0cdf99ab-18ea-4af3-bb75-e68f6383b4ed_en-search.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/f2/2e/dcf22ef5-9398-f1ae-510f-8b6916c1d2ce/8097b0c7-b3ff-411a-acb0-61e6e2238e56_en-search-noun.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/4b/69/ba4b694a-f7af-4f67-a983-78fd233092db/465a6cbe-eb06-4380-9f5f-851ef65b6df6_en-game.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/52/cf/5052cfde-b63c-7d98-029b-cd6687796e74/19c6ec73-5d36-4c36-b4b6-b0f74c6dc939_en-game-noun.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/8e/06/9c8e06ec-3f2a-b738-0406-d2f0dbc6f75f/1902c189-4bc4-45a1-8cd5-b1d37dc1240b_en-rules.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/0d/58/5a0d58a1-a491-cad4-92e1-035866f61ed1/0cdf99ab-18ea-4af3-bb75-e68f6383b4ed_en-search.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/f2/2e/dcf22ef5-9398-f1ae-510f-8b6916c1d2ce/8097b0c7-b3ff-411a-acb0-61e6e2238e56_en-search-noun.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/4b/69/ba4b694a-f7af-4f67-a983-78fd233092db/465a6cbe-eb06-4380-9f5f-851ef65b6df6_en-game.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/52/cf/5052cfde-b63c-7d98-029b-cd6687796e74/19c6ec73-5d36-4c36-b4b6-b0f74c6dc939_en-game-noun.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/8e/06/9c8e06ec-3f2a-b738-0406-d2f0dbc6f75f/1902c189-4bc4-45a1-8cd5-b1d37dc1240b_en-rules.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "5.4",
+          "date": "2026-03-11",
+          "size": 5921676,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.lubosmikusiak.articuli.de_Sideloadbypass1_5.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.4",
+      "versionDate": "2026-03-11T12:51:23.151Z",
+      "size": 5921676,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.lubosmikusiak.articuli.de_Sideloadbypass1_5.4.ipa"
+    },
+    {
       "name": "Box Box",
       "bundleIdentifier": "club.boxbox.widgets-ios",
       "developerName": "ARKADE CLUB PRIVATE LIMITED",
@@ -7245,6 +7985,70 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/io.yogger.Yogger_AutoRc_5.3.1.ipa"
     },
     {
+      "name": "OsmAnd Maps",
+      "bundleIdentifier": "net.osmand.maps",
+      "developerName": "OsmAND B.V.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/86/a6/4686a6e5-a105-8785-ce91-ba2e759b1963/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nOsmAnd Maps Travel & Navigation 5.2.5\n- AppStore Link\n- Subscription Unlocked\n- Minimum iOS/iPadOS 15.0\n- Cracked by CiesIPAs\n- If it’s crashing or the subscription isn’t working on iOS 26, use Feather and replace Substrate with ElleKit",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/41/6d/af/416daf00-0429-f14e-6062-6e01c8ea3f11/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/66/cd/7a66cdf0-d44c-9695-6606-39dce60f64c6/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/cd/b1/58cdb12f-296e-013a-0fb2-a48120600400/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/c1/72/9fc17245-3711-69ec-a7f1-41f783e95f42/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/3e/a1/4a3ea186-98f3-02ec-ee31-08caa65d92d9/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/ef/c6/d3efc6ad-de45-42f8-4ab6-3c022cf5b2e8/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/7b/8b/a67b8b83-2460-362b-b08e-7acc8ffef016/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/e8/1b/33e81b28-a2e3-6632-8eab-dde95e1f59ca/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/72/1a/94721a3d-2a3f-8540-70cc-0a7af4add339/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/84/f9/6984f95d-f2e9-3bb1-4592-c82c17b6a8ca/pr_source.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/41/6d/af/416daf00-0429-f14e-6062-6e01c8ea3f11/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/66/cd/7a66cdf0-d44c-9695-6606-39dce60f64c6/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/cd/b1/58cdb12f-296e-013a-0fb2-a48120600400/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/c1/72/9fc17245-3711-69ec-a7f1-41f783e95f42/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/3e/a1/4a3ea186-98f3-02ec-ee31-08caa65d92d9/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/ef/c6/d3efc6ad-de45-42f8-4ab6-3c022cf5b2e8/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/7b/8b/a67b8b83-2460-362b-b08e-7acc8ffef016/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/e8/1b/33e81b28-a2e3-6632-8eab-dde95e1f59ca/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/72/1a/94721a3d-2a3f-8540-70cc-0a7af4add339/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/84/f9/6984f95d-f2e9-3bb1-4592-c82c17b6a8ca/pr_source.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "5.2.5",
+          "date": "2026-03-11",
+          "size": 107652320,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.osmand.maps_OsmAndPatch_5.2.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.2.5",
+      "versionDate": "2026-03-11T12:47:45.910Z",
+      "size": 107652320,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.osmand.maps_OsmAndPatch_5.2.5.ipa"
+    },
+    {
       "name": "Endel",
       "bundleIdentifier": "com.endel.endel",
       "developerName": "Endel",
@@ -7343,6 +8147,66 @@
       "versionDate": "2026-03-11T10:43:09.125Z",
       "size": 97604842,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.itwcalculator.weatherplusfree_Weather%2B_4.18.17.ipa"
+    },
+    {
+      "name": "BimmerLink",
+      "bundleIdentifier": "com.stephangauch.BimmerDash",
+      "developerName": "SG Software GmbH & Co. KG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/af/f6/cbaff687-6023-fdf7-a84f-525cfb74c6f0/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nBimmerLink\nPaid app: $39.99\nVersion: 4.8.1\nBundle ID: com.stephangauch.BimmerDash\nAppStore link: https://apps.apple.com/app/id1065360416\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/1a/59/461a5922-c876-fe1d-8458-783c1b70d44e/b579ee5c-4e3a-42ef-a344-d7022defc5ef_8.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/58/27/07582759-68e9-6969-4be1-8b0c97a8ea74/af875a90-ee9d-4aca-b917-7d648568ce2b_9.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/07/8e/2c078e4c-4982-dd70-1afe-932f3a6bc602/1cca88b3-c51d-43d9-8808-3b1c68fae982_2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/61/49/71614911-394f-c3ce-7feb-ade0f60c2180/da098097-8640-4337-b163-b5e3285af9d5_7.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/ee/56/88ee56dc-4359-9d18-3792-3c0101c830d7/0828aeb0-b385-4c21-843f-fe8c829514fb_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cf/28/60cf280e-f589-49b0-db0a-b4b0c1fb99da/33cd0154-b4bc-4ce1-acf0-bed282dbe6b4_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/e3/15/a0e31564-b5b3-33ab-4ec4-e21825ac4605/1d16e628-18d6-4922-b5d4-335aebeffbe0_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/f3/85/88f385ab-c46d-0bec-5326-9c238a570111/75c39d83-43db-47c5-bd35-42c875efddda_5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/88/f7/d088f7bf-a036-e23f-8b8b-62885d99c22e/b3e429f1-f3e4-4d0f-ab85-b5135af2233c_6.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/1a/59/461a5922-c876-fe1d-8458-783c1b70d44e/b579ee5c-4e3a-42ef-a344-d7022defc5ef_8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/58/27/07582759-68e9-6969-4be1-8b0c97a8ea74/af875a90-ee9d-4aca-b917-7d648568ce2b_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/07/8e/2c078e4c-4982-dd70-1afe-932f3a6bc602/1cca88b3-c51d-43d9-8808-3b1c68fae982_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/61/49/71614911-394f-c3ce-7feb-ade0f60c2180/da098097-8640-4337-b163-b5e3285af9d5_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/ee/56/88ee56dc-4359-9d18-3792-3c0101c830d7/0828aeb0-b385-4c21-843f-fe8c829514fb_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cf/28/60cf280e-f589-49b0-db0a-b4b0c1fb99da/33cd0154-b4bc-4ce1-acf0-bed282dbe6b4_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/e3/15/a0e31564-b5b3-33ab-4ec4-e21825ac4605/1d16e628-18d6-4922-b5d4-335aebeffbe0_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/f3/85/88f385ab-c46d-0bec-5326-9c238a570111/75c39d83-43db-47c5-bd35-42c875efddda_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/88/f7/d088f7bf-a036-e23f-8b8b-62885d99c22e/b3e429f1-f3e4-4d0f-ab85-b5135af2233c_6.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "4.8.1",
+          "date": "2026-03-11",
+          "size": 14117106,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.stephangauch.BimmerDash_4.8.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.8.1",
+      "versionDate": "2026-03-11T12:55:38.273Z",
+      "size": 14117106,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.stephangauch.BimmerDash_4.8.1.ipa"
     },
     {
       "name": "Unscripted",
@@ -7525,6 +8389,70 @@
       "versionDate": "2026-03-11T08:57:36.615Z",
       "size": 216287135,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.vivacut.videoeditor_VivaCutPro_4.5.6.ipa"
+    },
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "developerName": "505 Games (US), Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b4/b5/e3b4b558-8736-9c0a-ac28-6bc57141c6bd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nTerraria\nPaid app: $4.99\nVersion: 4.5.1\nBundle ID: com.505games.terraria\nAppStore link: https://apps.apple.com/app/id640364616\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/e1/2e/8fe12ede-8f8b-2d42-e0d8-5e399a42a36a/DeadCells__iPhone5.5_2208x1242_94.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/56/ca/f356ca7e-3e26-e62a-16d2-cd2be00193a2/Chillet_iPhone5.5_2208x1242_37.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/57/0d/5e570d3e-6414-c2e0-cfc9-cbdafb35de6d/TreeHouse_iPhone5.5_2208x1242_98.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/2a/87/dc2a87c1-c7e4-a7cc-b79d-8fbf31fe3467/EOC_iPhone5.5_2208x1242_109.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/8f/6b/3f8f6bf7-b7e8-f229-c595-724cee21c652/352b31d4-3df3-4cf1-a19c-44e2b022b5f7_2208x1242bb.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/11/db/9a11db50-45e6-1021-abe5-fbb5b3e3174c/a7a5b1d9-4c1d-4c6d-a3ae-9e61667759f7_2208x1242bb__U00284_U0029.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/d0/94/85d0943a-60c0-7217-ee62-9a3c9116fbec/bcdf45a5-5861-43be-a1b7-320b1cb7da73_2208x1242bb__U00287_U0029.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/38/11/a5381177-1359-ad75-8134-d909c1fd77ce/43bfb49b-ddfd-4048-9312-99d1243518a4_2208x1242bb__U00283_U0029.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/a0/3a/5ba03aab-bc89-83ef-67b3-a80d553ad90e/399e6ad9-8922-4221-8e4d-c464269ad022_2208x1242bb__U00286_U0029.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/71/eb/e471eb90-97fe-02f6-14b2-b3ad03a0f885/66d99ac6-ad7f-47cc-92bb-637a7a545b7c_2208x1242bb__U00285_U0029.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/e1/2e/8fe12ede-8f8b-2d42-e0d8-5e399a42a36a/DeadCells__iPhone5.5_2208x1242_94.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/56/ca/f356ca7e-3e26-e62a-16d2-cd2be00193a2/Chillet_iPhone5.5_2208x1242_37.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/57/0d/5e570d3e-6414-c2e0-cfc9-cbdafb35de6d/TreeHouse_iPhone5.5_2208x1242_98.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/2a/87/dc2a87c1-c7e4-a7cc-b79d-8fbf31fe3467/EOC_iPhone5.5_2208x1242_109.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/8f/6b/3f8f6bf7-b7e8-f229-c595-724cee21c652/352b31d4-3df3-4cf1-a19c-44e2b022b5f7_2208x1242bb.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/11/db/9a11db50-45e6-1021-abe5-fbb5b3e3174c/a7a5b1d9-4c1d-4c6d-a3ae-9e61667759f7_2208x1242bb__U00284_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/d0/94/85d0943a-60c0-7217-ee62-9a3c9116fbec/bcdf45a5-5861-43be-a1b7-320b1cb7da73_2208x1242bb__U00287_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/38/11/a5381177-1359-ad75-8134-d909c1fd77ce/43bfb49b-ddfd-4048-9312-99d1243518a4_2208x1242bb__U00283_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/a0/3a/5ba03aab-bc89-83ef-67b3-a80d553ad90e/399e6ad9-8922-4221-8e4d-c464269ad022_2208x1242bb__U00286_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/71/eb/e471eb90-97fe-02f6-14b2-b3ad03a0f885/66d99ac6-ad7f-47cc-92bb-637a7a545b7c_2208x1242bb__U00285_U0029.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "4.5.1",
+          "date": "2026-03-11",
+          "size": 189568749,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.505games.terraria_4.5.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.5.1",
+      "versionDate": "2026-03-11T12:50:29.466Z",
+      "size": 189568749,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.505games.terraria_4.5.1.ipa"
     },
     {
       "name": "DaVinci",
@@ -9147,6 +10075,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.3.6.ipa"
     },
     {
+      "name": "VoidLink - Extreme",
+      "bundleIdentifier": "com.voidlinkextreme.iOS",
+      "developerName": "伟敏 张",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/76/5f/2d765fb2-eae3-28d6-eea6-860f1579d4f7/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nVoidLink - Extreme\nPaid app: $1.49\nVersion: 3.3.2\nBundle ID: com.voidlinkextreme.iOS\nAppStore link: https://apps.apple.com/app/id6755103808\nDecrypted by user_hidden",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "3.3.2",
+          "date": "2026-03-11",
+          "size": 8488197,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.voidlinkextreme.iOS_3.3.2.ipa"
+        },
+        {
+          "version": "3.3.0",
+          "date": "2026-03-11",
+          "size": 8479815,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.voidlinkextreme.iOS_3.3.0.ipa"
+        },
+        {
+          "version": "3.2.9",
+          "date": "2026-03-11",
+          "size": 8473788,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.voidlinkextreme.iOS_3.2.9.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.3.2",
+      "versionDate": "2026-03-11T12:25:07.025Z",
+      "size": 8488197,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.voidlinkextreme.iOS_3.3.2.ipa"
+    },
+    {
       "name": "swipewipe",
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "MWM",
@@ -10179,6 +11141,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.macpaw.iosgemini_CleanMyPhone_2.12.1.ipa"
     },
     {
+      "name": "Кошелек",
+      "bundleIdentifier": "online.yourfintech.main",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nFintech v2.11.2\n\n🇷🇺 Приложение МТС банка\n— Удалённое приложение из AppStore\n— Требует iOS 14.0\n© Создано: GLESign\n\n🇺🇸 MTS Bank Application\n— Removed app from AppStore\n— Requires iOS 14.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.11.2",
+          "date": "2026-03-11",
+          "size": 176174838,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/online.yourfintech.main_2.11.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.11.2",
+      "versionDate": "2026-03-11T12:04:24.912Z",
+      "size": 176174838,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/online.yourfintech.main_2.11.2.ipa"
+    },
+    {
       "name": "Scanner",
       "bundleIdentifier": "scannerapp.free",
       "developerName": "Luni",
@@ -10611,6 +11595,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.vitalii.mind_Mindllama_2.5.6.ipa"
     },
     {
+      "name": "AniLiberty",
+      "bundleIdentifier": "tv.anilibria.anilibria",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nAniLiberty 2.5.1\n\n🇷🇺 Приложение для просмотра аниме от команды Aniliberty. \n— Требуется iOS 13.0+\n© Создано: AniLibria\n\n🇺🇸 The Aniliberty team's anime viewing app\n— Requires iOS 13.0+\n© Created: AniLibria",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.5.1",
+          "date": "2026-03-11",
+          "size": 3847539,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/tv.anilibria.anilibria_2.5.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.5.1",
+      "versionDate": "2026-03-11T12:07:40.703Z",
+      "size": 3847539,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/tv.anilibria.anilibria_2.5.1.ipa"
+    },
+    {
       "name": "StressWatch",
       "bundleIdentifier": "com.ideation.Stress",
       "developerName": "One Hundred Bad Ideas Limited",
@@ -10723,6 +11729,58 @@
       "versionDate": "2026-03-11T07:57:40.257Z",
       "size": 28807875,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.alevioos.app_AlevioOS_2.4.5.ipa"
+    },
+    {
+      "name": "DROPS",
+      "bundleIdentifier": "com.solesavy.mobile",
+      "developerName": "SoleSavy",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/45/01/b64501c4-ac7c-7cbc-deae-321fde08512e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/66/a1/4d66a14c-d66d-c8ac-d503-10fffb8b33ff/2c41ff45-f801-4b48-ba25-948dc5864b9b_ios-5.5-1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/d1/fb/1dd1fb65-f8ed-429b-46ce-2ddecc731796/10defcc9-b999-447a-b833-045cb9e9480c_ios-5.5-2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/25/54/ee255488-a2d1-c6c4-414c-282c1e9c925a/8b384d85-bc7f-437a-b150-a8abb232a049_ios-5.5-3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/b1/e4/c7b1e4cb-0d06-86b4-977a-b57073d74469/76c1bae4-7877-4e2d-b636-01250faf07c6_ios-5.5-4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/2e/fa/5c2efa84-04fa-82ff-fe66-f5ed4a0adbef/9b7be5d0-1670-45ca-a849-c88e4e8b6aea_ios-5.5-5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/46/3c/d0463cef-d763-d337-f9c0-993a34f98ef0/500707a7-3360-47f8-8238-278cc2fcf1d5_ios-5.5-6.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/70/76/a670762c-04ea-0efe-9b87-b2c8389bd5cd/f188de60-98f1-410f-bafe-7ba071df5319_ios-5.5-7.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/66/a1/4d66a14c-d66d-c8ac-d503-10fffb8b33ff/2c41ff45-f801-4b48-ba25-948dc5864b9b_ios-5.5-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/d1/fb/1dd1fb65-f8ed-429b-46ce-2ddecc731796/10defcc9-b999-447a-b833-045cb9e9480c_ios-5.5-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/25/54/ee255488-a2d1-c6c4-414c-282c1e9c925a/8b384d85-bc7f-437a-b150-a8abb232a049_ios-5.5-3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/b1/e4/c7b1e4cb-0d06-86b4-977a-b57073d74469/76c1bae4-7877-4e2d-b636-01250faf07c6_ios-5.5-4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/2e/fa/5c2efa84-04fa-82ff-fe66-f5ed4a0adbef/9b7be5d0-1670-45ca-a849-c88e4e8b6aea_ios-5.5-5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/46/3c/d0463cef-d763-d337-f9c0-993a34f98ef0/500707a7-3360-47f8-8238-278cc2fcf1d5_ios-5.5-6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/70/76/a670762c-04ea-0efe-9b87-b2c8389bd5cd/f188de60-98f1-410f-bafe-7ba071df5319_ios-5.5-7.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "2.2.3",
+          "date": "2026-03-11",
+          "size": 25056906,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.solesavy.mobile_2.2.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.2.3",
+      "versionDate": "2026-03-11T12:29:19.137Z",
+      "size": 25056906,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.solesavy.mobile_2.2.3.ipa"
     },
     {
       "name": "VlogNow",
@@ -10915,6 +11973,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.impalastudios.theweatherfree_TheWeather_2.0.16.ipa"
     },
     {
+      "name": "Аут",
+      "bundleIdentifier": "com.timurvaleev.autapp",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nAут v2.0.2\n\n🇷🇺 Приложение Рокетбанка\n— Удалённое приложение из AppStore\n— Требует iOS 15.0\n© Создано: GLESign\n\n🇺🇸 The Rocketbank App\n— Removed app from AppStore\n— Requires iOS 15.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2026-03-11",
+          "size": 299397822,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.timurvaleev.autapp_2.0.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.0.2",
+      "versionDate": "2026-03-11T12:03:36.312Z",
+      "size": 299397822,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.timurvaleev.autapp_2.0.2.ipa"
+    },
+    {
       "name": "Lampa",
       "bundleIdentifier": "com.lampa.photo",
       "developerName": "Alexey Teplonogov",
@@ -11057,6 +12137,28 @@
       "versionDate": "2026-03-11T11:11:21.462Z",
       "size": 42074445,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.elf-audio.koala_Sideloadbypass2_1.4152.ipa"
+    },
+    {
+      "name": "Presento",
+      "bundleIdentifier": "com.presento.release",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nPresento v1.2506.2\n\n🇷🇺 Приложение ВТБ Бизнес\n— Удалённое приложение из AppStore\n— Требует iOS 16.0\n© Создано: GLESign\n\n🇺🇸 VTB Business App\n— Removed app from AppStore\n— Requires iOS 16.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.2506.2",
+          "date": "2026-03-11",
+          "size": 283824789,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.presento.release_1.2506.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.2506.2",
+      "versionDate": "2026-03-11T12:01:56.979Z",
+      "size": 283824789,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.presento.release_1.2506.2.ipa"
     },
     {
       "name": "Vids",
@@ -11287,6 +12389,28 @@
       "versionDate": "2026-03-11T11:20:29.955Z",
       "size": 111705464,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/fi.twomenandadog.zombiecatchers_1.62.1.ipa"
+    },
+    {
+      "name": "Пассажирам",
+      "bundleIdentifier": "ru.dorogi20251024.passenger",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nРЖД v1.55.1\n\n🇷🇺 Приложение от РЖД для пассажиров \n— Приложение из TestFlight \n© Создано: GLESign\n\n🇺🇸 The application from Russian Railways for passengers\n— The app from TestFlight\n© Created: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.50",
+          "date": "2026-03-11",
+          "size": 35299912,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.dorogi20251024.passenger_1.50.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.50",
+      "versionDate": "2026-03-11T12:02:03.244Z",
+      "size": 35299912,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.dorogi20251024.passenger_1.50.ipa"
     },
     {
       "name": "Six Pack Abs - Abs Workout",
@@ -11571,6 +12695,66 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.unicostudio.braintest4_SatellaJailed_1.29.0.ipa"
     },
     {
+      "name": "Plague Inc.",
+      "bundleIdentifier": "com.ndemiccreations.plagueinc",
+      "developerName": "Ndemic Creations",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nPlague Inc.\nPaid app: $0.99\nVersion: 1.23.0\nBundle ID: com.ndemiccreations.plagueinc\nAppStore link: https://apps.apple.com/app/id525818839\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/f4/03/91f40341-8b67-a9d7-4a0b-7c279073a972/iPhone5-5inch_english.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/02/d8/7502d810-702c-4fee-a2c6-10e8eb12a964/English_Worldshot__iphone_55inch.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/f1/d2/c9f1d2f0-3261-6db2-87d8-c716cf16bcbe/mzl.bmeqdmct.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/90/dd/7890ddef-c526-c6b5-1d8c-433ec43e4621/mzl.aqfirgvw.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/21/15/c821150d-b0cd-4d25-03e7-89ff1456695e/mzl.wkhvhimi.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ed/0a/98ed0a80-a0c4-b7ed-653d-fa23b9ce271b/mzl.vjumishh.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/76/61/5e7661ad-3745-1a01-5f4a-7f161d70075d/mzl.zzyobtua.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/90/01/e59001b7-0906-08ca-57a8-38238360647a/mzl.hgwhoavi.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/ca/69/f5ca69a9-e9b8-05c9-7fef-cbca29ca2b4c/mzl.lygrgfrd.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/f4/03/91f40341-8b67-a9d7-4a0b-7c279073a972/iPhone5-5inch_english.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/02/d8/7502d810-702c-4fee-a2c6-10e8eb12a964/English_Worldshot__iphone_55inch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/f1/d2/c9f1d2f0-3261-6db2-87d8-c716cf16bcbe/mzl.bmeqdmct.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/90/dd/7890ddef-c526-c6b5-1d8c-433ec43e4621/mzl.aqfirgvw.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/21/15/c821150d-b0cd-4d25-03e7-89ff1456695e/mzl.wkhvhimi.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ed/0a/98ed0a80-a0c4-b7ed-653d-fa23b9ce271b/mzl.vjumishh.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/76/61/5e7661ad-3745-1a01-5f4a-7f161d70075d/mzl.zzyobtua.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/90/01/e59001b7-0906-08ca-57a8-38238360647a/mzl.hgwhoavi.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/ca/69/f5ca69a9-e9b8-05c9-7fef-cbca29ca2b4c/mzl.lygrgfrd.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "1.23.0",
+          "date": "2026-03-11",
+          "size": 78062534,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ndemiccreations.plagueinc_1.23.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.23.0",
+      "versionDate": "2026-03-11T12:47:57.515Z",
+      "size": 78062534,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ndemiccreations.plagueinc_1.23.0.ipa"
+    },
+    {
       "name": "Coin ID",
       "bundleIdentifier": "com.aiby.wtcoin",
       "developerName": "AIBY",
@@ -11648,6 +12832,18 @@
           "date": "2026-03-11",
           "size": 605375936,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mojang.minecraftpe_1.21.132.ipa"
+        },
+        {
+          "version": "1.21.120",
+          "date": "2026-03-11",
+          "size": 594831687,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mojang.minecraftpe_1.21.120.ipa"
+        },
+        {
+          "version": "1.21.114",
+          "date": "2026-03-11",
+          "size": 589684184,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mojang.minecraftpe_1.21.114.ipa"
         }
       ],
       "appPermissions": {},
@@ -11661,21 +12857,27 @@
       "bundleIdentifier": "com.mojang.minecraftpreview",
       "developerName": "Unknown Developer",
       "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from @glesign |\n----------------\nMinecraft Preview v1.21.130.27\n\n🇷🇺 Бета версия Minecraft. Исследуйте бесконечные миры и стройте что угодно: от простейших домов до грандиозных замков и дворцов.\n— Приложение из TestFlight\n© Создано: iOSDecrypted\n\n🇺🇸 Beta version of Minecraft. Explore endless worlds and build anything from the simplest houses to grandiose castles and palaces.\n— App from TestFlight\n© Created by: iOSDecrypted",
+      "localizedDescription": "from @glesign |\n----------------\nMinecraft Preview v1.21.130.22\n\n🇷🇺 Бета версия Minecraft. Исследуйте бесконечные миры и стройте что угодно: от простейших домов до грандиозных замков и дворцов.\n— Приложение из TestFlight\n© Создано: iOSDecrypted\n\n🇺🇸 Beta version of Minecraft. Explore endless worlds and build anything from the simplest houses to grandiose castles and palaces.\n— App from TestFlight\n© Created by: iOSDecrypted",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
         {
           "version": "1.21.130",
           "date": "2026-03-11",
-          "size": 616085021,
+          "size": 604734109,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mojang.minecraftpreview_1.21.130.ipa"
+        },
+        {
+          "version": "1.21.120",
+          "date": "2026-03-11",
+          "size": 602387985,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mojang.minecraftpreview_1.21.120.ipa"
         }
       ],
       "appPermissions": {},
       "version": "1.21.130",
-      "versionDate": "2026-03-11T11:54:02.026Z",
-      "size": 616085021,
+      "versionDate": "2026-03-11T12:09:12.074Z",
+      "size": 604734109,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mojang.minecraftpreview_1.21.130.ipa"
     },
     {
@@ -11723,7 +12925,7 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nApollo for Reddit\n\nApollo-ImprovedCustomApi\n\nPlease carefully read the tutorial that appears when you open the app\n\nTweak changelog\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nApollo for Reddit 1.15.11 Improved Custom API 1.4.1\nChanglog\n-Fix certain Streamable links not loading in media view\nKnown Issues\n-Apollo Ultra features may cause app to crash\n-Imgur multi-image upload\n-Uploads usually fail on the first attempt but subsequent retries should succeed\n-Share URLs in private messages and long-tapping them still open in the in-app browser",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png"
@@ -11760,14 +12962,14 @@
         {
           "version": "1.15.11",
           "date": "2026-03-11",
-          "size": 114974038,
+          "size": 114786467,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
         }
       ],
       "appPermissions": {},
       "version": "1.15.11",
-      "versionDate": "2026-03-11T09:27:13.533Z",
-      "size": 114974038,
+      "versionDate": "2026-03-11T12:55:53.625Z",
+      "size": 114786467,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
     },
     {
@@ -12125,6 +13327,64 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.joytunes.Draw_SimplyCrack_1.6.14.ipa"
     },
     {
+      "name": "True Skate+",
+      "bundleIdentifier": "com.trueaxis.trueskateplus",
+      "developerName": "True Axis",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/46/93/78469328-6bcc-3387-bb92-59660f46f6b1/AppIconPlus-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nTrue Skate+\nPaid app: (Apple Arcade)\nVersion: 1.6.2\nBundle ID: com.trueaxis.trueskateplus\nAppStore link: https://apps.apple.com/app/id6749028960\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/0e/0b/060e0b55-31f8-fa1a-b0b5-029fb9967a62/iphone6_9_4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/22/02/be22028d-8228-3aa5-89b8-1f2298cf6c78/iPad_13_2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/19/09/34190931-07e0-11b8-bab2-aea1f4ed7aab/Apple_Arcade_screnshot_-_iPad_-_DIY.PNG/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/0e/0b/060e0b55-31f8-fa1a-b0b5-029fb9967a62/iphone6_9_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/22/02/be22028d-8228-3aa5-89b8-1f2298cf6c78/iPad_13_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/19/09/34190931-07e0-11b8-bab2-aea1f4ed7aab/Apple_Arcade_screnshot_-_iPad_-_DIY.PNG/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.6.2",
+          "date": "2026-03-11",
+          "size": 433017410,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.trueaxis.trueskateplus_1.6.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.6.2",
+      "versionDate": "2026-03-11T12:52:06.099Z",
+      "size": 433017410,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.trueaxis.trueskateplus_1.6.2.ipa"
+    },
+    {
+      "name": "HDrezka",
+      "bundleIdentifier": "me.keet.HDRezka",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nHDRezka v1.5.4\n\n🇷🇺 Неофициальное приложение для просмотра контента с сайта rezka.ag\n— требуется iOS 16.0\n© Создано: HDrezka iOS\n\n🇺🇸 An unofficial application for viewing content from a website rezka.ag\n— Requires iOS 16.0\n© Created by: HDrezka iOS",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.5.4",
+          "date": "2026-03-11",
+          "size": 5099503,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/me.keet.HDRezka_1.5.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.5.4",
+      "versionDate": "2026-03-11T12:02:45.695Z",
+      "size": 5099503,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/me.keet.HDRezka_1.5.4.ipa"
+    },
+    {
       "name": "WL Analysis",
       "bundleIdentifier": "com.karolsmolak.WL-analysis",
       "developerName": "Karol Smolak",
@@ -12237,6 +13497,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.frameoneapps.Crsel_Crsel_1.3.601.ipa"
     },
     {
+      "name": "Дом Лака",
+      "bundleIdentifier": "com.ManicureDiary",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nДом Лака v1.2.2\n\n🇷🇺 Приложение Домклик от Сбера\n— Удалено из App Store \n© Создано: GLESign\n\n🇺🇸 The Domclick app from Sberbank\n— Removed in App Store\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.2.2",
+          "date": "2026-03-11",
+          "size": 152716048,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ManicureDiary_1.2.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.2.2",
+      "versionDate": "2026-03-11T12:01:23.377Z",
+      "size": 152716048,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ManicureDiary_1.2.2.ipa"
+    },
+    {
       "name": "StosVPN",
       "bundleIdentifier": "com.stossy11.StosVPN",
       "developerName": "Unknown Developer",
@@ -12257,6 +13539,108 @@
       "versionDate": "2026-03-11T11:51:51.438Z",
       "size": 269066,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.stossy11.StosVPN_1.2.1.ipa"
+    },
+    {
+      "name": "NFL RB 26",
+      "bundleIdentifier": "com.newstarresearch.retrobowlpro",
+      "developerName": "New Star R&D Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/a7/c0/31a7c004-9711-8d52-5b12-f2b41c367a92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nNFL RB 26\nPaid app: (Apple Arcade)\nVersion: 1.1.63\nBundle ID: com.newstarresearch.retrobowlpro\nAppStore link: https://apps.apple.com/app/id6476767864\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/83/8a/d5838a26-15f1-d226-0264-858b884a648f/5_iPhone_16_Pro_Max_34.PNG/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/5f/ec/385fec29-579e-a714-8636-6f779771cf9d/3_iPhone16_Pro_Max_58.PNG/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/e9/a2/07e9a2a2-9f52-a271-14df-5b58a880ef64/4_iPhone_16_Pro_Max_05b.PNG/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/47/96/b84796a8-ae3b-a8eb-3ea2-152ff533d46b/2_iPhone_16_Pro_Max_34.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/21/09/c62109b4-94a2-fba7-10cb-1f46e2e0aa24/6_iPhone_16_Pro_Max_03.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/cf/7b/7acf7b8f-1882-8b98-9e14-20fea52ac24a/7_iPhone16_Pro_Max_40.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/1e/97/bb1e97ee-ce3c-535f-7af5-401397c0729f/8_iPhone_16_Pro_Max_09b.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/20/aa/8320aa19-6040-662d-c438-5bed0b94f5df/2_iPad_Pro_12.9_28.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/29/e8/3529e8fd-adb6-7b94-4c01-4a0eaeefe13f/3_iPad_Pro_12.9_39.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/f3/55/50f35543-56b6-e067-cc24-ff59dc9d297c/4_iPad_Pro_12.9_05b.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/b6/2d/67b62d44-af4e-f802-1ca0-b1b50f8b0358/5_iPad_Pro_12.9_26.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/4a/51/4a4a5131-a66f-f0c9-eadc-d6f170c06178/6_iPad_Pro_12.9_04.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/11/9a/34119a2d-a2d8-270d-2d62-66d2b69b32cd/7_iPad_Pro_12.9_35.PNG/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/4a/5d/014a5df7-b918-4408-096b-402caa9f3d10/8_iPad_Pro_12.9_11b.PNG/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/83/8a/d5838a26-15f1-d226-0264-858b884a648f/5_iPhone_16_Pro_Max_34.PNG/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/5f/ec/385fec29-579e-a714-8636-6f779771cf9d/3_iPhone16_Pro_Max_58.PNG/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/e9/a2/07e9a2a2-9f52-a271-14df-5b58a880ef64/4_iPhone_16_Pro_Max_05b.PNG/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/47/96/b84796a8-ae3b-a8eb-3ea2-152ff533d46b/2_iPhone_16_Pro_Max_34.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/21/09/c62109b4-94a2-fba7-10cb-1f46e2e0aa24/6_iPhone_16_Pro_Max_03.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/cf/7b/7acf7b8f-1882-8b98-9e14-20fea52ac24a/7_iPhone16_Pro_Max_40.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/1e/97/bb1e97ee-ce3c-535f-7af5-401397c0729f/8_iPhone_16_Pro_Max_09b.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/20/aa/8320aa19-6040-662d-c438-5bed0b94f5df/2_iPad_Pro_12.9_28.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/29/e8/3529e8fd-adb6-7b94-4c01-4a0eaeefe13f/3_iPad_Pro_12.9_39.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/f3/55/50f35543-56b6-e067-cc24-ff59dc9d297c/4_iPad_Pro_12.9_05b.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/b6/2d/67b62d44-af4e-f802-1ca0-b1b50f8b0358/5_iPad_Pro_12.9_26.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/4a/51/4a4a5131-a66f-f0c9-eadc-d6f170c06178/6_iPad_Pro_12.9_04.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/11/9a/34119a2d-a2d8-270d-2d62-66d2b69b32cd/7_iPad_Pro_12.9_35.PNG/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/4a/5d/014a5df7-b918-4408-096b-402caa9f3d10/8_iPad_Pro_12.9_11b.PNG/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.1.63",
+          "date": "2026-03-11",
+          "size": 73121314,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.newstarresearch.retrobowlpro_1.1.63.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.1.63",
+      "versionDate": "2026-03-11T12:23:54.737Z",
+      "size": 73121314,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.newstarresearch.retrobowlpro_1.1.63.ipa"
+    },
+    {
+      "name": "TABS Pocket Edition",
+      "bundleIdentifier": "com.landfall.tabspocketedition",
+      "developerName": "Landfall Games",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/8d/76/be8d7648-450a-8f32-c025-d51af03e4bd8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nTABS Pocket Edition\nPaid app: $3.99\nVersion: 1.1.05\nBundle ID: com.landfall.tabspocketedition\nAppStore link: https://apps.apple.com/app/id6743115658\nDecrypted by user_hidden",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.1.05",
+          "date": "2026-03-11",
+          "size": 1009938187,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.landfall.tabspocketedition_1.1.05.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.1.05",
+      "versionDate": "2026-03-11T12:43:25.264Z",
+      "size": 1009938187,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.landfall.tabspocketedition_1.1.05.ipa"
     },
     {
       "name": "AI Retouch",
@@ -12419,6 +13803,92 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.sbs.train_MacroFactorWorkouts_1.1.5.ipa"
     },
     {
+      "name": "Door Kickers",
+      "bundleIdentifier": "com.inthekillhouse.doorkickers",
+      "developerName": "KILLHOUSE GAMES SRL",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/37/e7/d237e73d-27a3-3cdb-8645-1b8ec778c9d6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nDoor Kickers\nPaid app: $4.99\nVersion: 1.1.1\nBundle ID: com.inthekillhouse.doorkickers\nAppStore link: https://apps.apple.com/app/id975683986\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/cc/f1/e6ccf153-6ffc-4bf6-df82-c5f39be8a390/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/28/13/78/28137814-eb17-bfb0-3ec5-5b9ebd3f9fc7/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9b/3a/bc/9b3abcc0-6591-711e-970e-cc35151d2a76/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4c/88/4b/4c884ba6-d2ac-4378-e1bf-95b90bfe0460/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/58/cd/6e58cdf8-9334-9449-3fec-b3325e9de1fb/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/67/3a/14673a95-fe44-f223-e415-4e091a0d2510/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/92/b9/ad/92b9ad8e-4252-4744-dab2-290451bcb100/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fc/29/0c/fc290cdf-8541-d386-d85f-468cd57f7dde/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b3/69/16/b369167b-e31c-de94-f87f-a2ffa40cd1bd/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f8/13/c9/f813c9f6-e826-7c4b-da44-60dc884dc090/pr_source.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/cc/f1/e6ccf153-6ffc-4bf6-df82-c5f39be8a390/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/28/13/78/28137814-eb17-bfb0-3ec5-5b9ebd3f9fc7/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9b/3a/bc/9b3abcc0-6591-711e-970e-cc35151d2a76/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4c/88/4b/4c884ba6-d2ac-4378-e1bf-95b90bfe0460/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/58/cd/6e58cdf8-9334-9449-3fec-b3325e9de1fb/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/67/3a/14673a95-fe44-f223-e415-4e091a0d2510/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/92/b9/ad/92b9ad8e-4252-4744-dab2-290451bcb100/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fc/29/0c/fc290cdf-8541-d386-d85f-468cd57f7dde/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b3/69/16/b369167b-e31c-de94-f87f-a2ffa40cd1bd/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f8/13/c9/f813c9f6-e826-7c4b-da44-60dc884dc090/pr_source.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-03-11",
+          "size": 448829572,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.inthekillhouse.doorkickers_1.1.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.1.1",
+      "versionDate": "2026-03-11T12:41:13.128Z",
+      "size": 448829572,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.inthekillhouse.doorkickers_1.1.1.ipa"
+    },
+    {
+      "name": "MyDocuments",
+      "bundleIdentifier": "com.ms.myDocuments",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nМои Документы v7\n\n🇷🇺 Приложение МКБ Банка\n— Удалено из App Store \n© Создано: GLESign\n\n🇺🇸 The application of the MKB Bank\n— Removed in App Store\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2026-03-11",
+          "size": 350999921,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ms.myDocuments_1.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.1",
+      "versionDate": "2026-03-11T12:02:32.081Z",
+      "size": 350999921,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ms.myDocuments_1.1.ipa"
+    },
+    {
       "name": "Moment",
       "bundleIdentifier": "com.momentinc.procamera",
       "developerName": "Moment Inc.",
@@ -12515,6 +13985,124 @@
       "versionDate": "2026-03-11T11:19:06.483Z",
       "size": 38316710,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.getmotobit.motobit_RevenueCatFix26_1.0.62.ipa"
+    },
+    {
+      "name": "ONE APP",
+      "bundleIdentifier": "one.app.com",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nOne v1.0.8\n\n🇷🇺 Приложение онлайн-кинотеатра Премьер\n— Удалено из App Store \n© Создано: GLESign\n\n🇺🇸 The Premier Online Cinema App\n— Removed in App Store\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.8",
+          "date": "2026-03-11",
+          "size": 62926584,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/one.app.com_1.0.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0.8",
+      "versionDate": "2026-03-11T12:01:32.556Z",
+      "size": 62926584,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/one.app.com_1.0.8.ipa"
+    },
+    {
+      "name": "Little Nightmares",
+      "bundleIdentifier": "com.playdigious.littlenightmares",
+      "developerName": "Playdigious",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/cc/74/1ecc7449-7100-33f9-1c77-504ce68dd031/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nLittle Nightmares\nPaid app: $7.99\nVersion: 1.0.7\nBundle ID: com.playdigious.littlenightmares\nAppStore link: https://apps.apple.com/app/id1620883955\nDecrypted by user_hidden",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/f5/b5/8af5b556-a302-71bc-8795-8701e51c1f8c/729c9413-28b5-4276-9a33-59a3b6532282_LN_Screen_i14_3_5.5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/21/61/83216164-a9be-3243-8c97-8a41a68c7d80/bea99737-5d26-409c-a3cf-a5784982c565_LN_Screen_i14_2_5.5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/4e/84/9d4e842e-0bc9-1e0e-f309-5e50e0168489/5b160f50-ae94-469b-b905-29f6506a8def_LN_Screen_i14_10_5.5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/4a/fb/6e4afb8b-77d7-cdde-0421-2d519c79d594/70034da1-27dc-4483-be80-b6ee3394d81d_LN_Screen_i14_1_5.5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ad/56/f9/ad56f92a-93e0-132d-c5b9-3e099008a153/c3116a4e-76e6-4a77-8717-fa3986ebe8f6_LN_Screen_i14_4_5.5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/58/1a/19581a86-9f81-5aa6-4d4b-1f0c2924c8f2/db77ed27-db2b-472a-a778-b4573d914576_LN_Screen_i14_9_5.5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/e7/5e/17e75e56-ae83-ee3f-c9d4-74256b1c3a48/0687ab35-10d4-4ff7-9c67-608e4daa33c5_LN_Screen_i14_13_5.5.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/f5/b5/8af5b556-a302-71bc-8795-8701e51c1f8c/729c9413-28b5-4276-9a33-59a3b6532282_LN_Screen_i14_3_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/21/61/83216164-a9be-3243-8c97-8a41a68c7d80/bea99737-5d26-409c-a3cf-a5784982c565_LN_Screen_i14_2_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/4e/84/9d4e842e-0bc9-1e0e-f309-5e50e0168489/5b160f50-ae94-469b-b905-29f6506a8def_LN_Screen_i14_10_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/4a/fb/6e4afb8b-77d7-cdde-0421-2d519c79d594/70034da1-27dc-4483-be80-b6ee3394d81d_LN_Screen_i14_1_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ad/56/f9/ad56f92a-93e0-132d-c5b9-3e099008a153/c3116a4e-76e6-4a77-8717-fa3986ebe8f6_LN_Screen_i14_4_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/58/1a/19581a86-9f81-5aa6-4d4b-1f0c2924c8f2/db77ed27-db2b-472a-a778-b4573d914576_LN_Screen_i14_9_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/e7/5e/17e75e56-ae83-ee3f-c9d4-74256b1c3a48/0687ab35-10d4-4ff7-9c67-608e4daa33c5_LN_Screen_i14_13_5.5.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.7",
+          "date": "2026-03-11",
+          "size": 1938486767,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.playdigious.littlenightmares_1.0.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0.7",
+      "versionDate": "2026-03-11T12:23:10.769Z",
+      "size": 1938486767,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.playdigious.littlenightmares_1.0.7.ipa"
+    },
+    {
+      "name": "NovAktiv",
+      "bundleIdentifier": "com.novaktiv",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nНовАктив v1.0.4\n\n🇷🇺 Приложение Новиком Банка\n— Удалённое приложение из AppStore\n— Требует iOS 12.0\n© Создано: GLESign\n\n🇺🇸 The Novikom Bank App\n— Removed app from AppStore\n— Requires iOS 12.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2026-03-11",
+          "size": 37354519,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.novaktiv_1.0.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0.4",
+      "versionDate": "2026-03-11T12:00:20.477Z",
+      "size": 37354519,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.novaktiv_1.0.4.ipa"
+    },
+    {
+      "name": "Rumble",
+      "bundleIdentifier": "com.rpcsx.rumble",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nRumble v0.0.1\n\n🇷🇺 Порт ByeDPI на iOS устройства\n— Требует iOS 9.0\n— Требует платный сертификат для работы\n© Создано: Rumble\n\n🇺🇸 ByeDPI port on iOS devices\n— Requires iOS 9.0\n— Requires a paid certificate to work\n© Created: Rumble",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-03-11",
+          "size": 571504,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.rpcsx.rumble_1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0",
+      "versionDate": "2026-03-11T12:00:04.087Z",
+      "size": 571504,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.rpcsx.rumble_1.0.ipa"
     },
     {
       "name": "Amethyst",
