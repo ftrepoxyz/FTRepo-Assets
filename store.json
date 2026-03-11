@@ -1503,7 +1503,7 @@
       "bundleIdentifier": "com.adobe.post",
       "developerName": "Adobe Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/fc/b7/d7fcb745-b31a-5779-b9c6-9d45274ad519/AppIconSpark-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAdobe Express: Create Anything\n\n• Bundle ID: com.adobe.post\n• Updated to: 29.8.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nAdobe Express: Create Anything\n\n• Bundle ID: com.adobe.post\n• Updated to: 29.8.1\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/05/25/0d052588-609a-17c0-0b45-376810645082/Adobe_Adobe-Express_en-US_iOS_6.5_Screenshot-Mockup_250422_01.png/1320x2868bb.webp"
@@ -1590,6 +1590,12 @@
       ],
       "versions": [
         {
+          "version": "29.8.1",
+          "date": "2026-03-11",
+          "size": 130772585,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.post_FilePickerFix_29.8.1.ipa"
+        },
+        {
           "version": "29.8.0",
           "date": "2026-03-11",
           "size": 130765059,
@@ -1597,10 +1603,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "29.8.0",
-      "versionDate": "2026-03-11T10:56:21.762Z",
-      "size": 130765059,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.post_AdobeExpress_29.8.0.ipa"
+      "version": "29.8.1",
+      "versionDate": "2026-03-11T18:26:28.027Z",
+      "size": 130772585,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.post_FilePickerFix_29.8.1.ipa"
     },
     {
       "name": "PicsArt",
@@ -9635,6 +9641,54 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.digitas.solidstarts_Sideloadbypass2_4.11.1.ipa"
     },
     {
+      "name": "Riverside",
+      "bundleIdentifier": "RVS-Riverside.fm",
+      "developerName": "riverside.fm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/95/f9/b495f95b-2b44-abcb-b5f0-d2d0a1110dea/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRiverside Podcast Video Studio\n\nTweak: Premium Unlocked\n\nVersion: 4.10.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: RVS-Riverside.fm\nDeveloper: riverside.fm",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
+      ],
+      "versions": [
+        {
+          "version": "4.10.0",
+          "date": "2026-03-11",
+          "size": 206389500,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/RVS-Riverside.fm_Sideloadbypass2_4.10.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.10.0",
+      "versionDate": "2026-03-11T18:56:43.996Z",
+      "size": 206389500,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/RVS-Riverside.fm_Sideloadbypass2_4.10.0.ipa"
+    },
+    {
       "name": "BimmerLink",
       "bundleIdentifier": "com.stephangauch.BimmerDash",
       "developerName": "SG Software GmbH & Co. KG",
@@ -14227,6 +14281,66 @@
       "versionDate": "2026-03-11T08:04:36.841Z",
       "size": 182111972,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.vitalii.mind_Mindllama_2.5.6.ipa"
+    },
+    {
+      "name": "OnTheWay",
+      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
+      "developerName": "Piotr Knapczyk",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/e2/28/4fe22874-cf48-d46f-7515-0d936faa9168/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nWeather on the Way\n\nTweak: Pro Unlocked\n\nVersion: 2.5.1\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: ideastudio.Weather-on-the-Way\nDeveloper: Piotr Knapczyk",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fb/48/2ffb4821-b956-c6e2-566d-89c7b377a40a/808e6ca1-4819-43af-ac14-791117fa7c4d_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/79/149579a5-c05e-895a-2c8d-4419cc541044/046845d0-1aa4-4068-9b2b-af3d2be2de61_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c5/31/28c53108-fb6a-7cc8-4fdb-846ebed74049/67716423-30ba-4f05-a936-085c95d1e180_2_small.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b5/95/53b595bf-9ba1-cca2-be5c-969203e3c515/dd710f28-d4e3-42b6-9192-08a98f48e42c_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/3f/48/1e3f48e4-1506-1239-d98a-eca1ef4bcb12/a9885f79-8525-498a-bc7b-cb356ad0588e_5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/e8/aa1be85a-5484-ffda-698c-e47594d8afb2/1b5f2626-8222-424c-94cb-39a39b5bfe2b_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/6e/5a/a16e5a9d-535a-e3ab-387f-ac9e12472af6/88e5a55c-52d3-4597-964d-5765b5b07633_5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c2/01/79c2019f-3016-d5a0-bb31-9928f91a4800/73a3af20-5e27-49ae-89b1-6b7cd618d751_6.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/40/d6/1840d633-626c-93ae-bb0f-0ae1b53c65f7/497699c5-6237-4015-ba65-088facaa5fb5_8_small.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fb/48/2ffb4821-b956-c6e2-566d-89c7b377a40a/808e6ca1-4819-43af-ac14-791117fa7c4d_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/79/149579a5-c05e-895a-2c8d-4419cc541044/046845d0-1aa4-4068-9b2b-af3d2be2de61_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c5/31/28c53108-fb6a-7cc8-4fdb-846ebed74049/67716423-30ba-4f05-a936-085c95d1e180_2_small.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b5/95/53b595bf-9ba1-cca2-be5c-969203e3c515/dd710f28-d4e3-42b6-9192-08a98f48e42c_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/3f/48/1e3f48e4-1506-1239-d98a-eca1ef4bcb12/a9885f79-8525-498a-bc7b-cb356ad0588e_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/e8/aa1be85a-5484-ffda-698c-e47594d8afb2/1b5f2626-8222-424c-94cb-39a39b5bfe2b_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/6e/5a/a16e5a9d-535a-e3ab-387f-ac9e12472af6/88e5a55c-52d3-4597-964d-5765b5b07633_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c2/01/79c2019f-3016-d5a0-bb31-9928f91a4800/73a3af20-5e27-49ae-89b1-6b7cd618d751_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/40/d6/1840d633-626c-93ae-bb0f-0ae1b53c65f7/497699c5-6237-4015-ba65-088facaa5fb5_8_small.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "2.5.1",
+          "date": "2026-03-11",
+          "size": 44121566,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ideastudio.Weather-on-the-Way_Sideloadbypass2_2.5.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.5.1",
+      "versionDate": "2026-03-11T18:26:38.032Z",
+      "size": 44121566,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ideastudio.Weather-on-the-Way_Sideloadbypass2_2.5.1.ipa"
     },
     {
       "name": "AniLiberty",
