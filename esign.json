@@ -3,6 +3,64 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Riverside",
+      "version": "4.10.1",
+      "versionDate": "2026-03-12",
+      "size": 207646730,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/RVS-Riverside.fm_Sideloadbypass2_4.10.1.ipa",
+      "developerName": "riverside.fm",
+      "bundleIdentifier": "RVS-Riverside.fm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/95/f9/b495f95b-2b44-abcb-b5f0-d2d0a1110dea/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRiverside Podcast Video Studio\n\nTweak: Premium Unlocked\n\nVersion: 4.10.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: RVS-Riverside.fm\nDeveloper: riverside.fm",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "12min",
+      "version": "2.8.26",
+      "versionDate": "2026-03-12",
+      "size": 39948407,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.br.12min.mobile_Sideloadbypass2_2.8.26.ipa",
+      "developerName": "12 MIN SERVICOS DIGITAIS E NEGOCIOS LTDA",
+      "bundleIdentifier": "com.br.12min.mobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/ef/f0/6aeff072-a205-4944-0abd-136cd13dcf64/liquid_glass_icon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\n12min: Book Summaries & Ideas\n\nTweak: Premium Unlocked\n\nVersion: 2.8.26\n\nNotes: - downloading doesn't work\n- fast forwarding is buggy (nothing i can do about it)\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.br.12min.mobile\nDeveloper: 12 MIN SERVICOS DIGITAIS E NEGOCIOS LTDA",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/64/ad/af64adff-f35f-e5d9-30fe-58af7a3928ff/EN-iPad-1__U00281_U0029.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/03/a7/7603a794-ca34-b38c-6625-28e9cadee1e3/EN-iPad-2__U00281_U0029.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/17/b3/ec17b398-c983-9856-c529-ded8c451030c/EN-iPad-3__U00281_U0029.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/4e/0f/3a4e0f17-ed55-debd-6c4f-7aed60aade04/EN-iPad-4__U00281_U0029.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Gronda",
+      "version": "8.10.3",
+      "versionDate": "2026-03-12",
+      "size": 44792564,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/gronda.gmbh_Sideloadbypass2_8.10.3.ipa",
+      "developerName": "Gronda GmbH",
+      "bundleIdentifier": "gronda.gmbh",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/26/63/9e2663f3-68aa-9402-02b0-ce930843dd9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGronda: Recipes for Chefs\n\nTweak: Pro Unlocked\n\nVersion: 8.10.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: gronda.gmbh\nDeveloper: Gronda GmbH",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/aa/cf/9aaacf87-9c8f-772d-2801-90578345e00f/21f8d4c0-8a4b-49f8-83c6-5466089a9777_5.5__EN-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/6c/02/fb6c02b3-8f9a-317f-cc5b-7a000a889944/91093a42-348a-460c-a6e2-a0f4c7c01e39_5.5__EN-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/97/80/4c9780f5-18ef-3569-1a56-0d8c8722bbed/55876f61-a0ac-4ef0-b2c1-d5d8fe2bf9ff_5.5__EN-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/cc/1b/67cc1b6a-3bd9-2fde-facb-c6df0a6052dc/a624c41b-be00-4e2c-a2df-1421b357b997_5.5__EN-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/f5/a3/01f5a345-4158-c858-76bc-c12a974fa444/6d7dd5dc-e1f8-43da-b4f0-914cddbc54e5_5.5__EN-5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/30/75/df3075c8-50d8-fb25-2b97-0b3ed47ee00a/95a917b4-f0f2-443c-8962-0f30a5df179c_5.5__EN-6.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "NotePlan",
       "version": "3.20.2",
       "versionDate": "2026-03-12",
@@ -3873,26 +3931,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Riverside",
-      "version": "4.10.0",
-      "versionDate": "2026-03-11",
-      "size": 206389500,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/RVS-Riverside.fm_Sideloadbypass2_4.10.0.ipa",
-      "developerName": "riverside.fm",
-      "bundleIdentifier": "RVS-Riverside.fm",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/95/f9/b495f95b-2b44-abcb-b5f0-d2d0a1110dea/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nRiverside Podcast Video Studio\n\nTweak: Premium Unlocked\n\nVersion: 4.10.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: RVS-Riverside.fm\nDeveloper: riverside.fm",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Adobe Express",
       "version": "29.8.1",
       "versionDate": "2026-03-11",
@@ -4205,26 +4243,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/57/91/01579153-0352-da21-58a7-d65e96eba1cf/ccbc6f0f-5df6-4c18-9c95-ca49e8def2ca_5.5_U002806_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/98/a3/f098a3bc-2e9b-5d23-27d5-6e90e39a2d78/bf6d6f9b-0b01-482e-8fa0-fa0bfe570641_5.5_U002808_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/bb/6d/c3bb6df3-f71c-304c-9f62-0d6a672a32c4/faeda2dd-2c74-4198-a2ee-d84d40d53fb4_5.5_U002807_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Gronda",
-      "version": "8.10.2",
-      "versionDate": "2026-03-11",
-      "size": 44795486,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/gronda.gmbh_Sideloadbypass2_8.10.2.ipa",
-      "developerName": "Gronda GmbH",
-      "bundleIdentifier": "gronda.gmbh",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/26/63/9e2663f3-68aa-9402-02b0-ce930843dd9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nGronda: Recipes for Chefs\n\nTweak: Pro Unlocked\n\nVersion: 8.10.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: gronda.gmbh\nDeveloper: Gronda GmbH",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/aa/cf/9aaacf87-9c8f-772d-2801-90578345e00f/21f8d4c0-8a4b-49f8-83c6-5466089a9777_5.5__EN-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/6c/02/fb6c02b3-8f9a-317f-cc5b-7a000a889944/91093a42-348a-460c-a6e2-a0f4c7c01e39_5.5__EN-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/97/80/4c9780f5-18ef-3569-1a56-0d8c8722bbed/55876f61-a0ac-4ef0-b2c1-d5d8fe2bf9ff_5.5__EN-4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/cc/1b/67cc1b6a-3bd9-2fde-facb-c6df0a6052dc/a624c41b-be00-4e2c-a2df-1421b357b997_5.5__EN-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/f5/a3/01f5a345-4158-c858-76bc-c12a974fa444/6d7dd5dc-e1f8-43da-b4f0-914cddbc54e5_5.5__EN-5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/30/75/df3075c8-50d8-fb25-2b97-0b3ed47ee00a/95a917b4-f0f2-443c-8962-0f30a5df179c_5.5__EN-6.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
