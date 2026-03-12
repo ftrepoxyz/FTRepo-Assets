@@ -14181,6 +14181,92 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.agent.super.extension.safari_SuperAgentForSafariPatch_3.48.0.ipa"
     },
     {
+      "name": "simple-weather",
+      "bundleIdentifier": "com.andyworks.weather",
+      "developerName": "Not Boring Software LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/88/9f/7e889ff1-1e9a-db7a-1b36-90087e8e954d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\n(Not Boring) Weather\n\n• Bundle ID: com.andyworks.weather\n• Updated to: 3.46\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/82/e0/4582e03a-3abb-29b3-09db-03b22ee2b464/331bbcb8-fbae-482d-88b2-878a4f823c53_weather-iphoneB-1.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/9e/74/4a9e74f2-a620-7ca4-ce2d-81a7cdfe6abc/81964e46-2d92-4644-96ce-d3a864bb5d58_weather-iphoneB-2.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/bf/db/cabfdb2e-9cf5-bb98-e26e-154184410a1e/b3638168-cb21-475b-b123-4162c0e4ebbf_weather-iphoneB-3.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/92/81/bc928141-2e41-dc2d-8a3f-7b697a6e2859/fa6d8b5e-5729-4829-98fb-99b540bb6f5c_weather-iphoneB-4.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/55/06/f85506db-d6a8-ef9c-48b0-6ef01fbcf8e0/d2f825d8-6ad6-47fe-a991-20568ed51554_weather-iphoneB-5.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/99/23/3e992399-5aa4-5878-d092-2b18101238c1/bcd4dd21-d6b1-430a-bf04-bc4040d7a4c9_weather-iphoneB-6.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/30/a6/e730a641-c96f-28b1-6606-8d04081d76e1/813f4bf8-b25f-4296-9042-2446d82f960b_weather-iphoneB-7.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/61/97/37619713-05ae-f7a1-6870-8e2ff56cde88/e5c7abc1-8200-4b00-9e71-c1db97d75fdc_weather-iphoneB-8.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/94/22/de94222b-b8bf-a0f0-b356-b805d8bed04f/0b38b1e4-7e0c-407c-a19f-9709d076c745_weather-ipad3-1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/34/fa/a934fa88-36cc-af16-a2dd-69a729e84c0a/a7bd9c80-1f61-49ec-ad6e-598817b20434_weather-ipad3-2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e1/b5/2ee1b583-e54a-f77c-326f-08de0f66d225/b8518510-2766-4c9f-9414-30454628229e_weather-ipad3-4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/6f/3b/cb6f3b6a-d591-60e8-ec3e-90521e7b5f71/133a3f68-367e-45d1-8604-89561e9d95a1_weather-ipad3-3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/bb/57/50bb574d-924d-715c-1393-0cdbed8860c9/35123b11-ccb7-432f-8aa5-16df1447d8b0_weather-ipad3-5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/70/90/697090b9-9bf2-1a9b-fb3c-32512d9a6816/c076a60c-301f-4e84-a8b0-233d0c7933dd_shared-ipadpro.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/82/e0/4582e03a-3abb-29b3-09db-03b22ee2b464/331bbcb8-fbae-482d-88b2-878a4f823c53_weather-iphoneB-1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/9e/74/4a9e74f2-a620-7ca4-ce2d-81a7cdfe6abc/81964e46-2d92-4644-96ce-d3a864bb5d58_weather-iphoneB-2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/bf/db/cabfdb2e-9cf5-bb98-e26e-154184410a1e/b3638168-cb21-475b-b123-4162c0e4ebbf_weather-iphoneB-3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/92/81/bc928141-2e41-dc2d-8a3f-7b697a6e2859/fa6d8b5e-5729-4829-98fb-99b540bb6f5c_weather-iphoneB-4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/55/06/f85506db-d6a8-ef9c-48b0-6ef01fbcf8e0/d2f825d8-6ad6-47fe-a991-20568ed51554_weather-iphoneB-5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/99/23/3e992399-5aa4-5878-d092-2b18101238c1/bcd4dd21-d6b1-430a-bf04-bc4040d7a4c9_weather-iphoneB-6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/30/a6/e730a641-c96f-28b1-6606-8d04081d76e1/813f4bf8-b25f-4296-9042-2446d82f960b_weather-iphoneB-7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/61/97/37619713-05ae-f7a1-6870-8e2ff56cde88/e5c7abc1-8200-4b00-9e71-c1db97d75fdc_weather-iphoneB-8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/94/22/de94222b-b8bf-a0f0-b356-b805d8bed04f/0b38b1e4-7e0c-407c-a19f-9709d076c745_weather-ipad3-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/34/fa/a934fa88-36cc-af16-a2dd-69a729e84c0a/a7bd9c80-1f61-49ec-ad6e-598817b20434_weather-ipad3-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e1/b5/2ee1b583-e54a-f77c-326f-08de0f66d225/b8518510-2766-4c9f-9414-30454628229e_weather-ipad3-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/6f/3b/cb6f3b6a-d591-60e8-ec3e-90521e7b5f71/133a3f68-367e-45d1-8604-89561e9d95a1_weather-ipad3-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/bb/57/50bb574d-924d-715c-1393-0cdbed8860c9/35123b11-ccb7-432f-8aa5-16df1447d8b0_weather-ipad3-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/70/90/697090b9-9bf2-1a9b-fb3c-32512d9a6816/c076a60c-301f-4e84-a8b0-233d0c7933dd_shared-ipadpro.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.46",
+          "date": "2026-03-12",
+          "size": 199840684,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.andyworks.weather_NotBoringCrack_3.46.ipa"
+        },
+        {
+          "version": "3.45",
+          "date": "2026-03-11",
+          "size": 199816536,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.andyworks.weather_NotBoringCrack_3.45.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.46",
+      "versionDate": "2026-03-12T17:00:26.957Z",
+      "size": 199840684,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.andyworks.weather_NotBoringCrack_3.46.ipa"
+    },
+    {
       "name": "Tiimo",
       "bundleIdentifier": "com.tiimo.app",
       "developerName": "tiimo",
@@ -14271,86 +14357,6 @@
       "versionDate": "2026-03-11T13:21:38.476Z",
       "size": 93183394,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.tiimo.app_Sideloadbypass2_3.45.1.ipa"
-    },
-    {
-      "name": "simple-weather",
-      "bundleIdentifier": "com.andyworks.weather",
-      "developerName": "Not Boring Software LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/88/9f/7e889ff1-1e9a-db7a-1b36-90087e8e954d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\n(Not Boring) Weather\n\n• Bundle ID: com.andyworks.weather\n• Updated to: 3.45\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/82/e0/4582e03a-3abb-29b3-09db-03b22ee2b464/331bbcb8-fbae-482d-88b2-878a4f823c53_weather-iphoneB-1.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/9e/74/4a9e74f2-a620-7ca4-ce2d-81a7cdfe6abc/81964e46-2d92-4644-96ce-d3a864bb5d58_weather-iphoneB-2.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/bf/db/cabfdb2e-9cf5-bb98-e26e-154184410a1e/b3638168-cb21-475b-b123-4162c0e4ebbf_weather-iphoneB-3.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/92/81/bc928141-2e41-dc2d-8a3f-7b697a6e2859/fa6d8b5e-5729-4829-98fb-99b540bb6f5c_weather-iphoneB-4.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/55/06/f85506db-d6a8-ef9c-48b0-6ef01fbcf8e0/d2f825d8-6ad6-47fe-a991-20568ed51554_weather-iphoneB-5.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/99/23/3e992399-5aa4-5878-d092-2b18101238c1/bcd4dd21-d6b1-430a-bf04-bc4040d7a4c9_weather-iphoneB-6.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/30/a6/e730a641-c96f-28b1-6606-8d04081d76e1/813f4bf8-b25f-4296-9042-2446d82f960b_weather-iphoneB-7.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/61/97/37619713-05ae-f7a1-6870-8e2ff56cde88/e5c7abc1-8200-4b00-9e71-c1db97d75fdc_weather-iphoneB-8.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/94/22/de94222b-b8bf-a0f0-b356-b805d8bed04f/0b38b1e4-7e0c-407c-a19f-9709d076c745_weather-ipad3-1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/34/fa/a934fa88-36cc-af16-a2dd-69a729e84c0a/a7bd9c80-1f61-49ec-ad6e-598817b20434_weather-ipad3-2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e1/b5/2ee1b583-e54a-f77c-326f-08de0f66d225/b8518510-2766-4c9f-9414-30454628229e_weather-ipad3-4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/6f/3b/cb6f3b6a-d591-60e8-ec3e-90521e7b5f71/133a3f68-367e-45d1-8604-89561e9d95a1_weather-ipad3-3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/bb/57/50bb574d-924d-715c-1393-0cdbed8860c9/35123b11-ccb7-432f-8aa5-16df1447d8b0_weather-ipad3-5.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/70/90/697090b9-9bf2-1a9b-fb3c-32512d9a6816/c076a60c-301f-4e84-a8b0-233d0c7933dd_shared-ipadpro.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/82/e0/4582e03a-3abb-29b3-09db-03b22ee2b464/331bbcb8-fbae-482d-88b2-878a4f823c53_weather-iphoneB-1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/9e/74/4a9e74f2-a620-7ca4-ce2d-81a7cdfe6abc/81964e46-2d92-4644-96ce-d3a864bb5d58_weather-iphoneB-2.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/bf/db/cabfdb2e-9cf5-bb98-e26e-154184410a1e/b3638168-cb21-475b-b123-4162c0e4ebbf_weather-iphoneB-3.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/92/81/bc928141-2e41-dc2d-8a3f-7b697a6e2859/fa6d8b5e-5729-4829-98fb-99b540bb6f5c_weather-iphoneB-4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/55/06/f85506db-d6a8-ef9c-48b0-6ef01fbcf8e0/d2f825d8-6ad6-47fe-a991-20568ed51554_weather-iphoneB-5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/99/23/3e992399-5aa4-5878-d092-2b18101238c1/bcd4dd21-d6b1-430a-bf04-bc4040d7a4c9_weather-iphoneB-6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/30/a6/e730a641-c96f-28b1-6606-8d04081d76e1/813f4bf8-b25f-4296-9042-2446d82f960b_weather-iphoneB-7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/61/97/37619713-05ae-f7a1-6870-8e2ff56cde88/e5c7abc1-8200-4b00-9e71-c1db97d75fdc_weather-iphoneB-8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/94/22/de94222b-b8bf-a0f0-b356-b805d8bed04f/0b38b1e4-7e0c-407c-a19f-9709d076c745_weather-ipad3-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/34/fa/a934fa88-36cc-af16-a2dd-69a729e84c0a/a7bd9c80-1f61-49ec-ad6e-598817b20434_weather-ipad3-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e1/b5/2ee1b583-e54a-f77c-326f-08de0f66d225/b8518510-2766-4c9f-9414-30454628229e_weather-ipad3-4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/6f/3b/cb6f3b6a-d591-60e8-ec3e-90521e7b5f71/133a3f68-367e-45d1-8604-89561e9d95a1_weather-ipad3-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/bb/57/50bb574d-924d-715c-1393-0cdbed8860c9/35123b11-ccb7-432f-8aa5-16df1447d8b0_weather-ipad3-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/70/90/697090b9-9bf2-1a9b-fb3c-32512d9a6816/c076a60c-301f-4e84-a8b0-233d0c7933dd_shared-ipadpro.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "3.45",
-          "date": "2026-03-11",
-          "size": 199816536,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.andyworks.weather_NotBoringCrack_3.45.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.45",
-      "versionDate": "2026-03-11T08:12:52.047Z",
-      "size": 199816536,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.andyworks.weather_NotBoringCrack_3.45.ipa"
     },
     {
       "name": "Wallcraft",
