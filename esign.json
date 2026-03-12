@@ -3,6 +3,38 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Crossword Master",
+      "version": "1.15.0",
+      "versionDate": "2026-03-12",
+      "size": 79179818,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.easybrain.crossword.puzzles_Sideloadbypass2_1.15.0.ipa",
+      "developerName": "Easybrain Ltd",
+      "bundleIdentifier": "com.easybrain.crossword.puzzles",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/13/79/a313791a-e533-5b82-a062-2f2f2222642c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCrossword Master - Word Puzzle\n\nTweak: Free IAP\n\nVersion: 1.15.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.easybrain.crossword.puzzles\nDeveloper: Easybrain Ltd",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/4a/7e/134a7ead-b312-a99d-08bd-285d5b334e5a/iPhone14ProMax_English__U0028U.S._U0029_01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/e3/00/d4e3001c-d849-538b-5490-b6cc4ce9d562/iPhone14ProMax_English__U0028U.S._U0029_01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/30/f7/c230f7e6-ef60-9a05-4fd9-ab047795597a/iPhone14ProMax_English__U0028U.S._U0029_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/bf/b7/97bfb7f5-86d2-dd5d-229d-eefcacd638cb/iPhone14ProMax_English__U0028U.S._U0029_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/8c/fd/0e8cfdbe-3622-0f6b-95ce-0b5d58db9c87/iPhone14ProMax_English__U0028U.S._U0029_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/c8/02/81c8021f-f210-087e-eb96-ba09899f0de1/iPhone14ProMax_English__U0028U.S._U0029_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/31/12/fc311251-f45e-357a-e8b4-ea050fbb9042/iPhone14ProMax_English__U0028U.S._U0029_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/56/d3/3756d36c-399c-8a83-865b-961e6c76de68/iPhone14ProMax_English__U0028U.S._U0029_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/24/13/512413a2-faff-026f-295c-5cdea69dc7d9/iPhone14ProMax_English__U0028U.S._U0029_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/55/98/b455981a-6952-17d7-ebe3-cf9fcd6e29f3/ipadPro129_English__U0028U.S._U0029_01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/8b/ed/728bed77-7c4d-639c-ba0f-908c4e7d4bcb/IPAD_PRO_3GEN_129_English__U0028U.S._U0029_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/98/14/af98143c-f5a0-da62-b913-14cb0545a65e/IPAD_PRO_3GEN_129_English__U0028U.S._U0029_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/f8/45/5cf845de-24b8-d56e-3112-bdb57f67feb2/IPAD_PRO_3GEN_129_English__U0028U.S._U0029_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/b0/33/a4b0334b-b4c2-fe30-35e5-c10c8cb11d5b/IPAD_PRO_3GEN_129_English__U0028U.S._U0029_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/60/c1/e060c128-11c3-1514-7516-f1e3b1e7ac6c/IPAD_PRO_3GEN_129_English__U0028U.S._U0029_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/65/2d/b5652d9c-0686-7565-ece5-3fdd84e7fc74/IPAD_PRO_3GEN_129_English__U0028U.S._U0029_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/ce/55/e1ce5542-5e7a-d435-51bd-cb2e57e82d38/IPAD_PRO_3GEN_129_English__U0028U.S._U0029_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/4a/83/ee4a8335-ff48-15ad-e272-d73691b776ef/IPAD_PRO_3GEN_129_English__U0028U.S._U0029_08.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Spotify (EeveeSpotify)",
       "version": "9.1.28",
       "versionDate": "2026-03-12",
