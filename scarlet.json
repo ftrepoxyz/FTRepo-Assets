@@ -5,6 +5,32 @@
   },
   "data": [
     {
+      "name": "Aloha",
+      "version": "8.2.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.alohabrowser.alohabrowser_AlohaBrowser_8.2.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.alohabrowser.alohabrowser",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/78/16/897816ce-1be2-1ab8-46e6-4e5f57df442f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nAloha Browser - Private VPN\n\n• Bundle ID: com.alohabrowser.alohabrowser\n• Updated to: 8.2.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin to activate subscription\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Aloha Mobile",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/6c/04/336c0416-7441-8364-82b9-21f329a06a8d/03dc8695-4402-41e5-8257-0fa4feefcb9e_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/c6/c8/a5c6c8d9-cf16-199d-59bb-cf3b363ead33/52ccf9c1-82c7-4b72-ae37-6a99d47a2167_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/a0/1c/bea01ca5-3f3b-184a-a987-6a5b522ebd54/c4c760c3-b55c-4b81-8097-897e06acd67f_5.5-inch-4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/41/7f/65417f4e-e317-2bcd-462e-b754363f25ab/02a440e5-c04e-4de5-9508-aea5e0f4d339_5.5-inch-3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/41/d7/0b41d70f-5937-9df3-5ae3-97411f9eb21a/b92b7e88-0d6c-440d-a1e3-d455434b366a_5.5-inch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/4d/db/ec4ddbfc-aa57-846f-1928-75704b1fb54a/329d2add-f1a3-4e7b-9f78-1593adaa5b83_5.5-inch-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/23/7c/ca237ce6-09e9-00d0-6659-0accf3ece1f5/2f0048e5-e39a-43d7-a908-d2c6c4288477_5.5-inch-2.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "SimplyDraw",
       "version": "1.6.15",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.joytunes.Draw_SimplyCrack_1.6.15.ipa",
