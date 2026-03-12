@@ -3559,7 +3559,7 @@
       "bundleIdentifier": "com.campmobile.snow",
       "developerName": "SNOW Corporation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/99/9f/f2999f50-1ed7-27a5-2a63-b6a8ca8cacac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSNOW - AI Profile\n\n• Bundle ID: com.campmobile.snow\n• Updated to: 15.0.8\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nSNOW - AI Profile\n\n• Bundle ID: com.campmobile.snow\n• Updated to: 15.0.9\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/68/81/ae68816d-e6b2-a43e-8dce-73b94290bba3/AI_U1111_U1173_U1105_U1169_U1111_U1175_U11af2_EN__U00281_U0029.png/1320x2868bb.png"
@@ -3594,6 +3594,12 @@
       ],
       "versions": [
         {
+          "version": "15.0.9",
+          "date": "2026-03-12",
+          "size": 146878080,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.campmobile.snow_SNOW_15.0.9.ipa"
+        },
+        {
           "version": "15.0.8",
           "date": "2026-03-11",
           "size": 147289105,
@@ -3601,10 +3607,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "15.0.8",
-      "versionDate": "2026-03-11T10:54:50.930Z",
-      "size": 147289105,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.campmobile.snow_SNOW_15.0.8.ipa"
+      "version": "15.0.9",
+      "versionDate": "2026-03-12T01:56:44.878Z",
+      "size": 146878080,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.campmobile.snow_SNOW_15.0.9.ipa"
     },
     {
       "name": "Video Star",
@@ -16003,22 +16009,22 @@
       "bundleIdentifier": "com.elevateapp.kamino.kamino",
       "developerName": "The Mind Company",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c4/83/7bc48322-4493-b578-2616-d6a911dc18b8/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBalance: Meditation & Sleep\n\nTweak: Subscription Unlocked\n\nVersion: 1.198.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.kamino.kamino\nDeveloper: The Mind Company",
+      "localizedDescription": "from @blatants |\n----------------\nBalance: Meditation & Sleep\n\n• Bundle ID: com.elevateapp.kamino.kamino\n• Updated to: 1.198.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSubscription Unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
         {
           "version": "1.198.0",
           "date": "2026-03-12",
-          "size": 113523773,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.elevateapp.kamino.kamino_Sideloadbypass2_1.198.0.ipa"
+          "size": 118500670,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.elevateapp.kamino.kamino_AutoRcSideload_1.198.0.ipa"
         }
       ],
       "appPermissions": {},
       "version": "1.198.0",
-      "versionDate": "2026-03-12T00:56:41.112Z",
-      "size": 113523773,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.elevateapp.kamino.kamino_Sideloadbypass2_1.198.0.ipa"
+      "versionDate": "2026-03-12T01:26:40.910Z",
+      "size": 118500670,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.elevateapp.kamino.kamino_AutoRcSideload_1.198.0.ipa"
     },
     {
       "name": "Lyfta",
