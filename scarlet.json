@@ -5,6 +5,64 @@
   },
   "data": [
     {
+      "name": "HiiKER",
+      "version": "26.2.13",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.hiiker.hiiker_Sideloadbypass2_26.2.13.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.hiiker.hiiker",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/a5/df/cfa5dfbf-df3f-6d14-1cb9-1d514e48b48c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nHiiKER: The Hiking Maps App\n\nTweak: Premium Unlocked\n\nVersion: 26.2.13\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.hiiker.hiiker\nDeveloper: Waymarked Trails LTD",
+      "developer": "Waymarked Trails LTD",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d1/f0/b9d1f09a-a1e3-6f9a-1e2b-04776138af7b/4fd42d7f-8457-45ed-bd48-ae7df5b7928a_6.5_U201d_1242_x_2688_-_166__U00281_U0029.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/72/88/9d7288a2-cf02-02a0-86aa-b8710447d8e9/d63f82fb-ed09-4e11-98b0-9d3a3e30fe43_5.5_U201d_1242_x_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/a7/80/d2a780a5-b483-912b-7532-a63c205fa08a/f68ead35-02f3-4a1c-bba3-e7bf27afd28f_6.5_U201d_1242_x_2688_-_193.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/5d/1a/fb5d1a07-e4a6-8579-6f07-2b09a9d1fc69/ce418863-3af1-4f86-9b7a-da1650dd7cef_6.5_U201d_1242_x_2688_-_161.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/f7/b8/eef7b8f8-1640-875c-025d-a8cc4241ced1/61438821-a55b-42cb-8d83-14f20920f1ba_6.5_U201d_1242_x_2688_-_153.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/7f/c5/b17fc558-e9e2-ab37-e5ec-a3cbf2f7c706/2b6867cf-25ee-4cd1-9670-91bc474af846_6.5_U201d_1242_x_2688_-_160.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/a9/09/e1a9097b-1b0c-151e-723f-bb68b0d6dca0/39faf8a6-e011-4b00-ad04-fdf85aab45ba_6.5_U201d_1242_x_2688_-_162.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/f1/22/18f12292-d2c2-17c5-bab6-d20ad8eb6b1e/65084906-7492-4bfe-a8de-05e04afa81fa_6.5_U201d_1242_x_2688_-_165.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/7c/da/c97cda43-8c03-a43e-febf-f59d11877cc4/5ecd7d69-5c28-4a9c-b1b3-51f592443448_6.5_U201d_1242_x_2688_-_164.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/72/f0/9372f022-cc8b-8a78-67b2-f55a86f397ff/b81730cb-951f-4201-800b-140c32e0360b_6.5_U201d_1242_x_2688_-_163.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Hevy",
+      "version": "3.0.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.hevyapp.hevy_Hevy_3.0.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.hevyapp.hevy",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ef/b1/e8efb15c-622c-44c7-f7b2-1afd9dbe920d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nHevy - Workout Tracker Gym Log\n\n• Bundle ID: com.hevyapp.hevy\n• Updated to: 3.0.2\n• Minimum iOS: 14.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n> Can't create unlimited routines.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Hevy Studios S.L.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/28/f5/b328f516-2a16-ed23-f8de-209228fdc967/15d44ec2-d98c-4504-960c-21f2b11a84c6_screenshot2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/7f/67/a97f6709-b9da-4012-5e3d-41dbd922e047/bf8818d8-55ee-4f72-9d86-00dd2b5a18bd_screenshot3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/6f/04/e46f04e4-40de-e683-f6fd-8005f2d17c31/46a87f62-fda1-4604-a17a-7bf89cba6be4_screenshot4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/e7/6e/b1e76e03-89ae-8c61-bc5b-0658442db85c/795d6241-5593-4561-932a-2919412e3d94_screenshot5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d6/32/fdd632df-a12b-3f1f-f388-87fa30182117/c68c77a8-14bd-4e45-96eb-dd4311371543_screenshot6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/eb/db/32ebdb1d-9c1c-799d-be53-36587f8ee9a8/6aa699e7-9cc0-451b-adf8-dfaca2f74f7a_screenshot7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/a5/5016a531-d92d-2481-a2e9-c39e0e9ffa1c/2c3f8aad-31e6-4a57-91a4-03074f5f53a8_screenshot8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/ee/42/7fee426f-34e5-ca4a-62b5-fb7d7ee676d5/a11c7daf-a831-4772-9d97-a975d9345f6c_screenshot9.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Walnote",
       "version": "1.6",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.dhara.ytsummerize_Sideloadbypass2_1.6.ipa",
@@ -1150,35 +1208,6 @@
       "developer": "MyFitnessPal, Inc.",
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/d4/31/83d43152-24ab-a2cd-2830-d2b35c83b73d/Screen.png/1320x2868bb.webp"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Hevy",
-      "version": "3.0.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.hevyapp.hevy_Hevy_3.0.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.hevyapp.hevy",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ef/b1/e8efb15c-622c-44c7-f7b2-1afd9dbe920d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nHevy - Workout Tracker Gym Log\n\nPro features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 14.1\n\nAppStore link | Donate",
-      "developer": "Hevy Studios S.L.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/28/f5/b328f516-2a16-ed23-f8de-209228fdc967/15d44ec2-d98c-4504-960c-21f2b11a84c6_screenshot2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/7f/67/a97f6709-b9da-4012-5e3d-41dbd922e047/bf8818d8-55ee-4f72-9d86-00dd2b5a18bd_screenshot3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/6f/04/e46f04e4-40de-e683-f6fd-8005f2d17c31/46a87f62-fda1-4604-a17a-7bf89cba6be4_screenshot4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/e7/6e/b1e76e03-89ae-8c61-bc5b-0658442db85c/795d6241-5593-4561-932a-2919412e3d94_screenshot5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d6/32/fdd632df-a12b-3f1f-f388-87fa30182117/c68c77a8-14bd-4e45-96eb-dd4311371543_screenshot6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/eb/db/32ebdb1d-9c1c-799d-be53-36587f8ee9a8/6aa699e7-9cc0-451b-adf8-dfaca2f74f7a_screenshot7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/a5/5016a531-d92d-2481-a2e9-c39e0e9ffa1c/2c3f8aad-31e6-4a57-91a4-03074f5f53a8_screenshot8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/ee/42/7fee426f-34e5-ca4a-62b5-fb7d7ee676d5/a11c7daf-a831-4772-9d97-a975d9345f6c_screenshot9.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
