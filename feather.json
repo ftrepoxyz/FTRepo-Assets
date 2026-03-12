@@ -6923,7 +6923,7 @@
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/75/06/9d75065a-227e-c061-872a-595b8f1c53f1/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCamScanner - PDF Scanner App\n\n• Bundle ID: com.intsig.CamScannerLite\n• Updated to: 7.13.0\n• Minimum iOS: 13.0\n• Patched\n• Modifier: VIP Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Does NOT work on iOS 18 and 26.\n>Some features are server-sided and cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nCamScanner - PDF Scanner App\n\n• Bundle ID: com.intsig.CamScannerLite\n• Updated to: 7.13.1\n• Minimum iOS: 13.0\n• Patched\n• Modifier: VIP Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Does NOT work on iOS 18 and 26.\n>Some features are server-sided and cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/1320x2868bb.jpg"
@@ -6966,6 +6966,12 @@
       ],
       "versions": [
         {
+          "version": "7.13.1",
+          "date": "2026-03-12",
+          "size": 192675155,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.intsig.CamScannerLite_CamScanner_7.13.1.ipa"
+        },
+        {
           "version": "7.13.0",
           "date": "2026-03-11",
           "size": 192734264,
@@ -6973,10 +6979,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "7.13.0",
-      "versionDate": "2026-03-11T08:02:34.849Z",
-      "size": 192734264,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.intsig.CamScannerLite_CamScanner_7.13.0.ipa"
+      "version": "7.13.1",
+      "versionDate": "2026-03-12T04:26:54.932Z",
+      "size": 192675155,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.intsig.CamScannerLite_CamScanner_7.13.1.ipa"
     },
     {
       "name": "Crossy Road",
