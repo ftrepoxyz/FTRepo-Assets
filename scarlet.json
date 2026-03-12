@@ -5,13 +5,39 @@
   },
   "data": [
     {
+      "name": "SNOW",
+      "version": "15.0.9",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.campmobile.snow_SNOW_15.0.9.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.campmobile.snow",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/99/9f/f2999f50-1ed7-27a5-2a63-b6a8ca8cacac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nSNOW - AI Profile\n\n• Bundle ID: com.campmobile.snow\n• Updated to: 15.0.9\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "SNOW Corporation",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/68/81/ae68816d-e6b2-a43e-8dce-73b94290bba3/AI_U1111_U1173_U1105_U1169_U1111_U1175_U11af2_EN__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/16/c2/1816c2f6-09a0-f924-ed51-de41e8ba2bf9/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/73/86/a3738678-dc28-0512-f453-922701116004/_U1107_U116e_U1107_U116e_U11ab_U110c_U1175_U110b_U116e_U1100_U1162_EN__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/8a/5a/a78a5a02-ca3d-d6eb-e33a-78659905fb99/_U1112_U1166_U110b_U1165_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/25/fb/3a25fbc0-175d-1241-9298-728cd04d57d6/_U1100_U1169_U1112_U116a_U110c_U1175_U11af_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/20/b9/d220b9f3-7537-69f9-e173-616458dfd885/_U1111_U1175_U11af_U1110_U1165_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/2a/a7/432aa799-27fe-642c-c354-173c864edc63/_U1112_U116a_U110c_U1175_U11af_U1100_U1162_U1109_U1165_U11ab_EN.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Balance",
       "version": "1.198.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.elevateapp.kamino.kamino_Sideloadbypass2_1.198.0.ipa",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.elevateapp.kamino.kamino_AutoRcSideload_1.198.0.ipa",
       "category": "Tweaked",
       "bundleID": "com.elevateapp.kamino.kamino",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c4/83/7bc48322-4493-b578-2616-d6a911dc18b8/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nBalance: Meditation & Sleep\n\nTweak: Subscription Unlocked\n\nVersion: 1.198.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.kamino.kamino\nDeveloper: The Mind Company",
+      "description": "from @blatants |\n----------------\nBalance: Meditation & Sleep\n\n• Bundle ID: com.elevateapp.kamino.kamino\n• Updated to: 1.198.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSubscription Unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "The Mind Company",
       "screenshots": [],
       "accentColor": {
@@ -6523,32 +6549,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/c0/52/7dc052e1-f4c9-a581-c0f4-48d9cc8f731b/ipadPro129-6.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/91/34/4a913449-7735-cca1-188e-c2d1bfd851c3/ipadPro129-7.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/7e/87/397e8704-8ada-e7d3-9dcf-3f94c88ad42a/ipadPro129-8.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "SNOW",
-      "version": "15.0.8",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.campmobile.snow_SNOW_15.0.8.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.campmobile.snow",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/99/9f/f2999f50-1ed7-27a5-2a63-b6a8ca8cacac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nSNOW - AI Profile\n\n• Bundle ID: com.campmobile.snow\n• Updated to: 15.0.8\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "SNOW Corporation",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/68/81/ae68816d-e6b2-a43e-8dce-73b94290bba3/AI_U1111_U1173_U1105_U1169_U1111_U1175_U11af2_EN__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/16/c2/1816c2f6-09a0-f924-ed51-de41e8ba2bf9/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/73/86/a3738678-dc28-0512-f453-922701116004/_U1107_U116e_U1107_U116e_U11ab_U110c_U1175_U110b_U116e_U1100_U1162_EN__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/8a/5a/a78a5a02-ca3d-d6eb-e33a-78659905fb99/_U1112_U1166_U110b_U1165_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/25/fb/3a25fbc0-175d-1241-9298-728cd04d57d6/_U1100_U1169_U1112_U116a_U110c_U1175_U11af_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/20/b9/d220b9f3-7537-69f9-e173-616458dfd885/_U1111_U1175_U11af_U1110_U1165_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/2a/a7/432aa799-27fe-642c-c354-173c864edc63/_U1112_U116a_U110c_U1175_U11af_U1100_U1162_U1109_U1165_U11ab_EN.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
