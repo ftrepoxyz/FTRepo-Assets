@@ -3,6 +3,51 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Walnote",
+      "version": "1.6",
+      "versionDate": "2026-03-12",
+      "size": 12469739,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.dhara.ytsummerize_Sideloadbypass2_1.6.ipa",
+      "developerName": "Dhara Hingu",
+      "bundleIdentifier": "com.dhara.ytsummerize",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/74/fe/de74fe84-2a13-d43b-b29b-d55030948eac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nWalnote Ai Note Taker & Learn\n\nTweak: Subscription Unlocked\n\nVersion: 1.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16\nBundle ID: com.dhara.ytsummerize\nDeveloper: Dhara Hingu",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/8d/05/a98d0507-2e49-f1a9-14f0-0c4901d7aa3d/Ipad_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/fd/3f/a9fd3f95-cbe5-6a9a-92ec-eb88b94fdc5e/Ipad_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/6d/61/446d61a6-7c1f-17f1-526d-671d4df3561f/Ipad_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/b9/77/87b977fc-4af9-3755-0b4c-39d4e7e53a58/Ipad_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/05/46/3d054631-8576-a37e-eb64-8b2a5c5f4c2c/Ipad_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/5e/a5/895ea5b0-f56d-f858-a455-a6ee1e085b72/Ipad_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/80/ed/af80ed1d-0c09-eb53-2e46-f3d4eef0d717/Ipad_7.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "TuneIn Radio",
+      "version": "41.1.0",
+      "versionDate": "2026-03-12",
+      "size": 77812165,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.alexanderben.RadioIn_41.1.0.ipa",
+      "developerName": "TuneIn",
+      "bundleIdentifier": "com.alexanderben.RadioIn",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/c8/23/4dc8233d-2f32-c71d-a9b9-14c2f19638a5/AppIconPro-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTuneIn Radio: Music & Sports\n\npaid app\n\ndecrypted by user_hidden\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/cb/f1/e7cbf117-f838-6ff2-616e-323187c24745/9f60253b-b66a-4c27-8217-2f5b8b42d63e_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/83/b2/34/83b23438-1406-0402-2caf-e203442272d2/9629a109-18e7-4ab9-9f59-911919133024_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/7d/30/8a7d3099-6e0f-c5c8-515c-43083e1cbda3/de579710-7959-4f14-bc51-59d7b0f1829f_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/ab/c5/80abc5a4-4460-8c76-9d6a-f85a9dbc2e5a/8a638d4a-5f4d-4c1e-a263-262811ad51ed_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/ea/7b/ddea7b01-bfbc-dc08-0849-1d094d34b292/debae04f-471f-49b0-91bc-90672d75c71f_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/14/b9/f4/14b9f494-20e6-3adf-4fe9-a7507b6ba6c8/4d963756-98e9-4176-928e-a65a604843d5_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/d2/73/2ed27370-bbeb-65c4-5c75-1d8c3c1ec520/75f8f95f-94c6-4bb8-a06a-08b4f7e822eb_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/27/ea/4b27ea30-f2d3-59eb-c11c-d3bd40c0994e/16edb5fd-3c23-4abd-bac4-fa7cebf2f475_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/18/34/31183466-d25c-730d-da6a-441dcd8e1572/2764c07b-55f0-4556-9f13-e3f2c8d756d2_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3c/4c/0f/3c4c0f20-a270-7e7b-27da-2e8f4bb0c9e0/a06d94ba-c671-4cbf-97ea-8ac842f45453_10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "WordPal",
       "version": "4.6.19",
       "versionDate": "2026-03-12",
@@ -6787,30 +6832,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/04/10/8a04100a-1c97-4bfa-6651-5e711aa3e080/66222a32-f038-429b-b8ac-6810c633bab8_iPhone_5.5-2.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b3/b1/99b3b177-799b-de93-da15-7174e7ade48f/0cab03d9-b134-4590-a4ae-d3ef0f370336_iPhone_5.5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/26/f9/5f26f9fa-f8c2-2d76-a96b-8b7f979f513d/45584eac-a0a1-4a1d-aa08-9aca3ed88a70_iPhone_5.5-1.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "TuneIn Radio",
-      "version": "41.0.1",
-      "versionDate": "2026-03-11",
-      "size": 77774716,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.alexanderben.RadioIn_41.0.1.ipa",
-      "developerName": "TuneIn",
-      "bundleIdentifier": "com.alexanderben.RadioIn",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/c8/23/4dc8233d-2f32-c71d-a9b9-14c2f19638a5/AppIconPro-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTuneIn Radio: Music & Sports\n\npaid app\n\ndecrypted by user_hidden\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/cb/f1/e7cbf117-f838-6ff2-616e-323187c24745/9f60253b-b66a-4c27-8217-2f5b8b42d63e_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/83/b2/34/83b23438-1406-0402-2caf-e203442272d2/9629a109-18e7-4ab9-9f59-911919133024_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/7d/30/8a7d3099-6e0f-c5c8-515c-43083e1cbda3/de579710-7959-4f14-bc51-59d7b0f1829f_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/ab/c5/80abc5a4-4460-8c76-9d6a-f85a9dbc2e5a/8a638d4a-5f4d-4c1e-a263-262811ad51ed_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/ea/7b/ddea7b01-bfbc-dc08-0849-1d094d34b292/debae04f-471f-49b0-91bc-90672d75c71f_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/14/b9/f4/14b9f494-20e6-3adf-4fe9-a7507b6ba6c8/4d963756-98e9-4176-928e-a65a604843d5_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/d2/73/2ed27370-bbeb-65c4-5c75-1d8c3c1ec520/75f8f95f-94c6-4bb8-a06a-08b4f7e822eb_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/27/ea/4b27ea30-f2d3-59eb-c11c-d3bd40c0994e/16edb5fd-3c23-4abd-bac4-fa7cebf2f475_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/18/34/31183466-d25c-730d-da6a-441dcd8e1572/2764c07b-55f0-4556-9f13-e3f2c8d756d2_9.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3c/4c/0f/3c4c0f20-a270-7e7b-27da-2e8f4bb0c9e0/a06d94ba-c671-4cbf-97ea-8ac842f45453_10.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
