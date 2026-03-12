@@ -3,6 +3,29 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Race Master",
+      "version": "3.6.28",
+      "versionDate": "2026-03-12",
+      "size": 179542450,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.easygames.race_racemaster_3.6.28.ipa",
+      "developerName": "BERESNEV s.r.o.",
+      "bundleIdentifier": "com.easygames.race",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/80/a9/6e80a927-14e5-a882-2211-8c96e700a2dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRace Master 3D: Car Racing\n\nTweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked\n\nVersion: 3.6.28\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.easygames.race\nDeveloper: BERESNEV s.r.o.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/61/47/f6614761-46f4-eb8a-d2ac-efc5418b9c54/84d7683b-7c23-4885-881e-832fa764ecbc_8plus_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/a4/24/daa4249f-0a0a-58ec-5b5b-324058e58386/44023811-e8f9-469f-b735-40f0b46869e2_8plus_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/82/e5/9482e502-ddc1-e2ce-0ac4-ebfd6e6a9bd4/b558ca26-648b-451f-91f4-ca72cdce32d8_8plus_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/4f/14/e64f1464-4a7c-7f53-19b8-bc53476042c7/7b267fd7-ff69-4785-b9b1-19e0760c4b2d_8plus_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/6a/f1/8d6af1e0-8946-02b1-06e6-00f3bfe19cd1/b1ef20dd-45a4-4064-807b-ce991acb8e30_8plus_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/49/bd/9749bd73-12df-fd72-f686-07d5db95fbff/e1677513-1e2c-4cd3-9385-fe63aa171bc2_8plus_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/e9/1f/aae91fe5-3206-18c0-0ba8-71f2d28be7fd/6f27b6bb-c7dc-4c78-b536-2f6bb17aea1b_8plus_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/46/06/6b4606aa-c44c-c627-2a2f-54d17f7a6571/7e8b409a-f946-4245-8c11-584b14b60054_1242x2208bb__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bf/95/9abf95e1-886e-4cd6-3914-4f5a6c8c9aed/6280e918-8c08-4de9-9533-bb57b9b513a3_1242x2208bb__U00282_U0029.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Remember",
       "version": "5.21.1",
       "versionDate": "2026-03-12",
