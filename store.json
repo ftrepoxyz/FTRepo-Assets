@@ -9243,7 +9243,7 @@
       "bundleIdentifier": "com.365scores.365scroesapp",
       "developerName": "365Scores",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/c9/eb/d0c9eb1f-99a5-7215-6c06-4c35dfb0f1d0/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\n365Scores: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 6.4.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.365scores.365scroesapp\nDeveloper: 365Scores",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\n365Scores: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 6.4.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.365scores.365scroesapp\nDeveloper: 365Scores",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/e4/53/e8e4530b-7dde-307c-836e-55131a56ea1f/13_Ipad_1.png/1320x2868bb.jpg"
@@ -9282,6 +9282,12 @@
       ],
       "versions": [
         {
+          "version": "6.4.6",
+          "date": "2026-03-13",
+          "size": 67299596,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.365scores.365scroesapp_Sideloadbypass2_6.4.6.ipa"
+        },
+        {
           "version": "6.4.5",
           "date": "2026-03-11",
           "size": 66167014,
@@ -9289,10 +9295,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.4.5",
-      "versionDate": "2026-03-11T13:22:41.961Z",
-      "size": 66167014,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.365scores.365scroesapp_Sideloadbypass2_6.4.5.ipa"
+      "version": "6.4.6",
+      "versionDate": "2026-03-13T17:00:53.523Z",
+      "size": 67299596,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.365scores.365scroesapp_Sideloadbypass2_6.4.6.ipa"
     },
     {
       "name": "SnapEdit",
