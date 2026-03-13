@@ -3,6 +3,193 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "GREC",
+      "version": "4.7.6",
+      "versionDate": "2026-03-13",
+      "size": 26538889,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.igliverec.app_AutoRc_4.7.6.ipa",
+      "developerName": "Martynas Ramonas",
+      "bundleIdentifier": "com.igliverec.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/b9/fe/67b9fe77-375a-3133-4c8e-97cf77a94fa4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nGREC - Live Video Recorder\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Tarteel",
+      "version": "5.76.2",
+      "versionDate": "2026-03-13",
+      "size": 151229131,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.iqraapp.Iqra_TarteelPatch_5.76.2.ipa",
+      "developerName": "Tarteel Inc.",
+      "bundleIdentifier": "com.iqraapp.Iqra",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/e6/20/d0e6200e-a2fe-ebb4-32dc-a4b1ff8d5305/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTarteel ترتيل - Memorize Quran\n\nPremium features unlocked\n\nTweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "AllTrails",
+      "version": "26.3.20",
+      "versionDate": "2026-03-13",
+      "size": 93746684,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.alltrails.AllTrails_AllTrailsPatch_26.3.20.ipa",
+      "developerName": "AllTrails, Inc.",
+      "bundleIdentifier": "com.alltrails.AllTrails",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/b6/1d/8ab61d59-0ba2-216f-aa68-a8decff39c8f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAllTrails \n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Walli",
+      "version": "2.0.3",
+      "versionDate": "2026-03-13",
+      "size": 129196378,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.stanga.projectKu_WalliPro_2.0.3.ipa",
+      "developerName": "SMART MEDIA INTERNET MARKETING LTD",
+      "bundleIdentifier": "com.stanga.projectKu",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/65/28/02652852-5754-b4ed-8268-576a6508591a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWalli: Cool Wallpapers HD, 4K\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/1e/92/261e9241-93da-0e3c-4126-cf4b68438068/1ed9a2e0-4e55-4170-a871-f167269d9f36_IMG_3897_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/c1/9e/69c19ed1-666a-6382-4083-3d945f5fa2c8/2b943200-c9cc-475b-95fd-1eafd6015ee3_IMG_3892_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/09/33/e009333b-a70a-cb82-30fb-316e490bd29b/ed06a66b-c9ac-460d-b0a6-fc2e194aac4d_IMG_3891_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/84/9c/6d849c47-7383-4830-ce9b-80470baa3c88/3ecd60c8-f445-4fc4-bff8-f476ba84c1dc_IMG_3890_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/c2/51/45c25176-d6d6-1c38-52e8-866f6a24e6cc/34756dd8-f593-4356-ba71-149a03dcdef5_IMG_3927_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/85/70/ca8570a0-0eee-2297-ce72-667e14273731/edda9179-077d-4bc6-aeba-12ac73c783d1_IMG_3947_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/73/7b/a0737b61-1cc0-95ed-de2e-cfff42e79bdf/8903a41d-7a99-4ea3-959a-73c906dcd2e1_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-11_at_11.27.45.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/73/bb/ce73bb4f-18ce-bf93-3865-1f3f7110cf5b/468715da-9ea7-417a-b4a7-8fa092ec8111_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-11_at_11.25.56.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ca/8b/67ca8bf0-fd9a-b9e1-fd12-537463f38564/26f7cc67-12a4-4120-a607-0c2e76443dde_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-11_at_11.25.58.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/de/58/49de5897-2378-216a-aa71-08752426744b/876400d4-42e5-4a24-ab17-e11f81f47dc0_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-11_at_11.32.02.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Fitbod",
+      "version": "8.8.0",
+      "versionDate": "2026-03-13",
+      "size": 116968625,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.fitbod_Fitbod_8.8.0.ipa",
+      "developerName": "Fitbod Inc.",
+      "bundleIdentifier": "com.fitbod",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/58/d6/6758d6cd-12cd-1775-a2f6-b67d9bd9853b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFitbod Gym & Workout Planner\n\nElite features unlocked\n\nTweak made by ⏤͟͟͞͞Lãng Khách🇻🇳\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/e6/80/38e68092-c559-31b7-c00d-8da880beeaa9/41b79018-e13d-4d60-94bf-5c77bdb8d205_Page_1_5_SIZE.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/80/78/7a80787e-cbb6-5cf1-8c5e-366fa304efdd/Page_2_5_SIZE.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/e0/73/e8e07301-9c7d-540c-ba96-8d1e731ef9dd/Slice_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/e7/51/15e751b9-b873-e2b4-89de-b06f02797b26/Slice_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/2e/7f/3a2e7fb0-650d-c047-7504-f8f065d67293/Slice_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/1d/9a/fb1d9a30-3842-5acf-bdff-9d25316f193c/Slice_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/ae/07/46ae0793-028d-97f5-1293-56e1caac1dc5/Slice_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/1f/5f/ca1f5f3f-d13a-0af6-ea7e-3732678d0646/Slice_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/12/17/8a121722-d58a-6ac6-62e2-6c166cb13008/Slice_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/94/c2/9894c2ac-ae52-5d87-b829-4facf6f0e624/Slice_8.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "StepsApp",
+      "version": "8.7.0",
+      "versionDate": "2026-03-13",
+      "size": 194420997,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.gunthermarktl.stepapp_AutoRc_8.7.0.ipa",
+      "developerName": "StepsApp GmbH",
+      "bundleIdentifier": "com.gunthermarktl.stepapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/a4/26/d5a426a8-4006-1357-d425-630547de6cf2/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nStepsApp Pedometer\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/c9/cd/7cc9cd2b-bcbc-522b-ba92-113ad2c7b496/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/f0/19/8ff019f2-30f8-9624-d487-2c63149d6bb2/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ac/e3/44ace331-f9ed-6665-2930-8016d679a7f4/7c337287-2418-4129-b3d1-7aa2b4e1ca2f_1_APP_IPHONE_55_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/9b/74/509b7417-f10d-0960-c8ec-59b055d9cf62/7f2c6ff9-cb33-46cc-abaf-434793b5cdd7_3_APP_IPHONE_55_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/8a/2a/058a2a51-5805-0019-438d-7c71e06a8a2a/520cb882-cb01-4c5f-acfa-c15589d2ab27_4_APP_IPHONE_55_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/43/79/884379d9-dd0d-2b0c-aa10-d438abb3d0e6/dd0bf4a3-9ffd-4ee9-b42b-fd4c3795e2e5_5_APP_IPHONE_55_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/0c/1d/0a0c1d7a-79b3-d8c2-f128-655cb632bb0a/7a2b4e18-b8ca-483e-9b82-5cb85ffcce56_6_APP_IPHONE_55_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/be/ff/1dbeff81-1f9a-ffd5-574e-636c3175d9a5/9270fb97-c2a0-4c89-bd9c-03af0ff8a76e_7_APP_IPHONE_55_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/39/85/ec398550-e400-14f3-a966-db1afd9e8076/8cfcf2fa-0581-43b4-9126-25e94d7c2ae4_8_APP_IPHONE_55_8.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Uplens",
+      "version": "3.4.11",
+      "versionDate": "2026-03-13",
+      "size": 176887322,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/app.uplens_uplens_3.4.11.ipa",
+      "developerName": "MPGames",
+      "bundleIdentifier": "app.uplens",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/af/13f1affa-cf26-3e4c-cdbf-08789fe8ef43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUplens: Photo & Video Editor\n\nPro features unlocked\n\nNote: Click Restore Purchases\n\nTweak made by Zzz Zzz\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b761d1-4520-bb1f-6f9c-2a33cf99be0d/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/28/a5/bf28a59a-a008-cdac-ab71-c7524b09f019/fb3be5a6-4f05-40fd-b202-8f672503eab0_3-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ef/74/e7ef743b-6b1a-4655-934b-dcd188dd82c4/912accdc-d02d-42fc-9ca2-dd1c42202b39_4-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/af/9a/81af9a34-d92d-293f-c4c1-10e5a4d080fc/d1322cb8-ae03-427f-a3c0-a35d50619bca_5-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/08/d4/cd08d444-b47d-6ae2-10a4-94721adf0f9a/18a65433-b405-4d79-93f6-63a86d81c02c_6-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/f4/ff/32f4ffac-f03c-1378-c44e-5ab439c74b14/5de6ad60-b69d-46da-96c0-19c0d39a7386_7-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fe/b3/36feb3fa-21ef-370f-8943-525e7d1efc57/1018be1f-f9b9-4153-a6a9-5193a2f14411_8-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/97/7f/38977fee-266c-66c3-5839-157f94a87ae2/1082e6ed-cf5b-49d2-a774-68148aeb5519_9-5_U00275-en.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "VEED Captions",
+      "version": "8.7.0",
+      "versionDate": "2026-03-13",
+      "size": 136826837,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/io.veed.appstore_VEED_8.7.0.ipa",
+      "developerName": "VEED Ltd",
+      "bundleIdentifier": "io.veed.appstore",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fd/01/31fd011a-53d2-529d-6723-c0c010068156/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nVEED - Captions for videos\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Motobit",
+      "version": "1.0.63",
+      "versionDate": "2026-03-13",
+      "size": 38278352,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.getmotobit.motobit_RevenueCatFix26_1.0.63.ipa",
+      "developerName": "motobit GmbH",
+      "bundleIdentifier": "com.getmotobit.motobit",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ef/ce/c0efce32-48a0-7cf4-bffc-f8f268f5550b/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMotobit motorcycle navigation\n\nPremium features unlocked\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/76/7e/fb767e12-d959-3a5b-f97f-2b6e589e9fd1/b8b1fc36-3bb9-42db-a290-6f7042dc21a3_Portrait_1_2208_55inch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/d1/69/f9d169ca-bf40-d159-f624-239332dbb87f/539af20f-c30c-465e-9859-03665f1fe803_Portrait_2_2208_55inch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/36/e2/5636e250-e6da-197e-97e3-d42fefaf7bca/2291ee6a-b93b-4d1e-8bb2-84aaadfc7459_Portrait_3_2208_55inch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/ce/3d/52ce3d2b-eaec-2800-c5bc-4da13f1a42ff/448579f0-5b19-47fb-8d43-156fa0d01786_Portrait_4_2208_55inch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/de/7c/77de7cca-8e02-27fe-9981-592d31d85b73/221836b4-7b9b-4f81-8a8d-7f8a3ddf067d_Portrait_5_2208_55inch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/4e/1f/dd4e1fc8-93db-c7ae-47e2-ad217ddb9fe0/ea64ffce-f17a-42b1-a211-497e3613b233_Portrait_6_2208_55inch.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "SNOW",
+      "version": "15.0.9",
+      "versionDate": "2026-03-13",
+      "size": 140098113,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.campmobile.snow_SNOWPatch_15.0.9.ipa",
+      "developerName": "SNOW Corporation",
+      "bundleIdentifier": "com.campmobile.snow",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/99/9f/f2999f50-1ed7-27a5-2a63-b6a8ca8cacac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSNOW - AI Profile\n\nVIP features unlocked\n\nTweak made by Dell\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/68/81/ae68816d-e6b2-a43e-8dce-73b94290bba3/AI_U1111_U1173_U1105_U1169_U1111_U1175_U11af2_EN__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/16/c2/1816c2f6-09a0-f924-ed51-de41e8ba2bf9/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/73/86/a3738678-dc28-0512-f453-922701116004/_U1107_U116e_U1107_U116e_U11ab_U110c_U1175_U110b_U116e_U1100_U1162_EN__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/8a/5a/a78a5a02-ca3d-d6eb-e33a-78659905fb99/_U1112_U1166_U110b_U1165_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/25/fb/3a25fbc0-175d-1241-9298-728cd04d57d6/_U1100_U1169_U1112_U116a_U110c_U1175_U11af_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/20/b9/d220b9f3-7537-69f9-e173-616458dfd885/_U1111_U1175_U11af_U1110_U1165_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/2a/a7/432aa799-27fe-642c-c354-173c864edc63/_U1112_U116a_U110c_U1175_U11af_U1100_U1162_U1109_U1165_U11ab_EN.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "myTuner Radio",
       "version": "10.1",
       "versionDate": "2026-03-13",
@@ -1622,19 +1809,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Tarteel",
-      "version": "5.76.0",
-      "versionDate": "2026-03-11",
-      "size": 151135930,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.iqraapp.Iqra_TarteelPatch_5.76.0.ipa",
-      "developerName": "Tarteel Inc.",
-      "bundleIdentifier": "com.iqraapp.Iqra",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/9d/15/4e9d15db-76c0-7b78-4304-ff3d3a5d842b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTarteel ترتيل - Memorize Quran\n\nPremium features unlocked\n\nTweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Nerva",
       "version": "49.1",
       "versionDate": "2026-03-11",
@@ -2140,26 +2314,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Motobit",
-      "version": "1.0.62",
-      "versionDate": "2026-03-11",
-      "size": 38316710,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.getmotobit.motobit_RevenueCatFix26_1.0.62.ipa",
-      "developerName": "motobit GmbH",
-      "bundleIdentifier": "com.getmotobit.motobit",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ef/ce/c0efce32-48a0-7cf4-bffc-f8f268f5550b/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMotobit motorcycle navigation\n\nPremium features unlocked\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/76/7e/fb767e12-d959-3a5b-f97f-2b6e589e9fd1/b8b1fc36-3bb9-42db-a290-6f7042dc21a3_Portrait_1_2208_55inch.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/d1/69/f9d169ca-bf40-d159-f624-239332dbb87f/539af20f-c30c-465e-9859-03665f1fe803_Portrait_2_2208_55inch.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/36/e2/5636e250-e6da-197e-97e3-d42fefaf7bca/2291ee6a-b93b-4d1e-8bb2-84aaadfc7459_Portrait_3_2208_55inch.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/ce/3d/52ce3d2b-eaec-2800-c5bc-4da13f1a42ff/448579f0-5b19-47fb-8d43-156fa0d01786_Portrait_4_2208_55inch.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/de/7c/77de7cca-8e02-27fe-9981-592d31d85b73/221836b4-7b9b-4f81-8a8d-7f8a3ddf067d_Portrait_5_2208_55inch.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/4e/1f/dd4e1fc8-93db-c7ae-47e2-ad217ddb9fe0/ea64ffce-f17a-42b1-a211-497e3613b233_Portrait_6_2208_55inch.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "FLTR",
       "version": "4.21.0",
       "versionDate": "2026-03-12",
@@ -2250,19 +2404,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/48/0a/32480a35-89a1-dfe5-0e66-91d82580304e/7.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/70/db/cb70db39-1efc-f87b-0822-c3562c1ae9a5/9.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "AllTrails",
-      "version": "26.3.10",
-      "versionDate": "2026-03-11",
-      "size": 93093471,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.alltrails.AllTrails_AllTrailsPatch_26.3.10.ipa",
-      "developerName": "AllTrails, Inc.",
-      "bundleIdentifier": "com.alltrails.AllTrails",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/98/88/4d98885f-14ad-3b47-0d61-e580c7c5b70f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAllTrails \n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -2520,29 +2661,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "StepsApp",
-      "version": "8.6.8",
-      "versionDate": "2026-03-12",
-      "size": 192315594,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.gunthermarktl.stepapp_AutoRc_8.6.8.ipa",
-      "developerName": "StepsApp GmbH",
-      "bundleIdentifier": "com.gunthermarktl.stepapp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/a4/26/d5a426a8-4006-1357-d425-630547de6cf2/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nStepsApp Pedometer\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/c9/cd/7cc9cd2b-bcbc-522b-ba92-113ad2c7b496/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/f0/19/8ff019f2-30f8-9624-d487-2c63149d6bb2/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ac/e3/44ace331-f9ed-6665-2930-8016d679a7f4/7c337287-2418-4129-b3d1-7aa2b4e1ca2f_1_APP_IPHONE_55_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/9b/74/509b7417-f10d-0960-c8ec-59b055d9cf62/7f2c6ff9-cb33-46cc-abaf-434793b5cdd7_3_APP_IPHONE_55_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/8a/2a/058a2a51-5805-0019-438d-7c71e06a8a2a/520cb882-cb01-4c5f-acfa-c15589d2ab27_4_APP_IPHONE_55_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/43/79/884379d9-dd0d-2b0c-aa10-d438abb3d0e6/dd0bf4a3-9ffd-4ee9-b42b-fd4c3795e2e5_5_APP_IPHONE_55_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/0c/1d/0a0c1d7a-79b3-d8c2-f128-655cb632bb0a/7a2b4e18-b8ca-483e-9b82-5cb85ffcce56_6_APP_IPHONE_55_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/be/ff/1dbeff81-1f9a-ffd5-574e-636c3175d9a5/9270fb97-c2a0-4c89-bd9c-03af0ff8a76e_7_APP_IPHONE_55_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/39/85/ec398550-e400-14f3-a966-db1afd9e8076/8cfcf2fa-0581-43b4-9126-25e94d7c2ae4_8_APP_IPHONE_55_8.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Radarbot",
       "version": "9.36",
       "versionDate": "2026-03-11",
@@ -2644,19 +2762,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/c1/f4/e4c1f461-cc7b-a19e-b096-6b383cb3b886/iOS_07.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/aa/8e/31aa8ef2-d2c4-a255-8a4d-24cda25fdb29/iOS_09.png/1320x2868bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "VEED Captions",
-      "version": "8.7.0",
-      "versionDate": "2026-03-12",
-      "size": 146896822,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/io.veed.appstore_AutoRcSideload_8.7.0.ipa",
-      "developerName": "VEED Ltd",
-      "bundleIdentifier": "io.veed.appstore",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fd/01/31fd011a-53d2-529d-6723-c0c010068156/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nVEED Shorts: AI videos\n\n• Bundle ID: io.veed.appstore\n• Updated to: 8.7.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -3582,29 +3687,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Uplens",
-      "version": "3.4.11",
-      "versionDate": "2026-03-11",
-      "size": 178831894,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.uplens_Uplens_3.4.11.ipa",
-      "developerName": "MPGames",
-      "bundleIdentifier": "app.uplens",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/af/13f1affa-cf26-3e4c-cdbf-08789fe8ef43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nUplens: Photo & Video Editor\n\n• Bundle ID: app.uplens\n• Updated to: 3.4.11\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b761d1-4520-bb1f-6f9c-2a33cf99be0d/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/28/a5/bf28a59a-a008-cdac-ab71-c7524b09f019/fb3be5a6-4f05-40fd-b202-8f672503eab0_3-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ef/74/e7ef743b-6b1a-4655-934b-dcd188dd82c4/912accdc-d02d-42fc-9ca2-dd1c42202b39_4-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/af/9a/81af9a34-d92d-293f-c4c1-10e5a4d080fc/d1322cb8-ae03-427f-a3c0-a35d50619bca_5-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/08/d4/cd08d444-b47d-6ae2-10a4-94721adf0f9a/18a65433-b405-4d79-93f6-63a86d81c02c_6-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/f4/ff/32f4ffac-f03c-1378-c44e-5ab439c74b14/5de6ad60-b69d-46da-96c0-19c0d39a7386_7-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fe/b3/36feb3fa-21ef-370f-8943-525e7d1efc57/1018be1f-f9b9-4153-a6a9-5193a2f14411_8-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/97/7f/38977fee-266c-66c3-5839-157f94a87ae2/1082e6ed-cf5b-49d2-a774-68148aeb5519_9-5_U00275-en.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Yazio",
       "version": "12.74.1",
       "versionDate": "2026-03-11",
@@ -4157,27 +4239,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/19/cf/7319cfb5-b6fd-d3df-5b15-ef3fe8c27e27/e32ac62c-46a4-4ed7-9ebc-b2ec1f25257e_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/9e/0f/6b9e0fa5-8d57-6113-0c29-dd01da619630/a8c8e7fb-8f27-4aae-bf7f-9884f02d2efa_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-8.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/20/b5/9620b5a2-eef0-cc26-8136-6ad8a3030ffc/046eca67-2876-4082-8410-089fd6a781cf_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-9.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "SNOW",
-      "version": "15.0.9",
-      "versionDate": "2026-03-12",
-      "size": 146878080,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.campmobile.snow_SNOW_15.0.9.ipa",
-      "developerName": "SNOW Corporation",
-      "bundleIdentifier": "com.campmobile.snow",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/99/9f/f2999f50-1ed7-27a5-2a63-b6a8ca8cacac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSNOW - AI Profile\n\n• Bundle ID: com.campmobile.snow\n• Updated to: 15.0.9\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/68/81/ae68816d-e6b2-a43e-8dce-73b94290bba3/AI_U1111_U1173_U1105_U1169_U1111_U1175_U11af2_EN__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/16/c2/1816c2f6-09a0-f924-ed51-de41e8ba2bf9/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/73/86/a3738678-dc28-0512-f453-922701116004/_U1107_U116e_U1107_U116e_U11ab_U110c_U1175_U110b_U116e_U1100_U1162_EN__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/8a/5a/a78a5a02-ca3d-d6eb-e33a-78659905fb99/_U1112_U1166_U110b_U1165_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/25/fb/3a25fbc0-175d-1241-9298-728cd04d57d6/_U1100_U1169_U1112_U116a_U110c_U1175_U11af_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/20/b9/d220b9f3-7537-69f9-e173-616458dfd885/_U1111_U1175_U11af_U1110_U1165_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/2a/a7/432aa799-27fe-642c-c354-173c864edc63/_U1112_U116a_U110c_U1175_U11af_U1100_U1162_U1109_U1165_U11ab_EN.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -7138,30 +7199,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Fitbod",
-      "version": "8.7.0",
-      "versionDate": "2026-03-11",
-      "size": 116919050,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.fitbod_Fitbod_8.7.0.ipa",
-      "developerName": "Fitbod Inc.",
-      "bundleIdentifier": "com.fitbod",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/58/d6/6758d6cd-12cd-1775-a2f6-b67d9bd9853b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFitbod Gym & Workout Planner\n\nElite features unlocked\n\nTweak made by ⏤͟͟͞͞Lãng Khách🇻🇳\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/e6/80/38e68092-c559-31b7-c00d-8da880beeaa9/41b79018-e13d-4d60-94bf-5c77bdb8d205_Page_1_5_SIZE.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/80/78/7a80787e-cbb6-5cf1-8c5e-366fa304efdd/Page_2_5_SIZE.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/e0/73/e8e07301-9c7d-540c-ba96-8d1e731ef9dd/Slice_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/e7/51/15e751b9-b873-e2b4-89de-b06f02797b26/Slice_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/2e/7f/3a2e7fb0-650d-c047-7504-f8f065d67293/Slice_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/1d/9a/fb1d9a30-3842-5acf-bdff-9d25316f193c/Slice_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/ae/07/46ae0793-028d-97f5-1293-56e1caac1dc5/Slice_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/1f/5f/ca1f5f3f-d13a-0af6-ea7e-3732678d0646/Slice_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/12/17/8a121722-d58a-6ac6-62e2-6c166cb13008/Slice_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/94/c2/9894c2ac-ae52-5d87-b829-4facf6f0e624/Slice_8.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Vids",
       "version": "1.132.0",
       "versionDate": "2026-03-11",
@@ -8143,19 +8180,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "GREC",
-      "version": "4.7.5",
-      "versionDate": "2026-03-11",
-      "size": 26538370,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.igliverec.app_AutoRc_4.7.5.ipa",
-      "developerName": "Martynas Ramonas",
-      "bundleIdentifier": "com.igliverec.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6e/58/186e5859-965a-9c29-ac88-93bf6b09d39a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nGREC - Live Video Recorder\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "superagent",
       "version": "3.48.0",
       "versionDate": "2026-03-11",
@@ -8302,30 +8326,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/9f/54/999f54c1-afe9-25a4-77b9-f19b05123be0/5d76d536-3b82-4057-9246-a52d5e571298_2647016E-7915-445E-8614-53D179D524F0-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.46.55.png/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/da/57/fbda57f2-77fc-994d-2f1d-3e8948cf785a/69921a28-26fc-4f54-978a-f31d2ba1687d_C8893B6E-FE7A-4A2F-A72C-05AA2366B319-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.49.49.png/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/63/37/85633787-2b1a-a892-e798-f0818f63ac50/3591de81-2ead-4d3f-ab9d-204df9471614_B5FC1AFE-E0D6-4907-9788-2F839FF7CAAC-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.47.10.png/1320x2868bb.webp"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Walli",
-      "version": "2.0.1",
-      "versionDate": "2026-03-11",
-      "size": 128999608,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.stanga.projectKu_WalliPro_2.0.1.ipa",
-      "developerName": "SMART MEDIA INTERNET MARKETING LTD",
-      "bundleIdentifier": "com.stanga.projectKu",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/65/28/02652852-5754-b4ed-8268-576a6508591a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWalli: Cool Wallpapers HD, 4K\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/1e/92/261e9241-93da-0e3c-4126-cf4b68438068/1ed9a2e0-4e55-4170-a871-f167269d9f36_IMG_3897_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/c1/9e/69c19ed1-666a-6382-4083-3d945f5fa2c8/2b943200-c9cc-475b-95fd-1eafd6015ee3_IMG_3892_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/09/33/e009333b-a70a-cb82-30fb-316e490bd29b/ed06a66b-c9ac-460d-b0a6-fc2e194aac4d_IMG_3891_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/84/9c/6d849c47-7383-4830-ce9b-80470baa3c88/3ecd60c8-f445-4fc4-bff8-f476ba84c1dc_IMG_3890_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/c2/51/45c25176-d6d6-1c38-52e8-866f6a24e6cc/34756dd8-f593-4356-ba71-149a03dcdef5_IMG_3927_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/85/70/ca8570a0-0eee-2297-ce72-667e14273731/edda9179-077d-4bc6-aeba-12ac73c783d1_IMG_3947_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/73/7b/a0737b61-1cc0-95ed-de2e-cfff42e79bdf/8903a41d-7a99-4ea3-959a-73c906dcd2e1_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-11_at_11.27.45.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/73/bb/ce73bb4f-18ce-bf93-3865-1f3f7110cf5b/468715da-9ea7-417a-b4a7-8fa092ec8111_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-11_at_11.25.56.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ca/8b/67ca8bf0-fd9a-b9e1-fd12-537463f38564/26f7cc67-12a4-4120-a607-0c2e76443dde_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-11_at_11.25.58.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/de/58/49de5897-2378-216a-aa71-08752426744b/876400d4-42e5-4a24-ab17-e11f81f47dc0_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-11_at_11.32.02.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
