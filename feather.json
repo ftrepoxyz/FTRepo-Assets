@@ -1451,7 +1451,7 @@
       "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
       "developerName": "Popcore GmbH",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/6a/4f/006a4fb2-8138-1cd7-73c0-234570cf427b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nParking Jam 3D\n\nTweak: No Ads, Unlimited Coins\n\nVersion: 231.0.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.uqxuwtxbbu.parkingjam\nDeveloper: Popcore GmbH",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nParking Jam 3D\n\nTweak: No Ads, Unlimited Coins\n\nVersion: 231.0.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.uqxuwtxbbu.parkingjam\nDeveloper: Popcore GmbH",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/67/26/7567264b-c0bc-8ea6-fa05-d06100d5e54b/4__U00282_U0029.png/1320x2868bb.png"
@@ -1474,6 +1474,12 @@
       ],
       "versions": [
         {
+          "version": "231.0.7",
+          "date": "2026-03-13",
+          "size": 222750085,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.7.ipa"
+        },
+        {
           "version": "231.0.6",
           "date": "2026-03-11",
           "size": 221631789,
@@ -1481,10 +1487,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "231.0.6",
-      "versionDate": "2026-03-11T13:27:19.176Z",
-      "size": 221631789,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.6.ipa"
+      "version": "231.0.7",
+      "versionDate": "2026-03-13T10:31:12.291Z",
+      "size": 222750085,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.7.ipa"
     },
     {
       "name": "ParrotPal",
@@ -18321,33 +18327,33 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.gymbros.app_popuprifty_2.11.8.ipa"
     },
     {
-      "name": "Кошелек",
-      "bundleIdentifier": "online.yourfintech.main",
-      "developerName": "Unknown Developer",
-      "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from @glesign |\n----------------\nFintech v2.11.2\n\n🇷🇺 Приложение МТС банка\n— Удалённое приложение из AppStore\n— Требует iOS 14.0\n© Создано: GLESign\n\n🇺🇸 MTS Bank Application\n— Removed app from AppStore\n— Requires iOS 14.0\n© Created by: GLESign",
+      "name": "Summary AI",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "developerName": "Labhouse Mobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/05/7d/f9057d40-e7ba-c1c2-a971-d8b0a1a326bf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSummary - AI Note Taker\n\nTweak: Premium Unlocked\n\nVersion: 2.11.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: io.labhouse.audioapp\nDeveloper: Labhouse Mobile",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "2.11.2",
-          "date": "2026-03-11",
-          "size": 176174838,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/online.yourfintech.main_2.11.2.ipa"
+          "version": "2.11.3",
+          "date": "2026-03-13",
+          "size": 117257039,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/io.labhouse.audioapp_Sideloadbypass2_2.11.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.11.2",
-      "versionDate": "2026-03-11T12:04:24.912Z",
-      "size": 176174838,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/online.yourfintech.main_2.11.2.ipa"
+      "version": "2.11.3",
+      "versionDate": "2026-03-13T11:00:53.651Z",
+      "size": 117257039,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/io.labhouse.audioapp_Sideloadbypass2_2.11.3.ipa"
     },
     {
       "name": "Scanner",
       "bundleIdentifier": "scannerapp.free",
       "developerName": "Luni",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/09/18/ec09186a-f1d4-6144-09d7-876647a1279a/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nScanner ·\n\n• Bundle ID: scannerapp.free\n• Updated to: 2.11.2\n• Minimum iOS: 15.4\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nScanner ·\n\n• Bundle ID: scannerapp.free\n• Updated to: 2.11.3\n• Minimum iOS: 15.4\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/37/db/7137db1a-34a3-98c0-c7c0-078a49372bea/3ec0394a-1d6d-4192-8461-e1a90c16763a_SCREEN_1_1_1242_x_2208.jpg/1320x2868bb.jpg"
@@ -18370,10 +18376,10 @@
       ],
       "versions": [
         {
-          "version": "2.11.2",
-          "date": "2026-03-11",
-          "size": 41105631,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/scannerapp.free_ScannerApp_2.11.2.ipa"
+          "version": "2.11.3",
+          "date": "2026-03-13",
+          "size": 40923385,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/scannerapp.free_ScannerApp_2.11.3.ipa"
         },
         {
           "version": "2.11.1",
@@ -18389,10 +18395,32 @@
         }
       ],
       "appPermissions": {},
+      "version": "2.11.3",
+      "versionDate": "2026-03-13T11:00:35.567Z",
+      "size": 40923385,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/scannerapp.free_ScannerApp_2.11.3.ipa"
+    },
+    {
+      "name": "Кошелек",
+      "bundleIdentifier": "online.yourfintech.main",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nFintech v2.11.2\n\n🇷🇺 Приложение МТС банка\n— Удалённое приложение из AppStore\n— Требует iOS 14.0\n© Создано: GLESign\n\n🇺🇸 MTS Bank Application\n— Removed app from AppStore\n— Requires iOS 14.0\n© Created by: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.11.2",
+          "date": "2026-03-11",
+          "size": 176174838,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/online.yourfintech.main_2.11.2.ipa"
+        }
+      ],
+      "appPermissions": {},
       "version": "2.11.2",
-      "versionDate": "2026-03-11T08:06:29.569Z",
-      "size": 41105631,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/scannerapp.free_ScannerApp_2.11.2.ipa"
+      "versionDate": "2026-03-11T12:04:24.912Z",
+      "size": 176174838,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/online.yourfintech.main_2.11.2.ipa"
     },
     {
       "name": "SoundLab",
@@ -18461,7 +18489,7 @@
       "bundleIdentifier": "com.camerasideas.Peachy",
       "developerName": "SHANTANU PTE. LTD.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b2/13/97b213b7-44f3-b35d-9a6b-6cd49d28205d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPeachy - AI Face & Body Editor\n\n• Bundle ID: com.camerasideas.Peachy\n• Updated to: 2.10.1\n• Minimum iOS: 16.1\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nPeachy - AI Face & Body Editor\n\n• Bundle ID: com.camerasideas.Peachy\n• Updated to: 2.10.2\n• Minimum iOS: 16.1\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/2d/e7/682de75f-a162-3eed-b86f-56fe1f1d7a2c/iPhonex-3.jpg/1320x2868bb.webp"
@@ -18504,6 +18532,12 @@
       ],
       "versions": [
         {
+          "version": "2.10.2",
+          "date": "2026-03-13",
+          "size": 175029690,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.camerasideas.Peachy_Peachy_2.10.2.ipa"
+        },
+        {
           "version": "2.10.1",
           "date": "2026-03-11",
           "size": 175026618,
@@ -18517,10 +18551,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.10.1",
-      "versionDate": "2026-03-11T10:35:03.434Z",
-      "size": 175026618,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.camerasideas.Peachy_Peachy_2.10.1.ipa"
+      "version": "2.10.2",
+      "versionDate": "2026-03-13T10:30:47.869Z",
+      "size": 175029690,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.camerasideas.Peachy_Peachy_2.10.2.ipa"
     },
     {
       "name": "Soundmap",
