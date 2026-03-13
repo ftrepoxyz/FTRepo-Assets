@@ -5,6 +5,44 @@
   },
   "data": [
     {
+      "name": "Chat Smith",
+      "version": "8.260309.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260309.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "co.vulcanlabs.moodtracker",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/08/5b/87085b2d-9313-481a-85fd-0d356003d025/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nAI Chatbot: AI Chat Smith 5.0\n\nTweak: Satella injected for unlocking subscription\n\nVersion: 8.260309.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: co.vulcanlabs.moodtracker\nDeveloper: Vulcan Labs Company Limited",
+      "developer": "Vulcan Labs Company Limited",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/c6/13/f0c61324-a0f8-ad22-b8fe-0748c7109aa7/Screenshot-2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/01/47/100147da-3dcc-3749-2a85-2016023d52f9/Screenshot-3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/be/ba/c5bebace-eb81-5576-780f-95eb64fd0cce/GPT-screenshot-4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/29/30/9329306d-aa58-db51-7000-f5a4ec266ce0/GPT-screenshot-5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/10/8d/7d108d03-6c0b-4b7d-0af2-a65ddcca30d9/GPT-screenshot-6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/11/63/611163ce-7635-5e6d-e3f0-0221d25f72a7/Screenshot-7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/dc/96/e2dc96e3-792d-4e97-2724-d97ab1ae8cff/GPT-screenshot-8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/f1/00/4af100cb-2f8a-a47b-5f81-122b668414ba/Screenshot-10.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/1c/be/e81cbef6-d69d-5f82-64f5-21abfba1e65e/GPT-screenshot-9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/57/e7/d857e71d-82b1-66ec-09c6-3fdb8ad4fe61/ENG_IPAD_RENEW.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/00/0c/ed000c53-c873-4227-336f-7e5fbb03d321/Screenshot-1-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/ca/e8/49cae8ac-d5a7-235d-98b2-c619932167fb/GPT-screenshot-2-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/90/3b/60903b9c-21a1-ca6a-c2ca-7029a657e57c/GPT-screenshot-7-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b7/4f/14b74f3b-aa58-08b6-20a6-14740878080c/GPT-screenshot-7-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/cb/7a/3bcb7ad1-6f61-510e-54d4-e4b1f4e970fb/GPT-screenshot-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/fc/80/c0fc8058-b705-36f0-3c4a-5086cd6f5191/GPT-screenshot-7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/06/c6/c606c670-cfd4-23ab-f068-f4f89c4a872e/GPT-screenshot-1a-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/27/03/92270338-469b-d069-169b-ee86df8538eb/GPT-screenshot-1a.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/f6/28/a2f62889-2493-780e-5480-7a380fb295e6/GPT-screenshot-2-1.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "SnapEdit",
       "version": "6.4.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.sfun.snapedit_SnapEdit_6.4.4.ipa",
