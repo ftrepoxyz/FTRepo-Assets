@@ -6274,12 +6274,6 @@
           "date": "2026-03-12",
           "size": 85961585,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.soundscape.music_Sideloadbypass2_9.9.8.ipa"
-        },
-        {
-          "version": "9.9.3",
-          "date": "2026-03-11",
-          "size": 85953030,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.soundscape.music_Sideloadbypass2_9.9.3.ipa"
         }
       ],
       "appPermissions": {},
@@ -10601,6 +10595,28 @@
       "versionDate": "2026-03-12T07:38:07.838Z",
       "size": 27046944,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.osmose-it.osmosis_OsmosisMedical_6.0.3.ipa"
+    },
+    {
+      "name": "rPlayer",
+      "bundleIdentifier": "com.wangyuehuan.vrtef",
+      "developerName": "跃欢 王",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/4d/38/e44d3858-7e0f-52dc-382b-146cef96d90d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nrPlayer: VR & 3D Video Player\n\n• Bundle ID: com.wangyuehuan.vrtef\n• Updated to: 6.0.0\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "6.0.0",
+          "date": "2026-03-13",
+          "size": 45939895,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.wangyuehuan.vrtef_rPlayer_6.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.0.0",
+      "versionDate": "2026-03-13T14:30:45.629Z",
+      "size": 45939895,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.wangyuehuan.vrtef_rPlayer_6.0.0.ipa"
     },
     {
       "name": "Badoo",
