@@ -5,6 +5,33 @@
   },
   "data": [
     {
+      "name": "365Scores",
+      "version": "6.4.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.365scores.365scroesapp_Sideloadbypass2_6.4.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.365scores.365scroesapp",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/c9/eb/d0c9eb1f-99a5-7215-6c06-4c35dfb0f1d0/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\n365Scores: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 6.4.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.365scores.365scroesapp\nDeveloper: 365Scores",
+      "developer": "365Scores",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/e4/53/e8e4530b-7dde-307c-836e-55131a56ea1f/13_Ipad_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/a1/12/24a112ec-29d4-ab47-abf2-b2cffefeadc0/13_Ipad_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/61/3a/51613a12-fa2e-45a2-7b05-94f0f7e22577/13_Ipad_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/9f/70/f79f70c3-cb7b-6140-c65a-09ab0d2ed54b/13_Ipad_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/31/05/eb3105bf-79ed-4b35-9d48-4fd4e171f7ce/13_Ipad_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/c1/2d/c2c12db2-19b0-7048-f184-92f2068e71d3/13_Ipad_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/16/70/8516701a-af6a-b9c7-2bb3-ce317e8a3dce/13_Ipad_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/92/41/529241ab-f14c-87dc-c0d2-f110198be9f8/13_Ipad_8.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "rPlayer",
       "version": "6.0.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.wangyuehuan.vrtef_rPlayer_6.0.0.ipa",
@@ -6857,33 +6884,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/27/34/d52734b9-eac5-1a0d-3917-9196e93dfab5/46524a5a-f70c-46b0-aa0b-63e2397c970f_6_APP_IPHONE_55_6.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/42/cb/3342cb1b-a3a0-422d-85b9-b3f8cd800b3d/aaa9920b-a661-41e9-8904-9a74492b17fa_7_APP_IPHONE_55_7.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/37/84/3e378400-4665-40d3-9f0e-f3a4bfb6dd22/134b7de7-e44c-4b99-bb3f-98568e18d7f2_8_APP_IPHONE_55_8.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "365Scores",
-      "version": "6.4.5",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.365scores.365scroesapp_Sideloadbypass2_6.4.5.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.365scores.365scroesapp",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/c9/eb/d0c9eb1f-99a5-7215-6c06-4c35dfb0f1d0/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\n365Scores: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 6.4.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.365scores.365scroesapp\nDeveloper: 365Scores",
-      "developer": "365Scores",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/e4/53/e8e4530b-7dde-307c-836e-55131a56ea1f/13_Ipad_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/a1/12/24a112ec-29d4-ab47-abf2-b2cffefeadc0/13_Ipad_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/61/3a/51613a12-fa2e-45a2-7b05-94f0f7e22577/13_Ipad_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/9f/70/f79f70c3-cb7b-6140-c65a-09ab0d2ed54b/13_Ipad_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/31/05/eb3105bf-79ed-4b35-9d48-4fd4e171f7ce/13_Ipad_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/c1/2d/c2c12db2-19b0-7048-f184-92f2068e71d3/13_Ipad_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/16/70/8516701a-af6a-b9c7-2bb3-ce317e8a3dce/13_Ipad_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/92/41/529241ab-f14c-87dc-c0d2-f110198be9f8/13_Ipad_8.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
