@@ -5,6 +5,176 @@
   },
   "data": [
     {
+      "name": "Bend",
+      "version": "7.2.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.bowery-digital.bend_RevenueCatFix26_7.2.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.bowery-digital.bend",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/20/55/d0205556-aa4a-45e2-457e-a0fe0de9dd8e/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nBend: Stretching & Flexibility\n\nPro features unlocked\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "developer": "Bowery Digital",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/8f/57/2f8f5799-3bdf-3a31-9d31-4102463435ae/0_APP_IPHONE_55_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/df/5d/c6df5d3b-130a-ef58-c6b0-b67e86a48e48/1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/bb/ae/acbbae6e-0cd5-62f8-6022-151a5bcf40b2/2_APP_IPHONE_55_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/a3/3c/9aa33c74-7abf-c0e7-8246-bb0a4a4e7b47/3_APP_IPHONE_55_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/cd/25/eccd25f3-9529-ff71-f619-1a70d6992d0d/4_APP_IPHONE_55_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/06/1e/d5061ece-0891-064e-e3e1-bc84155e0366/5_APP_IPHONE_55_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/35/1b/b3351bd6-0704-33d3-ca92-a70a8bb17f85/6_APP_IPHONE_55_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/06/c8/8106c828-5a83-e4cb-42e4-a9729c1d3c5e/7_APP_IPHONE_55_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/20/99/af2099fe-b44c-4890-257d-7438ec53e2e1/8_APP_IPHONE_55_8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/35/e8/2a35e800-2463-e64f-b77a-e672f8f21d51/9_APP_IPHONE_55_9.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "FELFishEyeLens",
+      "version": "2.1.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.phantom.fantengmu_ProCameraPatch_2.1.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.phantom.fantengmu",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/9a/d3/2b9ad344-4811-4e1d-dbf2-5be3021f7c30/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nPro Camera\n\nPro unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "Xiamen Suijisenlin Technology Co., Ltd.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "InShot",
+      "version": "1.94.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.camerasideas.InstaShot_InShotPatch_1.94.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.camerasideas.InstaShot",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/d4/0f/c5d40ffd-b6ce-a790-ac44-516612ab3cb3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nInShot - Video Editor\n\nPro unlocked\n\n⚠️ It crashes when you directly install it with Altstore, Sidestore or Sideloadly. Use LiveContainer to install it instead\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "SHANTANU PTE. LTD.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/6e/c2/136ec2d1-9f95-294a-30b4-e99d837faae2/a6c1eed2-18ab-47b2-a1b7-52439148b2e6_01-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/65/96/ed6596a7-4191-3380-18fd-b05f19595c82/9ea3f0f4-2068-46b4-b288-9553d1974583_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/6f/54/746f543f-dd83-51d9-c022-5fc1cba50067/8bfc2350-d63a-41a5-9f9e-d68bda3b16fa_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/32/d9/8c32d920-7985-feb8-7741-165b0ad6a3ed/cd24f5ba-72aa-4993-9c72-bb40f35262f5_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/60/18/bd6018cb-0e13-e408-19bc-e08fe9a08973/8b629e40-ca64-4b20-b82c-f3e5958861db_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/bb/e5/7abbe5b8-0e76-96ce-0191-857d7df750ae/e45c601b-bc44-49c0-a25e-6479391de56e_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/3f/21/793f2172-9f34-7318-5be0-bd98f2ae03f7/09f39b8d-a7ea-451b-8428-d742b0b12b47_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/41/0b/43410b3c-789e-2d32-45f9-3fbbdbebb3e2/c1e77273-160e-4770-9724-a25f62b240ad_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/62/02/13620282-71be-c77b-4d91-fab2244d302f/c6ede67b-697e-4d54-8eb3-9595c552466a_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/91/1a/f1911ae4-3c29-fbe0-2823-a55886e9ae31/7cfab975-2990-4e23-a7f5-52df54552376_10.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "PlantSnap",
+      "version": "7.6.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/net.plantsnap.freemium_AutoRc_7.6.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "net.plantsnap.freemium",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/59/ce/9059ce54-3892-285b-70ff-3146f2d38a19/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nPlantSnap - identify plants\n\nPremium features unlocked\n\nTweak made by Chocolate Fluffy\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
+      "developer": "PlantSnap, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/c8/e4/44c8e428-cd3e-de75-3cf2-96c44332db89/5affcb05-47ec-47bf-b10d-3c65e0b9234c_Plant_diary_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/7d/c3/897dc30c-f0fa-bb6b-36e1-e088fc52d4eb/0d1d9b92-2fd5-4c00-88de-6ac5305baf47_My_garden_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/56/24/ed5624ec-1561-a308-2429-3fc3c19c4014/1f2bf80a-79d4-4178-8c97-1c2a65985e03_Plant_details_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ce/6f/51ce6f75-2f0e-77ec-89d7-4a059725a9ea/15d94572-19f6-43a1-a2dc-6ec5f2d307fb_Plant_database_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/83/2a/7e832a28-038c-b4be-c5ac-0f03d99346e6/51d44899-67b8-41ea-8851-8f8f8815c29a_Identification_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/f7/4b/1cf74b51-8dc3-42b0-9920-686ab5eae521/d31e14af-284f-4479-b528-8cef489292ee_Explore_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/d5/ff/0fd5fffd-054f-61ad-70ee-6ef13565b42d/5c4ae2e0-b007-45eb-8a8e-d19137ff2526_Community_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Radarbot",
+      "version": "9.37",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.iteration-mobile.radarbot-free-ww_RadarbotGold_9.37.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.iteration-mobile.radarbot-free-ww",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/c7/cb/2ec7cbdc-5f48-51d8-dd17-ec457d092a7c/AppIcon-lite-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nRadarbot: Speed Cameras | GPS\n\nGold features unlocked\n\nCarPlay doesn't work sideloaded🙁\n\nTap on restore purchase if Gold is not directly unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "Iteration Mobile S.L",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Scoreboard",
+      "version": "1.8.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.edwinchan.Scoreboard_RevenueCatFix26_1.8.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.edwinchan.Scoreboard",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/e6/93/28e6936a-08d7-21db-31d1-cde3eb7f270c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nScoreboard: Keep 2 Teams Score\n\nPro features unlocked\n\nTap on restore or restart app if pro is not unlocked\n\nMinimum OS version 16.6\n\nAppStore link | Donate",
+      "developer": "Edwin Chan",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/cf/e5/bfcfe5dc-efbb-bfda-3f3a-68057899b7a7/fe080bb8-8d0e-411b-ae6c-270cbe8af682_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-04-09_at_21.01.29.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/29/f4/2e29f4b8-ecb1-a5bd-4c9d-ae65b71d6143/d81f6519-a7e4-49de-9545-664171b16fb8_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-04-09_at_21.01.51.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/7e/e7/d27ee776-f0d2-c390-8ea7-3895e79e5a80/c3c639f0-2e52-49cc-b7c9-3131bcbe3d39_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-04-09_at_21.02.18.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Peachy",
+      "version": "2.10.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.camerasideas.Peachy_PeachyPatch_2.10.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.camerasideas.Peachy",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b2/13/97b213b7-44f3-b35d-9a6b-6cd49d28205d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nPeachy - AI Face & Body Editor\n\nPro features unlocked\n\nTweak made by femto\n\nMinimum OS version 16.1\n\nAppStore link | Donate",
+      "developer": "SHANTANU PTE. LTD.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/2d/e7/682de75f-a162-3eed-b86f-56fe1f1d7a2c/iPhonex-3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/39/c5/1e39c5b6-c2cf-f063-f306-8ef1dda03c8c/iPhonex-1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/b6/fc/59b6fc95-2f1e-2769-d943-b39319868138/iPhonex-2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/15/22/d9152280-cec1-0ba1-7208-067a08ebe339/iPhonex-4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/a8/12/d4a81287-a2c0-6896-c7b5-64d2ca9b554a/iPhonex-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/64/2f/56642fdd-9f6c-8df5-3721-dbc09752576d/iPhonex-6_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/46/d8/7546d8c0-83bd-fde0-e81c-d762ea4b5da8/iPhonex-6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/c0/03/3dc0034c-afc9-1664-40a7-78536133f0b3/iPhonex-8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ab/a0/2caba02b-82e6-705d-3790-8db5cfa7c03d/iPhonex-9.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Twitter",
       "version": "11.72",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.atebits.Tweetie2_TwitDate_11.72.ipa",
@@ -88,35 +258,6 @@
       }
     },
     {
-      "name": "Bend",
-      "version": "7.2.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.bowery-digital.bend_Sideloadbypass2_7.2.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.bowery-digital.bend",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/20/55/d0205556-aa4a-45e2-457e-a0fe0de9dd8e/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nStretching & Flexibility: Bend\n\nTweak: Subscription Unlocked\n\nVersion: 7.2.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.bowery-digital.bend\nDeveloper: Bowery Digital",
-      "developer": "Bowery Digital",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/8f/57/2f8f5799-3bdf-3a31-9d31-4102463435ae/0_APP_IPHONE_55_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/df/5d/c6df5d3b-130a-ef58-c6b0-b67e86a48e48/1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/bb/ae/acbbae6e-0cd5-62f8-6022-151a5bcf40b2/2_APP_IPHONE_55_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/a3/3c/9aa33c74-7abf-c0e7-8246-bb0a4a4e7b47/3_APP_IPHONE_55_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/cd/25/eccd25f3-9529-ff71-f619-1a70d6992d0d/4_APP_IPHONE_55_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/06/1e/d5061ece-0891-064e-e3e1-bc84155e0366/5_APP_IPHONE_55_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/35/1b/b3351bd6-0704-33d3-ca92-a70a8bb17f85/6_APP_IPHONE_55_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/06/c8/8106c828-5a83-e4cb-42e4-a9729c1d3c5e/7_APP_IPHONE_55_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/20/99/af2099fe-b44c-4890-257d-7438ec53e2e1/8_APP_IPHONE_55_8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/35/e8/2a35e800-2463-e64f-b77a-e672f8f21d51/9_APP_IPHONE_55_9.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Reframe",
       "version": "3.9.34",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.34.ipa",
@@ -178,24 +319,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/67/ae/c467ae4a-2bcb-3898-9cf2-d85668e8328d/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/1e/2c/381e2cc8-8670-caff-0c88-b2297e64174a/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "FELFishEyeLens",
-      "version": "2.1.3",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.phantom.fantengmu_ProCamera_2.1.3.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.phantom.fantengmu",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/9a/d3/2b9ad344-4811-4e1d-dbf2-5be3021f7c30/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nPro Camera-Omnipotent Camera\n\n• Bundle ID: com.phantom.fantengmu\n• Updated to: 2.1.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Xiamen Suijisenlin Technology Co., Ltd.",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -621,34 +744,6 @@
       }
     },
     {
-      "name": "Peachy",
-      "version": "2.10.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.camerasideas.Peachy_Peachy_2.10.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.camerasideas.Peachy",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b2/13/97b213b7-44f3-b35d-9a6b-6cd49d28205d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nPeachy - AI Face & Body Editor\n\n• Bundle ID: com.camerasideas.Peachy\n• Updated to: 2.10.2\n• Minimum iOS: 16.1\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "SHANTANU PTE. LTD.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/2d/e7/682de75f-a162-3eed-b86f-56fe1f1d7a2c/iPhonex-3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/39/c5/1e39c5b6-c2cf-f063-f306-8ef1dda03c8c/iPhonex-1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/b6/fc/59b6fc95-2f1e-2769-d943-b39319868138/iPhonex-2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/15/22/d9152280-cec1-0ba1-7208-067a08ebe339/iPhonex-4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/a8/12/d4a81287-a2c0-6896-c7b5-64d2ca9b554a/iPhonex-4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/64/2f/56642fdd-9f6c-8df5-3721-dbc09752576d/iPhonex-6_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/46/d8/7546d8c0-83bd-fde0-e81c-d762ea4b5da8/iPhonex-6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/c0/03/3dc0034c-afc9-1664-40a7-78536133f0b3/iPhonex-8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ab/a0/2caba02b-82e6-705d-3790-8db5cfa7c03d/iPhonex-9.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "ism",
       "version": "7.37.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.ahaf.mshion_ism_7.37.1.ipa",
@@ -668,32 +763,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/5f/2b/185f2b75-a8db-35de-41d1-d207bece0e05/7d1bb6e5-3a92-4a8a-a42c-cda466f32d77_ism_-screenshot-8-1920.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/15/5d/d8155d9b-3e6d-5196-e834-22012c92ac36/27123e3d-ead9-4c8a-bfab-b9c47a600029_ism_-screenshot-9-1920.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/65/63/f56563ea-6171-90e6-eaa4-3eea54561c60/235733bd-7752-4c92-8fce-04303880aa56_ism_-screenshot-10-1920.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "PlantSnap",
-      "version": "7.6.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/net.plantsnap.freemium_Sideloadbypass2_7.6.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "net.plantsnap.freemium",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/59/ce/9059ce54-3892-285b-70ff-3146f2d38a19/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nPlantSnap - Plant Identifier\n\nTweak: Subscription Unlocked\n\nVersion: 7.6.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: net.plantsnap.freemium\nDeveloper: PlantSnap, Inc.",
-      "developer": "PlantSnap, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/c8/e4/44c8e428-cd3e-de75-3cf2-96c44332db89/5affcb05-47ec-47bf-b10d-3c65e0b9234c_Plant_diary_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/7d/c3/897dc30c-f0fa-bb6b-36e1-e088fc52d4eb/0d1d9b92-2fd5-4c00-88de-6ac5305baf47_My_garden_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/56/24/ed5624ec-1561-a308-2429-3fc3c19c4014/1f2bf80a-79d4-4178-8c97-1c2a65985e03_Plant_details_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ce/6f/51ce6f75-2f0e-77ec-89d7-4a059725a9ea/15d94572-19f6-43a1-a2dc-6ec5f2d307fb_Plant_database_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/83/2a/7e832a28-038c-b4be-c5ac-0f03d99346e6/51d44899-67b8-41ea-8851-8f8f8815c29a_Identification_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/f7/4b/1cf74b51-8dc3-42b0-9920-686ab5eae521/d31e14af-284f-4479-b528-8cef489292ee_Explore_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/d5/ff/0fd5fffd-054f-61ad-70ee-6ef13565b42d/5c4ae2e0-b007-45eb-8a8e-d19137ff2526_Community_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
@@ -3475,24 +3544,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/22/18/7d2218ff-de50-343a-2754-f27bba556cfc/c2282aed-6b1d-4148-8dec-5c239aeca18a_outro5-5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/59/b2/05/59b20578-55c5-2c27-b602-9465326e5950/c9134455-b3f6-423d-abd5-c00429508f56_outro25-5-5.png/1320x2868bb.png"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Radarbot",
-      "version": "9.36",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.iteration-mobile.radarbot-free-ww_Radarbot_9.36.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.iteration-mobile.radarbot-free-ww",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/c0/aa/63c0aa70-6ec1-e0d3-a548-0ee573eac2c2/AppIcon-lite-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nRadarbot: Speed Cameras | GPS\n\n• Bundle ID: com.iteration-mobile.radarbot-free-ww\n• Updated to: 9.36\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Click 'Restore Purchase' if subscription isn't active.\n>Carplay works with Trollstore/jailbreak only.\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Iteration Mobile S.L",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -9793,35 +9844,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/db/bb/d8/dbbbd89c-8b7f-8f5e-3b02-3c7ba3bead70/pr_source.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/61/6f/d3616fb7-2259-01e2-cf99-4b55cb9de3a5/pr_source.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/35/7b/e6357bca-ac69-16d3-1fbb-279cae5d8a45/pr_source.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "InShot",
-      "version": "1.94.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.camerasideas.InstaShot_InShot_1.94.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.camerasideas.InstaShot",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/d4/0f/c5d40ffd-b6ce-a790-ac44-516612ab3cb3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nInShot - Video Editor\n\n• Bundle ID: com.camerasideas.InstaShot\n• Updated to: 1.94.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "SHANTANU PTE. LTD.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/6e/c2/136ec2d1-9f95-294a-30b4-e99d837faae2/a6c1eed2-18ab-47b2-a1b7-52439148b2e6_01-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/65/96/ed6596a7-4191-3380-18fd-b05f19595c82/9ea3f0f4-2068-46b4-b288-9553d1974583_02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/6f/54/746f543f-dd83-51d9-c022-5fc1cba50067/8bfc2350-d63a-41a5-9f9e-d68bda3b16fa_03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/32/d9/8c32d920-7985-feb8-7741-165b0ad6a3ed/cd24f5ba-72aa-4993-9c72-bb40f35262f5_04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/60/18/bd6018cb-0e13-e408-19bc-e08fe9a08973/8b629e40-ca64-4b20-b82c-f3e5958861db_05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/bb/e5/7abbe5b8-0e76-96ce-0191-857d7df750ae/e45c601b-bc44-49c0-a25e-6479391de56e_06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/3f/21/793f2172-9f34-7318-5be0-bd98f2ae03f7/09f39b8d-a7ea-451b-8428-d742b0b12b47_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/41/0b/43410b3c-789e-2d32-45f9-3fbbdbebb3e2/c1e77273-160e-4770-9724-a25f62b240ad_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/62/02/13620282-71be-c77b-4d91-fab2244d302f/c6ede67b-697e-4d54-8eb3-9595c552466a_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/91/1a/f1911ae4-3c29-fbe0-2823-a55886e9ae31/7cfab975-2990-4e23-a7f5-52df54552376_10.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
