@@ -29,7 +29,7 @@
       "bundleIdentifier": "com.videobrowser.ios",
       "developerName": "Video Lite, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/62/da/2862da22-76a6-0f20-5215-ed92a5e7a1ce/AppIcon.Bolt.TV.Light-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nVideo Lite\n\n• Bundle ID: com.videobrowser.ios\n• Updated to: 6.22.001\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nVideo Lite\n\n• Bundle ID: com.videobrowser.ios\n• Updated to: 6.22.100\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/a3/37/e2a337f2-7aaa-14ed-f3da-add4f3aa808e/6ba646c5-da0c-40ed-905b-486199f2c96b_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-16_at_22.09.10.png/1320x2868bb.png"
@@ -60,6 +60,12 @@
       ],
       "versions": [
         {
+          "version": "622100",
+          "date": "2026-03-13",
+          "size": 34503236,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.videobrowser.ios_VideoLite_622100.ipa"
+        },
+        {
           "version": "622001",
           "date": "2026-03-11",
           "size": 34667814,
@@ -67,10 +73,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "622001",
-      "versionDate": "2026-03-11T11:02:06.421Z",
-      "size": 34667814,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.videobrowser.ios_VideoLite_622001.ipa"
+      "version": "622100",
+      "versionDate": "2026-03-13T03:00:16.687Z",
+      "size": 34503236,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.videobrowser.ios_VideoLite_622100.ipa"
     },
     {
       "name": "Photoroom",
@@ -13810,11 +13816,17 @@
       "name": "Bill Tracker",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/d2/a6/65d2a69f-95c3-a7cc-a53b-4ee8724aa860/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.52\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/cc/8c/b2cc8c70-a13a-0840-c3c0-89269d24416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.53\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "4.1.53",
+          "date": "2026-03-13",
+          "size": 147124950,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.53.ipa"
+        },
         {
           "version": "4.1.52",
           "date": "2026-03-11",
@@ -13829,10 +13841,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.1.52",
-      "versionDate": "2026-03-11T21:56:41.364Z",
-      "size": 147099696,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.52.ipa"
+      "version": "4.1.53",
+      "versionDate": "2026-03-13T03:00:36.233Z",
+      "size": 147124950,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.53.ipa"
     },
     {
       "name": "Stndrd",
