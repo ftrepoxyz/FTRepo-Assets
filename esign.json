@@ -3,6 +3,19 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "rPlayer",
+      "version": "6.0.0",
+      "versionDate": "2026-03-13",
+      "size": 45939895,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.wangyuehuan.vrtef_rPlayer_6.0.0.ipa",
+      "developerName": "跃欢 王",
+      "bundleIdentifier": "com.wangyuehuan.vrtef",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/4d/38/e44d3858-7e0f-52dc-382b-146cef96d90d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nrPlayer: VR & 3D Video Player\n\n• Bundle ID: com.wangyuehuan.vrtef\n• Updated to: 6.0.0\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "GREC",
       "version": "4.7.6",
       "versionDate": "2026-03-13",
