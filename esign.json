@@ -3,6 +3,167 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "TikTok (VibeTok)",
+      "version": "44.2.0",
+      "versionDate": "2026-03-13",
+      "size": 396215942,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.zhiliaoapp.musically_VibeTok_44.2.0.ipa",
+      "developerName": "TikTok Ltd.",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nVibeTok\n\nFree tweak with many features\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Notability",
+      "version": "15.4.4",
+      "versionDate": "2026-03-13",
+      "size": 228643358,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_15.4.4.ipa",
+      "developerName": "Ginger Labs",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ea/aa/bdeaaadc-07a7-bb3c-b116-2a464622868a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNotability: Notes, PDF\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/35/3e/d3353edb-1003-a353-74a8-deedb53a63ca/3-iPhone55-EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/39/19/8b391919-a0c5-8a8f-ac1c-d9b8c7247540/4-iPhone55-EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/b3/244cb35c-927c-99c4-f018-9494f121e8d6/5-iPhone55-EN.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Facebook",
+      "version": "552.0.0",
+      "versionDate": "2026-03-13",
+      "size": 173113181,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.facebook.Facebook_Glow_552.0.0.ipa",
+      "developerName": "Meta Platforms, Inc.",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b0/a5/b0b0a541-fe16-3a7a-23a7-4a796a8887a5/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFacebook\n\nA simple, clean, and powerful tweak for Facebook \n\nGlow settings are available via long press on any tab\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a5/75/7ea575a5-a4cd-a468-f1f4-0bdafcb9251f/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/12/ec/4812ecdc-25dc-c18e-b4dd-3c3321a838e9/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/ee/f1/4feef161-9b45-6714-edb0-703c18d2516d/0130e841-7bad-4f8c-83c9-61ea0bac7d7b_3-iOS-5.5-Stories.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/72/17/e97217ee-71f6-0d19-367c-bb6797123ba8/9b761f68-4cd1-4c66-b5f2-76de4f58005f_4-iOS-5.5-Groups.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/1d/bd/361dbd6c-5aa5-d16f-01ad-fa30d23979c4/68c29824-a52c-4766-8aea-0a70c7a2f86f_5-iOS-5.5-Profile.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/40/c6/4a40c6a9-716a-817e-544b-b47314896ecf/28ff37e9-d855-4e6e-a8b4-fb2d585bb9ca_6-iOS-5.5-Marketplace.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/88/19/6588196b-f912-e376-f56d-89680c7d2e39/691c88f4-f976-46bb-92e1-5f088e8aa47f_7-iOS-5.5-Share.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/46/36/48463671-5953-68ac-b97c-b97a6d6cc3ce/d49c0719-9500-4504-8a4c-3124b914bafa_8-iOS-5.5-Search_with_AI.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/e3/c6/05e3c610-6058-7113-d784-7432f93b4725/ee650e7b-1eaa-4de6-81a2-0b35dac16446_9-iOS-5.5-Write_with_AI.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/66/84/6f668470-ef8e-be27-90b8-99ad73e10664/89fe27f2-ff0a-4a61-a502-73c2bd05da89_10-iOS-5.5-Notifications.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Drafts",
+      "version": "51.0",
+      "versionDate": "2026-03-13",
+      "size": 37786468,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.agiletortoise.Drafts5_drafts_51.0.ipa",
+      "developerName": "Agile Tortoise",
+      "bundleIdentifier": "com.agiletortoise.Drafts5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ea/03/98ea032a-ea40-6dcf-1813-3c78b5cabe59/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDrafts\n\nPro features unlocked\n\n⚠️ only works with Trollstore / Jailbreak.\n\nTap on restore purchase if pro is not unlocked directly\n\nTweak made by Blatant\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/6e/f7/206ef73e-c4e5-ceee-ab34-52c4a0c5509f/iPhone-01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/74/36/29743667-8c3a-88de-edd3-1bc6dc9821bf/iPhone-02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/dc/d2/badcd221-b60d-404f-6f5a-6c87e067d575/iPhone-03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/88/4e/bb884e8b-332d-ca36-e056-c666e6222a79/iPhone-04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/ec/67/85ec67f2-cb02-6d9b-3a53-33b6e133669a/iPhone-08.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/c9/38/3cc93817-ea22-927c-4c0b-05ed70dd2d3b/iPhone-05.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e0/79/f6e07997-3196-33e8-c26b-b7fe60bd550c/iPhone-07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/bf/f7/12bff703-2fbd-1453-6fa5-9e84de3213e9/iPad-01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/2f/ae/722fae0f-f689-d955-a548-6d272bc33e48/iPad-02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/1e/1c/911e1cf1-d455-940d-9147-77d1bdb49686/iPad-03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/4b/99/a14b99f5-bb09-a62c-d7d0-fee3c38614db/iPad-04.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/fd/28/e7fd288d-cd6f-6583-c073-72697a6c4f6b/iPad-05.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/d7/d9/39d7d9e3-7d81-4a5f-7389-938280018f65/iPad-06.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/43/a5/6943a5cb-5170-aecc-da91-06c373261d5f/iPad-07.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Beelinguapp",
+      "version": "3.9.10",
+      "versionDate": "2026-03-13",
+      "size": 61796879,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.beelinguapp.beelinguapp_BeelinguappPatch_3.9.10.ipa",
+      "developerName": "Beelinguapp UG (haftungsbeschrankt)",
+      "bundleIdentifier": "com.beelinguapp.beelinguapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/4b/aa/584baa3f-b524-8d56-9f40-6d224e78274f/AppIcon-1-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBeelinguapp: Language Learning\n\nPremium features unlocked\n\nTweak made by Никита\n\nMinimum OS version 16.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/f3/01/5df30138-f9b2-e6c3-b82a-db25b5768ced/f34ea0bc-3879-45a1-9179-3dd51f35cb8c_1242x2208_-_English_-_A1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/dd/27/8edd278a-bdc5-4da4-bb3e-7642fe0ee68c/1f2d6439-9455-452c-be3f-d4226f32442a_1242x2208_-_English_-_A2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/6e/78/936e7810-a785-eac1-8d4b-d4f60cdcd483/0a5ceff5-0c2a-4237-9ca8-b0381e70476f_1242x2208_-_English_-_A3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/96/35/f99635fa-ed14-30f5-a8e8-260d106addb8/5a6b2a1a-23f1-43a0-8bb1-8e5178d2f5fd_1242x2208_-_English_-_A4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/4f/81/c34f8144-dd52-d200-a21a-8913eb66ffce/73f80829-5c84-4af5-bf26-a7d6993a67b8_1242x2208_-_English_-_A6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/1a/e3/a01ae306-79ed-4692-92dd-0eeeec66d160/f248007a-9f03-4e8a-b3b0-ef490b3ecc4b_1242x2208_-_English_-_A5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/2f/42/912f4244-d903-cc84-eaa4-2d3f61ba681f/36904330-7fa4-4e7e-8bed-373db1fad140_1242x2208_-_English_-_A7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/5c/e0/5c5ce0c8-3ba1-a788-0221-b094db60c4de/1755ce38-fa0b-4277-9e27-64866ee19ca1_1242x2208_-_English_-_A8.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Wikiloc",
+      "version": "3.26.4",
+      "versionDate": "2026-03-13",
+      "size": 182510176,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.wikiloc.wikiloc_Wikiloc_3.26.4.ipa",
+      "developerName": "Wikiloc Outdoor SL",
+      "bundleIdentifier": "com.wikiloc.wikiloc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWikiloc - Trails of the World\n\nPremium features unlocked\n\n3D maps feature is server-sided and doesn't work\n\nTweak made by Blatant\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/17/68/e9176897-2173-495f-be87-c6a4a232401d/2._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fa/b7/34fab736-0bb8-c8e7-971a-005e267a9055/3._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1c/e4/c61ce48e-6e58-3554-1536-f09883f5a6a8/4._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/6e/09426ed8-6ab0-9b9e-790c-cbb48c1a7128/6._5.5_U0027_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2c/c6/882cc652-3db9-4d6d-ff6d-e9d42733b44e/7._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Hevy",
+      "version": "3.0.2",
+      "versionDate": "2026-03-12",
+      "size": 119676998,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.hevyapp.hevy_Hevy_3.0.2.ipa",
+      "developerName": "Hevy Studios S.L.",
+      "bundleIdentifier": "com.hevyapp.hevy",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ef/b1/e8efb15c-622c-44c7-f7b2-1afd9dbe920d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nHevy - Workout Tracker Gym Log\n\nPro features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 14.1\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/28/f5/b328f516-2a16-ed23-f8de-209228fdc967/15d44ec2-d98c-4504-960c-21f2b11a84c6_screenshot2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/7f/67/a97f6709-b9da-4012-5e3d-41dbd922e047/bf8818d8-55ee-4f72-9d86-00dd2b5a18bd_screenshot3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/6f/04/e46f04e4-40de-e683-f6fd-8005f2d17c31/46a87f62-fda1-4604-a17a-7bf89cba6be4_screenshot4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/e7/6e/b1e76e03-89ae-8c61-bc5b-0658442db85c/795d6241-5593-4561-932a-2919412e3d94_screenshot5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d6/32/fdd632df-a12b-3f1f-f388-87fa30182117/c68c77a8-14bd-4e45-96eb-dd4311371543_screenshot6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/eb/db/32ebdb1d-9c1c-799d-be53-36587f8ee9a8/6aa699e7-9cc0-451b-adf8-dfaca2f74f7a_screenshot7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/a5/5016a531-d92d-2481-a2e9-c39e0e9ffa1c/2c3f8aad-31e6-4a57-91a4-03074f5f53a8_screenshot8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/ee/42/7fee426f-34e5-ca4a-62b5-fb7d7ee676d5/a11c7daf-a831-4772-9d97-a975d9345f6c_screenshot9.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Dictionary",
       "version": "15.21",
       "versionDate": "2026-03-12",
@@ -130,34 +291,6 @@
       "iconURL": "",
       "localizedDescription": "from @binnichtaktivsipas",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Drafts",
-      "version": "51.0",
-      "versionDate": "2026-03-12",
-      "size": 39500807,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.agiletortoise.Drafts5_drafts_51.0.ipa",
-      "developerName": "Agile Tortoise",
-      "bundleIdentifier": "com.agiletortoise.Drafts5",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ea/03/98ea032a-ea40-6dcf-1813-3c78b5cabe59/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDrafts\n\n• Bundle ID: com.agiletortoise.Drafts5\n• Updated to: 51.0\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Click restore purchase and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/6e/f7/206ef73e-c4e5-ceee-ab34-52c4a0c5509f/iPhone-01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/74/36/29743667-8c3a-88de-edd3-1bc6dc9821bf/iPhone-02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/dc/d2/badcd221-b60d-404f-6f5a-6c87e067d575/iPhone-03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/88/4e/bb884e8b-332d-ca36-e056-c666e6222a79/iPhone-04.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/ec/67/85ec67f2-cb02-6d9b-3a53-33b6e133669a/iPhone-08.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/c9/38/3cc93817-ea22-927c-4c0b-05ed70dd2d3b/iPhone-05.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e0/79/f6e07997-3196-33e8-c26b-b7fe60bd550c/iPhone-07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/bf/f7/12bff703-2fbd-1453-6fa5-9e84de3213e9/iPad-01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/2f/ae/722fae0f-f689-d955-a548-6d272bc33e48/iPad-02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/1e/1c/911e1cf1-d455-940d-9147-77d1bdb49686/iPad-03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/4b/99/a14b99f5-bb09-a62c-d7d0-fee3c38614db/iPad-04.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/fd/28/e7fd288d-cd6f-6583-c073-72697a6c4f6b/iPad-05.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/d7/d9/39d7d9e3-7d81-4a5f-7389-938280018f65/iPad-06.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/43/a5/6943a5cb-5170-aecc-da91-06c373261d5f/iPad-07.png/1320x2868bb.jpg"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
@@ -386,30 +519,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/f1/22/18f12292-d2c2-17c5-bab6-d20ad8eb6b1e/65084906-7492-4bfe-a8de-05e04afa81fa_6.5_U201d_1242_x_2688_-_165.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/7c/da/c97cda43-8c03-a43e-febf-f59d11877cc4/5ecd7d69-5c28-4a9c-b1b3-51f592443448_6.5_U201d_1242_x_2688_-_164.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/72/f0/9372f022-cc8b-8a78-67b2-f55a86f397ff/b81730cb-951f-4201-800b-140c32e0360b_6.5_U201d_1242_x_2688_-_163.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Hevy",
-      "version": "3.0.2",
-      "versionDate": "2026-03-12",
-      "size": 124277366,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.hevyapp.hevy_Hevy_3.0.2.ipa",
-      "developerName": "Hevy Studios S.L.",
-      "bundleIdentifier": "com.hevyapp.hevy",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ef/b1/e8efb15c-622c-44c7-f7b2-1afd9dbe920d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nHevy - Workout Tracker Gym Log\n\n• Bundle ID: com.hevyapp.hevy\n• Updated to: 3.0.2\n• Minimum iOS: 14.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n> Can't create unlimited routines.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/28/f5/b328f516-2a16-ed23-f8de-209228fdc967/15d44ec2-d98c-4504-960c-21f2b11a84c6_screenshot2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/7f/67/a97f6709-b9da-4012-5e3d-41dbd922e047/bf8818d8-55ee-4f72-9d86-00dd2b5a18bd_screenshot3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/6f/04/e46f04e4-40de-e683-f6fd-8005f2d17c31/46a87f62-fda1-4604-a17a-7bf89cba6be4_screenshot4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/e7/6e/b1e76e03-89ae-8c61-bc5b-0658442db85c/795d6241-5593-4561-932a-2919412e3d94_screenshot5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d6/32/fdd632df-a12b-3f1f-f388-87fa30182117/c68c77a8-14bd-4e45-96eb-dd4311371543_screenshot6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/eb/db/32ebdb1d-9c1c-799d-be53-36587f8ee9a8/6aa699e7-9cc0-451b-adf8-dfaca2f74f7a_screenshot7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/a5/5016a531-d92d-2481-a2e9-c39e0e9ffa1c/2c3f8aad-31e6-4a57-91a4-03074f5f53a8_screenshot8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/ee/42/7fee426f-34e5-ca4a-62b5-fb7d7ee676d5/a11c7daf-a831-4772-9d97-a975d9345f6c_screenshot9.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -1310,25 +1419,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Notability",
-      "version": "15.4.3",
-      "versionDate": "2026-03-11",
-      "size": 228644702,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_15.4.3.ipa",
-      "developerName": "Ginger Labs",
-      "bundleIdentifier": "com.gingerlabs.Notability",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ea/aa/bdeaaadc-07a7-bb3c-b116-2a464622868a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNotability: Notes, PDF\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/35/3e/d3353edb-1003-a353-74a8-deedb53a63ca/3-iPhone55-EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/39/19/8b391919-a0c5-8a8f-ac1c-d9b8c7247540/4-iPhone55-EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/b3/244cb35c-927c-99c4-f018-9494f121e8d6/5-iPhone55-EN.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Dehancer",
       "version": "5.5",
       "versionDate": "2026-03-12",
@@ -1898,30 +1988,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Facebook",
-      "version": "551.0.0",
-      "versionDate": "2026-03-11",
-      "size": 171614271,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.facebook.Facebook_Glow_551.0.0.ipa",
-      "developerName": "Meta Platforms, Inc.",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b0/a5/b0b0a541-fe16-3a7a-23a7-4a796a8887a5/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFacebook\n\nA simple, clean, and powerful tweak for Facebook \n\nGlow settings are available via long press on any tab\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a5/75/7ea575a5-a4cd-a468-f1f4-0bdafcb9251f/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/12/ec/4812ecdc-25dc-c18e-b4dd-3c3321a838e9/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/ee/f1/4feef161-9b45-6714-edb0-703c18d2516d/0130e841-7bad-4f8c-83c9-61ea0bac7d7b_3-iOS-5.5-Stories.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/72/17/e97217ee-71f6-0d19-367c-bb6797123ba8/9b761f68-4cd1-4c66-b5f2-76de4f58005f_4-iOS-5.5-Groups.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/1d/bd/361dbd6c-5aa5-d16f-01ad-fa30d23979c4/68c29824-a52c-4766-8aea-0a70c7a2f86f_5-iOS-5.5-Profile.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/40/c6/4a40c6a9-716a-817e-544b-b47314896ecf/28ff37e9-d855-4e6e-a8b4-fb2d585bb9ca_6-iOS-5.5-Marketplace.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/88/19/6588196b-f912-e376-f56d-89680c7d2e39/691c88f4-f976-46bb-92e1-5f088e8aa47f_7-iOS-5.5-Share.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/46/36/48463671-5953-68ac-b97c-b97a6d6cc3ce/d49c0719-9500-4504-8a4c-3124b914bafa_8-iOS-5.5-Search_with_AI.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/e3/c6/05e3c610-6058-7113-d784-7432f93b4725/ee650e7b-1eaa-4de6-81a2-0b35dac16446_9-iOS-5.5-Write_with_AI.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/66/84/6f668470-ef8e-be27-90b8-99ad73e10664/89fe27f2-ff0a-4a61-a502-73c2bd05da89_10-iOS-5.5-Notifications.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "No Fusion",
       "version": "2.5.51",
       "versionDate": "2026-03-12",
@@ -2103,29 +2169,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fd/01/31fd011a-53d2-529d-6723-c0c010068156/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nVEED Shorts: AI videos\n\n• Bundle ID: io.veed.appstore\n• Updated to: 8.7.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Wikiloc",
-      "version": "3.26.3",
-      "versionDate": "2026-03-11",
-      "size": 109378511,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.wikiloc.wikiloc_Wikiloc_3.26.3.ipa",
-      "developerName": "Wikiloc Outdoor SL",
-      "bundleIdentifier": "com.wikiloc.wikiloc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWikiloc - Trails of the World\n\nPremium features unlocked\n\n3D maps feature is server-sided and doesn't work\n\nTweak made by Blatant\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/17/68/e9176897-2173-495f-be87-c6a4a232401d/2._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fa/b7/34fab736-0bb8-c8e7-971a-005e267a9055/3._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1c/e4/c61ce48e-6e58-3554-1536-f09883f5a6a8/4._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/6e/09426ed8-6ab0-9b9e-790c-cbb48c1a7128/6._5.5_U0027_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2c/c6/882cc652-3db9-4d6d-ff6d-e9d42733b44e/7._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
@@ -3614,27 +3657,6 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nTikTok - Videos, Shop & LIVE\n\n• Bundle ID: com.zhiliaoapp.musically\n• Updated to: 43.9.0\n• Minimum iOS: 12.0\n• Patched\n• Modifier: BHTikTok++ v1.9.3\n• Tweaked by @blatants\n\n• Note:\nTweak by Raulsaeed Features\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "TikTok (VibeTok)",
-      "version": "43.9.0",
-      "versionDate": "2026-03-12",
-      "size": 412556553,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.zhiliaoapp.musically_sideloadKeychainfixBlatants_43.9.0.ipa",
-      "developerName": "TikTok Ltd.",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nTikTok - Videos, Shop & LIVE\n\n• Bundle ID: com.zhiliaoapp.musically\n• Updated to: 43.9.0\n• Minimum iOS: 12.0\n• Patched\n• Modifier: VibeTok v1.71\n• Tweaked by @blatants\n\n• Note:\nTweak by DENS0R Showcase\n\nChangelog:\n\nVibeTok V1.71\n- Fast Logout : Log out instantly without confirmation popups.\n- Lock chats : Authenticate to view chats\n- Story Gradient : Enable gradient story borders\n+ Improvements\n\nッ Jailbreak Repo | ♡ Support",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
