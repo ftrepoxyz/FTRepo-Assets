@@ -3,6 +3,75 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "ism",
+      "version": "7.37.1",
+      "versionDate": "2026-03-13",
+      "size": 306645579,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.ahaf.mshion_ism_7.37.1.ipa",
+      "developerName": "MWM",
+      "bundleIdentifier": "com.ahaf.mshion",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b1/cb/9cb1cbbf-f715-8db9-ee23-1943f705ebc4/rebrand_app_icon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nism: digital camera & filter\n\n• Bundle ID: com.ahaf.mshion\n• Updated to: 7.37.1\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/24/25/4b2425ca-cfee-dab5-60dd-0924730d027f/249fb166-372e-4671-a8fc-8e7cbffc23dc_ism_-screenshot-1-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/b6/72/43b67251-87b4-1750-04b4-61eab2251252/95ed4e69-9d20-4f7f-8318-2d71bcaf4ded_ism_-screenshot-2-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/97/36/f997362e-441e-a62a-c4ad-237cb8e35143/f7bdd122-5681-4607-ae88-66adbb3c492d_ism_-screenshot-3-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/6d/0d/da6d0d2a-81c3-6583-2d27-b1534d5208c3/2c787289-6f48-4b3b-a4a6-d743c21c522f_ism_-screenshot-5-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/1a/0f/0d1a0f80-15a5-c39e-5433-4b509a240b73/30a7f90c-9a67-4fac-9b3c-8150552a149a_ism_-screenshot-4-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/50/6d/83506d73-f97c-1080-50ad-a2ce4ec81304/c04aeffd-f797-4a53-9a2d-0de552e9c05e_ism_-screenshot-6-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/0c/88/8d0c88cc-0633-90c0-2e4c-9e70aa39f9f7/67652c15-7f13-4c0f-906f-37b2d7d18def_ism_-screenshot-7-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/5f/2b/185f2b75-a8db-35de-41d1-d207bece0e05/7d1bb6e5-3a92-4a8a-a42c-cda466f32d77_ism_-screenshot-8-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/15/5d/d8155d9b-3e6d-5196-e834-22012c92ac36/27123e3d-ead9-4c8a-bfab-b9c47a600029_ism_-screenshot-9-1920.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/65/63/f56563ea-6171-90e6-eaa4-3eea54561c60/235733bd-7752-4c92-8fce-04303880aa56_ism_-screenshot-10-1920.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "PlantSnap",
+      "version": "7.6.2",
+      "versionDate": "2026-03-13",
+      "size": 55201970,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/net.plantsnap.freemium_Sideloadbypass2_7.6.2.ipa",
+      "developerName": "PlantSnap, Inc.",
+      "bundleIdentifier": "net.plantsnap.freemium",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/59/ce/9059ce54-3892-285b-70ff-3146f2d38a19/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPlantSnap - Plant Identifier\n\nTweak: Subscription Unlocked\n\nVersion: 7.6.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: net.plantsnap.freemium\nDeveloper: PlantSnap, Inc.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/c8/e4/44c8e428-cd3e-de75-3cf2-96c44332db89/5affcb05-47ec-47bf-b10d-3c65e0b9234c_Plant_diary_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/7d/c3/897dc30c-f0fa-bb6b-36e1-e088fc52d4eb/0d1d9b92-2fd5-4c00-88de-6ac5305baf47_My_garden_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/56/24/ed5624ec-1561-a308-2429-3fc3c19c4014/1f2bf80a-79d4-4178-8c97-1c2a65985e03_Plant_details_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ce/6f/51ce6f75-2f0e-77ec-89d7-4a059725a9ea/15d94572-19f6-43a1-a2dc-6ec5f2d307fb_Plant_database_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/83/2a/7e832a28-038c-b4be-c5ac-0f03d99346e6/51d44899-67b8-41ea-8851-8f8f8815c29a_Identification_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/f7/4b/1cf74b51-8dc3-42b0-9920-686ab5eae521/d31e14af-284f-4479-b528-8cef489292ee_Explore_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/d5/ff/0fd5fffd-054f-61ad-70ee-6ef13565b42d/5c4ae2e0-b007-45eb-8a8e-d19137ff2526_Community_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "EPIK",
+      "version": "7.0.130",
+      "versionDate": "2026-03-13",
+      "size": 157791157,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.snowcorp.epik_EPIK_7.0.130.ipa",
+      "developerName": "SNOW Corporation",
+      "bundleIdentifier": "com.snowcorp.epik",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/71/0d/68710db1-a85f-c40e-d86b-dac1df9cbc05/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nEPIK - AI Photo & Video Editor\n\n• Bundle ID: com.snowcorp.epik\n• Updated to: 7.0.130\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⛔️Restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/45/d9/5745d933-47ec-80c1-7466-2480d5e998dc/Adjust_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/39/4a/b3394a4a-1c0e-cc87-2cef-8d6e47269b45/Sticker_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b5/92/14b592f5-9e23-7330-3064-44d6a1fdc87e/Restrore_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/71/f0/3871f094-7f61-050f-09a4-60009e26259f/HD_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/bd/41/ecbd4176-37af-fca2-e40f-d0c669ffeddf/Cutout_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5f/c3/235fc36f-aaa7-e342-d695-3b37232be3d0/Layout_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f9/26/34f92689-f584-3f21-9349-70251f3b4a50/Beauty_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/97/16/ab97163b-1af1-86ef-b136-9d7a2c0f719b/Remove_en.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "ProFit",
       "version": "7.16.14",
       "versionDate": "2026-03-13",
@@ -2590,30 +2659,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "EPIK",
-      "version": "7.0.121",
-      "versionDate": "2026-03-11",
-      "size": 158265369,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.snowcorp.epik_EPIK_7.0.121.ipa",
-      "developerName": "SNOW Corporation",
-      "bundleIdentifier": "com.snowcorp.epik",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/71/0d/68710db1-a85f-c40e-d86b-dac1df9cbc05/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nEPIK - AI Photo & Video Editor\n\n• Bundle ID: com.snowcorp.epik\n• Updated to: 7.0.121\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⛔️Restart the app if subscription isn't active.\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/45/d9/5745d933-47ec-80c1-7466-2480d5e998dc/Adjust_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/39/4a/b3394a4a-1c0e-cc87-2cef-8d6e47269b45/Sticker_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b5/92/14b592f5-9e23-7330-3064-44d6a1fdc87e/Restrore_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/71/f0/3871f094-7f61-050f-09a4-60009e26259f/HD_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/bd/41/ecbd4176-37af-fca2-e40f-d0c669ffeddf/Cutout_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5f/c3/235fc36f-aaa7-e342-d695-3b37232be3d0/Layout_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f9/26/34f92689-f584-3f21-9349-70251f3b4a50/Beauty_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/97/16/ab97163b-1af1-86ef-b136-9d7a2c0f719b/Remove_en.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "SimplyPiano",
       "version": "9.10.61",
       "versionDate": "2026-03-11",
@@ -3273,30 +3318,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/a2/a9/18a2a9da-01e1-3df3-898e-2472ce2a1762/168af86f-52dc-490d-b524-d8ce3d7013cc_SCREEN_2_1242_x_2208.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/72/97/0b729761-92a7-d736-c0c5-7210da41d34d/11fe966b-d981-4f01-a0bc-d92b701a5a73_SCREEN_3_1242_x_2208.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/1e/e0351e35-9afd-0d3d-8f8b-c587f471439b/7b287192-6082-4205-8215-b94464e0bf5d_SCREEN_4_1242_x_2208.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "ism",
-      "version": "7.36.0",
-      "versionDate": "2026-03-11",
-      "size": 306506024,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ahaf.mshion_ism_7.36.0.ipa",
-      "developerName": "MWM",
-      "bundleIdentifier": "com.ahaf.mshion",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b1/cb/9cb1cbbf-f715-8db9-ee23-1943f705ebc4/rebrand_app_icon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nism: digital camera & filter\n\n• Bundle ID: com.ahaf.mshion\n• Updated to: 7.36.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/24/25/4b2425ca-cfee-dab5-60dd-0924730d027f/249fb166-372e-4671-a8fc-8e7cbffc23dc_ism_-screenshot-1-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/b6/72/43b67251-87b4-1750-04b4-61eab2251252/95ed4e69-9d20-4f7f-8318-2d71bcaf4ded_ism_-screenshot-2-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/97/36/f997362e-441e-a62a-c4ad-237cb8e35143/f7bdd122-5681-4607-ae88-66adbb3c492d_ism_-screenshot-3-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/6d/0d/da6d0d2a-81c3-6583-2d27-b1534d5208c3/2c787289-6f48-4b3b-a4a6-d743c21c522f_ism_-screenshot-5-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/1a/0f/0d1a0f80-15a5-c39e-5433-4b509a240b73/30a7f90c-9a67-4fac-9b3c-8150552a149a_ism_-screenshot-4-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/50/6d/83506d73-f97c-1080-50ad-a2ce4ec81304/c04aeffd-f797-4a53-9a2d-0de552e9c05e_ism_-screenshot-6-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/0c/88/8d0c88cc-0633-90c0-2e4c-9e70aa39f9f7/67652c15-7f13-4c0f-906f-37b2d7d18def_ism_-screenshot-7-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/5f/2b/185f2b75-a8db-35de-41d1-d207bece0e05/7d1bb6e5-3a92-4a8a-a42c-cda466f32d77_ism_-screenshot-8-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/15/5d/d8155d9b-3e6d-5196-e834-22012c92ac36/27123e3d-ead9-4c8a-bfab-b9c47a600029_ism_-screenshot-9-1920.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/65/63/f56563ea-6171-90e6-eaa4-3eea54561c60/235733bd-7752-4c92-8fce-04303880aa56_ism_-screenshot-10-1920.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
