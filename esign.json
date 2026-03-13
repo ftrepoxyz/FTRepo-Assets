@@ -3,6 +3,43 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Twitter",
+      "version": "11.72",
+      "versionDate": "2026-03-13",
+      "size": 190340350,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.atebits.Tweetie2_TwitDate_11.72.ipa",
+      "developerName": "X Corp.",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/13/16/69131624-7232-3d78-8c2b-44494958efad/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nClassic BHTwitter+ 11.72\n\n- Twitter to 11.72\n- Info: NeoFreeBird witch is a fork of BHTwitter\n- Classic style NeoFreeBird\n- TwitDate\n- OLED Keyboard\n- Added TWIGalaxy\n- FixTwitterLogin\n- Patch already included\n- TwitterNoID\n\nCracked by @Jacks_Apps0510\nApp decrypted by @eeveedecrypterbot",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/08/bb/4908bb23-f894-6820-0813-7787e71e05f5/89eae6ec-850a-46e4-a590-bb462e354b1b_iPad_12.9_-_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/e2/1e/18e21ed5-e600-5886-4a64-440fd75966ad/c60cd26e-fd51-4459-8941-f5ac72fc19a0_iPad_12.9_-_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/25/15/fa2515f3-c9e0-7a00-b9c3-e91ac2a87a1f/abdab1ff-1d0a-4c36-96a5-b574c62f2d85_iPad_12.9_-_1.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Snappier IPTV",
+      "version": "5.3.3",
+      "versionDate": "2026-03-11",
+      "size": 83840667,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/uk.co.snappy-code.snappierIPTV_SnappierIPTVPatch_5.3.3.ipa",
+      "developerName": "Sarah Bainbridge",
+      "bundleIdentifier": "uk.co.snappy-code.snappierIPTV",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/47/70/df477091-f577-731a-aa58-48e9dbeddc8a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSnappier IPTV\n\nPro features unlocked\n\nSign with custom entitlements file if the app is crashing for you\n\nTweak made by Никита\n\nMinimum OS version 18.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/1d/e8/a01de877-206e-0cda-c55a-85cf04fc2aba/1B8BF4F4-00A8-4E12-A689-FE39DDA7A7DA-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-11-03_at_20.03.40.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/48/42/cc48424f-ec43-5db4-5de2-4f6ad256df6a/4C1E420B-C745-4054-9BEB-D82C8710503D-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-11-03_at_20.02.57.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/70/48/797048b8-fc06-d3a0-566a-d2ba8982deb5/29493390-7572-4FA4-82E7-A26B924FBEDD-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-11-03_at_20.03.02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/9f/54/999f54c1-afe9-25a4-77b9-f19b05123be0/5d76d536-3b82-4057-9246-a52d5e571298_2647016E-7915-445E-8614-53D179D524F0-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.46.55.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/da/57/fbda57f2-77fc-994d-2f1d-3e8948cf785a/69921a28-26fc-4f54-978a-f31d2ba1687d_C8893B6E-FE7A-4A2F-A72C-05AA2366B319-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.49.49.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/63/37/85633787-2b1a-a892-e798-f0818f63ac50/3591de81-2ead-4d3f-ab9d-204df9471614_B5FC1AFE-E0D6-4907-9788-2F839FF7CAAC-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.47.10.png/1320x2868bb.webp"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Lampa",
       "version": "2.0.1",
       "versionDate": "2026-03-13",
@@ -1823,23 +1860,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/9b/56/ce9b56b8-e067-2d2b-91b0-7d9d3677625c/EN_ipadpro13_02.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/51/ec/c951ec4b-4ad0-8cd7-d14d-d8effa13d764/EN_ipadpro13_03.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/4d/ba/254dbac9-a371-c877-41e1-cd57fcd2f3ee/EN_ipadpro13_04.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "X",
-      "version": "11.72",
-      "versionDate": "2026-03-11",
-      "size": 181985452,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.atebits.Tweetie2_BHTwitter_11.72.ipa",
-      "developerName": "X Corp.",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/13/16/69131624-7232-3d78-8c2b-44494958efad/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBHX\nAwesome tweak for Twitter\n\nFeatures\n\n⚠️ Install this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/08/bb/4908bb23-f894-6820-0813-7787e71e05f5/89eae6ec-850a-46e4-a590-bb462e354b1b_iPad_12.9_-_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/e2/1e/18e21ed5-e600-5886-4a64-440fd75966ad/c60cd26e-fd51-4459-8941-f5ac72fc19a0_iPad_12.9_-_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/25/15/fa2515f3-c9e0-7a00-b9c3-e91ac2a87a1f/abdab1ff-1d0a-4c36-96a5-b574c62f2d85_iPad_12.9_-_1.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -8332,26 +8352,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3d/b5/e23db589-6aa3-ffed-61de-affc332dddb2/31d06a27-ca42-433e-83a2-422d59955503_iPhone_8_Plus-4_locations_framed.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ec/8e/adec8e6a-3079-104a-c3b4-57137e7bb1d4/ccb3f0b0-1503-43ff-8059-0eff7a4459a1_iPhone_8_Plus-2_warning_framed.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/2b/33/b62b3317-c5a5-568a-6c12-518266804dd6/f0a666c3-aa8c-49d1-a208-0c27c3f80659_iPhone_8_Plus-6_news_framed.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Snappier IPTV",
-      "version": "5.3.3",
-      "versionDate": "2026-03-11",
-      "size": 83840667,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/uk.co.snappy-code.snappierIPTV_SnappierIPTVPatch_5.3.3.ipa",
-      "developerName": "Sarah Bainbridge",
-      "bundleIdentifier": "uk.co.snappy-code.snappierIPTV",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/47/70/df477091-f577-731a-aa58-48e9dbeddc8a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSnappier IPTV\n\nPro features unlocked\n\nSign with custom entitlements file if the app is crashing for you\n\nTweak made by Никита\n\nMinimum OS version 18.6\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/1d/e8/a01de877-206e-0cda-c55a-85cf04fc2aba/1B8BF4F4-00A8-4E12-A689-FE39DDA7A7DA-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-11-03_at_20.03.40.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/48/42/cc48424f-ec43-5db4-5de2-4f6ad256df6a/4C1E420B-C745-4054-9BEB-D82C8710503D-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-11-03_at_20.02.57.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/70/48/797048b8-fc06-d3a0-566a-d2ba8982deb5/29493390-7572-4FA4-82E7-A26B924FBEDD-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-11-03_at_20.03.02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/9f/54/999f54c1-afe9-25a4-77b9-f19b05123be0/5d76d536-3b82-4057-9246-a52d5e571298_2647016E-7915-445E-8614-53D179D524F0-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.46.55.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/da/57/fbda57f2-77fc-994d-2f1d-3e8948cf785a/69921a28-26fc-4f54-978a-f31d2ba1687d_C8893B6E-FE7A-4A2F-A72C-05AA2366B319-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.49.49.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/63/37/85633787-2b1a-a892-e798-f0818f63ac50/3591de81-2ead-4d3f-ab9d-204df9471614_B5FC1AFE-E0D6-4907-9788-2F839FF7CAAC-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.47.10.png/1320x2868bb.webp"
       ],
       "tintColor": "#5C7AEA"
     },
