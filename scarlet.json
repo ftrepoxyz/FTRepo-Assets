@@ -5,6 +5,33 @@
   },
   "data": [
     {
+      "name": "MoneyCoach",
+      "version": "11.2.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.duuro.moneyCoach_Sideloadbypass2_11.2.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.duuro.moneyCoach",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/49/80/a049808e-f1d3-c0f3-0297-27eb071f5708/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nMoney Coach My Budget Planner\n\nTweak: Subscription Unlocked\n\nVersion: 11.2.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.duuro.moneyCoach\nDeveloper: MoneyCoach UG",
+      "developer": "MoneyCoach UG",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/00/51/4d00519b-d7d2-5ca2-f18c-6afae1b5077f/iPad_US_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/cb/bf/81cbbf70-3c79-288e-30cc-325a02c0d5ee/iPad_US_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/d6/9a/06d69ab5-ece2-2e93-6fda-4fc5e1f97f8f/iPad_US_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/6e/7e/c66e7ef3-71c1-813a-d6a3-012ee3288100/iPad_US_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/84/e8/a984e80f-f5f3-0704-39e1-35c43fe0bf15/iPad_US_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/bf/34/9bbf344d-ff5e-2e5e-a455-8d9b55a04fc9/iPad_US_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/03/b8/3b03b824-da16-5a3d-4bac-cd2af49d758c/iPad_US_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/6e/4c/da6e4c6d-8216-765e-3f74-0690f2b34212/iPad_US_8.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Chat Smith",
       "version": "8.260309.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260309.1.ipa",
@@ -6438,33 +6465,6 @@
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ea/e7/49eae7bd-4656-66ee-a4a1-bf5a5fd88dfd/67034040-ffeb-49ad-bdaf-13d6a6be1295_Iphone_1.png/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/89/76/75897604-2a39-415d-1c7a-5b6668eac4c6/a84a7ade-a376-4f79-a3b1-c52c1c11442f_Iphone_6.5_5__U00283_U0029.png/1320x2868bb.webp"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "MoneyCoach",
-      "version": "11.2.3",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.duuro.moneyCoach_Sideloadbypass2_11.2.3.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.duuro.moneyCoach",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/49/80/a049808e-f1d3-c0f3-0297-27eb071f5708/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nMoney Coach My Budget Planner\n\nTweak: Subscription Unlocked\n\nVersion: 11.2.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.duuro.moneyCoach\nDeveloper: MoneyCoach UG",
-      "developer": "MoneyCoach UG",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/00/51/4d00519b-d7d2-5ca2-f18c-6afae1b5077f/iPad_US_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/cb/bf/81cbbf70-3c79-288e-30cc-325a02c0d5ee/iPad_US_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/d6/9a/06d69ab5-ece2-2e93-6fda-4fc5e1f97f8f/iPad_US_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/6e/7e/c66e7ef3-71c1-813a-d6a3-012ee3288100/iPad_US_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/84/e8/a984e80f-f5f3-0704-39e1-35c43fe0bf15/iPad_US_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/bf/34/9bbf344d-ff5e-2e5e-a455-8d9b55a04fc9/iPad_US_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/03/b8/3b03b824-da16-5a3d-4bac-cd2af49d758c/iPad_US_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/6e/4c/da6e4c6d-8216-765e-3f74-0690f2b34212/iPad_US_8.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
