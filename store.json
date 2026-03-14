@@ -16860,11 +16860,17 @@
       "name": "TapeKit",
       "bundleIdentifier": "com.widget-kid",
       "developerName": "Pavel Serdziukou",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/c4/c1/5cc4c1eb-2cef-1fa0-2209-59f1a2637261/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nTapeKit・Lab of Top Widgets・GIF\n\nTweak: Premium Unlocked\n\nVersion: 3.1.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.widget-kid\nDeveloper: Pavel Serdziukou",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/7d/84/407d8410-9f00-2325-a7dd-2029e0dc5367/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTapeKit・Lab of Top Widgets・GIF\n\nTweak: Premium Unlocked\n\nVersion: 3.1.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.widget-kid\nDeveloper: Pavel Serdziukou",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "3.1.1",
+          "date": "2026-03-14",
+          "size": 146070671,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.widget-kid_Sideloadbypass2_3.1.1.ipa"
+        },
         {
           "version": "3.1.0",
           "date": "2026-03-11",
@@ -16873,10 +16879,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.1.0",
-      "versionDate": "2026-03-11T13:35:45.477Z",
-      "size": 145223504,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.widget-kid_Sideloadbypass2_3.1.0.ipa"
+      "version": "3.1.1",
+      "versionDate": "2026-03-14T20:32:38.514Z",
+      "size": 146070671,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.widget-kid_Sideloadbypass2_3.1.1.ipa"
     },
     {
       "name": "Lungy",
@@ -21029,7 +21035,7 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nApollo for Reddit\n\nApollo-ImprovedCustomApi\n\nPlease carefully read the tutorial that appears when you open the app\n\nTweak changelog\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @thescholarslounge",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png"
@@ -21065,16 +21071,16 @@
       "versions": [
         {
           "version": "1.15.11",
-          "date": "2026-03-13",
-          "size": 114979047,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
+          "date": "2026-03-14",
+          "size": 114788836,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
         }
       ],
       "appPermissions": {},
       "version": "1.15.11",
-      "versionDate": "2026-03-13T07:30:36.962Z",
-      "size": 114979047,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
+      "versionDate": "2026-03-14T20:32:20.002Z",
+      "size": 114788836,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
     },
     {
       "name": "Persona",
