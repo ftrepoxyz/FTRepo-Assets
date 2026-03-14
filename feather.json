@@ -14348,11 +14348,17 @@
       "name": "BeFreed",
       "bundleIdentifier": "ai.befreed.freed-frontend-rn",
       "developerName": "beFreed, Inc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/16/4f/f7164f9e-66a3-0084-1db1-568a7ecb9a31/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBeFreed: Learn Anything\n\nTweak: Subscription Unlocked\n\nVersion: 4.3.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: ai.befreed.freed-frontend-rn\nDeveloper: beFreed, Inc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/d5/66/c9d56663-85f4-c1c3-60e3-550e4d4ed0d6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBeFreed: Learn Anything\n\nTweak: Subscription Unlocked\n\nVersion: 4.3.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: ai.befreed.freed-frontend-rn\nDeveloper: beFreed, Inc",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "4.3.5",
+          "date": "2026-03-14",
+          "size": 44339417,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.5.ipa"
+        },
         {
           "version": "4.3.3",
           "date": "2026-03-11",
@@ -14361,10 +14367,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.3.3",
-      "versionDate": "2026-03-11T13:43:04.090Z",
-      "size": 43977794,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.3.ipa"
+      "version": "4.3.5",
+      "versionDate": "2026-03-14T20:01:54.173Z",
+      "size": 44339417,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.5.ipa"
     },
     {
       "name": "Imposter",
