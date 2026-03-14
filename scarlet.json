@@ -5,6 +5,56 @@
   },
   "data": [
     {
+      "name": "UpNote",
+      "version": "9.17.7",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.getupnote.ios_UpNote_9.17.7.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.getupnote.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/9b/ea/b89bea25-60b4-b3b9-9713-a482f783f168/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nUpNote - notes, diary, journal\n\n• Bundle ID: com.getupnote.ios\n• Updated to: 9.17.7\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart the app if subscription is not active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "UpNote Company Limited",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/2b/0a/d52b0a40-c84d-61dd-37c3-9c943c660677/d0ddf798-add0-4bfe-879c-357f97af258f_iphone-1-min.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/6a/57/596a5789-9875-eac3-05d2-9e36421403ff/89419369-3352-49c0-a176-33e52d6305c0_iphone-2-min.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/17/66/211766fc-f600-fa36-d3d6-e333c71d901f/35485d05-942f-48a9-b42a-ba13381f1dd9_iphone-3-min.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1d/e6/ef/1de6ef50-ea78-866b-a62b-8ac177b9cbe6/ddce7622-3ae7-472d-bb9f-5867eea772fb_iphone-4-min.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/58/92/bd58929b-d6f8-2181-3f4d-a12cf2d235a9/231f6304-84ec-4bcd-8960-58dcad8171d4_iphone-5-min.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "TikTok (VibeTok)",
+      "version": "44.2.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.zhiliaoapp.musically_sideloadKeychainfixBlatants_44.2.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.zhiliaoapp.musically",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nTikTok - Videos, Shop & LIVE\n\n• Bundle ID: com.zhiliaoapp.musically\n• Reuploaded: 44.2.0\n• Minimum iOS: 12.0\n• Patched\n• Modifier: VibeTok v1.72\n• Tweaked by @blatants\n\n• Note:\nTweak by DENS0R Showcase\n\nChangelog:\n\nVibeTok V1.71\n- Story View Count : Show the number of views on stories\n- Lock favorites : Authenticate to view favorites\n• Bug Fixes & Performance Improvements\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "TikTok Ltd.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Bazaart",
       "version": "26.1.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/co.bazaart.app_Bazaart_26.1.3.ipa",
@@ -1701,32 +1751,6 @@
       "bundleID": "com.zhiliaoapp.musically",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "description": "from @binnichtaktivsipas |\n----------------\nBHTikTokPlus\n\nAn awesome tweak for \n\nFeatures\n\nFix was made by choco\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
-      "developer": "TikTok Ltd.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "TikTok (VibeTok)",
-      "version": "44.2.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.zhiliaoapp.musically_VibeTok_44.2.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.zhiliaoapp.musically",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nVibeTok\n\nFree tweak with many features\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
       "developer": "TikTok Ltd.",
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
@@ -4415,30 +4439,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/e8/a4/28e8a4dd-39d5-b93e-4c0d-2d6a6dc0ceab/iPhone_6.5_Expenses.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/ab/63/8eab63ef-a42c-db66-2144-5d7837ebdc8d/iPhone_6.5_Trip_Guests.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/0e/a3/a70ea361-d426-5130-c014-49a9e7bf56a4/iPhone_6.5_Documents.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "UpNote",
-      "version": "9.17.5",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.getupnote.ios_UpNote_9.17.5.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.getupnote.ios",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/9b/ea/b89bea25-60b4-b3b9-9713-a482f783f168/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nUpNote - notes, diary, journal\n\n• Bundle ID: com.getupnote.ios\n• Updated to: 9.17.5\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart the app if subscription is not active.\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "UpNote Company Limited",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/2b/0a/d52b0a40-c84d-61dd-37c3-9c943c660677/d0ddf798-add0-4bfe-879c-357f97af258f_iphone-1-min.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/6a/57/596a5789-9875-eac3-05d2-9e36421403ff/89419369-3352-49c0-a176-33e52d6305c0_iphone-2-min.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/17/66/211766fc-f600-fa36-d3d6-e333c71d901f/35485d05-942f-48a9-b42a-ba13381f1dd9_iphone-3-min.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1d/e6/ef/1de6ef50-ea78-866b-a62b-8ac177b9cbe6/ddce7622-3ae7-472d-bb9f-5867eea772fb_iphone-4-min.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/58/92/bd58929b-d6f8-2181-3f4d-a12cf2d235a9/231f6304-84ec-4bcd-8960-58dcad8171d4_iphone-5-min.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
