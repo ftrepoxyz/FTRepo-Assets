@@ -3,6 +3,31 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "VocaCircle",
+      "version": "3.2.6",
+      "versionDate": "2026-03-14",
+      "size": 14419811,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.genau.MemoryCircle_Sideloadbypass2_3.2.6.ipa",
+      "developerName": "Genau Factory",
+      "bundleIdentifier": "com.genau.MemoryCircle",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/bb/c8/aabbc8ab-1473-137c-78bf-8cb2b70fb5fa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVocaCircle: AI Smart Flashcard\n\nTweak: Subscription Unlocked\n\nVersion: 3.2.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.MemoryCircle\nDeveloper: Genau Factory",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/d2/bd/61d2bd5e-3a7d-61ea-ed90-bace8814089f/JC-ipad-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/aa/0a/41aa0a39-e638-7057-aeee-3e6e2453c69b/JC-ipad-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/f9/44/4ef94488-8e5a-6cad-8c59-7497066e711f/JC-ipad-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/af/a3/69afa301-40a6-6b82-ef67-62f72532ac65/JC-ipad-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/1a/cf/e11acfdb-72a8-4204-0113-4d5669197928/JC-ipad-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/74/fb/5374fb8e-964c-41b6-9385-74cbfb1af87d/JC-ipad-6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/1b/fe/6b1bfea7-a95f-6d3b-4a62-6029d7426eb0/JC-ipad-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ac/e3/fcace39e-02d3-d205-f4aa-f5319e5d09a8/JC-ipad-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/18/87/8c188759-15cd-64bf-e3b2-ad746aadc3f0/JC-ipad-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/da/7b/c4da7b1a-3cd1-bd26-186c-a6de99c2048a/JC-ipad-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/68/36/836836cf-1f8d-3a65-8e0f-198d8c8d55bf/JC-ipad-5.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Spoke",
       "version": "3.0.0",
       "versionDate": "2026-03-14",
