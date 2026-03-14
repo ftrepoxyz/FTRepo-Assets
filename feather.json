@@ -14151,6 +14151,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.leomehlig.today_StructuredPro_4.4.5.ipa"
     },
     {
+      "name": "Shopping List",
+      "bundleIdentifier": "jp.tyabaken.kaimono",
+      "developerName": "kenta ito",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/92/a7/3d92a7aa-13ea-8626-06a7-5855afb84706/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nShopii - Grocery List & To Do\n\nTweak: Pro Unlocked\n\nVersion: 4.4.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: jp.tyabaken.kaimono\nDeveloper: kenta ito",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.4.3",
+          "date": "2026-03-14",
+          "size": 14879857,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/jp.tyabaken.kaimono_Sideloadbypass2_4.4.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.4.3",
+      "versionDate": "2026-03-14T22:02:00.509Z",
+      "size": 14879857,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/jp.tyabaken.kaimono_Sideloadbypass2_4.4.3.ipa"
+    },
+    {
       "name": "HiWidget",
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
@@ -14424,11 +14446,17 @@
       "name": "Bill Tracker",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/cc/8c/b2cc8c70-a13a-0840-c3c0-89269d24416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.53\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/1f/27/541f27e6-78d3-1d2b-42de-30be0c66a62b/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.54\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "4.1.54",
+          "date": "2026-03-14",
+          "size": 147128788,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.54.ipa"
+        },
         {
           "version": "4.1.53",
           "date": "2026-03-13",
@@ -14440,19 +14468,13 @@
           "date": "2026-03-11",
           "size": 147099696,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.52.ipa"
-        },
-        {
-          "version": "4.1.50",
-          "date": "2026-03-11",
-          "size": 146963823,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.50.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.53",
-      "versionDate": "2026-03-13T03:00:36.233Z",
-      "size": 147124950,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.53.ipa"
+      "version": "4.1.54",
+      "versionDate": "2026-03-14T21:32:21.263Z",
+      "size": 147128788,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.54.ipa"
     },
     {
       "name": "Stndrd",
@@ -19774,11 +19796,17 @@
       "name": "AlevioOS",
       "bundleIdentifier": "com.alevioos.app",
       "developerName": "SILVIA ISABELLA DANYLUK",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/a2/b2/87a2b21a-dc81-b94d-47f4-4696ccb2626e/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAlevioOS - Local Ai\n\n• Bundle ID: com.alevioos.app\n• Updated to: 2.4.5\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b2/2d/f2b22dc7-87bd-58b6-75b0-7977232891dd/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAlevioOS - Local Ai\n\n• Bundle ID: com.alevioos.app\n• Updated to: 2.4.6\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.4.6",
+          "date": "2026-03-14",
+          "size": 28808366,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.alevioos.app_AlevioOS_2.4.6.ipa"
+        },
         {
           "version": "2.4.5",
           "date": "2026-03-11",
@@ -19793,10 +19821,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.4.5",
-      "versionDate": "2026-03-11T07:57:40.257Z",
-      "size": 28807875,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.alevioos.app_AlevioOS_2.4.5.ipa"
+      "version": "2.4.6",
+      "versionDate": "2026-03-14T22:01:55.699Z",
+      "size": 28808366,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.alevioos.app_AlevioOS_2.4.6.ipa"
     },
     {
       "name": "InCollage",
@@ -20351,6 +20379,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.stanga.projectKu_WalliPro_2.0.3.ipa"
     },
     {
+      "name": "Lampa",
+      "bundleIdentifier": "com.lampa.photo",
+      "developerName": "Alexey Teplonogov",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0f/16/000f1650-8d62-e044-6d9f-658734746d17/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLampa — Digital & Film Camera\n\n• Bundle ID: com.lampa.photo\n• Updated to: 2.0.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Unlimited Photos + Filters Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore the purchase pages and the lock icons you should be able to click on the filters and use them just fine. Also after 5 photos just restart the app to reset the limit.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2026-03-14",
+          "size": 86234441,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lampa.photo_Lampa_2.0.2.ipa"
+        },
+        {
+          "version": "2.0.1",
+          "date": "2026-03-14",
+          "size": 86343335,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lampa.photo_Lampa_2.0.1.ipa"
+        },
+        {
+          "version": "2.0.0",
+          "date": "2026-03-11",
+          "size": 75069857,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.lampa.photo_Lampa_2.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.0.2",
+      "versionDate": "2026-03-14T21:32:02.332Z",
+      "size": 86234441,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lampa.photo_Lampa_2.0.2.ipa"
+    },
+    {
       "name": "Аут",
       "bundleIdentifier": "com.timurvaleev.autapp",
       "developerName": "Unknown Developer",
@@ -20371,34 +20433,6 @@
       "versionDate": "2026-03-11T12:03:36.312Z",
       "size": 299397822,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.timurvaleev.autapp_2.0.2.ipa"
-    },
-    {
-      "name": "Lampa",
-      "bundleIdentifier": "com.lampa.photo",
-      "developerName": "Alexey Teplonogov",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/a4/a6/0ba4a606-4a71-311f-3ff7-49b232a643e8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLampa — Digital & Film Camera\n\n• Bundle ID: com.lampa.photo\n• Reuploaded: 2.0.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Unlimited Photos + Filters Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore the purchase pages and the lock icons you should be able to click on the filters and use them just fine. Also after 5 photos just restart the app to reset the limit.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "2.0.1",
-          "date": "2026-03-14",
-          "size": 86343335,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lampa.photo_Lampa_2.0.1.ipa"
-        },
-        {
-          "version": "2.0.0",
-          "date": "2026-03-11",
-          "size": 75069857,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.lampa.photo_Lampa_2.0.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.0.1",
-      "versionDate": "2026-03-14T15:02:43.676Z",
-      "size": 86343335,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lampa.photo_Lampa_2.0.1.ipa"
     },
     {
       "name": "Erhanra",
