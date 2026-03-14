@@ -5,6 +5,86 @@
   },
   "data": [
     {
+      "name": "PS Express",
+      "version": "26.9.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.adobe.PSMobile_PhotoshopExpressPremium_26.9.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.adobe.PSMobile",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/c2/75/b4c27599-794a-987a-d89c-8b5c1b8d442c/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "description": "from @thescholarslounge |\n----------------\nPhotoshop Express 26.9.1.8701\n- Photoshop Express 26.9.1.8701\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510",
+      "developer": "Adobe Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/8e/e5/b28ee5f8-59e8-a224-53f1-ce12470a4411/5356e424-df7c-4726-867e-7001bfe18a13_TEST_7_03_PsX_iOS_5.5_Gen_Fill_1242x2208_US_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/0e/7f/260e7f56-8bde-ff7e-744e-d25646e96703/54f9de5a-de0d-4e33-b1ca-a12041aa252b_C_03_Adobe_PsX_iOS_5.5_AI_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/32/f8/9932f87a-2305-a6b3-ae83-ce857b1557da/f6607561-1ac5-429b-9fc6-0d6b34d4e22b_01_PsX_iOS_5.5_Collages_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/06/b2/3806b2a0-18c1-4e7e-3dbc-5712906c1bc9/6de65868-57df-4f4f-8e94-f5c5ea4757d0_02_PsX_iOS_5.5_Eyes_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/59/db/2f59db72-b665-9d2c-928b-f2591e5b3f5d/d0394801-f850-45d1-ada8-2b8ffe3332c8_03_PsX_iOS_5.5_Filters_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/df/22/3bdf2203-1391-7f0b-b014-80fcb16428d7/3b2786a4-e9c2-4f95-b37e-6bd359d0cc82_04_PsX_iOS_5.5_Makeup_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/1e/ee/de1eee94-62ea-1795-53a0-d59aef751c85/b4dcfce3-9138-4713-b372-378241ab5ee1_05_PsX_iOS_5.5_Multi-Object_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/d2/84/95d284ee-e34b-723b-2ff1-c533e462ee8e/e06d4c39-9ae4-4c37-b746-accfaeddf853_06_PsX_iOS_5.5_Retouch_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/44/f0/2444f02c-141e-31a6-796d-c02d11956d12/c2532e3b-91bb-4f13-9803-6a2e22cb2588_07_PsX_iOS_5.5_Stickers_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/16/0f/e5160f49-468e-6d2f-bf30-f264bc69faa5/7b5ff025-218a-4eb7-b570-6b18e18760f4_08_PsX_iOS_5.5_Healing_1242x2208_CA.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Calm",
+      "version": "6.91",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.calm.calmapp_Calm_6.91.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.calm.calmapp",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/9e/e5/179ee569-5dae-d85f-5d52-92b607761a48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nCalm\n\n• Bundle ID: com.calm.calmapp\n• Updated to: 6.91\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore purchase pages all the features should work.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Calm.com",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d7/a0/c4d7a09f-9670-503d-548b-dac1f19012a2/92a594c0-f5b1-4739-bffd-88930991b524_iPhone_5.5_Inch_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b9/78/c2b978bb-3fe0-c2ab-6777-917fc5a89bc0/6f697906-3d56-49aa-9a43-9450f30baa69_iPhone_5.5_Inch_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/4a/8d/294a8d22-65f9-054b-8d9d-158a4a3a5079/1e1fea27-bf2c-4468-90f2-41dfc4dc2487_iPhone_5.5_Inch_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/9d/e1/2c9de18e-fd34-40b2-3c45-43d7922199ae/1ab114e3-3a44-4557-95c4-f3ec3b27ec42_iPhone_5.5_Inch_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/a4/8f/4da48ffc-e467-bcd2-9901-74e60449a423/da0538ba-be45-42e7-b3fa-b6f44e0223ba_iPhone_5.5_Inch_06.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Mercury",
+      "version": "3.4.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.tripleglazedstudios.Weather_MercuryWeather_3.4.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.tripleglazedstudios.Weather",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/af/06/42af066b-48ad-b847-ca12-b7891ed78677/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @thescholarslounge |\n----------------\nMercury Weather\n\n• Bundle ID: com.tripleglazedstudios.Weather\n• Updated to: 3.4.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when installed with a certificate with Appgroups enabled.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Triple Glazed Studios",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/06/17/eb0617e1-3ddf-c259-0388-15097aa73909/0fc24c54-17ee-43a0-bc3b-05e244f1f110_Screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/ea/6d/a8ea6d78-c936-0dda-c4a8-3380c8d77c61/f6538015-5ad3-4868-94dd-2e9b76ecefb7_Screen_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/b5/f1/7bb5f17f-c322-7e48-d518-d250d2c0a3b8/d32abd68-598f-43d9-b7dc-2c57df308c46_Screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/68/88/40688894-854d-3f63-9043-4dcc0be1db2b/fa98b9a7-dfed-4f66-9a75-e4a133cd94a2_Screen_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/c9/35/48c935a3-681e-d449-c61e-957b0630a8b2/cb525558-ad4f-4c9d-95c1-86549fba8090_Screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/2a/01/682a013f-a044-4a4f-c84c-5b9c0ba509df/1b6298d1-7b1f-4478-8f9f-d9254fde9235_Screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/c8/25/80c82501-7d3c-bdb3-ec01-ecbc3eff0d4b/e7f5ec32-0d15-43b1-9a14-1d6493f63bfe_Screen_2.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Swiftgram Telegram (TGExtra)",
       "version": "12.5",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/app.swiftgram.ios_SwiftgramEntitlementsFix_12.5.ipa",
@@ -2566,31 +2646,6 @@
       }
     },
     {
-      "name": "Calm",
-      "version": "6.90",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.calm.calmapp_BBAESXORNEWOBFUSCATION_6.90.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.calm.calmapp",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/9e/e5/179ee569-5dae-d85f-5d52-92b607761a48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nCalm\n\nPremium features unlocked\n\nTweak made by Никита\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "developer": "Calm.com",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d7/a0/c4d7a09f-9670-503d-548b-dac1f19012a2/92a594c0-f5b1-4739-bffd-88930991b524_iPhone_5.5_Inch_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b9/78/c2b978bb-3fe0-c2ab-6777-917fc5a89bc0/6f697906-3d56-49aa-9a43-9450f30baa69_iPhone_5.5_Inch_03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/4a/8d/294a8d22-65f9-054b-8d9d-158a4a3a5079/1e1fea27-bf2c-4468-90f2-41dfc4dc2487_iPhone_5.5_Inch_04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/9d/e1/2c9de18e-fd34-40b2-3c45-43d7922199ae/1ab114e3-3a44-4557-95c4-f3ec3b27ec42_iPhone_5.5_Inch_05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/a4/8f/4da48ffc-e467-bcd2-9901-74e60449a423/da0538ba-be45-42e7-b3fa-b6f44e0223ba_iPhone_5.5_Inch_06.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Unscripted",
       "version": "4.8.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ibit.UNPOSED_RevenueCatFix26_4.8.0.ipa",
@@ -4114,32 +4169,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/33/e5/1033e522-79a8-96dd-b6b7-2f66b86775e9/pr_source.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/d0/c2/a7d0c23f-f87b-7c1c-f9bd-cd767046eb03/pr_source.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/93/e3/0893e3f4-1841-0031-3e8d-ba7c6c23f93b/pr_source.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Mercury",
-      "version": "3.4.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.tripleglazedstudios.Weather_Mercury1_3.4.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.tripleglazedstudios.Weather",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/af/06/42af066b-48ad-b847-ca12-b7891ed78677/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nMercury Weather\n\nPro unlocked\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "developer": "Triple Glazed Studios",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/06/17/eb0617e1-3ddf-c259-0388-15097aa73909/0fc24c54-17ee-43a0-bc3b-05e244f1f110_Screen_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/ea/6d/a8ea6d78-c936-0dda-c4a8-3380c8d77c61/f6538015-5ad3-4868-94dd-2e9b76ecefb7_Screen_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/b5/f1/7bb5f17f-c322-7e48-d518-d250d2c0a3b8/d32abd68-598f-43d9-b7dc-2c57df308c46_Screen_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/68/88/40688894-854d-3f63-9043-4dcc0be1db2b/fa98b9a7-dfed-4f66-9a75-e4a133cd94a2_Screen_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/c9/35/48c935a3-681e-d449-c61e-957b0630a8b2/cb525558-ad4f-4c9d-95c1-86549fba8090_Screen_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/2a/01/682a013f-a044-4a4f-c84c-5b9c0ba509df/1b6298d1-7b1f-4478-8f9f-d9254fde9235_Screen_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/c8/25/80c82501-7d3c-bdb3-ec01-ecbc3eff0d4b/e7f5ec32-0d15-43b1-9a14-1d6493f63bfe_Screen_2.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -7733,35 +7762,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/4b/69/ba4b694a-f7af-4f67-a983-78fd233092db/465a6cbe-eb06-4380-9f5f-851ef65b6df6_en-game.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/52/cf/5052cfde-b63c-7d98-029b-cd6687796e74/19c6ec73-5d36-4c36-b4b6-b0f74c6dc939_en-game-noun.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/8e/06/9c8e06ec-3f2a-b738-0406-d2f0dbc6f75f/1902c189-4bc4-45a1-8cd5-b1d37dc1240b_en-rules.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "PS Express",
-      "version": "26.9.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.PSMobile_PSExpress_26.9.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.adobe.PSMobile",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/c2/75/b4c27599-794a-987a-d89c-8b5c1b8d442c/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nPhotoshop Express Photo Editor\n\n• Bundle ID: com.adobe.PSMobile\n• Updated to: 26.9.1.8701\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Adobe Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/8e/e5/b28ee5f8-59e8-a224-53f1-ce12470a4411/5356e424-df7c-4726-867e-7001bfe18a13_TEST_7_03_PsX_iOS_5.5_Gen_Fill_1242x2208_US_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/0e/7f/260e7f56-8bde-ff7e-744e-d25646e96703/54f9de5a-de0d-4e33-b1ca-a12041aa252b_C_03_Adobe_PsX_iOS_5.5_AI_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/32/f8/9932f87a-2305-a6b3-ae83-ce857b1557da/f6607561-1ac5-429b-9fc6-0d6b34d4e22b_01_PsX_iOS_5.5_Collages_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/06/b2/3806b2a0-18c1-4e7e-3dbc-5712906c1bc9/6de65868-57df-4f4f-8e94-f5c5ea4757d0_02_PsX_iOS_5.5_Eyes_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/59/db/2f59db72-b665-9d2c-928b-f2591e5b3f5d/d0394801-f850-45d1-ada8-2b8ffe3332c8_03_PsX_iOS_5.5_Filters_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/df/22/3bdf2203-1391-7f0b-b014-80fcb16428d7/3b2786a4-e9c2-4f95-b37e-6bd359d0cc82_04_PsX_iOS_5.5_Makeup_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/1e/ee/de1eee94-62ea-1795-53a0-d59aef751c85/b4dcfce3-9138-4713-b372-378241ab5ee1_05_PsX_iOS_5.5_Multi-Object_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/d2/84/95d284ee-e34b-723b-2ff1-c533e462ee8e/e06d4c39-9ae4-4c37-b746-accfaeddf853_06_PsX_iOS_5.5_Retouch_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/44/f0/2444f02c-141e-31a6-796d-c02d11956d12/c2532e3b-91bb-4f13-9803-6a2e22cb2588_07_PsX_iOS_5.5_Stickers_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/16/0f/e5160f49-468e-6d2f-bf30-f264bc69faa5/7b5ff025-218a-4eb7-b570-6b18e18760f4_08_PsX_iOS_5.5_Healing_1242x2208_CA.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
