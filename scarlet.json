@@ -5,6 +5,24 @@
   },
   "data": [
     {
+      "name": "Lampa",
+      "version": "2.0.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lampa.photo_Lampa_2.0.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.lampa.photo",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/a4/a6/0ba4a606-4a71-311f-3ff7-49b232a643e8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nLampa — Digital & Film Camera\n\n• Bundle ID: com.lampa.photo\n• Reuploaded: 2.0.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Unlimited Photos + Filters Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore the purchase pages and the lock icons you should be able to click on the filters and use them just fine. Also after 5 photos just restart the app to reset the limit.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Alexey Teplonogov",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Hevy",
       "version": "3.0.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.hevyapp.hevy_Hevy_3.0.3.ipa",
@@ -623,24 +641,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/da/57/fbda57f2-77fc-994d-2f1d-3e8948cf785a/69921a28-26fc-4f54-978a-f31d2ba1687d_C8893B6E-FE7A-4A2F-A72C-05AA2366B319-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.49.49.png/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/63/37/85633787-2b1a-a892-e798-f0818f63ac50/3591de81-2ead-4d3f-ab9d-204df9471614_B5FC1AFE-E0D6-4907-9788-2F839FF7CAAC-Simulator_Screenshot_-_iPhone_14_Plus_-_2024-09-27_at_21.47.10.png/1320x2868bb.webp"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Lampa",
-      "version": "2.0.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.lampa.photo_Lampa_2.0.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.lampa.photo",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/a4/a6/0ba4a606-4a71-311f-3ff7-49b232a643e8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nLampa — Digital & Film Camera\n\n• Bundle ID: com.lampa.photo\n• Reuploaded: 2.0.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Unlimited Photos + Filters\n• Tweaked by @blatants\n\n• Note:\nIgnore the purchase pages and the lock icons you should be able to click on the filters and use them just fine. Also after 5 photos just restart the app to reset the limit.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Alexey Teplonogov",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
