@@ -5,6 +5,33 @@
   },
   "data": [
     {
+      "name": "Lake",
+      "version": "4.23.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lake.coloring_AutoRcSideload_4.23.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.lake.coloring",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/d0/3a/75d03a3f-8a65-8e5c-94b5-676956da5167/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nLake: Coloring Book for Adults\n\n• Bundle ID: com.lake.coloring\n• Updated to: 4.23.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nTrollStore/Jailbreak only.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Lake Coloring",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/50/da/e850dae5-be83-faa9-1f8b-d2845b01a642/iPhone_8_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/95/38/429538c4-520f-bcee-5ac2-0ae24e5a8ceb/iPhone_8_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/7a/82/4f7a82bb-96f3-0a0c-c937-073512bf4f3a/iPhone_8_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/ae/3d/12ae3d18-ca17-48e3-74cb-1848a600ea12/iPhone_8_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/53/f5/f953f5f9-f033-696b-a0ac-f8a04fbd01e5/iPhone_8_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/d4/f4/64d4f42a-1bb7-40b9-4b92-2c00968e1a1f/iPhone_8_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/34/36/1d34365b-7abf-f27c-14c3-2a9612810c00/iPhone_8_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/e2/65/8ce2658e-3bd7-c1f6-bf56-adf00f0d976f/iPhone_8_08.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "VocaCircle",
       "version": "3.2.6",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.genau.MemoryCircle_Sideloadbypass2_3.2.6.ipa",
