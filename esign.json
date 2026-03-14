@@ -3,6 +3,30 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Hevy",
+      "version": "3.0.3",
+      "versionDate": "2026-03-14",
+      "size": 124434348,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.hevyapp.hevy_Hevy_3.0.3.ipa",
+      "developerName": "Hevy Studios S.L.",
+      "bundleIdentifier": "com.hevyapp.hevy",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ef/b1/e8efb15c-622c-44c7-f7b2-1afd9dbe920d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nHevy - Workout Tracker Gym Log\n\n• Bundle ID: com.hevyapp.hevy\n• Updated to: 3.0.3\n• Minimum iOS: 14.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n> Can't create unlimited routines.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/28/f5/b328f516-2a16-ed23-f8de-209228fdc967/15d44ec2-d98c-4504-960c-21f2b11a84c6_screenshot2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/7f/67/a97f6709-b9da-4012-5e3d-41dbd922e047/bf8818d8-55ee-4f72-9d86-00dd2b5a18bd_screenshot3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/6f/04/e46f04e4-40de-e683-f6fd-8005f2d17c31/46a87f62-fda1-4604-a17a-7bf89cba6be4_screenshot4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/e7/6e/b1e76e03-89ae-8c61-bc5b-0658442db85c/795d6241-5593-4561-932a-2919412e3d94_screenshot5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d6/32/fdd632df-a12b-3f1f-f388-87fa30182117/c68c77a8-14bd-4e45-96eb-dd4311371543_screenshot6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/eb/db/32ebdb1d-9c1c-799d-be53-36587f8ee9a8/6aa699e7-9cc0-451b-adf8-dfaca2f74f7a_screenshot7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/a5/5016a531-d92d-2481-a2e9-c39e0e9ffa1c/2c3f8aad-31e6-4a57-91a4-03074f5f53a8_screenshot8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/ee/42/7fee426f-34e5-ca4a-62b5-fb7d7ee676d5/a11c7daf-a831-4772-9d97-a975d9345f6c_screenshot9.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Lake",
       "version": "4.23.0",
       "versionDate": "2026-03-14",
@@ -1439,30 +1463,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Hevy",
-      "version": "3.0.2",
-      "versionDate": "2026-03-12",
-      "size": 119676998,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.hevyapp.hevy_Hevy_3.0.2.ipa",
-      "developerName": "Hevy Studios S.L.",
-      "bundleIdentifier": "com.hevyapp.hevy",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ef/b1/e8efb15c-622c-44c7-f7b2-1afd9dbe920d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nHevy - Workout Tracker Gym Log\n\nPro features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 14.1\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/28/f5/b328f516-2a16-ed23-f8de-209228fdc967/15d44ec2-d98c-4504-960c-21f2b11a84c6_screenshot2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/7f/67/a97f6709-b9da-4012-5e3d-41dbd922e047/bf8818d8-55ee-4f72-9d86-00dd2b5a18bd_screenshot3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/6f/04/e46f04e4-40de-e683-f6fd-8005f2d17c31/46a87f62-fda1-4604-a17a-7bf89cba6be4_screenshot4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/e7/6e/b1e76e03-89ae-8c61-bc5b-0658442db85c/795d6241-5593-4561-932a-2919412e3d94_screenshot5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d6/32/fdd632df-a12b-3f1f-f388-87fa30182117/c68c77a8-14bd-4e45-96eb-dd4311371543_screenshot6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/eb/db/32ebdb1d-9c1c-799d-be53-36587f8ee9a8/6aa699e7-9cc0-451b-adf8-dfaca2f74f7a_screenshot7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/a5/5016a531-d92d-2481-a2e9-c39e0e9ffa1c/2c3f8aad-31e6-4a57-91a4-03074f5f53a8_screenshot8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/ee/42/7fee426f-34e5-ca4a-62b5-fb7d7ee676d5/a11c7daf-a831-4772-9d97-a975d9345f6c_screenshot9.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
