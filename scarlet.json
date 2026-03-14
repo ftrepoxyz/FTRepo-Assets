@@ -5,6 +5,24 @@
   },
   "data": [
     {
+      "name": "ShutEye",
+      "version": "3.3.7",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.3.7.ipa",
+      "category": "Tweaked",
+      "bundleID": "health.sleep.sounds.tracker.alarm.calm",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/7b/c4/307bc4b1-43a4-d3c0-9389-a89d9cf27287/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nShutEye®: Sleep Tracker, Sound\n\n• Bundle ID: health.sleep.sounds.tracker.alarm.calm\n• Updated to: 3.3.7\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Enerjoy Pte. Ltd.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Reddit (Deluxe)",
       "version": "2026.10.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.reddit.Reddit_redditColorComments_2026.10.0.ipa",
@@ -10868,24 +10886,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/bc/46/c5bc469c-8d44-b4c9-bea7-ad6a09b72410/en_plus_09.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/62/04/23620441-2066-2aa2-648a-72cba7f1e5ea/en_plus_10.png/1320x2868bb.png"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "ShutEye",
-      "version": "3.3.6",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.3.6.ipa",
-      "category": "Tweaked",
-      "bundleID": "health.sleep.sounds.tracker.alarm.calm",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/db/22/28db220f-e149-9a78-9211-9bb1e25ca333/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nShutEye®: Sleep Tracker, Sound\n\n• Bundle ID: health.sleep.sounds.tracker.alarm.calm\n• Updated to: 3.3.6\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Enerjoy Pte. Ltd.",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
