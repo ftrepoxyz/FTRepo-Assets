@@ -5,6 +5,48 @@
   },
   "data": [
     {
+      "name": "VSCO",
+      "version": "458.1.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/co.visualsupply.cam_RevenueCatFix26_458.1.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "co.visualsupply.cam",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/5c/1c/f95c1c00-4b93-d703-5779-b45c66e09de4/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nVSCO: Photo & Video Editor\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "Visual Supply Company",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "OVF Editor",
+      "version": "6.0.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.mutaeb.OVF-Editor_RevenueCatFix26_6.0.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.mutaeb.OVF-Editor",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/fc/47/c8fc4761-0342-8c6e-1401-7eea9b527a7e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nOVF Editor\n\nPro features unlocked\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
+      "developer": "Mutaeb Alqahtani",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e0/f8/3b/e0f83ba1-e247-1dad-461e-3021bce0ccc1/89059a98-ced2-46e5-b573-7de91a66240e_screen_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/97/59/ba/9759ba69-ae24-c586-2f07-08328f09c919/81f47a10-7b01-4ac5-bdf1-df0bc07415b7_screen_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/03/61/86/03618686-bcdf-1d0f-715b-a265da24cb16/62e1ebba-1463-44a4-ac77-e1debd904589_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7f/02/bd/7f02bdbd-e973-6e10-ccc0-8309724d7e0e/4050d21f-2f1b-447d-8877-52c8634d504c_screen_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/62/37/ce/6237ce79-3f48-62e9-953e-3285aa4fa006/d4d949c7-40d4-4a15-99d0-75124b00c2b7_screen_5.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Bend",
       "version": "7.2.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.bowery-digital.bend_RevenueCatFix26_7.2.4.ipa",
@@ -9004,24 +9046,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/a4/6a/d4a46adb-a826-025d-374e-b5b580fabcbc/8d9e45ad-ebaf-4650-a6fd-c6446061fb53_Eng05_5_U002c5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/1a/3c/201a3c89-8abf-073a-1a0e-0cf51664451a/3286f470-ef08-4f7e-a6bd-c153e3e2cfa4_Eng06_5_U002c5.png/1320x2868bb.png"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "VSCO",
-      "version": "458.0.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.visualsupply.cam_RevenueCatFix26_458.0.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "co.visualsupply.cam",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/83/1a/d3831ab8-5ca8-eb39-5d23-718d9c05a819/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nVSCO: Photo & Video Editor\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "developer": "Visual Supply Company",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
