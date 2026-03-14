@@ -5,6 +5,78 @@
   },
   "data": [
     {
+      "name": "Shopping List",
+      "version": "4.4.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/jp.tyabaken.kaimono_Sideloadbypass2_4.4.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "jp.tyabaken.kaimono",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/92/a7/3d92a7aa-13ea-8626-06a7-5855afb84706/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nShopii - Grocery List & To Do\n\nTweak: Pro Unlocked\n\nVersion: 4.4.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: jp.tyabaken.kaimono\nDeveloper: kenta ito",
+      "developer": "kenta ito",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "AlevioOS",
+      "version": "2.4.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.alevioos.app_AlevioOS_2.4.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.alevioos.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b2/2d/f2b22dc7-87bd-58b6-75b0-7977232891dd/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nAlevioOS - Local Ai\n\n• Bundle ID: com.alevioos.app\n• Updated to: 2.4.6\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "SILVIA ISABELLA DANYLUK",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Bill Tracker",
+      "version": "4.1.54",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.54.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.unofficialcalculators.payplan",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/1f/27/541f27e6-78d3-1d2b-42de-30be0c66a62b/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.54\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "developer": "Bill Tracker Pro, Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Lampa",
+      "version": "2.0.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lampa.photo_Lampa_2.0.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.lampa.photo",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0f/16/000f1650-8d62-e044-6d9f-658734746d17/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nLampa — Digital & Film Camera\n\n• Bundle ID: com.lampa.photo\n• Updated to: 2.0.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Unlimited Photos + Filters Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore the purchase pages and the lock icons you should be able to click on the filters and use them just fine. Also after 5 photos just restart the app to reset the limit.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Alexey Teplonogov",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "TapeKit",
       "version": "3.1.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.widget-kid_Sideloadbypass2_3.1.1.ipa",
@@ -156,24 +228,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Lampa",
-      "version": "2.0.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.lampa.photo_Lampa_2.0.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.lampa.photo",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/a4/a6/0ba4a606-4a71-311f-3ff7-49b232a643e8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nLampa — Digital & Film Camera\n\n• Bundle ID: com.lampa.photo\n• Reuploaded: 2.0.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Unlimited Photos + Filters Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore the purchase pages and the lock icons you should be able to click on the filters and use them just fine. Also after 5 photos just restart the app to reset the limit.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Alexey Teplonogov",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -1487,24 +1541,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/7f/ea/737fea13-3df7-ec45-1ee9-52a5283934cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "description": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.4.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
       "developer": "Hapjoy Technologies Private Limited",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Bill Tracker",
-      "version": "4.1.53",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.53.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.unofficialcalculators.payplan",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/cc/8c/b2cc8c70-a13a-0840-c3c0-89269d24416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.53\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
-      "developer": "Bill Tracker Pro, Inc.",
       "screenshots": [],
       "accentColor": {
         "light": {
@@ -5559,24 +5595,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/15/1c/be151cfd-07e5-d26d-2488-2f95c3468beb/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
       "description": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.3.9\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.4.1\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Removed vibrancy effect of player toast, now toast follows system theme\n• Added option to automatically clean Infuse trash folder\n\nッ Jailbreak Repo | ♡ Support",
       "developer": "Firecore, LLC",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "AlevioOS",
-      "version": "2.4.5",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.alevioos.app_AlevioOS_2.4.5.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.alevioos.app",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/a2/b2/87a2b21a-dc81-b94d-47f4-4696ccb2626e/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nAlevioOS - Local Ai\n\n• Bundle ID: com.alevioos.app\n• Updated to: 2.4.5\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "SILVIA ISABELLA DANYLUK",
       "screenshots": [],
       "accentColor": {
         "light": {
