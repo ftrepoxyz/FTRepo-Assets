@@ -5,6 +5,60 @@
   },
   "data": [
     {
+      "name": "Reddit (Deluxe)",
+      "version": "2026.10.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.reddit.Reddit_redditColorComments_2026.10.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.reddit.Reddit",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/34/6d/93346d07-1aad-aa61-0cd2-0322721dd27a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @thescholarslounge |\n----------------\nRedditDeluxe 2026.10.0\n- Reddit 2026.10.0\n- RedditFilter (MoeReddit) \n- RedditUndoScrollUp\n- redditColorComments\n- OledKeyboard\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
+      "developer": "REDDIT, INC.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Waze",
+      "version": "5.17.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.waze.iphone_WazePlus_5.17.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.waze.iphone",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/fd/7a/e8fd7a22-edfc-b154-1a02-cb3a460efa5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @thescholarslounge |\n----------------\nWaze 5.17.1.0\n- Waze 5.17.1.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps",
+      "developer": "Waze Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/54/e5/6554e54a-854b-8270-2d6d-ca73cb449412/98def561-b8fc-4650-8946-15239d81a878_Usecase_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/df/ed/81dfedae-d72e-a25d-24e7-2f43b64ab618/cf7d60dc-7f33-474b-ab60-bd3b9ff24dc0_Usecase_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/04/84/c70484a3-4301-f9cf-9716-a95e0ac6bc8a/ff02c3c6-aaf3-439e-98e2-328fd053fe98_Usecase_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/8d/20/ff8d2076-abdd-5705-23de-129db40b0532/63513f6f-9f7e-41bd-837a-60446b30594d_Usecase_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/0a/f4/460af40d-a2b9-a88b-724b-2acad30eee09/22d189f4-236d-4018-9631-cee16a583c47_Usecase_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/31/40/d4314022-7502-9148-a125-458a604e9549/bd6ad41f-146e-4f88-bd78-822da6a1a571_Usecase_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/35/2a/60352a8e-6902-ecf4-dcfc-9d7b91ede190/9b909502-6ee7-40ad-8cba-0b8314c0a8a0_Usecase_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d0/5e/d4d05e3c-bd6c-f65c-a0d5-57b8e4ce1b61/90ea4f0a-a0ed-4c93-86e8-e560706ce284_Usecase_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/f5/51/0cf551e5-0745-374a-cf94-3d32793a2618/5f8c9915-9d27-49ef-b765-65b9d2f502fd_Usecase_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/f8/41/acf84125-b2ea-898d-27dd-f10d76385172/6e201d84-e76d-4e8a-bd47-af0e6670e6bf_Usecase_10.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Imprint",
       "version": "5.1.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.polywise.weekly_Sideloadbypass2_5.1.1.ipa",
@@ -7762,35 +7816,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/4b/69/ba4b694a-f7af-4f67-a983-78fd233092db/465a6cbe-eb06-4380-9f5f-851ef65b6df6_en-game.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/52/cf/5052cfde-b63c-7d98-029b-cd6687796e74/19c6ec73-5d36-4c36-b4b6-b0f74c6dc939_en-game-noun.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/8e/06/9c8e06ec-3f2a-b738-0406-d2f0dbc6f75f/1902c189-4bc4-45a1-8cd5-b1d37dc1240b_en-rules.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Waze",
-      "version": "5.16.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.waze.iphone_SubstrateInjection_5.16.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.waze.iphone",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/fd/7a/e8fd7a22-edfc-b154-1a02-cb3a460efa5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @thescholarslounge |\n----------------\nWaze 5.16.2.0\n- Waze 5.16.2.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps",
-      "developer": "Waze Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/54/e5/6554e54a-854b-8270-2d6d-ca73cb449412/98def561-b8fc-4650-8946-15239d81a878_Usecase_01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/df/ed/81dfedae-d72e-a25d-24e7-2f43b64ab618/cf7d60dc-7f33-474b-ab60-bd3b9ff24dc0_Usecase_02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/04/84/c70484a3-4301-f9cf-9716-a95e0ac6bc8a/ff02c3c6-aaf3-439e-98e2-328fd053fe98_Usecase_03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/8d/20/ff8d2076-abdd-5705-23de-129db40b0532/63513f6f-9f7e-41bd-837a-60446b30594d_Usecase_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/0a/f4/460af40d-a2b9-a88b-724b-2acad30eee09/22d189f4-236d-4018-9631-cee16a583c47_Usecase_05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/31/40/d4314022-7502-9148-a125-458a604e9549/bd6ad41f-146e-4f88-bd78-822da6a1a571_Usecase_06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/35/2a/60352a8e-6902-ecf4-dcfc-9d7b91ede190/9b909502-6ee7-40ad-8cba-0b8314c0a8a0_Usecase_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d0/5e/d4d05e3c-bd6c-f65c-a0d5-57b8e4ce1b61/90ea4f0a-a0ed-4c93-86e8-e560706ce284_Usecase_04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/f5/51/0cf551e5-0745-374a-cf94-3d32793a2618/5f8c9915-9d27-49ef-b765-65b9d2f502fd_Usecase_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/f8/41/acf84125-b2ea-898d-27dd-f10d76385172/6e201d84-e76d-4e8a-bd47-af0e6670e6bf_Usecase_10.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
