@@ -3,6 +3,29 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Imprint",
+      "version": "5.1.1",
+      "versionDate": "2026-03-14",
+      "size": 118834377,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.polywise.weekly_Sideloadbypass2_5.1.1.ipa",
+      "developerName": "Polywise, Inc.",
+      "bundleIdentifier": "com.polywise.weekly",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/7c/ff/557cffc1-2953-e2f7-c85e-231960784100/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nImprint: Learn Visually\n\nTweak: Subscription Unlocked\n\nVersion: 5.1.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.polywise.weekly\nDeveloper: Polywise, Inc.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/ca/ed/7ccaedf5-08ce-9acc-5b51-833110b9b24f/Microlearning_diagonal_414x736_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0b/9a/1d0b9a49-5061-534a-a9ca-cf895baf4002/Split_Device_Small_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/03/f3/1103f381-a114-e0bd-9566-645363c3f531/Split_Device_Small_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/6a/79/a26a79f7-3075-e1b6-c453-5a5b9464d0ed/Split_Device_Small_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/4e/3b/0d4e3b8a-9927-e837-b338-b088badc485b/Microlearning_diagonal_414x736_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/eb/32/33eb3243-cea4-d297-39c7-58d7e92cf8a8/Split_Device_Small_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/ab/f0/16abf0d3-1984-8f8a-65a5-ab027586d08d/Split_Device_Small_8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/85/f7/4685f7c6-4aa8-5d67-213f-12a9f766d749/Split_Device_Small_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/15/36/4115361c-11e2-400e-07e0-d8bf7f96b523/Split_Device_Small_10.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "PS Express",
       "version": "26.9.1",
       "versionDate": "2026-03-14",
@@ -5172,29 +5195,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/1d/0b/101d0b5b-9a43-d958-5ae5-3f2e56b6e62e/35496a94-8213-4b46-a9fc-6e4ef750820b_iPhone_5.5__-_10.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/2a/21/be2a217a-57d0-d9ab-4620-98945bfec6d2/076b620a-b6c3-44d0-8dc8-e664c11d1815_iPhone_5.5__-_5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/ae/21/ceae21d0-483d-5e83-f06b-9c2809e6105c/3387bbbe-0d9e-4f08-a1ad-1e10fdf122a5_iPhone_5.5__-_13.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Imprint",
-      "version": "5.1.0",
-      "versionDate": "2026-03-11",
-      "size": 118797570,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.polywise.weekly_Sideloadbypass2_5.1.0.ipa",
-      "developerName": "Polywise, Inc.",
-      "bundleIdentifier": "com.polywise.weekly",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/7c/ff/557cffc1-2953-e2f7-c85e-231960784100/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nImprint: Learn Visually\n\nTweak: Subscription Unlocked\n\nVersion: 5.1.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.polywise.weekly\nDeveloper: Polywise, Inc.",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/ca/ed/7ccaedf5-08ce-9acc-5b51-833110b9b24f/Microlearning_diagonal_414x736_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0b/9a/1d0b9a49-5061-534a-a9ca-cf895baf4002/Split_Device_Small_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/03/f3/1103f381-a114-e0bd-9566-645363c3f531/Split_Device_Small_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/6a/79/a26a79f7-3075-e1b6-c453-5a5b9464d0ed/Split_Device_Small_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/4e/3b/0d4e3b8a-9927-e837-b338-b088badc485b/Microlearning_diagonal_414x736_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/eb/32/33eb3243-cea4-d297-39c7-58d7e92cf8a8/Split_Device_Small_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/ab/f0/16abf0d3-1984-8f8a-65a5-ab027586d08d/Split_Device_Small_8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/85/f7/4685f7c6-4aa8-5d67-213f-12a9f766d749/Split_Device_Small_9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/15/36/4115361c-11e2-400e-07e0-d8bf7f96b523/Split_Device_Small_10.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
