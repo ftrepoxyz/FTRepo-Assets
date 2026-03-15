@@ -3,6 +3,30 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "HiiKER",
+      "version": "26.3.2",
+      "versionDate": "2026-03-15",
+      "size": 115307657,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.hiiker.hiiker_Sideloadbypass2_26.3.2.ipa",
+      "developerName": "Waymarked Trails LTD",
+      "bundleIdentifier": "com.hiiker.hiiker",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/a5/df/cfa5dfbf-df3f-6d14-1cb9-1d514e48b48c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nHiiKER: The Hiking Maps App\n\nTweak: Premium Unlocked\n\nVersion: 26.3.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.hiiker.hiiker\nDeveloper: Waymarked Trails LTD",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d1/f0/b9d1f09a-a1e3-6f9a-1e2b-04776138af7b/4fd42d7f-8457-45ed-bd48-ae7df5b7928a_6.5_U201d_1242_x_2688_-_166__U00281_U0029.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/72/88/9d7288a2-cf02-02a0-86aa-b8710447d8e9/d63f82fb-ed09-4e11-98b0-9d3a3e30fe43_5.5_U201d_1242_x_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/a7/80/d2a780a5-b483-912b-7532-a63c205fa08a/f68ead35-02f3-4a1c-bba3-e7bf27afd28f_6.5_U201d_1242_x_2688_-_193.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/5d/1a/fb5d1a07-e4a6-8579-6f07-2b09a9d1fc69/ce418863-3af1-4f86-9b7a-da1650dd7cef_6.5_U201d_1242_x_2688_-_161.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/f7/b8/eef7b8f8-1640-875c-025d-a8cc4241ced1/61438821-a55b-42cb-8d83-14f20920f1ba_6.5_U201d_1242_x_2688_-_153.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/7f/c5/b17fc558-e9e2-ab37-e5ec-a3cbf2f7c706/2b6867cf-25ee-4cd1-9670-91bc474af846_6.5_U201d_1242_x_2688_-_160.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/a9/09/e1a9097b-1b0c-151e-723f-bb68b0d6dca0/39faf8a6-e011-4b00-ad04-fdf85aab45ba_6.5_U201d_1242_x_2688_-_162.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/f1/22/18f12292-d2c2-17c5-bab6-d20ad8eb6b1e/65084906-7492-4bfe-a8de-05e04afa81fa_6.5_U201d_1242_x_2688_-_165.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/7c/da/c97cda43-8c03-a43e-febf-f59d11877cc4/5ecd7d69-5c28-4a9c-b1b3-51f592443448_6.5_U201d_1242_x_2688_-_164.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/72/f0/9372f022-cc8b-8a78-67b2-f55a86f397ff/b81730cb-951f-4201-800b-140c32e0360b_6.5_U201d_1242_x_2688_-_163.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Paste",
       "version": "6.3.11",
       "versionDate": "2026-03-15",
@@ -2029,30 +2053,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/67/20/136720a1-955a-9aaf-586d-28842fb33045/screenshot_6.9_6.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/5a/fa/115afa93-97d0-8870-5fcc-0738d6f94150/screenshot_6.9_7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/ca/65/21ca65be-12b1-f050-b311-f10b5900012d/screenshot_6.9_8.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "HiiKER",
-      "version": "26.2.13",
-      "versionDate": "2026-03-12",
-      "size": 115297606,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.hiiker.hiiker_Sideloadbypass2_26.2.13.ipa",
-      "developerName": "Waymarked Trails LTD",
-      "bundleIdentifier": "com.hiiker.hiiker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/a5/df/cfa5dfbf-df3f-6d14-1cb9-1d514e48b48c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nHiiKER: The Hiking Maps App\n\nTweak: Premium Unlocked\n\nVersion: 26.2.13\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.hiiker.hiiker\nDeveloper: Waymarked Trails LTD",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d1/f0/b9d1f09a-a1e3-6f9a-1e2b-04776138af7b/4fd42d7f-8457-45ed-bd48-ae7df5b7928a_6.5_U201d_1242_x_2688_-_166__U00281_U0029.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/72/88/9d7288a2-cf02-02a0-86aa-b8710447d8e9/d63f82fb-ed09-4e11-98b0-9d3a3e30fe43_5.5_U201d_1242_x_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/a7/80/d2a780a5-b483-912b-7532-a63c205fa08a/f68ead35-02f3-4a1c-bba3-e7bf27afd28f_6.5_U201d_1242_x_2688_-_193.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/5d/1a/fb5d1a07-e4a6-8579-6f07-2b09a9d1fc69/ce418863-3af1-4f86-9b7a-da1650dd7cef_6.5_U201d_1242_x_2688_-_161.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/f7/b8/eef7b8f8-1640-875c-025d-a8cc4241ced1/61438821-a55b-42cb-8d83-14f20920f1ba_6.5_U201d_1242_x_2688_-_153.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/7f/c5/b17fc558-e9e2-ab37-e5ec-a3cbf2f7c706/2b6867cf-25ee-4cd1-9670-91bc474af846_6.5_U201d_1242_x_2688_-_160.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/a9/09/e1a9097b-1b0c-151e-723f-bb68b0d6dca0/39faf8a6-e011-4b00-ad04-fdf85aab45ba_6.5_U201d_1242_x_2688_-_162.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/f1/22/18f12292-d2c2-17c5-bab6-d20ad8eb6b1e/65084906-7492-4bfe-a8de-05e04afa81fa_6.5_U201d_1242_x_2688_-_165.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/7c/da/c97cda43-8c03-a43e-febf-f59d11877cc4/5ecd7d69-5c28-4a9c-b1b3-51f592443448_6.5_U201d_1242_x_2688_-_164.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/72/f0/9372f022-cc8b-8a78-67b2-f55a86f397ff/b81730cb-951f-4201-800b-140c32e0360b_6.5_U201d_1242_x_2688_-_163.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
