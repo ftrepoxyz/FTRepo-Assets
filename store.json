@@ -9649,7 +9649,7 @@
       "bundleIdentifier": "com.wiheads.paste",
       "developerName": "Paste Team",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/aa/06/8caa06e5-66d7-b4d8-c705-dbed8d1a39f7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPaste – Limitless Clipboard\n\n• Bundle ID: com.wiheads.paste\n• Updated to: 6.3.9\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nThe app works properly when installed with a dev/dist certificate that has App Groups set up correctly.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nPaste – Limitless Clipboard\n\n• Bundle ID: com.wiheads.paste\n• Updated to: 6.3.11\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nThe app works properly when installed with a dev/dist certificate that has App Groups set up correctly.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/34/3a/f6343ada-8d5a-247b-73e6-42a697a58491/iphone_-_screen_1.png/1320x2868bb.webp"
@@ -9756,6 +9756,12 @@
       ],
       "versions": [
         {
+          "version": "6.3.11",
+          "date": "2026-03-15",
+          "size": 115043106,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.wiheads.paste_Paste_6.3.11.ipa"
+        },
+        {
           "version": "6.3.9",
           "date": "2026-03-11",
           "size": 114348231,
@@ -9769,10 +9775,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.3.9",
-      "versionDate": "2026-03-11T14:26:17.311Z",
-      "size": 114348231,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.wiheads.paste_Paste_6.3.9.ipa"
+      "version": "6.3.11",
+      "versionDate": "2026-03-15T06:02:23.343Z",
+      "size": 115043106,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.wiheads.paste_Paste_6.3.11.ipa"
     },
     {
       "name": "Alight Motion",
@@ -20969,6 +20975,94 @@
       "versionDate": "2026-03-11T08:29:52.420Z",
       "size": 49984394,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.aiby.wtcoin_CoinID_1.23.ipa"
+    },
+    {
+      "name": "Subnautica Below Zero ",
+      "bundleIdentifier": "com.UnknownWorlds.SubnauticaBelowZero",
+      "developerName": "Unknown Worlds",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/62/03/316203bf-f64c-08e5-840d-cb9d9bc159cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nSubnautica Below Zero\nPaid app $8.99\nVersion: 1.22.54939\nBundle ID: com.UnknownWorlds.SubnauticaBelowZero\nAppStore link: https://apps.apple.com/app/id6749406060\nInjected with dev menu cheat\nMade by IOSGods",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/7d/12/8a7d1208-6b6a-7e27-02c4-f4dc6d26fb2f/6.9-BZ-Screenshot-1.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/e6/5d/32e65dc6-e8c3-4176-b76d-92f63e11dc23/6.9-BZ-Screenshot-2.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/9b/0d/a69b0d38-59f4-83c4-2e6e-609f86eddfa3/6.9-BZ-Screenshot-3.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/c0/1f/e3c01feb-2055-1a08-e7cc-3d53e09acad7/6.9-BZ-Screenshot-4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/da/37/f1da37a2-1405-504e-8cd1-30b470326f85/6.9-BZ-Screenshot-5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/a0/46/aea04608-63e7-931a-294a-b84cbaf2ce46/6.9-BZ-Screenshot-6.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/1d/75/181d7576-e8c6-ab7f-0bb8-ae9767faf1ce/6.9-BZ-Screenshot-8.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/d5/5b/0ad55b72-3699-219f-d75a-b13f5d43a4fd/6.9-BZ-Screenshot-9.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/38/a5/8538a5e8-65c4-e5fc-05c7-3bdee7c41c3d/13-BZ-Screenshot-1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/84/4e/5e844e17-8124-25ca-2b26-5ec0a70d702a/13-BZ-Screenshot-2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/50/f8/1650f8b8-c83e-2a1a-a3c4-c4de1722b9ad/13-BZ-Screenshot-3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/58/4f/eb584f8a-9d7f-5687-d800-bbaa400544c9/13-BZ-Screenshot-4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/33/9f/3f339fb7-9a5e-210c-623b-f92950748daf/13-BZ-Screenshot-5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ff/e9/9cffe99d-5ddf-121c-12d7-b7dbef227a89/13-BZ-Screenshot-6.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/4e/39/da4e3925-9bcb-d5ca-4e2a-4a237502b7c7/13-BZ-Screenshot-8.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/f9/4d/eff94da2-51cb-ff40-2698-10fe7b867d86/13-BZ-Screenshot-9.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/7d/12/8a7d1208-6b6a-7e27-02c4-f4dc6d26fb2f/6.9-BZ-Screenshot-1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/e6/5d/32e65dc6-e8c3-4176-b76d-92f63e11dc23/6.9-BZ-Screenshot-2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/9b/0d/a69b0d38-59f4-83c4-2e6e-609f86eddfa3/6.9-BZ-Screenshot-3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/c0/1f/e3c01feb-2055-1a08-e7cc-3d53e09acad7/6.9-BZ-Screenshot-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/da/37/f1da37a2-1405-504e-8cd1-30b470326f85/6.9-BZ-Screenshot-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/a0/46/aea04608-63e7-931a-294a-b84cbaf2ce46/6.9-BZ-Screenshot-6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/1d/75/181d7576-e8c6-ab7f-0bb8-ae9767faf1ce/6.9-BZ-Screenshot-8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/d5/5b/0ad55b72-3699-219f-d75a-b13f5d43a4fd/6.9-BZ-Screenshot-9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/38/a5/8538a5e8-65c4-e5fc-05c7-3bdee7c41c3d/13-BZ-Screenshot-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/84/4e/5e844e17-8124-25ca-2b26-5ec0a70d702a/13-BZ-Screenshot-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/50/f8/1650f8b8-c83e-2a1a-a3c4-c4de1722b9ad/13-BZ-Screenshot-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/58/4f/eb584f8a-9d7f-5687-d800-bbaa400544c9/13-BZ-Screenshot-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/33/9f/3f339fb7-9a5e-210c-623b-f92950748daf/13-BZ-Screenshot-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ff/e9/9cffe99d-5ddf-121c-12d7-b7dbef227a89/13-BZ-Screenshot-6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/4e/39/da4e3925-9bcb-d5ca-4e2a-4a237502b7c7/13-BZ-Screenshot-8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/f9/4d/eff94da2-51cb-ff40-2698-10fe7b867d86/13-BZ-Screenshot-9.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.22.54939",
+          "date": "2026-03-15",
+          "size": 1908176811,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.UnknownWorlds.SubnauticaBelowZero_SubstrateBootstrap_1.22.54939.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.22.54939",
+      "versionDate": "2026-03-15T05:34:40.654Z",
+      "size": 1908176811,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.UnknownWorlds.SubnauticaBelowZero_SubstrateBootstrap_1.22.54939.ipa"
     },
     {
       "name": "Minecraft",
