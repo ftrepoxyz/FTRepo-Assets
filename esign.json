@@ -3,6 +3,19 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Recify",
+      "version": "1.6.10",
+      "versionDate": "2026-03-15",
+      "size": 38234069,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.bakeryscent.recipeai_Sideloadbypass2_1.6.10.ipa",
+      "developerName": "MIRO CONSULTING SRL",
+      "bundleIdentifier": "com.bakeryscent.recipeai",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/72/c5/8172c57a-2424-f741-9366-01ee836ee8e9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRecipe Keeper & Saver - Recify\n\nTweak: Premium Unlocked\n\nVersion: 1.6.10\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: com.bakeryscent.recipeai\nDeveloper: MIRO CONSULTING SRL",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Clarido",
       "version": "3.0.0",
       "versionDate": "2026-03-15",
@@ -5971,19 +5984,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/af/68/8daf686f-b476-5ee4-cebf-4cea21acccd1/0_APP_IPAD_PRO_3GEN_129_8.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/a3/e0/68a3e0b7-fe63-ea52-198d-7ed98ad52bd0/0_APP_IPAD_PRO_3GEN_129_9.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Recify",
-      "version": "1.6.8",
-      "versionDate": "2026-03-11",
-      "size": 38117726,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.bakeryscent.recipeai_Sideloadbypass2_1.6.8.ipa",
-      "developerName": "MIRO CONSULTING SRL",
-      "bundleIdentifier": "com.bakeryscent.recipeai",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/97/fd/a897fd21-c01a-5104-0ed0-265168651f0e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nRecipe Keeper & Saver - Recify\n\nTweak: Premium Unlocked\n\nVersion: 1.6.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: com.bakeryscent.recipeai\nDeveloper: MIRO CONSULTING SRL",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
