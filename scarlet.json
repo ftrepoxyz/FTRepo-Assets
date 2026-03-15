@@ -5,6 +5,52 @@
   },
   "data": [
     {
+      "name": "Documents",
+      "version": "8.19.7",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.7.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.readdle.ReaddleDocsIPad",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nDocuments: File Manager & Docs\n\n• Bundle ID: com.readdle.ReaddleDocsIPad\n• Updated to: 8.19.7\n• Minimum iOS: 16.0\n• Patched\n• Modifier: DocumentsPlus Unlocked\n• Tweaked by @blatants\n\n• Note:\nNo \"Update available\" popup 😄\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Readdle Technologies Limited",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/a3/ff/d3a3ff1e-4d40-9b50-6cd2-b13bb39d9138/iPhone_6_U002c9_artwork_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ce/3c/b6ce3c9c-0be1-8f9c-d382-8c890ad6357b/iPhone_6_U002c9_artwork_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/41/37/c241378f-f4f8-b7b4-ebab-0649fe78b229/iPhone_6_U002c9_artwork_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/e7/72/97e77246-0c65-c595-368f-4d47cba56928/iPhone_6_U002c9_artwork_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/bb/97/5fbb97b5-913d-9963-5f8f-c12d1c30945c/iPhone_6_U002c9_artwork_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/a6/16/00a61669-1928-dc0d-bbb2-928189e10bc5/iPhone_6_U002c9_artwork_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/0b/93/040b9348-bf7f-9bb4-b6a2-cece6347a0d2/iPhone_6_U002c9_artwork_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/76/85/107685d8-29b6-ffc3-a4c2-cf7382ccb3bd/iPhone_6_U002c9_artwork_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ed/57/deed5783-d78a-fcff-aa3a-79dfb0516c06/iPhone_6_U002c9_artwork_10.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Structured",
+      "version": "4.4.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.leomehlig.today_autoRevenuecat_4.4.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.leomehlig.today",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/16/b0/ac16b049-919f-eb6c-4205-3a26cf48e3a4/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nStructured - Daily Planner\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.6\n\nNotes: requires trollstore, jailbreak or a certificate with specific entitlements\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.leomehlig.today\nDeveloper: unorderly GmbH",
+      "developer": "unorderly GmbH",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "HiiKER",
       "version": "26.3.2",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.hiiker.hiiker_Sideloadbypass2_26.3.2.ipa",
@@ -4958,34 +5004,6 @@
       }
     },
     {
-      "name": "Documents",
-      "version": "8.19.6",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.readdle.ReaddleDocsIPad_Documents_8.19.6.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.readdle.ReaddleDocsIPad",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nDocuments: File Manager & Docs\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "developer": "Readdle Technologies Limited",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/a3/ff/d3a3ff1e-4d40-9b50-6cd2-b13bb39d9138/iPhone_6_U002c9_artwork_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ce/3c/b6ce3c9c-0be1-8f9c-d382-8c890ad6357b/iPhone_6_U002c9_artwork_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/41/37/c241378f-f4f8-b7b4-ebab-0649fe78b229/iPhone_6_U002c9_artwork_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/e7/72/97e77246-0c65-c595-368f-4d47cba56928/iPhone_6_U002c9_artwork_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/bb/97/5fbb97b5-913d-9963-5f8f-c12d1c30945c/iPhone_6_U002c9_artwork_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/a6/16/00a61669-1928-dc0d-bbb2-928189e10bc5/iPhone_6_U002c9_artwork_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/0b/93/040b9348-bf7f-9bb4-b6a2-cece6347a0d2/iPhone_6_U002c9_artwork_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/76/85/107685d8-29b6-ffc3-a4c2-cf7382ccb3bd/iPhone_6_U002c9_artwork_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ed/57/deed5783-d78a-fcff-aa3a-79dfb0516c06/iPhone_6_U002c9_artwork_10.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "NOAA Radar",
       "version": "5.17.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.itwcalculator.worldradarfree_WeatherRadar_5.17.1.ipa",
@@ -6056,24 +6074,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/2c/1c/7e2c1c6f-e389-8fa8-5d39-daf338b0278f/07_-_Servers_5.5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/7e/7c/797e7c1a-09ce-236c-e72b-f26c5b37d682/2fbaaf49-7a3f-406f-93f8-737c70b58b27_08_-_Map_5.5.png/1320x2868bb.png"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Structured",
-      "version": "4.4.5",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.leomehlig.today_StructuredPro_4.4.5.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.leomehlig.today",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/f0/d1/aaf0d1ce-a9bf-55a6-c92b-dca4b848b0bb/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nStructured - Daily Planner\n\nPro features unlocked\n\n⚠️ only works with Trollstore or by signing with a custom entitlements file\n\nTweak made by binnichtaktiv\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "developer": "unorderly GmbH",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
