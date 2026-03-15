@@ -3,6 +3,27 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "aa",
+      "version": "7.0.4",
+      "versionDate": "2026-03-15",
+      "size": 40357749,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.aagame.aagame_popuprifty_7.0.4.ipa",
+      "developerName": "General Adaptive Apps Pty Ltd",
+      "bundleIdentifier": "com.aagame.aagame",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/1d/4f/5e1d4ffc-0336-463f-6ee7-bc2401c9afb1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAA Game\n\nTweak: Premium Unlocked\n\nVersion: 7.0.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.aagame.aagame\nDeveloper: General Adaptive Apps Pty Ltd",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/72/a7/e672a7cd-014f-e5e0-ba1a-ec6a90efb8d7/c7cba422-6bae-4818-9bd5-046c20a78493_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/09/e8/7c09e8b1-cc40-3d05-1d07-9e5b4209ba0e/9e5142e0-0854-4405-b2b2-bf126a10a418_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ba/b5/6dbab550-73a1-2b69-d595-27822ab90bd5/252a166a-1bfa-467e-83a9-cdfdb255152c_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/b3/b1/f9b3b17a-2508-32e7-48ef-a8c34eed676f/d5188a9b-0e65-48e0-a6ae-017601c90c56_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/3b/5f/653b5f17-b3f3-b532-db8f-0318876337f2/0b75faa6-3819-40de-979a-2811932511fb_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/eb/63/deeb6322-624f-c5e2-727b-2928c491db59/33f0d369-cda0-49fc-8263-f33977b23ee6_5_5_inch_iPhone_screen_15.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/14/44/a21444b9-ad74-0c18-6aec-4eedfa8d0205/f1c20e71-19fa-4063-9cf3-07ab2b569806_5_5_inch_iPhone_screen_9.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "InstagramRegram Instagram (Regram)",
       "version": "420.0.0",
       "versionDate": "2026-03-14",
@@ -5461,27 +5482,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b7/86/d7b7867f-ae73-5dd0-0542-43ec9aac2ad8/10_iPhone_5.5_Dark_Mode.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/ee/18/60ee187b-1814-88b9-c347-7d327c0db60a/12_iPhone_5.5_Summary_Reports.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/4e/5d/144e5d6d-3d43-766a-ce25-9f58de9a566e/13_iPhone_5.5_Insights.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "aa",
-      "version": "7.0.3",
-      "versionDate": "2026-03-11",
-      "size": 40360378,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.aagame.aagame_popuprifty_7.0.3.ipa",
-      "developerName": "General Adaptive Apps Pty Ltd",
-      "bundleIdentifier": "com.aagame.aagame",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/1d/4f/5e1d4ffc-0336-463f-6ee7-bc2401c9afb1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAA Game\n\nTweak: Premium Unlocked\n\nVersion: 7.0.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.aagame.aagame\nDeveloper: General Adaptive Apps Pty Ltd",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/72/a7/e672a7cd-014f-e5e0-ba1a-ec6a90efb8d7/c7cba422-6bae-4818-9bd5-046c20a78493_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/09/e8/7c09e8b1-cc40-3d05-1d07-9e5b4209ba0e/9e5142e0-0854-4405-b2b2-bf126a10a418_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ba/b5/6dbab550-73a1-2b69-d595-27822ab90bd5/252a166a-1bfa-467e-83a9-cdfdb255152c_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/b3/b1/f9b3b17a-2508-32e7-48ef-a8c34eed676f/d5188a9b-0e65-48e0-a6ae-017601c90c56_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/3b/5f/653b5f17-b3f3-b532-db8f-0318876337f2/0b75faa6-3819-40de-979a-2811932511fb_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/eb/63/deeb6322-624f-c5e2-727b-2928c491db59/33f0d369-cda0-49fc-8263-f33977b23ee6_5_5_inch_iPhone_screen_15.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/14/44/a21444b9-ad74-0c18-6aec-4eedfa8d0205/f1c20e71-19fa-4063-9cf3-07ab2b569806_5_5_inch_iPhone_screen_9.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
