@@ -5,6 +5,28 @@
   },
   "data": [
     {
+      "name": "Dropshare",
+      "version": "3.60",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/net.mkswap.Dropshare-iOS_Dropshare_3.60.ipa",
+      "category": "Tweaked",
+      "bundleID": "net.mkswap.Dropshare-iOS",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/aa/63/f7aa631d-f3a5-b953-f501-f65e12389902/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nDropshare - File Sharing Tool\n\n• Bundle ID: net.mkswap.Dropshare-iOS\n• Updated to: 3.60\n• Minimum iOS: 14.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Timo Josten",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/9d/5f/cc9d5fc6-ebaa-b969-b563-26e627af95e9/fe21a11e-b843-418e-b4a5-97f2af685482_ios-phone-screenshot-1-small.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/0b/77/290b7730-03cd-6112-61ce-30d08966f024/6e071ebb-c8f0-406d-a37e-b7ddb1a138d4_ios-phone-screenshot-2-small.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/83/a6/4b83a6ee-381f-2123-da50-3c8c036e8e77/db0fab6e-ad42-4b5f-a172-0765ee67dd35_ios-phone-screenshot-3-small.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Hevy",
       "version": "3.0.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.hevyapp.hevy_Hevy_3.0.3.ipa",
