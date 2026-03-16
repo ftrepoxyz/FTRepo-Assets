@@ -6399,7 +6399,7 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5b/4e/745b4e63-9c36-975e-2155-903f8efbb097/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @soundcloudtweaks |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.51.1.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
+      "localizedDescription": "from @soundcloudtweaks |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.52.0.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/c8/04/33c804b6-7339-b144-5c82-7d1b7902f731/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg"
@@ -6438,16 +6438,16 @@
       ],
       "versions": [
         {
+          "version": "8.52.0",
+          "date": "2026-03-16",
+          "size": 103843482,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.soundcloud.TouchApp_libsubstrate_8.52.0.ipa"
+        },
+        {
           "version": "8.51.1",
           "date": "2026-03-13",
           "size": 103535703,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.soundcloud.TouchApp_libsubstrate_8.51.1.ipa"
-        },
-        {
-          "version": "8.37.1",
-          "date": "2026-03-11",
-          "size": 100702780,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.soundcloud.TouchApp_SoundCloudPlus_8.37.1.ipa"
         },
         {
           "version": "8.36.1",
@@ -6457,10 +6457,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.51.1",
-      "versionDate": "2026-03-13T18:31:21.994Z",
-      "size": 103535703,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.soundcloud.TouchApp_libsubstrate_8.51.1.ipa"
+      "version": "8.52.0",
+      "versionDate": "2026-03-16T12:03:37.825Z",
+      "size": 103843482,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.soundcloud.TouchApp_libsubstrate_8.52.0.ipa"
     },
     {
       "name": "Vocal Image",
@@ -15243,7 +15243,7 @@
       "bundleIdentifier": "com.wikiloc.wikiloc",
       "developerName": "Wikiloc Outdoor SL",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWikiloc - Trails of the World\n\nPremium features unlocked\n\n3D maps feature is server-sided and doesn't work\n\nTweak made by Blatant\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nWikiloc - Trails of the World\n\n• Bundle ID: com.wikiloc.wikiloc\n• Updated to: 3.26.5\n• Minimum iOS: 16.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>3D Maps feature won't work\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg"
@@ -15286,16 +15286,16 @@
       ],
       "versions": [
         {
+          "version": "3.26.5",
+          "date": "2026-03-16",
+          "size": 186356148,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.wikiloc.wikiloc_sideloadKeychainfix_3.26.5.ipa"
+        },
+        {
           "version": "3.26.4",
           "date": "2026-03-13",
           "size": 182510176,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.wikiloc.wikiloc_Wikiloc_3.26.4.ipa"
-        },
-        {
-          "version": "3.26.3",
-          "date": "2026-03-11",
-          "size": 109378511,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.wikiloc.wikiloc_Wikiloc_3.26.3.ipa"
         },
         {
           "version": "3.26.2",
@@ -15305,10 +15305,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.26.4",
-      "versionDate": "2026-03-13T00:00:24.995Z",
-      "size": 182510176,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.wikiloc.wikiloc_Wikiloc_3.26.4.ipa"
+      "version": "3.26.5",
+      "versionDate": "2026-03-16T11:33:41.786Z",
+      "size": 186356148,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.wikiloc.wikiloc_sideloadKeychainfix_3.26.5.ipa"
     },
     {
       "name": "Things",
