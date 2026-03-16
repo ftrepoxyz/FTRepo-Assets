@@ -2867,7 +2867,7 @@
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "developerName": "True Software Scandinavia AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/a5/b6/c6a5b69b-7c5b-83f8-f216-c3aef26c5d07/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nTruecaller: Premium Caller ID\n\n• Bundle ID: com.truesoftware.TrueCallerOther\n• Updated to: 26.10\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Unlocked\n• Tweaked by @blatants\n\n• Note:\nApp requires a paid cert to function properly\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nTruecaller: Premium Caller ID\n\n• Bundle ID: com.truesoftware.TrueCallerOther\n• Reuploaded: 26.10\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Unlocked\n• Tweaked by @blatants\n\n• Note:\nApp requires a paid cert to function properly\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/ea/b4/1feab40a-4ee6-3e64-fcd2-2c85ee763396/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_02.jpg/1320x2868bb.webp"
@@ -2900,14 +2900,14 @@
         {
           "version": "26.10.5",
           "date": "2026-03-16",
-          "size": 87584227,
+          "size": 90195682,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.truesoftware.TrueCallerOther_Truecaller_26.10.5.ipa"
         }
       ],
       "appPermissions": {},
       "version": "26.10.5",
-      "versionDate": "2026-03-16T13:03:32.864Z",
-      "size": 87584227,
+      "versionDate": "2026-03-16T13:33:34.890Z",
+      "size": 90195682,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.truesoftware.TrueCallerOther_Truecaller_26.10.5.ipa"
     },
     {
@@ -11337,7 +11337,7 @@
       "bundleIdentifier": "com.SixThree.POV",
       "developerName": "Untitled Tech, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/bc/02/bcbc02d8-d682-4b9b-87a6-2a85e6b67053/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPOV – Disposable Camera Events\n\nTweak: Unlimited Guests\n\nVersion: 5.51\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: com.SixThree.POV\nDeveloper: Untitled Tech, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPOV – Disposable Camera Events\n\nTweak: Unlimited Guests\n\nVersion: 5.52\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.SixThree.POV\nDeveloper: Untitled Tech, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/fb/da/ecfbdacc-0ba4-4bee-a653-14fb21ccda8e/1_55.png/1320x2868bb.png"
@@ -11376,6 +11376,12 @@
       ],
       "versions": [
         {
+          "version": "5.52",
+          "date": "2026-03-16",
+          "size": 47732380,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.SixThree.POV_Sideloadbypass2_5.52.ipa"
+        },
+        {
           "version": "5.51",
           "date": "2026-03-11",
           "size": 47165861,
@@ -11383,10 +11389,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.51",
-      "versionDate": "2026-03-11T13:19:46.577Z",
-      "size": 47165861,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.SixThree.POV_Sideloadbypass2_5.51.ipa"
+      "version": "5.52",
+      "versionDate": "2026-03-16T14:03:30.823Z",
+      "size": 47732380,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.SixThree.POV_Sideloadbypass2_5.52.ipa"
     },
     {
       "name": "PixelColor",
