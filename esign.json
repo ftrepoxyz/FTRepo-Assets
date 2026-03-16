@@ -3,6 +3,82 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Lightroom",
+      "version": "11.2.2",
+      "versionDate": "2026-03-16",
+      "size": 186076442,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.adobe.lrmobilephone_sideloadKeychainfix_11.2.2.ipa",
+      "developerName": "Adobe Inc.",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/01/c0/9901c058-d2f4-674b-4bde-5b9b51e56591/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLightroom: AI Photo Editor\n\n• Bundle ID: com.adobe.lrmobilephone\n• Updated to: 11.2.2\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/df/d2/acdfd24a-86e2-002f-07a5-9b8924b588eb/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Remove.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/04/99/000499ca-5106-d51a-1551-77bc2f2d4e97/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Sky.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/2d/64/652d647b-0a6f-2b20-8c3f-e7f50868d50f/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Portrait.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/31/98/803198cc-beb7-2e59-2b90-e01bededbc5c/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Blur.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/0c/82/2d0c82a2-b413-a47b-2606-d331be1125be/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Color.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/c1/b4/eec1b446-8a5b-3a30-ddb8-6638ecb915d0/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Video.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "I Am Sober",
+      "version": "8.5.5",
+      "versionDate": "2026-03-16",
+      "size": 44037981,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.thehungrywasp.iamsober_Sideloadbypass2_8.5.5.ipa",
+      "developerName": "I Am Sober LLC",
+      "bundleIdentifier": "com.thehungrywasp.iamsober",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/53/38/ba533869-5b56-22da-b673-19a53d5f81de/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nI Am Sober\n\nTweak: Premium Unlocked\n\nVersion: 8.5.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.thehungrywasp.iamsober\nDeveloper: I Am Sober LLC",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/75/69/147569b9-61b7-dbd0-c9bd-e0703e39f14a/64baf7b4-5fb2-4df1-8a2f-bd5b3b281f54_0_APP_IPHONE_55_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/03/84/d503847c-744b-8a0c-c520-e71886d8393e/45e1f965-0cd7-496d-b852-7fb3cfbada8c_1_APP_IPHONE_55_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/09/94/0f0994cd-ef9c-d03c-3103-24de7f11b890/8a0a3e79-8cd7-4abe-8e6c-13011d2852f4_2_APP_IPHONE_55_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1b/37/0c1b37b6-55fd-4e0a-c2a0-54b9b5d7e7e6/b51b4221-0374-494b-84c3-cd378d24c697_3_APP_IPHONE_55_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/b1/b9/d9b1b9cb-5db4-25e1-f94c-efaf08579136/e1e8e5ea-7dba-4764-a03d-13fc310702be_4_APP_IPHONE_55_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1c/e0/3f1ce0f3-1933-d6c5-aff3-54306f45eed8/6fc9af90-e411-40f8-90ab-5140681e3faa_5_APP_IPHONE_55_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/27/34/d52734b9-eac5-1a0d-3917-9196e93dfab5/46524a5a-f70c-46b0-aa0b-63e2397c970f_6_APP_IPHONE_55_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/42/cb/3342cb1b-a3a0-422d-85b9-b3f8cd800b3d/aaa9920b-a661-41e9-8904-9a74492b17fa_7_APP_IPHONE_55_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/37/84/3e378400-4665-40d3-9f0e-f3a4bfb6dd22/134b7de7-e44c-4b99-bb3f-98568e18d7f2_8_APP_IPHONE_55_8.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Duolingo",
+      "version": "7.114.0",
+      "versionDate": "2026-03-16",
+      "size": 203405438,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.duolingo.DuolingoMobile_Duolingo_7.114.0.ipa",
+      "developerName": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/55/a1/7f55a1cf-8fde-9957-8016-c6d50f269dcb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDuolingo - Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.114.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/32/13/a032137c-b6b5-8533-8b4d-00734cb192dd/iPhone6.5_-_Current_ASO_-_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/6b/c4/976bc4fd-844e-206e-e31c-d9e23f651a2e/iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_20.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/06/be/6a06be5b-4150-3261-5b82-f01e21dc46da/iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_21.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/a3/de/9ea3de39-d5a4-4433-a95e-ecef5f17ce82/6f720a4b-b175-4c97-95a5-b4b0d47a7efc_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/e0/bf/ede0bf85-d9dc-da4f-829b-130c999c7a7f/b8f7baed-f34e-47de-839e-53f1b955144c_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/3c/25/723c2504-637f-4ed4-9671-772205db7d00/86b731eb-a471-4a30-8299-12017d022069_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/38/18/9d381833-2619-ba6f-d7b6-7de8b4d9d54b/d4460d2f-c1c0-4ba6-a636-11bd4a45a08b_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/3a/a0/d13aa00a-8e51-86ab-7b89-9a5276fe690e/f16197e4-45fd-4d9d-9019-c1bab0b57050_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/c5/35/6fc5355e-f58b-acb0-9595-49a69a436351/9f196a8e-1dc4-4350-8889-5096cf10f9ac_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/69/ef/1369ef75-5ed5-8e49-2721-6a498344d09c/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_1_-_v2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/49/60/3a4960ba-9e2d-da13-c4a7-5acfb4cfcf67/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_17.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/61/82/13618263-eca9-5c91-2475-4d7759a851d8/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_16.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cb/2c/5ccb2ce8-2d18-5210-5f74-c2406e5cb996/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/9e/42/1d9e4220-4486-fde6-0604-a17b442f6c95/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/b2/fa/8cb2fa7c-2172-26a8-ce37-d7ff39c9b254/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/78/e6/d178e657-fb25-3a30-454c-d25f8dfa2b3a/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/a7/76/8ea77601-efdd-7c53-5dc8-8b2607744619/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/a7/d0/c5a7d0f8-dfe6-f587-affa-caf8e572479d/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_39.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/9f/7d/299f7d00-4b38-f6f6-bbb5-e6f35f1a8c18/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_9.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Offline Games",
       "version": "1.54",
       "versionDate": "2026-03-16",
@@ -3547,26 +3623,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Lightroom",
-      "version": "11.2.1",
-      "versionDate": "2026-03-12",
-      "size": 177130158,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.adobe.lrmobilephone_LightroomPatch_11.2.1.ipa",
-      "developerName": "Adobe Inc.",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/01/c0/9901c058-d2f4-674b-4bde-5b9b51e56591/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nLightroom Photo & Video Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/df/d2/acdfd24a-86e2-002f-07a5-9b8924b588eb/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Remove.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/04/99/000499ca-5106-d51a-1551-77bc2f2d4e97/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Sky.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/2d/64/652d647b-0a6f-2b20-8c3f-e7f50868d50f/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Portrait.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/31/98/803198cc-beb7-2e59-2b90-e01bededbc5c/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Blur.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/0c/82/2d0c82a2-b413-a47b-2606-d331be1125be/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Color.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/c1/b4/eec1b446-8a5b-3a30-ddb8-6638ecb915d0/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Video.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "FLTR",
       "version": "4.21.0",
       "versionDate": "2026-03-12",
@@ -5007,39 +5063,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Duolingo",
-      "version": "7.112.1",
-      "versionDate": "2026-03-11",
-      "size": 201539313,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.duolingo.DuolingoMobile_Duolingo_7.112.1.ipa",
-      "developerName": "Duolingo",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/55/a1/7f55a1cf-8fde-9957-8016-c6d50f269dcb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDuolingo - Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.112.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/32/13/a032137c-b6b5-8533-8b4d-00734cb192dd/iPhone6.5_-_Current_ASO_-_1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/6b/c4/976bc4fd-844e-206e-e31c-d9e23f651a2e/iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_20.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/06/be/6a06be5b-4150-3261-5b82-f01e21dc46da/iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_21.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/a3/de/9ea3de39-d5a4-4433-a95e-ecef5f17ce82/6f720a4b-b175-4c97-95a5-b4b0d47a7efc_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/e0/bf/ede0bf85-d9dc-da4f-829b-130c999c7a7f/b8f7baed-f34e-47de-839e-53f1b955144c_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/3c/25/723c2504-637f-4ed4-9671-772205db7d00/86b731eb-a471-4a30-8299-12017d022069_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/38/18/9d381833-2619-ba6f-d7b6-7de8b4d9d54b/d4460d2f-c1c0-4ba6-a636-11bd4a45a08b_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/3a/a0/d13aa00a-8e51-86ab-7b89-9a5276fe690e/f16197e4-45fd-4d9d-9019-c1bab0b57050_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/c5/35/6fc5355e-f58b-acb0-9595-49a69a436351/9f196a8e-1dc4-4350-8889-5096cf10f9ac_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_9.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/69/ef/1369ef75-5ed5-8e49-2721-6a498344d09c/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_1_-_v2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/49/60/3a4960ba-9e2d-da13-c4a7-5acfb4cfcf67/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_17.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/61/82/13618263-eca9-5c91-2475-4d7759a851d8/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_16.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cb/2c/5ccb2ce8-2d18-5210-5f74-c2406e5cb996/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/9e/42/1d9e4220-4486-fde6-0604-a17b442f6c95/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/b2/fa/8cb2fa7c-2172-26a8-ce37-d7ff39c9b254/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/78/e6/d178e657-fb25-3a30-454c-d25f8dfa2b3a/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/a7/76/8ea77601-efdd-7c53-5dc8-8b2607744619/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/a7/d0/c5a7d0f8-dfe6-f587-affa-caf8e572479d/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_39.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/9f/7d/299f7d00-4b38-f6f6-bbb5-e6f35f1a8c18/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_9.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Photoshop",
       "version": "7.5.1",
       "versionDate": "2026-03-11",
@@ -6326,29 +6349,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/99/0e/74990e80-c5fa-ba9d-e874-864b0c2ced52/5cce2251-77d6-43a3-8f40-93bc0aca940e_06.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/3c/55/9a3c55cd-a48b-0ac9-7d77-56f3f1500453/8c1fb339-04d4-4455-a8f1-c75255b091d3_07.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/bb/25/e0bb25c2-5168-2d7c-7c84-c24a763785a7/a1d7d0c8-16a1-40ee-994d-14a5f9285831_08.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "I Am Sober",
-      "version": "8.5.4",
-      "versionDate": "2026-03-11",
-      "size": 41683331,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.thehungrywasp.iamsober_Sideloadbypass2_8.5.4.ipa",
-      "developerName": "I Am Sober LLC",
-      "bundleIdentifier": "com.thehungrywasp.iamsober",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/53/38/ba533869-5b56-22da-b673-19a53d5f81de/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nI Am Sober\n\nTweak: Premium Unlocked\n\nVersion: 8.5.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.thehungrywasp.iamsober\nDeveloper: I Am Sober LLC",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/75/69/147569b9-61b7-dbd0-c9bd-e0703e39f14a/64baf7b4-5fb2-4df1-8a2f-bd5b3b281f54_0_APP_IPHONE_55_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/03/84/d503847c-744b-8a0c-c520-e71886d8393e/45e1f965-0cd7-496d-b852-7fb3cfbada8c_1_APP_IPHONE_55_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/09/94/0f0994cd-ef9c-d03c-3103-24de7f11b890/8a0a3e79-8cd7-4abe-8e6c-13011d2852f4_2_APP_IPHONE_55_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1b/37/0c1b37b6-55fd-4e0a-c2a0-54b9b5d7e7e6/b51b4221-0374-494b-84c3-cd378d24c697_3_APP_IPHONE_55_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/b1/b9/d9b1b9cb-5db4-25e1-f94c-efaf08579136/e1e8e5ea-7dba-4764-a03d-13fc310702be_4_APP_IPHONE_55_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1c/e0/3f1ce0f3-1933-d6c5-aff3-54306f45eed8/6fc9af90-e411-40f8-90ab-5140681e3faa_5_APP_IPHONE_55_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/27/34/d52734b9-eac5-1a0d-3917-9196e93dfab5/46524a5a-f70c-46b0-aa0b-63e2397c970f_6_APP_IPHONE_55_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/42/cb/3342cb1b-a3a0-422d-85b9-b3f8cd800b3d/aaa9920b-a661-41e9-8904-9a74492b17fa_7_APP_IPHONE_55_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/37/84/3e378400-4665-40d3-9f0e-f3a4bfb6dd22/134b7de7-e44c-4b99-bb3f-98568e18d7f2_8_APP_IPHONE_55_8.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
