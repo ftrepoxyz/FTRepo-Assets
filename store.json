@@ -79,6 +79,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.videobrowser.ios_VideoLite_622100.ipa"
     },
     {
+      "name": "SolarWatch",
+      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
+      "developerName": "Fifteen Jugglers Software UG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/6d/e9/d86de9f5-bf9c-cdef-d0dc-d1cbdf875f96/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSunrise Sunset Time SolarWatch\n\nTweak: Premium Unlocked\n\nVersion: 2026.18\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.6\nBundle ID: com.fifteenjugglers.solarwatch\nDeveloper: Fifteen Jugglers Software UG",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2026.18",
+          "date": "2026-03-16",
+          "size": 54884545,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.fifteenjugglers.solarwatch_Sideloadbypass2_2026.18.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.18",
+      "versionDate": "2026-03-16T15:33:37.633Z",
+      "size": 54884545,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.fifteenjugglers.solarwatch_Sideloadbypass2_2026.18.ipa"
+    },
+    {
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
@@ -5829,7 +5851,7 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/40/d8/ad40d8f3-1b78-9861-764a-2814da186bb0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nVoloco: Vocal Recording Studio\n\nTweak: Subscription Unlocked\n\nVersion: 9.13.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.resonantcavity.Voloco\nDeveloper: Resonant Cavity, LLC",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVoloco: Vocal Recording Studio\n\nTweak: Subscription Unlocked\n\nVersion: 9.14.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.resonantcavity.Voloco\nDeveloper: Resonant Cavity, LLC",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/a4/24/3ca4242a-a14e-c5f7-2664-32c190219282/0_APP_IPHONE_67_0.jpg/1320x2868bb.webp"
@@ -5916,6 +5938,12 @@
       ],
       "versions": [
         {
+          "version": "9.14.0",
+          "date": "2026-03-16",
+          "size": 147702169,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.resonantcavity.Voloco_popuprifty_9.14.0.ipa"
+        },
+        {
           "version": "9.13.2",
           "date": "2026-03-11",
           "size": 146497465,
@@ -5923,10 +5951,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.13.2",
-      "versionDate": "2026-03-11T13:31:48.393Z",
-      "size": 146497465,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.resonantcavity.Voloco_popuprifty_9.13.2.ipa"
+      "version": "9.14.0",
+      "versionDate": "2026-03-16T16:03:56.877Z",
+      "size": 147702169,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.resonantcavity.Voloco_popuprifty_9.14.0.ipa"
     },
     {
       "name": "SimplyPiano",
@@ -23700,11 +23728,17 @@
       "name": "Bearable",
       "bundleIdentifier": "co.codeleap.bearable",
       "developerName": "Bearable Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/1d/2f/1e1d2fc6-a560-42a5-4647-0a7843f61ccb/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBearable - Symptom Tracker\n\n• Bundle ID: co.codeleap.bearable\n• Updated to: 1.0.588\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nPremium Unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/65/7e/57657e27-d0fb-97a9-83c5-3ede472a356a/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nBearable - Symptom Tracker\n\n• Bundle ID: co.codeleap.bearable\n• Updated to: 1.0.589\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nPremium Unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.0.589",
+          "date": "2026-03-16",
+          "size": 58636076,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/co.codeleap.bearable_AutoRcSideload_1.0.589.ipa"
+        },
         {
           "version": "1.0.588",
           "date": "2026-03-11",
@@ -23719,10 +23753,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.0.588",
-      "versionDate": "2026-03-11T07:59:43.913Z",
-      "size": 58360312,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.codeleap.bearable_AutoRcSideload_1.0.588.ipa"
+      "version": "1.0.589",
+      "versionDate": "2026-03-16T16:03:38.691Z",
+      "size": 58636076,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/co.codeleap.bearable_AutoRcSideload_1.0.589.ipa"
     },
     {
       "name": "Motobit",
