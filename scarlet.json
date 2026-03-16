@@ -5,6 +5,61 @@
   },
   "data": [
     {
+      "name": "SoundCloud",
+      "version": "8.52.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.soundcloud.TouchApp_libsubstrate_8.52.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.soundcloud.TouchApp",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5b/4e/745b4e63-9c36-975e-2155-903f8efbb097/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @soundcloudtweaks |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.52.0.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
+      "developer": "SoundCloud Global Limited & Co KG",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/c8/04/33c804b6-7339-b144-5c82-7d1b7902f731/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/2d/5e/fc2d5e03-6ba3-650c-4ff9-10c93d6d56d6/ba7696c7-7243-486b-9c7d-068909e90818_iPad_Pro_2A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/e7/43/29e743f9-d42a-3952-6adc-eb1aceea5cdf/0b5c0fa0-9dcc-4bb8-8ebb-5398547b1971_iPad_Pro_3A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/39/ae/f639aeff-9798-bf82-b564-b98ab1e494ec/b4ea7933-cecc-4049-aa93-38ce38cd95ca_iPad_Pro_4A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/d5/20/bed5207d-f641-11f4-759e-55538516869f/a7dbf188-1858-4698-b27a-a37b7fb0970e_iPad_Pro_5A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/f7/5e/36f75e02-1540-9e8c-d982-06953ef3f6ba/ebc3b586-fbda-4a39-a00c-cb28b6d70f7d_iPad_Pro_6A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/67/ae/c467ae4a-2bcb-3898-9cf2-d85668e8328d/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/1e/2c/381e2cc8-8670-caff-0c88-b2297e64174a/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Wikiloc",
+      "version": "3.26.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.wikiloc.wikiloc_sideloadKeychainfix_3.26.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.wikiloc.wikiloc",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nWikiloc - Trails of the World\n\n• Bundle ID: com.wikiloc.wikiloc\n• Updated to: 3.26.5\n• Minimum iOS: 16.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>3D Maps feature won't work\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Wikiloc Outdoor SL",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/17/68/e9176897-2173-495f-be87-c6a4a232401d/2._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fa/b7/34fab736-0bb8-c8e7-971a-005e267a9055/3._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1c/e4/c61ce48e-6e58-3554-1536-f09883f5a6a8/4._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/6e/09426ed8-6ab0-9b9e-790c-cbb48c1a7128/6._5.5_U0027_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2c/c6/882cc652-3db9-4d6d-ff6d-e9d42733b44e/7._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Planta",
       "version": "3.108.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.stromming.Plants_Sideloadbypass2_3.108.0.ipa",
@@ -1806,33 +1861,6 @@
       }
     },
     {
-      "name": "SoundCloud",
-      "version": "8.51.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.soundcloud.TouchApp_libsubstrate_8.51.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.soundcloud.TouchApp",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5b/4e/745b4e63-9c36-975e-2155-903f8efbb097/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @soundcloudtweaks |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.51.1.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
-      "developer": "SoundCloud Global Limited & Co KG",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/c8/04/33c804b6-7339-b144-5c82-7d1b7902f731/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/2d/5e/fc2d5e03-6ba3-650c-4ff9-10c93d6d56d6/ba7696c7-7243-486b-9c7d-068909e90818_iPad_Pro_2A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/e7/43/29e743f9-d42a-3952-6adc-eb1aceea5cdf/0b5c0fa0-9dcc-4bb8-8ebb-5398547b1971_iPad_Pro_3A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/39/ae/f639aeff-9798-bf82-b564-b98ab1e494ec/b4ea7933-cecc-4049-aa93-38ce38cd95ca_iPad_Pro_4A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/d5/20/bed5207d-f641-11f4-759e-55538516869f/a7dbf188-1858-4698-b27a-a37b7fb0970e_iPad_Pro_5A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/f7/5e/36f75e02-1540-9e8c-d982-06953ef3f6ba/ebc3b586-fbda-4a39-a00c-cb28b6d70f7d_iPad_Pro_6A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/67/ae/c467ae4a-2bcb-3898-9cf2-d85668e8328d/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/1e/2c/381e2cc8-8670-caff-0c88-b2297e64174a/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Lens AI",
       "version": "1.0.41",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.lens.ai.app_Sideloadbypass2_1.0.41.ipa",
@@ -2797,34 +2825,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/1a/e3/a01ae306-79ed-4692-92dd-0eeeec66d160/f248007a-9f03-4e8a-b3b0-ef490b3ecc4b_1242x2208_-_English_-_A5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/2f/42/912f4244-d903-cc84-eaa4-2d3f61ba681f/36904330-7fa4-4e7e-8bed-373db1fad140_1242x2208_-_English_-_A7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/5c/e0/5c5ce0c8-3ba1-a788-0221-b094db60c4de/1755ce38-fa0b-4277-9e27-64866ee19ca1_1242x2208_-_English_-_A8.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Wikiloc",
-      "version": "3.26.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.wikiloc.wikiloc_Wikiloc_3.26.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.wikiloc.wikiloc",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nWikiloc - Trails of the World\n\nPremium features unlocked\n\n3D maps feature is server-sided and doesn't work\n\nTweak made by Blatant\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
-      "developer": "Wikiloc Outdoor SL",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/17/68/e9176897-2173-495f-be87-c6a4a232401d/2._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fa/b7/34fab736-0bb8-c8e7-971a-005e267a9055/3._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1c/e4/c61ce48e-6e58-3554-1536-f09883f5a6a8/4._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/6e/09426ed8-6ab0-9b9e-790c-cbb48c1a7128/6._5.5_U0027_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2c/c6/882cc652-3db9-4d6d-ff6d-e9d42733b44e/7._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
