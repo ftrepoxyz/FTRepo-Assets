@@ -3,15 +3,268 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "MyFitCoach",
+      "version": "1.21",
+      "versionDate": "2026-03-16",
+      "size": 187314897,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/de.my-fit-coach.myfitcoach-ios_RevenueCatFix26_1.21.ipa",
+      "developerName": "MyFitCoach GmbH",
+      "bundleIdentifier": "de.my-fit-coach.myfitcoach-ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/2d/61/e12d6126-abaf-5141-37a0-13a6c0065e5c/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMyFitCoach Gym Workout Planner\n\nPro features unlocked\n\nMinimum OS version 17.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/08/62/d108627c-6471-48f8-5165-37e952d3b9f8/5_loading_screen_en.png/1320x2868bb.webp"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Zing",
+      "version": "1.121.0",
+      "versionDate": "2026-03-16",
+      "size": 282698264,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.coach.zing_ZingAiPremium_1.121.0.ipa",
+      "developerName": "Zing Coach Inc.",
+      "bundleIdentifier": "com.coach.zing",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/23/02/e02302b6-5150-75ab-70af-8cf224917300/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nZing AI: Home & Gym Workouts\n\nPremium features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/ba/07/8dba074c-12d1-071f-382f-fdc5799bd0fd/Screen_53.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/e3/0f/31e30fa1-c1f8-09ab-98f9-62485a88a354/Screen_51.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/de/35/ebde35e7-d592-02b0-8e71-171147a3c03a/Screen_49.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/78/86/477886d2-820e-cf63-d0a4-0568b1c78ef6/Screen_203.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/fc/e2/76fce25c-bce8-89fc-669a-6c1ac513ff23/Screen_204.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/d5/03/58d50321-7726-3e6d-fb98-7cc65021bd18/Screen_205.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/46/4e/12464e8c-c76f-54e0-623f-81c32e81ddcd/Screen_206.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/91/de/6f91deff-7196-f5f4-2714-f75421c645f4/Screen_62.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/1e/c8/d21ec8da-3d93-6a8d-e995-d2b9c9dd391b/Screen_64.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/95/e5/2a95e59c-0a10-9db8-624b-3fee0b5fda14/Screen-5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/e7/03/44e703e0-8c4d-ffa5-e844-a469eb1eb4e5/Screen-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/f7/a4/b2f7a46c-dc0b-e3b1-541f-5b8b5df06d9c/Screen-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/86/c2/0586c2bd-9ad3-aeaf-2732-d5533d14678d/Screen-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/50/2c/f3502c0a-4bf8-bd13-765c-01dc34978ffc/Screen-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/7f/af/957faf63-a8ca-46a1-1450-94c53af826a1/Screen.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Documents",
+      "version": "8.19.7",
+      "versionDate": "2026-03-16",
+      "size": 348366882,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.readdle.ReaddleDocsIPad_Documents_8.19.7.ipa",
+      "developerName": "Readdle Technologies Limited",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDocuments: File Manager & Docs\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/a3/ff/d3a3ff1e-4d40-9b50-6cd2-b13bb39d9138/iPhone_6_U002c9_artwork_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ce/3c/b6ce3c9c-0be1-8f9c-d382-8c890ad6357b/iPhone_6_U002c9_artwork_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/41/37/c241378f-f4f8-b7b4-ebab-0649fe78b229/iPhone_6_U002c9_artwork_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/e7/72/97e77246-0c65-c595-368f-4d47cba56928/iPhone_6_U002c9_artwork_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/bb/97/5fbb97b5-913d-9963-5f8f-c12d1c30945c/iPhone_6_U002c9_artwork_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/a6/16/00a61669-1928-dc0d-bbb2-928189e10bc5/iPhone_6_U002c9_artwork_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/0b/93/040b9348-bf7f-9bb4-b6a2-cece6347a0d2/iPhone_6_U002c9_artwork_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/76/85/107685d8-29b6-ffc3-a4c2-cf7382ccb3bd/iPhone_6_U002c9_artwork_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ed/57/deed5783-d78a-fcff-aa3a-79dfb0516c06/iPhone_6_U002c9_artwork_10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Precious",
+      "version": "3.51.0",
+      "versionDate": "2026-03-16",
+      "size": 318351111,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.laubrothersllc.BabyArt_RevenueCatFix26_3.51.0.ipa",
+      "developerName": "Curious Creators Co.",
+      "bundleIdentifier": "com.laubrothersllc.BabyArt",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/86/52/3286522d-d91d-7e66-fe5f-a8bff0ef102c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPrecious - Baby Photo Art\n\nUnlimited features unlocked\n\nSelect a subscription and then tap on buy\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/47/8e/5e478ed8-49f6-3b97-2366-27b1ab4061cf/25.03.18_1_Adorable_iPad.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/cf/17/6ecf1778-f4fa-c2fe-431f-5997d2c53de7/25.03.18_2_Superman_iPad.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/fa/7e/e4fa7e6a-2a96-fb18-56a2-5d19d6504a81/25.03.18_3_Foot_Milestone_iPad.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/41/d6/be41d689-9180-14ce-74c0-4428774bf449/25.03.18_4_Explore_Designs_iPad.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/f1/eb/b9f1eb19-632d-bf01-b79a-9e646b04085a/25.03.18_5_See_Baby_Grow_Up_Still_iPad.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Unscripted",
+      "version": "4.8.1",
+      "versionDate": "2026-03-16",
+      "size": 163729798,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.ibit.UNPOSED_RevenueCatFix26_4.8.1.ipa",
+      "developerName": "OMJ Holdings Pty Ltd",
+      "bundleIdentifier": "com.ibit.UNPOSED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/8d/ff/648dffbf-4486-bf81-1199-2e75f97d7085/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUNSCRIPTED Photography Poses\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/e7/c8/95e7c833-b668-03ae-bc04-bf81ed90b9b7/5ac8ac8c-24f2-4c14-9e4f-0a56a428f737_15.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/b3/e1/87b3e1df-499e-29d8-75d5-fe3fd7699b47/f82882fd-5f30-4a57-aacf-6180adb0747a_25.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/10/a8/1610a8ce-6063-ce3e-ceb5-c877b3427d64/fe835d3d-bd28-4692-8764-59c6af0d2311_35.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/a1/03/dea10348-211f-7ae4-eafc-6d18c4517cc3/991439ca-ad55-4271-afaa-450b90fbe6be_45.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ea/5c/44ea5cea-ba55-c4d6-f444-bc090e4bcaec/2e3c87bf-fc56-4b09-90cd-2b0ca44379ce_55.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/2d/76/9c2d76ab-e1ec-93ee-2bc2-251497e63bc1/41d726ae-e723-4a76-9b02-ee62e368d99c_65.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/fb/1b/9cfb1b90-0aac-a6ba-762f-b09a2f48d1d3/ec1518e5-d99c-433b-970d-29b78efee518_75.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/32/f4/9332f451-6ae7-9bec-ef7d-83ac8dbee26d/fec297fd-2404-44df-bce4-3c0c262ed921_85.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/31/1a/5f311ab2-4524-5b13-9b6c-346c3267683c/344052e7-2339-42da-9b55-3bd7b032558e_95.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/89/53/4d895344-e0c7-0a45-16d0-f3d5811d3608/e0d9cc5a-63d2-49f6-9775-1d740bf2aabe_105.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "MonokaiToolkit Pro",
+      "version": "1.2.7",
+      "versionDate": "2026-03-16",
+      "size": 30193002,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.monokaitoolkit.pro_RevenueCatFix26_1.2.7.ipa",
+      "developerName": "Anh Nhan Nguyen",
+      "bundleIdentifier": "com.monokaitoolkit.pro",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/f1/e9/25f1e983-b932-cfe8-3fd9-a5649f30da5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMonokaiToolkit Pro\n\nPremium features unlocked\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/fc/ef/cefcef6e-a341-7a8a-b530-1ce51b5761d4/Simulator_Screenshot_iPad_Pro_13_inch_M4_2026_03_09_at_01_01_54.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Komoot",
+      "version": "2026.11.2",
+      "versionDate": "2026-03-16",
+      "size": 107374570,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/de.komoot.berlinbikeapp_KomootPatch_2026.11.2.ipa",
+      "developerName": "komoot GmbH",
+      "bundleIdentifier": "de.komoot.berlinbikeapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/87/93/ed879367-4bef-152e-c5ad-879a7a98c7e0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nkomoot - hike, bike & run\n\nPremium and world map unlocked\n\nThanks to Никита for this tweak\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/cb/da/b5cbda6a-3a45-1f80-b5e6-853902584fa8/EN_komoot_1242x2688_iPhone65_01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f4/31/4ff431e7-8170-b5df-dacd-2b524f8b7b29/EN_komoot_1242x2688_iPhone65_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/a7/3e/2ba73e47-0775-42d7-abce-7990c25050d8/EN_komoot_1242x2688_iPhone65_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/e8/3a/b6e83a2c-5d13-fa00-5f41-312326eec6e4/EN_komoot_1242x2688_iPhone65_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/1e/1c/f51e1c60-e28a-7477-3017-26eb9d69c763/EN_komoot_1242x2688_iPhone65_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/fc/83/21fc837c-c106-b753-f7ba-f0ec20846b41/EN_komoot_1242x2688_iPhone65_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/d8/3a/3dd83a72-b139-10b6-719e-b53cd099791a/EN_komoot_1242x2688_iPhone65_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/03/ecc103f4-ec2c-03f9-7d28-13f604d09062/EN_komoot_1242x2688_iPhone65_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/83/7c/4c837c30-ecc6-3ebf-37e0-a5eb311a17ba/EN_komoot_1242x2688_iPhone65_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/02/89/000289ba-14fd-66eb-b97b-58ff92710f59/EN_komoot_1242x2688_iPhone65_10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Speedometer",
+      "version": "8.0.9",
+      "versionDate": "2026-03-16",
+      "size": 33802446,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.jps.gpspeedhud_StopReviews_8.0.9.ipa",
+      "developerName": "BITHAUS.TECH, UNIPESSOAL LDA",
+      "bundleIdentifier": "com.jps.gpspeedhud",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/69/0f/07690fca-6e49-cf1e-e7f9-cfab549c2f5a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSpeedometer Speed Tracker GPS\n\nPro features unlocked\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/64/75/ed6475a5-a556-c0b3-2880-a08e013f3e75/1067dd29-1f70-4f00-844a-b651b19e242f_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/d1/7f/f3d17f7d-2517-d546-c5fe-c831b3351007/c2516102-e049-4c6a-9c75-d4fa3513a698_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/e1/60/42e160e8-c758-9a3f-47cc-a382ccd431fd/ae539092-d125-4c96-bd96-c5c1cb624438_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/44/06/404406e7-f846-16c7-0c92-7beef1397616/3983dde1-bb88-4cd6-945a-0d376db99e7d_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/f0/70/e8f070b7-3a6b-b847-6b86-4b1363816eaa/c8f2b738-f5cf-4858-9adc-75cd561bc336_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/22/35/5b22359b-2cca-5e03-0783-8aa4f4ed5f46/b7572613-c04b-42fc-8fbc-ce3894857f88_6.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Dropshare",
+      "version": "3.60",
+      "versionDate": "2026-03-16",
+      "size": 65705171,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/net.mkswap.Dropshare-iOS_Dropshare_3.60.ipa",
+      "developerName": "Timo Josten",
+      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/aa/63/f7aa631d-f3a5-b953-f501-f65e12389902/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDropshare - File Sharing Tool\n\nPro features unlocked\n\nTweak made by blatant\n\nMinimum OS version 14.5\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/9d/5f/cc9d5fc6-ebaa-b969-b563-26e627af95e9/fe21a11e-b843-418e-b4a5-97f2af685482_ios-phone-screenshot-1-small.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/0b/77/290b7730-03cd-6112-61ce-30d08966f024/6e071ebb-c8f0-406d-a37e-b7ddb1a138d4_ios-phone-screenshot-2-small.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/83/a6/4b83a6ee-381f-2123-da50-3c8c036e8e77/db0fab6e-ad42-4b5f-a172-0765ee67dd35_ios-phone-screenshot-3-small.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Web Video Cast",
+      "version": "2.52",
+      "versionDate": "2026-03-16",
+      "size": 68772209,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.instantbits.cast.webvideo_2.52.ipa",
+      "developerName": "InstantBits Inc",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/7b/7e/e67b7e79-5a62-2d50-6d24-dcb23aedad22/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWeb Video Cast | Browser to TV\n\nRead and install this first -> https://t.me/binnichtaktivsipas/2/3025\n\nAfter you did that install this iPA\n\nMinimum OS version 17.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5f/29/4d/5f294d17-534a-5714-6e56-c679eed7cfd0/0666771e-f1fe-46d7-81bd-f65167361aec_wvc_8_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/cd/cb/71/cdcb7147-152e-68e5-6ba1-b8dcd8694797/mzl.tdpqjcsb.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a0/8b/03/a08b031c-c906-8d71-e8d5-90b35f6c4587/mzl.nmsupafp.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fa/5d/1f/fa5d1f9d-6362-0f33-791d-98baaf9912cb/mzl.kebxqryc.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Structured",
+      "version": "4.4.6",
+      "versionDate": "2026-03-16",
+      "size": 123042868,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.leomehlig.today_StructuredPro_4.4.6.ipa",
+      "developerName": "unorderly GmbH",
+      "bundleIdentifier": "com.leomehlig.today",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/16/b0/ac16b049-919f-eb6c-4205-3a26cf48e3a4/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nStructured - Daily Planner\n\nPro features unlocked\n\n⚠️ only works with Trollstore or by signing with a custom entitlements file\n\nTweak made by binnichtaktiv\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Stemz",
+      "version": "5.00.00",
+      "versionDate": "2026-03-16",
+      "size": 342430246,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.mwm.stems_Stemz_5.00.00.ipa",
+      "developerName": "MWM",
+      "bundleIdentifier": "com.mwm.stems",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/82/5f2282bb-4b74-5bdf-36e9-32dda6fbdec0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nStemz: AI Tool for Musicians\n\nMax features unlocked\n\nTweak made by Zzz Zzz\n\nMinimum OS version 17.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/f9/62/6bf962fb-c012-970b-59b6-0700be1ca79f/EN_iphone69_01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/fb/3d/b3fb3d39-858e-5837-899a-3527268d459e/EN_iphone69_02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/8b/ac/d48baca4-f2fd-b74d-4a3f-bf2a682721e8/EN_iphone69_03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/44/25/344425ce-075c-161b-543e-dc8d714a4fda/EN_iphone69_04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/ab/43/09ab432c-473f-7263-659d-b79d5e8d89b8/EN_iphone69_05.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/21/ad/5121ad67-0745-a5c7-9343-e40663b16bc1/EN_ipadpro13_01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/9b/56/ce9b56b8-e067-2d2b-91b0-7d9d3677625c/EN_ipadpro13_02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/51/ec/c951ec4b-4ad0-8cd7-d14d-d8effa13d764/EN_ipadpro13_03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/4d/ba/254dbac9-a371-c877-41e1-cd57fcd2f3ee/EN_ipadpro13_04.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Paired",
+      "version": "2.74.0",
+      "versionDate": "2026-03-16",
+      "size": 42410230,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/io.betterhalf.app_PairedPatch_2.74.0.ipa",
+      "developerName": "Better Half Limited",
+      "bundleIdentifier": "io.betterhalf.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/1f/43/151f435e-df04-b90f-3243-f67a01fdce14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPaired: Couples & Relationship\n\nPremium features unlocked\n\nTweak made by Dell\n\nMinimum OS version 15.5\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Coconote",
       "version": "2.43",
       "versionDate": "2026-03-16",
-      "size": 47164692,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.bbauman.Scripty_Sideloadbypass2_2.43.ipa",
+      "size": 51163684,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.bbauman.Scripty_AutoRcSideload_2.43.ipa",
       "developerName": "Quizlet Inc",
       "bundleIdentifier": "com.bbauman.Scripty",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/58/b7/6258b7d1-80f2-f565-ac1d-249e40cb110e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nCoconote - AI Note Taker\n\nTweak: Subscription Unlocked\n\nVersion: 2.43\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.bbauman.Scripty\nDeveloper: Quizlet Inc",
+      "localizedDescription": "from @blatants |\n----------------\nCoconote - AI Note Taker\n\n• Bundle ID: com.bbauman.Scripty\n• Updated to: 2.43\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nFilepicker fix by ChocolateFluffy\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/3c/dd/ea3cdd06-d3cd-5ea0-0452-acad15fcdae5/ipad_-_student_-_preview_-.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/25/d4/d725d4f1-1506-87cd-8bbe-e97c4a971d16/ipad_-_student_-_preview_-_02.jpg/1320x2868bb.jpg",
@@ -413,29 +666,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Stemz",
-      "version": "5.00.00",
-      "versionDate": "2026-03-16",
-      "size": 347286972,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.mwm.stems_Stemz_5.00.00.ipa",
-      "developerName": "MWM",
-      "bundleIdentifier": "com.mwm.stems",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/82/5f2282bb-4b74-5bdf-36e9-32dda6fbdec0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nStemz: remover vocal audio pro\n\n• Bundle ID: com.mwm.stems\n• Updated to: 5.00.00\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/f9/62/6bf962fb-c012-970b-59b6-0700be1ca79f/EN_iphone69_01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/fb/3d/b3fb3d39-858e-5837-899a-3527268d459e/EN_iphone69_02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/8b/ac/d48baca4-f2fd-b74d-4a3f-bf2a682721e8/EN_iphone69_03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/44/25/344425ce-075c-161b-543e-dc8d714a4fda/EN_iphone69_04.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/ab/43/09ab432c-473f-7263-659d-b79d5e8d89b8/EN_iphone69_05.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/21/ad/5121ad67-0745-a5c7-9343-e40663b16bc1/EN_ipadpro13_01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/9b/56/ce9b56b8-e067-2d2b-91b0-7d9d3677625c/EN_ipadpro13_02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/51/ec/c951ec4b-4ad0-8cd7-d14d-d8effa13d764/EN_ipadpro13_03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/4d/ba/254dbac9-a371-c877-41e1-cd57fcd2f3ee/EN_ipadpro13_04.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Video Up!",
       "version": "2.4.0",
       "versionDate": "2026-03-16",
@@ -760,23 +990,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Dropshare",
-      "version": "3.60",
-      "versionDate": "2026-03-15",
-      "size": 68499618,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/net.mkswap.Dropshare-iOS_Dropshare_3.60.ipa",
-      "developerName": "Timo Josten",
-      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/aa/63/f7aa631d-f3a5-b953-f501-f65e12389902/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDropshare - File Sharing Tool\n\n• Bundle ID: net.mkswap.Dropshare-iOS\n• Updated to: 3.60\n• Minimum iOS: 14.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/9d/5f/cc9d5fc6-ebaa-b969-b563-26e627af95e9/fe21a11e-b843-418e-b4a5-97f2af685482_ios-phone-screenshot-1-small.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/0b/77/290b7730-03cd-6112-61ce-30d08966f024/6e071ebb-c8f0-406d-a37e-b7ddb1a138d4_ios-phone-screenshot-2-small.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/83/a6/4b83a6ee-381f-2123-da50-3c8c036e8e77/db0fab6e-ad42-4b5f-a172-0765ee67dd35_ios-phone-screenshot-3-small.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Hevy",
       "version": "3.0.3",
       "versionDate": "2026-03-15",
@@ -797,26 +1010,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/eb/db/32ebdb1d-9c1c-799d-be53-36587f8ee9a8/6aa699e7-9cc0-451b-adf8-dfaca2f74f7a_screenshot7.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/a5/5016a531-d92d-2481-a2e9-c39e0e9ffa1c/2c3f8aad-31e6-4a57-91a4-03074f5f53a8_screenshot8.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/ee/42/7fee426f-34e5-ca4a-62b5-fb7d7ee676d5/a11c7daf-a831-4772-9d97-a975d9345f6c_screenshot9.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Speedometer",
-      "version": "8.0.7",
-      "versionDate": "2026-03-15",
-      "size": 33828799,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.jps.gpspeedhud_StopReviews_8.0.7.ipa",
-      "developerName": "BITHAUS.TECH, UNIPESSOAL LDA",
-      "bundleIdentifier": "com.jps.gpspeedhud",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/69/0f/07690fca-6e49-cf1e-e7f9-cfab549c2f5a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSpeedometer Speed Tracker GPS\n\nPro features unlocked\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/64/75/ed6475a5-a556-c0b3-2880-a08e013f3e75/1067dd29-1f70-4f00-844a-b651b19e242f_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/d1/7f/f3d17f7d-2517-d546-c5fe-c831b3351007/c2516102-e049-4c6a-9c75-d4fa3513a698_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/e1/60/42e160e8-c758-9a3f-47cc-a382ccd431fd/ae539092-d125-4c96-bd96-c5c1cb624438_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/44/06/404406e7-f846-16c7-0c92-7beef1397616/3983dde1-bb88-4cd6-945a-0d376db99e7d_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/f0/70/e8f070b7-3a6b-b847-6b86-4b1363816eaa/c8f2b738-f5cf-4858-9adc-75cd561bc336_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/22/35/5b22359b-2cca-5e03-0783-8aa4f4ed5f46/b7572613-c04b-42fc-8fbc-ce3894857f88_6.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -968,42 +1161,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/be/95/a0be9571-fc34-1bac-2463-d5fb79b0c556/5109cf23-f7cc-417d-ab9a-4b2ab3168846_EN_1223_ios_SET068_v1-8_1242x2208_screenshot.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/d4/3b/18d43b4b-d685-c1b0-ffb7-2b15bc604505/0024cc0c-e105-4984-8284-681f502d58bb_EN_0424_ios_SET068_v1-9_1242x2208_screenshot.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Documents",
-      "version": "8.19.7",
-      "versionDate": "2026-03-15",
-      "size": 357415932,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.7.ipa",
-      "developerName": "Readdle Technologies Limited",
-      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDocuments: File Manager & Docs\n\n• Bundle ID: com.readdle.ReaddleDocsIPad\n• Updated to: 8.19.7\n• Minimum iOS: 16.0\n• Patched\n• Modifier: DocumentsPlus Unlocked\n• Tweaked by @blatants\n\n• Note:\nNo \"Update available\" popup 😄\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/a3/ff/d3a3ff1e-4d40-9b50-6cd2-b13bb39d9138/iPhone_6_U002c9_artwork_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ce/3c/b6ce3c9c-0be1-8f9c-d382-8c890ad6357b/iPhone_6_U002c9_artwork_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/41/37/c241378f-f4f8-b7b4-ebab-0649fe78b229/iPhone_6_U002c9_artwork_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/e7/72/97e77246-0c65-c595-368f-4d47cba56928/iPhone_6_U002c9_artwork_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/bb/97/5fbb97b5-913d-9963-5f8f-c12d1c30945c/iPhone_6_U002c9_artwork_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/a6/16/00a61669-1928-dc0d-bbb2-928189e10bc5/iPhone_6_U002c9_artwork_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/0b/93/040b9348-bf7f-9bb4-b6a2-cece6347a0d2/iPhone_6_U002c9_artwork_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/76/85/107685d8-29b6-ffc3-a4c2-cf7382ccb3bd/iPhone_6_U002c9_artwork_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ed/57/deed5783-d78a-fcff-aa3a-79dfb0516c06/iPhone_6_U002c9_artwork_10.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Structured",
-      "version": "4.4.6",
-      "versionDate": "2026-03-15",
-      "size": 123196086,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.leomehlig.today_autoRevenuecat_4.4.6.ipa",
-      "developerName": "unorderly GmbH",
-      "bundleIdentifier": "com.leomehlig.today",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/16/b0/ac16b049-919f-eb6c-4205-3a26cf48e3a4/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nStructured - Daily Planner\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.6\n\nNotes: requires trollstore, jailbreak or a certificate with specific entitlements\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.leomehlig.today\nDeveloper: unorderly GmbH",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -3061,30 +3218,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Komoot",
-      "version": "2026.8.0",
-      "versionDate": "2026-03-12",
-      "size": 108628136,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/de.komoot.berlinbikeapp_KomootPatch_2026.8.0.ipa",
-      "developerName": "komoot GmbH",
-      "bundleIdentifier": "de.komoot.berlinbikeapp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/87/93/ed879367-4bef-152e-c5ad-879a7a98c7e0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nkomoot - hike, bike & run\n\nPremium and world map unlocked\n\nThanks to Никита for this tweak\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/cb/da/b5cbda6a-3a45-1f80-b5e6-853902584fa8/EN_komoot_1242x2688_iPhone65_01.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f4/31/4ff431e7-8170-b5df-dacd-2b524f8b7b29/EN_komoot_1242x2688_iPhone65_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/a7/3e/2ba73e47-0775-42d7-abce-7990c25050d8/EN_komoot_1242x2688_iPhone65_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/e8/3a/b6e83a2c-5d13-fa00-5f41-312326eec6e4/EN_komoot_1242x2688_iPhone65_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/1e/1c/f51e1c60-e28a-7477-3017-26eb9d69c763/EN_komoot_1242x2688_iPhone65_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/fc/83/21fc837c-c106-b753-f7ba-f0ec20846b41/EN_komoot_1242x2688_iPhone65_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/d8/3a/3dd83a72-b139-10b6-719e-b53cd099791a/EN_komoot_1242x2688_iPhone65_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/03/ecc103f4-ec2c-03f9-7d28-13f604d09062/EN_komoot_1242x2688_iPhone65_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/83/7c/4c837c30-ecc6-3ebf-37e0-a5eb311a17ba/EN_komoot_1242x2688_iPhone65_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/02/89/000289ba-14fd-66eb-b97b-58ff92710f59/EN_komoot_1242x2688_iPhone65_10.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "ToonSquid",
       "version": "2.0.21",
       "versionDate": "2026-03-12",
@@ -3190,30 +3323,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Unscripted",
-      "version": "4.8.0",
-      "versionDate": "2026-03-11",
-      "size": 163467534,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ibit.UNPOSED_RevenueCatFix26_4.8.0.ipa",
-      "developerName": "OMJ Holdings Pty Ltd",
-      "bundleIdentifier": "com.ibit.UNPOSED",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/8d/ff/648dffbf-4486-bf81-1199-2e75f97d7085/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUNSCRIPTED Photography Poses\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/e7/c8/95e7c833-b668-03ae-bc04-bf81ed90b9b7/5ac8ac8c-24f2-4c14-9e4f-0a56a428f737_15.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/b3/e1/87b3e1df-499e-29d8-75d5-fe3fd7699b47/f82882fd-5f30-4a57-aacf-6180adb0747a_25.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/10/a8/1610a8ce-6063-ce3e-ceb5-c877b3427d64/fe835d3d-bd28-4692-8764-59c6af0d2311_35.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/a1/03/dea10348-211f-7ae4-eafc-6d18c4517cc3/991439ca-ad55-4271-afaa-450b90fbe6be_45.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ea/5c/44ea5cea-ba55-c4d6-f444-bc090e4bcaec/2e3c87bf-fc56-4b09-90cd-2b0ca44379ce_55.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/2d/76/9c2d76ab-e1ec-93ee-2bc2-251497e63bc1/41d726ae-e723-4a76-9b02-ee62e368d99c_65.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/fb/1b/9cfb1b90-0aac-a6ba-762f-b09a2f48d1d3/ec1518e5-d99c-433b-970d-29b78efee518_75.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/32/f4/9332f451-6ae7-9bec-ef7d-83ac8dbee26d/fec297fd-2404-44df-bce4-3c0c262ed921_85.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/31/1a/5f311ab2-4524-5b13-9b6c-346c3267683c/344052e7-2339-42da-9b55-3bd7b032558e_95.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/89/53/4d895344-e0c7-0a45-16d0-f3d5811d3608/e0d9cc5a-63d2-49f6-9775-1d740bf2aabe_105.5.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -7488,19 +7597,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Paired",
-      "version": "2.73.0",
-      "versionDate": "2026-03-11",
-      "size": 43832101,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/io.betterhalf.app_PairedPatch_2.73.0.ipa",
-      "developerName": "Better Half Limited",
-      "bundleIdentifier": "io.betterhalf.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/6d/44/5d6d445f-5a91-cc1e-94fa-ba4f15d2406d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPaired: Couples & Relationship\n\nPremium features unlocked\n\nTweak made by Dell\n\nMinimum OS version 15.5\n\nAppStore link | Donate",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Mondly",
       "version": "10.66.0",
       "versionDate": "2026-03-11",
@@ -7762,25 +7858,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/af/47/36af470b-67bd-4e18-7504-bb0dc2dce45d/d8c5a71c-b24f-4fde-805b-fb26c7d6e10c_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S9.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/e6/14/c1e614bf-3fe1-48e2-f322-e8b3b8c32bfc/ffc6936a-2d93-43fb-82db-071905ae4634_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S10.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/33/d8/d433d890-6d15-9b03-69e4-e36e12aa016d/2214e8b6-a873-4f0c-b2ad-05be37035d95_230209_PI_GL_S3d1_InDevice0DarkTheme_1242x2208_S8.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Precious",
-      "version": "3.50.4",
-      "versionDate": "2026-03-11",
-      "size": 318561097,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.laubrothersllc.BabyArt_RevenueCatFix26_3.50.4.ipa",
-      "developerName": "Curious Creators Co.",
-      "bundleIdentifier": "com.laubrothersllc.BabyArt",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/86/52/3286522d-d91d-7e66-fe5f-a8bff0ef102c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPrecious - Baby Photo Art\n\nUnlimited features unlocked\n\nSelect a subscription and then tap on buy\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/47/8e/5e478ed8-49f6-3b97-2366-27b1ab4061cf/25.03.18_1_Adorable_iPad.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/cf/17/6ecf1778-f4fa-c2fe-431f-5997d2c53de7/25.03.18_2_Superman_iPad.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/fa/7e/e4fa7e6a-2a96-fb18-56a2-5d19d6504a81/25.03.18_3_Foot_Milestone_iPad.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/41/d6/be41d689-9180-14ce-74c0-4428774bf449/25.03.18_4_Explore_Designs_iPad.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/f1/eb/b9f1eb19-632d-bf01-b79a-9e646b04085a/25.03.18_5_See_Baby_Grow_Up_Still_iPad.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
