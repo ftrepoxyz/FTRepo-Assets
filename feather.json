@@ -161,6 +161,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.reddit.Reddit_redditColorComments_2026.10.0.ipa"
     },
     {
+      "name": "Slopes",
+      "bundleIdentifier": "com.consumedbycode.slopes",
+      "developerName": "Breakpoint Studio LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/e9/f6/51e9f609-d478-997b-c008-dfca2adb199b/AppIcon-release-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSlopes: Ski & Snowboard\n\n• Bundle ID: com.consumedbycode.slopes\n• Updated to: 2026.8\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin to activate\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2026.8",
+          "date": "2026-03-16",
+          "size": 89435988,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.consumedbycode.slopes_sideloadKeychainfix_2026.8.ipa"
+        },
+        {
+          "version": "2026.7",
+          "date": "2026-03-11",
+          "size": 88921403,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.consumedbycode.slopes_Slopes_2026.7.ipa"
+        },
+        {
+          "version": "2026.6",
+          "date": "2026-03-12",
+          "size": 90602218,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.consumedbycode.slopes_Slopes_2026.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.8",
+      "versionDate": "2026-03-16T03:03:10.333Z",
+      "size": 89435988,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.consumedbycode.slopes_sideloadKeychainfix_2026.8.ipa"
+    },
+    {
       "name": "Komoot",
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "developerName": "komoot GmbH",
@@ -293,34 +327,6 @@
       "versionDate": "2026-03-11T13:15:38.451Z",
       "size": 138890894,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mlobodzinski.Stoic_Sideloadbypass2_2026.8.ipa"
-    },
-    {
-      "name": "Slopes",
-      "bundleIdentifier": "com.consumedbycode.slopes",
-      "developerName": "Breakpoint Studio LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/5a/33/5d5a336f-3e84-3f1a-09da-71b0d5443a5f/AppIcon-release-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSlopes: Ski & Snowboard\n\n• Bundle ID: com.consumedbycode.slopes\n• Updated to: 2026.7\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin to activate\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "2026.7",
-          "date": "2026-03-11",
-          "size": 88921403,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.consumedbycode.slopes_Slopes_2026.7.ipa"
-        },
-        {
-          "version": "2026.6",
-          "date": "2026-03-12",
-          "size": 90602218,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.consumedbycode.slopes_Slopes_2026.6.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2026.7",
-      "versionDate": "2026-03-11T08:18:58.411Z",
-      "size": 88921403,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.consumedbycode.slopes_Slopes_2026.7.ipa"
     },
     {
       "name": "Weather & Radar",
