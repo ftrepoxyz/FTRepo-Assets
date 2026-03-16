@@ -3,6 +3,27 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Instagram (IGFormat)",
+      "version": "421.0.6",
+      "versionDate": "2026-03-16",
+      "size": 256058243,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.burbn.instagram_IGFormat_421.0.6.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nInstagram\n\n• Bundle ID: com.burbn.instagram\n• Updated to: 421.0.0\n• Minimum iOS: 16.3\n• Patched\n• Modifier: IGFormat v1.94 + IGHDMedia v1.1\n• Tweaked by @blatants\n\n• Note:\nTweak by DENS0R Showcase\n\nChangelog:\nIGFormat V1.95\n\n- Fixed upload video as voice message \n- Fixed keep deleted messages \n- Fixed download stories \n- Fixed download videos in chats \n- Fixed download photos in chats\n- Fixed read chats\n- Fixed UI For iPads \n- Fixed get hidden mentions \n\n- Visiting logger: logs accounts you visit , long-press the IGFormat icon to view them\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Lightroom",
       "version": "11.2.2",
       "versionDate": "2026-03-16",
@@ -1271,27 +1292,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Instagram (IGFormat)",
-      "version": "420.0.0",
-      "versionDate": "2026-03-14",
-      "size": 278028494,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.burbn.instagram_IGFormat_420.0.0.ipa",
-      "developerName": "Instagram, Inc.",
-      "bundleIdentifier": "com.burbn.instagram",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nInstagram\n\n• Bundle ID: com.burbn.instagram\n• Reuploaded: 420.0.0\n• Minimum iOS: 16.3\n• Patched\n• Modifier: IGFormat v1.94 + IGHDMedia v1.1\n• Tweaked by @blatants\n\n• Note:\nTweak by DENS0R Showcase\n\nChangelog:\nIGFormat V1.95\n\n- Fixed upload video as voice message \n- Fixed keep deleted messages \n- Fixed download stories \n- Fixed download videos in chats \n- Fixed download photos in chats\n- Fixed read chats\n- Fixed UI For iPads \n- Fixed get hidden mentions \n\n- Visiting logger: logs accounts you visit , long-press the IGFormat icon to view them\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
