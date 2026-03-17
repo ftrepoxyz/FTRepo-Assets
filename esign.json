@@ -3,6 +3,202 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Wikiloc",
+      "version": "3.26.5",
+      "versionDate": "2026-03-17",
+      "size": 182269825,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.wikiloc.wikiloc_Wikiloc_3.26.5.ipa",
+      "developerName": "Wikiloc Outdoor SL",
+      "bundleIdentifier": "com.wikiloc.wikiloc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWikiloc - Trails of the World\n\nPremium features unlocked\n\n3D maps feature is server-sided and doesn't work\n\nTweak made by Blatant\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/17/68/e9176897-2173-495f-be87-c6a4a232401d/2._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fa/b7/34fab736-0bb8-c8e7-971a-005e267a9055/3._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1c/e4/c61ce48e-6e58-3554-1536-f09883f5a6a8/4._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/6e/09426ed8-6ab0-9b9e-790c-cbb48c1a7128/6._5.5_U0027_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2c/c6/882cc652-3db9-4d6d-ff6d-e9d42733b44e/7._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Photoroom",
+      "version": "2026.11.01",
+      "versionDate": "2026-03-17",
+      "size": 134778766,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.dr1ven.eraser_PhotoRoomPatch_2026.11.01.ipa",
+      "developerName": "Photoroom",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/bb/9d/ebbb9d90-39e6-a39f-0419-1eed8b9f3568/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPhotoRoom: AI Photo Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Lightroom",
+      "version": "11.2.2",
+      "versionDate": "2026-03-17",
+      "size": 176629880,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.adobe.lrmobilephone_LightroomPatch_11.2.2.ipa",
+      "developerName": "Adobe Inc.",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/01/c0/9901c058-d2f4-674b-4bde-5b9b51e56591/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nLightroom Photo & Video Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/df/d2/acdfd24a-86e2-002f-07a5-9b8924b588eb/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Remove.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/04/99/000499ca-5106-d51a-1551-77bc2f2d4e97/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Sky.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/2d/64/652d647b-0a6f-2b20-8c3f-e7f50868d50f/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Portrait.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/31/98/803198cc-beb7-2e59-2b90-e01bededbc5c/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Blur.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/0c/82/2d0c82a2-b413-a47b-2606-d331be1125be/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Color.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/c1/b4/eec1b446-8a5b-3a30-ddb8-6638ecb915d0/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Video.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Lightroom",
+      "version": "11.2.2",
+      "versionDate": "2026-03-17",
+      "size": 175360702,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.adobe.lrmobile_SatellaJailed_11.2.2.ipa",
+      "developerName": "Adobe Inc.",
+      "bundleIdentifier": "com.adobe.lrmobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/88/8f/fe888fb6-4d99-d081-bea7-394e18121091/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAdobe Lightroom for iPad\n\nTap on buy premium then cancel\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/ab/8c/61ab8c50-167b-567a-17a1-e73f098d3cdc/01_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/d0/35/90d0350f-e5f8-c7c2-5165-5e04ad4154a0/02_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/12/4f/df124f14-bfb4-8fe6-c1ae-e709814602b3/03_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/81/c5/3e81c5a4-0cf1-a95b-2c33-d0a0e7560ccd/04_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/b0/dc/4db0dc4d-b61a-f71c-038f-2609b76c5194/05_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/fe/c8/66fec8e2-d193-3452-1220-60d03209ba10/06_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/93/ae/c093ae10-8cce-a47e-7ae3-b00cab43e3ab/07_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/77/32/0d773240-944c-9356-0c9d-65388bf56170/08_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Vids",
+      "version": "1.133.0",
+      "versionDate": "2026-03-17",
+      "size": 268734719,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/viral.vision.vids_sideloadbypass2_1.133.0.ipa",
+      "developerName": "Viral Vision Ltd.",
+      "bundleIdentifier": "viral.vision.vids",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/4b/6d/7b4b6d90-cd2a-d426-f727-077d3ffbe984/AppIconRelease-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nVids AI - Reels Video Editor\n\nPro features unlocked\n\n⚠️ AI cannot be unlocked\n\nTweak made by Никитa\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b1/ed/d7b1ed7a-a369-b3d9-eb82-359abbdd70f2/f2fa4232-6c61-412f-8022-520bae7e1b02_5.5_01_REEL___TIKTOK.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/59/dc/5959dc68-76bd-0100-04b9-5c2f4f66acf6/e708c94d-324d-4f48-9cb4-2672efd1105c_5.5_02_TRANSITIONS.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/17/7e/b0177e0c-3f4c-70ab-a9d3-bef9950990d2/50097f48-2811-41fd-bd12-0bdc426cd3cc_5.5_03_FX.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/4b/b1/fd4bb1cc-7a8d-2a79-b26c-a231da31911f/0558cc35-79a2-4125-a8c2-bea9ea080567_5.5_04_FONTS.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/8b/1f/408b1feb-5307-5422-4283-77daac8d9af0/a2d35e0f-81a0-4b71-88bd-e0519c423e77_5.5_05_TOOLS.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/d6/43/e4d6431b-24ce-6889-a9f6-5e3011fc8db1/f4635992-7d9d-4561-a3c3-c4e1b9227a5d_5.5_06_VIRAL.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/d9/24/e3d924e5-d5e0-793e-4230-3d798048de7b/f5813c4e-6a03-46ec-a39e-fbb628729f10_5.5_07_AI.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Radarbot",
+      "version": "9.38",
+      "versionDate": "2026-03-17",
+      "size": 138505314,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.iteration-mobile.radarbot-free-ww_RadarbotGold_9.38.ipa",
+      "developerName": "Iteration Mobile S.L",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/91/16/e5911650-c85a-58b5-e110-552eaa7db50f/AppIcon-lite-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nRadarbot: Speed Cameras | GPS\n\nGold features unlocked\n\nCarPlay doesn't work sideloaded🙁\n\nTap on restore purchase if Gold is not directly unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Soundmap",
+      "version": "2.9.12",
+      "versionDate": "2026-03-17",
+      "size": 58101978,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/app.mmap.mobile_SoundmapPatch_2.9.12.ipa",
+      "developerName": "Intonation Studios Inc.",
+      "bundleIdentifier": "app.mmap.mobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ac/e3/4dace33b-9c89-b605-002b-b50681791c13/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSoundmap: Find Your Songs\n\nPro features unlocked\n\nTweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/b4/7a/72b47a9f-30e3-382d-c20b-67fe0ebfe172/7ddf4fbe-95b0-4e01-b89e-0de1cf6ebf47_5.5_Inch_-_1.29__U00231.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/aa/95/05aa9553-0c6e-3d78-e187-a077f8374648/bbb1060d-b59e-4a0b-983a-8b1d2f64b485_5.5_Inch_-_1.29__U00232.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/9f/50/629f5036-5009-3be8-e8da-57b02bd65687/a526bb13-f2d2-4f39-a533-05e05714c0f5_5.5_Inch_-_1.29__U00233.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/86/68/18866801-c8ab-f20a-1564-77c896b79c01/e25d19c4-1fb3-44f7-ab6f-a5ec89f44b76_5.5_Inch_-_1.29__U00233-1.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Photomyne",
+      "version": "32.6",
+      "versionDate": "2026-03-17",
+      "size": 152273110,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.photomyne.photomyneapplite_StopReviews_32.6.ipa",
+      "developerName": "Photomyne LTD",
+      "bundleIdentifier": "com.photomyne.photomyneapplite",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/23/19/3e23192a-5419-ea28-7fdd-2f6ab2ec4eca/AppIconLite-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPhoto Scan App by Photomyne\n\nTap on buy then cancel\n\nMinimum OS version 17.6\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/03/29/0303299c-7f6e-a24d-ddff-33370466a9ba/5.5_en_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/7b/d6/047bd642-13bc-eca2-51a7-2efaf8a27a5f/5.5_en_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/fe/91/23fe91ee-5745-958f-3687-846d09687606/3ceba404-81ef-4e76-8fc7-074f676d2908_5.5_en_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/90/12/f19012ec-982c-9fb9-ec4d-7109d46ef8da/9c6424b5-26f1-43d6-9ddd-45efad97cc77_5.5_en_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/2c/ff/692cff79-2fe9-ef9f-d05c-d1cb6f9dd336/99e8ed90-a995-4609-8a2f-f084af486045_5.5_en_05.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "YouTube",
+      "version": "21.11.4",
+      "versionDate": "2026-03-17",
+      "size": 124794625,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.google.ios.youtube_YouSpeed_21.11.4.ipa",
+      "developerName": "Google",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "ColorPop",
+      "version": "2.59.01",
+      "versionDate": "2026-03-17",
+      "size": 241588592,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.mwm.procolor_ColorPop_2.59.01.ipa",
+      "developerName": "MWM",
+      "bundleIdentifier": "com.mwm.procolor",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/89/df/7489dfc0-db82-7adb-ee98-61de2baf245e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nColor Pop AI - Coloring Book\n\n• Bundle ID: com.mwm.procolor\n• Updated to: 2.59.01\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/1d/d8/531dd8f7-c88d-551e-dae2-93318c31630e/EN_iphone65_01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/12/ac/3d12acac-5172-c7b6-c9de-4bcd9d8d07c5/EN_iphone65_02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/ad/97/16ad971b-e61c-a806-9859-33a61b30c6a6/EN_iphone65_03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/08/e6/2108e694-1514-34eb-75fc-5dfc83d99f73/EN_iphone65_04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/5b/39/695b399c-1d35-5e48-0dd0-f722e8bbbdda/EN_iphone65_05.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/33/74/a53374bc-c4e8-f18e-38ec-b8d9fe193193/EN_iphone65_06.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/2b/cf/4d2bcf1d-e6da-42d7-b441-6630c92bb69d/EN_iphone65_07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/d5/41/46d5411b-24ee-e1aa-2871-a3c12225d2cb/EN_ipadpro3gen_01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/2b/57/3c2b5787-40e0-2629-204f-af38a2b3cad6/EN_ipadpro3gen_02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/d7/1d/8ad71dfa-8654-6a01-d22a-ebb0bf95acbb/ES_ipad_03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/c0/47/1dc047dc-bc81-3c11-768a-8f3312529d59/EN_ipadpro3gen_04.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/17/f3/a217f3a8-9eb0-71d4-555a-783ccb63895b/EN_ipadpro3gen_05.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/66/2c/4d662c86-7b97-84e8-f96a-07762bb67d42/EN_ipadpro3gen_06.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/5d/39/f75d3902-2164-2b08-25cb-1cc70c040b85/EN_ipadpro3gen_07.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Offline Games",
       "version": "3.9.3",
       "versionDate": "2026-03-17",
@@ -553,26 +749,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Lightroom",
-      "version": "11.2.2",
-      "versionDate": "2026-03-16",
-      "size": 186076442,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.adobe.lrmobilephone_sideloadKeychainfix_11.2.2.ipa",
-      "developerName": "Adobe Inc.",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/01/c0/9901c058-d2f4-674b-4bde-5b9b51e56591/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLightroom: AI Photo Editor\n\n• Bundle ID: com.adobe.lrmobilephone\n• Updated to: 11.2.2\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/df/d2/acdfd24a-86e2-002f-07a5-9b8924b588eb/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Remove.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/04/99/000499ca-5106-d51a-1551-77bc2f2d4e97/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Sky.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/2d/64/652d647b-0a6f-2b20-8c3f-e7f50868d50f/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Portrait.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/31/98/803198cc-beb7-2e59-2b90-e01bededbc5c/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Blur.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/0c/82/2d0c82a2-b413-a47b-2606-d331be1125be/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Color.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/c1/b4/eec1b446-8a5b-3a30-ddb8-6638ecb915d0/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Video.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "I Am Sober",
       "version": "8.5.5",
       "versionDate": "2026-03-16",
@@ -778,19 +954,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Photoroom",
-      "version": "2026.11.01",
-      "versionDate": "2026-03-16",
-      "size": 135163833,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.dr1ven.eraser_Sideloadbypass2_2026.11.01.ipa",
-      "developerName": "Photoroom",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/bb/9d/ebbb9d90-39e6-a39f-0419-1eed8b9f3568/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhotoroom: AI Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2026.11.01\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.dr1ven.eraser\nDeveloper: Photoroom",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "SoundCloud",
       "version": "8.52.0",
       "versionDate": "2026-03-16",
@@ -809,29 +972,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/f7/5e/36f75e02-1540-9e8c-d982-06953ef3f6ba/ebc3b586-fbda-4a39-a00c-cb28b6d70f7d_iPad_Pro_6A.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/67/ae/c467ae4a-2bcb-3898-9cf2-d85668e8328d/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/1e/2c/381e2cc8-8670-caff-0c88-b2297e64174a/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Wikiloc",
-      "version": "3.26.5",
-      "versionDate": "2026-03-16",
-      "size": 186356148,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.wikiloc.wikiloc_sideloadKeychainfix_3.26.5.ipa",
-      "developerName": "Wikiloc Outdoor SL",
-      "bundleIdentifier": "com.wikiloc.wikiloc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/dc/e6/5ddce6d9-6f83-a32f-7dd6-db81703d601c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nWikiloc - Trails of the World\n\n• Bundle ID: com.wikiloc.wikiloc\n• Updated to: 3.26.5\n• Minimum iOS: 16.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>3D Maps feature won't work\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3c/17/8e3c1712-3821-bee4-8d9a-a168ea7a7b8a/1._5.5_U0027_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/17/68/e9176897-2173-495f-be87-c6a4a232401d/2._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fa/b7/34fab736-0bb8-c8e7-971a-005e267a9055/3._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1c/e4/c61ce48e-6e58-3554-1536-f09883f5a6a8/4._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/6e/09426ed8-6ab0-9b9e-790c-cbb48c1a7128/6._5.5_U0027_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2c/c6/882cc652-3db9-4d6d-ff6d-e9d42733b44e/7._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/4d/57d04dc0-a203-67f5-e2b2-a6c3411c53e3/8._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/9d/e2/e79de272-2492-2ece-56cf-ab77c75f5a00/9._5.5_U0027.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/1e/18481ef4-a920-97b0-2440-4ed6c685f109/10._5.5_U0027.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -1249,24 +1389,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1a/29/411a298e-c727-8a62-05e5-da2ed27afafd/EN_ipad_1_Remove_people.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/ce/56/97ce564e-5bb7-07d9-d27c-15bf715ae649/Ipad_EN.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/03/1f/39031fdd-f93a-339c-cf65-20ef053af9ea/EN_Magic_background_iPad.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Soundmap",
-      "version": "2.9.10",
-      "versionDate": "2026-03-15",
-      "size": 58100196,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/app.mmap.mobile_SoundmapPatch_2.9.10.ipa",
-      "developerName": "Intonation Studios Inc.",
-      "bundleIdentifier": "app.mmap.mobile",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ac/e3/4dace33b-9c89-b605-002b-b50681791c13/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSoundmap: Find Your Songs\n\nPro features unlocked\n\nTweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/b4/7a/72b47a9f-30e3-382d-c20b-67fe0ebfe172/7ddf4fbe-95b0-4e01-b89e-0de1cf6ebf47_5.5_Inch_-_1.29__U00231.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/aa/95/05aa9553-0c6e-3d78-e187-a077f8374648/bbb1060d-b59e-4a0b-983a-8b1d2f64b485_5.5_Inch_-_1.29__U00232.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/9f/50/629f5036-5009-3be8-e8da-57b02bd65687/a526bb13-f2d2-4f39-a533-05e05714c0f5_5.5_Inch_-_1.29__U00233.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/86/68/18866801-c8ab-f20a-1564-77c896b79c01/e25d19c4-1fb3-44f7-ab6f-a5ec89f44b76_5.5_Inch_-_1.29__U00233-1.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -2008,19 +2130,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/f7/4b/1cf74b51-8dc3-42b0-9920-686ab5eae521/d31e14af-284f-4479-b528-8cef489292ee_Explore_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/d5/ff/0fd5fffd-054f-61ad-70ee-6ef13565b42d/5c4ae2e0-b007-45eb-8a8e-d19137ff2526_Community_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Radarbot",
-      "version": "9.37",
-      "versionDate": "2026-03-13",
-      "size": 138504742,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.iteration-mobile.radarbot-free-ww_RadarbotGold_9.37.ipa",
-      "developerName": "Iteration Mobile S.L",
-      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/c7/cb/2ec7cbdc-5f48-51d8-dd17-ec457d092a7c/AppIcon-lite-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nRadarbot: Speed Cameras | GPS\n\nGold features unlocked\n\nCarPlay doesn't work sideloaded🙁\n\nTap on restore purchase if Gold is not directly unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -3350,25 +3459,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "YouTube",
-      "version": "21.10.2",
-      "versionDate": "2026-03-11",
-      "size": 124570653,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtube_YouSpeed_21.10.2.ipa",
-      "developerName": "Google",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Noteful",
       "version": "1.4.35",
       "versionDate": "2026-03-12",
@@ -3864,28 +3954,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/dd/1b/6bdd1ba2-ecc1-245e-dcac-8abcfd0f4265/856f94d7-ba7d-4225-8a9c-21263ecae87d_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/a4/8b/41a48bc5-66dd-d2fb-f381-ed99c48e521a/297c720b-0097-45dc-b386-5484e435804b_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/8e/df/ac8edfe9-c6f5-dea7-e6f2-212fe8100f2c/2985f99a-764c-40dc-967d-566df0241aa4_8_APP_IPHONE_55_8.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Lightroom",
-      "version": "11.2.1",
-      "versionDate": "2026-03-12",
-      "size": 175187139,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.adobe.lrmobile_SatellaJailed_11.2.1.ipa",
-      "developerName": "Adobe Inc.",
-      "bundleIdentifier": "com.adobe.lrmobile",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/88/8f/fe888fb6-4d99-d081-bea7-394e18121091/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAdobe Lightroom for iPad\n\nTap on buy premium then cancel\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/ab/8c/61ab8c50-167b-567a-17a1-e73f098d3cdc/01_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/d0/35/90d0350f-e5f8-c7c2-5165-5e04ad4154a0/02_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/12/4f/df124f14-bfb4-8fe6-c1ae-e709814602b3/03_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/81/c5/3e81c5a4-0cf1-a95b-2c33-d0a0e7560ccd/04_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/b0/dc/4db0dc4d-b61a-f71c-038f-2609b76c5194/05_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/fe/c8/66fec8e2-d193-3452-1220-60d03209ba10/06_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/93/ae/c093ae10-8cce-a47e-7ae3-b00cab43e3ab/07_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/77/32/0d773240-944c-9356-0c9d-65388bf56170/08_LrCC_Apple_iPad_2732x2048_EN-US.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -7972,27 +8040,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Vids",
-      "version": "1.132.0",
-      "versionDate": "2026-03-11",
-      "size": 268718644,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/viral.vision.vids_sideloadbypass2_1.132.0.ipa",
-      "developerName": "Viral Vision Ltd.",
-      "bundleIdentifier": "viral.vision.vids",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/4b/6d/7b4b6d90-cd2a-d426-f727-077d3ffbe984/AppIconRelease-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nVids AI - Reels Video Editor\n\nPro features unlocked\n\n⚠️ AI cannot be unlocked\n\nTweak made by Никитa\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b1/ed/d7b1ed7a-a369-b3d9-eb82-359abbdd70f2/f2fa4232-6c61-412f-8022-520bae7e1b02_5.5_01_REEL___TIKTOK.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/59/dc/5959dc68-76bd-0100-04b9-5c2f4f66acf6/e708c94d-324d-4f48-9cb4-2672efd1105c_5.5_02_TRANSITIONS.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/17/7e/b0177e0c-3f4c-70ab-a9d3-bef9950990d2/50097f48-2811-41fd-bd12-0bdc426cd3cc_5.5_03_FX.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/4b/b1/fd4bb1cc-7a8d-2a79-b26c-a231da31911f/0558cc35-79a2-4125-a8c2-bea9ea080567_5.5_04_FONTS.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/8b/1f/408b1feb-5307-5422-4283-77daac8d9af0/a2d35e0f-81a0-4b71-88bd-e0519c423e77_5.5_05_TOOLS.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/d6/43/e4d6431b-24ce-6889-a9f6-5e3011fc8db1/f4635992-7d9d-4561-a3c3-c4e1b9227a5d_5.5_06_VIRAL.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/d9/24/e3d924e5-d5e0-793e-4230-3d798048de7b/f5813c4e-6a03-46ec-a39e-fbb628729f10_5.5_07_AI.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Video Star",
       "version": "15.0.5",
       "versionDate": "2026-03-11",
@@ -9375,34 +9422,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/97/c8/9d97c89f-5393-4fda-2427-0fb3e4c97236/MS_102541_English-_U7f8e_U56fd_IPAD_08.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/e0/60/0de06058-1c15-2963-70a5-9c595cbc5fcd/MS_102541_English-_U7f8e_U56fd_IPAD_09.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/7a/41/247a41d2-f892-86f8-91ce-ebcdf49a3d13/MS_102541_English-_U7f8e_U56fd_IPAD_10.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "ColorPop",
-      "version": "2.58.03",
-      "versionDate": "2026-03-11",
-      "size": 237595004,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mwm.procolor_ColorPop_2.58.03.ipa",
-      "developerName": "MWM",
-      "bundleIdentifier": "com.mwm.procolor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/89/df/7489dfc0-db82-7adb-ee98-61de2baf245e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nColor Pop AI - Coloring Book\n\n• Bundle ID: com.mwm.procolor\n• Updated to: 2.58.03\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/1d/d8/531dd8f7-c88d-551e-dae2-93318c31630e/EN_iphone65_01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/12/ac/3d12acac-5172-c7b6-c9de-4bcd9d8d07c5/EN_iphone65_02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/ad/97/16ad971b-e61c-a806-9859-33a61b30c6a6/EN_iphone65_03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/08/e6/2108e694-1514-34eb-75fc-5dfc83d99f73/EN_iphone65_04.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/5b/39/695b399c-1d35-5e48-0dd0-f722e8bbbdda/EN_iphone65_05.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/33/74/a53374bc-c4e8-f18e-38ec-b8d9fe193193/EN_iphone65_06.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/2b/cf/4d2bcf1d-e6da-42d7-b441-6630c92bb69d/EN_iphone65_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/d5/41/46d5411b-24ee-e1aa-2871-a3c12225d2cb/EN_ipadpro3gen_01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/2b/57/3c2b5787-40e0-2629-204f-af38a2b3cad6/EN_ipadpro3gen_02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/d7/1d/8ad71dfa-8654-6a01-d22a-ebb0bf95acbb/ES_ipad_03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/c0/47/1dc047dc-bc81-3c11-768a-8f3312529d59/EN_ipadpro3gen_04.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/17/f3/a217f3a8-9eb0-71d4-555a-783ccb63895b/EN_ipadpro3gen_05.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/66/2c/4d662c86-7b97-84e8-f96a-07762bb67d42/EN_ipadpro3gen_06.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/5d/39/f75d3902-2164-2b08-25cb-1cc70c040b85/EN_ipadpro3gen_07.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
