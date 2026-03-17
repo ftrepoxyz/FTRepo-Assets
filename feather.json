@@ -6487,7 +6487,7 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/40/d8/ad40d8f3-1b78-9861-764a-2814da186bb0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nVoloco: Vocal Recording Studio\n\nTweak: Subscription Unlocked\n\nVersion: 9.14.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.resonantcavity.Voloco\nDeveloper: Resonant Cavity, LLC",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVoloco: Vocal Recording Studio\n\nTweak: Subscription Unlocked\n\nVersion: 9.14.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.resonantcavity.Voloco\nDeveloper: Resonant Cavity, LLC",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/a4/24/3ca4242a-a14e-c5f7-2664-32c190219282/0_APP_IPHONE_67_0.jpg/1320x2868bb.webp"
@@ -6574,6 +6574,12 @@
       ],
       "versions": [
         {
+          "version": "9.14.1",
+          "date": "2026-03-17",
+          "size": 147702609,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.resonantcavity.Voloco_popuprifty_9.14.1.ipa"
+        },
+        {
           "version": "9.14.0",
           "date": "2026-03-16",
           "size": 147702169,
@@ -6587,10 +6593,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.14.0",
-      "versionDate": "2026-03-16T16:03:56.877Z",
-      "size": 147702169,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.resonantcavity.Voloco_popuprifty_9.14.0.ipa"
+      "version": "9.14.1",
+      "versionDate": "2026-03-17T02:34:10.502Z",
+      "size": 147702609,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.resonantcavity.Voloco_popuprifty_9.14.1.ipa"
     },
     {
       "name": "YouTube Music",
