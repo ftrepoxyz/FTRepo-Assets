@@ -5969,6 +5969,62 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.resonantcavity.Voloco_popuprifty_9.14.0.ipa"
     },
     {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/16/5b/00165b98-657a-056c-8ae2-3bfe162c51f7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nYT Music Ultimate+ 9.11\n- YouTube Music 9.11\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- YouMusicPIP\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "9.11.2",
+          "date": "2026-03-17",
+          "size": 103229244,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.google.ios.youtubemusic_YTMABConfig_9.11.2.ipa"
+        },
+        {
+          "version": "9.07.1",
+          "date": "2026-03-12",
+          "size": 98889051,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.google.ios.youtubemusic_YTMusicUltimate_9.07.1.ipa"
+        },
+        {
+          "version": "9.05.2",
+          "date": "2026-03-11",
+          "size": 105130489,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_YTMABConfig_9.05.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.11.2",
+      "versionDate": "2026-03-17T00:34:18.555Z",
+      "size": 103229244,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.google.ios.youtubemusic_YTMABConfig_9.11.2.ipa"
+    },
+    {
       "name": "SimplyPiano",
       "bundleIdentifier": "com.joytunes.asla",
       "developerName": "Simply Ltd",
@@ -6049,62 +6105,6 @@
       "versionDate": "2026-03-12T18:00:31.430Z",
       "size": 85961585,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.soundscape.music_Sideloadbypass2_9.9.8.ipa"
-    },
-    {
-      "name": "YouTube Music",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Google",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/16/5b/00165b98-657a-056c-8ae2-3bfe162c51f7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nYTMusicUltimate\n\nThe best tweak for YouTube Music on iOS.\n\nRelease information\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "9.07.1",
-          "date": "2026-03-12",
-          "size": 98889051,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.google.ios.youtubemusic_YTMusicUltimate_9.07.1.ipa"
-        },
-        {
-          "version": "9.06.4",
-          "date": "2026-03-11",
-          "size": 105358815,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_YTMABConfig_9.06.4.ipa"
-        },
-        {
-          "version": "9.05.2",
-          "date": "2026-03-11",
-          "size": 105130489,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.google.ios.youtubemusic_YTMABConfig_9.05.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "9.07.1",
-      "versionDate": "2026-03-12T08:06:31.091Z",
-      "size": 98889051,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.google.ios.youtubemusic_YTMusicUltimate_9.07.1.ipa"
     },
     {
       "name": "أندلسي",
@@ -14440,11 +14440,17 @@
       "name": "Bill Tracker",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/1f/27/541f27e6-78d3-1d2b-42de-30be0c66a62b/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.54\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/30/da/c730dab0-005a-cce9-8468-28cfc7241913/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.55\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "4.1.55",
+          "date": "2026-03-17",
+          "size": 147134376,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.55.ipa"
+        },
         {
           "version": "4.1.54",
           "date": "2026-03-14",
@@ -14456,19 +14462,13 @@
           "date": "2026-03-13",
           "size": 147124950,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.53.ipa"
-        },
-        {
-          "version": "4.1.52",
-          "date": "2026-03-11",
-          "size": 147099696,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.52.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.54",
-      "versionDate": "2026-03-14T21:32:21.263Z",
-      "size": 147128788,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.54.ipa"
+      "version": "4.1.55",
+      "versionDate": "2026-03-17T01:04:07.117Z",
+      "size": 147134376,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.55.ipa"
     },
     {
       "name": "Stndrd",
@@ -17253,6 +17253,60 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.skylum.luminaripad_FilePickerFix_3.2.1.ipa"
     },
     {
+      "name": "JournalCircle",
+      "bundleIdentifier": "com.genau.JournalCircle",
+      "developerName": "Genau Factory",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/0d/28/3b0d2803-411e-836c-fe00-5b617b75200a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nJournalCircle: Diary & Tracker\n\nTweak: Premium Unlocked\n\nVersion: 3.2.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.JournalCircle\nDeveloper: Genau Factory",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/70/3c/23703c38-1e68-76d0-37c2-c881e4defa36/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/58/6e/33586e72-b5e4-214b-e957-3180ef7d8318/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/ef/78/0def78eb-069f-c564-286d-9898ecd207a9/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/5b/16/e35b1690-00ba-7f0f-ae64-c71fc9243fba/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/9f/e7/719fe77c-aa1a-9167-90ee-8d9f152e2577/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/18/cf/2118cf74-5e1c-8e3b-e9f3-a538c4c10967/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/70/3c/23703c38-1e68-76d0-37c2-c881e4defa36/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/58/6e/33586e72-b5e4-214b-e957-3180ef7d8318/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/ef/78/0def78eb-069f-c564-286d-9898ecd207a9/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/5b/16/e35b1690-00ba-7f0f-ae64-c71fc9243fba/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/9f/e7/719fe77c-aa1a-9167-90ee-8d9f152e2577/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/18/cf/2118cf74-5e1c-8e3b-e9f3-a538c4c10967/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.2.0",
+          "date": "2026-03-17",
+          "size": 12994644,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.genau.JournalCircle_Sideloadbypass2_3.2.0.ipa"
+        },
+        {
+          "version": "3.1.9",
+          "date": "2026-03-14",
+          "size": 12930654,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.genau.JournalCircle_Sideloadbypass2_3.1.9.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.2.0",
+      "versionDate": "2026-03-17T00:34:22.934Z",
+      "size": 12994644,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.genau.JournalCircle_Sideloadbypass2_3.2.0.ipa"
+    },
+    {
       "name": "#DRIVE",
       "bundleIdentifier": "com.pixelperfectdude.htdrive",
       "developerName": "Pixel Perfect Dude S.A.",
@@ -17447,54 +17501,6 @@
       "versionDate": "2026-03-12T08:57:47.010Z",
       "size": 103813643,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ifeanyi.Grounded_Sideloadbypass2_3.1.16.ipa"
-    },
-    {
-      "name": "JournalCircle",
-      "bundleIdentifier": "com.genau.JournalCircle",
-      "developerName": "Genau Factory",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/0d/28/3b0d2803-411e-836c-fe00-5b617b75200a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nJournalCircle: Diary & Tracker\n\nTweak: Premium Unlocked\n\nVersion: 3.1.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.JournalCircle\nDeveloper: Genau Factory",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/70/3c/23703c38-1e68-76d0-37c2-c881e4defa36/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/58/6e/33586e72-b5e4-214b-e957-3180ef7d8318/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/ef/78/0def78eb-069f-c564-286d-9898ecd207a9/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/5b/16/e35b1690-00ba-7f0f-ae64-c71fc9243fba/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/9f/e7/719fe77c-aa1a-9167-90ee-8d9f152e2577/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/18/cf/2118cf74-5e1c-8e3b-e9f3-a538c4c10967/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/70/3c/23703c38-1e68-76d0-37c2-c881e4defa36/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/58/6e/33586e72-b5e4-214b-e957-3180ef7d8318/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/ef/78/0def78eb-069f-c564-286d-9898ecd207a9/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/5b/16/e35b1690-00ba-7f0f-ae64-c71fc9243fba/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/9f/e7/719fe77c-aa1a-9167-90ee-8d9f152e2577/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/18/cf/2118cf74-5e1c-8e3b-e9f3-a538c4c10967/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "3.1.9",
-          "date": "2026-03-14",
-          "size": 12930654,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.genau.JournalCircle_Sideloadbypass2_3.1.9.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.1.9",
-      "versionDate": "2026-03-14T22:32:08.850Z",
-      "size": 12930654,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.genau.JournalCircle_Sideloadbypass2_3.1.9.ipa"
     },
     {
       "name": "LingoDeer",
