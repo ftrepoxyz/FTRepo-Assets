@@ -7265,7 +7265,7 @@
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Aloha Mobile",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/78/16/897816ce-1be2-1ab8-46e6-4e5f57df442f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAloha Browser: Private VPN\n\nPremium features unlocked - no login required!\n\nTweak made by Никита\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nAloha Browser - Private VPN\n\n• Bundle ID: com.alohabrowser.alohabrowser\n• Updated to: 8.2.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin to activate subscription\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/6c/04/336c0416-7441-8364-82b9-21f329a06a8d/03dc8695-4402-41e5-8257-0fa4feefcb9e_1.png/1320x2868bb.png"
@@ -7300,6 +7300,12 @@
       ],
       "versions": [
         {
+          "version": "8.2.1",
+          "date": "2026-03-17",
+          "size": 141944823,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.alohabrowser.alohabrowser_AlohaBrowser_8.2.1.ipa"
+        },
+        {
           "version": "8.2.0",
           "date": "2026-03-13",
           "size": 138728499,
@@ -7307,10 +7313,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.2.0",
-      "versionDate": "2026-03-13T00:04:00.848Z",
-      "size": 138728499,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.alohabrowser.alohabrowser_AlohaBrowserPrivateVPNPatch_8.2.0.ipa"
+      "version": "8.2.1",
+      "versionDate": "2026-03-17T03:34:12.394Z",
+      "size": 141944823,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.alohabrowser.alohabrowser_AlohaBrowser_8.2.1.ipa"
     },
     {
       "name": "Widgetsmith",
@@ -9384,16 +9390,16 @@
       "name": "Block Blast!",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/e6/681ce6fc-7a6b-e5e4-6911-f451ed9a3da0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 6.8.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/bd/c1/12bdc105-e6b6-1ef4-a2d2-81e1c2d648f2/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 6.8.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "6.8.5",
-          "date": "2026-03-11",
-          "size": 131962830,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.5.ipa"
+          "version": "6.8.7",
+          "date": "2026-03-17",
+          "size": 132547758,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.7.ipa"
         },
         {
           "version": "6.8.4",
@@ -9409,10 +9415,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.8.5",
-      "versionDate": "2026-03-11T13:19:35.848Z",
-      "size": 131962830,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.5.ipa"
+      "version": "6.8.7",
+      "versionDate": "2026-03-17T03:34:34.951Z",
+      "size": 132547758,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._6.8.7.ipa"
     },
     {
       "name": "Yoga Plus",
@@ -20892,11 +20898,17 @@
       "name": "Balance",
       "bundleIdentifier": "com.elevateapp.kamino.kamino",
       "developerName": "The Mind Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c4/83/7bc48322-4493-b578-2616-d6a911dc18b8/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBalance: Meditation & Sleep\n\n• Bundle ID: com.elevateapp.kamino.kamino\n• Updated to: 1.198.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSubscription Unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/d0/79/84d079a4-2ef2-7eec-4c73-230c91a04f6a/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBalance: Meditation & Sleep\n\nTweak: Subscription Unlocked\n\nVersion: 1.199.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.kamino.kamino\nDeveloper: The Mind Company",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.199.0",
+          "date": "2026-03-17",
+          "size": 116110838,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.elevateapp.kamino.kamino_Sideloadbypass2_1.199.0.ipa"
+        },
         {
           "version": "1.198.0",
           "date": "2026-03-12",
@@ -20911,10 +20923,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.198.0",
-      "versionDate": "2026-03-12T01:26:40.910Z",
-      "size": 118500670,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.elevateapp.kamino.kamino_AutoRcSideload_1.198.0.ipa"
+      "version": "1.199.0",
+      "versionDate": "2026-03-17T04:04:36.273Z",
+      "size": 116110838,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.elevateapp.kamino.kamino_Sideloadbypass2_1.199.0.ipa"
     },
     {
       "name": "Lyfta",
@@ -21413,6 +21425,70 @@
       "versionDate": "2026-03-11T12:02:03.244Z",
       "size": 35299912,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.dorogi20251024.passenger_1.50.ipa"
+    },
+    {
+      "name": "Home workouts",
+      "bundleIdentifier": "com.abishkking.maleworkout",
+      "developerName": "Leap Health",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/0b/83/770b8356-29f6-c9d1-4df7-aeb76e56208f/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nHome Workout - No Equipments\n\n• Bundle ID: com.abishkking.maleworkout\n• Updated to: 1.47.0\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/87/67/e68767d0-3a52-d7a5-d791-aacd63b4c418/1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/9f/be/549fbe3a-ae73-df25-502b-ec99979b2ea2/2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/0d/9a/aa0d9ae9-f008-4894-ed2c-ed070c4af59c/3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/f9/1a/c0f91ab7-ccfe-7764-79b2-3ebb70bdb8f0/4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/39/ab/f239ab1c-9817-5700-3db0-3927df428e2b/5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/9f/b8/8a9fb8de-ebd7-1a36-ffc4-48dee3f7e24b/6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/63/35/c9633580-9464-08b1-c380-a92246601085/7.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c0/ba/34c0ba1d-df16-903a-b3ff-ad4ca20e1f2a/8.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/23/6a/cb236ad1-158d-d3b1-4fa1-70138e963cd5/9.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/01/94/f5019427-8ad0-59d0-7a5a-3a97764fd01f/10.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/87/67/e68767d0-3a52-d7a5-d791-aacd63b4c418/1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/9f/be/549fbe3a-ae73-df25-502b-ec99979b2ea2/2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/0d/9a/aa0d9ae9-f008-4894-ed2c-ed070c4af59c/3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/f9/1a/c0f91ab7-ccfe-7764-79b2-3ebb70bdb8f0/4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/39/ab/f239ab1c-9817-5700-3db0-3927df428e2b/5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/9f/b8/8a9fb8de-ebd7-1a36-ffc4-48dee3f7e24b/6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/63/35/c9633580-9464-08b1-c380-a92246601085/7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c0/ba/34c0ba1d-df16-903a-b3ff-ad4ca20e1f2a/8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/23/6a/cb236ad1-158d-d3b1-4fa1-70138e963cd5/9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/01/94/f5019427-8ad0-59d0-7a5a-3a97764fd01f/10.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.47.0",
+          "date": "2026-03-17",
+          "size": 192425350,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.abishkking.maleworkout_HomeWorkouts_1.47.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.47.0",
+      "versionDate": "2026-03-17T04:04:19.229Z",
+      "size": 192425350,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.abishkking.maleworkout_HomeWorkouts_1.47.0.ipa"
     },
     {
       "name": "Six Pack Abs - Abs Workout",
