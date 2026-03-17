@@ -5,6 +5,32 @@
   },
   "data": [
     {
+      "name": "TikTok",
+      "version": "43.9.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.zhiliaoapp.musically_r3tok_43.9.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.zhiliaoapp.musically",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @glesign |\n----------------\nTikTok v43.9.0 | r3tok v1.0.0 \n\n🇷🇺 Модифицированный клиент TikTok\n— Смена региона без VPN (по умолчанию — Германия)\n— Удалена вся реклама\n— Скачивание видео и слайд-шоу без водяных знаков\n— Скрытие LIVE-стримов и карточек «Подпишись» (опционально)\n— Скрытие предупреждений о чувствительном контенте\n— Снятие ограничений на «запрещенные» звуки\n— Прогресс-бар включен для всех видео\n— Расширенный лимит символов в био и комментариях\n— После входа перезапустите приложение для смены региона\n© Создано: r3pr3ss10n\n\n🇺🇸 Modified TikTok client for iOS\n— Region change without VPN (Germany by default)\n— All ads removed\n— Download videos and slideshows without watermarks\n— Hide LIVEs and \"Follow\" cards from feed (optional)\n— Hide sensitive content warnings (optional)\n— Banned sounds restriction removed\n— Progress bar enabled on all videos\n— Extended text limit for bio and comments\n— Restart the app after login to apply region settings\n© Created: r3pr3ss10n",
+      "developer": "TikTok Ltd.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "B612",
       "version": "15.0.10",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.linecorp.b612_B612_15.0.10.ipa",
@@ -6833,32 +6859,6 @@
       "description": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.3.9\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.4.1\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Removed vibrancy effect of player toast, now toast follows system theme\n• Added option to automatically clean Infuse trash folder\n\nッ Jailbreak Repo | ♡ Support",
       "developer": "Firecore, LLC",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "TikTok",
-      "version": "43.9.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.zhiliaoapp.musically_sideloadKeychainfixBlatants_43.9.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.zhiliaoapp.musically",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nTikTok - Videos, Shop & LIVE\n\n• Bundle ID: com.zhiliaoapp.musically\n• Updated to: 43.9.0\n• Minimum iOS: 12.0\n• Patched\n• Modifier: ACTikTok v2.1\n• Tweaked by @blatants\n\n• Note:\nTweak by aJBbo Showcase\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "TikTok Ltd.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
