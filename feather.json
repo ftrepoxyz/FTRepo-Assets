@@ -4375,7 +4375,7 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ea/aa/bdeaaadc-07a7-bb3c-b116-2a464622868a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNotability: Notes, PDF\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 15.5\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png"
@@ -4402,16 +4402,16 @@
       ],
       "versions": [
         {
+          "version": "15.5",
+          "date": "2026-03-16",
+          "size": 236990604,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.gingerlabs.Notability_Notability_15.5.ipa"
+        },
+        {
           "version": "15.4.4",
           "date": "2026-03-13",
           "size": 228643358,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_15.4.4.ipa"
-        },
-        {
-          "version": "15.4.3",
-          "date": "2026-03-11",
-          "size": 228644702,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_15.4.3.ipa"
         },
         {
           "version": "15.4",
@@ -4421,10 +4421,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "15.4.4",
-      "versionDate": "2026-03-13T00:01:29.234Z",
-      "size": 228643358,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_15.4.4.ipa"
+      "version": "15.5",
+      "versionDate": "2026-03-16T23:34:11.529Z",
+      "size": 236990604,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.gingerlabs.Notability_Notability_15.5.ipa"
     },
     {
       "name": "FitnessAI",
@@ -12903,6 +12903,78 @@
       "versionDate": "2026-03-11T12:51:23.151Z",
       "size": 5921676,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.lubosmikusiak.articuli.de_Sideloadbypass1_5.4.ipa"
+    },
+    {
+      "name": "Cheatsheet",
+      "bundleIdentifier": "com.overdesigned.Cheatsheet",
+      "developerName": "Overdesigned, LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/47/10/de4710c3-0e9a-72fd-4e09-e2ef08a91b9c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCheatsheet: Sticky Note Widget\n\nTweak: Subscription Unlocked\n\nVersion: 5.3.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: com.overdesigned.Cheatsheet\nDeveloper: Overdesigned, LLC",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/77/c5/f577c5a8-29f2-29dc-b065-91b34c3b2be7/en_iPhone_1.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/ce/c2/26cec279-df55-25d6-7fcc-86bac3b74de5/en_iPhone_6.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/49/e2/d949e2cb-1665-a14d-f64a-11cbf4432555/en_iPhone_3.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/57/17/bf571777-6998-9dd6-d325-b32c60c07d1e/en_iPhone_2_2.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/5e/0a/d45e0aa9-80b0-e6d8-f973-226317e5ec36/en_iPhone_7.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/dc/24/f9dc2452-6399-90bb-1418-ffdc0f60db99/en_iPhone_4.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/3d/0b/0d3d0b35-8ade-dc27-770d-b0ec251ebbb1/en_iPhone_5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/b6/10/1cb610be-7900-262d-3765-1e75fcedf49b/en_iPhone_8.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/5e/70/df5e70f5-0828-52c1-4f81-adf6caf19f85/en_iPad_1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/4e/46/124e465f-ea10-a7cc-79a2-ba6af2dcb5b7/en_iPad_2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/13/96/591396df-8a75-1f67-aa6b-4fb7c0fe3dae/en_iPad_4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/47/c8/c747c842-5f4b-da6e-c2e5-170d806196ba/en_iPad_3.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/77/c5/f577c5a8-29f2-29dc-b065-91b34c3b2be7/en_iPhone_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/ce/c2/26cec279-df55-25d6-7fcc-86bac3b74de5/en_iPhone_6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/49/e2/d949e2cb-1665-a14d-f64a-11cbf4432555/en_iPhone_3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/57/17/bf571777-6998-9dd6-d325-b32c60c07d1e/en_iPhone_2_2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/5e/0a/d45e0aa9-80b0-e6d8-f973-226317e5ec36/en_iPhone_7.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/dc/24/f9dc2452-6399-90bb-1418-ffdc0f60db99/en_iPhone_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/3d/0b/0d3d0b35-8ade-dc27-770d-b0ec251ebbb1/en_iPhone_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/b6/10/1cb610be-7900-262d-3765-1e75fcedf49b/en_iPhone_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/5e/70/df5e70f5-0828-52c1-4f81-adf6caf19f85/en_iPad_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/4e/46/124e465f-ea10-a7cc-79a2-ba6af2dcb5b7/en_iPad_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/13/96/591396df-8a75-1f67-aa6b-4fb7c0fe3dae/en_iPad_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/47/c8/c747c842-5f4b-da6e-c2e5-170d806196ba/en_iPad_3.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.3.5",
+          "date": "2026-03-16",
+          "size": 58146787,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.overdesigned.Cheatsheet_autoRevenuecat_5.3.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.3.5",
+      "versionDate": "2026-03-16T23:34:21.692Z",
+      "size": 58146787,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.overdesigned.Cheatsheet_autoRevenuecat_5.3.5.ipa"
     },
     {
       "name": "Box Box",
