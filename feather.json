@@ -5403,6 +5403,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.x.chat.beta.testflight_11.71.ipa"
     },
     {
+      "name": "wpsoffice",
+      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+      "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ac/6a/15ac6af8-13fa-61eb-ecae-dc6af443b5c3/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nWPS Office: PDF, Docs, Sheets\n\n• Bundle ID: com.kingsoft.office.g.wpsoffice\n• Updated to: 11.37.40\n• Minimum iOS: 15.0\n• Patched\n• Modifier: PRO+AI Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore any purchase banners.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "11.37.40",
+          "date": "2026-03-18",
+          "size": 323544102,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.kingsoft.office.g.wpsoffice_WPSOffice_11.37.40.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "11.37.40",
+      "versionDate": "2026-03-18T05:34:51.271Z",
+      "size": 323544102,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.kingsoft.office.g.wpsoffice_WPSOffice_11.37.40.ipa"
+    },
+    {
       "name": "BandLab",
       "bundleIdentifier": "com.bandlab.bandlab.iphone",
       "developerName": "BandLab Singapore Pte Ltd",
@@ -15192,11 +15214,17 @@
       "name": "Bill Tracker",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/30/da/c730dab0-005a-cce9-8468-28cfc7241913/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.55\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/ce/b8/aeceb8dd-d9b3-4632-fcb3-1be28f8fa870/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.56\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "4.1.56",
+          "date": "2026-03-18",
+          "size": 147152671,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.56.ipa"
+        },
         {
           "version": "4.1.55",
           "date": "2026-03-17",
@@ -15208,19 +15236,13 @@
           "date": "2026-03-14",
           "size": 147128788,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.54.ipa"
-        },
-        {
-          "version": "4.1.53",
-          "date": "2026-03-13",
-          "size": 147124950,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.53.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.55",
-      "versionDate": "2026-03-17T01:04:07.117Z",
-      "size": 147134376,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.55.ipa"
+      "version": "4.1.56",
+      "versionDate": "2026-03-18T02:35:01.240Z",
+      "size": 147152671,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.56.ipa"
     },
     {
       "name": "Stndrd",
@@ -16525,7 +16547,7 @@
       "bundleIdentifier": "tech.miidii.MDBlank",
       "developerName": "MD Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/4e/0a/e44e0af8-e7d8-f3df-2903-41d08d0d4298/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Widgets - Countdown widget\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 3.12\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nMD Widgets - Countdown widget\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 3.12.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/a6/b5/a8a6b55b-53c4-3fe3-9ee5-2f13c2a7acc9/2984f10d-5c7d-4968-9394-7109faf02343_EN_-_1.jpg/1320x2868bb.jpg"
@@ -16572,6 +16594,12 @@
       ],
       "versions": [
         {
+          "version": "3.12.1",
+          "date": "2026-03-18",
+          "size": 178893163,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/tech.miidii.MDBlank_MDWidgets_3.12.1.ipa"
+        },
+        {
           "version": "3.12",
           "date": "2026-03-11",
           "size": 178852611,
@@ -16585,10 +16613,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.12",
-      "versionDate": "2026-03-11T08:02:57.915Z",
-      "size": 178852611,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/tech.miidii.MDBlank_MDWidgets_3.12.ipa"
+      "version": "3.12.1",
+      "versionDate": "2026-03-18T02:34:42.764Z",
+      "size": 178893163,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/tech.miidii.MDBlank_MDWidgets_3.12.1.ipa"
     },
     {
       "name": "Planes Live Free",
@@ -23453,6 +23481,46 @@
       "versionDate": "2026-03-11T13:08:21.880Z",
       "size": 76866032,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.roehl.habitkit_autoRevenuecat_1.14.6.ipa"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "developerName": "tijo, inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/20/46/f42046f2-474a-c50a-7213-472e51be26ff/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/98/3f/5a/983f5a71-7468-286b-dbab-29bc44ed54b4/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e0/14/1ce01420-043e-7524-dbb7-2adb8f6ead93/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/3b/4f/8f3b4fbd-e807-6f17-ae32-ec4efb5f53c7/pr_source.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/64/b1/2564b112-728c-a0f7-fe51-27c42bc53343/pr_source.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/98/3f/5a/983f5a71-7468-286b-dbab-29bc44ed54b4/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e0/14/1ce01420-043e-7524-dbb7-2adb8f6ead93/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/3b/4f/8f3b4fbd-e807-6f17-ae32-ec4efb5f53c7/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/64/b1/2564b112-728c-a0f7-fe51-27c42bc53343/pr_source.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.14.5",
+          "date": "2026-03-18",
+          "size": 795118,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.tijo.opener.Opener_1.14.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.14.5",
+      "versionDate": "2026-03-18T05:34:53.045Z",
+      "size": 795118,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.tijo.opener.Opener_1.14.5.ipa"
     },
     {
       "name": "FitnessOnline",
