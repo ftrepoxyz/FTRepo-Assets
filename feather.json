@@ -17901,7 +17901,7 @@
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "MWM",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/2e/22/122e220a-b8d7-10ae-fd8a-930712e6fac0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPhoto Cleaner: Swipewipe\n\n• Bundle ID: com.aoklab.fewerphotos\n• Updated to: 3.2.49\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nPhoto Cleaner: Swipewipe\n\n• Bundle ID: com.aoklab.fewerphotos\n• Updated to: 3.3.1\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/1e/04/ec1e040e-189b-213a-e35e-485034915f33/EN_iphone65_01.png/1320x2868bb.webp"
@@ -17988,6 +17988,12 @@
       ],
       "versions": [
         {
+          "version": "3.3.1",
+          "date": "2026-03-19",
+          "size": 150103810,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.aoklab.fewerphotos_SwipeWipe_3.3.1.ipa"
+        },
+        {
           "version": "3.2.49",
           "date": "2026-03-12",
           "size": 121478521,
@@ -18001,10 +18007,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.2.49",
-      "versionDate": "2026-03-12T07:09:16.227Z",
-      "size": 121478521,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.aoklab.fewerphotos_SwipeWipe_3.2.49.ipa"
+      "version": "3.3.1",
+      "versionDate": "2026-03-19T11:34:49.663Z",
+      "size": 150103810,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.aoklab.fewerphotos_SwipeWipe_3.3.1.ipa"
     },
     {
       "name": "VocaCircle",
@@ -20982,22 +20988,22 @@
       "name": "AlevioOS",
       "bundleIdentifier": "com.alevioos.app",
       "developerName": "SILVIA ISABELLA DANYLUK",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b2/2d/f2b22dc7-87bd-58b6-75b0-7977232891dd/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAlevioOS - Local Ai\n\n• Bundle ID: com.alevioos.app\n• Updated to: 2.4.6\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/f0/04/7ef004aa-d3c0-ec66-64bc-e22dc71ea7b8/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAlevioOS - Local Ai\n\n• Bundle ID: com.alevioos.app\n• Reuploaded: 2.4.8\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.4.7",
+          "date": "2026-03-19",
+          "size": 28809276,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.alevioos.app_AlevioOS_2.4.7.ipa"
+        },
         {
           "version": "2.4.6",
           "date": "2026-03-14",
           "size": 28808366,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.alevioos.app_AlevioOS_2.4.6.ipa"
-        },
-        {
-          "version": "2.4.5",
-          "date": "2026-03-11",
-          "size": 28807875,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.alevioos.app_AlevioOS_2.4.5.ipa"
         },
         {
           "version": "2.4.4",
@@ -21007,10 +21013,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.4.6",
-      "versionDate": "2026-03-14T22:01:55.699Z",
-      "size": 28808366,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.alevioos.app_AlevioOS_2.4.6.ipa"
+      "version": "2.4.7",
+      "versionDate": "2026-03-19T08:34:36.157Z",
+      "size": 28809276,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.alevioos.app_AlevioOS_2.4.7.ipa"
     },
     {
       "name": "Video Up!",
