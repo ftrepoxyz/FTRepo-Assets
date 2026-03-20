@@ -3,6 +3,87 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Merge Cooking",
+      "version": "1.33.0",
+      "versionDate": "2026-03-19",
+      "size": 319627174,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.merge.cooking.theme.restaurant.food_1.33.0.ipa",
+      "developerName": "Happibits",
+      "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/60/da/4b60da2c-09b6-7a6a-5969-529cfb51d47b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMerge Cooking:Theme Restaurant\n\nSatella does not work anymore. If you need gems downgrade to this version, buy gems and then upgrade to the latest game version again. Repeat these steps if you need gems again\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/2f/0e/e92f0ee4-c052-cbbd-3f2f-28a1e4e27697/iphone-1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/b2/41/2cb2415c-662e-13c4-0982-b3915d233ad3/iphone-2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/7c/fe/467cfed0-1c0a-06b2-6624-70a3c54ee203/iphone-3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/99/ce/7299cee0-a5f2-f1dc-7ef1-bcf55d9fdd58/iphone-4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/f2/8e/b1f28e6d-8bac-1ac6-e261-b94e66fbd01a/iphone-5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/e7/1e/f4e71efe-2169-1df4-2de5-ef6fb0b42ed1/iphone-6.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/20/d6/1f20d630-1708-0337-b2e8-f13b780b0b36/iphone-7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/fc/d3/04fcd3bb-9252-8039-ca08-d0d233cce93e/ipad-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/01/a4/d901a49f-8b18-395e-5cff-ab7cd70b9e95/ipad-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/b3/4c/4fb34cf5-d8bc-8d4e-93ac-9d1842b63f5a/ipad-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/6b/7f/1a6b7f4e-f733-3bea-c403-8797930f3cee/ipad-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/d7/a9/08d7a9f6-486f-765e-c288-944ae9885a07/ipad-5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/b2/56/40b256c3-4e29-d3f8-2d22-37e5a24864cd/ipad-6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/aa/15/2aaa15d5-af12-3266-3517-faf13c377927/ipad-7.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Premiere",
+      "version": "26.8.0",
+      "versionDate": "2026-03-19",
+      "size": 76724050,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.adobe.premiere.ios_FilePickerFix_26.8.0.ipa",
+      "developerName": "Adobe Inc.",
+      "bundleIdentifier": "com.adobe.premiere.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/ea/74/b8ea7490-b6b6-066b-4b9e-b41ae94bb166/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAdobe Premiere: Video Editor\n\n• Bundle ID: com.adobe.premiere.ios\n• Updated to: 26.8.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/5c/f6/c65cf6c0-ce6b-c03c-cc3e-b432f6689122/Adobe_Premiere_EN_iOS_6.9_Screenshots_260106_01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ec/43/f3ec43d6-c68b-f71f-d6da-7eaa9af07b0d/Adobe_Premiere_EN_iOS_6.9_Screenshots_260106_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ce/e2/09cee2fe-ea48-e8c3-52a0-82d6592ca342/Adobe_Premiere_EN_iOS_6.9_Screenshots_250924_02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/31/5f/b7315ffe-801a-34ad-da8e-b13e02339c96/Adobe_Premiere_EN_iOS_6.9_Screenshots_250924_03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/8a/d0/a68ad09c-e8fb-c6db-1af1-f7a3ea89fdcd/Adobe_Premiere_EN_iOS_6.9_Screenshots_250924_04.png/1320x2868bb.webp"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Windy.app",
+      "version": "15.5.5",
+      "versionDate": "2026-03-19",
+      "size": 152266389,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/co.windyapp.Windy_Windyapp_15.5.5.ipa",
+      "developerName": "Windy Weather World Inc",
+      "bundleIdentifier": "co.windyapp.Windy",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/72/fa/6d72fa78-c1b3-4003-7e4d-bab748c56f79/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWindy.app — Windy Weather Map\n\nPro features unlocked\n\nTweak made by femto\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "SNOW",
+      "version": "15.0.11",
+      "versionDate": "2026-03-19",
+      "size": 146908482,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.campmobile.snow_SNOW_15.0.11.ipa",
+      "developerName": "SNOW Corporation",
+      "bundleIdentifier": "com.campmobile.snow",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/99/9f/f2999f50-1ed7-27a5-2a63-b6a8ca8cacac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSNOW - AI Profile\n\n• Bundle ID: com.campmobile.snow\n• Updated to: 15.0.11\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/68/81/ae68816d-e6b2-a43e-8dce-73b94290bba3/AI_U1111_U1173_U1105_U1169_U1111_U1175_U11af2_EN__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/16/c2/1816c2f6-09a0-f924-ed51-de41e8ba2bf9/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/73/86/a3738678-dc28-0512-f453-922701116004/_U1107_U116e_U1107_U116e_U11ab_U110c_U1175_U110b_U116e_U1100_U1162_EN__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/8a/5a/a78a5a02-ca3d-d6eb-e33a-78659905fb99/_U1112_U1166_U110b_U1165_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/25/fb/3a25fbc0-175d-1241-9298-728cd04d57d6/_U1100_U1169_U1112_U116a_U110c_U1175_U11af_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/20/b9/d220b9f3-7537-69f9-e173-616458dfd885/_U1111_U1175_U11af_U1110_U1165_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/2a/a7/432aa799-27fe-642c-c354-173c864edc63/_U1112_U116a_U110c_U1175_U11af_U1100_U1162_U1109_U1165_U11ab_EN.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "!Camera",
       "version": "1.44",
       "versionDate": "2026-03-19",
@@ -3097,27 +3178,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "SNOW",
-      "version": "15.0.9",
-      "versionDate": "2026-03-13",
-      "size": 140098113,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.campmobile.snow_SNOWPatch_15.0.9.ipa",
-      "developerName": "SNOW Corporation",
-      "bundleIdentifier": "com.campmobile.snow",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/99/9f/f2999f50-1ed7-27a5-2a63-b6a8ca8cacac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSNOW - AI Profile\n\nVIP features unlocked\n\nTweak made by Dell\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/68/81/ae68816d-e6b2-a43e-8dce-73b94290bba3/AI_U1111_U1173_U1105_U1169_U1111_U1175_U11af2_EN__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/16/c2/1816c2f6-09a0-f924-ed51-de41e8ba2bf9/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/73/86/a3738678-dc28-0512-f453-922701116004/_U1107_U116e_U1107_U116e_U11ab_U110c_U1175_U110b_U116e_U1100_U1162_EN__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/8a/5a/a78a5a02-ca3d-d6eb-e33a-78659905fb99/_U1112_U1166_U110b_U1165_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/25/fb/3a25fbc0-175d-1241-9298-728cd04d57d6/_U1100_U1169_U1112_U116a_U110c_U1175_U11af_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/20/b9/d220b9f3-7537-69f9-e173-616458dfd885/_U1111_U1175_U11af_U1110_U1165_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/2a/a7/432aa799-27fe-642c-c354-173c864edc63/_U1112_U116a_U110c_U1175_U11af_U1100_U1162_U1109_U1165_U11ab_EN.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "myTuner Radio",
       "version": "10.1",
       "versionDate": "2026-03-13",
@@ -3490,19 +3550,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/1e/ab/721eabb8-cf67-052e-7aa2-89c395e64993/67552b85-f47b-4b29-9f82-f84f2ce285d4_store_screen_7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/2c/82/8d2c82bc-29fb-9cce-03f5-7848a8ba0b21/91af1c67-52ec-4fd5-8bc5-1d4744b818f7_store_screen_8.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Windy.app",
-      "version": "15.5.4",
-      "versionDate": "2026-03-13",
-      "size": 152253805,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/co.windyapp.Windy_Windyapp_15.5.4.ipa",
-      "developerName": "Windy Weather World Inc",
-      "bundleIdentifier": "co.windyapp.Windy",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/e6/3e/92e63e0e-bed8-d0cd-6c97-d7b59d336674/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWindy.app — Windy Weather Map\n\nPro features unlocked\n\nTweak made by femto\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -6119,34 +6166,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/09/36/950936c3-36af-020f-5cc5-e0e171138b85/06_-_5G_5.5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/2c/1c/7e2c1c6f-e389-8fa8-5d39-daf338b0278f/07_-_Servers_5.5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/7e/7c/797e7c1a-09ce-236c-e72b-f26c5b37d682/2fbaaf49-7a3f-406f-93f8-737c70b58b27_08_-_Map_5.5.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Merge Cooking",
-      "version": "1.32.1",
-      "versionDate": "2026-03-11",
-      "size": 315572488,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.merge.cooking.theme.restaurant.food_1.32.1.ipa",
-      "developerName": "Happibits",
-      "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/60/da/4b60da2c-09b6-7a6a-5969-529cfb51d47b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMerge Cooking:Theme Restaurant\n\nSatella does not work anymore. If you need gems downgrade to this version, buy gems and then upgrade to the latest game version again. Repeat these steps if you need gems again\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/2f/0e/e92f0ee4-c052-cbbd-3f2f-28a1e4e27697/iphone-1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/b2/41/2cb2415c-662e-13c4-0982-b3915d233ad3/iphone-2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/7c/fe/467cfed0-1c0a-06b2-6624-70a3c54ee203/iphone-3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/99/ce/7299cee0-a5f2-f1dc-7ef1-bcf55d9fdd58/iphone-4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/f2/8e/b1f28e6d-8bac-1ac6-e261-b94e66fbd01a/iphone-5.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/e7/1e/f4e71efe-2169-1df4-2de5-ef6fb0b42ed1/iphone-6.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/20/d6/1f20d630-1708-0337-b2e8-f13b780b0b36/iphone-7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/fc/d3/04fcd3bb-9252-8039-ca08-d0d233cce93e/ipad-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/01/a4/d901a49f-8b18-395e-5cff-ab7cd70b9e95/ipad-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/b3/4c/4fb34cf5-d8bc-8d4e-93ac-9d1842b63f5a/ipad-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/6b/7f/1a6b7f4e-f733-3bea-c403-8797930f3cee/ipad-4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/d7/a9/08d7a9f6-486f-765e-c288-944ae9885a07/ipad-5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/b2/56/40b256c3-4e29-d3f8-2d22-37e5a24864cd/ipad-6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/aa/15/2aaa15d5-af12-3266-3517-faf13c377927/ipad-7.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -9402,25 +9421,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/2f/ba/b62fba30-f98e-2483-4772-57ffaf9e9532/AppIcon_default-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nCoin ID: Coin Value Identifier\n\n• Bundle ID: com.aiby.wtcoin\n• Updated to: 1.23\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Premiere",
-      "version": "26.7.0",
-      "versionDate": "2026-03-11",
-      "size": 75344555,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.premiere.ios_FilePickerFix_26.7.0.ipa",
-      "developerName": "Adobe Inc.",
-      "bundleIdentifier": "com.adobe.premiere.ios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/ea/74/b8ea7490-b6b6-066b-4b9e-b41ae94bb166/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAdobe Premiere: Video Editor\n\n• Bundle ID: com.adobe.premiere.ios\n• Updated to: 26.7.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/5c/f6/c65cf6c0-ce6b-c03c-cc3e-b432f6689122/Adobe_Premiere_EN_iOS_6.9_Screenshots_260106_01.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ec/43/f3ec43d6-c68b-f71f-d6da-7eaa9af07b0d/Adobe_Premiere_EN_iOS_6.9_Screenshots_260106_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ce/e2/09cee2fe-ea48-e8c3-52a0-82d6592ca342/Adobe_Premiere_EN_iOS_6.9_Screenshots_250924_02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/31/5f/b7315ffe-801a-34ad-da8e-b13e02339c96/Adobe_Premiere_EN_iOS_6.9_Screenshots_250924_03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/8a/d0/a68ad09c-e8fb-c6db-1af1-f7a3ea89fdcd/Adobe_Premiere_EN_iOS_6.9_Screenshots_250924_04.png/1320x2868bb.webp"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
