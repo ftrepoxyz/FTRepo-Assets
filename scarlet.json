@@ -5,6 +5,42 @@
   },
   "data": [
     {
+      "name": "VEED Captions",
+      "version": "8.8.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/io.veed.appstore_AutoRcSideload_8.8.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "io.veed.appstore",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/c4/21/8cc421c5-c84c-3dd3-bd9a-d24cb187c9f3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nVEED Shorts: AI videos\n\n• Bundle ID: io.veed.appstore\n• Updated to: 8.8.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "VEED Ltd",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Fitia",
+      "version": "22.3.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.ulisesolave.Fitia_Fitia_22.3.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.ulisesolave.Fitia",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/cc/b5/6accb50e-a553-3613-b495-119e674ee494/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 22.3.1\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Nutrition Technologies",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "InCollage",
       "version": "2.2.31",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/PhotoEditor.PhotoCollage.inCollage_InCollage_2.2.31.ipa",
@@ -3779,24 +3815,6 @@
       }
     },
     {
-      "name": "Fitia",
-      "version": "22.0.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.ulisesolave.Fitia_Fitia_22.0.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.ulisesolave.Fitia",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d2/93/30d29339-acec-d9db-9302-6bb76b132fb8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 22.0.4\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Nutrition Technologies",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Vocal Image",
       "version": "8.42.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/app.vocalimage.bessia_Sideloadbypass2_8.42.3.ipa",
@@ -3980,24 +3998,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fe/b3/36feb3fa-21ef-370f-8943-525e7d1efc57/1018be1f-f9b9-4153-a6a9-5193a2f14411_8-5_U00275-en.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/97/7f/38977fee-266c-66c3-5839-157f94a87ae2/1082e6ed-cf5b-49d2-a774-68148aeb5519_9-5_U00275-en.jpg/1320x2868bb.jpg"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "VEED Captions",
-      "version": "8.7.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/io.veed.appstore_VEED_8.7.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "io.veed.appstore",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fd/01/31fd011a-53d2-529d-6723-c0c010068156/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nVEED - Captions for videos\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "developer": "VEED Ltd",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
