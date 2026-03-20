@@ -3,6 +3,76 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Minutes",
+      "version": "1.10",
+      "versionDate": "2026-03-20",
+      "size": 19349912,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/ventures.slam.minutes_AutoRcSideload_1.10.ipa",
+      "developerName": "Minutes AI",
+      "bundleIdentifier": "ventures.slam.minutes",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/14/60/6b14604e-dc21-743b-d65e-8360367d52fa/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMinutes: AI Meeting Note Taker\n\n• Bundle ID: ventures.slam.minutes\n• Updated to: 1.10\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/25/852025a0-a8de-ddaa-4dd4-ffcab15e52ad/89602ad0-0336-447a-a947-cf44ff839a94_iPhone_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/91/f0/4e91f072-f064-64e4-030a-eebd60c17430/0ca0891e-e9cc-42e2-bbcc-691796e369b7_iPhone_5.5-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/04/10/8a04100a-1c97-4bfa-6651-5e711aa3e080/66222a32-f038-429b-b8ac-6810c633bab8_iPhone_5.5-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b3/b1/99b3b177-799b-de93-da15-7174e7ade48f/0cab03d9-b134-4590-a4ae-d3ef0f370336_iPhone_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/26/f9/5f26f9fa-f8c2-2d76-a96b-8b7f979f513d/45584eac-a0a1-4a1d-aa08-9aca3ed88a70_iPhone_5.5-1.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Pigment",
+      "version": "3.10.1",
+      "versionDate": "2026-03-20",
+      "size": 138982647,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.pixite.pigment_AutoRcSideload_3.10.1.ipa",
+      "developerName": "Pixite Inc.",
+      "bundleIdentifier": "com.pixite.pigment",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/85/13/9c8513e9-10f6-dba4-0404-d8f28c74547b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAdult Coloring Book - Pigment\n\n• Bundle ID: com.pixite.pigment\n• Updated to: 3.10.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/c2/2c/afc22cba-1258-61c6-788e-3b4671344485/nocozy_iphone.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/14/e0/0d14e0f4-14b7-239d-4054-2437e193b3e1/iPhone_Large_16.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/c4/f6/94c4f607-1cc9-fb2a-18a1-c6fe73d8c037/iPhone_Large_17.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/49/3d/a4493d72-a1d9-6381-df86-90a24dd93a14/iPhone_Large_11_-_UK.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/0e/cf/ce0ecfe5-aa86-aab4-ef02-7584d8125e74/iPhone_Large_33.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/e3/d8/5fe3d879-8e37-307d-dd83-79704f47d977/iPhone_Large_12_-_UK.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/f9/52/09f952bc-8e2e-7ee1-7e3d-6722da2a3f1a/iPhone_Large_13_-_UK.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/fc/f8/7dfcf82c-bf73-4656-ea80-9833ffd3b2f0/iPhone_Large_14_-_UK.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/66/3c/0d663c52-b677-3e56-42ab-28855a4bdbe7/iPhone_Large_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/2d/55/542d55ba-4991-13cd-1f4d-61e504207b33/nocozy_ipad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/56/e6/0e56e60e-4698-de97-054e-adcd4ebcd6b6/iPad_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/7e/13/567e133d-7237-2834-4906-2597d5133b86/iPad_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/4c/59/5b4c599f-70e3-fdf1-436f-0b5ad44101bf/iPad_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/49/e3/8249e33e-d893-05d6-ce8d-49a075f444a5/iPad_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/9e/d7/269ed755-0b5f-b519-671f-1bed19ca6556/iPad_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/49/13/564913ab-ff28-9723-ad6e-143680aef979/iPad_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/79/a5/8d79a594-7e75-64c7-afbf-3d1ef83e42c9/iPad_5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "HabitKit",
+      "version": "1.14.7",
+      "versionDate": "2026-03-20",
+      "size": 88908689,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.roehl.habitkit_AutoRcSideload_1.14.7.ipa",
+      "developerName": "Sebastian Roehl",
+      "bundleIdentifier": "com.roehl.habitkit",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7f/79/197f79f3-8e06-bc51-dc65-4dab55536ae6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nHabit Tracker - HabitKit\n\n• Bundle ID: com.roehl.habitkit\n• Updated to: 1.14.7\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/b2/cc/8db2cc1d-0259-01d2-9cee-740700b9c5d3/154aa645-a9f8-4b38-8e06-74561f7688e3_Apple_iPhone_8_Plus_Screenshot_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d1/ee/0e/d1ee0eb6-5158-1abc-16ba-02dec07c85ec/e7e4c05c-6ca8-4831-bcf8-77661fd60253_Apple_iPhone_8_Plus_Screenshot_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/c3/12/6dc3124f-31cb-23b9-ed66-c5bb9b9400b5/b2c3a426-e9cb-48e3-a4fc-b5eef07a186c_Apple_iPhone_8_Plus_Screenshot_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0e/dd/6a/0edd6a57-77bf-27e7-49e9-46bf06d4adb3/336836ab-4b3a-49e7-8926-6071c91b6126_Apple_iPhone_8_Plus_Screenshot_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/82/2b/64/822b6481-9821-5648-520d-f669d39d659d/13720dec-c778-4ea5-8442-f488160d41ef_Apple_iPhone_8_Plus_Screenshot_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/46/73/ac46739c-7d96-2262-3c4f-f4f71ad9aa38/9e989eef-adae-4fc6-8a01-fb6fb1ef2c46_Apple_iPhone_8_Plus_Screenshot_5.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "VEED Captions",
       "version": "8.8.0",
       "versionDate": "2026-03-20",
@@ -7341,26 +7411,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "HabitKit",
-      "version": "1.14.6",
-      "versionDate": "2026-03-11",
-      "size": 76866032,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.roehl.habitkit_autoRevenuecat_1.14.6.ipa",
-      "developerName": "Sebastian Roehl",
-      "bundleIdentifier": "com.roehl.habitkit",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7f/79/197f79f3-8e06-bc51-dc65-4dab55536ae6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nHabit Tracker - HabitKit\n\nTweak: Subscription Unlocked\n\nVersion: 1.14.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.roehl.habitkit\nDeveloper: Sebastian Roehl",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/b2/cc/8db2cc1d-0259-01d2-9cee-740700b9c5d3/154aa645-a9f8-4b38-8e06-74561f7688e3_Apple_iPhone_8_Plus_Screenshot_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d1/ee/0e/d1ee0eb6-5158-1abc-16ba-02dec07c85ec/e7e4c05c-6ca8-4831-bcf8-77661fd60253_Apple_iPhone_8_Plus_Screenshot_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/c3/12/6dc3124f-31cb-23b9-ed66-c5bb9b9400b5/b2c3a426-e9cb-48e3-a4fc-b5eef07a186c_Apple_iPhone_8_Plus_Screenshot_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0e/dd/6a/0edd6a57-77bf-27e7-49e9-46bf06d4adb3/336836ab-4b3a-49e7-8926-6071c91b6126_Apple_iPhone_8_Plus_Screenshot_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/82/2b/64/822b6481-9821-5648-520d-f669d39d659d/13720dec-c778-4ea5-8442-f488160d41ef_Apple_iPhone_8_Plus_Screenshot_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/46/73/ac46739c-7d96-2262-3c4f-f4f71ad9aa38/9e989eef-adae-4fc6-8a01-fb6fb1ef2c46_Apple_iPhone_8_Plus_Screenshot_5.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "1 2 3 4 Player Games",
       "version": "2.26.2",
       "versionDate": "2026-03-11",
@@ -8498,25 +8548,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/db/7c/4e/db7c4ecd-ff74-a78d-0b97-912f78d6796e/tns.xpqfmzgm.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0b/86/63/0b8663ed-d63b-1028-4236-48d1c971d4b2/tns.zzxqaztt.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/3a/3a/64/3a3a64d3-e928-4707-6239-7de9eb47389f/tns.oyzxnnzx.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Minutes",
-      "version": "1.9.14",
-      "versionDate": "2026-03-11",
-      "size": 11620730,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ventures.slam.minutes_RevenueCatFix26_1.9.14.ipa",
-      "developerName": "Minutes AI",
-      "bundleIdentifier": "ventures.slam.minutes",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/14/60/6b14604e-dc21-743b-d65e-8360367d52fa/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMinutes: AI Notes & Transcript\n\nUnlimited Access\n\nReally useful app, you can even transcribe YouTube videos\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/25/852025a0-a8de-ddaa-4dd4-ffcab15e52ad/89602ad0-0336-447a-a947-cf44ff839a94_iPhone_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/91/f0/4e91f072-f064-64e4-030a-eebd60c17430/0ca0891e-e9cc-42e2-bbcc-691796e369b7_iPhone_5.5-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/04/10/8a04100a-1c97-4bfa-6651-5e711aa3e080/66222a32-f038-429b-b8ac-6810c633bab8_iPhone_5.5-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b3/b1/99b3b177-799b-de93-da15-7174e7ade48f/0cab03d9-b134-4590-a4ae-d3ef0f370336_iPhone_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/26/f9/5f26f9fa-f8c2-2d76-a96b-8b7f979f513d/45584eac-a0a1-4a1d-aa08-9aca3ed88a70_iPhone_5.5-1.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
