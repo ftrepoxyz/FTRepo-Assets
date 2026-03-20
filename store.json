@@ -3544,11 +3544,17 @@
       "name": "Fitia",
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d2/93/30d29339-acec-d9db-9302-6bb76b132fb8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 22.0.4\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/cc/b5/6accb50e-a553-3613-b495-119e674ee494/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 22.3.1\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "22.3.1",
+          "date": "2026-03-20",
+          "size": 101371918,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.ulisesolave.Fitia_Fitia_22.3.1.ipa"
+        },
         {
           "version": "22.0.4",
           "date": "2026-03-13",
@@ -3560,19 +3566,13 @@
           "date": "2026-03-12",
           "size": 105192541,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ulisesolave.Fitia_Fitia_22.0.3.ipa"
-        },
-        {
-          "version": "21.2.3",
-          "date": "2026-03-12",
-          "size": 101015343,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ulisesolave.Fitia_Fitia_21.2.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "22.0.4",
-      "versionDate": "2026-03-13T20:31:07.252Z",
-      "size": 98812099,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.ulisesolave.Fitia_Fitia_22.0.4.ipa"
+      "version": "22.3.1",
+      "versionDate": "2026-03-20T08:34:53.374Z",
+      "size": 101371918,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.ulisesolave.Fitia_Fitia_22.3.1.ipa"
     },
     {
       "name": "YouTube",
@@ -7043,6 +7043,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/gronda.gmbh_Sideloadbypass2_8.10.3.ipa"
     },
     {
+      "name": "VEED Captions",
+      "bundleIdentifier": "io.veed.appstore",
+      "developerName": "VEED Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/c4/21/8cc421c5-c84c-3dd3-bd9a-d24cb187c9f3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nVEED Shorts: AI videos\n\n• Bundle ID: io.veed.appstore\n• Updated to: 8.8.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "8.8.0",
+          "date": "2026-03-20",
+          "size": 154473581,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/io.veed.appstore_AutoRcSideload_8.8.0.ipa"
+        },
+        {
+          "version": "8.7.0",
+          "date": "2026-03-13",
+          "size": 136826837,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/io.veed.appstore_VEED_8.7.0.ipa"
+        },
+        {
+          "version": "8.5.0",
+          "date": "2026-03-12",
+          "size": 138010502,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/io.veed.appstore_VEED_8.5.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.8.0",
+      "versionDate": "2026-03-20T11:34:59.648Z",
+      "size": 154473581,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/io.veed.appstore_AutoRcSideload_8.8.0.ipa"
+    },
+    {
       "name": "Fitbod",
       "bundleIdentifier": "com.fitbod",
       "developerName": "Fitbod Inc.",
@@ -7267,40 +7301,6 @@
       "versionDate": "2026-03-17T14:34:53.913Z",
       "size": 195303149,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.gunthermarktl.stepapp_Sideloadbypass2_8.7.1.ipa"
-    },
-    {
-      "name": "VEED Captions",
-      "bundleIdentifier": "io.veed.appstore",
-      "developerName": "VEED Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fd/01/31fd011a-53d2-529d-6723-c0c010068156/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nVEED - Captions for videos\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "8.7.0",
-          "date": "2026-03-13",
-          "size": 136826837,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/io.veed.appstore_VEED_8.7.0.ipa"
-        },
-        {
-          "version": "8.6.0",
-          "date": "2026-03-12",
-          "size": 145540553,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/io.veed.appstore_FilePickerFix_8.6.0.ipa"
-        },
-        {
-          "version": "8.5.0",
-          "date": "2026-03-12",
-          "size": 138010502,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/io.veed.appstore_VEED_8.5.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "8.7.0",
-      "versionDate": "2026-03-13T12:31:14.792Z",
-      "size": 136826837,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/io.veed.appstore_VEED_8.7.0.ipa"
     },
     {
       "name": "I Am Sober",
