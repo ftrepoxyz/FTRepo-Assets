@@ -5,6 +5,146 @@
   },
   "data": [
     {
+      "name": "Messenger ",
+      "version": "553.0.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.facebook.Messenger_Flow_553.0.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.facebook.Messenger",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/e8/4c/bde84c1b-5280-dc66-07d5-f02eb7c8d2ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nFacebook Messenger Flow\n\nA lightweight Messenger enhancer\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "developer": "Meta Platforms, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/0a/e3/320ae389-f4a4-ea24-4f15-25953990e148/messenger_appstore_iphone_1284x2778_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/25/af/1b25af3a-c836-93a3-e02b-4b194ee29922/messenger_appstore_iphone_1284x2778_2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/c7/4a/f5c74ae6-b8d0-69ca-1727-cf4ce4a909fe/messenger_appstore_iphone_1284x2778_3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/5c/c5/425cc5f9-22b3-a5b1-15f0-4ed819d3a5a1/messenger_appstore_iphone_1284x2778_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/ed/4f/d9ed4f7e-ea68-9904-0cd4-30c50722e1b2/messenger_appstore_iphone_1284x2778_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/ba/e6/4fbae606-cc96-8cb2-670b-95d76bf3d942/messenger_appstore_iphone_1284x2778_6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/65/24/4c6524c8-496b-1d5b-06d2-d47116e79947/messenger_appstore_iphone_1284x2778_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/9f/df/8f9fdf06-6aad-118d-1e7f-b98ff9f10949/messenger_appstore_iphone_1284x2778_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/2f/83/ce2f83e5-8c71-c578-395b-86c1655e486f/messenger_appstore_ipad_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e7/3a/f6e73a98-cd4c-383c-44c4-0e5ec30a1823/messenger_appstore_ipad_2.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "BAM!",
+      "version": "2.22",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.optiflow.imposter_Sideloadbypass2_2.22.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.optiflow.imposter",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/14/9f/87149f0c-6cc4-830a-6f19-fbbde0899365/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.22\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
+      "developer": "Red Ocean Apps",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6c/2a/5d6c2a9d-9108-db75-57de-8b013e15c6bb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "HabitKit",
+      "version": "1.14.7",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.roehl.habitkit_autoRevenuecat_1.14.7.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.roehl.habitkit",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7f/79/197f79f3-8e06-bc51-dc65-4dab55536ae6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nHabit Tracker - HabitKit\n\nTweak: Subscription Unlocked\n\nVersion: 1.14.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.roehl.habitkit\nDeveloper: Sebastian Roehl",
+      "developer": "Sebastian Roehl",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/b2/cc/8db2cc1d-0259-01d2-9cee-740700b9c5d3/154aa645-a9f8-4b38-8e06-74561f7688e3_Apple_iPhone_8_Plus_Screenshot_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d1/ee/0e/d1ee0eb6-5158-1abc-16ba-02dec07c85ec/e7e4c05c-6ca8-4831-bcf8-77661fd60253_Apple_iPhone_8_Plus_Screenshot_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/c3/12/6dc3124f-31cb-23b9-ed66-c5bb9b9400b5/b2c3a426-e9cb-48e3-a4fc-b5eef07a186c_Apple_iPhone_8_Plus_Screenshot_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0e/dd/6a/0edd6a57-77bf-27e7-49e9-46bf06d4adb3/336836ab-4b3a-49e7-8926-6071c91b6126_Apple_iPhone_8_Plus_Screenshot_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/82/2b/64/822b6481-9821-5648-520d-f669d39d659d/13720dec-c778-4ea5-8442-f488160d41ef_Apple_iPhone_8_Plus_Screenshot_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/46/73/ac46739c-7d96-2262-3c4f-f4f71ad9aa38/9e989eef-adae-4fc6-8a01-fb6fb1ef2c46_Apple_iPhone_8_Plus_Screenshot_5.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Chat Smith",
+      "version": "8.260316.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260316.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "co.vulcanlabs.moodtracker",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/08/5b/87085b2d-9313-481a-85fd-0d356003d025/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nAI Chatbot: AI Chat Smith 5.0\n\nTweak: Satella injected for unlocking subscription\n\nVersion: 8.260316.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: co.vulcanlabs.moodtracker\nDeveloper: Vulcan Labs Company Limited",
+      "developer": "Vulcan Labs Company Limited",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/c6/13/f0c61324-a0f8-ad22-b8fe-0748c7109aa7/Screenshot-2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/01/47/100147da-3dcc-3749-2a85-2016023d52f9/Screenshot-3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/be/ba/c5bebace-eb81-5576-780f-95eb64fd0cce/GPT-screenshot-4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/29/30/9329306d-aa58-db51-7000-f5a4ec266ce0/GPT-screenshot-5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/10/8d/7d108d03-6c0b-4b7d-0af2-a65ddcca30d9/GPT-screenshot-6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/11/63/611163ce-7635-5e6d-e3f0-0221d25f72a7/Screenshot-7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/dc/96/e2dc96e3-792d-4e97-2724-d97ab1ae8cff/GPT-screenshot-8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/f1/00/4af100cb-2f8a-a47b-5f81-122b668414ba/Screenshot-10.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/1c/be/e81cbef6-d69d-5f82-64f5-21abfba1e65e/GPT-screenshot-9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/57/e7/d857e71d-82b1-66ec-09c6-3fdb8ad4fe61/ENG_IPAD_RENEW.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/00/0c/ed000c53-c873-4227-336f-7e5fbb03d321/Screenshot-1-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/ca/e8/49cae8ac-d5a7-235d-98b2-c619932167fb/GPT-screenshot-2-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/90/3b/60903b9c-21a1-ca6a-c2ca-7029a657e57c/GPT-screenshot-7-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b7/4f/14b74f3b-aa58-08b6-20a6-14740878080c/GPT-screenshot-7-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/cb/7a/3bcb7ad1-6f61-510e-54d4-e4b1f4e970fb/GPT-screenshot-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/fc/80/c0fc8058-b705-36f0-3c4a-5086cd6f5191/GPT-screenshot-7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/06/c6/c606c670-cfd4-23ab-f068-f4f89c4a872e/GPT-screenshot-1a-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/27/03/92270338-469b-d069-169b-ee86df8538eb/GPT-screenshot-1a.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/f6/28/a2f62889-2493-780e-5480-7a380fb295e6/GPT-screenshot-2-1.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Stemz",
+      "version": "5.00.02",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.mwm.stems_Stemz_5.00.02.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.mwm.stems",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/82/5f2282bb-4b74-5bdf-36e9-32dda6fbdec0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nStemz: remover vocal audio pro\n\n• Bundle ID: com.mwm.stems\n• Updated to: 5.00.02\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "MWM",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/f9/62/6bf962fb-c012-970b-59b6-0700be1ca79f/EN_iphone69_01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/fb/3d/b3fb3d39-858e-5837-899a-3527268d459e/EN_iphone69_02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/8b/ac/d48baca4-f2fd-b74d-4a3f-bf2a682721e8/EN_iphone69_03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/44/25/344425ce-075c-161b-543e-dc8d714a4fda/EN_iphone69_04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/ab/43/09ab432c-473f-7263-659d-b79d5e8d89b8/EN_iphone69_05.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/21/ad/5121ad67-0745-a5c7-9343-e40663b16bc1/EN_ipadpro13_01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/9b/56/ce9b56b8-e067-2d2b-91b0-7d9d3677625c/EN_ipadpro13_02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/51/ec/c951ec4b-4ad0-8cd7-d14d-d8effa13d764/EN_ipadpro13_03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/4d/ba/254dbac9-a371-c877-41e1-cd57fcd2f3ee/EN_ipadpro13_04.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Foodie",
       "version": "7.4.31",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.linecorp.Foodie_Foodie_7.4.31.ipa",
@@ -166,31 +306,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/9e/d7/269ed755-0b5f-b519-671f-1bed19ca6556/iPad_6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/49/13/564913ab-ff28-9723-ad6e-143680aef979/iPad_7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/79/a5/8d79a594-7e75-64c7-afbf-3d1ef83e42c9/iPad_5.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "HabitKit",
-      "version": "1.14.7",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.roehl.habitkit_AutoRcSideload_1.14.7.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.roehl.habitkit",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7f/79/197f79f3-8e06-bc51-dc65-4dab55536ae6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nHabit Tracker - HabitKit\n\n• Bundle ID: com.roehl.habitkit\n• Updated to: 1.14.7\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Sebastian Roehl",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/b2/cc/8db2cc1d-0259-01d2-9cee-740700b9c5d3/154aa645-a9f8-4b38-8e06-74561f7688e3_Apple_iPhone_8_Plus_Screenshot_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d1/ee/0e/d1ee0eb6-5158-1abc-16ba-02dec07c85ec/e7e4c05c-6ca8-4831-bcf8-77661fd60253_Apple_iPhone_8_Plus_Screenshot_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/c3/12/6dc3124f-31cb-23b9-ed66-c5bb9b9400b5/b2c3a426-e9cb-48e3-a4fc-b5eef07a186c_Apple_iPhone_8_Plus_Screenshot_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0e/dd/6a/0edd6a57-77bf-27e7-49e9-46bf06d4adb3/336836ab-4b3a-49e7-8926-6071c91b6126_Apple_iPhone_8_Plus_Screenshot_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/82/2b/64/822b6481-9821-5648-520d-f669d39d659d/13720dec-c778-4ea5-8442-f488160d41ef_Apple_iPhone_8_Plus_Screenshot_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/46/73/ac46739c-7d96-2262-3c4f-f4f71ad9aa38/9e989eef-adae-4fc6-8a01-fb6fb1ef2c46_Apple_iPhone_8_Plus_Screenshot_5.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
@@ -2307,34 +2422,6 @@
       }
     },
     {
-      "name": "Stemz",
-      "version": "5.00.00",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.mwm.stems_Stemz_5.00.00.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.mwm.stems",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/82/5f2282bb-4b74-5bdf-36e9-32dda6fbdec0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nStemz: AI Tool for Musicians\n\nMax features unlocked\n\nTweak made by Zzz Zzz\n\nMinimum OS version 17.6\n\nAppStore link | Donate",
-      "developer": "MWM",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/f9/62/6bf962fb-c012-970b-59b6-0700be1ca79f/EN_iphone69_01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/fb/3d/b3fb3d39-858e-5837-899a-3527268d459e/EN_iphone69_02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/8b/ac/d48baca4-f2fd-b74d-4a3f-bf2a682721e8/EN_iphone69_03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/44/25/344425ce-075c-161b-543e-dc8d714a4fda/EN_iphone69_04.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/ab/43/09ab432c-473f-7263-659d-b79d5e8d89b8/EN_iphone69_05.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/21/ad/5121ad67-0745-a5c7-9343-e40663b16bc1/EN_ipadpro13_01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/9b/56/ce9b56b8-e067-2d2b-91b0-7d9d3677625c/EN_ipadpro13_02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/51/ec/c951ec4b-4ad0-8cd7-d14d-d8effa13d764/EN_ipadpro13_03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/4d/ba/254dbac9-a371-c877-41e1-cd57fcd2f3ee/EN_ipadpro13_04.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Paired",
       "version": "2.74.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/io.betterhalf.app_PairedPatch_2.74.0.ipa",
@@ -4402,44 +4489,6 @@
       }
     },
     {
-      "name": "Chat Smith",
-      "version": "8.260309.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260309.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "co.vulcanlabs.moodtracker",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/08/5b/87085b2d-9313-481a-85fd-0d356003d025/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nAI Chatbot: AI Chat Smith 5.0\n\nTweak: Satella injected for unlocking subscription\n\nVersion: 8.260309.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: co.vulcanlabs.moodtracker\nDeveloper: Vulcan Labs Company Limited",
-      "developer": "Vulcan Labs Company Limited",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/c6/13/f0c61324-a0f8-ad22-b8fe-0748c7109aa7/Screenshot-2.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/01/47/100147da-3dcc-3749-2a85-2016023d52f9/Screenshot-3.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/be/ba/c5bebace-eb81-5576-780f-95eb64fd0cce/GPT-screenshot-4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/29/30/9329306d-aa58-db51-7000-f5a4ec266ce0/GPT-screenshot-5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/10/8d/7d108d03-6c0b-4b7d-0af2-a65ddcca30d9/GPT-screenshot-6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/11/63/611163ce-7635-5e6d-e3f0-0221d25f72a7/Screenshot-7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/dc/96/e2dc96e3-792d-4e97-2724-d97ab1ae8cff/GPT-screenshot-8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/f1/00/4af100cb-2f8a-a47b-5f81-122b668414ba/Screenshot-10.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/1c/be/e81cbef6-d69d-5f82-64f5-21abfba1e65e/GPT-screenshot-9.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/57/e7/d857e71d-82b1-66ec-09c6-3fdb8ad4fe61/ENG_IPAD_RENEW.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/00/0c/ed000c53-c873-4227-336f-7e5fbb03d321/Screenshot-1-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/ca/e8/49cae8ac-d5a7-235d-98b2-c619932167fb/GPT-screenshot-2-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/90/3b/60903b9c-21a1-ca6a-c2ca-7029a657e57c/GPT-screenshot-7-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b7/4f/14b74f3b-aa58-08b6-20a6-14740878080c/GPT-screenshot-7-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/cb/7a/3bcb7ad1-6f61-510e-54d4-e4b1f4e970fb/GPT-screenshot-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/fc/80/c0fc8058-b705-36f0-3c4a-5086cd6f5191/GPT-screenshot-7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/06/c6/c606c670-cfd4-23ab-f068-f4f89c4a872e/GPT-screenshot-1a-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/27/03/92270338-469b-d069-169b-ee86df8538eb/GPT-screenshot-1a.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/f6/28/a2f62889-2493-780e-5480-7a380fb295e6/GPT-screenshot-2-1.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "SnapEdit",
       "version": "6.4.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.sfun.snapedit_SnapEdit_6.4.4.ipa",
@@ -4919,26 +4968,6 @@
       "description": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 9.9.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
       "developer": "Soundscape",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "BAM!",
-      "version": "2.19.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.optiflow.imposter_Sideloadbypass2_2.19.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.optiflow.imposter",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/14/9f/87149f0c-6cc4-830a-6f19-fbbde0899365/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.19.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
-      "developer": "Red Ocean Apps",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6c/2a/5d6c2a9d-9108-db75-57de-8b013e15c6bb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -6252,35 +6281,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/0b/cc/840bccc4-7d3f-9a07-c229-d3af8011ce70/7f0422a1-6d75-4cfe-b7f5-b03777bac40c_screenshot_ios_55_6_EN.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/36/8f/d6368f50-a8ad-2b5f-eeed-41b160a520b1/e1db0029-9d6a-43ed-ad7d-ae9ed36e90dd_screenshot_ios_55_6_EN.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/bf/c3/54bfc377-eeee-5756-8ac9-b35d85778374/5297f24c-d42e-46ad-8e63-a5bba1c45caf_screenshot_ios_55_7_EN.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Messenger ",
-      "version": "552.0.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.facebook.Messenger_Flow_552.0.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.facebook.Messenger",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/e8/4c/bde84c1b-5280-dc66-07d5-f02eb7c8d2ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nFacebook Messenger Flow\n\nA lightweight Messenger enhancer\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
-      "developer": "Meta Platforms, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/0a/e3/320ae389-f4a4-ea24-4f15-25953990e148/messenger_appstore_iphone_1284x2778_1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/25/af/1b25af3a-c836-93a3-e02b-4b194ee29922/messenger_appstore_iphone_1284x2778_2.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/c7/4a/f5c74ae6-b8d0-69ca-1727-cf4ce4a909fe/messenger_appstore_iphone_1284x2778_3.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/5c/c5/425cc5f9-22b3-a5b1-15f0-4ed819d3a5a1/messenger_appstore_iphone_1284x2778_4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/ed/4f/d9ed4f7e-ea68-9904-0cd4-30c50722e1b2/messenger_appstore_iphone_1284x2778_5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/ba/e6/4fbae606-cc96-8cb2-670b-95d76bf3d942/messenger_appstore_iphone_1284x2778_6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/65/24/4c6524c8-496b-1d5b-06d2-d47116e79947/messenger_appstore_iphone_1284x2778_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/9f/df/8f9fdf06-6aad-118d-1e7f-b98ff9f10949/messenger_appstore_iphone_1284x2778_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/2f/83/ce2f83e5-8c71-c578-395b-86c1655e486f/messenger_appstore_ipad_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e7/3a/f6e73a98-cd4c-383c-44c4-0e5ec30a1823/messenger_appstore_ipad_2.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
