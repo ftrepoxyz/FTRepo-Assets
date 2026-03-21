@@ -5,6 +5,117 @@
   },
   "data": [
     {
+      "name": "Foodie",
+      "version": "7.4.31",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.linecorp.Foodie_Foodie_7.4.31.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.linecorp.Foodie",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/59/f7/8c59f746-1b8b-5b21-07c7-c7a384bcc2ed/GlobalAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nFoodie - Filter & Film Camera\n\n• Bundle ID: com.linecorp.Foodie\n• Updated to: 7.4.31\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "SNOW Corporation",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/38/c4/cc38c4af-d93b-c021-ea64-d86df374d22c/cd903448-4fde-4eac-8691-085c4fd80ef9_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/8f/42/dd8f4279-d032-173a-e413-7d9934cc0605/a402489f-de97-47af-b91b-cd7520f6df1d_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/bc/0c/b5bc0c3f-3c0d-bf3d-5b91-f6cf1cdce972/50e4fb34-a640-4952-9982-8900907d1dc4_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/33/49/d433492b-5d66-5af4-16eb-94b01a1552b3/3623b404-28eb-4b34-9c5a-cce744085600_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/34/49/d63449e8-8482-8ae2-0914-ef624ecbe226/21027d6d-b2d8-4529-9d64-bdbd4f7608a3_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/77/97/a07797fb-4563-8cf2-6732-fc791688ad5f/3a11b152-a395-45eb-882a-edc37426c77c_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/a5/07/d2a50790-ba97-119a-a413-1cdfda676a2a/6a1c4204-9497-453f-91f6-05d0f7596a5f_06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/08/ae/6308ae63-4f52-c24c-470f-51f4f24a4296/bcbbf85b-7b28-48b8-a3da-aec687d4938c_07.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Locket",
+      "version": "2.38.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.locket.Locket_AutoRcSideload_2.38.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.locket.Locket",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/ea/cd/61eacda3-a438-ff8f-c556-74d3a720f35b/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.38.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Locket Labs, Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Reddit (Deluxe)",
+      "version": "2026.11.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.reddit.Reddit_redditColorComments_2026.11.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.reddit.Reddit",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/34/6d/93346d07-1aad-aa61-0cd2-0322721dd27a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @thescholarslounge |\n----------------\nRedditDeluxe 2026.11.1\n- Reddit 2026.11.1\n- RedditFilter (MoeReddit) \n- RedditUndoScrollUp\n- redditColorComments\n- OledKeyboard\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
+      "developer": "REDDIT, INC.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Detail",
+      "version": "5.5.10",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/co.detail.duo_Detail_5.5.10.ipa",
+      "category": "Tweaked",
+      "bundleID": "co.detail.duo",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/69/42/e869426d-3c23-44fb-9553-2ba4d4d140d6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.10\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Detail Technologies B.V.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/aa/62/efaa62c5-a226-ca70-b9da-7f12a8534ba3/EN_-_Screenshot_0.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/0e/ca/780eca68-18fd-8539-4b91-013feb7b4ea6/EN_-_Screenshot_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/14/d6/d214d6b9-db1a-e190-6d2d-6fd1fc7bd53d/EN_-_Screenshot_2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/b2/c9/f2b2c9e9-decc-a0d9-81f7-ea9c1e099e57/EN_-_Screenshot_6.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/05/0b/8a050b1a-e4f2-f466-9e20-2aaeaf5f266c/EN_-_Screenshot_7.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/09/76/a0097688-41b7-751b-dd6c-1dc07fbcaef5/EN_-_Screenshot_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/5a/7e/3b5a7eee-42d0-449a-d484-4f3f64a6ba95/EN_-_Screenshot_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/a9/ec/53a9ec06-b1ea-d9be-bd12-1c28f0c4af10/EN_-_Screenshot_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5b/0a/065b0a94-e325-6a78-8aef-1a7aa81a4237/EN_-_Screenshot_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/62/0f/68620f33-2746-d00d-13e0-1984e15a7f52/EN_-_App_Store_-_12.9_-_Screenshot_0.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/00/be/3000be29-2bd3-e70d-caf8-b2df3b0f543b/EN_-_App_Store_-_12.9_-_Screenshot_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/28/43/02284397-285d-f7b1-d8c8-671d6f013603/EN_-_App_Store_-_12.9_-_Screenshot_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/a7/d5/d5a7d5a5-a5f9-795c-606c-64334a83d79f/EN_-_App_Store_-_12.9_-_Screenshot_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/d8/33/e7d833dd-7426-2901-77b3-8045c5100ae0/EN_-_App_Store_-_12.9_-_Screenshot_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/27/ca/ce27cafd-c1eb-4925-7cb0-8cb0838182ec/EN_-_App_Store_-_12.9_-_Screenshot_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/80/40/f4804031-92cf-9762-3fc6-f00c772411ec/EN_-_App_Store_-_12.9_-_Screenshot_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/e8/53/b9e8532c-eeb9-0520-abec-9918e8e9d58d/EN_-_App_Store_-_12.9_-_Screenshot_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/8a/94/698a9473-b95f-3a8d-c914-174a757fbb89/EN_-_App_Store_-_12.9_-_Screenshot_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/a8/5b/03a85b92-2977-2507-97ee-08d130bfa325/a96ca02f-c993-48e8-8c8f-4f22e36a4c28_iMessage_-_6.5_-_Screenshot_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/11/4c/4c114cba-5bf3-77e2-d080-6366f45e69ae/647cafa6-341e-42fd-a7cd-5d5a49216927_iMessage_-_6.5_-_Screenshot_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/a8/b0/a1a8b0e2-acfd-d75c-3484-b515fb3837ae/a0f29222-e4c6-49eb-8205-945538d25442_iMessage_-_6.5_-_Screenshot_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/49/ea/ea49eabd-a826-3f5f-ec72-1deae9530b10/a96376d0-1a24-4f8f-b73e-49f402787238_iMessage_-_6.5_-_Screenshot_4.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Minutes",
       "version": "1.10",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/ventures.slam.minutes_AutoRcSideload_1.10.ipa",
@@ -3488,31 +3599,6 @@
       "description": "from @blatants |\n----------------\nShutEye®: Sleep Tracker, Sound\n\n• Bundle ID: health.sleep.sounds.tracker.alarm.calm\n• Updated to: 3.3.7\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "Enerjoy Pte. Ltd.",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Reddit (Deluxe)",
-      "version": "2026.10.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.reddit.Reddit_redditColorComments_2026.10.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.reddit.Reddit",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/34/6d/93346d07-1aad-aa61-0cd2-0322721dd27a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @thescholarslounge |\n----------------\nRedditDeluxe 2026.10.0\n- Reddit 2026.10.0\n- RedditFilter (MoeReddit) \n- RedditUndoScrollUp\n- redditColorComments\n- OledKeyboard\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
-      "developer": "REDDIT, INC.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -7181,47 +7267,6 @@
       }
     },
     {
-      "name": "Detail",
-      "version": "5.5.9",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.detail.duo_Detail_5.5.9.ipa",
-      "category": "Tweaked",
-      "bundleID": "co.detail.duo",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/69/42/e869426d-3c23-44fb-9553-2ba4d4d140d6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.9\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Detail Technologies B.V.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/aa/62/efaa62c5-a226-ca70-b9da-7f12a8534ba3/EN_-_Screenshot_0.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/0e/ca/780eca68-18fd-8539-4b91-013feb7b4ea6/EN_-_Screenshot_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/14/d6/d214d6b9-db1a-e190-6d2d-6fd1fc7bd53d/EN_-_Screenshot_2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/b2/c9/f2b2c9e9-decc-a0d9-81f7-ea9c1e099e57/EN_-_Screenshot_6.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/05/0b/8a050b1a-e4f2-f466-9e20-2aaeaf5f266c/EN_-_Screenshot_7.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/09/76/a0097688-41b7-751b-dd6c-1dc07fbcaef5/EN_-_Screenshot_3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/5a/7e/3b5a7eee-42d0-449a-d484-4f3f64a6ba95/EN_-_Screenshot_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/a9/ec/53a9ec06-b1ea-d9be-bd12-1c28f0c4af10/EN_-_Screenshot_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5b/0a/065b0a94-e325-6a78-8aef-1a7aa81a4237/EN_-_Screenshot_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/62/0f/68620f33-2746-d00d-13e0-1984e15a7f52/EN_-_App_Store_-_12.9_-_Screenshot_0.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/00/be/3000be29-2bd3-e70d-caf8-b2df3b0f543b/EN_-_App_Store_-_12.9_-_Screenshot_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/28/43/02284397-285d-f7b1-d8c8-671d6f013603/EN_-_App_Store_-_12.9_-_Screenshot_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/a7/d5/d5a7d5a5-a5f9-795c-606c-64334a83d79f/EN_-_App_Store_-_12.9_-_Screenshot_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/d8/33/e7d833dd-7426-2901-77b3-8045c5100ae0/EN_-_App_Store_-_12.9_-_Screenshot_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/27/ca/ce27cafd-c1eb-4925-7cb0-8cb0838182ec/EN_-_App_Store_-_12.9_-_Screenshot_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/80/40/f4804031-92cf-9762-3fc6-f00c772411ec/EN_-_App_Store_-_12.9_-_Screenshot_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/e8/53/b9e8532c-eeb9-0520-abec-9918e8e9d58d/EN_-_App_Store_-_12.9_-_Screenshot_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/8a/94/698a9473-b95f-3a8d-c914-174a757fbb89/EN_-_App_Store_-_12.9_-_Screenshot_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/a8/5b/03a85b92-2977-2507-97ee-08d130bfa325/a96ca02f-c993-48e8-8c8f-4f22e36a4c28_iMessage_-_6.5_-_Screenshot_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/11/4c/4c114cba-5bf3-77e2-d080-6366f45e69ae/647cafa6-341e-42fd-a7cd-5d5a49216927_iMessage_-_6.5_-_Screenshot_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/a8/b0/a1a8b0e2-acfd-d75c-3484-b515fb3837ae/a0f29222-e4c6-49eb-8205-945538d25442_iMessage_-_6.5_-_Screenshot_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/49/ea/ea49eabd-a826-3f5f-ec72-1deae9530b10/a96376d0-1a24-4f8f-b73e-49f402787238_iMessage_-_6.5_-_Screenshot_4.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Fonts",
       "version": "8.4.51",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/fontskeyboard.fonts_FontsAIStickers_8.4.51.ipa",
@@ -7267,24 +7312,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/84/09/cd8409e0-af12-0aed-a4ee-852eece344b9/iphone_6_-__U0627_U0644_U0627_U062d_U0635_U0627_U064a_U0654_U064a_U0627_U062a_copy.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/7e/1d/2b7e1d60-c2d7-7e08-0a9f-65ee9e68fa06/iphone_6_-__U0627_U0644_U0645_U062c_U0645_U0648_U0639_U0627_U062a_copy.jpg/1320x2868bb.jpg"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Locket",
-      "version": "2.36.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.locket.Locket_AutoRcSideload_2.36.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.locket.Locket",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/6f/78/8c6f7815-bbfe-2f1c-371f-cfcb20017bad/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.36.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Locket Labs, Inc.",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -11861,33 +11888,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/c4/e5/9dc4e552-750c-e177-a6d4-f6f8e708389f/ios-02.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/11/2f/6a112f7b-02a1-3ac0-48a8-e9dfddff0478/ios-03.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/2e/a8/a82ea894-bf86-e6e2-28eb-0f75b3a28a5e/ios-04.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Foodie",
-      "version": "7.4.20",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.linecorp.Foodie_Foodie_7.4.20.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.linecorp.Foodie",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/59/f7/8c59f746-1b8b-5b21-07c7-c7a384bcc2ed/GlobalAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nFoodie - Filter & Film Camera\n\n• Bundle ID: com.linecorp.Foodie\n• Updated to: 7.4.20\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "SNOW Corporation",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/38/c4/cc38c4af-d93b-c021-ea64-d86df374d22c/cd903448-4fde-4eac-8691-085c4fd80ef9_03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/8f/42/dd8f4279-d032-173a-e413-7d9934cc0605/a402489f-de97-47af-b91b-cd7520f6df1d_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/bc/0c/b5bc0c3f-3c0d-bf3d-5b91-f6cf1cdce972/50e4fb34-a640-4952-9982-8900907d1dc4_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/33/49/d433492b-5d66-5af4-16eb-94b01a1552b3/3623b404-28eb-4b34-9c5a-cce744085600_03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/34/49/d63449e8-8482-8ae2-0914-ef624ecbe226/21027d6d-b2d8-4529-9d64-bdbd4f7608a3_04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/77/97/a07797fb-4563-8cf2-6732-fc791688ad5f/3a11b152-a395-45eb-882a-edc37426c77c_05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/a5/07/d2a50790-ba97-119a-a413-1cdfda676a2a/6a1c4204-9497-453f-91f6-05d0f7596a5f_06.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/08/ae/6308ae63-4f52-c24c-470f-51f4f24a4296/bcbbf85b-7b28-48b8-a3da-aec687d4938c_07.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
