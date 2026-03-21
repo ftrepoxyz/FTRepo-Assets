@@ -177,6 +177,60 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/de.komoot.berlinbikeapp_KomootPatch_2026.11.2.ipa"
     },
     {
+      "name": "Reddit (Deluxe)",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "REDDIT, INC.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/34/6d/93346d07-1aad-aa61-0cd2-0322721dd27a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nRedditDeluxe 2026.11.1\n- Reddit 2026.11.1\n- RedditFilter (MoeReddit) \n- RedditUndoScrollUp\n- redditColorComments\n- OledKeyboard\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "2026.11.1",
+          "date": "2026-03-20",
+          "size": 163639322,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.reddit.Reddit_redditColorComments_2026.11.1.ipa"
+        },
+        {
+          "version": "2026.10.0",
+          "date": "2026-03-14",
+          "size": 163281606,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.reddit.Reddit_redditColorComments_2026.10.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.11.1",
+      "versionDate": "2026-03-20T20:35:31.419Z",
+      "size": 163639322,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.reddit.Reddit_redditColorComments_2026.11.1.ipa"
+    },
+    {
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
@@ -209,54 +263,6 @@
       "versionDate": "2026-03-17T09:06:24.475Z",
       "size": 134778766,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.dr1ven.eraser_PhotoRoomPatch_2026.11.01.ipa"
-    },
-    {
-      "name": "Reddit (Deluxe)",
-      "bundleIdentifier": "com.reddit.Reddit",
-      "developerName": "REDDIT, INC.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/34/6d/93346d07-1aad-aa61-0cd2-0322721dd27a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nRedditDeluxe 2026.10.0\n- Reddit 2026.10.0\n- RedditFilter (MoeReddit) \n- RedditUndoScrollUp\n- redditColorComments\n- OledKeyboard\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/54/5a/0a545a5a-14f3-0cf6-3880-5a430afda374/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/02/bd/2c02bda3-a092-bb01-8aa6-0ccdc614eb15/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/49/7c/69497c59-49de-5c24-1e0a-7008a182ed37/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/72/53/307253c0-8e1a-ff3c-112b-7ebcb347b867/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/64/36636495-2423-cc7f-a29f-2586124f8643/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f8/7b/4ff87b96-2b2f-9b07-1c7d-a76fc91febac/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "2026.10.0",
-          "date": "2026-03-14",
-          "size": 163281606,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.reddit.Reddit_redditColorComments_2026.10.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2026.10.0",
-      "versionDate": "2026-03-14T03:31:41.859Z",
-      "size": 163281606,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.reddit.Reddit_redditColorComments_2026.10.0.ipa"
     },
     {
       "name": "Slopes",
@@ -8607,7 +8613,7 @@
       "bundleIdentifier": "com.linecorp.Foodie",
       "developerName": "SNOW Corporation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/59/f7/8c59f746-1b8b-5b21-07c7-c7a384bcc2ed/GlobalAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFoodie - Filter & Film Camera\n\n• Bundle ID: com.linecorp.Foodie\n• Updated to: 7.4.20\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nFoodie - Filter & Film Camera\n\n• Bundle ID: com.linecorp.Foodie\n• Updated to: 7.4.31\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/38/c4/cc38c4af-d93b-c021-ea64-d86df374d22c/cd903448-4fde-4eac-8691-085c4fd80ef9_03.png/1320x2868bb.png"
@@ -8646,6 +8652,12 @@
       ],
       "versions": [
         {
+          "version": "7.4.31",
+          "date": "2026-03-20",
+          "size": 108498177,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.linecorp.Foodie_Foodie_7.4.31.ipa"
+        },
+        {
           "version": "7.4.20",
           "date": "2026-03-11",
           "size": 108344810,
@@ -8653,10 +8665,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "7.4.20",
-      "versionDate": "2026-03-11T08:19:14.064Z",
-      "size": 108344810,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.linecorp.Foodie_Foodie_7.4.20.ipa"
+      "version": "7.4.31",
+      "versionDate": "2026-03-20T23:35:29.573Z",
+      "size": 108498177,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.linecorp.Foodie_Foodie_7.4.31.ipa"
     },
     {
       "name": "WaterMinder",
@@ -12099,7 +12111,7 @@
       "bundleIdentifier": "co.detail.duo",
       "developerName": "Detail Technologies B.V.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/69/42/e869426d-3c23-44fb-9553-2ba4d4d140d6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.9\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.10\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/aa/62/efaa62c5-a226-ca70-b9da-7f12a8534ba3/EN_-_Screenshot_0.jpg/1320x2868bb.webp"
@@ -12194,16 +12206,16 @@
       ],
       "versions": [
         {
+          "version": "5.5.10",
+          "date": "2026-03-20",
+          "size": 220931505,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/co.detail.duo_Detail_5.5.10.ipa"
+        },
+        {
           "version": "5.5.9",
           "date": "2026-03-11",
           "size": 220929880,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.detail.duo_Detail_5.5.9.ipa"
-        },
-        {
-          "version": "5.5.8",
-          "date": "2026-03-11",
-          "size": 218895623,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.detail.duo_Detail_5.5.8.ipa"
         },
         {
           "version": "5.5.7",
@@ -12213,10 +12225,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.5.9",
-      "versionDate": "2026-03-11T13:52:25.641Z",
-      "size": 220929880,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.detail.duo_Detail_5.5.9.ipa"
+      "version": "5.5.10",
+      "versionDate": "2026-03-20T20:35:10.009Z",
+      "size": 220931505,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/co.detail.duo_Detail_5.5.10.ipa"
     },
     {
       "name": "Kids",
@@ -19118,11 +19130,17 @@
       "name": "Locket",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/6f/78/8c6f7815-bbfe-2f1c-371f-cfcb20017bad/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.36.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/ea/cd/61eacda3-a438-ff8f-c556-74d3a720f35b/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.38.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.38.0",
+          "date": "2026-03-20",
+          "size": 343258800,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.locket.Locket_AutoRcSideload_2.38.0.ipa"
+        },
         {
           "version": "2.36.0",
           "date": "2026-03-11",
@@ -19137,10 +19155,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.36.0",
-      "versionDate": "2026-03-11T07:53:40.192Z",
-      "size": 343112225,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.locket.Locket_AutoRcSideload_2.36.0.ipa"
+      "version": "2.38.0",
+      "versionDate": "2026-03-20T23:35:16.518Z",
+      "size": 343258800,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.locket.Locket_AutoRcSideload_2.38.0.ipa"
     },
     {
       "name": "TravelBoast",
