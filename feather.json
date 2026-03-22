@@ -2541,11 +2541,11 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.post_FilePickerFix_29.8.1.ipa"
     },
     {
-      "name": "PicsArt",
+      "name": "Picsart",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/af/12/9caf1214-1f7d-bdbb-d37e-0487be5ebba0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 29.4.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 29.5.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/66/66/5a666623-8ff4-0c41-0f98-22c3795926c1/5.Collage___iPhone_6.5.jpg/1320x2868bb.webp"
@@ -2620,10 +2620,10 @@
       ],
       "versions": [
         {
-          "version": "29.4.3",
-          "date": "2026-03-11",
-          "size": 108938099,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.picsart.studio_sideloadKeychainfix_29.4.3.ipa"
+          "version": "29.5.2",
+          "date": "2026-03-22",
+          "size": 108843697,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.picsart.studio_Picsart_29.5.2.ipa"
         },
         {
           "version": "29.4.2",
@@ -2639,10 +2639,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "29.4.3",
-      "versionDate": "2026-03-11T11:09:36.359Z",
-      "size": 108938099,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.picsart.studio_sideloadKeychainfix_29.4.3.ipa"
+      "version": "29.5.2",
+      "versionDate": "2026-03-22T21:42:39.833Z",
+      "size": 108843697,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.picsart.studio_Picsart_29.5.2.ipa"
     },
     {
       "name": "Twitch",
@@ -20023,6 +20023,46 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.JindoBlu.FourPlayersIOS_Sideloadbypass2_2.26.2.ipa"
     },
     {
+      "name": "BAM!",
+      "bundleIdentifier": "com.optiflow.imposter",
+      "developerName": "Red Ocean Apps",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/14/9f/87149f0c-6cc4-830a-6f19-fbbde0899365/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.24.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6c/2a/5d6c2a9d-9108-db75-57de-8b013e15c6bb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6c/2a/5d6c2a9d-9108-db75-57de-8b013e15c6bb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.24.1",
+          "date": "2026-03-22",
+          "size": 100777589,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.optiflow.imposter_Sideloadbypass2_2.24.1.ipa"
+        },
+        {
+          "version": "2.22",
+          "date": "2026-03-21",
+          "size": 100778303,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.optiflow.imposter_Sideloadbypass2_2.22.ipa"
+        },
+        {
+          "version": "2.19.2",
+          "date": "2026-03-12",
+          "size": 97986601,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.optiflow.imposter_Sideloadbypass2_2.19.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.24.1",
+      "versionDate": "2026-03-22T18:42:38.043Z",
+      "size": 100777589,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.optiflow.imposter_Sideloadbypass2_2.24.1.ipa"
+    },
+    {
       "name": "MobileScanner",
       "bundleIdentifier": "com.glority.everlens",
       "developerName": "Glority Global Group Ltd.",
@@ -20085,46 +20125,6 @@
       "versionDate": "2026-03-11T08:02:08.259Z",
       "size": 72961203,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.glority.everlens_MobileScanner_2.22.2.ipa"
-    },
-    {
-      "name": "BAM!",
-      "bundleIdentifier": "com.optiflow.imposter",
-      "developerName": "Red Ocean Apps",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/14/9f/87149f0c-6cc4-830a-6f19-fbbde0899365/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.22\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6c/2a/5d6c2a9d-9108-db75-57de-8b013e15c6bb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6c/2a/5d6c2a9d-9108-db75-57de-8b013e15c6bb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "2.22",
-          "date": "2026-03-21",
-          "size": 100778303,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.optiflow.imposter_Sideloadbypass2_2.22.ipa"
-        },
-        {
-          "version": "2.19.2",
-          "date": "2026-03-12",
-          "size": 97986601,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.optiflow.imposter_Sideloadbypass2_2.19.2.ipa"
-        },
-        {
-          "version": "2.19.1",
-          "date": "2026-03-11",
-          "size": 97985306,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.optiflow.imposter_Sideloadbypass2_2.19.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.22",
-      "versionDate": "2026-03-21T12:42:27.949Z",
-      "size": 100778303,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.optiflow.imposter_Sideloadbypass2_2.22.ipa"
     },
     {
       "name": "The Piano",
@@ -21775,6 +21775,70 @@
       "versionDate": "2026-03-12T07:57:55.197Z",
       "size": 72605563,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ocho.SudokuaDay_Sideloadbypass1_2.2.0.ipa"
+    },
+    {
+      "name": "Lunatask",
+      "bundleIdentifier": "com.mikekreeki.tasks",
+      "developerName": "Michal Krejci",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/2f/73/9a2f73d9-a464-1d5f-6c1a-a1983abfad9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLunatask: A Better To-Do List\n\nTweak: Premium Unlocked\n\nVersion: 2.1.26\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.mikekreeki.tasks\nDeveloper: Michal Krejci",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/48/61/964861da-466d-d526-1605-da5e04873125/iOS_iPhone_1.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/bd/1d/45bd1d27-0cb8-edbd-59bd-45f90597d9a9/iOS_iPhone_2.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/d1/82/37d1823f-613e-38f8-587f-c4cdaf4cf5e8/iOS_iPhone_3.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/f2/ec/8df2ec48-cefe-53b7-28c8-c1fe7c95b928/iOS_iPhone_4.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/13/94/8f1394a9-8111-1d5f-2660-9f84758dc84c/iOS_iPhone_5.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/d5/da/d6d5da74-49ae-1b32-49dd-36fa8d2fa5ae/iOS_iPad_1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/ca/61/12ca61d1-78f9-f7bb-2609-13f013b142e2/iOS_iPad_2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/24/99/962499c3-fc11-3d72-c92d-330ea9583500/iOS_iPad_3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/09/ec/cb09ec53-a18d-7072-9c79-07ea313f9f60/iOS_iPad_4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/5d/bd/a65dbd1b-d2e1-1258-f22b-dd0ab3bdbbba/iOS_iPad_5.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/48/61/964861da-466d-d526-1605-da5e04873125/iOS_iPhone_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/bd/1d/45bd1d27-0cb8-edbd-59bd-45f90597d9a9/iOS_iPhone_2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/d1/82/37d1823f-613e-38f8-587f-c4cdaf4cf5e8/iOS_iPhone_3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/f2/ec/8df2ec48-cefe-53b7-28c8-c1fe7c95b928/iOS_iPhone_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/13/94/8f1394a9-8111-1d5f-2660-9f84758dc84c/iOS_iPhone_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/d5/da/d6d5da74-49ae-1b32-49dd-36fa8d2fa5ae/iOS_iPad_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/ca/61/12ca61d1-78f9-f7bb-2609-13f013b142e2/iOS_iPad_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/24/99/962499c3-fc11-3d72-c92d-330ea9583500/iOS_iPad_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/09/ec/cb09ec53-a18d-7072-9c79-07ea313f9f60/iOS_iPad_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/5d/bd/a65dbd1b-d2e1-1258-f22b-dd0ab3bdbbba/iOS_iPad_5.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.1.26",
+          "date": "2026-03-22",
+          "size": 15277011,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.mikekreeki.tasks_Sideloadbypass2_2.1.26.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.1.26",
+      "versionDate": "2026-03-22T21:42:45.884Z",
+      "size": 15277011,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.mikekreeki.tasks_Sideloadbypass2_2.1.26.ipa"
     },
     {
       "name": "Car Scanner",
