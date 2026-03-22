@@ -5,6 +5,34 @@
   },
   "data": [
     {
+      "name": "Strides",
+      "version": "19.6.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.puresignal.strides_Sideloadbypass2_19.6.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.puresignal.strides",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/12/71/7112715b-d040-c73c-027f-f8d664c5cfab/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nStrides: Habit Tracker + Goals\n\nTweak: Plus Unlocked\n\nVersion: 19.6.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.puresignal.strides\nDeveloper: Goals LLC",
+      "developer": "Goals LLC",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/6d/b9/826db97e-6665-4fe0-a8f5-2bf943912302/780059c5-f9da-49ff-be2b-aa6eb4b4295b_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/38/ca/1638caf7-ffbe-c5eb-afa5-9b450ab8e1dc/3905dbe1-811f-4723-b0ab-81946b1bfada_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/78/3e/7f783edc-bb83-b59e-7fcb-00ac3c66b2d4/61596527-601b-42c0-ba8c-b82c37d1b6e7_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/ee/f2/41eef2ff-8ddc-4a3b-ec16-cdd7ba3318e3/accacb1e-57d2-43e5-8f80-63da528cfa56_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/d4/68/bdd4688e-8498-6c58-7628-6d76d9602aec/e9c7cbf6-4d9f-409b-abf3-d4bfdc76d6c3_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/41/c0/7e41c07a-ea1a-12d1-200c-def29bba839c/140b25a5-d313-43b6-9f16-ddb8ff29a8e6_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/71/87/2071871f-a528-cd26-4a24-8ba2089eb22f/31dc05c6-1777-4963-87fb-457a366570d1_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/1c/c8/251cc87d-c88a-7d62-8a10-30ed95ecf5f5/813b41b8-8b29-41ff-94da-be07ce0cde2e_8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/b0/b2/3db0b2be-791e-a5cb-3378-553a901ccf0a/897fdd68-aa5e-4a96-b1b2-82b4a09b724a_9.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "MoneyCircle",
       "version": "3.0.5",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.genau.MoneyCircle_Sideloadbypass2_3.0.5.ipa",
@@ -8781,34 +8809,6 @@
       "description": "from @riftysipalibrary |\n----------------\nDaygram: Daily Journal\n\nTweak: Premium Unlocked\n\nVersion: 5.6.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: com.saltycrackers.daygram\nDeveloper: EUIHYUNG JUNG",
       "developer": "EUIHYUNG JUNG",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Strides",
-      "version": "19.6",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.puresignal.strides_Sideloadbypass2_19.6.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.puresignal.strides",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/12/71/7112715b-d040-c73c-027f-f8d664c5cfab/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nStrides: Habit Tracker + Goals\n\nTweak: Plus Unlocked\n\nVersion: 19.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.puresignal.strides\nDeveloper: Goals LLC",
-      "developer": "Goals LLC",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/6d/b9/826db97e-6665-4fe0-a8f5-2bf943912302/780059c5-f9da-49ff-be2b-aa6eb4b4295b_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/38/ca/1638caf7-ffbe-c5eb-afa5-9b450ab8e1dc/3905dbe1-811f-4723-b0ab-81946b1bfada_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/78/3e/7f783edc-bb83-b59e-7fcb-00ac3c66b2d4/61596527-601b-42c0-ba8c-b82c37d1b6e7_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/ee/f2/41eef2ff-8ddc-4a3b-ec16-cdd7ba3318e3/accacb1e-57d2-43e5-8f80-63da528cfa56_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/d4/68/bdd4688e-8498-6c58-7628-6d76d9602aec/e9c7cbf6-4d9f-409b-abf3-d4bfdc76d6c3_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/41/c0/7e41c07a-ea1a-12d1-200c-def29bba839c/140b25a5-d313-43b6-9f16-ddb8ff29a8e6_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/71/87/2071871f-a528-cd26-4a24-8ba2089eb22f/31dc05c6-1777-4963-87fb-457a366570d1_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/1c/c8/251cc87d-c88a-7d62-8a10-30ed95ecf5f5/813b41b8-8b29-41ff-94da-be07ce0cde2e_8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/b0/b2/3db0b2be-791e-a5cb-3378-553a901ccf0a/897fdd68-aa5e-4a96-b1b2-82b4a09b724a_9.png/1320x2868bb.png"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
