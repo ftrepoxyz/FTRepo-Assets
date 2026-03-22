@@ -3641,7 +3641,7 @@
       "bundleIdentifier": "com.puresignal.strides",
       "developerName": "Goals LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/12/71/7112715b-d040-c73c-027f-f8d664c5cfab/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nStrides: Habit Tracker + Goals\n\nTweak: Plus Unlocked\n\nVersion: 19.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.puresignal.strides\nDeveloper: Goals LLC",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nStrides: Habit Tracker + Goals\n\nTweak: Plus Unlocked\n\nVersion: 19.6.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.puresignal.strides\nDeveloper: Goals LLC",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/6d/b9/826db97e-6665-4fe0-a8f5-2bf943912302/780059c5-f9da-49ff-be2b-aa6eb4b4295b_1.png/1320x2868bb.png"
@@ -3684,6 +3684,12 @@
       ],
       "versions": [
         {
+          "version": "19.6.1",
+          "date": "2026-03-22",
+          "size": 147838523,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.puresignal.strides_Sideloadbypass2_19.6.1.ipa"
+        },
+        {
           "version": "19.6",
           "date": "2026-03-11",
           "size": 145390368,
@@ -3691,10 +3697,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "19.6",
-      "versionDate": "2026-03-11T13:26:34.246Z",
-      "size": 145390368,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.puresignal.strides_Sideloadbypass2_19.6.ipa"
+      "version": "19.6.1",
+      "versionDate": "2026-03-22T06:42:38.501Z",
+      "size": 147838523,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.puresignal.strides_Sideloadbypass2_19.6.1.ipa"
     },
     {
       "name": "LINE Camera",
