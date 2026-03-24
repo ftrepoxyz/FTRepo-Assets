@@ -3,6 +3,46 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Badoo",
+      "version": "5.454.0",
+      "versionDate": "2026-03-24",
+      "size": 73144138,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.badoo.BadooSPP_5.454.0.ipa",
+      "developerName": "Badoo Software Ltd",
+      "bundleIdentifier": "com.badoo.BadooSPP",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/06/26/800626f9-4cad-6970-a91c-1c7b670b4949/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBadoo Premium\n\nPaid app 2.99€\n\nDecrypted by user_hidden\n\nPremium is NOT unlocked\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ba/95/f3ba950e-95d3-34c4-c25e-03063c20429a/0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/6a/07/286a07a2-e48e-6d7e-acfe-5bdd38f03ccd/1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/31/f1/ed31f107-f427-5be4-8ea1-03b699625cca/2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/2b/a3/3f2ba399-4e5a-3b02-d679-04f427594435/3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/ae/fc/57aefc6e-74eb-4827-cbd2-3605ea6146db/4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/1c/fc/c41cfc73-e1d1-6056-bf38-f05e29d1e978/5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/9e/43/cc9e4399-36b4-5cfb-6ed3-3ecfd4a53bb7/6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/e7/91/13e79152-1e2a-4af7-303b-9e89dee6b7b5/7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Filmic Pro",
+      "version": "7.5.32",
+      "versionDate": "2026-03-24",
+      "size": 143599397,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.cinegenix.filmic.pro_sideloadKeychainfix_7.5.32.ipa",
+      "developerName": "Bending Spoons Apps ApS",
+      "bundleIdentifier": "com.cinegenix.filmic.pro",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/f4/60/fcf46017-5b0d-818b-d1f0-080b6a9c8c11/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFilmic Pro－Video Camera\n\n• Bundle ID: com.cinegenix.filmic.pro\n• Updated to: 7.5.32\n• Minimum iOS: 14.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart app if Subscription isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/5e/2d/f45e2dec-13c3-7d70-b082-9ec16cd043a4/6d153f30-1e6a-4369-963b-8c6b878f3f19_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b3/3a/d3/b33ad3f9-b640-4b7b-4f27-0bdb392fcf95/cfefa618-8d88-4ae9-a431-3021b5901723_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/06/d7/8706d7c6-c403-102c-f7ac-08a87d08d7a1/3fb7c5e8-b226-4a99-a0de-dfc576e8ab5a_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/34/15/95/3415954d-6642-4cbb-1fcb-200774dc62bf/52b58e5b-25cf-4bd9-85c7-f57a9d84f394_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v04.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Coconote",
       "version": "2.44",
       "versionDate": "2026-03-24",
@@ -5048,24 +5088,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Filmic Pro",
-      "version": "7.5.30",
-      "versionDate": "2026-03-12",
-      "size": 138697219,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.cinegenix.filmic.pro_Filmic_7.5.30.ipa",
-      "developerName": "Bending Spoons Apps ApS",
-      "bundleIdentifier": "com.cinegenix.filmic.pro",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/f4/60/fcf46017-5b0d-818b-d1f0-080b6a9c8c11/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFilmic Pro－Video Camera\n\nPro features unlocked \n\nTweak made by ⏤͟͟͞͞Lãng Khách🇻🇳\n\nMinimum OS version 14.1\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/5e/2d/f45e2dec-13c3-7d70-b082-9ec16cd043a4/6d153f30-1e6a-4369-963b-8c6b878f3f19_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b3/3a/d3/b33ad3f9-b640-4b7b-4f27-0bdb392fcf95/cfefa618-8d88-4ae9-a431-3021b5901723_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/06/d7/8706d7c6-c403-102c-f7ac-08a87d08d7a1/3fb7c5e8-b226-4a99-a0de-dfc576e8ab5a_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/34/15/95/3415954d-6642-4cbb-1fcb-200774dc62bf/52b58e5b-25cf-4bd9-85c7-f57a9d84f394_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v04.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Canary",
       "version": "5.18.0",
       "versionDate": "2026-03-12",
@@ -8790,28 +8812,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/db/7c/4e/db7c4ecd-ff74-a78d-0b97-912f78d6796e/tns.xpqfmzgm.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0b/86/63/0b8663ed-d63b-1028-4236-48d1c971d4b2/tns.zzxqaztt.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/3a/3a/64/3a3a64d3-e928-4707-6239-7de9eb47389f/tns.oyzxnnzx.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Badoo",
-      "version": "5.452.0",
-      "versionDate": "2026-03-11",
-      "size": 73382071,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.badoo.BadooSPP_5.452.0.ipa",
-      "developerName": "Badoo Software Ltd",
-      "bundleIdentifier": "com.badoo.BadooSPP",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/06/26/800626f9-4cad-6970-a91c-1c7b670b4949/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBadoo Premium\n\nPaid app 2.99€\n\nDecrypted by user_hidden\n\nPremium is NOT unlocked\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ba/95/f3ba950e-95d3-34c4-c25e-03063c20429a/0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/6a/07/286a07a2-e48e-6d7e-acfe-5bdd38f03ccd/1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/31/f1/ed31f107-f427-5be4-8ea1-03b699625cca/2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/2b/a3/3f2ba399-4e5a-3b02-d679-04f427594435/3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/ae/fc/57aefc6e-74eb-4827-cbd2-3605ea6146db/4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/1c/fc/c41cfc73-e1d1-6056-bf38-f05e29d1e978/5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/9e/43/cc9e4399-36b4-5cfb-6ed3-3ecfd4a53bb7/6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/e7/91/13e79152-1e2a-4af7-303b-9e89dee6b7b5/7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
