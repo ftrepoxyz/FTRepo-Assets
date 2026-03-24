@@ -7003,7 +7003,7 @@
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "developerName": "Readdle Technologies Limited",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDocuments: File Manager & Docs\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nDocuments: File Manager & Docs\n\n• Bundle ID: com.readdle.ReaddleDocsIPad\n• Updated to: 8.19.8\n• Minimum iOS: 16.0\n• Patched\n• Modifier: DocumentsPlus Unlocked\n• Tweaked by @blatants\n\n• Note:\nNo \"Update available\" popup 😄\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/a3/ff/d3a3ff1e-4d40-9b50-6cd2-b13bb39d9138/iPhone_6_U002c9_artwork_02.jpg/1320x2868bb.webp"
@@ -7046,16 +7046,16 @@
       ],
       "versions": [
         {
+          "version": "8.19.8",
+          "date": "2026-03-24",
+          "size": 339642915,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.8.ipa"
+        },
+        {
           "version": "8.19.7",
           "date": "2026-03-16",
           "size": 348366882,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.readdle.ReaddleDocsIPad_Documents_8.19.7.ipa"
-        },
-        {
-          "version": "8.19.6",
-          "date": "2026-03-11",
-          "size": 348365477,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.readdle.ReaddleDocsIPad_Documents_8.19.6.ipa"
         },
         {
           "version": "8.19.5",
@@ -7065,10 +7065,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.19.7",
-      "versionDate": "2026-03-16T23:05:33.764Z",
-      "size": 348366882,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.readdle.ReaddleDocsIPad_Documents_8.19.7.ipa"
+      "version": "8.19.8",
+      "versionDate": "2026-03-24T12:43:16.112Z",
+      "size": 339642915,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.8.ipa"
     },
     {
       "name": "Gronda",
@@ -14771,6 +14771,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.leomehlig.today_StructuredPro_4.4.6.ipa"
     },
     {
+      "name": "Livity",
+      "bundleIdentifier": "com.app-livity",
+      "developerName": "Martynas Narijauskas",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/f1/74/fcf1741e-48d5-cb92-a62b-5bf61933047f/fitnessIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLivity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.app-livity\nDeveloper: Martynas Narijauskas",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.4.3",
+          "date": "2026-03-24",
+          "size": 83202852,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.app-livity_Sideloadbypass2_4.4.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.4.3",
+      "versionDate": "2026-03-24T12:43:27.927Z",
+      "size": 83202852,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.app-livity_Sideloadbypass2_4.4.3.ipa"
+    },
+    {
       "name": "Shopping List",
       "bundleIdentifier": "jp.tyabaken.kaimono",
       "developerName": "kenta ito",
@@ -22253,7 +22275,7 @@
       "bundleIdentifier": "com.fingersoft.hillclimbracing",
       "developerName": "Fingersoft",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/63/39/4663399f-23bd-d697-c645-324298615ae7/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nHill Climb Racing\n\nTweak: Free iAP\n\nVersion: 1.67.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.fingersoft.hillclimbracing\nDeveloper: Fingersoft",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nHill Climb Racing\n\nTweak: Free iAP\n\nVersion: 1.68.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.fingersoft.hillclimbracing\nDeveloper: Fingersoft",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/3e/fa/a23efade-331c-9fa9-3d92-e8c0ca040f6d/e04755ec-4f02-4a16-baf6-4d6520d8f972_HillClimbRacingPlus_Screenshot_2208x1242_01.jpg/1320x2868bb.jpg"
@@ -22284,6 +22306,12 @@
       ],
       "versions": [
         {
+          "version": "1.68.0",
+          "date": "2026-03-24",
+          "size": 124212502,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.fingersoft.hillclimbracing_popuprifty_1.68.0.ipa"
+        },
+        {
           "version": "1.67.9",
           "date": "2026-03-11",
           "size": 120240499,
@@ -22291,10 +22319,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.67.9",
-      "versionDate": "2026-03-11T13:41:52.593Z",
-      "size": 120240499,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.fingersoft.hillclimbracing_popuprifty_1.67.9.ipa"
+      "version": "1.68.0",
+      "versionDate": "2026-03-24T15:43:11.267Z",
+      "size": 124212502,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.fingersoft.hillclimbracing_popuprifty_1.68.0.ipa"
     },
     {
       "name": "Zombie Catchers",
