@@ -8517,7 +8517,7 @@
       "bundleIdentifier": "com.cinegenix.filmic.pro",
       "developerName": "Bending Spoons Apps ApS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/f4/60/fcf46017-5b0d-818b-d1f0-080b6a9c8c11/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFilmic Pro－Video Camera\n\nPro features unlocked \n\nTweak made by ⏤͟͟͞͞Lãng Khách🇻🇳\n\nMinimum OS version 14.1\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nFilmic Pro－Video Camera\n\n• Bundle ID: com.cinegenix.filmic.pro\n• Updated to: 7.5.32\n• Minimum iOS: 14.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart app if Subscription isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/5e/2d/f45e2dec-13c3-7d70-b082-9ec16cd043a4/6d153f30-1e6a-4369-963b-8c6b878f3f19_FLMC_MetadataRevamp_169_STILL_EN_v07iPhone8_v01.jpg/1320x2868bb.jpg"
@@ -8540,6 +8540,12 @@
       ],
       "versions": [
         {
+          "version": "7.5.32",
+          "date": "2026-03-24",
+          "size": 143599397,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.cinegenix.filmic.pro_sideloadKeychainfix_7.5.32.ipa"
+        },
+        {
           "version": "7.5.30",
           "date": "2026-03-12",
           "size": 138697219,
@@ -8547,10 +8553,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "7.5.30",
-      "versionDate": "2026-03-12T08:06:48.909Z",
-      "size": 138697219,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.cinegenix.filmic.pro_Filmic_7.5.30.ipa"
+      "version": "7.5.32",
+      "versionDate": "2026-03-24T09:43:00.045Z",
+      "size": 143599397,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.cinegenix.filmic.pro_sideloadKeychainfix_7.5.32.ipa"
     },
     {
       "name": "Photoshop",
@@ -11022,6 +11028,12 @@
       ],
       "versions": [
         {
+          "version": "5.454.0",
+          "date": "2026-03-24",
+          "size": 73144138,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.badoo.BadooSPP_5.454.0.ipa"
+        },
+        {
           "version": "5.452.0",
           "date": "2026-03-11",
           "size": 73382071,
@@ -11035,10 +11047,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.452.0",
-      "versionDate": "2026-03-11T08:38:23.933Z",
-      "size": 73382071,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.badoo.BadooSPP_5.452.0.ipa"
+      "version": "5.454.0",
+      "versionDate": "2026-03-24T09:43:08.911Z",
+      "size": 73144138,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.badoo.BadooSPP_5.454.0.ipa"
     },
     {
       "name": "Elevate",
