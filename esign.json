@@ -3,6 +3,62 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Hill Climb",
+      "version": "1.68.0",
+      "versionDate": "2026-03-24",
+      "size": 124212502,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.fingersoft.hillclimbracing_popuprifty_1.68.0.ipa",
+      "developerName": "Fingersoft",
+      "bundleIdentifier": "com.fingersoft.hillclimbracing",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/63/39/4663399f-23bd-d697-c645-324298615ae7/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nHill Climb Racing\n\nTweak: Free iAP\n\nVersion: 1.68.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.fingersoft.hillclimbracing\nDeveloper: Fingersoft",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/3e/fa/a23efade-331c-9fa9-3d92-e8c0ca040f6d/e04755ec-4f02-4a16-baf6-4d6520d8f972_HillClimbRacingPlus_Screenshot_2208x1242_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/8a/d6/108ad6c5-e005-dd33-0d3f-73f89db3aeb1/46159458-1d88-446f-81b8-8735e23ef92a_HillClimbRacingPlus_Screenshot_2208x1242_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/6c/30/556c30fa-2bcf-da05-32c0-8fcef6829792/305cffe5-98d0-41fe-ad8d-8ec07a1fdcd2_HillClimbRacingPlus_Screenshot_2208x1242_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/9e/01/6f9e01d9-b804-8aac-3331-08299ac3be59/14e3b729-78fd-4878-91bb-d2202eb157bf_HillClimbRacingPlus_Screenshot_2208x1242_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/8f/5d/5c8f5d19-6d8a-4ce3-7428-d08c7b2f785e/6451e21a-c72e-4a73-ad1c-17a808ef342b_HillClimbRacingPlus_Screenshot_2208x1242_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/41/4e/ee414ed0-b7d3-44f9-d452-0e8ec8a19ca2/f146b562-1b7c-4324-8543-09a0d38f8055_HillClimbRacingPlus_Screenshot_2208x1242_06.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Livity",
+      "version": "4.4.3",
+      "versionDate": "2026-03-24",
+      "size": 83202852,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.app-livity_Sideloadbypass2_4.4.3.ipa",
+      "developerName": "Martynas Narijauskas",
+      "bundleIdentifier": "com.app-livity",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/f1/74/fcf1741e-48d5-cb92-a62b-5bf61933047f/fitnessIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLivity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.app-livity\nDeveloper: Martynas Narijauskas",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Documents",
+      "version": "8.19.8",
+      "versionDate": "2026-03-24",
+      "size": 339642915,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.readdle.ReaddleDocsIPad_FilePickerFix_8.19.8.ipa",
+      "developerName": "Readdle Technologies Limited",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDocuments: File Manager & Docs\n\n• Bundle ID: com.readdle.ReaddleDocsIPad\n• Updated to: 8.19.8\n• Minimum iOS: 16.0\n• Patched\n• Modifier: DocumentsPlus Unlocked\n• Tweaked by @blatants\n\n• Note:\nNo \"Update available\" popup 😄\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/a3/ff/d3a3ff1e-4d40-9b50-6cd2-b13bb39d9138/iPhone_6_U002c9_artwork_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ce/3c/b6ce3c9c-0be1-8f9c-d382-8c890ad6357b/iPhone_6_U002c9_artwork_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/41/37/c241378f-f4f8-b7b4-ebab-0649fe78b229/iPhone_6_U002c9_artwork_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/e7/72/97e77246-0c65-c595-368f-4d47cba56928/iPhone_6_U002c9_artwork_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/bb/97/5fbb97b5-913d-9963-5f8f-c12d1c30945c/iPhone_6_U002c9_artwork_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/a6/16/00a61669-1928-dc0d-bbb2-928189e10bc5/iPhone_6_U002c9_artwork_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/0b/93/040b9348-bf7f-9bb4-b6a2-cece6347a0d2/iPhone_6_U002c9_artwork_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/76/85/107685d8-29b6-ffc3-a4c2-cf7382ccb3bd/iPhone_6_U002c9_artwork_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ed/57/deed5783-d78a-fcff-aa3a-79dfb0516c06/iPhone_6_U002c9_artwork_10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Badoo",
       "version": "5.454.0",
       "versionDate": "2026-03-24",
@@ -2380,29 +2436,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/86/c2/0586c2bd-9ad3-aeaf-2732-d5533d14678d/Screen-4.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/50/2c/f3502c0a-4bf8-bd13-765c-01dc34978ffc/Screen-2.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/7f/af/957faf63-a8ca-46a1-1450-94c53af826a1/Screen.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Documents",
-      "version": "8.19.7",
-      "versionDate": "2026-03-16",
-      "size": 348366882,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.readdle.ReaddleDocsIPad_Documents_8.19.7.ipa",
-      "developerName": "Readdle Technologies Limited",
-      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9f/59/4c9f596b-2c7f-8447-8055-a696ecf55348/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDocuments: File Manager & Docs\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/a3/ff/d3a3ff1e-4d40-9b50-6cd2-b13bb39d9138/iPhone_6_U002c9_artwork_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ce/3c/b6ce3c9c-0be1-8f9c-d382-8c890ad6357b/iPhone_6_U002c9_artwork_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/41/37/c241378f-f4f8-b7b4-ebab-0649fe78b229/iPhone_6_U002c9_artwork_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/e7/72/97e77246-0c65-c595-368f-4d47cba56928/iPhone_6_U002c9_artwork_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/bb/97/5fbb97b5-913d-9963-5f8f-c12d1c30945c/iPhone_6_U002c9_artwork_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/a6/16/00a61669-1928-dc0d-bbb2-928189e10bc5/iPhone_6_U002c9_artwork_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/0b/93/040b9348-bf7f-9bb4-b6a2-cece6347a0d2/iPhone_6_U002c9_artwork_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/76/85/107685d8-29b6-ffc3-a4c2-cf7382ccb3bd/iPhone_6_U002c9_artwork_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ed/57/deed5783-d78a-fcff-aa3a-79dfb0516c06/iPhone_6_U002c9_artwork_10.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -7032,26 +7065,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/97/c0/9497c0bf-e0d0-8ff2-36d3-5e26b8dc2b2b/04_screenshot.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/cb/30/18cb3039-a736-3337-c71d-ba79279275b7/05_screenshot.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/9b/fe/6d9bfee6-c47d-ef79-34a2-fd93896913d8/06_screenshot.jpg/1320x2868bb.webp"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Hill Climb",
-      "version": "1.67.9",
-      "versionDate": "2026-03-11",
-      "size": 120240499,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.fingersoft.hillclimbracing_popuprifty_1.67.9.ipa",
-      "developerName": "Fingersoft",
-      "bundleIdentifier": "com.fingersoft.hillclimbracing",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/63/39/4663399f-23bd-d697-c645-324298615ae7/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nHill Climb Racing\n\nTweak: Free iAP\n\nVersion: 1.67.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.fingersoft.hillclimbracing\nDeveloper: Fingersoft",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/3e/fa/a23efade-331c-9fa9-3d92-e8c0ca040f6d/e04755ec-4f02-4a16-baf6-4d6520d8f972_HillClimbRacingPlus_Screenshot_2208x1242_01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/8a/d6/108ad6c5-e005-dd33-0d3f-73f89db3aeb1/46159458-1d88-446f-81b8-8735e23ef92a_HillClimbRacingPlus_Screenshot_2208x1242_02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/6c/30/556c30fa-2bcf-da05-32c0-8fcef6829792/305cffe5-98d0-41fe-ad8d-8ec07a1fdcd2_HillClimbRacingPlus_Screenshot_2208x1242_03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/9e/01/6f9e01d9-b804-8aac-3331-08299ac3be59/14e3b729-78fd-4878-91bb-d2202eb157bf_HillClimbRacingPlus_Screenshot_2208x1242_04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/8f/5d/5c8f5d19-6d8a-4ce3-7428-d08c7b2f785e/6451e21a-c72e-4a73-ad1c-17a808ef342b_HillClimbRacingPlus_Screenshot_2208x1242_05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/41/4e/ee414ed0-b7d3-44f9-d452-0e8ec8a19ca2/f146b562-1b7c-4324-8543-09a0d38f8055_HillClimbRacingPlus_Screenshot_2208x1242_06.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
