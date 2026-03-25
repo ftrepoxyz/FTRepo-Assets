@@ -5833,6 +5833,34 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.snowcorp.soda_SODA_10.0.108.ipa"
     },
     {
+      "name": "Soundscape",
+      "bundleIdentifier": "com.soundscape.music",
+      "developerName": "Soundscape",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/4e/36/634e36e8-e640-ad5a-1969-a50b46118376/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 10.0.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "10.0.6",
+          "date": "2026-03-25",
+          "size": 112741959,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.soundscape.music_Sideloadbypass2_10.0.6.ipa"
+        },
+        {
+          "version": "9.9.8",
+          "date": "2026-03-12",
+          "size": 85961585,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.soundscape.music_Sideloadbypass2_9.9.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "10.0.6",
+      "versionDate": "2026-03-25T12:43:29.353Z",
+      "size": 112741959,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.soundscape.music_Sideloadbypass2_10.0.6.ipa"
+    },
+    {
       "name": "Flo",
       "bundleIdentifier": "org.iggymedia.periodtracker",
       "developerName": "FLO HEALTH UK LIMITED",
@@ -6429,28 +6457,6 @@
       "versionDate": "2026-03-11T08:40:49.514Z",
       "size": 134874114,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.joytunes.asla_SimplyPianoPatch_9.10.61.ipa"
-    },
-    {
-      "name": "Soundscape",
-      "bundleIdentifier": "com.soundscape.music",
-      "developerName": "Soundscape",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/a1/00/3ca10087-b794-1ede-dca5-57739f7a1ebc/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 9.9.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "9.9.8",
-          "date": "2026-03-12",
-          "size": 85961585,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.soundscape.music_Sideloadbypass2_9.9.8.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "9.9.8",
-      "versionDate": "2026-03-12T18:00:31.430Z",
-      "size": 85961585,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.soundscape.music_Sideloadbypass2_9.9.8.ipa"
     },
     {
       "name": "أندلسي",
@@ -14961,7 +14967,7 @@
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/04/18/880418d2-3153-0678-41e9-06b3f1284fda/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.3.90\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.3.96\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/1320x2868bb.png"
@@ -15008,6 +15014,12 @@
       ],
       "versions": [
         {
+          "version": "4.3.96",
+          "date": "2026-03-25",
+          "size": 416230957,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.zerone.hidesktop_iScreen_4.3.96.ipa"
+        },
+        {
           "version": "4.3.90",
           "date": "2026-03-11",
           "size": 412249583,
@@ -15015,10 +15027,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.3.90",
-      "versionDate": "2026-03-11T08:18:43.583Z",
-      "size": 412249583,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zerone.hidesktop_iScreen_4.3.90.ipa"
+      "version": "4.3.96",
+      "versionDate": "2026-03-25T15:43:27.247Z",
+      "size": 416230957,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.zerone.hidesktop_iScreen_4.3.96.ipa"
     },
     {
       "name": "Sofa",
@@ -15599,7 +15611,7 @@
       "bundleIdentifier": "com.withopal.opal",
       "developerName": "Opal OS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/1a/4f/301a4f8d-036c-9faf-20f2-700e4e034146/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpal: Screen Time Control\n\nTweak: Subscription Unlocked\n\nVersion: 3.151.1\n\nNotes: trollstore only\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.withopal.opal\nDeveloper: Opal OS",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpal: Screen Time Control\n\nTweak: Subscription Unlocked\n\nVersion: 3.152\n\nNotes: trollstore only\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.withopal.opal\nDeveloper: Opal OS",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/43/9e/26439e3c-490f-2d10-6bf4-bb10fc4b44e8/70c7014e-d6a0-4414-a078-4943d4866c5b_1040421972.jpg/1320x2868bb.jpg"
@@ -15642,6 +15654,12 @@
       ],
       "versions": [
         {
+          "version": "3.152",
+          "date": "2026-03-25",
+          "size": 166629896,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.withopal.opal_Sideloadbypass2_3.152.ipa"
+        },
+        {
           "version": "3.151.1",
           "date": "2026-03-11",
           "size": 166364359,
@@ -15649,10 +15667,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.151.1",
-      "versionDate": "2026-03-11T17:56:57.684Z",
-      "size": 166364359,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.withopal.opal_Sideloadbypass2_3.151.1.ipa"
+      "version": "3.152",
+      "versionDate": "2026-03-25T15:44:05.769Z",
+      "size": 166629896,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.withopal.opal_Sideloadbypass2_3.152.ipa"
     },
     {
       "name": "Planta",
@@ -17127,7 +17145,7 @@
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/39/cf/9139cf80-2e7b-cb43-f294-141d8097e202/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nTripsy: Travel Planner\n\n• Bundle ID: app.tripsy.ios\n• Updated to: 3.7.12\n• Minimum iOS: 18\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
+      "localizedDescription": "from @blatants |\n----------------\nTripsy: Travel Planner\n\n• Bundle ID: app.tripsy.ios\n• Updated to: 3.8.0\n• Minimum iOS: 18\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/f0/f2/e7f0f287-78db-582a-1bd6-c6132c05521a/iPhone_6.5_Travel_Planner.jpg/1320x2868bb.webp"
@@ -17170,10 +17188,10 @@
       ],
       "versions": [
         {
-          "version": "3.7.12",
-          "date": "2026-03-11",
-          "size": 112593938,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.tripsy.ios_Tripsy_3.7.12.ipa"
+          "version": "3.8.0",
+          "date": "2026-03-25",
+          "size": 113310944,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/app.tripsy.ios_Tripsy_3.8.0.ipa"
         },
         {
           "version": "3.7.11",
@@ -17189,10 +17207,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.7.12",
-      "versionDate": "2026-03-11T08:12:25.224Z",
-      "size": 112593938,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/app.tripsy.ios_Tripsy_3.7.12.ipa"
+      "version": "3.8.0",
+      "versionDate": "2026-03-25T12:43:04.573Z",
+      "size": 113310944,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/app.tripsy.ios_Tripsy_3.8.0.ipa"
     },
     {
       "name": "VDIT",
@@ -26151,6 +26169,58 @@
       "versionDate": "2026-03-11T08:23:27.429Z",
       "size": 138371316,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.risesci.nyx_AutoRcSideload_0.1.573.ipa"
+    },
+    {
+      "name": "Car Match",
+      "bundleIdentifier": "com.grandgames.carmatch",
+      "developerName": "Grand Games A.Ş.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/54/91/675491f4-9a49-55d0-6fd8-98903f978ba8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCar Match - Traffic Puzzle\n\nTweak: Free iAP\n\nVersion: 0.0.628\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.carmatch\nDeveloper: Grand Games A.Ş.",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/84/a1/6c84a16b-fb54-06a7-5af2-2baf48450897/1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/b1/a8/2ab1a8a2-5398-3d49-95eb-6e7684b46df6/2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/5a/71/935a71be-ae26-3be7-008b-b56360808ae7/3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/73/f0/1573f000-20c0-624f-5068-668732ad549f/4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/c6/69/49c669a6-31a3-baeb-8b72-732b923a2066/5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/54/d2/5154d271-21af-85b0-871f-97e8a38453cc/6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cd/a9/5ccda97a-7d7c-0794-b894-d01ba8e69a15/5.5-1242x2208.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/84/a1/6c84a16b-fb54-06a7-5af2-2baf48450897/1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/b1/a8/2ab1a8a2-5398-3d49-95eb-6e7684b46df6/2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/5a/71/935a71be-ae26-3be7-008b-b56360808ae7/3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/73/f0/1573f000-20c0-624f-5068-668732ad549f/4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/c6/69/49c669a6-31a3-baeb-8b72-732b923a2066/5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/54/d2/5154d271-21af-85b0-871f-97e8a38453cc/6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cd/a9/5ccda97a-7d7c-0794-b894-d01ba8e69a15/5.5-1242x2208.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "0.0.628",
+          "date": "2026-03-25",
+          "size": 171953904,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.grandgames.carmatch_Sideloadbypass2_0.0.628.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "0.0.628",
+      "versionDate": "2026-03-25T15:43:46.097Z",
+      "size": 171953904,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.grandgames.carmatch_Sideloadbypass2_0.0.628.ipa"
     }
   ]
 }
