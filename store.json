@@ -5991,7 +5991,7 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/d1/88c1d187-6363-58e2-07ec-23174741b815/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.29\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
+      "localizedDescription": "from @blatants |\n----------------\nSCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.29.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg"
@@ -6026,6 +6026,12 @@
       ],
       "versions": [
         {
+          "version": "9.29.1",
+          "date": "2026-03-25",
+          "size": 83349536,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.dopedevelopment.Panels_AutoRcSideload_9.29.1.ipa"
+        },
+        {
           "version": "9.29",
           "date": "2026-03-23",
           "size": 78049651,
@@ -6036,19 +6042,13 @@
           "date": "2026-03-17",
           "size": 77674637,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.dopedevelopment.Panels_Sideloadbypass2_9.28.4.ipa"
-        },
-        {
-          "version": "9.28.3",
-          "date": "2026-03-13",
-          "size": 77577252,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.dopedevelopment.Panels_Sideloadbypass2_9.28.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.29",
-      "versionDate": "2026-03-23T09:42:56.555Z",
-      "size": 78049651,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-23/com.dopedevelopment.Panels_Sideloadbypass2_9.29.ipa"
+      "version": "9.29.1",
+      "versionDate": "2026-03-25T09:43:00.261Z",
+      "size": 83349536,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.dopedevelopment.Panels_AutoRcSideload_9.29.1.ipa"
     },
     {
       "name": "The Calculator",
@@ -6918,11 +6918,17 @@
       "name": "Vocal Image",
       "bundleIdentifier": "app.vocalimage.bessia",
       "developerName": "Vocal Image OU",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/c7/1f/91c71fa5-6d39-4ea7-f615-b7b784659a36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nVocal Image: AI Voice Coach\n\nTweak: Premium Unlocked\n\nVersion: 8.42.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: app.vocalimage.bessia\nDeveloper: Vocal Image OU",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/cf/46/24cf4688-2752-337e-af81-705ce2cf8ffd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVocal Image: AI Voice Coach\n\nTweak: Premium Unlocked\n\nVersion: 8.43.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: app.vocalimage.bessia\nDeveloper: Vocal Image OU",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "8.43.6",
+          "date": "2026-03-25",
+          "size": 144613227,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/app.vocalimage.bessia_Sideloadbypass2_8.43.6.ipa"
+        },
         {
           "version": "8.42.3",
           "date": "2026-03-13",
@@ -6931,10 +6937,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.42.3",
-      "versionDate": "2026-03-13T18:31:41.947Z",
-      "size": 143171771,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/app.vocalimage.bessia_Sideloadbypass2_8.42.3.ipa"
+      "version": "8.43.6",
+      "versionDate": "2026-03-25T09:43:19.828Z",
+      "size": 144613227,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/app.vocalimage.bessia_Sideloadbypass2_8.43.6.ipa"
     },
     {
       "name": "Scanner Pro",
@@ -7731,7 +7737,7 @@
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/1a/3d/e31a3dcb-0386-fba5-c848-7a9b5f1b2fb1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nKineMaster - Video Editor\n\n• Bundle ID: com.kinemaster.kios\n• Updated to: 8.1.3\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription and ignore \"Get Premium\" banner.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nKineMaster - Video Editor\n\n• Bundle ID: com.kinemaster.kios\n• Updated to: 8.1.4\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription and ignore \"Get Premium\" banner.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/1320x2868bb.jpg"
@@ -7774,16 +7780,16 @@
       ],
       "versions": [
         {
+          "version": "8.1.4",
+          "date": "2026-03-25",
+          "size": 116526574,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.kinemaster.kios_sideloadKeychainfix_8.1.4.ipa"
+        },
+        {
           "version": "8.1.3",
           "date": "2026-03-11",
           "size": 115503738,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.kinemaster.kios_sideloadKeychainfix_8.1.3.ipa"
-        },
-        {
-          "version": "8.1.1",
-          "date": "2026-03-11",
-          "size": 115964984,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.kinemaster.kios_KineMaster_8.1.1.ipa"
         },
         {
           "version": "8.1.0",
@@ -7793,10 +7799,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.1.3",
-      "versionDate": "2026-03-11T16:56:24.739Z",
-      "size": 115503738,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.kinemaster.kios_sideloadKeychainfix_8.1.3.ipa"
+      "version": "8.1.4",
+      "versionDate": "2026-03-25T06:43:02.284Z",
+      "size": 116526574,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.kinemaster.kios_sideloadKeychainfix_8.1.4.ipa"
     },
     {
       "name": "NeoServer",
@@ -14469,7 +14475,7 @@
       "bundleIdentifier": "com.dynamicapps.Vocab-Builder",
       "developerName": "Dynamic Apps Ltd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/4b/20/df4b20d0-cbc7-b4db-4c1a-521ed6f9d4d8/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nWordPal - Vocabulary Builder\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.19\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.dynamicapps.Vocab-Builder\nDeveloper: Dynamic Apps Ltd",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nWordPal - Vocabulary Builder\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.21\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.dynamicapps.Vocab-Builder\nDeveloper: Dynamic Apps Ltd",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/e3/58/22e3580b-dfb8-7a58-ee74-54a282ebf377/0609725e-37da-49a1-be93-0d3f0c55af84_iPhone_5.5in_1_sRGB.png/1320x2868bb.png"
@@ -14504,6 +14510,12 @@
       ],
       "versions": [
         {
+          "version": "4.6.21",
+          "date": "2026-03-25",
+          "size": 93515152,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.dynamicapps.Vocab-Builder_autoRevenuecat_4.6.21.ipa"
+        },
+        {
           "version": "4.6.19",
           "date": "2026-03-12",
           "size": 93414128,
@@ -14511,10 +14523,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.6.19",
-      "versionDate": "2026-03-12T11:18:08.827Z",
-      "size": 93414128,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.dynamicapps.Vocab-Builder_autoRevenuecat_4.6.19.ipa"
+      "version": "4.6.21",
+      "versionDate": "2026-03-25T06:43:16.742Z",
+      "size": 93515152,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.dynamicapps.Vocab-Builder_autoRevenuecat_4.6.21.ipa"
     },
     {
       "name": "Da Vinci Eye",
