@@ -5,6 +5,61 @@
   },
   "data": [
     {
+      "name": "Breeze",
+      "version": "3.4.9",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.basenji.mood_Sideloadbypass2_3.4.9.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.basenji.mood",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/06/ba/4206ba97-dde3-1eb9-d6d9-58b273adffe3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nBreeze: Start Self-Discovery\n\nTweak: Subscription Unlocked\n\nVersion: 3.4.9\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.basenji.mood\nDeveloper: Basenji Apps",
+      "developer": "Basenji Apps",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/be/01/dabe01b9-d750-662c-bc17-b74a9f8aefc8/28417fc2-7f4a-4a8e-b82a-2a6a84c6446a_ip_8_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/9d/79/619d79af-e230-4377-14cc-1d5cfa55243e/1ae79baf-12b4-46b0-8af0-a1720af2fe97_ip_8_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/4f/6d/754f6dee-7d59-be9e-05b8-fc74554e8d4a/358fe3b2-350e-4274-81c0-67710ad4c57b_ip_8_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/3f/38/e53f3810-2a90-54fe-b4d0-f86f8cce3753/1e3dcc8f-c7a1-417d-9786-3f44c4cdc3e4_ip_8_4-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/31/17/07311754-a640-3b29-a652-0d49012d676b/e36bda1c-3e85-4618-8987-ac2b080bc8fe_ip_8_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/52/bc/8a52bc25-9ef5-60f1-db66-4cab7d4b9601/ff5e5f5c-e45e-4827-b956-f1887a074bbb_ip_8_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/a5/9b/5ca59b83-80c7-76eb-5953-bb5ae8d7de60/37d0622e-da3d-4ced-80dd-165ac234d66f_ip_8_6.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "CARROT",
+      "version": "6.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.grailr.CARROTweather_Carrot_6.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.grailr.CARROTweather",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/7e/1e/227e1ec8-3bf0-bc25-554c-80e87220d4f0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nCARROT Weather: Alerts & Radar\n\n• Bundle ID: com.grailr.CARROTweather\n• Updated to: 6.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when signed with a paid cert that has appgroups configured.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Grailr LLC",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/86/1aae86aa-2bbd-ae86-aedf-6bcf3ed08bd2/6561375a-42cc-4ccb-aa9b-71298cef0d58_phone-1-1_copy.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/57/f4/bb57f420-ac2f-d39e-a76e-f58c470bcc04/4cd4e55b-7815-4586-8e2f-bd75207a2950_phone-1-2_copy.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/ec/56/1fec565d-ba6a-c7a7-ef33-ec54181d6c9a/36cce7c2-2ad6-4946-82eb-b4532b41cceb_phone-1-3_copy.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f2/db/c5f2dbdb-d300-5b19-e91e-14673911fea4/8baae691-6c1b-425f-86f9-2a3617b3fcea_phone-chonk-widget.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/f4/77/dbf47751-e7c4-4e13-f4da-eb292758e917/d7345edb-d5f1-463c-b739-8c12c0474b53_phone-chonk-notifications.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d0/9f/96d09fa8-0f20-7080-7647-5bc000c05667/3008cf4a-5ef1-4125-8b3b-46b3880b5849_phone-chonk-watch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/05/87/0a0587ab-5731-d8b9-f1f9-fd039cc71ea2/728544ce-ef31-454c-8543-0bc30bc7df37_phone-chonk-forecast.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/08/e6/0d08e64e-8db5-d8c2-187f-bd93cb24d101/ac4a3cb0-ad9e-4d7b-b12d-4a718ec816ef_phone-chonk-customization.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/2a/80/e82a8080-7a3e-d007-6058-0056500347a9/0a17c586-f68b-428d-bfd0-b9a0b8806bc7_phone-chonk-station.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/b4/f9/42b4f9e5-790b-47d8-bd40-b6973119dd81/d20982a0-ae71-4dd2-a032-c9a062912ea1_phone-chonk-fun.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "GymStreak",
       "version": "6.3.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.gymstreak.GymStreakAI_Sideloadbypass2_6.3.4.ipa",
@@ -11152,35 +11207,6 @@
       }
     },
     {
-      "name": "CARROT",
-      "version": "6.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.grailr.CARROTweather_Carrot_6.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.grailr.CARROTweather",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/7e/1e/227e1ec8-3bf0-bc25-554c-80e87220d4f0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nCARROT Weather: Alerts & Radar\n\n• Bundle ID: com.grailr.CARROTweather\n• Updated to: 6.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when signed with a paid cert that has appgroups configured.\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Grailr LLC",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/86/1aae86aa-2bbd-ae86-aedf-6bcf3ed08bd2/6561375a-42cc-4ccb-aa9b-71298cef0d58_phone-1-1_copy.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/57/f4/bb57f420-ac2f-d39e-a76e-f58c470bcc04/4cd4e55b-7815-4586-8e2f-bd75207a2950_phone-1-2_copy.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/ec/56/1fec565d-ba6a-c7a7-ef33-ec54181d6c9a/36cce7c2-2ad6-4946-82eb-b4532b41cceb_phone-1-3_copy.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f2/db/c5f2dbdb-d300-5b19-e91e-14673911fea4/8baae691-6c1b-425f-86f9-2a3617b3fcea_phone-chonk-widget.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/f4/77/dbf47751-e7c4-4e13-f4da-eb292758e917/d7345edb-d5f1-463c-b739-8c12c0474b53_phone-chonk-notifications.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d0/9f/96d09fa8-0f20-7080-7647-5bc000c05667/3008cf4a-5ef1-4125-8b3b-46b3880b5849_phone-chonk-watch.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/05/87/0a0587ab-5731-d8b9-f1f9-fd039cc71ea2/728544ce-ef31-454c-8543-0bc30bc7df37_phone-chonk-forecast.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/08/e6/0d08e64e-8db5-d8c2-187f-bd93cb24d101/ac4a3cb0-ad9e-4d7b-b12d-4a718ec816ef_phone-chonk-customization.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/2a/80/e82a8080-7a3e-d007-6058-0056500347a9/0a17c586-f68b-428d-bfd0-b9a0b8806bc7_phone-chonk-station.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/b4/f9/42b4f9e5-790b-47d8-bd40-b6973119dd81/d20982a0-ae71-4dd2-a032-c9a062912ea1_phone-chonk-fun.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Water Reminder",
       "version": "1.10.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.vgfit.waterreminder_WaterReminder_1.10.0.ipa",
@@ -11736,32 +11762,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/f8/59/aff859fb-cc8a-0646-4e45-78ac38699103/EN___iPad_12.9_Display_screenshot_14.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/46/09/384609d2-d4fe-fda2-e5b6-b7b69c7b22ec/EN___iPad_12.9_Display_screenshot_12.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/41/66/55416652-bf9f-ddc4-d219-aaef30db2407/EN___iPad_12.9_Display_screenshot_15.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Breeze",
-      "version": "3.4.7",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.basenji.mood_Sideloadbypass2_3.4.7.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.basenji.mood",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/06/ba/4206ba97-dde3-1eb9-d6d9-58b273adffe3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nBreeze: Start Self-Discovery\n\nTweak: Subscription Unlocked\n\nVersion: 3.4.7\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.basenji.mood\nDeveloper: Basenji Apps",
-      "developer": "Basenji Apps",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/be/01/dabe01b9-d750-662c-bc17-b74a9f8aefc8/28417fc2-7f4a-4a8e-b82a-2a6a84c6446a_ip_8_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/9d/79/619d79af-e230-4377-14cc-1d5cfa55243e/1ae79baf-12b4-46b0-8af0-a1720af2fe97_ip_8_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/4f/6d/754f6dee-7d59-be9e-05b8-fc74554e8d4a/358fe3b2-350e-4274-81c0-67710ad4c57b_ip_8_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/3f/38/e53f3810-2a90-54fe-b4d0-f86f8cce3753/1e3dcc8f-c7a1-417d-9786-3f44c4cdc3e4_ip_8_4-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/31/17/07311754-a640-3b29-a652-0d49012d676b/e36bda1c-3e85-4618-8987-ac2b080bc8fe_ip_8_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/52/bc/8a52bc25-9ef5-60f1-db66-4cab7d4b9601/ff5e5f5c-e45e-4827-b956-f1887a074bbb_ip_8_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/a5/9b/5ca59b83-80c7-76eb-5953-bb5ae8d7de60/37d0622e-da3d-4ced-80dd-165ac234d66f_ip_8_6.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
