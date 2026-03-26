@@ -5,6 +5,68 @@
   },
   "data": [
     {
+      "name": "Rest",
+      "version": "3.178.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.evolve.helm_AutoRcSideload_3.178.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.evolve.helm",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/84/7c/5d847c81-a499-80bb-5ac7-fbc5e4e828c8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nRest: Fix Your Sleep For Good\n\n• Bundle ID: com.evolve.helm\n• Updated to: 3.178.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Evolve Global, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/85/59/a3855969-d4bf-efc1-fcfc-f7071309aebd/5.5_-_Slide_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/34/0e/03340ec1-a3e6-cd3f-52c1-245f97762b4d/5.5_-_Slide_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/05/32/7c053254-64a9-0be7-fea3-0f19a240f735/5.5_-_Slide_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/12/6c/2b126c17-f15c-c72e-c585-4504b188602f/5.5_-_Slide_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/53/8a/32538a55-34ba-0d84-f460-33c52bcfcd5e/5.5_-_Slide_7.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "VEED Captions",
+      "version": "8.9.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/io.veed.appstore_Sideloadbypass2_8.9.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "io.veed.appstore",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/6a/6d/a76a6d55-a043-c9e2-10bd-98c3f1b7a5f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nVEED - AI Captions and Shorts\n\nTweak: Premium Unlocked\n\nVersion: 8.9.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: io.veed.appstore\nDeveloper: VEED Ltd",
+      "developer": "VEED Ltd",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Cleanup",
+      "version": "6.12.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.codeway.cleanerplus_Cleanup_6.12.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.codeway.cleanerplus",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/6f/5a/8c6f5a36-3687-7de8-d3f9-cf94af9e891d/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nCleanup: Phone Storage Cleaner\n\n• Bundle ID: com.codeway.cleanerplus\n• Updated to: 6.12.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Unfold",
       "version": "8.156.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.moonlab.unfoldstories_AutoRcSideload_8.156.1.ipa",
@@ -1677,24 +1739,6 @@
       }
     },
     {
-      "name": "VEED Captions",
-      "version": "8.8.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/io.veed.appstore_VEED_8.8.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "io.veed.appstore",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/c4/21/8cc421c5-c84c-3dd3-bd9a-d24cb187c9f3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nVEED - Captions for videos\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "developer": "VEED Ltd",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "MyScript Notes",
       "version": "7.1.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.myscript.nebo_Sideloadbypass2_7.1.4.ipa",
@@ -2671,32 +2715,6 @@
       "description": "from @blatants |\n----------------\n• Bundle ID: net.whatsapp.WhatsApp\n• Updated to: 26.10.73\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Watusi 3 v1.3.1\n• Cracked by Anonymous\n• Note:\nLogin with any random account in watusi settings to unlock all the features or change watusi language from auto to english.\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "Unknown Developer",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Rest",
-      "version": "3.177.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.evolve.helm_AutoRcSideload_3.177.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.evolve.helm",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/84/7c/5d847c81-a499-80bb-5ac7-fbc5e4e828c8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nRest: Fix Your Sleep For Good\n\n• Bundle ID: com.evolve.helm\n• Updated to: 3.177.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Evolve Global, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/85/59/a3855969-d4bf-efc1-fcfc-f7071309aebd/5.5_-_Slide_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/34/0e/03340ec1-a3e6-cd3f-52c1-245f97762b4d/5.5_-_Slide_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/05/32/7c053254-64a9-0be7-fea3-0f19a240f735/5.5_-_Slide_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/12/6c/2b126c17-f15c-c72e-c585-4504b188602f/5.5_-_Slide_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/53/8a/32538a55-34ba-0d84-f460-33c52bcfcd5e/5.5_-_Slide_7.png/1320x2868bb.png"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -7706,24 +7724,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/ed/ea/09edea16-3157-018e-1d88-c8782b0dca15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "description": "from @blatants |\n----------------\nDictionary Air - English Vocab\n\n• Bundle ID: co.airapps.dictionary\n• Updated to: 2026.2.3\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page,\nRestart app if subscription isn't unlocked.\n\nッ Jailbreak Repo | ♡ Support",
       "developer": "Air Apps Systems",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Cleanup",
-      "version": "6.11.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.codeway.cleanerplus_Cleanup_6.11.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.codeway.cleanerplus",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/86/b6/e186b649-78ec-02da-5713-957e54b1f07c/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nCleanup: Phone Storage Cleaner\n\n• Bundle ID: com.codeway.cleanerplus\n• Updated to: 6.11.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
       "screenshots": [],
       "accentColor": {
         "light": {
