@@ -5,6 +5,153 @@
   },
   "data": [
     {
+      "name": "BEAT",
+      "version": "1.23.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/reels-maker-one_ReelsMakerPro_1.23.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "reels-maker-one",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/70/3f/82703fbc-3c0b-3dc0-725a-7e3f7c07eb58/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nReels Maker for Instagram・BEAT\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "developer": "Onelight Apps CY Ltd",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/8f/41/978f4112-cbb2-b3c1-d60b-8abf4253a9b9/c41f4e14-f986-4dbe-bba8-5c5a02ecab1a_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/9c/4f/5b9c4f62-0298-b7a2-5d84-9200f1e805de/f413b994-044d-410b-a523-6f7392a6e5f5_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/0e/50/8e0e509a-1ece-e978-52af-60f16565c881/8599b404-a799-4fae-a70f-7d63daf5cece_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/d5/be/79d5be7a-1370-7016-2695-915c1969c70b/91d51435-47c2-4dbc-90ef-de94b21a5552_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/c8/67/c6c86782-b4b2-3704-5d80-76ebfc56620d/d9f1d9ab-a9e5-4e2b-9f75-d210331701e0_05.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Osmosis",
+      "version": "6.0.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.osmose-it.osmosis_OsmosisPatch_6.0.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.osmose-it.osmosis",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7c/22/727c22e9-357f-53cc-f93a-6b9beef68d66/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nOsmosis: Medical School Notes\n\nFull Access\n\nTweak made by Никита\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "developer": "Knowledge Diffusion",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "SoundLab",
+      "version": "2.10.8",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.castpeer.audioroom.ios_SoundLab_2.10.8.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.castpeer.audioroom.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/73/3d/4b733d1e-9073-6c31-ce45-37134c17d119/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nAudio Editor - SoundLab\n\nPro features unlocked\n\nTweak made by blatant\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
+      "developer": "孛 刘",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/52/83/a652835b-b792-4f73-554f-ba5f862e6519/7b4b776d-48d9-4dbb-bf6d-961f373def76_guide2208_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/92/10/d39210a0-beb8-014a-da82-fcc64b6a1c15/69d3a51e-d7de-4cf8-92a7-a72d2aac193c_guide2208_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/31/6a/f7316a44-e329-b1bd-9a6e-9497a8ef0bfa/203ea48d-03be-44ae-aafe-98d546495ff4_guide2208_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/65/de/e765de9d-7c46-94c2-6111-9743a9505f04/081dce2f-f19b-4e18-b5f6-6adfaec00544_guide2208_06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/99/7f/2e997f2a-70bf-d8f9-4c6e-fbf7caf79b3e/56d5044a-fe3a-4332-b737-80c45e88989e_guide2208_07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/ba/d6/d6bad60f-c2b0-1d24-f97e-14737a5e737c/1d6f232e-75a9-494f-b287-a0370e902c2c_guide2208_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/c8/0b/ddc80be8-f1a5-513c-7706-89b42e1d724d/389a1ac3-84a4-4405-a371-30f3f628cea6_guide2208_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/f0/a6/69f0a6f0-2c5c-33e1-5cf1-395718629839/215797ac-a225-405d-ba2c-353119155393_guide2208_08.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "VEED Captions",
+      "version": "8.9.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/io.veed.appstore_VEED_8.9.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "io.veed.appstore",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/6a/6d/a76a6d55-a043-c9e2-10bd-98c3f1b7a5f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nVEED - Captions for videos\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "developer": "VEED Ltd",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "UpNote",
+      "version": "9.18.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.getupnote.ios_UpNote_9.18.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.getupnote.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/9b/ea/b89bea25-60b4-b3b9-9713-a482f783f168/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nUpNote - notes, diary, journal\n\n• Bundle ID: com.getupnote.ios\n• Updated to: 9.18.0\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart the app if subscription is not active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "UpNote Company Limited",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/2b/0a/d52b0a40-c84d-61dd-37c3-9c943c660677/d0ddf798-add0-4bfe-879c-357f97af258f_iphone-1-min.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/6a/57/596a5789-9875-eac3-05d2-9e36421403ff/89419369-3352-49c0-a176-33e52d6305c0_iphone-2-min.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/17/66/211766fc-f600-fa36-d3d6-e333c71d901f/35485d05-942f-48a9-b42a-ba13381f1dd9_iphone-3-min.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1d/e6/ef/1de6ef50-ea78-866b-a62b-8ac177b9cbe6/ddce7622-3ae7-472d-bb9f-5867eea772fb_iphone-4-min.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/58/92/bd58929b-d6f8-2181-3f4d-a12cf2d235a9/231f6304-84ec-4bcd-8960-58dcad8171d4_iphone-5-min.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Livity",
+      "version": "4.4.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.app-livity_Sideloadbypass2_4.4.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.app-livity",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/61/83/5f618358-3691-b4d4-2c26-ff3f9200314c/fitnessIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nLivity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.app-livity\nDeveloper: Martynas Narijauskas",
+      "developer": "Martynas Narijauskas",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Locket",
+      "version": "2.39.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.locket.Locket_AutoRcSideload_2.39.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.locket.Locket",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/5a/93/575a93e2-056b-4522-9fb9-cc53b13a0457/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.39.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Locket Labs, Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Bend",
       "version": "7.3.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.bowery-digital.bend_Sideloadbypass2_7.3.1.ipa",
@@ -142,30 +289,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/1f/41/3d1f4127-3cbb-af2c-8b20-fd9c40a7904d/iPad_01-5.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/34/fd/7d34fd73-6b15-c8d1-fff9-e66a4a86c63b/iPad_01-3.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/0d/76/800d76f9-8c3e-8654-abd1-4a6942bc9748/iPad_01-4.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "BEAT",
-      "version": "1.23.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/reels-maker-one_BEAT_1.23.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "reels-maker-one",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/70/3f/82703fbc-3c0b-3dc0-725a-7e3f7c07eb58/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nReels Maker for Instagram BEAT\n\n• Bundle ID: reels-maker-one\n• Updated to: 1.23.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Onelight Apps CY Ltd",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/8f/41/978f4112-cbb2-b3c1-d60b-8abf4253a9b9/c41f4e14-f986-4dbe-bba8-5c5a02ecab1a_01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/9c/4f/5b9c4f62-0298-b7a2-5d84-9200f1e805de/f413b994-044d-410b-a523-6f7392a6e5f5_02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/0e/50/8e0e509a-1ece-e978-52af-60f16565c881/8599b404-a799-4fae-a70f-7d63daf5cece_03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/d5/be/79d5be7a-1370-7016-2695-915c1969c70b/91d51435-47c2-4dbc-90ef-de94b21a5552_04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/c8/67/c6c86782-b4b2-3704-5d80-76ebfc56620d/d9f1d9ab-a9e5-4e2b-9f75-d210331701e0_05.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -343,24 +466,6 @@
       }
     },
     {
-      "name": "Livity",
-      "version": "4.4.5",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.app-livity_Sideloadbypass2_4.4.5.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.app-livity",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/45/69/f34569ea-3a7b-f919-4052-d6a610f9f1e9/fitnessIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nLivity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.app-livity\nDeveloper: Martynas Narijauskas",
-      "developer": "Martynas Narijauskas",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Fitia",
       "version": "22.3.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.ulisesolave.Fitia_Fitia_22.3.4.ipa",
@@ -494,24 +599,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "VEED Captions",
-      "version": "8.9.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/io.veed.appstore_AutoRcSideload_8.9.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "io.veed.appstore",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/6a/6d/a76a6d55-a043-c9e2-10bd-98c3f1b7a5f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nVEED Shorts: AI videos\n\n• Bundle ID: io.veed.appstore\n• Updated to: 8.9.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "VEED Ltd",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -2339,24 +2426,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/a5/07/d2a50790-ba97-119a-a413-1cdfda676a2a/6a1c4204-9497-453f-91f6-05d0f7596a5f_06.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/08/ae/6308ae63-4f52-c24c-470f-51f4f24a4296/bcbbf85b-7b28-48b8-a3da-aec687d4938c_07.png/1320x2868bb.png"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Locket",
-      "version": "2.38.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.locket.Locket_AutoRcSideload_2.38.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.locket.Locket",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/ea/cd/61eacda3-a438-ff8f-c556-74d3a720f35b/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.38.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Locket Labs, Inc.",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -5087,30 +5156,6 @@
       }
     },
     {
-      "name": "UpNote",
-      "version": "9.17.7",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.getupnote.ios_UpNote_9.17.7.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.getupnote.ios",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/9b/ea/b89bea25-60b4-b3b9-9713-a482f783f168/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nUpNote - notes, diary, journal\n\n• Bundle ID: com.getupnote.ios\n• Updated to: 9.17.7\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart the app if subscription is not active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "UpNote Company Limited",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/2b/0a/d52b0a40-c84d-61dd-37c3-9c943c660677/d0ddf798-add0-4bfe-879c-357f97af258f_iphone-1-min.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/6a/57/596a5789-9875-eac3-05d2-9e36421403ff/89419369-3352-49c0-a176-33e52d6305c0_iphone-2-min.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/17/66/211766fc-f600-fa36-d3d6-e333c71d901f/35485d05-942f-48a9-b42a-ba13381f1dd9_iphone-3-min.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1d/e6/ef/1de6ef50-ea78-866b-a62b-8ac177b9cbe6/ddce7622-3ae7-472d-bb9f-5867eea772fb_iphone-4-min.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/58/92/bd58929b-d6f8-2181-3f4d-a12cf2d235a9/231f6304-84ec-4bcd-8960-58dcad8171d4_iphone-5-min.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "TikTok (VibeTok)",
       "version": "44.2.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.zhiliaoapp.musically_sideloadKeychainfixBlatants_44.2.0.ipa",
@@ -7367,33 +7412,6 @@
       }
     },
     {
-      "name": "SoundLab",
-      "version": "2.10.6",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.castpeer.audioroom.ios_SoundLab_2.10.6.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.castpeer.audioroom.ios",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/73/3d/4b733d1e-9073-6c31-ce45-37134c17d119/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nAudio Editor - SoundLab\n\nPro features unlocked\n\nTweak made by blatant\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
-      "developer": "孛 刘",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/52/83/a652835b-b792-4f73-554f-ba5f862e6519/7b4b776d-48d9-4dbb-bf6d-961f373def76_guide2208_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/92/10/d39210a0-beb8-014a-da82-fcc64b6a1c15/69d3a51e-d7de-4cf8-92a7-a72d2aac193c_guide2208_04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/31/6a/f7316a44-e329-b1bd-9a6e-9497a8ef0bfa/203ea48d-03be-44ae-aafe-98d546495ff4_guide2208_05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/65/de/e765de9d-7c46-94c2-6111-9743a9505f04/081dce2f-f19b-4e18-b5f6-6adfaec00544_guide2208_06.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/99/7f/2e997f2a-70bf-d8f9-4c6e-fbf7caf79b3e/56d5044a-fe3a-4332-b737-80c45e88989e_guide2208_07.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/ba/d6/d6bad60f-c2b0-1d24-f97e-14737a5e737c/1d6f232e-75a9-494f-b287-a0370e902c2c_guide2208_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/c8/0b/ddc80be8-f1a5-513c-7706-89b42e1d724d/389a1ac3-84a4-4405-a371-30f3f628cea6_guide2208_03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/f0/a6/69f0a6f0-2c5c-33e1-5cf1-395718629839/215797ac-a225-405d-ba2c-353119155393_guide2208_08.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "No Fusion",
       "version": "2.5.51",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.grey.swiftcamera_NoFusionPowerfulProCamPatch_2.5.51.ipa",
@@ -7909,24 +7927,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/da/c1/0ddac130-5971-f00a-2750-db47d22cb28c/07_Nursing_ipad.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/3a/99/7d3a99c7-866b-73e3-d44a-c4e9f1caef7b/09_Nursing_ipad.png/1320x2868bb.jpg"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Osmosis",
-      "version": "6.0.3",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.osmose-it.osmosis_OsmosisMedical_6.0.3.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.osmose-it.osmosis",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/14/7d/a2147d90-a4b0-12ad-3ed9-6e211495d60f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nOsmosis: Medical School Notes\n\n• Bundle ID: com.osmose-it.osmosis\n• Updated to: 6.0.3\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Knowledge Diffusion",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
