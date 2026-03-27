@@ -6817,7 +6817,7 @@
       "bundleIdentifier": "com.getupnote.ios",
       "developerName": "UpNote Company Limited",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/9b/ea/b89bea25-60b4-b3b9-9713-a482f783f168/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nUpNote - notes, diary, journal\n\n• Bundle ID: com.getupnote.ios\n• Updated to: 9.17.7\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart the app if subscription is not active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nUpNote - notes, diary, journal\n\n• Bundle ID: com.getupnote.ios\n• Updated to: 9.18.0\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart the app if subscription is not active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/2b/0a/d52b0a40-c84d-61dd-37c3-9c943c660677/d0ddf798-add0-4bfe-879c-357f97af258f_iphone-1-min.png/1320x2868bb.png"
@@ -6844,16 +6844,16 @@
       ],
       "versions": [
         {
+          "version": "9.18.0",
+          "date": "2026-03-27",
+          "size": 52197541,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.getupnote.ios_UpNote_9.18.0.ipa"
+        },
+        {
           "version": "9.17.7",
           "date": "2026-03-14",
           "size": 52175884,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.getupnote.ios_UpNote_9.17.7.ipa"
-        },
-        {
-          "version": "9.17.4",
-          "date": "2026-03-11",
-          "size": 52609009,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.getupnote.ios_UpNote_9.17.4.ipa"
         },
         {
           "version": "9.17.3",
@@ -6863,10 +6863,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.17.7",
-      "versionDate": "2026-03-14T17:01:45.157Z",
-      "size": 52175884,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.getupnote.ios_UpNote_9.17.7.ipa"
+      "version": "9.18.0",
+      "versionDate": "2026-03-27T22:00:25.581Z",
+      "size": 52197541,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.getupnote.ios_UpNote_9.18.0.ipa"
     },
     {
       "name": "Voloco",
@@ -7853,15 +7853,15 @@
       "bundleIdentifier": "io.veed.appstore",
       "developerName": "VEED Ltd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/6a/6d/a76a6d55-a043-c9e2-10bd-98c3f1b7a5f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nVEED Shorts: AI videos\n\n• Bundle ID: io.veed.appstore\n• Updated to: 8.9.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nVEED - Captions for videos\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
         {
           "version": "8.9.0",
-          "date": "2026-03-26",
-          "size": 149499595,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/io.veed.appstore_AutoRcSideload_8.9.0.ipa"
+          "date": "2026-03-27",
+          "size": 138830084,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/io.veed.appstore_VEED_8.9.0.ipa"
         },
         {
           "version": "8.8.0",
@@ -7878,9 +7878,9 @@
       ],
       "appPermissions": {},
       "version": "8.9.0",
-      "versionDate": "2026-03-26T16:00:57.440Z",
-      "size": 149499595,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/io.veed.appstore_AutoRcSideload_8.9.0.ipa"
+      "versionDate": "2026-03-27T22:00:44.524Z",
+      "size": 138830084,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/io.veed.appstore_VEED_8.9.0.ipa"
     },
     {
       "name": "Fitbod",
@@ -11788,6 +11788,34 @@
     },
     {
       "name": "Osmosis",
+      "bundleIdentifier": "com.osmose-it.osmosis",
+      "developerName": "Knowledge Diffusion",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7c/22/727c22e9-357f-53cc-f93a-6b9beef68d66/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nOsmosis: Medical School Notes\n\nFull Access\n\nTweak made by Никита\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "6.0.4",
+          "date": "2026-03-27",
+          "size": 25352711,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.osmose-it.osmosis_OsmosisPatch_6.0.4.ipa"
+        },
+        {
+          "version": "6.0.3",
+          "date": "2026-03-12",
+          "size": 27046944,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.osmose-it.osmosis_OsmosisMedical_6.0.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.0.4",
+      "versionDate": "2026-03-27T22:01:05.784Z",
+      "size": 25352711,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.osmose-it.osmosis_OsmosisPatch_6.0.4.ipa"
+    },
+    {
+      "name": "Osmosis",
       "bundleIdentifier": "com.osmose-it.nursing",
       "developerName": "Knowledge Diffusion",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/77/fb/2777fbcd-8867-40db-23c1-cb0fb8da9f2d/NursingAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
@@ -11841,28 +11869,6 @@
       "versionDate": "2026-03-12T07:38:13.430Z",
       "size": 27085176,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.osmose-it.nursing_OsmosisNursing_6.0.3.ipa"
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "Knowledge Diffusion",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/14/7d/a2147d90-a4b0-12ad-3ed9-6e211495d60f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nOsmosis: Medical School Notes\n\n• Bundle ID: com.osmose-it.osmosis\n• Updated to: 6.0.3\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "6.0.3",
-          "date": "2026-03-12",
-          "size": 27046944,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.osmose-it.osmosis_OsmosisMedical_6.0.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "6.0.3",
-      "versionDate": "2026-03-12T07:38:07.838Z",
-      "size": 27046944,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.osmose-it.osmosis_OsmosisMedical_6.0.3.ipa"
     },
     {
       "name": "rPlayer",
@@ -15717,6 +15723,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.hubx.imagination_DaVinci_4.4.8.ipa"
     },
     {
+      "name": "Livity",
+      "bundleIdentifier": "com.app-livity",
+      "developerName": "Martynas Narijauskas",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/61/83/5f618358-3691-b4d4-2c26-ff3f9200314c/fitnessIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLivity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.app-livity\nDeveloper: Martynas Narijauskas",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.4.6",
+          "date": "2026-03-27",
+          "size": 84644996,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.app-livity_Sideloadbypass2_4.4.6.ipa"
+        },
+        {
+          "version": "4.4.5",
+          "date": "2026-03-26",
+          "size": 84644354,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.app-livity_Sideloadbypass2_4.4.5.ipa"
+        },
+        {
+          "version": "4.4.4",
+          "date": "2026-03-25",
+          "size": 84577365,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.app-livity_Sideloadbypass2_4.4.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.4.6",
+      "versionDate": "2026-03-27T19:00:59.973Z",
+      "size": 84644996,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.app-livity_Sideloadbypass2_4.4.6.ipa"
+    },
+    {
       "name": "Structured",
       "bundleIdentifier": "com.leomehlig.today",
       "developerName": "unorderly GmbH",
@@ -15743,40 +15783,6 @@
       "versionDate": "2026-03-16T22:34:44.670Z",
       "size": 123042868,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.leomehlig.today_StructuredPro_4.4.6.ipa"
-    },
-    {
-      "name": "Livity",
-      "bundleIdentifier": "com.app-livity",
-      "developerName": "Martynas Narijauskas",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/45/69/f34569ea-3a7b-f919-4052-d6a610f9f1e9/fitnessIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nLivity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.app-livity\nDeveloper: Martynas Narijauskas",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.4.5",
-          "date": "2026-03-26",
-          "size": 84644354,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.app-livity_Sideloadbypass2_4.4.5.ipa"
-        },
-        {
-          "version": "4.4.4",
-          "date": "2026-03-25",
-          "size": 84577365,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.app-livity_Sideloadbypass2_4.4.4.ipa"
-        },
-        {
-          "version": "4.4.3",
-          "date": "2026-03-24",
-          "size": 83202852,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.app-livity_Sideloadbypass2_4.4.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.4.5",
-      "versionDate": "2026-03-26T19:00:35.878Z",
-      "size": 84644354,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.app-livity_Sideloadbypass2_4.4.5.ipa"
     },
     {
       "name": "Shopping List",
@@ -20462,22 +20468,22 @@
       "name": "Locket",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/ea/cd/61eacda3-a438-ff8f-c556-74d3a720f35b/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.38.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/5a/93/575a93e2-056b-4522-9fb9-cc53b13a0457/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.39.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.39.0",
+          "date": "2026-03-27",
+          "size": 331303443,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.locket.Locket_AutoRcSideload_2.39.0.ipa"
+        },
         {
           "version": "2.38.0",
           "date": "2026-03-20",
           "size": 343258800,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.locket.Locket_AutoRcSideload_2.38.0.ipa"
-        },
-        {
-          "version": "2.36.0",
-          "date": "2026-03-11",
-          "size": 343112225,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.locket.Locket_AutoRcSideload_2.36.0.ipa"
         },
         {
           "version": "2.34.0",
@@ -20487,10 +20493,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.38.0",
-      "versionDate": "2026-03-20T23:35:16.518Z",
-      "size": 343258800,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.locket.Locket_AutoRcSideload_2.38.0.ipa"
+      "version": "2.39.0",
+      "versionDate": "2026-03-27T19:00:47.021Z",
+      "size": 331303443,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.locket.Locket_AutoRcSideload_2.39.0.ipa"
     },
     {
       "name": "TravelBoast",
@@ -21180,6 +21186,12 @@
       ],
       "versions": [
         {
+          "version": "2.10.8",
+          "date": "2026-03-27",
+          "size": 127892433,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.castpeer.audioroom.ios_SoundLab_2.10.8.ipa"
+        },
+        {
           "version": "2.10.6",
           "date": "2026-03-11",
           "size": 130026802,
@@ -21193,10 +21205,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.10.6",
-      "versionDate": "2026-03-11T11:30:46.726Z",
-      "size": 130026802,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.castpeer.audioroom.ios_SoundLab_2.10.6.ipa"
+      "version": "2.10.8",
+      "versionDate": "2026-03-27T22:01:00.226Z",
+      "size": 127892433,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.castpeer.audioroom.ios_SoundLab_2.10.8.ipa"
     },
     {
       "name": "Peachy",
@@ -24059,7 +24071,7 @@
       "bundleIdentifier": "reels-maker-one",
       "developerName": "Onelight Apps CY Ltd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/70/3f/82703fbc-3c0b-3dc0-725a-7e3f7c07eb58/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nReels Maker for Instagram BEAT\n\n• Bundle ID: reels-maker-one\n• Updated to: 1.23.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nReels Maker for Instagram・BEAT\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/8f/41/978f4112-cbb2-b3c1-d60b-8abf4253a9b9/c41f4e14-f986-4dbe-bba8-5c5a02ecab1a_01.jpg/1320x2868bb.jpg"
@@ -24088,15 +24100,15 @@
         {
           "version": "1.23.0",
           "date": "2026-03-27",
-          "size": 146410916,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/reels-maker-one_BEAT_1.23.0.ipa"
+          "size": 140545773,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/reels-maker-one_ReelsMakerPro_1.23.0.ipa"
         }
       ],
       "appPermissions": {},
       "version": "1.23.0",
-      "versionDate": "2026-03-27T10:00:30.298Z",
-      "size": 146410916,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/reels-maker-one_BEAT_1.23.0.ipa"
+      "versionDate": "2026-03-27T22:01:22.396Z",
+      "size": 140545773,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/reels-maker-one_ReelsMakerPro_1.23.0.ipa"
     },
     {
       "name": "Plague Inc.",
