@@ -2133,7 +2133,7 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/af/12/9caf1214-1f7d-bdbb-d37e-0487be5ebba0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 29.5.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 29.6.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/66/66/5a666623-8ff4-0c41-0f98-22c3795926c1/5.Collage___iPhone_6.5.jpg/1320x2868bb.webp"
@@ -2208,16 +2208,16 @@
       ],
       "versions": [
         {
+          "version": "29.6.4",
+          "date": "2026-03-28",
+          "size": 110031810,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.picsart.studio_Picsart_29.6.4.ipa"
+        },
+        {
           "version": "29.5.2",
           "date": "2026-03-22",
           "size": 108843697,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.picsart.studio_Picsart_29.5.2.ipa"
-        },
-        {
-          "version": "29.4.2",
-          "date": "2026-03-12",
-          "size": 99714977,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.picsart.studio_Picsart_29.4.2.ipa"
         },
         {
           "version": "29.4.1",
@@ -2227,10 +2227,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "29.5.2",
-      "versionDate": "2026-03-22T21:42:39.833Z",
-      "size": 108843697,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.picsart.studio_Picsart_29.5.2.ipa"
+      "version": "29.6.4",
+      "versionDate": "2026-03-28T13:00:55.353Z",
+      "size": 110031810,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.picsart.studio_Picsart_29.6.4.ipa"
     },
     {
       "name": "Twitch",
@@ -3744,11 +3744,17 @@
       "name": "Fitia",
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/2a/7e/c32a7e0e-0b86-88c9-daa0-a6180da92a55/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 22.3.4\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/fe/2d/76fe2d7a-5988-52b6-e76a-871df1366886/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 22.3.5\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "22.3.5",
+          "date": "2026-03-28",
+          "size": 101881509,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.ulisesolave.Fitia_Fitia_22.3.5.ipa"
+        },
         {
           "version": "22.3.4",
           "date": "2026-03-26",
@@ -3760,19 +3766,13 @@
           "date": "2026-03-21",
           "size": 101567294,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.ulisesolave.Fitia_Fitia_22.3.2.ipa"
-        },
-        {
-          "version": "22.3.1",
-          "date": "2026-03-20",
-          "size": 101371918,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.ulisesolave.Fitia_Fitia_22.3.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "22.3.4",
-      "versionDate": "2026-03-26T19:00:21.789Z",
-      "size": 101879099,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.ulisesolave.Fitia_Fitia_22.3.4.ipa"
+      "version": "22.3.5",
+      "versionDate": "2026-03-28T13:00:39.860Z",
+      "size": 101881509,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.ulisesolave.Fitia_Fitia_22.3.5.ipa"
     },
     {
       "name": "YouTube",
@@ -9209,6 +9209,42 @@
       "versionDate": "2026-03-11T07:51:16.009Z",
       "size": 38069614,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.leapingcoyote.rungo_RunGo_7.2.5.ipa"
+    },
+    {
+      "name": "Tide Guide",
+      "bundleIdentifier": "com.condor.digital.Tide-Over",
+      "developerName": "Condor Digital",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/2a/28/f82a28b2-3ab4-9318-b7d5-4981d666fa53/AppIcon_2-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTide Guide: Charts & Tables\n\nTweak: Pro Unlocked\n\nVersion: 7.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.condor.digital.Tide-Over\nDeveloper: Condor Digital",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/2f/80/bf2f80e7-3b83-a0a2-2333-04703f95a9be/iPad_-_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/3b/7c/413b7cca-cc47-815c-61ee-67c500c47f92/iPad_-_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/60/be/4a60be3b-eb91-b50d-2a33-825146175051/iPad_-_3.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/2f/80/bf2f80e7-3b83-a0a2-2333-04703f95a9be/iPad_-_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/3b/7c/413b7cca-cc47-815c-61ee-67c500c47f92/iPad_-_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/60/be/4a60be3b-eb91-b50d-2a33-825146175051/iPad_-_3.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "7.2",
+          "date": "2026-03-28",
+          "size": 94067063,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.condor.digital.Tide-Over_Sideloadbypass2_7.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "7.2",
+      "versionDate": "2026-03-28T16:00:51.695Z",
+      "size": 94067063,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.condor.digital.Tide-Over_Sideloadbypass2_7.2.ipa"
     },
     {
       "name": "Adobe Fresco",
