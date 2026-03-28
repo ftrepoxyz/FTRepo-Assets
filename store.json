@@ -274,22 +274,22 @@
       "name": "Slopes",
       "bundleIdentifier": "com.consumedbycode.slopes",
       "developerName": "Breakpoint Studio LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/e9/f6/51e9f609-d478-997b-c008-dfca2adb199b/AppIcon-release-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSlopes: Ski & Snowboard\n\n• Bundle ID: com.consumedbycode.slopes\n• Updated to: 2026.8\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin to activate\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d7/21/9ad72158-82b1-c3f3-d27e-61d599bcda86/AppIcon-release-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSlopes: Ski & Snowboard\n\n• Bundle ID: com.consumedbycode.slopes\n• Updated to: 2026.10\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin to activate\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2026.10",
+          "date": "2026-03-28",
+          "size": 89002420,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.consumedbycode.slopes_sideloadKeychainfix_2026.10.ipa"
+        },
         {
           "version": "2026.8",
           "date": "2026-03-16",
           "size": 89435988,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.consumedbycode.slopes_sideloadKeychainfix_2026.8.ipa"
-        },
-        {
-          "version": "2026.7",
-          "date": "2026-03-11",
-          "size": 88921403,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.consumedbycode.slopes_Slopes_2026.7.ipa"
         },
         {
           "version": "2026.6",
@@ -299,10 +299,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2026.8",
-      "versionDate": "2026-03-16T03:03:10.333Z",
-      "size": 89435988,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.consumedbycode.slopes_sideloadKeychainfix_2026.8.ipa"
+      "version": "2026.10",
+      "versionDate": "2026-03-28T22:01:18.126Z",
+      "size": 89002420,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.consumedbycode.slopes_sideloadKeychainfix_2026.10.ipa"
     },
     {
       "name": "stoic.",
@@ -9735,7 +9735,7 @@
       "bundleIdentifier": "com.napper",
       "developerName": "Napper AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/4e/c8/744ec81a-3cbc-9303-f6db-57a92627b8eb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nNapper: Baby Sleep Tracker\n\nTweak: Premium Unlocked\n\nVersion: 6.39.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.napper\nDeveloper: Napper AB",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nNapper: Baby Sleep Tracker\n\nTweak: Premium Unlocked\n\nVersion: 6.41.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.napper\nDeveloper: Napper AB",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/ce/c4/14cec484-2e2f-e37e-1d54-bb1852643d77/e89fc735-9443-4475-ac9d-dd40dbc28b19_en-2-1.png/1320x2868bb.png"
@@ -9770,6 +9770,12 @@
       ],
       "versions": [
         {
+          "version": "6.41.5",
+          "date": "2026-03-28",
+          "size": 32500354,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.napper_Sideloadbypass2_6.41.5.ipa"
+        },
+        {
           "version": "6.39.0",
           "date": "2026-03-11",
           "size": 31299119,
@@ -9777,10 +9783,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.39.0",
-      "versionDate": "2026-03-11T13:41:30.666Z",
-      "size": 31299119,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.napper_Sideloadbypass2_6.39.0.ipa"
+      "version": "6.41.5",
+      "versionDate": "2026-03-28T22:01:25.270Z",
+      "size": 32500354,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.napper_Sideloadbypass2_6.41.5.ipa"
     },
     {
       "name": "Sleep Cycle",
@@ -17155,7 +17161,7 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/ab/ca/6babca83-38e3-b5f1-2550-dbe952de15b6/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.36\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.40\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/26/08/fe2608eb-a316-8167-35f3-59ffcb02d374/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_01.jpg/1320x2868bb.webp"
@@ -17186,6 +17192,12 @@
       ],
       "versions": [
         {
+          "version": "3.9.40",
+          "date": "2026-03-28",
+          "size": 270744139,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.40.ipa"
+        },
+        {
           "version": "3.9.36",
           "date": "2026-03-17",
           "size": 269441794,
@@ -17196,19 +17208,13 @@
           "date": "2026-03-16",
           "size": 269330722,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.35.ipa"
-        },
-        {
-          "version": "3.9.34",
-          "date": "2026-03-13",
-          "size": 269337383,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.34.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.9.36",
-      "versionDate": "2026-03-17T23:35:11.612Z",
-      "size": 269441794,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.36.ipa"
+      "version": "3.9.40",
+      "versionDate": "2026-03-28T19:00:49.534Z",
+      "size": 270744139,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.40.ipa"
     },
     {
       "name": "Beelinguapp",
