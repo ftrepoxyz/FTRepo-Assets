@@ -5,6 +5,89 @@
   },
   "data": [
     {
+      "name": "Picsart",
+      "version": "29.6.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.picsart.studio_Picsart_29.6.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.picsart.studio",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/af/12/9caf1214-1f7d-bdbb-d37e-0487be5ebba0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nPicsart AI Photo Video Editor\n\nPro features unlocked\n\n⚠️ AI is NOT unlocked!\n\nTweak made by blatant\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "PicsArt, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/66/66/5a666623-8ff4-0c41-0f98-22c3795926c1/5.Collage___iPhone_6.5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/17/b6/a617b61d-d45e-3f22-b0f6-1aa4450b8962/9._Fonts___iPhone_6.5_.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/cd/3d/8ccd3d38-fb9e-b20b-e972-ec5165fda233/10._Stickers___iPhone_6.5_.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/4c/16/954c1663-ad3a-2090-72a0-3011dd4ac6b1/1._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/bd/1a/f0bd1abd-5bbf-fe7d-8625-44dd72c20244/2._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/59/1f/4b591fa1-6683-ebb8-b36b-d53d56e029f4/3._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/67/90/b4679076-7fee-0b7a-117f-837c2fca1ef6/4._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/44/9e/84449e33-87b2-9b9d-8139-96dd5d15cbad/5.Collage_-_iPad_12.9_.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/b4/88/23b4887a-82e9-c010-167c-b2a7d3e13525/6._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/5b/58/eb5b58e7-000f-4621-40d0-edeb8f82effa/7._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/27/37/dd273753-4b86-8059-0c81-0a09d8cdfbc7/8._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/a6/dc/90a6dc86-a294-1c60-2741-73d0a45732d5/9._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/31/1d/b9311def-0d4a-fdfe-8767-d4ba5003fce5/10._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/94/e0/b494e0b6-c4a3-63ed-cfee-66980377c4b3/1._iMessage_screen.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/9c/9f/629c9fec-e6c1-563f-8216-b5b7e26e7223/2.iMessage_screen.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/6b/b0/b66bb029-2411-d8b8-d76a-c554027c9af2/3.iMessage_screen.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/4d/81/eb4d81b2-578e-ff1b-f3c7-71c8c303a50f/4.iMessage_screen.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "NB v66.293",
+      "version": "66.293",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/nt.nb.ios_W_66.293.ipa",
+      "category": "Tweaked",
+      "bundleID": "nt.nb.ios",
+      "icon": "",
+      "description": "from @binnichtaktivsipas |\n----------------\nNull's Brawl\n\nNull's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.\n\nMinimum OS version 14.0\n\nApp is not in the AppStore | Donate",
+      "developer": "Unknown Developer",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Busuu",
+      "version": "30.7.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.busuu.english.app_BusuuLanguageLearning_30.7.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.busuu.english.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ea/d0/e2ead0bf-df0e-910d-45ea-3f462d1af66f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.7.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Busuu Limited",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/54/38/a9543848-fca6-3f4d-a5bf-e199e1fde343/6e7682ab-be8e-47f7-8625-5dd7b3522eea_iOS-5.5-EN-Study.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f1/3b/7cf13bf1-f124-b61b-ff05-c2c6ac53a916/8c90811e-d211-4779-a398-5ce4e6b3fac6_iOS-5.5-EN-Progress.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/72/27/2f72279a-8ce8-8ed7-c5be-1a50db691694/4c37ae21-0153-415a-85ff-10234469556c_iOS-5.5-EN-Help.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c3/f2/d6c3f2fe-9f01-c422-ee55-816d198e1bee/4a54ca61-9dfc-4554-b881-2f88a3a284a1_iOS-5.5-EN-OnTrack.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/d7/be/9ad7be12-835b-67b7-2d2e-960649d573e0/c094e9d8-87f5-48e6-9e69-3882fc2c9c26_iOS-5.5-EN-ShareTips.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7d/4f/f87d4fb8-58c2-2245-99aa-ccded195513d/289aa46a-a68f-4bc2-bd17-5ac2bb4e3590_iOS-5.5-EN-Phrases.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/b6/0d/46b60db6-0486-bae9-11c8-beec18301fb0/e7325a90-8a4d-4400-b224-52161048688f_iOS-5.5-EN-SetGoals.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/10/6f/03106f42-f11a-7b8d-bc02-8a074bae7874/ebae4e0f-7a87-4e3f-8f69-1823ad7f953a_EN-iOS_EN_5.5__US_Growth_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e3/34/67e3349b-128d-6484-5126-cfd6487063c4/72b900e3-96a3-4aae-bc1a-500e851f5fd7_EN-iOS_EN_5.5__US_Growth_08.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "MoneyCoach",
       "version": "11.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.duuro.moneyCoach_Sideloadbypass2_11.3.ipa",
@@ -278,42 +361,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/2f/80/bf2f80e7-3b83-a0a2-2333-04703f95a9be/iPad_-_1.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/3b/7c/413b7cca-cc47-815c-61ee-67c500c47f92/iPad_-_2.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/60/be/4a60be3b-eb91-b50d-2a33-825146175051/iPad_-_3.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Picsart",
-      "version": "29.6.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.picsart.studio_Picsart_29.6.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.picsart.studio",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/af/12/9caf1214-1f7d-bdbb-d37e-0487be5ebba0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 29.6.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "PicsArt, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/66/66/5a666623-8ff4-0c41-0f98-22c3795926c1/5.Collage___iPhone_6.5.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/17/b6/a617b61d-d45e-3f22-b0f6-1aa4450b8962/9._Fonts___iPhone_6.5_.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/cd/3d/8ccd3d38-fb9e-b20b-e972-ec5165fda233/10._Stickers___iPhone_6.5_.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/4c/16/954c1663-ad3a-2090-72a0-3011dd4ac6b1/1._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/bd/1a/f0bd1abd-5bbf-fe7d-8625-44dd72c20244/2._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/59/1f/4b591fa1-6683-ebb8-b36b-d53d56e029f4/3._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/67/90/b4679076-7fee-0b7a-117f-837c2fca1ef6/4._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/44/9e/84449e33-87b2-9b9d-8139-96dd5d15cbad/5.Collage_-_iPad_12.9_.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/b4/88/23b4887a-82e9-c010-167c-b2a7d3e13525/6._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/5b/58/eb5b58e7-000f-4621-40d0-edeb8f82effa/7._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/27/37/dd273753-4b86-8059-0c81-0a09d8cdfbc7/8._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/a6/dc/90a6dc86-a294-1c60-2741-73d0a45732d5/9._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/31/1d/b9311def-0d4a-fdfe-8767-d4ba5003fce5/10._iPad_12.9_U201d.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/94/e0/b494e0b6-c4a3-63ed-cfee-66980377c4b3/1._iMessage_screen.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/9c/9f/629c9fec-e6c1-563f-8216-b5b7e26e7223/2.iMessage_screen.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/6b/b0/b66bb029-2411-d8b8-d76a-c554027c9af2/3.iMessage_screen.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/4d/81/eb4d81b2-578e-ff1b-f3c7-71c8c303a50f/4.iMessage_screen.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -5047,35 +5094,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/72/f5/7672f52e-e13c-6c7b-2ea2-65311cb10d4d/06_iOS_Notes.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/12/f44612f2-5bba-2767-14f1-9246171b27f7/07_iOS_CtWA.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/d0/3b/21d03b3f-0fd4-8a16-1e5f-2bdbbe9a624f/08_iOS_Chat.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Busuu",
-      "version": "30.5.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.busuu.english.app_BusuuLanguageLearning_30.5.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.busuu.english.app",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ea/d0/e2ead0bf-df0e-910d-45ea-3f462d1af66f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.5.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Busuu Limited",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/54/38/a9543848-fca6-3f4d-a5bf-e199e1fde343/6e7682ab-be8e-47f7-8625-5dd7b3522eea_iOS-5.5-EN-Study.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f1/3b/7cf13bf1-f124-b61b-ff05-c2c6ac53a916/8c90811e-d211-4779-a398-5ce4e6b3fac6_iOS-5.5-EN-Progress.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/72/27/2f72279a-8ce8-8ed7-c5be-1a50db691694/4c37ae21-0153-415a-85ff-10234469556c_iOS-5.5-EN-Help.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c3/f2/d6c3f2fe-9f01-c422-ee55-816d198e1bee/4a54ca61-9dfc-4554-b881-2f88a3a284a1_iOS-5.5-EN-OnTrack.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/d7/be/9ad7be12-835b-67b7-2d2e-960649d573e0/c094e9d8-87f5-48e6-9e69-3882fc2c9c26_iOS-5.5-EN-ShareTips.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7d/4f/f87d4fb8-58c2-2245-99aa-ccded195513d/289aa46a-a68f-4bc2-bd17-5ac2bb4e3590_iOS-5.5-EN-Phrases.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/b6/0d/46b60db6-0486-bae9-11c8-beec18301fb0/e7325a90-8a4d-4400-b224-52161048688f_iOS-5.5-EN-SetGoals.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/10/6f/03106f42-f11a-7b8d-bc02-8a074bae7874/ebae4e0f-7a87-4e3f-8f69-1823ad7f953a_EN-iOS_EN_5.5__US_Growth_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e3/34/67e3349b-128d-6484-5126-cfd6487063c4/72b900e3-96a3-4aae-bc1a-500e851f5fd7_EN-iOS_EN_5.5__US_Growth_08.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
