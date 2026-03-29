@@ -5,6 +5,96 @@
   },
   "data": [
     {
+      "name": "TapeKit",
+      "version": "3.2.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.widget-kid_Sideloadbypass2_3.2.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.widget-kid",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/2e/cc/d42eccf6-e572-de7e-5c32-3ae98cd38c14/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nTapeKit・Lab of Top Widgets・GIF\n\nTweak: Premium Unlocked\n\nVersion: 3.2.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.widget-kid\nDeveloper: Pavel Serdziukou",
+      "developer": "Pavel Serdziukou",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "YouTube",
+      "version": "21.12.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.google.ios.youtube_YouPiP_21.12.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.google.ios.youtube",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas",
+      "developer": "Google",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Bazaart",
+      "version": "26.1.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/co.bazaart.app_Bazaart_26.1.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "co.bazaart.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/f0/80/2df080b5-b8b6-ed77-4c6b-d7b6899fc1a4/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nBazaart AI Photo Editor Design\n\n• Bundle ID: co.bazaart.app\n• Updated to: 26.1.5\n• Minimum iOS: 16\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Bazaart Ltd.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1a/29/411a298e-c727-8a62-05e5-da2ed27afafd/EN_ipad_1_Remove_people.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/ce/56/97ce564e-5bb7-07d9-d27c-15bf715ae649/Ipad_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/03/1f/39031fdd-f93a-339c-cf65-20ef053af9ea/EN_Magic_background_iPad.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "aa",
+      "version": "7.0.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.aagame.aagame_popuprifty_7.0.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.aagame.aagame",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/1d/4f/5e1d4ffc-0336-463f-6ee7-bc2401c9afb1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nAA Game\n\nTweak: Premium Unlocked\n\nVersion: 7.0.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.aagame.aagame\nDeveloper: General Adaptive Apps Pty Ltd",
+      "developer": "General Adaptive Apps Pty Ltd",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/72/a7/e672a7cd-014f-e5e0-ba1a-ec6a90efb8d7/c7cba422-6bae-4818-9bd5-046c20a78493_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/09/e8/7c09e8b1-cc40-3d05-1d07-9e5b4209ba0e/9e5142e0-0854-4405-b2b2-bf126a10a418_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ba/b5/6dbab550-73a1-2b69-d595-27822ab90bd5/252a166a-1bfa-467e-83a9-cdfdb255152c_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/b3/b1/f9b3b17a-2508-32e7-48ef-a8c34eed676f/d5188a9b-0e65-48e0-a6ae-017601c90c56_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/3b/5f/653b5f17-b3f3-b532-db8f-0318876337f2/0b75faa6-3819-40de-979a-2811932511fb_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/eb/63/deeb6322-624f-c5e2-727b-2928c491db59/33f0d369-cda0-49fc-8263-f33977b23ee6_5_5_inch_iPhone_screen_15.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/14/44/a21444b9-ad74-0c18-6aec-4eedfa8d0205/f1c20e71-19fa-4063-9cf3-07ab2b569806_5_5_inch_iPhone_screen_9.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Napper",
       "version": "6.41.5",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.napper_Sideloadbypass2_6.41.5.ipa",
@@ -2512,24 +2602,6 @@
       }
     },
     {
-      "name": "TapeKit",
-      "version": "3.2.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.widget-kid_Sideloadbypass2_3.2.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.widget-kid",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/9a/7c/c09a7c18-7b47-146f-ba42-62062e9f1ebb/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nTapeKit・Lab of Top Widgets・GIF\n\nTweak: Premium Unlocked\n\nVersion: 3.2.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.widget-kid\nDeveloper: Pavel Serdziukou",
-      "developer": "Pavel Serdziukou",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "MyScript Notes",
       "version": "7.1.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.myscript.nebo_Sideloadbypass2_7.1.4.ipa",
@@ -3941,30 +4013,6 @@
       }
     },
     {
-      "name": "YouTube",
-      "version": "21.11.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.google.ios.youtube_YouSpeed_21.11.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.google.ios.youtube",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/f2/d13ff2d8-57a8-399e-00f0-7be52c40af6a/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas",
-      "developer": "Google",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "ColorPop",
       "version": "2.59.01",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.mwm.procolor_ColorPop_2.59.01.ipa",
@@ -5022,28 +5070,6 @@
       }
     },
     {
-      "name": "Bazaart",
-      "version": "26.1.3",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/co.bazaart.app_BazaartAIPhotoEditorDesignPatch_26.1.3.ipa",
-      "category": "Tweaked",
-      "bundleID": "co.bazaart.app",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/f0/80/2df080b5-b8b6-ed77-4c6b-d7b6899fc1a4/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nBazaart: Design, Photo & Video\n\nPro features unlocked\n\n⚠️ Not working in LiveContainer\n\nTweak made by Никита\n\nMinimum OS version 16\n\nAppStore link | Donate",
-      "developer": "Bazaart Ltd.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1a/29/411a298e-c727-8a62-05e5-da2ed27afafd/EN_ipad_1_Remove_people.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/ce/56/97ce564e-5bb7-07d9-d27c-15bf715ae649/Ipad_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/03/1f/39031fdd-f93a-339c-cf65-20ef053af9ea/EN_Magic_background_iPad.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Calm",
       "version": "6.91",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.calm.calmapp_BBAESXORNEWOBFUSCATION_6.91.ipa",
@@ -5209,32 +5235,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/ba/e8/ffbae8c2-c4cc-cb63-2f98-7f4da53a3082/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-04.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/d8/dc/3bd8dc6d-cfae-19a2-b200-a6ba7a9f8f29/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-05.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/61/47/b2614739-fd7c-c2ae-2903-7ed477d5590a/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-06.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "aa",
-      "version": "7.0.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.aagame.aagame_popuprifty_7.0.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.aagame.aagame",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/1d/4f/5e1d4ffc-0336-463f-6ee7-bc2401c9afb1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nAA Game\n\nTweak: Premium Unlocked\n\nVersion: 7.0.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.aagame.aagame\nDeveloper: General Adaptive Apps Pty Ltd",
-      "developer": "General Adaptive Apps Pty Ltd",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/72/a7/e672a7cd-014f-e5e0-ba1a-ec6a90efb8d7/c7cba422-6bae-4818-9bd5-046c20a78493_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/09/e8/7c09e8b1-cc40-3d05-1d07-9e5b4209ba0e/9e5142e0-0854-4405-b2b2-bf126a10a418_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ba/b5/6dbab550-73a1-2b69-d595-27822ab90bd5/252a166a-1bfa-467e-83a9-cdfdb255152c_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/b3/b1/f9b3b17a-2508-32e7-48ef-a8c34eed676f/d5188a9b-0e65-48e0-a6ae-017601c90c56_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/3b/5f/653b5f17-b3f3-b532-db8f-0318876337f2/0b75faa6-3819-40de-979a-2811932511fb_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/eb/63/deeb6322-624f-c5e2-727b-2928c491db59/33f0d369-cda0-49fc-8263-f33977b23ee6_5_5_inch_iPhone_screen_15.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/14/44/a21444b9-ad74-0c18-6aec-4eedfa8d0205/f1c20e71-19fa-4063-9cf3-07ab2b569806_5_5_inch_iPhone_screen_9.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
