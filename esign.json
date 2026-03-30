@@ -3,6 +3,94 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Tide Guide",
+      "version": "7.2.1",
+      "versionDate": "2026-03-30",
+      "size": 93899729,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/com.condor.digital.Tide-Over_Sideloadbypass2_7.2.1.ipa",
+      "developerName": "Condor Digital",
+      "bundleIdentifier": "com.condor.digital.Tide-Over",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/2a/28/f82a28b2-3ab4-9318-b7d5-4981d666fa53/AppIcon_2-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTide Guide: Charts & Tables\n\nTweak: Pro Unlocked\n\nVersion: 7.2.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.condor.digital.Tide-Over\nDeveloper: Condor Digital",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/2f/80/bf2f80e7-3b83-a0a2-2333-04703f95a9be/iPad_-_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/3b/7c/413b7cca-cc47-815c-61ee-67c500c47f92/iPad_-_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/60/be/4a60be3b-eb91-b50d-2a33-825146175051/iPad_-_3.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "TickTick",
+      "version": "8.0.50",
+      "versionDate": "2026-03-30",
+      "size": 108047268,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/com.TickTick.task_Ticktick_8.0.50.ipa",
+      "developerName": "Appest Limited",
+      "bundleIdentifier": "com.TickTick.task",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/85/4a/cd854a81-5c34-df72-86c1-e61dd847abd4/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nTickTick:To-Do List & Calendar\n\n• Bundle ID: com.TickTick.task\n• Updated to: 8.0.50\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription.\n>Restart your device if widgets are not working(Paid Cert and trollstore only).\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/83/a3/f483a328-db13-be47-3d13-85227c32b0c4/1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/05/47/780547c6-a5cf-6233-3699-fa2328c18a8d/2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/d3/0a/4fd30a8e-c19b-702e-da97-5fc5bf3124de/3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cb/73/60cb73a5-096e-0e3f-d397-d67fac1ebf41/4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/47/b9/2647b98a-4c6b-f89e-5d9a-f844a0650c03/5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/98/08/709808a6-0cbc-66c9-1060-f1693bb35294/6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/b0/75/3eb07585-2cb6-f686-9f8b-964e9fd438d9/7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/bd/14/49bd14d7-64fc-dcde-b126-e35634cfb9b4/8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/d5/3a/12d53ad6-fd75-f6e5-8990-6a336274d8b6/9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/67/47/7b674751-6745-fb32-7ee4-af640f53f5aa/10.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "BeFreed",
+      "version": "4.3.8",
+      "versionDate": "2026-03-30",
+      "size": 46929028,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.8.ipa",
+      "developerName": "beFreed, Inc",
+      "bundleIdentifier": "ai.befreed.freed-frontend-rn",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/ff/26/d6ff2614-21c6-8cfa-eef6-74e450137a7b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBeFreed: Learn Anything\n\nTweak: Subscription Unlocked\n\nVersion: 4.3.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: ai.befreed.freed-frontend-rn\nDeveloper: beFreed, Inc",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/07/96/4d07962c-2466-d489-6b28-26bd0a22d778/0_APP_IPHONE_65_0.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/4b/7a/734b7a22-987a-88c9-d330-49caa54b6585/1_APP_IPHONE_65_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/bf/b6/d3bfb67e-df36-9b26-2627-7ce9e8b536c1/2_APP_IPHONE_65_2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/b0/12/90b0125c-73ae-7e12-0549-01dd50ac6b07/3_APP_IPHONE_65_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/12/7b/df127bef-953b-3b2c-4402-65c2ccd3815a/4_APP_IPHONE_65_4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/16/22/92162281-e6f7-3a5e-ebb3-1ebc3ad108a6/5_APP_IPHONE_65_5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/25/cd/f225cd02-c2fb-cd54-0a54-c14c8e2867a3/6_APP_IPHONE_65_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/4b/ff/b54bffa4-c76a-cd80-82df-e670539bde7a/7_APP_IPHONE_65_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/09/5c/65095cd2-c89d-6887-1681-7a5d8e0c749f/8_APP_IPHONE_65_8.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Pixomatic",
+      "version": "2.55.36",
+      "versionDate": "2026-03-30",
+      "size": 175038117,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/us.pixomaticpro.PixomaticPro_Pixomatic_2.55.36.ipa",
+      "developerName": "Mosaic S.r.l.",
+      "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/ff/49/b9ff49db-5997-d9f0-1e23-3b2ca6d142ec/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPixomatic - AI Photo BG Eraser\n\n• Bundle ID: us.pixomaticpro.PixomaticPro\n• Updated to: 2.55.36\n• Minimum iOS: 13.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart app if Subscriptions isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/9b/b0/5f9bb0a7-ca89-1143-e3fb-203845fc47b6/b261ce09-0ed7-4aa3-9751-3d4effc8c721_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/3c/34/6e3c3434-5fd3-b851-ec55-6b4f09d5c04f/d4158541-5bea-4df4-9524-700829cd9735_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/92/00/7d9200e3-ca9a-19dc-0c7b-cc1db8b27ace/a795e7a9-04cd-4cef-a275-a9f1a99d2a38_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/a7/e9/f6a7e993-1914-e49b-550c-51cde589874b/2ab82db9-cc11-41c2-b69a-ef8f62afdf19_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/57/0b/83570be6-021a-7a6a-ec6f-14b0ea06c94b/d756b022-e95f-40a9-b578-9009ad124c0d_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/92/98/159298c6-f48c-3147-c009-83a3c58758ec/15f6ebeb-3375-4348-98eb-38088e3fe54a_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/0c/96/3e0c96ac-5e46-00f8-dffe-a377f3d5aeed/98b79ba2-a180-402b-b752-757780c0fa2c_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/7a/d4/0f7ad4cd-3967-f50c-c924-e29f24ef902f/6c3e4fe7-fb48-4355-ae9d-1194707b645e_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/6b/96/0a6b9600-9b15-a090-5860-d30664eaff49/9fb30d4d-67ae-4a14-adaf-4ab913aca1e0_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/61/ea/a961eae2-a1a5-3735-fb44-84ad52f7cc30/c6ece533-9ba5-4750-8d71-fec1812ed33e_10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Picsart",
       "version": "29.6.4",
       "versionDate": "2026-03-29",
@@ -273,23 +361,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/3a/e0/e73ae0f6-5fca-80ea-48db-01d204da58c1/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_04.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/db/48/e7db4885-64eb-455d-9926-ff8b5c1bd15b/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_05.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/e5/d9/fce5d952-65a3-a760-cf06-e5241e254d06/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_06.jpg/1320x2868bb.webp"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Tide Guide",
-      "version": "7.2",
-      "versionDate": "2026-03-28",
-      "size": 94067063,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.condor.digital.Tide-Over_Sideloadbypass2_7.2.ipa",
-      "developerName": "Condor Digital",
-      "bundleIdentifier": "com.condor.digital.Tide-Over",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/2a/28/f82a28b2-3ab4-9318-b7d5-4981d666fa53/AppIcon_2-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nTide Guide: Charts & Tables\n\nTweak: Pro Unlocked\n\nVersion: 7.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.condor.digital.Tide-Over\nDeveloper: Condor Digital",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/2f/80/bf2f80e7-3b83-a0a2-2333-04703f95a9be/iPad_-_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/3b/7c/413b7cca-cc47-815c-61ee-67c500c47f92/iPad_-_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/60/be/4a60be3b-eb91-b50d-2a33-825146175051/iPad_-_3.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -1966,30 +2037,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/e2/30/c2e2309f-b78c-05b0-42f9-5e06e66f0114/mzl.nizxrymm.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/93/45/2b9345e6-1f70-3bc3-24d6-1f7440bdf014/mzl.vokoijar.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/ea/ec/4beaece5-d845-2dda-4045-45e52eb485ae/mzl.ghgegubo.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "TickTick",
-      "version": "8.0.40",
-      "versionDate": "2026-03-23",
-      "size": 98928908,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-23/com.TickTick.task_Ticktick_8.0.40.ipa",
-      "developerName": "Appest Limited",
-      "bundleIdentifier": "com.TickTick.task",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/85/4a/cd854a81-5c34-df72-86c1-e61dd847abd4/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTickTick:To-Do List & Calendar\n\nPro features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 15.5\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/83/a3/f483a328-db13-be47-3d13-85227c32b0c4/1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/05/47/780547c6-a5cf-6233-3699-fa2328c18a8d/2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/d3/0a/4fd30a8e-c19b-702e-da97-5fc5bf3124de/3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cb/73/60cb73a5-096e-0e3f-d397-d67fac1ebf41/4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/47/b9/2647b98a-4c6b-f89e-5d9a-f844a0650c03/5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/98/08/709808a6-0cbc-66c9-1060-f1693bb35294/6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/b0/75/3eb07585-2cb6-f686-9f8b-964e9fd438d9/7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/bd/14/49bd14d7-64fc-dcde-b126-e35634cfb9b4/8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/d5/3a/12d53ad6-fd75-f6e5-8990-6a336274d8b6/9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/67/47/7b674751-6745-fb32-7ee4-af640f53f5aa/10.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -4362,19 +4409,6 @@
       "bundleIdentifier": "com.lampa.photo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0f/16/000f1650-8d62-e044-6d9f-658734746d17/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nLampa — Digital & Film Camera\n\n• Bundle ID: com.lampa.photo\n• Updated to: 2.0.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Unlimited Photos + Filters Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore the purchase pages and the lock icons you should be able to click on the filters and use them just fine. Also after 5 photos just restart the app to reset the limit.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "BeFreed",
-      "version": "4.3.5",
-      "versionDate": "2026-03-14",
-      "size": 44339417,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.5.ipa",
-      "developerName": "beFreed, Inc",
-      "bundleIdentifier": "ai.befreed.freed-frontend-rn",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/d5/66/c9d56663-85f4-c1c3-60e3-550e4d4ed0d6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBeFreed: Learn Anything\n\nTweak: Subscription Unlocked\n\nVersion: 4.3.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: ai.befreed.freed-frontend-rn\nDeveloper: beFreed, Inc",
       "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
