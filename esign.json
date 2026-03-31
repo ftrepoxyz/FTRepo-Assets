@@ -3,6 +3,102 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Teleprompter",
+      "version": "1.0.128",
+      "versionDate": "2026-03-31",
+      "size": 29955606,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/io.fadel.TeleprompterX_Sideloadbypass2_1.0.128.ipa",
+      "developerName": "Fadel.io OU",
+      "bundleIdentifier": "io.fadel.TeleprompterX",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/8a/6c/c88a6c89-1f6e-00ed-7ade-fd3c99b4b880/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTeleprompter for Video Pro\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.128\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: io.fadel.TeleprompterX\nDeveloper: Fadel.io OU",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/6a/7f/5b6a7f9f-7b06-a6db-57a4-fa556ecf9b2b/20d1bc67-a289-4207-8226-a1fd54d5f0a1_v2-iPhone_5.5__display_-_11.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/fb/10/fafb101a-36ce-74c4-a7df-bfb7ac37a516/07214fbb-801c-40f7-bc86-a76aafbe0bdf_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/19/e0/0219e02f-cac8-1358-f456-21dd0c0eb19e/bb8d2c32-4da9-447f-bd0d-5e47ca14d9e1_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/af/56/15af567c-613a-06ca-20a8-8ae946e95549/96448ad8-867f-4898-8aa5-8e760d0abd1d_v2-iPhone_5.5__display_-_7__U00281_U0029.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/0e/31/590e3144-754d-ac89-c6b3-d9ece654d197/0f4c7f27-385d-4ed9-aab4-d3bb6d0b4e02_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/a5/88/56a58817-90a4-fbbd-1474-ac81ce939812/d6ede7c6-1de7-4408-8ff9-428cc679d03a_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/32/1e/05321edb-60d4-c6ff-1528-8776c64ee427/057511d0-90c0-4e13-8681-d6fa3b11ccd6_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/88/c8/dd88c82a-1250-db3b-563d-8a43cb6a68d2/893bc503-c78b-4f56-909b-460c0cfd56e4_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Minecraft",
+      "version": "1.26.0",
+      "versionDate": "2026-03-31",
+      "size": 610918033,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.mojang.minecraftpe_1.26.0.ipa",
+      "developerName": "Mojang",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nIDK If this is beta version or not",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/47/6f/07476fcd-1ecf-18ca-e7f7-364d6c6cd5e1/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a6/ed/74a6ed67-e5e9-a1ae-3233-225b651d6bf0/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4f/92/be4f92ef-8b4b-94e3-cd78-da32db4193b0/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/03/ee/6403eee1-4fbf-6b89-d2ec-6fc410182689/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6b/4e/1f6b4ef1-3ebb-526a-b6fb-a0d1301e30df/b66be1fb-63e6-48ee-b33e-201f6e5229b1_TrailsAndTales_Apple_2208x1242_EN.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ed/c4/a2edc497-b844-0e65-a682-f427f4e7505c/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/db/86/77db860c-9b7e-f5ee-c849-f98640e6f9c9/e8534913-e159-4489-a2b2-ff14785e2ca9_LushCaves_2208x1242_GB.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/eb/58/4aeb585d-ec15-a57b-7475-9de908d27446/dbcfdd4e-840f-4b82-824a-4db2201f31d6_Goat_2208x1242_GB.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/85/2c/d7852cb7-013e-16ed-e77d-734eec50cc70/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/24/0e/d3240e89-cfae-f07e-b506-eb60987a55a7/pr_source.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Labbet",
+      "version": "2.58",
+      "versionDate": "2026-03-31",
+      "size": 119999715,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/app.labbet.labbet_Labbet_2.58.ipa",
+      "developerName": "Blurred AB",
+      "bundleIdentifier": "app.labbet.labbet",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/17/31/131731ca-e577-ff28-0b7e-11cc8d67a4d1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLabbet — Creative editing\n\n• Bundle ID: app.labbet.labbet\n• Updated to: 2.58\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Photoroom",
+      "version": "2026.13.02",
+      "versionDate": "2026-03-31",
+      "size": 140991915,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.dr1ven.eraser_Sideloadbypass2_2026.13.02.ipa",
+      "developerName": "Photoroom",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/6e/09/ca6e0933-44d0-3968-8346-2a548012c481/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhotoroom: AI Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2026.13.02\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.dr1ven.eraser\nDeveloper: Photoroom",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Sofa",
+      "version": "5.0",
+      "versionDate": "2026-03-31",
+      "size": 190392307,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.astrio.Sofa_Sofa_5.0.ipa",
+      "developerName": "Astrio, LLC",
+      "bundleIdentifier": "com.astrio.Sofa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/d5/19/ced5199d-d238-5b0d-24c9-2338180db436/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSofa: Downtime Organizer\n\n• Bundle ID: com.astrio.Sofa\n• Updated to: 5.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/75/84/007584d9-3401-09f3-9b2b-bcf42b1413b3/4fd69e4b-4744-47cb-974e-256873ca153d_Sofa_App_Store_Screenshot_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/9b/5c/6f9b5c1d-7a68-8d24-acb8-d92707386879/5c613fbc-51ec-4e21-b001-6aa678805ba8_Sofa_App_Store_Screenshot_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/95/1d/86951d07-c43f-9f90-26fb-54159a7ff8ac/98430770-3030-4186-ba3a-be2ff5f1ba13_Sofa_App_Store_Screenshot_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/d1/03/1fd103db-a6d2-fc74-e7ff-637979fdfc4b/Sofa_App_Store_Screenshot_11.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/29/f8/8e29f809-af03-fe3b-b66c-c8218a5ec850/6901d94d-7c82-4263-806a-2abcbfbc71fe_Sofa_App_Store_Screenshot_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/03/2a/01032a4c-f74d-b15d-a4c4-777bdc5661ad/645cbc9c-084f-4980-825b-700ccca59910_Sofa_App_Store_Screenshot_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/c5/ab/45c5abcb-3422-8883-e3d9-e21284436b07/adeaad08-cb66-4c78-a7a5-6b09af281ece_Sofa_App_Store_Screenshot_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/47/5b/b8475b00-6a48-1179-30ad-9fdbc5ba0f04/38e2f412-5339-4d0a-95a2-2cddb583d34f_Sofa_App_Store_Screenshot_8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/b9/dd/e6b9dd90-36cf-aa4f-f150-3cb64d1cf5fe/786d7d43-315b-47ff-8df2-c167951486b9_Sofa_App_Store_Screenshot_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/fb/f5/f2fbf536-8c89-7fc2-fa9f-8ee5d0d4867a/32ff7fbc-80c1-4cd5-9cf4-2f8e0c99d61a_Sofa_App_Store_Screenshot_10.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Going Balls",
       "version": "1.4.20",
       "versionDate": "2026-03-31",
@@ -297,19 +393,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/d8/a0/78d8a08a-4f6b-2363-de6f-4c3fd8f9f007/Frame_61.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/44/c3/7c44c356-f5a6-af06-5f9f-b072cd05bba0/925db92a-72e8-47e8-87a0-88e303e00256_Frame_60.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Photoroom",
-      "version": "2026.13.01",
-      "versionDate": "2026-03-30",
-      "size": 140548087,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/com.dr1ven.eraser_PhotoRoomPatch_2026.13.01.ipa",
-      "developerName": "Photoroom",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/6e/09/ca6e0933-44d0-3968-8346-2a548012c481/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPhotoRoom: AI Photo Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -6474,30 +6557,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Sofa",
-      "version": "4.3.11",
-      "versionDate": "2026-03-12",
-      "size": 218667331,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.astrio.Sofa_Sofa_4.3.11.ipa",
-      "developerName": "Astrio, LLC",
-      "bundleIdentifier": "com.astrio.Sofa",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/d5/19/ced5199d-d238-5b0d-24c9-2338180db436/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSofa: Downtime Organizer\n\n• Bundle ID: com.astrio.Sofa\n• Updated to: 4.3.11\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/75/84/007584d9-3401-09f3-9b2b-bcf42b1413b3/4fd69e4b-4744-47cb-974e-256873ca153d_Sofa_App_Store_Screenshot_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/9b/5c/6f9b5c1d-7a68-8d24-acb8-d92707386879/5c613fbc-51ec-4e21-b001-6aa678805ba8_Sofa_App_Store_Screenshot_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/95/1d/86951d07-c43f-9f90-26fb-54159a7ff8ac/98430770-3030-4186-ba3a-be2ff5f1ba13_Sofa_App_Store_Screenshot_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/d1/03/1fd103db-a6d2-fc74-e7ff-637979fdfc4b/Sofa_App_Store_Screenshot_11.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/29/f8/8e29f809-af03-fe3b-b66c-c8218a5ec850/6901d94d-7c82-4263-806a-2abcbfbc71fe_Sofa_App_Store_Screenshot_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/03/2a/01032a4c-f74d-b15d-a4c4-777bdc5661ad/645cbc9c-084f-4980-825b-700ccca59910_Sofa_App_Store_Screenshot_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/c5/ab/45c5abcb-3422-8883-e3d9-e21284436b07/adeaad08-cb66-4c78-a7a5-6b09af281ece_Sofa_App_Store_Screenshot_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/47/5b/b8475b00-6a48-1179-30ad-9fdbc5ba0f04/38e2f412-5339-4d0a-95a2-2cddb583d34f_Sofa_App_Store_Screenshot_8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/b9/dd/e6b9dd90-36cf-aa4f-f150-3cb64d1cf5fe/786d7d43-315b-47ff-8df2-c167951486b9_Sofa_App_Store_Screenshot_9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/fb/f5/f2fbf536-8c89-7fc2-fa9f-8ee5d0d4867a/32ff7fbc-80c1-4cd5-9cf4-2f8e0c99d61a_Sofa_App_Store_Screenshot_10.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "SimplyPiano",
       "version": "9.10.61",
       "versionDate": "2026-03-11",
@@ -8611,30 +8670,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ba/0b/deba0b19-dceb-bbbe-4c4a-d7e34483405f/f6e02763-35db-4f45-b447-ddfbacba9e88_5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/96/282e9660-e71e-d00e-36e3-729b1cdc3fbd/2d0e5ff1-9351-48f6-9d2a-b26954f9125c_4.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/af/91/5eaf916a-8bcf-4fa4-56b4-d81ccbf09653/22205c94-1c69-4e32-b193-3b28cb0690cf_6.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Minecraft",
-      "version": "1.21.132",
-      "versionDate": "2026-03-11",
-      "size": 605375936,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mojang.minecraftpe_1.21.132.ipa",
-      "developerName": "Mojang",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nMinecraft v1.21.132\n\n🇷🇺 Исследуйте бесконечные миры и стройте что угодно: от простейших домов до грандиозных замков и дворцов.\n— Платное приложение из App Store\n© Создано: GLESign\n\n🇺🇸 Explore endless worlds and build anything from the simplest houses to grandiose castles and palaces.\n— Paid app from App Store\n© Created by: GLESign",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/47/6f/07476fcd-1ecf-18ca-e7f7-364d6c6cd5e1/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a6/ed/74a6ed67-e5e9-a1ae-3233-225b651d6bf0/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4f/92/be4f92ef-8b4b-94e3-cd78-da32db4193b0/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/03/ee/6403eee1-4fbf-6b89-d2ec-6fc410182689/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6b/4e/1f6b4ef1-3ebb-526a-b6fb-a0d1301e30df/b66be1fb-63e6-48ee-b33e-201f6e5229b1_TrailsAndTales_Apple_2208x1242_EN.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ed/c4/a2edc497-b844-0e65-a682-f427f4e7505c/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/db/86/77db860c-9b7e-f5ee-c849-f98640e6f9c9/e8534913-e159-4489-a2b2-ff14785e2ca9_LushCaves_2208x1242_GB.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/eb/58/4aeb585d-ec15-a57b-7475-9de908d27446/dbcfdd4e-840f-4b82-824a-4db2201f31d6_Goat_2208x1242_GB.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/85/2c/d7852cb7-013e-16ed-e77d-734eec50cc70/pr_source.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/24/0e/d3240e89-cfae-f07e-b506-eb60987a55a7/pr_source.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
