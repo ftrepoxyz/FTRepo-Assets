@@ -5,6 +5,96 @@
   },
   "data": [
     {
+      "name": "Idle Miner",
+      "version": "5.49.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.fluffyfairygames.idleminertycoon_popuprifty_5.49.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.fluffyfairygames.idleminertycoon",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/9c/eb/bf9cebf2-bf64-9dcc-c055-cefa247c277b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nIdle Miner Tycoon\n\nTweak: Free iAP\n\nVersion: 5.49.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.2\nBundle ID: com.fluffyfairygames.idleminertycoon\nDeveloper: Kolibri Games GmbH",
+      "developer": "Kolibri Games GmbH",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/c5/19/b4c5198f-b0b2-3a7e-95b9-36a806c89ee3/51fe9f43-17ee-4ce5-88ce-c4f888ad85c8_5.5_U002801_U0029_CVR_1242x2208_EN_Offline.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/67/93/a0679353-2e6c-f245-d644-c846f2e39b2c/776c9f3a-63ab-49ea-99a6-ea758faf417b_5.5_U002802_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/05/5b/03055bfa-502f-7048-f458-f8101380ee76/b7cb19b8-5b5c-4c93-94ed-e6508c336d00_5.5_U002803_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/6a/54/556a547a-6312-9f86-d3b4-81c29fdc5b44/04_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/bf/ce/71bfcec4-423b-29e3-b84b-7b5c966dea5c/262cd1ca-e324-47f2-b053-abba3972cabc_5.5_U002805_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/57/91/01579153-0352-da21-58a7-d65e96eba1cf/ccbc6f0f-5df6-4c18-9c95-ca49e8def2ca_5.5_U002806_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/98/a3/f098a3bc-2e9b-5d23-27d5-6e90e39a2d78/bf6d6f9b-0b01-482e-8fa0-fa0bfe570641_5.5_U002808_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/bb/6d/c3bb6df3-f71c-304c-9f62-0d6a672a32c4/faeda2dd-2c74-4198-a2ee-d84d40d53fb4_5.5_U002807_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Infuse",
+      "version": "8.4.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.firecore.infuse_InfusePlus_8.4.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.firecore.infuse",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/af/84/d1af84b0-3bed-f126-1b1f-228b75dccc94/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.4.1\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.4.1\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Removed vibrancy effect of player toast, now toast follows system theme\n• Added option to automatically clean Infuse trash folder\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Firecore, LLC",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Colourtone",
+      "version": "5.5.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.colorpresets.colourtone_Sideloadbypass2_5.5.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.colorpresets.colourtone",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/3c/d1/b23cd196-8be0-a830-cec0-33258f82b46b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nColourtone: #1 Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 5.5.3\n\nNotes: ignore purchase page\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.colorpresets.colourtone\nDeveloper: Bonnie Curtis",
+      "developer": "Bonnie Curtis",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "CollaNote",
+      "version": "4.0.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/net.quochuywdm.collanote496_CollaNote_4.0.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "net.quochuywdm.collanote496",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/1c/3e/041c3ed1-af80-5091-445b-354fb7579c50/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nCollaNote: Notes & PDF Markup\n\n• Bundle ID: net.quochuywdm.collanote496\n• Reuploaded: 4.0.7\n• Minimum iOS: 18.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Google/Apple login may not work,\n>Sign-in with email and password instead.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Zauberberg Lab Company Limited",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/d6/90/83d690ec-bdda-a1a5-8eec-bbc610123989/f7b1c99c-a6cf-4747-ac03-4dbad9c4ca98_1_-_Pens_and_Brushes.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/b1/67/e2b16726-7d82-60a8-045e-09ba081dc5c3/7336be6b-48a9-4c88-9641-7102c8ec2962_2_-_Ink_And_Audio.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/13/27/561327c7-00e8-1fc9-6f67-558c3fe8b0f6/69e9cad2-1b81-4dab-ae6a-bff5481ed1f4_3_-_Dark__U0026_Light_Mode.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ab/f1/51abf196-90df-f495-3e42-37127f8fcb44/2a68418a-23eb-4701-8bdd-b0992135f446_4_-_Teaching__U0026_Presenting.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/0f/9f/240f9f2d-7809-cb40-aebe-c14221649601/8838194c-1917-4e81-abf0-c65513166980_5_-_Learn_New_Language.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/03/18/610318d1-9736-3369-f292-81777b3b21b4/370a899e-3f17-4619-ae45-95cb14922f06_6_-_Digital_Planner.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/70/73/78707377-bb5d-8545-726e-4769555bbd0f/7544e60b-e4b8-4aa5-a217-9951efcb0835_7_-_Collaburation.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/43/11/be43112a-009a-a152-559e-1b6db7bbc7cf/e56564cd-8e23-4dbc-8847-3fad6867427b_8_-_Scan.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Teleprompter",
       "version": "1.0.128",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/io.fadel.TeleprompterX_Sideloadbypass2_1.0.128.ipa",
@@ -1735,33 +1825,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/2c/ff/582cff02-fa39-3dc1-d38e-287382fda005/6c3d7838-88c5-4263-9fee-63b2256744b6_2.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/ff/ac/55ffac24-1d80-e701-993e-1f3acfefbcf3/766cd2fc-6465-46a4-a0e0-6e3838414cc1_9.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/3f/e0/dd3fe0f7-1e07-136e-5fc8-fe39d007784f/494349ed-7f69-48aa-ad3a-473b0aab53a9_8.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Idle Miner",
-      "version": "5.48.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.fluffyfairygames.idleminertycoon_popuprifty_5.48.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.fluffyfairygames.idleminertycoon",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/9c/eb/bf9cebf2-bf64-9dcc-c055-cefa247c277b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nIdle Miner Tycoon\n\nTweak: Free iAP\n\nVersion: 5.48.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.2\nBundle ID: com.fluffyfairygames.idleminertycoon\nDeveloper: Kolibri Games GmbH",
-      "developer": "Kolibri Games GmbH",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/c5/19/b4c5198f-b0b2-3a7e-95b9-36a806c89ee3/51fe9f43-17ee-4ce5-88ce-c4f888ad85c8_5.5_U002801_U0029_CVR_1242x2208_EN_Offline.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/67/93/a0679353-2e6c-f245-d644-c846f2e39b2c/776c9f3a-63ab-49ea-99a6-ea758faf417b_5.5_U002802_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/05/5b/03055bfa-502f-7048-f458-f8101380ee76/b7cb19b8-5b5c-4c93-94ed-e6508c336d00_5.5_U002803_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/6a/54/556a547a-6312-9f86-d3b4-81c29fdc5b44/04_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/bf/ce/71bfcec4-423b-29e3-b84b-7b5c966dea5c/262cd1ca-e324-47f2-b053-abba3972cabc_5.5_U002805_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/57/91/01579153-0352-da21-58a7-d65e96eba1cf/ccbc6f0f-5df6-4c18-9c95-ca49e8def2ca_5.5_U002806_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/98/a3/f098a3bc-2e9b-5d23-27d5-6e90e39a2d78/bf6d6f9b-0b01-482e-8fa0-fa0bfe570641_5.5_U002808_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/bb/6d/c3bb6df3-f71c-304c-9f62-0d6a672a32c4/faeda2dd-2c74-4198-a2ee-d84d40d53fb4_5.5_U002807_U0029_CVR_1242x2208_EN.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -6737,24 +6800,6 @@
       }
     },
     {
-      "name": "Colourtone",
-      "version": "5.4.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.colorpresets.colourtone_Sideloadbypass2_5.4.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.colorpresets.colourtone",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ac/3f/ecac3f9d-c507-b826-57b9-38474878cac5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nColourtone: #1 Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 5.4.2\n\nNotes: ignore purchase page\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.colorpresets.colourtone\nDeveloper: Bonnie Curtis",
-      "developer": "Bonnie Curtis",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Race Master",
       "version": "3.6.28",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.easygames.race_racemaster_3.6.28.ipa",
@@ -8524,33 +8569,6 @@
       }
     },
     {
-      "name": "CollaNote",
-      "version": "4.0.6",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/net.quochuywdm.collanote496_CollaNote_4.0.6.ipa",
-      "category": "Tweaked",
-      "bundleID": "net.quochuywdm.collanote496",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/1c/3e/041c3ed1-af80-5091-445b-354fb7579c50/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nCollaNote: Notes & PDF Markup\n\n• Bundle ID: net.quochuywdm.collanote496\n• Updated to: 4.0.6\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Google/Apple login may not work,\n>Sign-in with email and password instead.\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Zauberberg Lab Company Limited",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/d6/90/83d690ec-bdda-a1a5-8eec-bbc610123989/f7b1c99c-a6cf-4747-ac03-4dbad9c4ca98_1_-_Pens_and_Brushes.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/b1/67/e2b16726-7d82-60a8-045e-09ba081dc5c3/7336be6b-48a9-4c88-9641-7102c8ec2962_2_-_Ink_And_Audio.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/13/27/561327c7-00e8-1fc9-6f67-558c3fe8b0f6/69e9cad2-1b81-4dab-ae6a-bff5481ed1f4_3_-_Dark__U0026_Light_Mode.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ab/f1/51abf196-90df-f495-3e42-37127f8fcb44/2a68418a-23eb-4701-8bdd-b0992135f446_4_-_Teaching__U0026_Presenting.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/0f/9f/240f9f2d-7809-cb40-aebe-c14221649601/8838194c-1917-4e81-abf0-c65513166980_5_-_Learn_New_Language.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/03/18/610318d1-9736-3369-f292-81777b3b21b4/370a899e-3f17-4619-ae45-95cb14922f06_6_-_Digital_Planner.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/70/73/78707377-bb5d-8545-726e-4769555bbd0f/7544e60b-e4b8-4aa5-a217-9951efcb0835_7_-_Collaburation.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/43/11/be43112a-009a-a152-559e-1b6db7bbc7cf/e56564cd-8e23-4dbc-8847-3fad6867427b_8_-_Scan.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "NOAA Radar",
       "version": "5.17.1",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.itwcalculator.worldradarfree_WeatherRadar_5.17.1.ipa",
@@ -8910,24 +8928,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/fc/97/85fc97f2-1b40-643b-2055-1e10584682dc/1d703a8a-bcf0-45e6-bbdf-0a8908a8014f_5_5_Comprehensive__U0028ios_U0029.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/64/96/23649681-4051-5c84-bd76-83af9a8ee214/7d0c0195-3987-47c7-963c-f5041c3ddc93_5_5_Detailed_analysis__U0028ios_U0029.png/1320x2868bb.png"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Infuse",
-      "version": "8.3.9",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.firecore.infuse_InfusePlus_8.3.9.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.firecore.infuse",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/15/1c/be151cfd-07e5-d26d-2488-2f95c3468beb/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.3.9\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.4.1\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Removed vibrancy effect of player toast, now toast follows system theme\n• Added option to automatically clean Infuse trash folder\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Firecore, LLC",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
