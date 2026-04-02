@@ -4463,7 +4463,7 @@
       "bundleIdentifier": "pinterest",
       "developerName": "Pinterest",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/2d/09/032d0903-de67-fa76-08ed-4f93eeb4b9c3/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPinterest\n\nTweak: Download Videos, Sponsored Pins Removed\n\nVersion: 14.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: pinterest\nDeveloper: Pinterest",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPinterest\n\nTweak: Download Videos, Sponsored Pins Removed\n\nVersion: 14.12.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: pinterest\nDeveloper: Pinterest",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/95/30/a59530ed-4a7d-e1e7-a374-68098426c68c/fb7ce02a-e14d-4c33-be3b-fb422f1db141_240318_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Fashion_InclusiveAI_4.png/1320x2868bb.png"
@@ -4494,6 +4494,12 @@
       ],
       "versions": [
         {
+          "version": "14.12.1",
+          "date": "2026-04-02",
+          "size": 117268894,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/pinterest_Sideloadbypass2_14.12.1.ipa"
+        },
+        {
           "version": "14.9",
           "date": "2026-03-11",
           "size": 116257017,
@@ -4507,10 +4513,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "14.9",
-      "versionDate": "2026-03-11T16:27:14.811Z",
-      "size": 116257017,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/pinterest_Sideloadbypass2_14.9.ipa"
+      "version": "14.12.1",
+      "versionDate": "2026-04-02T01:01:23.420Z",
+      "size": 117268894,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/pinterest_Sideloadbypass2_14.12.1.ipa"
     },
     {
       "name": "Buddy",
@@ -12783,6 +12789,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.saltycrackers.daygram_Sideloadbypass2_5.6.3.ipa"
     },
     {
+      "name": "Gratitude",
+      "bundleIdentifier": "com.northstar.gratitude",
+      "developerName": "Hapjoy Technologies Private Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f7/44/dff74405-b39e-e1eb-92f7-8936d6ea8e58/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "5.6",
+          "date": "2026-04-02",
+          "size": 49369047,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.northstar.gratitude_Sideloadbypass2_5.6.ipa"
+        },
+        {
+          "version": "5.4.9",
+          "date": "2026-03-13",
+          "size": 43770449,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.northstar.gratitude_Sideloadbypass2_5.4.9.ipa"
+        },
+        {
+          "version": "5.4.8",
+          "date": "2026-03-11",
+          "size": 43772103,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.northstar.gratitude_Sideloadbypass2_5.4.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.6",
+      "versionDate": "2026-04-02T04:01:48.352Z",
+      "size": 49369047,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.northstar.gratitude_Sideloadbypass2_5.6.ipa"
+    },
+    {
       "name": "GOWOD",
       "bundleIdentifier": "eu.gowod",
       "developerName": "Mobility First Group",
@@ -13173,34 +13213,6 @@
       "versionDate": "2026-03-18T23:37:48.185Z",
       "size": 1011183296,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/au.com.savageinteractive.procreate_5.4.9.ipa"
-    },
-    {
-      "name": "Gratitude",
-      "bundleIdentifier": "com.northstar.gratitude",
-      "developerName": "Hapjoy Technologies Private Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/7f/ea/737fea13-3df7-ec45-1ee9-52a5283934cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.4.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "5.4.9",
-          "date": "2026-03-13",
-          "size": 43770449,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.northstar.gratitude_Sideloadbypass2_5.4.9.ipa"
-        },
-        {
-          "version": "5.4.8",
-          "date": "2026-03-11",
-          "size": 43772103,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.northstar.gratitude_Sideloadbypass2_5.4.8.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.4.9",
-      "versionDate": "2026-03-13T04:00:20.793Z",
-      "size": 43770449,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.northstar.gratitude_Sideloadbypass2_5.4.9.ipa"
     },
     {
       "name": "LumaFusion",
@@ -19409,6 +19421,62 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.jabhi.clarido_Sideloadbypass2_3.1.0.ipa"
     },
     {
+      "name": "MoneyCircle",
+      "bundleIdentifier": "com.genau.MoneyCircle",
+      "developerName": "Genau Factory",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5b/e5/8a5be52d-57b9-75fc-f1c6-f038549d8718/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.0.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/7d/a7/117da722-9aef-35a8-402f-17df73610e2c/MC-ipad-1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/fc/7a/85fc7a56-3cdd-54c5-0188-2af6507c12d3/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/4d/5d/1c4d5dbe-6c16-620e-8f93-6f82ef5b9661/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/4a/c4/f54ac487-8d35-3a21-cc33-97ef2df23774/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/4d/9b/af4d9bda-a3d1-8501-d5a6-c0751b63f37e/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/7d/a7/117da722-9aef-35a8-402f-17df73610e2c/MC-ipad-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/fc/7a/85fc7a56-3cdd-54c5-0188-2af6507c12d3/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/4d/5d/1c4d5dbe-6c16-620e-8f93-6f82ef5b9661/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/4a/c4/f54ac487-8d35-3a21-cc33-97ef2df23774/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/4d/9b/af4d9bda-a3d1-8501-d5a6-c0751b63f37e/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.0.9",
+          "date": "2026-04-02",
+          "size": 13672631,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.genau.MoneyCircle_Sideloadbypass2_3.0.9.ipa"
+        },
+        {
+          "version": "3.0.6",
+          "date": "2026-03-25",
+          "size": 13696457,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.genau.MoneyCircle_Sideloadbypass2_3.0.6.ipa"
+        },
+        {
+          "version": "3.0.5",
+          "date": "2026-03-22",
+          "size": 13626011,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.genau.MoneyCircle_Sideloadbypass2_3.0.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.0.9",
+      "versionDate": "2026-04-02T04:01:52.486Z",
+      "size": 13672631,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.genau.MoneyCircle_Sideloadbypass2_3.0.9.ipa"
+    },
+    {
       "name": "Lungy",
       "bundleIdentifier": "com.pia.lungy",
       "developerName": "Pi-A",
@@ -19547,62 +19615,6 @@
       "versionDate": "2026-03-17T14:34:29.534Z",
       "size": 109369072,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.solveit.lut-studio_LUTStudio_3.0.7.ipa"
-    },
-    {
-      "name": "MoneyCircle",
-      "bundleIdentifier": "com.genau.MoneyCircle",
-      "developerName": "Genau Factory",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5b/e5/8a5be52d-57b9-75fc-f1c6-f038549d8718/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.0.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/7d/a7/117da722-9aef-35a8-402f-17df73610e2c/MC-ipad-1.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/fc/7a/85fc7a56-3cdd-54c5-0188-2af6507c12d3/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/4d/5d/1c4d5dbe-6c16-620e-8f93-6f82ef5b9661/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/4a/c4/f54ac487-8d35-3a21-cc33-97ef2df23774/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/4d/9b/af4d9bda-a3d1-8501-d5a6-c0751b63f37e/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/7d/a7/117da722-9aef-35a8-402f-17df73610e2c/MC-ipad-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/fc/7a/85fc7a56-3cdd-54c5-0188-2af6507c12d3/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/4d/5d/1c4d5dbe-6c16-620e-8f93-6f82ef5b9661/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/4a/c4/f54ac487-8d35-3a21-cc33-97ef2df23774/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/4d/9b/af4d9bda-a3d1-8501-d5a6-c0751b63f37e/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "3.0.6",
-          "date": "2026-03-25",
-          "size": 13696457,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.genau.MoneyCircle_Sideloadbypass2_3.0.6.ipa"
-        },
-        {
-          "version": "3.0.5",
-          "date": "2026-03-22",
-          "size": 13626011,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.genau.MoneyCircle_Sideloadbypass2_3.0.5.ipa"
-        },
-        {
-          "version": "3.0.4",
-          "date": "2026-03-17",
-          "size": 13974842,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.genau.MoneyCircle_Sideloadbypass2_3.0.4.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.0.6",
-      "versionDate": "2026-03-25T03:43:23.318Z",
-      "size": 13696457,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.genau.MoneyCircle_Sideloadbypass2_3.0.6.ipa"
     },
     {
       "name": "Hevy",
@@ -19744,11 +19756,17 @@
       "name": "StressWatch",
       "bundleIdentifier": "com.ideation.Stress",
       "developerName": "One Hundred Bad Ideas Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/89/54/e18954bc-7a3e-93af-cc6e-a13992c2926e/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nStressWatch: AI Stress Monitor\n\n• Bundle ID: com.ideation.Stress\n• Updated to: 3.0.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/33/c4/6433c4e4-517d-21a5-d8c6-bba6b9f6c6ec/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nStressWatch: AI Stress Monitor\n\n• Bundle ID: com.ideation.Stress\n• Updated to: 3.0.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "3.0.1",
+          "date": "2026-04-02",
+          "size": 325481063,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.ideation.Stress_StressWatch_3.0.1.ipa"
+        },
         {
           "version": "3.0.0",
           "date": "2026-03-19",
@@ -19763,10 +19781,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.0.0",
-      "versionDate": "2026-03-19T05:35:01.894Z",
-      "size": 325189876,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.ideation.Stress_StressWatch_3.0.0.ipa"
+      "version": "3.0.1",
+      "versionDate": "2026-04-02T04:01:38.917Z",
+      "size": 325481063,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.ideation.Stress_StressWatch_3.0.1.ipa"
     },
     {
       "name": "Spoke",
