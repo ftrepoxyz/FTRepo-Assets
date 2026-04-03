@@ -5,6 +5,35 @@
   },
   "data": [
     {
+      "name": "#DRIVE",
+      "version": "3.1.444",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.pixelperfectdude.htdrive_Sideloadbypass2_3.1.444.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.pixelperfectdude.htdrive",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/98/b9/1998b90f-7e72-1bba-a940-2aad4ce30139/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\n#DRIVE\n\nTweak: Premium Unlocked\n\nVersion: 3.1.444\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.pixelperfectdude.htdrive\nDeveloper: Pixel Perfect Dude S.A.",
+      "developer": "Pixel Perfect Dude S.A.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/59/36/1b593604-d390-37d8-15e4-284099a35004/DRIVE_2208x1242_U002841_U0029.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/0f/d8/860fd875-39f0-c609-ad9e-43150c5039b5/1ca2c718-1bbc-43bf-80b8-6dd7a5038a4f_DRIVE_2208x1242_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/b5/24/d4b52401-4ba6-9ce3-f8f1-47e7b9f90bdb/a0e01e5c-0073-4c31-a6fe-a7f4d63d8e9f_DRIVE_2208x1242_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/fc/474afcc1-fb38-4200-f90b-ed3ab93dedc1/42aad310-a338-4598-8216-4bbf708e3732_DRIVE_2208x1242_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/28/35/d22835c7-cd1a-443e-9500-0a17b628cc74/4f241842-b864-46f6-906d-f9f7a0b6ffab_DRIVE_2208x1242_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/66/c7/1266c7c0-4472-b4c2-e0f3-2f52447f3dcc/8f049f7b-907b-4aef-918e-3bc40581f02f_DRIVE_2208x1242_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/8b/f8/528bf8e8-b615-8ddb-f551-429bd0a9260d/2c5743c7-4a71-4118-b1f2-c81900ad949b_DRIVE_2208x1242_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/a9/12/c7a91204-ce5d-e373-b866-3882e89a0add/4a681265-f2c0-44f7-ad5e-32cb48ce842f_DRIVE_2208x1242_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/d3/bb/c1d3bb26-1cb4-3ca3-a28b-b55a2dae4219/99c43304-ed08-40ab-93bc-33c44b945630_screen_2208x1242_2024-01-02_23-47-26.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/f9/36/e4f93660-6fd3-b385-5b79-9d016f1ee700/9bdf75b6-885b-4683-b146-5b1478286fc1_screen_2208x1242_2024-01-03_00-01-09.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Bill Tracker",
       "version": "4.1.67",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.67.ipa",
@@ -9579,35 +9608,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/53/b7/8e53b781-7888-65ab-48d9-6cc318efe7e7/APP_IPAD_PRO_3GEN_129_3.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/d5/ff/d8d5ff96-ac61-c44a-f9f4-ea96551d31c6/APP_IPAD_PRO_3GEN_129_4.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/73/fa/8b73fa9b-091f-53b9-f623-8716bca7f40a/APP_IPAD_PRO_3GEN_129_5.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "#DRIVE",
-      "version": "3.1.442",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.pixelperfectdude.htdrive_Sideloadbypass2_3.1.442.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.pixelperfectdude.htdrive",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/98/b9/1998b90f-7e72-1bba-a940-2aad4ce30139/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\n#DRIVE\n\nTweak: Premium Unlocked\n\nVersion: 3.1.442\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.pixelperfectdude.htdrive\nDeveloper: Pixel Perfect Dude S.A.",
-      "developer": "Pixel Perfect Dude S.A.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/59/36/1b593604-d390-37d8-15e4-284099a35004/DRIVE_2208x1242_U002841_U0029.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/0f/d8/860fd875-39f0-c609-ad9e-43150c5039b5/1ca2c718-1bbc-43bf-80b8-6dd7a5038a4f_DRIVE_2208x1242_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/b5/24/d4b52401-4ba6-9ce3-f8f1-47e7b9f90bdb/a0e01e5c-0073-4c31-a6fe-a7f4d63d8e9f_DRIVE_2208x1242_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/fc/474afcc1-fb38-4200-f90b-ed3ab93dedc1/42aad310-a338-4598-8216-4bbf708e3732_DRIVE_2208x1242_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/28/35/d22835c7-cd1a-443e-9500-0a17b628cc74/4f241842-b864-46f6-906d-f9f7a0b6ffab_DRIVE_2208x1242_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/66/c7/1266c7c0-4472-b4c2-e0f3-2f52447f3dcc/8f049f7b-907b-4aef-918e-3bc40581f02f_DRIVE_2208x1242_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/8b/f8/528bf8e8-b615-8ddb-f551-429bd0a9260d/2c5743c7-4a71-4118-b1f2-c81900ad949b_DRIVE_2208x1242_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/a9/12/c7a91204-ce5d-e373-b866-3882e89a0add/4a681265-f2c0-44f7-ad5e-32cb48ce842f_DRIVE_2208x1242_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/d3/bb/c1d3bb26-1cb4-3ca3-a28b-b55a2dae4219/99c43304-ed08-40ab-93bc-33c44b945630_screen_2208x1242_2024-01-02_23-47-26.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/f9/36/e4f93660-6fd3-b385-5b79-9d016f1ee700/9bdf75b6-885b-4683-b146-5b1478286fc1_screen_2208x1242_2024-01-03_00-01-09.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
