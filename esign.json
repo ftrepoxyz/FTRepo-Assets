@@ -3,6 +3,61 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Bill Tracker",
+      "version": "4.1.67",
+      "versionDate": "2026-04-03",
+      "size": 147296243,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.67.ipa",
+      "developerName": "Bill Tracker Pro, Inc.",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/a2/57/21a2577b-bfcc-6d78-a5bc-2770af96e373/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.67\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Locket",
+      "version": "2.41.0",
+      "versionDate": "2026-04-03",
+      "size": 344380240,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.locket.Locket_AutoRcSideload_2.41.0.ipa",
+      "developerName": "Locket Labs, Inc.",
+      "bundleIdentifier": "com.locket.Locket",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/8d/01/ae8d0134-5f2c-5f0f-79d5-146a1618d182/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.41.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "!Camera",
+      "version": "1.47",
+      "versionDate": "2026-04-03",
+      "size": 150863547,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.andyworks.camera_NotBoringCrack_1.47.ipa",
+      "developerName": "Not Boring Software LLC",
+      "bundleIdentifier": "com.andyworks.camera",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/64/83/276483f6-0996-327f-8fb1-9cbf706eabd4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\n(Not Boring) Camera\n\n• Bundle ID: com.andyworks.camera\n• Updated to: 1.47\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/dc/9f/6cdc9f40-7ef3-47fb-3471-dcfbd2f248ac/camera-iphone-1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/22/93/c0229370-1c14-75bf-408d-344d1e212196/camera-iphone-2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/3f/6a/a63f6ae2-0e15-b9f3-610c-8bbdc1c7ba9b/camera-iphone-4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/ef/18/b1ef1837-9591-0ab8-c85f-547793a5371b/camera-iphone-3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/60/7d/f1607d27-495f-d4f3-62cd-8591882fb87b/camera-iphone-6.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/c7/5e/c4c75e4f-effa-aa89-8775-1024e4caa7a0/camera-iphone-5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/5b/c4/ae5bc4ef-0032-cf35-73f3-ccbc2106be2f/camera-iphone-7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/33/1a/86331ae1-b6cf-95eb-f8ec-5384af790c0d/camera-iphone-8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/d4/53/3ad4530a-51a7-32ac-674e-832a9dc8f832/camera-ipad-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/03/fb/1403fbfe-a423-69bc-960e-7742e9a982db/camera-ipad-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/6d/6b/f06d6b42-378f-97d6-a321-c3eb9fc9afc5/camera-ipad-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/7d/bc/3f7dbc64-1045-ff43-42ec-b76f9eb67edc/camera-ipad-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/9c/a3/d59ca363-fd22-e03b-33bb-f6172e59608a/camera-ipad-6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/03/9c/54039c45-57ae-ccb9-db78-d41d61f75507/camera-ipad-5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/e2/3b/2ee23b13-5398-dcfa-a515-6e89572a5db2/camera-ipad-7.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Stick War: Saga",
       "version": "2026.5.2718",
       "versionDate": "2026-04-02",
@@ -2080,19 +2135,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Locket",
-      "version": "2.39.0",
-      "versionDate": "2026-03-27",
-      "size": 331303443,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.locket.Locket_AutoRcSideload_2.39.0.ipa",
-      "developerName": "Locket Labs, Inc.",
-      "bundleIdentifier": "com.locket.Locket",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/5a/93/575a93e2-056b-4522-9fb9-cc53b13a0457/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.39.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "2 Player Games",
       "version": "7.15.7",
       "versionDate": "2026-03-27",
@@ -2740,19 +2782,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Bill Tracker",
-      "version": "4.1.61",
-      "versionDate": "2026-03-24",
-      "size": 148216504,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.61.ipa",
-      "developerName": "Bill Tracker Pro, Inc.",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/3b/af/043baf10-f79e-130d-87ba-076dc21bd44f/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.61\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Speak",
       "version": "4.40.0",
       "versionDate": "2026-03-24",
@@ -2862,35 +2891,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/5f/1f/ce5f1fc9-e0dd-015f-1bc8-6d81dcf46d24/ipad_-_student_-_preview_--6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/73/66/b3736674-5599-1d17-f434-77de01a21685/ipad_-_student_-_preview_--8.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/1f/b7/3b1fb73c-9e8c-b2bc-ed0f-91d8e6f09732/ipad_-_student_-_preview_--9.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "!Camera",
-      "version": "1.46",
-      "versionDate": "2026-03-24",
-      "size": 150859789,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.andyworks.camera_NotBoringCrack_1.46.ipa",
-      "developerName": "Not Boring Software LLC",
-      "bundleIdentifier": "com.andyworks.camera",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/64/83/276483f6-0996-327f-8fb1-9cbf706eabd4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\n(Not Boring) Camera\n\n• Bundle ID: com.andyworks.camera\n• Updated to: 1.46\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/dc/9f/6cdc9f40-7ef3-47fb-3471-dcfbd2f248ac/camera-iphone-1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/22/93/c0229370-1c14-75bf-408d-344d1e212196/camera-iphone-2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/3f/6a/a63f6ae2-0e15-b9f3-610c-8bbdc1c7ba9b/camera-iphone-4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/ef/18/b1ef1837-9591-0ab8-c85f-547793a5371b/camera-iphone-3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/60/7d/f1607d27-495f-d4f3-62cd-8591882fb87b/camera-iphone-6.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/c7/5e/c4c75e4f-effa-aa89-8775-1024e4caa7a0/camera-iphone-5.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/5b/c4/ae5bc4ef-0032-cf35-73f3-ccbc2106be2f/camera-iphone-7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/33/1a/86331ae1-b6cf-95eb-f8ec-5384af790c0d/camera-iphone-8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/d4/53/3ad4530a-51a7-32ac-674e-832a9dc8f832/camera-ipad-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/03/fb/1403fbfe-a423-69bc-960e-7742e9a982db/camera-ipad-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/6d/6b/f06d6b42-378f-97d6-a321-c3eb9fc9afc5/camera-ipad-4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/7d/bc/3f7dbc64-1045-ff43-42ec-b76f9eb67edc/camera-ipad-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/9c/a3/d59ca363-fd22-e03b-33bb-f6172e59608a/camera-ipad-6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/03/9c/54039c45-57ae-ccb9-db78-d41d61f75507/camera-ipad-5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/e2/3b/2ee23b13-5398-dcfa-a515-6e89572a5db2/camera-ipad-7.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
