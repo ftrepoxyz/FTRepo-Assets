@@ -20928,11 +20928,17 @@
       "name": "Locket",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/8d/01/ae8d0134-5f2c-5f0f-79d5-146a1618d182/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.41.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/bb/35/58bb3544-7166-4edd-da34-aac515eec5cc/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.41.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.41.1",
+          "date": "2026-04-04",
+          "size": 344380715,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.locket.Locket_AutoRcSideload_2.41.1.ipa"
+        },
         {
           "version": "2.41.0",
           "date": "2026-04-03",
@@ -20944,19 +20950,13 @@
           "date": "2026-03-27",
           "size": 331303443,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.locket.Locket_AutoRcSideload_2.39.0.ipa"
-        },
-        {
-          "version": "2.38.0",
-          "date": "2026-03-20",
-          "size": 343258800,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/com.locket.Locket_AutoRcSideload_2.38.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.41.0",
-      "versionDate": "2026-04-03T04:01:49.352Z",
-      "size": 344380240,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.locket.Locket_AutoRcSideload_2.41.0.ipa"
+      "version": "2.41.1",
+      "versionDate": "2026-04-04T09:13:32.330Z",
+      "size": 344380715,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.locket.Locket_AutoRcSideload_2.41.1.ipa"
     },
     {
       "name": "TravelBoast",
