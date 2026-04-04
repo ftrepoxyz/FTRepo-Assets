@@ -3,6 +3,19 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Locket",
+      "version": "2.41.1",
+      "versionDate": "2026-04-04",
+      "size": 344380715,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.locket.Locket_AutoRcSideload_2.41.1.ipa",
+      "developerName": "Locket Labs, Inc.",
+      "bundleIdentifier": "com.locket.Locket",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/bb/35/58bb3544-7166-4edd-da34-aac515eec5cc/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.41.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Pillow",
       "version": "6.2.13",
       "versionDate": "2026-04-04",
@@ -551,19 +564,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/d3/bb/c1d3bb26-1cb4-3ca3-a28b-b55a2dae4219/99c43304-ed08-40ab-93bc-33c44b945630_screen_2208x1242_2024-01-02_23-47-26.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/f9/36/e4f93660-6fd3-b385-5b79-9d016f1ee700/9bdf75b6-885b-4683-b146-5b1478286fc1_screen_2208x1242_2024-01-03_00-01-09.png/1320x2868bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Locket",
-      "version": "2.41.0",
-      "versionDate": "2026-04-03",
-      "size": 344380240,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.locket.Locket_AutoRcSideload_2.41.0.ipa",
-      "developerName": "Locket Labs, Inc.",
-      "bundleIdentifier": "com.locket.Locket",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/8d/01/ae8d0134-5f2c-5f0f-79d5-146a1618d182/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.41.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
