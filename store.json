@@ -13255,7 +13255,7 @@
       "bundleIdentifier": "co.detail.duo",
       "developerName": "Detail Technologies B.V.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/69/42/e869426d-3c23-44fb-9553-2ba4d4d140d6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.10\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.13\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/aa/62/efaa62c5-a226-ca70-b9da-7f12a8534ba3/EN_-_Screenshot_0.jpg/1320x2868bb.webp"
@@ -13350,16 +13350,16 @@
       ],
       "versions": [
         {
+          "version": "5.5.13",
+          "date": "2026-04-04",
+          "size": 224445344,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/co.detail.duo_Detail_5.5.13.ipa"
+        },
+        {
           "version": "5.5.10",
           "date": "2026-03-20",
           "size": 220931505,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/co.detail.duo_Detail_5.5.10.ipa"
-        },
-        {
-          "version": "5.5.9",
-          "date": "2026-03-11",
-          "size": 220929880,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.detail.duo_Detail_5.5.9.ipa"
         },
         {
           "version": "5.5.7",
@@ -13369,10 +13369,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.5.10",
-      "versionDate": "2026-03-20T20:35:10.009Z",
-      "size": 220931505,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/co.detail.duo_Detail_5.5.10.ipa"
+      "version": "5.5.13",
+      "versionDate": "2026-04-04T12:13:21.459Z",
+      "size": 224445344,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/co.detail.duo_Detail_5.5.13.ipa"
     },
     {
       "name": "Kids",
@@ -27925,7 +27925,7 @@
       "bundleIdentifier": "com.grandgames.carmatch",
       "developerName": "Grand Games A.Ş.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/54/91/675491f4-9a49-55d0-6fd8-98903f978ba8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nCar Match - Traffic Puzzle\n\nTweak: Free iAP\n\nVersion: 0.0.628\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.carmatch\nDeveloper: Grand Games A.Ş.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCar Match - Traffic Puzzle\n\nTweak: Free iAP\n\nVersion: 0.0.649\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.carmatch\nDeveloper: Grand Games A.Ş.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/84/a1/6c84a16b-fb54-06a7-5af2-2baf48450897/1.jpg/1320x2868bb.jpg"
@@ -27960,6 +27960,12 @@
       ],
       "versions": [
         {
+          "version": "0.0.649",
+          "date": "2026-04-04",
+          "size": 173210374,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.grandgames.carmatch_Sideloadbypass2_0.0.649.ipa"
+        },
+        {
           "version": "0.0.628",
           "date": "2026-03-25",
           "size": 171953904,
@@ -27967,10 +27973,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "0.0.628",
-      "versionDate": "2026-03-25T15:43:46.097Z",
-      "size": 171953904,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.grandgames.carmatch_Sideloadbypass2_0.0.628.ipa"
+      "version": "0.0.649",
+      "versionDate": "2026-04-04T12:13:44.270Z",
+      "size": 173210374,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.grandgames.carmatch_Sideloadbypass2_0.0.649.ipa"
     }
   ]
 }
