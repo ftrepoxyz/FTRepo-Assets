@@ -3,6 +3,51 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "aa",
+      "version": "7.0.7",
+      "versionDate": "2026-04-05",
+      "size": 42062569,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/com.aagame.aagame_popuprifty_7.0.7.ipa",
+      "developerName": "General Adaptive Apps Pty Ltd",
+      "bundleIdentifier": "com.aagame.aagame",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/1d/4f/5e1d4ffc-0336-463f-6ee7-bc2401c9afb1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAA Game\n\nTweak: Premium Unlocked\n\nVersion: 7.0.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.aagame.aagame\nDeveloper: General Adaptive Apps Pty Ltd",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/72/a7/e672a7cd-014f-e5e0-ba1a-ec6a90efb8d7/c7cba422-6bae-4818-9bd5-046c20a78493_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/09/e8/7c09e8b1-cc40-3d05-1d07-9e5b4209ba0e/9e5142e0-0854-4405-b2b2-bf126a10a418_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ba/b5/6dbab550-73a1-2b69-d595-27822ab90bd5/252a166a-1bfa-467e-83a9-cdfdb255152c_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/b3/b1/f9b3b17a-2508-32e7-48ef-a8c34eed676f/d5188a9b-0e65-48e0-a6ae-017601c90c56_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/3b/5f/653b5f17-b3f3-b532-db8f-0318876337f2/0b75faa6-3819-40de-979a-2811932511fb_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/eb/63/deeb6322-624f-c5e2-727b-2928c491db59/33f0d369-cda0-49fc-8263-f33977b23ee6_5_5_inch_iPhone_screen_15.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/14/44/a21444b9-ad74-0c18-6aec-4eedfa8d0205/f1c20e71-19fa-4063-9cf3-07ab2b569806_5_5_inch_iPhone_screen_9.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "BoldVoice",
+      "version": "3.7.1",
+      "versionDate": "2026-04-05",
+      "size": 140487853,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/com.wellocution.iosapp_BoldVoice_3.7.1.ipa",
+      "developerName": "Wellocution Inc.",
+      "bundleIdentifier": "com.wellocution.iosapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/24/fc/2624fc0a-1d2b-0281-3eee-30e4302de632/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.7.1\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/cb/5d/93cb5d0d-31a8-9ad3-5d1f-9c755382d06d/BoldVoice_iPad_Color_-_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/77/34/dd773483-f2d0-9635-0430-8b457cf7b11a/BoldVoice_iPad_Color_-_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/fc/60/00fc6049-fcc7-a7e5-f3d9-f9e5634b136b/BoldVoice_iPad_Color_-_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/41/fa/a741fad5-063c-f519-167f-5f2b594dcc30/BoldVoice_iPad_Color_-_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/b9/47/9bb9471e-984d-c745-6d71-b8c34c50fe98/BoldVoice_iPad_Color_-_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c6/29/34c6295c-05e4-e737-409f-92a9d30b4de6/BoldVoice_iPad_Color_-_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/94/d0/8194d08e-efa7-d73d-0908-1872edbf2280/BoldVoice_iPad_Color_-_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/58/00/c5580094-a044-4744-b92f-d4d2c3dc7681/BoldVoice_iPad_Color_-_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d2/dc/f5d2dc91-eb01-95ad-d559-e9c426456ccb/BoldVoice_iPad_Light_-_10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Summarify",
       "version": "3.12.1",
       "versionDate": "2026-04-04",
@@ -1525,51 +1570,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/0b/93/040b9348-bf7f-9bb4-b6a2-cece6347a0d2/iPhone_6_U002c9_artwork_08.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/76/85/107685d8-29b6-ffc3-a4c2-cf7382ccb3bd/iPhone_6_U002c9_artwork_09.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ed/57/deed5783-d78a-fcff-aa3a-79dfb0516c06/iPhone_6_U002c9_artwork_10.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "aa",
-      "version": "7.0.6",
-      "versionDate": "2026-04-01",
-      "size": 40232685,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.aagame.aagame_popuprifty_7.0.6.ipa",
-      "developerName": "General Adaptive Apps Pty Ltd",
-      "bundleIdentifier": "com.aagame.aagame",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/1d/4f/5e1d4ffc-0336-463f-6ee7-bc2401c9afb1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAA Game\n\nTweak: Premium Unlocked\n\nVersion: 7.0.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.aagame.aagame\nDeveloper: General Adaptive Apps Pty Ltd",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/72/a7/e672a7cd-014f-e5e0-ba1a-ec6a90efb8d7/c7cba422-6bae-4818-9bd5-046c20a78493_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/09/e8/7c09e8b1-cc40-3d05-1d07-9e5b4209ba0e/9e5142e0-0854-4405-b2b2-bf126a10a418_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ba/b5/6dbab550-73a1-2b69-d595-27822ab90bd5/252a166a-1bfa-467e-83a9-cdfdb255152c_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/b3/b1/f9b3b17a-2508-32e7-48ef-a8c34eed676f/d5188a9b-0e65-48e0-a6ae-017601c90c56_5_5_inch_iPhone_screen_9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/3b/5f/653b5f17-b3f3-b532-db8f-0318876337f2/0b75faa6-3819-40de-979a-2811932511fb_5_5_inch_iPhone_screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/eb/63/deeb6322-624f-c5e2-727b-2928c491db59/33f0d369-cda0-49fc-8263-f33977b23ee6_5_5_inch_iPhone_screen_15.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/14/44/a21444b9-ad74-0c18-6aec-4eedfa8d0205/f1c20e71-19fa-4063-9cf3-07ab2b569806_5_5_inch_iPhone_screen_9.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "BoldVoice",
-      "version": "3.7.0",
-      "versionDate": "2026-04-01",
-      "size": 140965961,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.wellocution.iosapp_BoldVoice_3.7.0.ipa",
-      "developerName": "Wellocution Inc.",
-      "bundleIdentifier": "com.wellocution.iosapp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/24/fc/2624fc0a-1d2b-0281-3eee-30e4302de632/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.7.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/cb/5d/93cb5d0d-31a8-9ad3-5d1f-9c755382d06d/BoldVoice_iPad_Color_-_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/77/34/dd773483-f2d0-9635-0430-8b457cf7b11a/BoldVoice_iPad_Color_-_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/fc/60/00fc6049-fcc7-a7e5-f3d9-f9e5634b136b/BoldVoice_iPad_Color_-_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/41/fa/a741fad5-063c-f519-167f-5f2b594dcc30/BoldVoice_iPad_Color_-_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/b9/47/9bb9471e-984d-c745-6d71-b8c34c50fe98/BoldVoice_iPad_Color_-_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c6/29/34c6295c-05e4-e737-409f-92a9d30b4de6/BoldVoice_iPad_Color_-_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/94/d0/8194d08e-efa7-d73d-0908-1872edbf2280/BoldVoice_iPad_Color_-_9.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/58/00/c5580094-a044-4744-b92f-d4d2c3dc7681/BoldVoice_iPad_Color_-_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d2/dc/f5d2dc91-eb01-95ad-d559-e9c426456ccb/BoldVoice_iPad_Light_-_10.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
