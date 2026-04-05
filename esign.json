@@ -3,6 +3,55 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Bill Tracker",
+      "version": "4.1.69",
+      "versionDate": "2026-04-05",
+      "size": 148287055,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.69.ipa",
+      "developerName": "Bill Tracker Pro, Inc.",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/dd/6f/92dd6fe0-49b6-a23d-885e-15f776f2647e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.69\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Uplens",
+      "version": "3.5.0",
+      "versionDate": "2026-04-05",
+      "size": 178942334,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/app.uplens_Uplens_3.5.0.ipa",
+      "developerName": "MPGames",
+      "bundleIdentifier": "app.uplens",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/af/13f1affa-cf26-3e4c-cdbf-08789fe8ef43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nUplens: Photo & Video Editor\n\n• Bundle ID: app.uplens\n• Updated to: 3.5.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b761d1-4520-bb1f-6f9c-2a33cf99be0d/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/28/a5/bf28a59a-a008-cdac-ab71-c7524b09f019/fb3be5a6-4f05-40fd-b202-8f672503eab0_3-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ef/74/e7ef743b-6b1a-4655-934b-dcd188dd82c4/912accdc-d02d-42fc-9ca2-dd1c42202b39_4-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/af/9a/81af9a34-d92d-293f-c4c1-10e5a4d080fc/d1322cb8-ae03-427f-a3c0-a35d50619bca_5-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/08/d4/cd08d444-b47d-6ae2-10a4-94721adf0f9a/18a65433-b405-4d79-93f6-63a86d81c02c_6-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/f4/ff/32f4ffac-f03c-1378-c44e-5ab439c74b14/5de6ad60-b69d-46da-96c0-19c0d39a7386_7-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fe/b3/36feb3fa-21ef-370f-8943-525e7d1efc57/1018be1f-f9b9-4153-a6a9-5193a2f14411_8-5_U00275-en.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/97/7f/38977fee-266c-66c3-5839-157f94a87ae2/1082e6ed-cf5b-49d2-a774-68148aeb5519_9-5_U00275-en.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "KetoDiet",
+      "version": "8.4",
+      "versionDate": "2026-04-05",
+      "size": 46172443,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/com.lappir.keto_KetoDiet_8.4.ipa",
+      "developerName": "Zinaida Davydova",
+      "bundleIdentifier": "com.lappir.keto",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/61/c5/0261c587-cf99-dc9c-fd12-208361a893a5/KetoIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nKeto diet app－Low carb manager\n\n• Bundle ID: com.lappir.keto\n• Updated to: 8.4\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "InnerNow",
       "version": "3.1.4",
       "versionDate": "2026-04-05",
@@ -757,19 +806,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/b9/dd/e6b9dd90-36cf-aa4f-f150-3cb64d1cf5fe/786d7d43-315b-47ff-8df2-c167951486b9_Sofa_App_Store_Screenshot_9.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/fb/f5/f2fbf536-8c89-7fc2-fa9f-8ee5d0d4867a/32ff7fbc-80c1-4cd5-9cf4-2f8e0c99d61a_Sofa_App_Store_Screenshot_10.png/1320x2868bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Bill Tracker",
-      "version": "4.1.68",
-      "versionDate": "2026-04-03",
-      "size": 148263777,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.68.ipa",
-      "developerName": "Bill Tracker Pro, Inc.",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/a2/57/21a2577b-bfcc-6d78-a5bc-2770af96e373/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.68\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -2371,29 +2407,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/bf/34/9bbf344d-ff5e-2e5e-a455-8d9b55a04fc9/iPad_US_4.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/03/b8/3b03b824-da16-5a3d-4bac-cd2af49d758c/iPad_US_7.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/6e/4c/da6e4c6d-8216-765e-3f74-0690f2b34212/iPad_US_8.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Uplens",
-      "version": "3.4.12",
-      "versionDate": "2026-03-29",
-      "size": 178905607,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/app.uplens_Uplens_3.4.12.ipa",
-      "developerName": "MPGames",
-      "bundleIdentifier": "app.uplens",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/af/13f1affa-cf26-3e4c-cdbf-08789fe8ef43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nUplens: Photo & Video Editor\n\n• Bundle ID: app.uplens\n• Updated to: 3.4.12\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b761d1-4520-bb1f-6f9c-2a33cf99be0d/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/28/a5/bf28a59a-a008-cdac-ab71-c7524b09f019/fb3be5a6-4f05-40fd-b202-8f672503eab0_3-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ef/74/e7ef743b-6b1a-4655-934b-dcd188dd82c4/912accdc-d02d-42fc-9ca2-dd1c42202b39_4-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/af/9a/81af9a34-d92d-293f-c4c1-10e5a4d080fc/d1322cb8-ae03-427f-a3c0-a35d50619bca_5-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/08/d4/cd08d444-b47d-6ae2-10a4-94721adf0f9a/18a65433-b405-4d79-93f6-63a86d81c02c_6-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/f4/ff/32f4ffac-f03c-1378-c44e-5ab439c74b14/5de6ad60-b69d-46da-96c0-19c0d39a7386_7-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fe/b3/36feb3fa-21ef-370f-8943-525e7d1efc57/1018be1f-f9b9-4153-a6a9-5193a2f14411_8-5_U00275-en.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/97/7f/38977fee-266c-66c3-5839-157f94a87ae2/1082e6ed-cf5b-49d2-a774-68148aeb5519_9-5_U00275-en.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
