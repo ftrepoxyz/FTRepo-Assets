@@ -3,6 +3,75 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "FotMob",
+      "version": "1230.0",
+      "versionDate": "2026-04-06",
+      "size": 63674102,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.mobilefootie.fotmobpro_autoRevenuecat_1230.0.ipa",
+      "developerName": "FotMob AS",
+      "bundleIdentifier": "com.mobilefootie.fotmobpro",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/15/54/db1554d8-3e66-2efc-e102-0fcc6a7f646e/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nFotMob - Soccer Live Scores\n\nTweak: Premium Unlocked\n\nVersion: 1230.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.mobilefootie.fotmobpro\nDeveloper: FotMob AS",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/61/8f/93618f6e-1f91-6155-8059-07834c3da958/English__U0028US_U0029_-_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/19/35/b319359e-3752-5cba-788f-ef40284d6e68/English__U0028US_U0029_-_2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/c1/88/51c18825-ac6b-8cf5-0737-7c73b7983d7f/English__U0028US_U0029_-_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/44/6e/2b446ef2-f853-ffc2-4aa9-62d0024e95ee/English__U0028US_U0029_-_4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/ea/6b/46ea6bf2-0a1f-6170-dcba-2682bd8fe546/English__U0028US_U0029_-_5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/bf/72/1bbf729e-62e3-0cdf-b191-ef872726f949/English__U0028US_U0029_-_6.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/d7/26/efd72675-ca3b-87e0-c605-c24f0a22b1cc/English__U0028US_U0029_-_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c3/7b/34c37bae-07f7-9eeb-5f0d-ee6ba33209e0/English__U0028US_U0029_-_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/2a/ab/e42aab7f-8724-3303-4ec5-63f64cc651cf/English__U0028US_U0029_-_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/25/10/31251029-7773-2c1c-0244-a575eb7abec4/iPad_-_2064_x_2752_-_C.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/84/54/2b845483-8af2-d538-11f1-3539184a1bc8/iPad_-_2064_x_2752_-_E.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/62/d6/c062d670-58b5-66aa-bbeb-6a13245b9456/iPad_-_2064_x_2752_-_B.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/66/0e/79660e65-7811-5201-59b6-d5b2762f7544/iPad_-_2064_x_2752_-_A.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/6f/16/b06f1640-d8cd-df73-0bcf-2db9121328f7/iPad_-_2064_x_2752_-_D.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "ProFit",
+      "version": "7.17.2",
+      "versionDate": "2026-04-06",
+      "size": 52655115,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.maxty.gofitness_ProFit_7.17.2.ipa",
+      "developerName": "VGFIT LLC",
+      "bundleIdentifier": "com.maxty.gofitness",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/9b/5f/6f9b5f4c-b059-69f9-5f77-4a557a086d96/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nProFit: Workout Planner\n\n• Bundle ID: com.maxty.gofitness\n• Updated to: 7.17.2\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/bd/4c/2dbd4c54-f87e-b8b4-f573-fc9cca65e374/Screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/96/0d/d0960dd2-4d18-80a5-e83f-709bf60e90be/Screen_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/a3/a4/76a3a41a-45fb-7053-d582-6066794fe2bf/Screen_5.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "CollaNote",
+      "version": "4.0.9",
+      "versionDate": "2026-04-06",
+      "size": 132504059,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/net.quochuywdm.collanote496_CollaNote_4.0.9.ipa",
+      "developerName": "Zauberberg Lab Company Limited",
+      "bundleIdentifier": "net.quochuywdm.collanote496",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/1c/3e/041c3ed1-af80-5091-445b-354fb7579c50/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nCollaNote: Notes & PDF Markup\n\n• Bundle ID: net.quochuywdm.collanote496\n• Updated to: 4.0.9\n• Minimum iOS: 18.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Google/Apple login may not work,\n>Sign-in with email and password instead.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/d6/90/83d690ec-bdda-a1a5-8eec-bbc610123989/f7b1c99c-a6cf-4747-ac03-4dbad9c4ca98_1_-_Pens_and_Brushes.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/b1/67/e2b16726-7d82-60a8-045e-09ba081dc5c3/7336be6b-48a9-4c88-9641-7102c8ec2962_2_-_Ink_And_Audio.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/13/27/561327c7-00e8-1fc9-6f67-558c3fe8b0f6/69e9cad2-1b81-4dab-ae6a-bff5481ed1f4_3_-_Dark__U0026_Light_Mode.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ab/f1/51abf196-90df-f495-3e42-37127f8fcb44/2a68418a-23eb-4701-8bdd-b0992135f446_4_-_Teaching__U0026_Presenting.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/0f/9f/240f9f2d-7809-cb40-aebe-c14221649601/8838194c-1917-4e81-abf0-c65513166980_5_-_Learn_New_Language.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/03/18/610318d1-9736-3369-f292-81777b3b21b4/370a899e-3f17-4619-ae45-95cb14922f06_6_-_Digital_Planner.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/70/73/78707377-bb5d-8545-726e-4769555bbd0f/7544e60b-e4b8-4aa5-a217-9951efcb0835_7_-_Collaburation.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/43/11/be43112a-009a-a152-559e-1b6db7bbc7cf/e56564cd-8e23-4dbc-8847-3fad6867427b_8_-_Scan.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "WordPal",
       "version": "4.6.23",
       "versionDate": "2026-04-06",
@@ -1912,28 +1981,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/3c/d1/b23cd196-8be0-a830-cec0-33258f82b46b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @riftysipalibrary |\n----------------\nColourtone: #1 Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 5.5.3\n\nNotes: ignore purchase page\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.colorpresets.colourtone\nDeveloper: Bonnie Curtis",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "CollaNote",
-      "version": "4.0.6",
-      "versionDate": "2026-03-31",
-      "size": 129942002,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/net.quochuywdm.collanote496_CollaNote_4.0.6.ipa",
-      "developerName": "Zauberberg Lab Company Limited",
-      "bundleIdentifier": "net.quochuywdm.collanote496",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/1c/3e/041c3ed1-af80-5091-445b-354fb7579c50/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCollaNote: Notes & PDF Markup\n\n• Bundle ID: net.quochuywdm.collanote496\n• Reuploaded: 4.0.7\n• Minimum iOS: 18.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Google/Apple login may not work,\n>Sign-in with email and password instead.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/d6/90/83d690ec-bdda-a1a5-8eec-bbc610123989/f7b1c99c-a6cf-4747-ac03-4dbad9c4ca98_1_-_Pens_and_Brushes.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/b1/67/e2b16726-7d82-60a8-045e-09ba081dc5c3/7336be6b-48a9-4c88-9641-7102c8ec2962_2_-_Ink_And_Audio.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/13/27/561327c7-00e8-1fc9-6f67-558c3fe8b0f6/69e9cad2-1b81-4dab-ae6a-bff5481ed1f4_3_-_Dark__U0026_Light_Mode.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ab/f1/51abf196-90df-f495-3e42-37127f8fcb44/2a68418a-23eb-4701-8bdd-b0992135f446_4_-_Teaching__U0026_Presenting.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/0f/9f/240f9f2d-7809-cb40-aebe-c14221649601/8838194c-1917-4e81-abf0-c65513166980_5_-_Learn_New_Language.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/03/18/610318d1-9736-3369-f292-81777b3b21b4/370a899e-3f17-4619-ae45-95cb14922f06_6_-_Digital_Planner.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/70/73/78707377-bb5d-8545-726e-4769555bbd0f/7544e60b-e4b8-4aa5-a217-9951efcb0835_7_-_Collaburation.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/43/11/be43112a-009a-a152-559e-1b6db7bbc7cf/e56564cd-8e23-4dbc-8847-3fad6867427b_8_-_Scan.png/1320x2868bb.png"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
@@ -5969,25 +6016,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "ProFit",
-      "version": "7.16.14",
-      "versionDate": "2026-03-13",
-      "size": 56313440,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.maxty.gofitness_ProFit_7.16.14.ipa",
-      "developerName": "VGFIT LLC",
-      "bundleIdentifier": "com.maxty.gofitness",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/1c/53/bc1c5356-1521-b7db-d66b-e197c9e51550/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nProFit: Workout Planner\n\n• Bundle ID: com.maxty.gofitness\n• Updated to: 7.16.14\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/bd/4c/2dbd4c54-f87e-b8b4-f573-fc9cca65e374/Screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/96/0d/d0960dd2-4d18-80a5-e83f-709bf60e90be/Screen_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/a3/a4/76a3a41a-45fb-7053-d582-6066794fe2bf/Screen_5.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "WebSSH",
       "version": "31.0",
       "versionDate": "2026-03-13",
@@ -6447,34 +6475,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/6e/5a/a16e5a9d-535a-e3ab-387f-ac9e12472af6/88e5a55c-52d3-4597-964d-5765b5b07633_5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c2/01/79c2019f-3016-d5a0-bb31-9928f91a4800/73a3af20-5e27-49ae-89b1-6b7cd618d751_6.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/40/d6/1840d633-626c-93ae-bb0f-0ae1b53c65f7/497699c5-6237-4015-ba65-088facaa5fb5_8_small.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "FotMob",
-      "version": "1228.0",
-      "versionDate": "2026-03-11",
-      "size": 53769647,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.mobilefootie.fotmobpro_autoRevenuecat_1228.0.ipa",
-      "developerName": "FotMob AS",
-      "bundleIdentifier": "com.mobilefootie.fotmobpro",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/15/54/db1554d8-3e66-2efc-e102-0fcc6a7f646e/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nFotMob - Soccer Live Scores\n\nTweak: Premium Unlocked\n\nVersion: 1228.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.mobilefootie.fotmobpro\nDeveloper: FotMob AS",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/61/8f/93618f6e-1f91-6155-8059-07834c3da958/English__U0028US_U0029_-_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/19/35/b319359e-3752-5cba-788f-ef40284d6e68/English__U0028US_U0029_-_2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/c1/88/51c18825-ac6b-8cf5-0737-7c73b7983d7f/English__U0028US_U0029_-_3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/44/6e/2b446ef2-f853-ffc2-4aa9-62d0024e95ee/English__U0028US_U0029_-_4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/ea/6b/46ea6bf2-0a1f-6170-dcba-2682bd8fe546/English__U0028US_U0029_-_5.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/bf/72/1bbf729e-62e3-0cdf-b191-ef872726f949/English__U0028US_U0029_-_6.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/d7/26/efd72675-ca3b-87e0-c605-c24f0a22b1cc/English__U0028US_U0029_-_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c3/7b/34c37bae-07f7-9eeb-5f0d-ee6ba33209e0/English__U0028US_U0029_-_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/2a/ab/e42aab7f-8724-3303-4ec5-63f64cc651cf/English__U0028US_U0029_-_9.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/25/10/31251029-7773-2c1c-0244-a575eb7abec4/iPad_-_2064_x_2752_-_C.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/84/54/2b845483-8af2-d538-11f1-3539184a1bc8/iPad_-_2064_x_2752_-_E.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/62/d6/c062d670-58b5-66aa-bbeb-6a13245b9456/iPad_-_2064_x_2752_-_B.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/66/0e/79660e65-7811-5201-59b6-d5b2762f7544/iPad_-_2064_x_2752_-_A.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/6f/16/b06f1640-d8cd-df73-0bcf-2db9121328f7/iPad_-_2064_x_2752_-_D.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
