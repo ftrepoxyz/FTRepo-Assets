@@ -6635,7 +6635,7 @@
       "bundleIdentifier": "com.snowcorp.soda",
       "developerName": "SNOW Corporation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/9f/42/7c9f42d8-952c-2644-3662-c1b2b5f5f4d4/GlobalAppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSODA - Natural Beauty Camera\n\n• Bundle ID: com.snowcorp.soda\n• Updated to: 10.1.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSODA - Natural Beauty Camera\n\n• Bundle ID: com.snowcorp.soda\n• Updated to: 10.1.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/c8/47/89c8479c-70b7-9763-919e-412ebb4156f8/5.5inch_AI_beauty_EN.jpg/1320x2868bb.jpg"
@@ -6674,6 +6674,12 @@
       ],
       "versions": [
         {
+          "version": "10.1.3",
+          "date": "2026-04-06",
+          "size": 150272994,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.snowcorp.soda_SODA_10.1.3.ipa"
+        },
+        {
           "version": "10.1.1",
           "date": "2026-04-01",
           "size": 150272291,
@@ -6684,19 +6690,13 @@
           "date": "2026-03-27",
           "size": 150263453,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.snowcorp.soda_SODA_10.1.0.ipa"
-        },
-        {
-          "version": "10.0.6",
-          "date": "2026-03-12",
-          "size": 137324011,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.snowcorp.soda_SODA_10.0.6.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "10.1.1",
-      "versionDate": "2026-04-01T13:01:22.468Z",
-      "size": 150272291,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.snowcorp.soda_SODA_10.1.1.ipa"
+      "version": "10.1.3",
+      "versionDate": "2026-04-06T18:13:34.337Z",
+      "size": 150272994,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.snowcorp.soda_SODA_10.1.3.ipa"
     },
     {
       "name": "Soundscape",
@@ -8988,11 +8988,39 @@
       "name": "Petty",
       "bundleIdentifier": "zachsim.one.Petty",
       "developerName": "Harbour City Software Pty Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/d5/98/48d59857-5152-24e5-7dd4-195400a05a88/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPetty: Petrol Prices Australia\n\nTweak: Premium Unlocked\n\nVersion: 8.0.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: zachsim.one.Petty\nDeveloper: Harbour City Software Pty Ltd",
-      "screenshots": [],
-      "screenshotURLs": [],
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/23/72/1e2372ee-a496-4898-36fb-3043703bd8fd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPetty: Petrol Prices Australia\n\nTweak: Premium Unlocked\n\nVersion: 8.0.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: zachsim.one.Petty\nDeveloper: Harbour City Software Pty Ltd",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/a9/fd/b7a9fd90-eb6b-bd2d-9419-8debf646dfb6/en-US-1-Screenshot_10.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/75/f9/0e75f9cd-a3ed-a17f-61de-e22965d4a6c8/en-US-2-Screenshot_10_Copy.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/a4/95/3da49580-8cf1-88ec-617c-ece304f37809/en-US-3-Screenshot_10_Copy_Copy.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/0d/c9/160dc96e-6095-a2d0-d412-3f829908235e/en-US-4-Screenshot_10_Copy_Copy_Copy.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/78/97/65789718-c578-51b3-a547-0d01d4773122/en-US-5-Screenshot_10_Copy_Copy_Copy_Copy.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/a9/fd/b7a9fd90-eb6b-bd2d-9419-8debf646dfb6/en-US-1-Screenshot_10.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/75/f9/0e75f9cd-a3ed-a17f-61de-e22965d4a6c8/en-US-2-Screenshot_10_Copy.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/a4/95/3da49580-8cf1-88ec-617c-ece304f37809/en-US-3-Screenshot_10_Copy_Copy.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/0d/c9/160dc96e-6095-a2d0-d412-3f829908235e/en-US-4-Screenshot_10_Copy_Copy_Copy.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/78/97/65789718-c578-51b3-a547-0d01d4773122/en-US-5-Screenshot_10_Copy_Copy_Copy_Copy.png/1320x2868bb.jpg"
+      ],
       "versions": [
+        {
+          "version": "8.0.5",
+          "date": "2026-04-06",
+          "size": 15499605,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/zachsim.one.Petty_Sideloadbypass2_8.0.5.ipa"
+        },
         {
           "version": "8.0.3",
           "date": "2026-03-11",
@@ -9001,10 +9029,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.0.3",
-      "versionDate": "2026-03-11T13:36:19.900Z",
-      "size": 15425222,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/zachsim.one.Petty_Sideloadbypass2_8.0.3.ipa"
+      "version": "8.0.5",
+      "versionDate": "2026-04-06T21:13:48.521Z",
+      "size": 15499605,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/zachsim.one.Petty_Sideloadbypass2_8.0.5.ipa"
     },
     {
       "name": "Duolingo",
@@ -14277,7 +14305,7 @@
       "bundleIdentifier": "com.shred.shredlabs",
       "developerName": "Shred Labs, LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/4b/af/b64baf75-8b81-e2ba-f1d9-28d190b81533/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSHRED: Gym & Home Workouts\n\n• Bundle ID: com.shred.shredlabs\n• Updated to: 5.4.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSHRED: Gym & Home Workouts\n\n• Bundle ID: com.shred.shredlabs\n• Updated to: 5.4.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/5f/cf/4b5fcf19-2fb8-1a7d-9963-275e3ae74b64/0510e987-0a1a-4978-b783-c5072f37e8c8_s1.png/1320x2868bb.png"
@@ -14324,6 +14352,12 @@
       ],
       "versions": [
         {
+          "version": "5.4.1",
+          "date": "2026-04-06",
+          "size": 150321012,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.shred.shredlabs_Shred_5.4.1.ipa"
+        },
+        {
           "version": "5.4.0",
           "date": "2026-03-12",
           "size": 148058764,
@@ -14337,10 +14371,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.4.0",
-      "versionDate": "2026-03-12T17:30:07.835Z",
-      "size": 148058764,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.shred.shredlabs_Shred_5.4.0.ipa"
+      "version": "5.4.1",
+      "versionDate": "2026-04-06T21:13:39.488Z",
+      "size": 150321012,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.shred.shredlabs_Shred_5.4.1.ipa"
     },
     {
       "name": "Der Die Das",
@@ -18899,6 +18933,72 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.peoplefun.wordcross_NetworkBlocker_3.9.2.ipa"
     },
     {
+      "name": "Race Master",
+      "bundleIdentifier": "com.easygames.race",
+      "developerName": "BERESNEV s.r.o.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/80/a9/6e80a927-14e5-a882-2211-8c96e700a2dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRace Master 3D: Car Racing\n\nTweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked\n\nVersion: 3.9.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.easygames.race\nDeveloper: BERESNEV s.r.o.",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/61/47/f6614761-46f4-eb8a-d2ac-efc5418b9c54/84d7683b-7c23-4885-881e-832fa764ecbc_8plus_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/a4/24/daa4249f-0a0a-58ec-5b5b-324058e58386/44023811-e8f9-469f-b735-40f0b46869e2_8plus_2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/82/e5/9482e502-ddc1-e2ce-0ac4-ebfd6e6a9bd4/b558ca26-648b-451f-91f4-ca72cdce32d8_8plus_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/4f/14/e64f1464-4a7c-7f53-19b8-bc53476042c7/7b267fd7-ff69-4785-b9b1-19e0760c4b2d_8plus_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/6a/f1/8d6af1e0-8946-02b1-06e6-00f3bfe19cd1/b1ef20dd-45a4-4064-807b-ce991acb8e30_8plus_5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/49/bd/9749bd73-12df-fd72-f686-07d5db95fbff/e1677513-1e2c-4cd3-9385-fe63aa171bc2_8plus_6.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/e9/1f/aae91fe5-3206-18c0-0ba8-71f2d28be7fd/6f27b6bb-c7dc-4c78-b536-2f6bb17aea1b_8plus_7.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/46/06/6b4606aa-c44c-c627-2a2f-54d17f7a6571/7e8b409a-f946-4245-8c11-584b14b60054_1242x2208bb__U00281_U0029.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bf/95/9abf95e1-886e-4cd6-3914-4f5a6c8c9aed/6280e918-8c08-4de9-9533-bb57b9b513a3_1242x2208bb__U00282_U0029.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/61/47/f6614761-46f4-eb8a-d2ac-efc5418b9c54/84d7683b-7c23-4885-881e-832fa764ecbc_8plus_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/a4/24/daa4249f-0a0a-58ec-5b5b-324058e58386/44023811-e8f9-469f-b735-40f0b46869e2_8plus_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/82/e5/9482e502-ddc1-e2ce-0ac4-ebfd6e6a9bd4/b558ca26-648b-451f-91f4-ca72cdce32d8_8plus_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/4f/14/e64f1464-4a7c-7f53-19b8-bc53476042c7/7b267fd7-ff69-4785-b9b1-19e0760c4b2d_8plus_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/6a/f1/8d6af1e0-8946-02b1-06e6-00f3bfe19cd1/b1ef20dd-45a4-4064-807b-ce991acb8e30_8plus_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/49/bd/9749bd73-12df-fd72-f686-07d5db95fbff/e1677513-1e2c-4cd3-9385-fe63aa171bc2_8plus_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/e9/1f/aae91fe5-3206-18c0-0ba8-71f2d28be7fd/6f27b6bb-c7dc-4c78-b536-2f6bb17aea1b_8plus_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/46/06/6b4606aa-c44c-c627-2a2f-54d17f7a6571/7e8b409a-f946-4245-8c11-584b14b60054_1242x2208bb__U00281_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bf/95/9abf95e1-886e-4cd6-3914-4f5a6c8c9aed/6280e918-8c08-4de9-9533-bb57b9b513a3_1242x2208bb__U00282_U0029.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "3.9.1",
+          "date": "2026-04-06",
+          "size": 288403591,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.easygames.race_racemaster_3.9.1.ipa"
+        },
+        {
+          "version": "3.6.28",
+          "date": "2026-03-12",
+          "size": 179542450,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.easygames.race_racemaster_3.6.28.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.9.1",
+      "versionDate": "2026-04-06T18:14:01.306Z",
+      "size": 288403591,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.easygames.race_racemaster_3.9.1.ipa"
+    },
+    {
       "name": "Tripsy",
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
@@ -19321,66 +19421,6 @@
       "versionDate": "2026-03-11T09:07:56.212Z",
       "size": 145760739,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.TetianaKolomiichuk.Reel-Templates_RevenueCatFix26_3.7.ipa"
-    },
-    {
-      "name": "Race Master",
-      "bundleIdentifier": "com.easygames.race",
-      "developerName": "BERESNEV s.r.o.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/80/a9/6e80a927-14e5-a882-2211-8c96e700a2dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nRace Master 3D: Car Racing\n\nTweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked\n\nVersion: 3.6.28\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.easygames.race\nDeveloper: BERESNEV s.r.o.",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/61/47/f6614761-46f4-eb8a-d2ac-efc5418b9c54/84d7683b-7c23-4885-881e-832fa764ecbc_8plus_1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/a4/24/daa4249f-0a0a-58ec-5b5b-324058e58386/44023811-e8f9-469f-b735-40f0b46869e2_8plus_2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/82/e5/9482e502-ddc1-e2ce-0ac4-ebfd6e6a9bd4/b558ca26-648b-451f-91f4-ca72cdce32d8_8plus_3.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/4f/14/e64f1464-4a7c-7f53-19b8-bc53476042c7/7b267fd7-ff69-4785-b9b1-19e0760c4b2d_8plus_4.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/6a/f1/8d6af1e0-8946-02b1-06e6-00f3bfe19cd1/b1ef20dd-45a4-4064-807b-ce991acb8e30_8plus_5.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/49/bd/9749bd73-12df-fd72-f686-07d5db95fbff/e1677513-1e2c-4cd3-9385-fe63aa171bc2_8plus_6.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/e9/1f/aae91fe5-3206-18c0-0ba8-71f2d28be7fd/6f27b6bb-c7dc-4c78-b536-2f6bb17aea1b_8plus_7.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/46/06/6b4606aa-c44c-c627-2a2f-54d17f7a6571/7e8b409a-f946-4245-8c11-584b14b60054_1242x2208bb__U00281_U0029.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bf/95/9abf95e1-886e-4cd6-3914-4f5a6c8c9aed/6280e918-8c08-4de9-9533-bb57b9b513a3_1242x2208bb__U00282_U0029.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/61/47/f6614761-46f4-eb8a-d2ac-efc5418b9c54/84d7683b-7c23-4885-881e-832fa764ecbc_8plus_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/a4/24/daa4249f-0a0a-58ec-5b5b-324058e58386/44023811-e8f9-469f-b735-40f0b46869e2_8plus_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/82/e5/9482e502-ddc1-e2ce-0ac4-ebfd6e6a9bd4/b558ca26-648b-451f-91f4-ca72cdce32d8_8plus_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/4f/14/e64f1464-4a7c-7f53-19b8-bc53476042c7/7b267fd7-ff69-4785-b9b1-19e0760c4b2d_8plus_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/6a/f1/8d6af1e0-8946-02b1-06e6-00f3bfe19cd1/b1ef20dd-45a4-4064-807b-ce991acb8e30_8plus_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/49/bd/9749bd73-12df-fd72-f686-07d5db95fbff/e1677513-1e2c-4cd3-9385-fe63aa171bc2_8plus_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/e9/1f/aae91fe5-3206-18c0-0ba8-71f2d28be7fd/6f27b6bb-c7dc-4c78-b536-2f6bb17aea1b_8plus_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/46/06/6b4606aa-c44c-c627-2a2f-54d17f7a6571/7e8b409a-f946-4245-8c11-584b14b60054_1242x2208bb__U00281_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bf/95/9abf95e1-886e-4cd6-3914-4f5a6c8c9aed/6280e918-8c08-4de9-9533-bb57b9b513a3_1242x2208bb__U00282_U0029.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "3.6.28",
-          "date": "2026-03-12",
-          "size": 179542450,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.easygames.race_racemaster_3.6.28.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.6.28",
-      "versionDate": "2026-03-12T20:30:18.275Z",
-      "size": 179542450,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.easygames.race_racemaster_3.6.28.ipa"
     },
     {
       "name": "Breeze",
