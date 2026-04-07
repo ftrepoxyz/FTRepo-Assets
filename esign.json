@@ -3,6 +3,119 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "OnTheWay",
+      "version": "2.5.2",
+      "versionDate": "2026-04-07",
+      "size": 44215267,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/ideastudio.Weather-on-the-Way_Sideloadbypass2_2.5.2.ipa",
+      "developerName": "Piotr Knapczyk",
+      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/50/38/ba5038d0-9c5b-f8c2-7f53-c928f8fd9c37/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nWeather on the Way\n\nTweak: Pro Unlocked\n\nVersion: 2.5.2\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: ideastudio.Weather-on-the-Way\nDeveloper: Piotr Knapczyk",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fb/48/2ffb4821-b956-c6e2-566d-89c7b377a40a/808e6ca1-4819-43af-ac14-791117fa7c4d_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/79/149579a5-c05e-895a-2c8d-4419cc541044/046845d0-1aa4-4068-9b2b-af3d2be2de61_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c5/31/28c53108-fb6a-7cc8-4fdb-846ebed74049/67716423-30ba-4f05-a936-085c95d1e180_2_small.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b5/95/53b595bf-9ba1-cca2-be5c-969203e3c515/dd710f28-d4e3-42b6-9192-08a98f48e42c_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/3f/48/1e3f48e4-1506-1239-d98a-eca1ef4bcb12/a9885f79-8525-498a-bc7b-cb356ad0588e_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/e8/aa1be85a-5484-ffda-698c-e47594d8afb2/1b5f2626-8222-424c-94cb-39a39b5bfe2b_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/6e/5a/a16e5a9d-535a-e3ab-387f-ac9e12472af6/88e5a55c-52d3-4597-964d-5765b5b07633_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c2/01/79c2019f-3016-d5a0-bb31-9928f91a4800/73a3af20-5e27-49ae-89b1-6b7cd618d751_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/40/d6/1840d633-626c-93ae-bb0f-0ae1b53c65f7/497699c5-6237-4015-ba65-088facaa5fb5_8_small.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Rise Sleep",
+      "version": "0.1.581",
+      "versionDate": "2026-04-07",
+      "size": 143748250,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.risesci.nyx_AutoRcSideload_0.1.581.ipa",
+      "developerName": "Rise Science Inc",
+      "bundleIdentifier": "com.risesci.nyx",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/72/14/a1721435-9639-003c-f633-9d2609efd45e/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nRISE: Sleep Tracker\n\n• Bundle ID: com.risesci.nyx\n• Updated to: 1.581.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Certificate with healthkit entitlement is required.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/71/20/1f7120c3-b827-2b78-93f4-a9778d8e9fc0/0177d225-7314-4684-a2e1-6d1c340666be_5.5_SS3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/a3/e3/71a3e394-69ce-361c-332c-14153d4ff5c5/0b5936cc-13d1-4d8f-87ea-14bd6a8b2da4_5.5_SS4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/cd/e7/0fcde7ac-c1b2-2423-ca30-a3d9fba896bb/614eb2fd-bd8f-440b-a22f-59fb19b65f89_5.5_SS5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/06/31/00063188-0c81-e139-8873-198c6545da00/dee1f789-db60-4fe2-a3f1-8fbe8da4de83_5.5_SS6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/3f/26/b33f264b-6015-f3ff-0ad7-cb558f18d507/58fad260-f414-4d1a-a669-85539a8f97ae_5.5_SS7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/46/51/974651a8-244c-a8a6-f788-2152997c8252/0bcbd3f6-cfaf-4ce5-b804-80df43281741_5.5_SS8.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "365Scores",
+      "version": "6.4.8",
+      "versionDate": "2026-04-07",
+      "size": 68443543,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.365scores.365scroesapp_Sideloadbypass2_6.4.8.ipa",
+      "developerName": "365Scores",
+      "bundleIdentifier": "com.365scores.365scroesapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/c9/eb/d0c9eb1f-99a5-7215-6c06-4c35dfb0f1d0/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\n365Scores: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 6.4.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.365scores.365scroesapp\nDeveloper: 365Scores",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/e4/53/e8e4530b-7dde-307c-836e-55131a56ea1f/13_Ipad_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/a1/12/24a112ec-29d4-ab47-abf2-b2cffefeadc0/13_Ipad_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/61/3a/51613a12-fa2e-45a2-7b05-94f0f7e22577/13_Ipad_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/9f/70/f79f70c3-cb7b-6140-c65a-09ab0d2ed54b/13_Ipad_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/31/05/eb3105bf-79ed-4b35-9d48-4fd4e171f7ce/13_Ipad_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/c1/2d/c2c12db2-19b0-7048-f184-92f2068e71d3/13_Ipad_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/16/70/8516701a-af6a-b9c7-2bb3-ce317e8a3dce/13_Ipad_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/92/41/529241ab-f14c-87dc-c0d2-f110198be9f8/13_Ipad_8.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Unfold",
+      "version": "8.156.2",
+      "versionDate": "2026-04-07",
+      "size": 174954082,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.moonlab.unfoldstories_AutoRcSideload_8.156.2.ipa",
+      "developerName": "Squarespace, Inc.",
+      "bundleIdentifier": "com.moonlab.unfoldstories",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/15/6a/33156a6e-30c3-7f68-7b52-6ce42dfaa485/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nUnfold: Reels & Story Maker\n\n• Bundle ID: com.moonlab.unfoldstories\n• Updated to: 8.156.2\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ce/36/46ce36e8-5c84-35de-5774-73bd03c9ab91/4dbb9940-67ea-429f-8352-364c31f13a66_option_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5d/73/fc5d735a-b7ac-68e3-af14-83e37d77275e/2585f158-68b0-43c9-be57-df9f2c8e4043_Unfold_AS_SC_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/c7/a2/d7c7a20f-e2f7-5b34-5b85-1cadbd9077ef/647a6b90-648f-4aa3-b39c-2a76a39d626b_Unfold_AS_SC_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/98/1b/65981b83-a835-8658-99e3-b491f81d4a22/3270ab35-4f36-4f89-96de-12f1e35a28cb_Unfold_AS_SC_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/b3/d1/f3b3d14f-4e13-0921-62c8-42613e965d50/867a180d-9bc7-4b90-b569-a1de64435ddc_Unfold_AS_SC_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/7e/0e/f67e0efe-54a6-fe70-d631-c918781a1c6a/a87fb8c7-9bf7-4942-804d-5b5b92b8a901_Unfold_AS_SC_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/ac/db/3aacdb7a-5834-ca3b-2a64-c1956f27c578/7fbccf76-d88a-4ac8-90d5-962c6ff7d6f2_Unfold_AS_SC_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/51/01/5451016b-070b-d98e-e390-2f6240a49d0e/3ffc6224-8e40-4d82-ae75-315ebdc004c0_Unfold_AS_SC_09.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Mojo",
+      "version": "1.262.0",
+      "versionDate": "2026-04-07",
+      "size": 192963259,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/archery.storify_Mojo_1.262.0.ipa",
+      "developerName": "Archery Inc.",
+      "bundleIdentifier": "archery.storify",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/26/db/3226db82-75b1-ca84-8b56-4d6f94ce9932/AppIcon-AppStore-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMojo: AI Video & Reels Editor\n\n• Bundle ID: archery.storify\n• Updated to: 1.262.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/f1/39/def13900-7a4e-e173-ac07-8e60d4afc2f5/01_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/ac/51/45ac5157-0651-e472-1149-7f771067a138/02_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/b8/18/a6b8188b-9a8b-1cad-09dc-ab16c65f1e8b/03_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4d/6e/c74d6e94-3951-4f0d-aded-75a4e918c48e/04_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/ff/2d/2eff2d3a-9668-995b-3991-4631016eaeb7/05_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/e8/62/76e86282-ccf5-92fc-0261-607b855dc954/06_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/b2/f3/cbb2f345-c5dd-4f61-1bfc-f3720339cf04/07_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/70/56/ef705684-e2d4-4e11-179c-adac9b2c2f8f/08_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/0b/83/590b8318-7a0b-dfbe-68d9-eacc0f860752/09_iphone_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/1a/43/841a43d0-6283-50a6-415d-257dcaf168ee/10_iphone_8.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Photoroom",
       "version": "2026.14.01",
       "versionDate": "2026-04-07",
@@ -464,28 +577,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/9c/eb/1c9ceb0f-f11c-6543-219e-f75677e84abc/3dcfc6e0-9866-4595-97be-dea9f51e031f_iPhone_5.5in_5_sRGB.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/e3/f4/c0e3f4a6-a847-6a42-fb5c-21484082f43b/847baeb7-366a-4a95-916d-9f6edea9ee6a_iPhone_5.5in_6_sRGB.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/57/f7/1157f7f2-b5ad-1328-41e0-2b23892302f8/87cbcd6a-30b3-4ca3-9ff0-5f9cdca5906c_iPhone_5.5in_7_sRGB.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Rise Sleep",
-      "version": "0.1.580",
-      "versionDate": "2026-04-06",
-      "size": 143261772,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.risesci.nyx_AutoRcSideload_0.1.580.ipa",
-      "developerName": "Rise Science Inc",
-      "bundleIdentifier": "com.risesci.nyx",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/72/14/a1721435-9639-003c-f633-9d2609efd45e/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nRISE: Sleep Tracker\n\n• Bundle ID: com.risesci.nyx\n• Updated to: 1.580.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Certificate with healthkit entitlement is required.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/71/20/1f7120c3-b827-2b78-93f4-a9778d8e9fc0/0177d225-7314-4684-a2e1-6d1c340666be_5.5_SS3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/a3/e3/71a3e394-69ce-361c-332c-14153d4ff5c5/0b5936cc-13d1-4d8f-87ea-14bd6a8b2da4_5.5_SS4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/cd/e7/0fcde7ac-c1b2-2423-ca30-a3d9fba896bb/614eb2fd-bd8f-440b-a22f-59fb19b65f89_5.5_SS5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/06/31/00063188-0c81-e139-8873-198c6545da00/dee1f789-db60-4fe2-a3f1-8fbe8da4de83_5.5_SS6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/3f/26/b33f264b-6015-f3ff-0ad7-cb558f18d507/58fad260-f414-4d1a-a669-85539a8f97ae_5.5_SS7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/46/51/974651a8-244c-a8a6-f788-2152997c8252/0bcbd3f6-cfaf-4ce5-b804-80df43281741_5.5_SS8.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -3334,28 +3425,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Unfold",
-      "version": "8.156.1",
-      "versionDate": "2026-03-26",
-      "size": 174951522,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.moonlab.unfoldstories_AutoRcSideload_8.156.1.ipa",
-      "developerName": "Squarespace, Inc.",
-      "bundleIdentifier": "com.moonlab.unfoldstories",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/3f/e6/f03fe6a6-3b9b-bbfa-a409-79c1d55535ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nUnfold: Reels & Story Maker\n\n• Bundle ID: com.moonlab.unfoldstories\n• Updated to: 8.156.1\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/51/47/c0514749-ff9a-3b93-8cf2-260242139a6d/4dbb9940-67ea-429f-8352-364c31f13a66_option_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/ff/d3/93ffd355-6449-741d-5aa1-e78779fa25bd/2585f158-68b0-43c9-be57-df9f2c8e4043_Unfold_AS_SC_03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/8e/40/b68e40c4-975e-6a9b-9cee-ccfc85586e61/647a6b90-648f-4aa3-b39c-2a76a39d626b_Unfold_AS_SC_04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/31/64/fe316465-9428-cb9b-0d5f-fe7eefeaf880/3270ab35-4f36-4f89-96de-12f1e35a28cb_Unfold_AS_SC_05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/d5/cb/c0d5cb21-168d-e77b-bd91-c860469d7229/867a180d-9bc7-4b90-b569-a1de64435ddc_Unfold_AS_SC_06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/d8/99/f1d89984-ce13-f4d6-34f2-869b711b8b07/a87fb8c7-9bf7-4942-804d-5b5b92b8a901_Unfold_AS_SC_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/52/44/a152440a-59a3-0660-5f94-ebeb2fe9c2ee/7fbccf76-d88a-4ac8-90d5-962c6ff7d6f2_Unfold_AS_SC_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/71/ba/6d71babc-0655-a524-3249-88019aab27da/3ffc6224-8e40-4d82-ae75-315ebdc004c0_Unfold_AS_SC_09.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "CARROT",
       "version": "6.5",
       "versionDate": "2026-03-26",
@@ -6009,28 +6078,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "365Scores",
-      "version": "6.4.6",
-      "versionDate": "2026-03-13",
-      "size": 67299596,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.365scores.365scroesapp_Sideloadbypass2_6.4.6.ipa",
-      "developerName": "365Scores",
-      "bundleIdentifier": "com.365scores.365scroesapp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/c9/eb/d0c9eb1f-99a5-7215-6c06-4c35dfb0f1d0/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\n365Scores: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 6.4.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.365scores.365scroesapp\nDeveloper: 365Scores",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/e4/53/e8e4530b-7dde-307c-836e-55131a56ea1f/13_Ipad_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/a1/12/24a112ec-29d4-ab47-abf2-b2cffefeadc0/13_Ipad_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/61/3a/51613a12-fa2e-45a2-7b05-94f0f7e22577/13_Ipad_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/9f/70/f79f70c3-cb7b-6140-c65a-09ab0d2ed54b/13_Ipad_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/31/05/eb3105bf-79ed-4b35-9d48-4fd4e171f7ce/13_Ipad_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/c1/2d/c2c12db2-19b0-7048-f184-92f2068e71d3/13_Ipad_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/16/70/8516701a-af6a-b9c7-2bb3-ce317e8a3dce/13_Ipad_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/92/41/529241ab-f14c-87dc-c0d2-f110198be9f8/13_Ipad_8.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "rPlayer",
       "version": "6.0.0",
       "versionDate": "2026-03-13",
@@ -6546,29 +6593,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "OnTheWay",
-      "version": "2.5.1",
-      "versionDate": "2026-03-12",
-      "size": 43976496,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/ideastudio.Weather-on-the-Way_RevenueCatFix26_2.5.1.ipa",
-      "developerName": "Piotr Knapczyk",
-      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/e2/28/4fe22874-cf48-d46f-7515-0d936faa9168/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWeather on the Way\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fb/48/2ffb4821-b956-c6e2-566d-89c7b377a40a/808e6ca1-4819-43af-ac14-791117fa7c4d_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/79/149579a5-c05e-895a-2c8d-4419cc541044/046845d0-1aa4-4068-9b2b-af3d2be2de61_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c5/31/28c53108-fb6a-7cc8-4fdb-846ebed74049/67716423-30ba-4f05-a936-085c95d1e180_2_small.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b5/95/53b595bf-9ba1-cca2-be5c-969203e3c515/dd710f28-d4e3-42b6-9192-08a98f48e42c_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/3f/48/1e3f48e4-1506-1239-d98a-eca1ef4bcb12/a9885f79-8525-498a-bc7b-cb356ad0588e_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/e8/aa1be85a-5484-ffda-698c-e47594d8afb2/1b5f2626-8222-424c-94cb-39a39b5bfe2b_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/6e/5a/a16e5a9d-535a-e3ab-387f-ac9e12472af6/88e5a55c-52d3-4597-964d-5765b5b07633_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c2/01/79c2019f-3016-d5a0-bb31-9928f91a4800/73a3af20-5e27-49ae-89b1-6b7cd618d751_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/40/d6/1840d633-626c-93ae-bb0f-0ae1b53c65f7/497699c5-6237-4015-ba65-088facaa5fb5_8_small.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "ToonSquid",
       "version": "2.0.21",
       "versionDate": "2026-03-12",
@@ -6781,30 +6805,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/cd/39/b1cd3900-7b01-fcdc-6e86-9a77b0e49b7e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMuslim Pro: Quran Athan Prayer\n\nPro features unlocked\n\nTweak made by никита\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Mojo",
-      "version": "1.260.0",
-      "versionDate": "2026-03-12",
-      "size": 185207355,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/archery.storify_AutoRc_1.260.0.ipa",
-      "developerName": "Archery Inc.",
-      "bundleIdentifier": "archery.storify",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/26/db/3226db82-75b1-ca84-8b56-4d6f94ce9932/AppIcon-AppStore-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMojo: Reels & Video Captions\n\nPro features unlocked\n\nTweak made by Chocolate Fluffy\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/f1/39/def13900-7a4e-e173-ac07-8e60d4afc2f5/01_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/ac/51/45ac5157-0651-e472-1149-7f771067a138/02_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/b8/18/a6b8188b-9a8b-1cad-09dc-ab16c65f1e8b/03_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4d/6e/c74d6e94-3951-4f0d-aded-75a4e918c48e/04_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/ff/2d/2eff2d3a-9668-995b-3991-4631016eaeb7/05_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/e8/62/76e86282-ccf5-92fc-0261-607b855dc954/06_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/b2/f3/cbb2f345-c5dd-4f61-1bfc-f3720339cf04/07_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/70/56/ef705684-e2d4-4e11-179c-adac9b2c2f8f/08_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/0b/83/590b8318-7a0b-dfbe-68d9-eacc0f860752/09_iphone_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/1a/43/841a43d0-6283-50a6-415d-257dcaf168ee/10_iphone_8.jpg/1320x2868bb.jpg"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
