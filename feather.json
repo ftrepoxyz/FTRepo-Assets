@@ -2917,6 +2917,46 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.shapr3d.shapr_Shapr3DPatch_26.50.0.ipa"
     },
     {
+      "name": "MyFitnessPal",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "developerName": "MyFitnessPal, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/3b/f5/273bf525-6d3b-424b-1cf5-6ea9404f6a95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.14.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/d4/31/83d43152-24ab-a2cd-2830-d2b35c83b73d/Screen.png/1320x2868bb.webp"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/d4/31/83d43152-24ab-a2cd-2830-d2b35c83b73d/Screen.png/1320x2868bb.webp"
+      ],
+      "versions": [
+        {
+          "version": "26.14.0",
+          "date": "2026-04-07",
+          "size": 181359498,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.myfitnesspal.mfp_sideloadKeychainfix_26.14.0.ipa"
+        },
+        {
+          "version": "26.8.0",
+          "date": "2026-03-12",
+          "size": 142299391,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.myfitnesspal.mfp_sideloadKeychainfix_26.8.0.ipa"
+        },
+        {
+          "version": "26.7.0",
+          "date": "2026-03-12",
+          "size": 135679656,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.myfitnesspal.mfp_Sideloadbypass1_26.7.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.14.0",
+      "versionDate": "2026-04-07T21:14:45.893Z",
+      "size": 181359498,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.myfitnesspal.mfp_sideloadKeychainfix_26.14.0.ipa"
+    },
+    {
       "name": "‎WhatsApp WhatsApp (Watusi)",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "WhatsApp Inc.",
@@ -3373,46 +3413,6 @@
       "versionDate": "2026-03-11T13:39:41.474Z",
       "size": 103364842,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.o-p-e-n.open_Sideloadbypass2_26.10.1.ipa"
-    },
-    {
-      "name": "MyFitnessPal",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "developerName": "MyFitnessPal, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/3b/f5/273bf525-6d3b-424b-1cf5-6ea9404f6a95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMyFitnessPal: Calorie Counter\n\nPremium features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/d4/31/83d43152-24ab-a2cd-2830-d2b35c83b73d/Screen.png/1320x2868bb.webp"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/d4/31/83d43152-24ab-a2cd-2830-d2b35c83b73d/Screen.png/1320x2868bb.webp"
-      ],
-      "versions": [
-        {
-          "version": "26.10.0",
-          "date": "2026-03-11",
-          "size": 135211866,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.myfitnesspal.mfp_MyFitnessPal_26.10.0.ipa"
-        },
-        {
-          "version": "26.8.0",
-          "date": "2026-03-12",
-          "size": 142299391,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.myfitnesspal.mfp_sideloadKeychainfix_26.8.0.ipa"
-        },
-        {
-          "version": "26.7.0",
-          "date": "2026-03-12",
-          "size": 135679656,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.myfitnesspal.mfp_Sideloadbypass1_26.7.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.10.0",
-      "versionDate": "2026-03-11T23:59:54.587Z",
-      "size": 135211866,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.myfitnesspal.mfp_MyFitnessPal_26.10.0.ipa"
     },
     {
       "name": "‎WA Business",
@@ -12484,11 +12484,17 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/44/a1/6b44a10c-57bf-2e09-ad11-81a1175ce32c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nElevate - Brain Training Games\n\nTweak: Subscription Unlocked\n\nVersion: 5.233.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.elevate\nDeveloper: The Mind Company",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/16/76/0b167608-8648-7a93-538e-a10bfe648068/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nElevate - Brain Training Games\n\n• Bundle ID: com.elevateapp.elevate\n• Updated to: 5.235.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "5.235.0",
+          "date": "2026-04-07",
+          "size": 396442665,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.elevateapp.elevate_AutoRcSideload_5.235.0.ipa"
+        },
         {
           "version": "5.233.0",
           "date": "2026-03-23",
@@ -12500,19 +12506,13 @@
           "date": "2026-03-18",
           "size": 382202040,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.elevateapp.elevate_AutoRc_5.232.1.ipa"
-        },
-        {
-          "version": "5.232.0",
-          "date": "2026-03-16",
-          "size": 382543449,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.elevateapp.elevate_Sideloadbypass2_5.232.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.233.0",
-      "versionDate": "2026-03-23T15:43:44.848Z",
-      "size": 383415520,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-23/com.elevateapp.elevate_Sideloadbypass2_5.233.0.ipa"
+      "version": "5.235.0",
+      "versionDate": "2026-04-07T21:14:03.167Z",
+      "size": 396442665,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.elevateapp.elevate_AutoRcSideload_5.235.0.ipa"
     },
     {
       "name": "PeakVisor",
@@ -16998,11 +16998,17 @@
       "name": "Bill Tracker",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/dd/6f/92dd6fe0-49b6-a23d-885e-15f776f2647e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.69\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/a2/de/27a2de5b-f2c6-75be-d6f1-83275df3dcef/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.72\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "4.1.72",
+          "date": "2026-04-07",
+          "size": 148341938,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.72.ipa"
+        },
         {
           "version": "4.1.69",
           "date": "2026-04-05",
@@ -17014,19 +17020,13 @@
           "date": "2026-04-03",
           "size": 148263777,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.68.ipa"
-        },
-        {
-          "version": "4.1.67",
-          "date": "2026-04-03",
-          "size": 147296243,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.67.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.69",
-      "versionDate": "2026-04-05T21:13:49.846Z",
-      "size": 148287055,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.69.ipa"
+      "version": "4.1.72",
+      "versionDate": "2026-04-07T21:15:05.729Z",
+      "size": 148341938,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.72.ipa"
     },
     {
       "name": "Stndrd",
@@ -24544,11 +24544,17 @@
       "name": "Lyfta",
       "bundleIdentifier": "com.lyftaios",
       "developerName": "Lindberg Development AS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/4f/db/da4fdb04-1e4a-7d52-dcc9-8e8b3fd54e60/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nLyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.139\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/80/a1/1980a11c-3020-ca50-b067-b3d52a90d85f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.142\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.142",
+          "date": "2026-04-07",
+          "size": 49514539,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.lyftaios_Sideloadbypass2_1.142.ipa"
+        },
         {
           "version": "1.139",
           "date": "2026-03-17",
@@ -24563,10 +24569,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.139",
-      "versionDate": "2026-03-17T20:35:24.662Z",
-      "size": 49004307,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.lyftaios_Sideloadbypass2_1.139.ipa"
+      "version": "1.142",
+      "versionDate": "2026-04-07T18:13:44.408Z",
+      "size": 49514539,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.lyftaios_Sideloadbypass2_1.142.ipa"
     },
     {
       "name": "Vids",
@@ -27901,6 +27907,28 @@
       "versionDate": "2026-03-11T11:51:51.438Z",
       "size": 269066,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.stossy11.StosVPN_1.2.1.ipa"
+    },
+    {
+      "name": "GrowMe",
+      "bundleIdentifier": "com.book.summaries.reading",
+      "developerName": "Enerjoy Pte. Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/b6/c4/79b6c46e-0bec-4c20-1183-22dd41f85525/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nGrowMe: Micro Learning Daily\n\n• Bundle ID: com.book.summaries.reading\n• Updated to: 1.2.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2026-04-07",
+          "size": 69650342,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.book.summaries.reading_GrowMe_1.2.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.2.0",
+      "versionDate": "2026-04-07T18:13:35.301Z",
+      "size": 69650342,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.book.summaries.reading_GrowMe_1.2.0.ipa"
     },
     {
       "name": "Push Training",
