@@ -19695,7 +19695,7 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/4b/80/c84b805b-1798-d7ac-4b70-132fdf21ad2e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLuminar: Image Editor&Enhancer\n\n• Bundle ID: com.skylum.luminaripad\n• Updated to: 3.5\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nLuminar: Image Editor&Enhancer\n\n• Bundle ID: com.skylum.luminaripad\n• Updated to: 3.5.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/39/20/9a3920df-c92d-2c7a-bc41-3967fc64e2fd/12a21320-1dde-4f81-9957-774e26de1981_3.png/1320x2868bb.png"
@@ -19738,6 +19738,12 @@
       ],
       "versions": [
         {
+          "version": "3.5.1",
+          "date": "2026-04-10",
+          "size": 555126670,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.skylum.luminaripad_Luminar_3.5.1.ipa"
+        },
+        {
           "version": "3.5",
           "date": "2026-04-09",
           "size": 555124417,
@@ -19748,19 +19754,13 @@
           "date": "2026-03-26",
           "size": 487123100,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.skylum.luminaripad_Luminar_3.3.ipa"
-        },
-        {
-          "version": "3.2",
-          "date": "2026-03-12",
-          "size": 486605351,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.skylum.luminaripad_FilePickerFix_3.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.5",
-      "versionDate": "2026-04-09T12:14:31.052Z",
-      "size": 555124417,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-09/com.skylum.luminaripad_Luminar_3.5.ipa"
+      "version": "3.5.1",
+      "versionDate": "2026-04-10T22:14:25.682Z",
+      "size": 555126670,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.skylum.luminaripad_Luminar_3.5.1.ipa"
     },
     {
       "name": "Breeze",
@@ -21401,6 +21401,58 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.podfactor.pod_MyCalendar_2.106.0.ipa"
     },
     {
+      "name": "Facelab",
+      "bundleIdentifier": "com.photo.beautytuneapp",
+      "developerName": "IRONTECH LIMITED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/88/bc/5488bc76-e6a2-4cb2-6803-0989c3899a3f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFacelab: Face & Body Editor\n\n• Bundle ID: com.photo.beautytuneapp\n• Updated to: 2.90\n• Minimum iOS: 18\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/44/f1/1e44f170-fee8-2bb6-0ad1-81904ee1e873/088160ec-be2f-4509-a960-ffe70b711a10_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/60/5e/45605e39-9adc-9e30-3b38-95c730f1aab3/52f9e7d4-3eb1-4ebf-8c90-88cf73ff379b_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/ce/ba/eecebaf3-e9c7-cbff-c9b7-ab98e176cd70/b308ac60-179c-4522-9739-efb1b5ddd505_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/73/e8/2673e8e1-60db-b754-d09f-67a3c1755a70/37632947-39bf-4726-a768-c8976c52de05_4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/34/fe/9934fe5f-281c-24fb-8688-bd696ec484a5/4d8b4425-1bd3-4029-89d3-e384339fc30b_6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/7a/b6/8d7ab635-bfce-9b29-19e8-0a89679cd8c0/bd8a8c32-4200-4dad-85c7-ccedd0b81c16_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/9b/34/8f9b34b4-ee51-5979-6328-bef952485750/4d315072-eff1-420c-bb42-5a6117d3d392_7.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/44/f1/1e44f170-fee8-2bb6-0ad1-81904ee1e873/088160ec-be2f-4509-a960-ffe70b711a10_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/60/5e/45605e39-9adc-9e30-3b38-95c730f1aab3/52f9e7d4-3eb1-4ebf-8c90-88cf73ff379b_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/ce/ba/eecebaf3-e9c7-cbff-c9b7-ab98e176cd70/b308ac60-179c-4522-9739-efb1b5ddd505_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/73/e8/2673e8e1-60db-b754-d09f-67a3c1755a70/37632947-39bf-4726-a768-c8976c52de05_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/34/fe/9934fe5f-281c-24fb-8688-bd696ec484a5/4d8b4425-1bd3-4029-89d3-e384339fc30b_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/7a/b6/8d7ab635-bfce-9b29-19e8-0a89679cd8c0/bd8a8c32-4200-4dad-85c7-ccedd0b81c16_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/9b/34/8f9b34b4-ee51-5979-6328-bef952485750/4d315072-eff1-420c-bb42-5a6117d3d392_7.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.90",
+          "date": "2026-04-10",
+          "size": 369487848,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.photo.beautytuneapp_Facelab_2.90.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.90",
+      "versionDate": "2026-04-10T19:14:15.243Z",
+      "size": 369487848,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.photo.beautytuneapp_Facelab_2.90.ipa"
+    },
+    {
       "name": "Dancebit",
       "bundleIdentifier": "dance.fitness.app",
       "developerName": "Gismart Limited",
@@ -22413,6 +22465,50 @@
       "versionDate": "2026-03-11T17:56:27.758Z",
       "size": 125068233,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.impalastudios.pianofree_ThePiano_2.17.0.ipa"
+    },
+    {
+      "name": "Flex IPTV",
+      "bundleIdentifier": "com.funlabsoft.iptv",
+      "developerName": "artur tagirov",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/e9/43/31e94368-7957-0f31-88bc-1e59715d95dc/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFlex-IPTV\n\nTap on buy then cancel\n\nMinimum OS version 17.4\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/de/8d/70/de8d70a6-fe00-3d9c-d459-8fc079b533f9/4981837b-1794-43ed-8d02-93052662fd31_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.17.19.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/aa/22/b5/aa22b5e8-37b4-6bd8-784a-434dc4386248/680ef46d-3323-41a0-8aad-6c46edbf62df_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.18.50.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4a/cc/ba/4accbaee-08bc-0cd6-8b10-79e501ffbd68/225ac228-86ae-4adb-a2d1-a810ac4570b1_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.17.30.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/ec/c7/80ecc77f-8cba-b9a6-5995-5e1130f93b53/1d54b6ef-1fd9-48b0-8375-931c62b0926d_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.19.18.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/40/c5/bb/40c5bb2d-8a44-f045-d3c9-7121ed618faa/89b78fed-0534-493b-83a2-6cc93aabfd2e_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.20.07.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/de/8d/70/de8d70a6-fe00-3d9c-d459-8fc079b533f9/4981837b-1794-43ed-8d02-93052662fd31_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.17.19.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/aa/22/b5/aa22b5e8-37b4-6bd8-784a-434dc4386248/680ef46d-3323-41a0-8aad-6c46edbf62df_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.18.50.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4a/cc/ba/4accbaee-08bc-0cd6-8b10-79e501ffbd68/225ac228-86ae-4adb-a2d1-a810ac4570b1_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.17.30.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/ec/c7/80ecc77f-8cba-b9a6-5995-5e1130f93b53/1d54b6ef-1fd9-48b0-8375-931c62b0926d_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.19.18.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/40/c5/bb/40c5bb2d-8a44-f045-d3c9-7121ed618faa/89b78fed-0534-493b-83a2-6cc93aabfd2e_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-08-24_at_15.20.07.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "2.15",
+          "date": "2026-04-10",
+          "size": 20597516,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.funlabsoft.iptv_SatellaJailed_2.15.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.15",
+      "versionDate": "2026-04-10T19:14:19.458Z",
+      "size": 20597516,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.funlabsoft.iptv_SatellaJailed_2.15.ipa"
     },
     {
       "name": "Fitness Coach",
