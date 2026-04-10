@@ -3,6 +3,85 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Sworkit",
+      "version": "11.5.0",
+      "versionDate": "2026-04-10",
+      "size": 73990465,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/AHorseCalledScarlet.Sworkit_Sideloadbypass2_11.5.0.ipa",
+      "developerName": "Nexercise",
+      "bundleIdentifier": "AHorseCalledScarlet.Sworkit",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/d7/57/42d757b1-633b-6f81-e534-d5314cbbb71f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSworkit Fitness & Wellness App\n\nTweak: Subscription Unlocked\n\nVersion: 11.5.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: AHorseCalledScarlet.Sworkit\nDeveloper: Nexercise",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/8a/ba/ea8aba87-2400-b944-d241-9de62eb47989/Screenshot_2101.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/2f/51/fb2f51df-4e88-1ba5-f358-b91617ec120a/Screenshot_2104.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/7e/23/cb7e2340-961b-b79d-fd2a-fc2a4382adbf/Screenshot_2107.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/e3/2e/4ee32e98-9aa1-6d8b-a5a2-07d57d5892a1/Screenshot_2110.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/ce/ca/e3ceca34-834f-7ed0-1bdf-dd1740f295de/Screenshot_2087.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/fa/3f/fafa3f08-3f2c-02a0-e5b8-c0908c0741e7/Screenshot_2090.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/7c/a5/357ca5d1-1f9e-1c4d-f041-6d4443ba3bec/Ipad_App_Screenshot_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/49/84/1e49845d-2db5-e988-ed12-9c2651796402/Ipad_App_Screenshot_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/87/c4/cb87c487-d84a-ca2f-8743-1c377fe43e7e/Screenshot_2099.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "HiWidget",
+      "version": "4.4.10",
+      "versionDate": "2026-04-10",
+      "size": 418622209,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.zerone.hidesktop_iScreen_4.4.10.ipa",
+      "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
+      "bundleIdentifier": "com.zerone.hidesktop",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/02/20/a0022049-a3b8-6a85-8301-ee3915872378/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.4.10\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/a6/97/6ba697b8-46b4-a052-d36e-62f116c53107/2208-_U58c1_U7eb8__U82f1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/a5/5b/82a55ba3-af13-c0f2-8f29-8aa57778ed72/d649a293-6f8b-4aa2-9e8c-90c56de95539_2208-_U7075_U52a8__U82f13.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/5c/53/075c53ee-6e77-6a43-1db5-399aa82b7655/55e4fdea-791b-4c13-98df-550f5554cfd7_2208-_U82f1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/c6/14/9dc6149c-9def-a142-cfc2-612df8ef1945/3027cd9c-f3e6-43da-a915-022ceaf8f18c_2208-_U9501_U5c4f_U5c0f_U7ec4_U4ef6__U82f12.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/dc/40/aadc40f1-c717-1d21-e85c-f8b1f59ed39d/4deb4a37-7f9c-4258-844b-8a4c80849644_2208-_U58c1_U7eb8_U5236_U4f5c__U82f11.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/f8/f9/adf8f946-9316-bc72-c8f8-c518328802a8/4d4a31a3-3e28-4d27-badd-e7e86251125b_2208-_U5bc6_U53cb__U82f1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/3d/14/253d14c3-418b-7992-4140-43ba1acc4033/75f7e05c-590e-42e4-903e-b25447eaa87c_2208-_U8bed_U97f3__U82f15.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/f0/47/dbf047de-e140-b378-53de-8d7d85e765de/6e661b5f-e113-4002-9ea3-c29ab93c72db_2208-_U7075_U52a8__U82f1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/46/78/0f467876-2be6-d2f8-7357-fa14ab916ee3/bb6db5e5-40c8-4907-a805-e359097ac1f9_2208-_U4e3b_U9898__U82f14.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Push Training",
+      "version": "1.1.2604080",
+      "versionDate": "2026-04-10",
+      "size": 217429230,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.albernackee.blur_Sideloadbypass2_1.1.2604080.ipa",
+      "developerName": "Push Training, LLC",
+      "bundleIdentifier": "com.albernackee.blur",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/ab/88/ccab8892-67a6-8910-1176-b1c224f76de4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTreadmill Workout PushTraining\n\nTweak: Premium Unlocked\n\nVersion: 1.1.2604080\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.albernackee.blur\nDeveloper: Push Training, LLC",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Minutes",
+      "version": "1.11",
+      "versionDate": "2026-04-10",
+      "size": 20312799,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/ventures.slam.minutes_AutoRcSideload_1.11.ipa",
+      "developerName": "Minutes AI",
+      "bundleIdentifier": "ventures.slam.minutes",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/a5/54/77a55416-2495-1ca0-15c2-d24b1ee4a7fd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMinutes: AI Meeting Note Taker\n\n• Bundle ID: ventures.slam.minutes\n• Updated to: 1.11\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/25/852025a0-a8de-ddaa-4dd4-ffcab15e52ad/89602ad0-0336-447a-a947-cf44ff839a94_iPhone_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/91/f0/4e91f072-f064-64e4-030a-eebd60c17430/0ca0891e-e9cc-42e2-bbcc-691796e369b7_iPhone_5.5-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/04/10/8a04100a-1c97-4bfa-6651-5e711aa3e080/66222a32-f038-429b-b8ac-6810c633bab8_iPhone_5.5-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b3/b1/99b3b177-799b-de93-da15-7174e7ade48f/0cab03d9-b134-4590-a4ae-d3ef0f370336_iPhone_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/26/f9/5f26f9fa-f8c2-2d76-a96b-8b7f979f513d/45584eac-a0a1-4a1d-aa08-9aca3ed88a70_iPhone_5.5-1.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Captions",
       "version": "13.12.1",
       "versionDate": "2026-04-09",
@@ -2871,19 +2950,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Push Training",
-      "version": "1.1.2603290",
-      "versionDate": "2026-03-30",
-      "size": 217303603,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/com.albernackee.blur_Sideloadbypass2_1.1.2603290.ipa",
-      "developerName": "Jacob Rice",
-      "bundleIdentifier": "com.albernackee.blur",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/20/f2/8f20f24c-d489-4899-eaa3-55fca6a3e995/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nTreadmill Workout PushTraining\n\nTweak: Premium Unlocked\n\nVersion: 1.1.2603290\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.albernackee.blur\nDeveloper: Jacob Rice",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Foodie",
       "version": "7.4.32",
       "versionDate": "2026-03-30",
@@ -3909,30 +3975,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "HiWidget",
-      "version": "4.3.96",
-      "versionDate": "2026-03-25",
-      "size": 416230957,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.zerone.hidesktop_iScreen_4.3.96.ipa",
-      "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
-      "bundleIdentifier": "com.zerone.hidesktop",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/04/18/880418d2-3153-0678-41e9-06b3f1284fda/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.3.96\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/a6/97/6ba697b8-46b4-a052-d36e-62f116c53107/2208-_U58c1_U7eb8__U82f1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/a5/5b/82a55ba3-af13-c0f2-8f29-8aa57778ed72/d649a293-6f8b-4aa2-9e8c-90c56de95539_2208-_U7075_U52a8__U82f13.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/5c/53/075c53ee-6e77-6a43-1db5-399aa82b7655/55e4fdea-791b-4c13-98df-550f5554cfd7_2208-_U82f1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/c6/14/9dc6149c-9def-a142-cfc2-612df8ef1945/3027cd9c-f3e6-43da-a915-022ceaf8f18c_2208-_U9501_U5c4f_U5c0f_U7ec4_U4ef6__U82f12.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/dc/40/aadc40f1-c717-1d21-e85c-f8b1f59ed39d/4deb4a37-7f9c-4258-844b-8a4c80849644_2208-_U58c1_U7eb8_U5236_U4f5c__U82f11.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/f8/f9/adf8f946-9316-bc72-c8f8-c518328802a8/4d4a31a3-3e28-4d27-badd-e7e86251125b_2208-_U5bc6_U53cb__U82f1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/3d/14/253d14c3-418b-7992-4140-43ba1acc4033/75f7e05c-590e-42e4-903e-b25447eaa87c_2208-_U8bed_U97f3__U82f15.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/f0/47/dbf047de-e140-b378-53de-8d7d85e765de/6e661b5f-e113-4002-9ea3-c29ab93c72db_2208-_U7075_U52a8__U82f1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/46/78/0f467876-2be6-d2f8-7357-fa14ab916ee3/bb6db5e5-40c8-4907-a805-e359097ac1f9_2208-_U4e3b_U9898__U82f14.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Vocal Image",
       "version": "8.43.6",
       "versionDate": "2026-03-25",
@@ -3989,25 +4031,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/9f/df/8f9fdf06-6aad-118d-1e7f-b98ff9f10949/messenger_appstore_iphone_1284x2778_8.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/2f/83/ce2f83e5-8c71-c578-395b-86c1655e486f/messenger_appstore_ipad_1.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e7/3a/f6e73a98-cd4c-383c-44c4-0e5ec30a1823/messenger_appstore_ipad_2.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Minutes",
-      "version": "1.10.1",
-      "versionDate": "2026-03-25",
-      "size": 19494701,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/ventures.slam.minutes_AutoRcSideload_1.10.1.ipa",
-      "developerName": "Minutes AI",
-      "bundleIdentifier": "ventures.slam.minutes",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/14/60/6b14604e-dc21-743b-d65e-8360367d52fa/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMinutes: AI Meeting Note Taker\n\n• Bundle ID: ventures.slam.minutes\n• Updated to: 1.10.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/25/852025a0-a8de-ddaa-4dd4-ffcab15e52ad/89602ad0-0336-447a-a947-cf44ff839a94_iPhone_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/91/f0/4e91f072-f064-64e4-030a-eebd60c17430/0ca0891e-e9cc-42e2-bbcc-691796e369b7_iPhone_5.5-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/04/10/8a04100a-1c97-4bfa-6651-5e711aa3e080/66222a32-f038-429b-b8ac-6810c633bab8_iPhone_5.5-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b3/b1/99b3b177-799b-de93-da15-7174e7ade48f/0cab03d9-b134-4590-a4ae-d3ef0f370336_iPhone_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/26/f9/5f26f9fa-f8c2-2d76-a96b-8b7f979f513d/45584eac-a0a1-4a1d-aa08-9aca3ed88a70_iPhone_5.5-1.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
