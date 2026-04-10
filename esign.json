@@ -3,6 +3,49 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Car Match",
+      "version": "0.0.655",
+      "versionDate": "2026-04-10",
+      "size": 174027716,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.grandgames.carmatch_Sideloadbypass2_0.0.655.ipa",
+      "developerName": "Grand Games A.Ş.",
+      "bundleIdentifier": "com.grandgames.carmatch",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/8b/bf/a58bbfd2-52ed-96b5-d98e-ecd4b5e53bb3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCar Match - Traffic Puzzle\n\nTweak: Free iAP\n\nVersion: 0.0.655\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.carmatch\nDeveloper: Grand Games A.Ş.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/84/a1/6c84a16b-fb54-06a7-5af2-2baf48450897/1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/b1/a8/2ab1a8a2-5398-3d49-95eb-6e7684b46df6/2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/5a/71/935a71be-ae26-3be7-008b-b56360808ae7/3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/73/f0/1573f000-20c0-624f-5068-668732ad549f/4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/c6/69/49c669a6-31a3-baeb-8b72-732b923a2066/5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/54/d2/5154d271-21af-85b0-871f-97e8a38453cc/6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cd/a9/5ccda97a-7d7c-0794-b894-d01ba8e69a15/5.5-1242x2208.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Sketchar",
+      "version": "10.5",
+      "versionDate": "2026-04-10",
+      "size": 158205396,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/tech.sketchar.ios_Sketchar_10.5.ipa",
+      "developerName": "SketchAR",
+      "bundleIdentifier": "tech.sketchar.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/75/81/ca75816d-5f20-ded3-9322-fa857ce35ff3/sketchar-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSketchar: AR Drawing App\n\n• Bundle ID: tech.sketchar.ios\n• Updated to: 10.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/51/f1/2951f1ff-36b9-0a4c-f7d5-fac89f79133b/387e1b1d-4dab-44d3-8ad8-1aebb8438be4_En-5.5-01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/2c/6a/b22c6a42-209b-54ee-21f1-8d0c32553209/d58b0569-4af3-45d7-bcfa-300fc1e95740_En-5.5-02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/8b/52/478b5210-4f56-30ac-7fce-57391b0c6193/476b0e0b-a911-4277-b8dd-1883dc868c0f_En-5.5-03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/a1/ec/05a1ec53-9547-3e78-7550-c0f666c97ddf/12906c85-e49e-4ce6-84f1-f5f7a9cce4d7_En-5.5-05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/ad/16/77ad16f3-b700-4b7e-f9a8-75f221dc0da3/db3af91e-7bd7-4601-b5f6-c502a1a759ca_En-5.5-07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d4/21/a3d42166-2c19-657f-3f22-f65249c34ff1/a3db34f4-2ed9-4501-92ac-0adc261007dd_En-5.5-04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/0a/bd/390abdaf-d45e-c353-b23e-8046c48d153d/507d1ef1-dab8-45d8-bf1d-9e719148f32a_En-5.5-06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/ec/07/c5ec074a-25ee-0f51-092e-5f0564386808/daf38f13-2bf0-4001-b1c6-7c1e44c044d7_En-5.5-08.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Sworkit",
       "version": "11.5.0",
       "versionDate": "2026-04-10",
@@ -1498,27 +1541,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cb/04/5ccb0401-5c74-c8e3-aaf3-0ede36e93ca5/ccd5e901-b398-47e1-95e5-a4c4ece35b59_Frame_122.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/7c/ad/d47cad39-95af-af91-c87f-a5a443aaa429/83e2983d-1bad-4923-b218-3d6807f9f0e6_Frame_124.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/d9/aa/63d9aa28-2721-e87b-7a4d-a6aebc70e373/c740f2ac-1841-4853-b4be-259f23b23d4f_Frame_123.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Car Match",
-      "version": "0.0.649",
-      "versionDate": "2026-04-04",
-      "size": 173210374,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.grandgames.carmatch_Sideloadbypass2_0.0.649.ipa",
-      "developerName": "Grand Games A.Ş.",
-      "bundleIdentifier": "com.grandgames.carmatch",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/54/91/675491f4-9a49-55d0-6fd8-98903f978ba8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nCar Match - Traffic Puzzle\n\nTweak: Free iAP\n\nVersion: 0.0.649\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.carmatch\nDeveloper: Grand Games A.Ş.",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/84/a1/6c84a16b-fb54-06a7-5af2-2baf48450897/1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/b1/a8/2ab1a8a2-5398-3d49-95eb-6e7684b46df6/2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/5a/71/935a71be-ae26-3be7-008b-b56360808ae7/3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/73/f0/1573f000-20c0-624f-5068-668732ad549f/4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/c6/69/49c669a6-31a3-baeb-8b72-732b923a2066/5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/54/d2/5154d271-21af-85b0-871f-97e8a38453cc/6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cd/a9/5ccda97a-7d7c-0794-b894-d01ba8e69a15/5.5-1242x2208.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
