@@ -3,6 +3,43 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "MD Clock",
+      "version": "2.67.1",
+      "versionDate": "2026-04-11",
+      "size": 316450985,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/tech.miidii.MDClock_MDClock_2.67.1.ipa",
+      "developerName": "MD Studio",
+      "bundleIdentifier": "tech.miidii.MDClock",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/a4/60/e8a460e9-050c-8342-962e-1de19acb8d23/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/56/38/21563844-609f-98f9-41cb-9993b2495eb8/8e2ce13d-e38e-4aca-a3a1-2ac8db4fcd51__U82f1_U6587_5.5-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/15/92/50159265-503b-0aba-9095-ac78304f3742/2b2924bb-9864-47a7-9d60-d70ca0ef396e_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/01/07/10010748-9ab5-e433-037e-abd5c9c48eac/9438bf5c-1d1b-420a-b849-723aecd02617_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a6/58/94a6580e-9af0-3f81-59c4-56abc185cafa/4aedb135-adc2-457b-8f8b-472dba16aa37_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/e7/db/22e7db83-5c62-540c-1921-00e31532518e/969492a3-e8a5-466f-92c6-b15f262b75b3_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/d8/b7/acd8b727-627a-dc90-f177-9a03b4e1a6d1/cd5775c8-ff9b-4012-b869-1cf413dabaf9_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/49/e1/a449e142-fc1a-b10a-ce9b-98da977dce72/ab1b0065-19a1-4d78-a68a-14ddf3e94452_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/bd/7b/32bd7bb3-68d1-c36b-cd1c-723074c837b8/6788d411-9998-4bcb-b785-596290970425_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/09/31/bf093188-5265-0055-8e58-01242a96ba09/2e430b3e-4785-4ebb-8596-b7a8275e2028_4.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Zen Color",
+      "version": "2.2.0",
+      "versionDate": "2026-04-11",
+      "size": 135768519,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/happy.paint.color.coloring.number_NetworkBlocker.adblocker._2.2.0.ipa",
+      "developerName": "Oakever Games",
+      "bundleIdentifier": "happy.paint.color.coloring.number",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/72/fe/9e72fe3c-9da0-dd82-1832-25a07a19eada/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nZen Color - Color By Number\n\nTweak: No Ads\n\nVersion: 2.2.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: happy.paint.color.coloring.number\nDeveloper: Oakever Games",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Luminar",
       "version": "3.5.1",
       "versionDate": "2026-04-10",
@@ -1036,30 +1073,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/5d/01/c35d012a-5297-3810-1131-cd5f74aea081/9df8d683-1bf6-404e-a671-274b4d5954d6_iPad_3.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/3c/1f/423c1f4e-3216-b6b2-abd9-0065c4c91dde/cbe936e5-e11f-4137-a6ac-0c419bba7795_iPad_4.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/3f/78/8a3f78e6-f4d2-4b7c-dcaf-4472a1907c82/b830fb2f-45bd-41db-9998-7948da3ae850_iPad_5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "MD Clock",
-      "version": "2.67",
-      "versionDate": "2026-04-07",
-      "size": 316429258,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/tech.miidii.MDClock_MDClock_2.67.ipa",
-      "developerName": "MD Studio",
-      "bundleIdentifier": "tech.miidii.MDClock",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/a4/60/e8a460e9-050c-8342-962e-1de19acb8d23/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/56/38/21563844-609f-98f9-41cb-9993b2495eb8/8e2ce13d-e38e-4aca-a3a1-2ac8db4fcd51__U82f1_U6587_5.5-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/15/92/50159265-503b-0aba-9095-ac78304f3742/2b2924bb-9864-47a7-9d60-d70ca0ef396e_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/01/07/10010748-9ab5-e433-037e-abd5c9c48eac/9438bf5c-1d1b-420a-b849-723aecd02617_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a6/58/94a6580e-9af0-3f81-59c4-56abc185cafa/4aedb135-adc2-457b-8f8b-472dba16aa37_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/e7/db/22e7db83-5c62-540c-1921-00e31532518e/969492a3-e8a5-466f-92c6-b15f262b75b3_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/d8/b7/acd8b727-627a-dc90-f177-9a03b4e1a6d1/cd5775c8-ff9b-4012-b869-1cf413dabaf9_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/49/e1/a449e142-fc1a-b10a-ce9b-98da977dce72/ab1b0065-19a1-4d78-a68a-14ddf3e94452_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/bd/7b/32bd7bb3-68d1-c36b-cd1c-723074c837b8/6788d411-9998-4bcb-b785-596290970425_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/09/31/bf093188-5265-0055-8e58-01242a96ba09/2e430b3e-4785-4ebb-8596-b7a8275e2028_4.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
