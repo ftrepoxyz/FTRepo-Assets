@@ -20987,7 +20987,7 @@
       "bundleIdentifier": "tech.miidii.MDClock",
       "developerName": "MD Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/a4/60/e8a460e9-050c-8342-962e-1de19acb8d23/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg"
@@ -21034,6 +21034,12 @@
       ],
       "versions": [
         {
+          "version": "2.67.1",
+          "date": "2026-04-11",
+          "size": 316450985,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/tech.miidii.MDClock_MDClock_2.67.1.ipa"
+        },
+        {
           "version": "2.67",
           "date": "2026-04-07",
           "size": 316429258,
@@ -21047,10 +21053,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.67",
-      "versionDate": "2026-04-07T03:13:47.966Z",
-      "size": 316429258,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/tech.miidii.MDClock_MDClock_2.67.ipa"
+      "version": "2.67.1",
+      "versionDate": "2026-04-11T04:14:13.393Z",
+      "size": 316450985,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/tech.miidii.MDClock_MDClock_2.67.1.ipa"
     },
     {
       "name": "Blossom",
@@ -23603,6 +23609,28 @@
       "versionDate": "2026-04-10T16:13:58.993Z",
       "size": 134137168,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.photoeditor.polish_Polish_2.2.1.ipa"
+    },
+    {
+      "name": "Zen Color",
+      "bundleIdentifier": "happy.paint.color.coloring.number",
+      "developerName": "Oakever Games",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/72/fe/9e72fe3c-9da0-dd82-1832-25a07a19eada/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nZen Color - Color By Number\n\nTweak: No Ads\n\nVersion: 2.2.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: happy.paint.color.coloring.number\nDeveloper: Oakever Games",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.2.0",
+          "date": "2026-04-11",
+          "size": 135768519,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/happy.paint.color.coloring.number_NetworkBlocker.adblocker._2.2.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.2.0",
+      "versionDate": "2026-04-11T01:14:05.469Z",
+      "size": 135768519,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/happy.paint.color.coloring.number_NetworkBlocker.adblocker._2.2.0.ipa"
     },
     {
       "name": "Cure",
