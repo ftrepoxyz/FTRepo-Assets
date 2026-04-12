@@ -5,6 +5,108 @@
   },
   "data": [
     {
+      "name": "TeraBox",
+      "version": "4.15.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.dubox.drive_teraboxpatch_4.15.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.dubox.drive",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/ce/c0/3ecec059-b176-3833-36ad-5b6fdcf7cef2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nTeraBox: Cloud Storage Space\n\nPremium features enabled\n\n⚠️ It does NOT unlock more storage\n\nTweak made by Ayz Ayz\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "FLEXTECH INC.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/f9/fa/49f9fae7-1e86-4cbe-50c5-8771e6bff96e/iOS_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/24/7e/00247ebc-6805-5822-9be8-13e8ab78133b/iOS_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/c8/17/cfc817c4-7fe0-f512-0f93-70ae91086fc4/iOS_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/84/c5/6584c524-62ba-abb4-6a65-ec053b904301/iOS_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/7c/51/0d7c513d-8e35-1aec-9607-1e9979f52c4e/iOS_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/7b/c7/cf7bc735-9945-ada1-3c6a-b842fc6b5e2a/iOS_06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/c1/f4/e4c1f461-cc7b-a19e-b096-6b383cb3b886/iOS_07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/aa/8e/31aa8ef2-d2c4-a255-8a4d-24cda25fdb29/iOS_09.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Peachy",
+      "version": "2.11.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.camerasideas.Peachy_PeachyPatch_2.11.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.camerasideas.Peachy",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/de/0e/c5de0edd-ee6a-840c-e00d-539256be4f94/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nPeachy - AI Face & Body Editor\n\nPro features unlocked\n\nTweak made by femto\n\nMinimum OS version 16.1\n\nAppStore link | Donate",
+      "developer": "SHANTANU PTE. LTD.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/2d/e7/682de75f-a162-3eed-b86f-56fe1f1d7a2c/iPhonex-3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/39/c5/1e39c5b6-c2cf-f063-f306-8ef1dda03c8c/iPhonex-1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/b6/fc/59b6fc95-2f1e-2769-d943-b39319868138/iPhonex-2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/15/22/d9152280-cec1-0ba1-7208-067a08ebe339/iPhonex-4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/a8/12/d4a81287-a2c0-6896-c7b5-64d2ca9b554a/iPhonex-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/64/2f/56642fdd-9f6c-8df5-3721-dbc09752576d/iPhonex-6_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/46/d8/7546d8c0-83bd-fde0-e81c-d762ea4b5da8/iPhonex-6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/c0/03/3dc0034c-afc9-1664-40a7-78536133f0b3/iPhonex-8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ab/a0/2caba02b-82e6-705d-3790-8db5cfa7c03d/iPhonex-9.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Bazaart",
+      "version": "26.1.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/co.bazaart.app_BazaartAIPhotoEditorDesignPatch_26.1.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "co.bazaart.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/3e/6e/ee3e6e92-3f5f-774d-36c9-a9627bf14879/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nBazaart: Design, Photo & Video\n\nPro features unlocked\n\n⚠️ Not working in LiveContainer\n\nTweak made by Никита\n\nMinimum OS version 16\n\nAppStore link | Donate",
+      "developer": "Bazaart Ltd.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1a/29/411a298e-c727-8a62-05e5-da2ed27afafd/EN_ipad_1_Remove_people.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/ce/56/97ce564e-5bb7-07d9-d27c-15bf715ae649/Ipad_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/03/1f/39031fdd-f93a-339c-cf65-20ef053af9ea/EN_Magic_background_iPad.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Reface",
+      "version": "6.4.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.neocortext.doublicatapp_FixCrash2_6.4.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.neocortext.doublicatapp",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/7c/70/0f7c70cf-751d-bded-fb01-fbcc7e80f0f9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nReface: Face Swap AI Photo App\n\nPro features unlocked\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "developer": "NEOCORTEXT, INC.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/ee/3a/6fee3a64-57b6-d022-c203-10f4dae6fd50/1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/d4/3b/fbd43bba-1283-0c91-038d-701acc057de6/2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/4d/a1/574da165-07a2-acc4-552d-08c60228b7b0/3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/91/c9/6d91c973-871e-9875-1690-28a3f0e51000/4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c6/5d/12c65d16-ee1c-4e8e-3048-355399f4eb57/5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/2e/c4/5f2ec4d8-2e9f-8bfe-ec4c-1c7527821b52/6.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "BoldVoice",
       "version": "3.7.6",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/com.wellocution.iosapp_BoldVoice_3.7.6.ipa",
@@ -4311,28 +4413,6 @@
       }
     },
     {
-      "name": "Bazaart",
-      "version": "26.1.5",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/co.bazaart.app_Bazaart_26.1.5.ipa",
-      "category": "Tweaked",
-      "bundleID": "co.bazaart.app",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/f0/80/2df080b5-b8b6-ed77-4c6b-d7b6899fc1a4/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nBazaart AI Photo Editor Design\n\n• Bundle ID: co.bazaart.app\n• Updated to: 26.1.5\n• Minimum iOS: 16\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Bazaart Ltd.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1a/29/411a298e-c727-8a62-05e5-da2ed27afafd/EN_ipad_1_Remove_people.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/ce/56/97ce564e-5bb7-07d9-d27c-15bf715ae649/Ipad_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/03/1f/39031fdd-f93a-339c-cf65-20ef053af9ea/EN_Magic_background_iPad.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Slopes",
       "version": "2026.10",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.consumedbycode.slopes_sideloadKeychainfix_2026.10.ipa",
@@ -8032,34 +8112,6 @@
       }
     },
     {
-      "name": "Peachy",
-      "version": "2.10.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.camerasideas.Peachy_PeachyPatch_2.10.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.camerasideas.Peachy",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b2/13/97b213b7-44f3-b35d-9a6b-6cd49d28205d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nPeachy - AI Face & Body Editor\n\nPro features unlocked\n\nTweak made by femto\n\nMinimum OS version 16.1\n\nAppStore link | Donate",
-      "developer": "SHANTANU PTE. LTD.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/2d/e7/682de75f-a162-3eed-b86f-56fe1f1d7a2c/iPhonex-3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/39/c5/1e39c5b6-c2cf-f063-f306-8ef1dda03c8c/iPhonex-1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/b6/fc/59b6fc95-2f1e-2769-d943-b39319868138/iPhonex-2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/15/22/d9152280-cec1-0ba1-7208-067a08ebe339/iPhonex-4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/a8/12/d4a81287-a2c0-6896-c7b5-64d2ca9b554a/iPhonex-4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/64/2f/56642fdd-9f6c-8df5-3721-dbc09752576d/iPhonex-6_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/46/d8/7546d8c0-83bd-fde0-e81c-d762ea4b5da8/iPhonex-6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/c0/03/3dc0034c-afc9-1664-40a7-78536133f0b3/iPhonex-8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ab/a0/2caba02b-82e6-705d-3790-8db5cfa7c03d/iPhonex-9.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Snappier IPTV",
       "version": "5.3.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/uk.co.snappy-code.snappierIPTV_SnappierIPTVPatch_5.3.3.ipa",
@@ -9435,33 +9487,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/73/5b/9f735b49-4362-a186-32f5-6b427024393d/AppStoreScreen_small_08.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/6b/0c/d06b0cc7-21b4-ea6c-1f36-179f0a11265f/AppStoreScreen_small_10.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/73/ff/ba73ffee-46d1-7617-9f8c-2e12c64ac4e7/AppStoreScreen_small_09.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "TeraBox",
-      "version": "4.13.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.dubox.drive_teraboxpatch_4.13.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.dubox.drive",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/aa/ad/bcaaad6f-ab0f-3790-71e2-63ebcbbb1ede/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nTeraBox: Cloud Storage Space\n\nPremium features enabled\n\n⚠️ It does NOT unlock more storage\n\nTweak made by Ayz Ayz\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "developer": "FLEXTECH INC.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/f9/fa/49f9fae7-1e86-4cbe-50c5-8771e6bff96e/iOS_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/24/7e/00247ebc-6805-5822-9be8-13e8ab78133b/iOS_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/c8/17/cfc817c4-7fe0-f512-0f93-70ae91086fc4/iOS_03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/84/c5/6584c524-62ba-abb4-6a65-ec053b904301/iOS_04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/7c/51/0d7c513d-8e35-1aec-9607-1e9979f52c4e/iOS_05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/7b/c7/cf7bc735-9945-ada1-3c6a-b842fc6b5e2a/iOS_06.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/c1/f4/e4c1f461-cc7b-a19e-b096-6b383cb3b886/iOS_07.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/aa/8e/31aa8ef2-d2c4-a255-8a4d-24cda25fdb29/iOS_09.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
@@ -12920,31 +12945,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/f8/59/aff859fb-cc8a-0646-4e45-78ac38699103/EN___iPad_12.9_Display_screenshot_14.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/46/09/384609d2-d4fe-fda2-e5b6-b7b69c7b22ec/EN___iPad_12.9_Display_screenshot_12.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/41/66/55416652-bf9f-ddc4-d219-aaef30db2407/EN___iPad_12.9_Display_screenshot_15.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Reface",
-      "version": "6.2.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.neocortext.doublicatapp_FixCrash2_6.2.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.neocortext.doublicatapp",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/00/8a/7b008a1d-5d04-ac3c-0c95-864b02f5c7f7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nReface: Face Swap AI Photo App\n\nPro features unlocked\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "developer": "NEOCORTEXT, INC.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/fb/ea/24fbea8f-b5f6-7842-9505-ee94973dc521/1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/0e/1c/1a0e1cde-106b-a5e4-540c-5d1345f785d0/2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/0c/4a/a30c4a0e-cade-2d35-e252-d68830ea5d54/3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/69/c6/7d69c639-097a-19d5-b7fb-caf8d272809f/4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/21/ca/e521cae4-19e0-22f0-3ba9-627156a32d11/5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/46/a6/c246a6ac-826c-cb78-7cda-fd71e128f848/6.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
