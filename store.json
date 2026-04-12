@@ -4041,6 +4041,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.puresignal.strides_Sideloadbypass2_19.6.1.ipa"
     },
     {
+      "name": "NC v18.200.19",
+      "bundleIdentifier": "nt.nc.ios",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNull's Clash\n\nYou have unlimited gems, gold and elixir! Even the dark one.\n\nMinimum OS version 15.0\n\nApp is not in the AppStore | Donate",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "18.200.19",
+          "date": "2026-04-12",
+          "size": 415208741,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/nt.nc.ios_18.200.19.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "18.200.19",
+      "versionDate": "2026-04-12T04:15:51.864Z",
+      "size": 415208741,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/nt.nc.ios_18.200.19.ipa"
+    },
+    {
       "name": "LINE Camera",
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
@@ -6097,7 +6119,7 @@
       "bundleIdentifier": "tech.sketchar.ios",
       "developerName": "SketchAR",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/75/81/ca75816d-5f20-ded3-9322-fa857ce35ff3/sketchar-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSketchar: AR Drawing App\n\n• Bundle ID: tech.sketchar.ios\n• Updated to: 10.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSketchar: AR Drawing App\n\n• Bundle ID: tech.sketchar.ios\n• Updated to: 10.5.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/51/f1/2951f1ff-36b9-0a4c-f7d5-fac89f79133b/387e1b1d-4dab-44d3-8ad8-1aebb8438be4_En-5.5-01.jpg/1320x2868bb.jpg"
@@ -6136,6 +6158,12 @@
       ],
       "versions": [
         {
+          "version": "10.5.1",
+          "date": "2026-04-12",
+          "size": 158107975,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/tech.sketchar.ios_Sketchar_10.5.1.ipa"
+        },
+        {
           "version": "10.5",
           "date": "2026-04-10",
           "size": 158205396,
@@ -6143,10 +6171,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "10.5",
-      "versionDate": "2026-04-10T09:14:07.277Z",
-      "size": 158205396,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/tech.sketchar.ios_Sketchar_10.5.ipa"
+      "version": "10.5.1",
+      "versionDate": "2026-04-12T07:14:16.556Z",
+      "size": 158107975,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/tech.sketchar.ios_Sketchar_10.5.1.ipa"
     },
     {
       "name": "Soundscape",
