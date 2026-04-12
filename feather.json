@@ -2283,58 +2283,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.zhiliaoapp.musically_r3tok_43.9.0.ipa"
     },
     {
-      "name": "TikTok (LRD)",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "TikTok Ltd.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nTikTok v42.6.0 | TikTokLRD v3.11\n\n🇷🇺 Модифицированный клиент TikTok\n— работает лишь с сертификатом GLESign\n— требует Feather или GBox для установки. Невозможно использовать с Esign\n— Приложение из TestFlight\n— Нет Рекламы\n— Скачивание постов и историй\n— Анонимное чтение сообщений\n— Убрать Прямые Трансляции из ленты\n— Для просмотра из России, рекомендуется использовать смену региона\n— Рекомендуемые регионы для смены: Казахстан, Беларусь\n© Создано: iOSDecrypted x iStore\n\n🇺🇸 Modified TikTok client\n— works only with GLESign certificate\n— requires Feather or GBox to install. Impossible to use it with Esign\n— The app from TestFlight\n— No Ads\n— Download posts and stories\n— Anonymous reading of messages\n— Remove Live streams from FYP\n— Region Changer\n© Created by: iOSDecrypted x iStore",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "42.6.0",
-          "date": "2026-03-11",
-          "size": 352711676,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.6.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "42.6.0",
-      "versionDate": "2026-03-11T11:59:21.234Z",
-      "size": 352711676,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zhiliaoapp.musically__ipa_by_iosdecrypted_.sideloadKeychainFix._42.6.0.ipa"
-    },
-    {
       "name": "TuneIn Radio",
       "bundleIdentifier": "com.alexanderben.RadioIn",
       "developerName": "TuneIn",
@@ -2447,6 +2395,58 @@
       "versionDate": "2026-03-17T09:04:27.577Z",
       "size": 152273110,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.photomyne.photomyneapplite_StopReviews_32.6.ipa"
+    },
+    {
+      "name": "TikTok (LRD)",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/d8/e5/29d8e508-0298-c5e0-f9a8-275409256c21/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTikTok LRD 🆕🆙🆙\n\n🔩Features Hack🔩\n✅Save video without watermark.\n✅ Share the video.\n✅ Hide the UI.\n✅ Play the next video automatically.\n✅ Skip the live stream while watching automatically.\n✅ Show the progress bar of the video.\n✅ Possibility to upload high quality video.\n✅ Save your profile picture.\n✅ Show the number of user videos.\n✅ Create groups in Favorites.\n✅ Increase the number of characters in comments.\n✅ Show the country code of the video.\n✅ Ability to copy username, description, account name.\n✅ The ability to show comments in a semi-transparent way.\n✅ Remove annoying ads.\n✅ Country change.\n✅ Show a confirmation window when following and Likeing.\n✅ Set a password for the app.\n✅ Hide what you see.\nRead closed comments.\nWatch the videos under review.\nAnd More..!\n\n🛒👍🔥🔥🔥🔥🔥🔥✅",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "31.8.0",
+          "date": "2026-04-12",
+          "size": 254941940,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.zhiliaoapp.musically_TikTokLRD_31.8.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "31.8.0",
+      "versionDate": "2026-04-12T04:16:19.625Z",
+      "size": 254941940,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.zhiliaoapp.musically_TikTokLRD_31.8.0.ipa"
     },
     {
       "name": "WebSSH",
@@ -4615,6 +4615,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.puresignal.strides_Sideloadbypass2_19.6.1.ipa"
     },
     {
+      "name": "NC v18.200.19",
+      "bundleIdentifier": "nt.nc.ios",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNull's Clash\n\nYou have unlimited gems, gold and elixir! Even the dark one.\n\nMinimum OS version 15.0\n\nApp is not in the AppStore | Donate",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "18.200.19",
+          "date": "2026-04-12",
+          "size": 415208741,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/nt.nc.ios_18.200.19.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "18.200.19",
+      "versionDate": "2026-04-12T04:15:51.864Z",
+      "size": 415208741,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/nt.nc.ios_18.200.19.ipa"
+    },
+    {
       "name": "LINE Camera",
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
@@ -6727,7 +6749,7 @@
       "bundleIdentifier": "tech.sketchar.ios",
       "developerName": "SketchAR",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/75/81/ca75816d-5f20-ded3-9322-fa857ce35ff3/sketchar-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSketchar: AR Drawing App\n\n• Bundle ID: tech.sketchar.ios\n• Updated to: 10.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSketchar: AR Drawing App\n\n• Bundle ID: tech.sketchar.ios\n• Updated to: 10.5.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/51/f1/2951f1ff-36b9-0a4c-f7d5-fac89f79133b/387e1b1d-4dab-44d3-8ad8-1aebb8438be4_En-5.5-01.jpg/1320x2868bb.jpg"
@@ -6766,6 +6788,12 @@
       ],
       "versions": [
         {
+          "version": "10.5.1",
+          "date": "2026-04-12",
+          "size": 158107975,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/tech.sketchar.ios_Sketchar_10.5.1.ipa"
+        },
+        {
           "version": "10.5",
           "date": "2026-04-10",
           "size": 158205396,
@@ -6773,10 +6801,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "10.5",
-      "versionDate": "2026-04-10T09:14:07.277Z",
-      "size": 158205396,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/tech.sketchar.ios_Sketchar_10.5.ipa"
+      "version": "10.5.1",
+      "versionDate": "2026-04-12T07:14:16.556Z",
+      "size": 158107975,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/tech.sketchar.ios_Sketchar_10.5.1.ipa"
     },
     {
       "name": "Soundscape",
