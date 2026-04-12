@@ -3,6 +3,22 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Origami",
+      "version": "4.73",
+      "versionDate": "2026-04-12",
+      "size": 191042366,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.oribot.origami_Origami_4.73.ipa",
+      "developerName": "Andreas Bauer",
+      "bundleIdentifier": "com.oribot.origami",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/68/78/7f68780a-284e-3fb1-1d02-ed7b52d20522/AppIconGlass-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nOrigami - Fold & Learn\n\n• Bundle ID: com.oribot.origami\n• Updated to: 4.73\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/ec/eb/67eceb02-22e7-49c8-140e-ec6dd4ae3606/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2025-01-13_at_17.34.59.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/a7/b9/75a7b9ef-d565-d167-f8bd-e11f2375c9b7/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2024-12-02_at_13.17.58.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Sketchar",
       "version": "10.5.1",
       "versionDate": "2026-04-12",
@@ -2386,22 +2402,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Origami",
-      "version": "4.72",
-      "versionDate": "2026-04-02",
-      "size": 191428815,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.oribot.origami_Origami_4.72.ipa",
-      "developerName": "Andreas Bauer",
-      "bundleIdentifier": "com.oribot.origami",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/68/78/7f68780a-284e-3fb1-1d02-ed7b52d20522/AppIconGlass-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nOrigami - Fold & Learn\n\n• Bundle ID: com.oribot.origami\n• Updated to: 4.72\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/ec/eb/67eceb02-22e7-49c8-140e-ec6dd4ae3606/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2025-01-13_at_17.34.59.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/a7/b9/75a7b9ef-d565-d167-f8bd-e11f2375c9b7/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2024-12-02_at_13.17.58.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
