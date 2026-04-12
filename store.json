@@ -2078,8 +2078,8 @@
       "name": "Busuu",
       "bundleIdentifier": "com.busuu.english.app",
       "developerName": "Busuu Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ea/d0/e2ead0bf-df0e-910d-45ea-3f462d1af66f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.7.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/16/2f/63162f8b-9360-f3b8-b8a5-65137e229306/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.9.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg"
@@ -2126,6 +2126,12 @@
       ],
       "versions": [
         {
+          "version": "30.9.0",
+          "date": "2026-04-12",
+          "size": 156306338,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.busuu.english.app_BusuuLanguageLearning_30.9.0.ipa"
+        },
+        {
           "version": "30.7.0",
           "date": "2026-03-29",
           "size": 156270795,
@@ -2136,19 +2142,13 @@
           "date": "2026-03-15",
           "size": 155777674,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.busuu.english.app_BusuuLanguageLearning_30.5.0.ipa"
-        },
-        {
-          "version": "30.3.0",
-          "date": "2026-03-12",
-          "size": 160131215,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.busuu.english.app_BusuuLanguageLearning_30.3.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "30.7.0",
-      "versionDate": "2026-03-29T19:00:55.143Z",
-      "size": 156270795,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.busuu.english.app_BusuuLanguageLearning_30.7.0.ipa"
+      "version": "30.9.0",
+      "versionDate": "2026-04-12T19:14:21.820Z",
+      "size": 156306338,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.busuu.english.app_BusuuLanguageLearning_30.9.0.ipa"
     },
     {
       "name": "Adobe Express",
