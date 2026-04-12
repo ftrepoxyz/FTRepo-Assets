@@ -15509,7 +15509,7 @@
       "bundleIdentifier": "com.oribot.origami",
       "developerName": "Andreas Bauer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/68/78/7f68780a-284e-3fb1-1d02-ed7b52d20522/AppIconGlass-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nOrigami - Fold & Learn\n\n• Bundle ID: com.oribot.origami\n• Updated to: 4.72\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nOrigami - Fold & Learn\n\n• Bundle ID: com.oribot.origami\n• Updated to: 4.73\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/ec/eb/67eceb02-22e7-49c8-140e-ec6dd4ae3606/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2025-01-13_at_17.34.59.png/1320x2868bb.webp"
@@ -15524,6 +15524,12 @@
       ],
       "versions": [
         {
+          "version": "4.73",
+          "date": "2026-04-12",
+          "size": 191042366,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.oribot.origami_Origami_4.73.ipa"
+        },
+        {
           "version": "4.72",
           "date": "2026-04-02",
           "size": 191428815,
@@ -15531,10 +15537,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.72",
-      "versionDate": "2026-04-02T22:01:38.847Z",
-      "size": 191428815,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.oribot.origami_Origami_4.72.ipa"
+      "version": "4.73",
+      "versionDate": "2026-04-12T16:14:24.031Z",
+      "size": 191042366,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.oribot.origami_Origami_4.73.ipa"
     },
     {
       "name": "NoteCircle",
