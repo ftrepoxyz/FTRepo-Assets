@@ -3,6 +3,30 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Busuu",
+      "version": "30.9.0",
+      "versionDate": "2026-04-12",
+      "size": 156306338,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.busuu.english.app_BusuuLanguageLearning_30.9.0.ipa",
+      "developerName": "Busuu Limited",
+      "bundleIdentifier": "com.busuu.english.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/16/2f/63162f8b-9360-f3b8-b8a5-65137e229306/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.9.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/54/38/a9543848-fca6-3f4d-a5bf-e199e1fde343/6e7682ab-be8e-47f7-8625-5dd7b3522eea_iOS-5.5-EN-Study.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f1/3b/7cf13bf1-f124-b61b-ff05-c2c6ac53a916/8c90811e-d211-4779-a398-5ce4e6b3fac6_iOS-5.5-EN-Progress.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/72/27/2f72279a-8ce8-8ed7-c5be-1a50db691694/4c37ae21-0153-415a-85ff-10234469556c_iOS-5.5-EN-Help.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c3/f2/d6c3f2fe-9f01-c422-ee55-816d198e1bee/4a54ca61-9dfc-4554-b881-2f88a3a284a1_iOS-5.5-EN-OnTrack.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/d7/be/9ad7be12-835b-67b7-2d2e-960649d573e0/c094e9d8-87f5-48e6-9e69-3882fc2c9c26_iOS-5.5-EN-ShareTips.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7d/4f/f87d4fb8-58c2-2245-99aa-ccded195513d/289aa46a-a68f-4bc2-bd17-5ac2bb4e3590_iOS-5.5-EN-Phrases.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/b6/0d/46b60db6-0486-bae9-11c8-beec18301fb0/e7325a90-8a4d-4400-b224-52161048688f_iOS-5.5-EN-SetGoals.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/10/6f/03106f42-f11a-7b8d-bc02-8a074bae7874/ebae4e0f-7a87-4e3f-8f69-1823ad7f953a_EN-iOS_EN_5.5__US_Growth_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e3/34/67e3349b-128d-6484-5126-cfd6487063c4/72b900e3-96a3-4aae-bc1a-500e851f5fd7_EN-iOS_EN_5.5__US_Growth_08.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Origami",
       "version": "4.73",
       "versionDate": "2026-04-12",
@@ -3494,30 +3518,6 @@
       "iconURL": "",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNull's Brawl\n\nNull's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.\n\nMinimum OS version 14.0\n\nApp is not in the AppStore | Donate",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Busuu",
-      "version": "30.7.0",
-      "versionDate": "2026-03-29",
-      "size": 156270795,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.busuu.english.app_BusuuLanguageLearning_30.7.0.ipa",
-      "developerName": "Busuu Limited",
-      "bundleIdentifier": "com.busuu.english.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ea/d0/e2ead0bf-df0e-910d-45ea-3f462d1af66f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.7.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/54/38/a9543848-fca6-3f4d-a5bf-e199e1fde343/6e7682ab-be8e-47f7-8625-5dd7b3522eea_iOS-5.5-EN-Study.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f1/3b/7cf13bf1-f124-b61b-ff05-c2c6ac53a916/8c90811e-d211-4779-a398-5ce4e6b3fac6_iOS-5.5-EN-Progress.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/72/27/2f72279a-8ce8-8ed7-c5be-1a50db691694/4c37ae21-0153-415a-85ff-10234469556c_iOS-5.5-EN-Help.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c3/f2/d6c3f2fe-9f01-c422-ee55-816d198e1bee/4a54ca61-9dfc-4554-b881-2f88a3a284a1_iOS-5.5-EN-OnTrack.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/d7/be/9ad7be12-835b-67b7-2d2e-960649d573e0/c094e9d8-87f5-48e6-9e69-3882fc2c9c26_iOS-5.5-EN-ShareTips.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7d/4f/f87d4fb8-58c2-2245-99aa-ccded195513d/289aa46a-a68f-4bc2-bd17-5ac2bb4e3590_iOS-5.5-EN-Phrases.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/b6/0d/46b60db6-0486-bae9-11c8-beec18301fb0/e7325a90-8a4d-4400-b224-52161048688f_iOS-5.5-EN-SetGoals.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/10/6f/03106f42-f11a-7b8d-bc02-8a074bae7874/ebae4e0f-7a87-4e3f-8f69-1823ad7f953a_EN-iOS_EN_5.5__US_Growth_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e3/34/67e3349b-128d-6484-5126-cfd6487063c4/72b900e3-96a3-4aae-bc1a-500e851f5fd7_EN-iOS_EN_5.5__US_Growth_08.jpg/1320x2868bb.jpg"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
