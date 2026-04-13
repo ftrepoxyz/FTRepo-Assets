@@ -3067,7 +3067,7 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/64/92/4d64925f-a984-f0d3-fdea-e27e65799d93/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFacetune: Photo & Video Editor\n\n• Bundle ID: com.lightricks.Facetune2\n• Updated to: 26.6.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nFacetune: Photo & Video Editor\n\n• Bundle ID: com.lightricks.Facetune2\n• Updated to: 26.7\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/1320x2868bb.jpg"
@@ -3114,6 +3114,12 @@
       ],
       "versions": [
         {
+          "version": "26.7",
+          "date": "2026-04-13",
+          "size": 299992411,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.lightricks.Facetune2_Facetune_26.7.ipa"
+        },
+        {
           "version": "26.6.1",
           "date": "2026-04-08",
           "size": 302502954,
@@ -3124,19 +3130,13 @@
           "date": "2026-04-05",
           "size": 302508198,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/com.lightricks.Facetune2_Facetune_26.6.ipa"
-        },
-        {
-          "version": "26.5",
-          "date": "2026-03-30",
-          "size": 300882816,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/com.lightricks.Facetune2_Facetune_26.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "26.6.1",
-      "versionDate": "2026-04-08T18:14:04.561Z",
-      "size": 302502954,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-08/com.lightricks.Facetune2_Facetune_26.6.1.ipa"
+      "version": "26.7",
+      "versionDate": "2026-04-13T10:14:36.426Z",
+      "size": 299992411,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.lightricks.Facetune2_Facetune_26.7.ipa"
     },
     {
       "name": "AllTrails",
@@ -7351,7 +7351,7 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/b5/dc/9eb5dca9-3c73-e4ab-08f0-a203026e5312/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @soundcloudtweaks |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.55.2.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
+      "localizedDescription": "from @soundcloudtweaks |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.56.0.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/c8/04/33c804b6-7339-b144-5c82-7d1b7902f731/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg"
@@ -7390,6 +7390,12 @@
       ],
       "versions": [
         {
+          "version": "8.56.0",
+          "date": "2026-04-13",
+          "size": 110483854,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.soundcloud.TouchApp_libsubstrate_8.56.0.ipa"
+        },
+        {
           "version": "8.55.2",
           "date": "2026-04-09",
           "size": 110466719,
@@ -7400,19 +7406,13 @@
           "date": "2026-04-08",
           "size": 110455578,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-08/com.soundcloud.TouchApp_libsubstrate_8.55.1.ipa"
-        },
-        {
-          "version": "8.55.0",
-          "date": "2026-04-07",
-          "size": 110455164,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.soundcloud.TouchApp_libsubstrate_8.55.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "8.55.2",
-      "versionDate": "2026-04-09T18:14:39.105Z",
-      "size": 110466719,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-09/com.soundcloud.TouchApp_libsubstrate_8.55.2.ipa"
+      "version": "8.56.0",
+      "versionDate": "2026-04-13T07:15:06.012Z",
+      "size": 110483854,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.soundcloud.TouchApp_libsubstrate_8.56.0.ipa"
     },
     {
       "name": "Vocal Image",
@@ -16243,7 +16243,7 @@
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/02/20/a0022049-a3b8-6a85-8301-ee3915872378/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.4.10\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.4.11\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/1320x2868bb.png"
@@ -16290,6 +16290,12 @@
       ],
       "versions": [
         {
+          "version": "4.4.11",
+          "date": "2026-04-13",
+          "size": 418974488,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.zerone.hidesktop_iScreen_4.4.11.ipa"
+        },
+        {
           "version": "4.4.10",
           "date": "2026-04-10",
           "size": 418622209,
@@ -16300,19 +16306,13 @@
           "date": "2026-03-25",
           "size": 416230957,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.zerone.hidesktop_iScreen_4.3.96.ipa"
-        },
-        {
-          "version": "4.3.90",
-          "date": "2026-03-11",
-          "size": 412249583,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.zerone.hidesktop_iScreen_4.3.90.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.4.10",
-      "versionDate": "2026-04-10T03:14:20.284Z",
-      "size": 418622209,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.zerone.hidesktop_iScreen_4.4.10.ipa"
+      "version": "4.4.11",
+      "versionDate": "2026-04-13T07:14:44.124Z",
+      "size": 418974488,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.zerone.hidesktop_iScreen_4.4.11.ipa"
     },
     {
       "name": "DaVinci",
