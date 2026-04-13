@@ -641,6 +641,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.frontpocketsoftware.happyscale_AutoRcSideload_2026.4.ipa"
     },
     {
+      "name": "DictionaryAir",
+      "bundleIdentifier": "co.airapps.dictionary",
+      "developerName": "Air Apps Systems",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/0d/cf/700dcfa3-21b8-ed08-9ad9-f3977af1f325/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDictionary Air - English Vocab\n\n• Bundle ID: co.airapps.dictionary\n• Updated to: 2026.3.5\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page,\nRestart app if subscription isn't unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2026.3.5",
+          "date": "2026-04-13",
+          "size": 73343960,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/co.airapps.dictionary_DictionaryAir_2026.3.5.ipa"
+        },
+        {
+          "version": "2026.2.3",
+          "date": "2026-03-11",
+          "size": 73643069,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.airapps.dictionary_DictionaryAir_2026.2.3.ipa"
+        },
+        {
+          "version": "2026.2.2",
+          "date": "2026-03-12",
+          "size": 73644181,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/co.airapps.dictionary_DictionaryAir_2026.2.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.3.5",
+      "versionDate": "2026-04-13T04:14:18.173Z",
+      "size": 73343960,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/co.airapps.dictionary_DictionaryAir_2026.3.5.ipa"
+    },
+    {
       "name": "PDF Viewer",
       "bundleIdentifier": "com.pspdfkit.viewer",
       "developerName": "PSPDFKit GmbH",
@@ -731,34 +765,6 @@
       "versionDate": "2026-04-03T21:17:08.497Z",
       "size": 95180443,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/uk.co.leeus.planefinderfree_PlaneFinderPatch_2026.2.4.ipa"
-    },
-    {
-      "name": "DictionaryAir",
-      "bundleIdentifier": "co.airapps.dictionary",
-      "developerName": "Air Apps Systems",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/ed/ea/09edea16-3157-018e-1d88-c8782b0dca15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDictionary Air - English Vocab\n\n• Bundle ID: co.airapps.dictionary\n• Updated to: 2026.2.3\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page,\nRestart app if subscription isn't unlocked.\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "2026.2.3",
-          "date": "2026-03-11",
-          "size": 73643069,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.airapps.dictionary_DictionaryAir_2026.2.3.ipa"
-        },
-        {
-          "version": "2026.2.2",
-          "date": "2026-03-12",
-          "size": 73644181,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/co.airapps.dictionary_DictionaryAir_2026.2.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2026.2.3",
-      "versionDate": "2026-03-11T10:42:55.461Z",
-      "size": 73643069,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.airapps.dictionary_DictionaryAir_2026.2.3.ipa"
     },
     {
       "name": "Find Air",
