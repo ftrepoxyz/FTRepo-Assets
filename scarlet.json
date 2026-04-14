@@ -5,6 +5,42 @@
   },
   "data": [
     {
+      "name": "MealPrepPro",
+      "version": "3.137.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.nibbleapps.MealPrepPro_Sideloadbypass2_3.137.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.nibbleapps.MealPrepPro",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/fd/b5/e1fdb518-73b2-8d6e-4d49-455dbcf1ddbd/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nMealPrepPro Planner & Recipes\n\nTweak: Subscription Unlocked\n\nVersion: 3.137.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.nibbleapps.MealPrepPro\nDeveloper: Nibble Apps Ltd",
+      "developer": "Nibble Apps Ltd",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "NFC Tools",
+      "version": "2.36",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.wakdev.wdnfc_NFCTools_2.36.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.wakdev.wdnfc",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/bd/2d/babd2d32-c933-8346-472f-53cc66b3dc21/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nNFC Tools\n\n• Bundle ID: com.wakdev.wdnfc\n• Updated to: 2.36\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "wakdev",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Lyfta",
       "version": "1.143",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.lyftaios_Lyfta_1.143.ipa",
