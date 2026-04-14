@@ -3,6 +3,118 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Magic Sort",
+      "version": "0.0.2444",
+      "versionDate": "2026-04-14",
+      "size": 204258317,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.grandgames.magicsort_Sideloadbypass2_0.0.2444.ipa",
+      "developerName": "Grand Games A.Ş.",
+      "bundleIdentifier": "com.grandgames.magicsort",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/1b/a9/891ba9a3-3006-e9d5-15df-876fd7b14128/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMagic Sort!\n\nTweak: Free iAP\n\nVersion: 0.0.2444\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.magicsort\nDeveloper: Grand Games A.Ş.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/6e/4e/4a6e4ee3-e67b-db0c-5b26-9c81cd0bd650/RainbowSS_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/7a/3f/f87a3f4c-f641-8546-4d64-08490a4fbc61/StoreUI02_challenge.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/33/55/ca3355ef-aae3-6ce4-2825-b3e83edb0c87/StoreUI03_win.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/e2/a9/57e2a998-67e1-7865-3af8-3d2856ee9474/StoreUI04_earn.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f2/fd/baf2fd34-38c9-bef5-f80f-2fd2e7fbc0f6/StoreUI05_enjoy.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/42/3f/eb423f1a-2c1d-8eed-8cc3-dee9bf290686/StoreUI07_relieve.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/6d/b7/3f6db733-3144-aff8-c8c3-e88aa8d7307c/StoreUI06_discover.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/ee/99/46ee9916-7c1e-7032-8b30-971bd3808349/StoreUI08_splash.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Sleep Cycle",
+      "version": "6.26.14",
+      "versionDate": "2026-04-14",
+      "size": 340848796,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.lexwarelabs.goodmorning_SleepCycle_6.26.14.ipa",
+      "developerName": "Sleep Cycle AB",
+      "bundleIdentifier": "com.lexwarelabs.goodmorning",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f1/70/99f170b1-7ea1-810c-ad17-940ca2c73ce9/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.14\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/bb/26/7dbb26ff-16d8-3714-8221-75f1b4f336cc/EN_US_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/5e/d5/015ed5af-a9c5-5eff-5cb3-86490975cec5/EN_US_ASO_iPhone_Screen_2__U00281_U0029.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/7c/b3/827cb301-09ec-4451-c40b-c7c95d2a4e6b/6.5__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/95/8c/a0958cff-48c8-7379-36a7-08ff7a92a4a2/EN_US_ASO_iPhone_Screen_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/08/a8/ea08a859-e0ab-196b-5c77-f8ecc1b87286/EN_US_ASO_iPhone_Screen_4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ad/55/abad5550-3231-11db-1a94-c3e9292b61a2/EN_US_ASO_iPhone_Screen_5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/9f/69/fa9f6912-c1bf-e381-4f98-2becabbd8eae/EN_US_ASO_iPhone_Screen_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/7d/f1/ba7df143-a130-a401-d4c1-e0dfac9d4a56/EN_US_ASO_iPhone_Screen_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/ed/ad/11edad26-2b48-a672-9199-a7152b0a9e6f/EN_US_ASO_iPhone_Screen_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/08/c9/2408c9f1-001b-fffa-87c9-c2ba6fd2e440/Screen_24.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/68/56/a2685678-96b0-6952-6245-c57787173b98/Screen3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/9b/2e/a99b2eb2-39be-ff74-7e50-89dde242b8b7/Screen_39.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/95/9f/ab959ffe-8010-cf55-45c1-5c40ab85563d/Screen_54.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b1/f4/99b1f48f-3c98-2c82-61d2-897dd7d856cd/Screen_69.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/d6/54/91d654b3-6b54-c55c-e915-f471eaa843cf/Screen_83.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/26/25/8a2625db-973f-8ae3-8c6d-b2caf8ae3139/Screen_98.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "StepsApp",
+      "version": "8.8.0",
+      "versionDate": "2026-04-14",
+      "size": 215177850,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.gunthermarktl.stepapp_Sideloadbypass2_8.8.0.ipa",
+      "developerName": "StepsApp GmbH",
+      "bundleIdentifier": "com.gunthermarktl.stepapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/35/7e/bb357ef8-3905-9c2d-2db0-85a96986f104/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nStepsApp Pedometer\n\nTweak: Pro Unlocked\n\nVersion: 8.8.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.gunthermarktl.stepapp\nDeveloper: StepsApp GmbH",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/c9/cd/7cc9cd2b-bcbc-522b-ba92-113ad2c7b496/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/f0/19/8ff019f2-30f8-9624-d487-2c63149d6bb2/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ac/e3/44ace331-f9ed-6665-2930-8016d679a7f4/7c337287-2418-4129-b3d1-7aa2b4e1ca2f_1_APP_IPHONE_55_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/9b/74/509b7417-f10d-0960-c8ec-59b055d9cf62/7f2c6ff9-cb33-46cc-abaf-434793b5cdd7_3_APP_IPHONE_55_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/8a/2a/058a2a51-5805-0019-438d-7c71e06a8a2a/520cb882-cb01-4c5f-acfa-c15589d2ab27_4_APP_IPHONE_55_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/43/79/884379d9-dd0d-2b0c-aa10-d438abb3d0e6/dd0bf4a3-9ffd-4ee9-b42b-fd4c3795e2e5_5_APP_IPHONE_55_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/0c/1d/0a0c1d7a-79b3-d8c2-f128-655cb632bb0a/7a2b4e18-b8ca-483e-9b82-5cb85ffcce56_6_APP_IPHONE_55_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/be/ff/1dbeff81-1f9a-ffd5-574e-636c3175d9a5/9270fb97-c2a0-4c89-bd9c-03af0ff8a76e_7_APP_IPHONE_55_7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/39/85/ec398550-e400-14f3-a966-db1afd9e8076/8cfcf2fa-0581-43b4-9126-25e94d7c2ae4_8_APP_IPHONE_55_8.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Summary AI",
+      "version": "2.12.0",
+      "versionDate": "2026-04-14",
+      "size": 123755441,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/io.labhouse.audioapp_Sideloadbypass2_2.12.0.ipa",
+      "developerName": "Labhouse Mobile",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/f3/36/bdf3360c-8f03-4e17-a87a-6e790c40ec45/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSummary - AI Note Taker\n\nTweak: Premium Unlocked\n\nVersion: 2.12.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: io.labhouse.audioapp\nDeveloper: Labhouse Mobile",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "NeoServer",
+      "version": "8.1.3",
+      "versionDate": "2026-04-14",
+      "size": 22236897,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.neo.NeoMan_NeoServer_8.1.3.ipa",
+      "developerName": "Space-Time Transformation Technology Co., Ltd.",
+      "bundleIdentifier": "com.neo.NeoMan",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/09/08/8c090821-a0f9-89d9-0696-da4443d418bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nNeoServer: SSH Client|Terminal\n\n• Bundle ID: com.neo.NeoMan\n• Updated to: 8.1.3\n• Minimum iOS: 16.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/51/e9/7051e9d4-9400-ba5e-c0c4-b3c3028896a3/6ea7619e-b9fe-45ca-8c94-ac17544b1668_metrics.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/7a/8e/107a8e2f-99cf-e69b-ad17-21ea74a368b6/71a4a532-2c52-4e24-a1a3-90412bb627ad_detail.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/d6/7a/c7d67ad5-bfce-2194-b197-538cad1d5c11/de92a40d-1932-47c6-b46e-4b1a7701364b_container.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/e3/52/1ce352e2-f5bd-60b2-017d-6a5f1d4232c0/b364a3d0-04ff-4430-a090-b248826ba20e_top__U00282_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/02/8e/6b028ed3-2654-0289-d2e7-7640008e3c25/73bd8271-8ea2-44b5-9375-7abae09e3296_bastion.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/8a/3b/2e8a3bec-dc21-3960-d9a6-3a7c460c45bd/c05c007d-7c49-4811-b9c3-7edf6b438cb3_widget.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/ab/47/deab47f7-e291-4a0f-1220-151698126bb3/f4974bc9-a400-4514-ad87-3f48c529f054_setting.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/4d/6c/494d6c0c-7be2-08b5-7529-b45afe930ff1/d7c463a7-3337-4a2c-a113-2be93ecf9496_ssh.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/99/5e/ce995e86-222e-e399-212a-2a4259a4231c/35e98d2a-8178-4e1b-bcbd-7f4b3d1f15cc_sftp.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/df/c3/09dfc360-2cc5-aa6d-8a43-60ca1ae4460c/c72929c7-d422-4939-baa4-a2aa566fea7a_snippets.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "MealPrepPro",
       "version": "3.137.1",
       "versionDate": "2026-04-14",
@@ -2893,29 +3005,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "StepsApp",
-      "version": "8.7.4",
-      "versionDate": "2026-04-01",
-      "size": 197955305,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.gunthermarktl.stepapp_AutoRc_8.7.4.ipa",
-      "developerName": "StepsApp GmbH",
-      "bundleIdentifier": "com.gunthermarktl.stepapp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/a4/26/d5a426a8-4006-1357-d425-630547de6cf2/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nStepsApp Pedometer\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/c9/cd/7cc9cd2b-bcbc-522b-ba92-113ad2c7b496/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/f0/19/8ff019f2-30f8-9624-d487-2c63149d6bb2/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ac/e3/44ace331-f9ed-6665-2930-8016d679a7f4/7c337287-2418-4129-b3d1-7aa2b4e1ca2f_1_APP_IPHONE_55_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/9b/74/509b7417-f10d-0960-c8ec-59b055d9cf62/7f2c6ff9-cb33-46cc-abaf-434793b5cdd7_3_APP_IPHONE_55_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/8a/2a/058a2a51-5805-0019-438d-7c71e06a8a2a/520cb882-cb01-4c5f-acfa-c15589d2ab27_4_APP_IPHONE_55_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/43/79/884379d9-dd0d-2b0c-aa10-d438abb3d0e6/dd0bf4a3-9ffd-4ee9-b42b-fd4c3795e2e5_5_APP_IPHONE_55_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/0c/1d/0a0c1d7a-79b3-d8c2-f128-655cb632bb0a/7a2b4e18-b8ca-483e-9b82-5cb85ffcce56_6_APP_IPHONE_55_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/be/ff/1dbeff81-1f9a-ffd5-574e-636c3175d9a5/9270fb97-c2a0-4c89-bd9c-03af0ff8a76e_7_APP_IPHONE_55_7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/39/85/ec398550-e400-14f3-a966-db1afd9e8076/8cfcf2fa-0581-43b4-9126-25e94d7c2ae4_8_APP_IPHONE_55_8.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Life",
       "version": "6.6.3",
       "versionDate": "2026-04-01",
@@ -4561,19 +4650,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/99/f7/b999f7ac-b67a-e1f5-f53c-058763136e2f/a5f6abab-d2dc-4009-8907-782ad393ebc6_WSP_SCR_9_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a9/c1/2a/a9c12a11-a6ce-cac8-a4ed-40287a0e101d/692d6a10-696f-4719-a57d-f24d0095ce87_WSP_SCR_10_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Summary AI",
-      "version": "2.11.5",
-      "versionDate": "2026-03-23",
-      "size": 119008671,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-23/io.labhouse.audioapp_Sideloadbypass2_2.11.5.ipa",
-      "developerName": "Labhouse Mobile",
-      "bundleIdentifier": "io.labhouse.audioapp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/c3/a5/afc3a5f9-4649-63af-abc8-ec4f71fdad8b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSummary - AI Note Taker\n\nTweak: Premium Unlocked\n\nVersion: 2.11.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: io.labhouse.audioapp\nDeveloper: Labhouse Mobile",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -10060,26 +10136,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Sleep Cycle",
-      "version": "6.26.9",
-      "versionDate": "2026-03-11",
-      "size": 330550651,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.lexwarelabs.goodmorning_SleepCycle_6.26.9.ipa",
-      "developerName": "Sleep Cycle AB",
-      "bundleIdentifier": "com.lexwarelabs.goodmorning",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/38/61/813861d3-8747-f5a2-0bba-85fabb6b67c2/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.9\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/aa/8c/77aa8c8f-75c3-a721-06d2-f1b44f6946fe/EN_US_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/82/f4/bc82f473-d979-5b88-c82b-97d6be76d78d/EN_US_ASO_iPhone_Screen_2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d0/66/57d0668a-012e-b38d-00ea-b04db368f7a1/6.5__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/a6/12/69a612f7-e7cf-8e7c-d5c6-25623a8fbd95/EN_US_ASO_iPhone_Screen_3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/db/e3/b1dbe354-5749-fde9-cdb8-caf151966233/EN_US_ASO_iPhone_Screen_4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/e9/96/3ee99606-f6c5-0ab6-30e7-ae2e7d2cd85d/EN_US_ASO_iPhone_Screen_5.jpg/1320x2868bb.webp"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "The Weather",
       "version": "2.0.16",
       "versionDate": "2026-03-11",
@@ -10865,30 +10921,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/97/c8/9d97c89f-5393-4fda-2427-0fb3e4c97236/MS_102541_English-_U7f8e_U56fd_IPAD_08.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/e0/60/0de06058-1c15-2963-70a5-9c595cbc5fcd/MS_102541_English-_U7f8e_U56fd_IPAD_09.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/7a/41/247a41d2-f892-86f8-91ce-ebcdf49a3d13/MS_102541_English-_U7f8e_U56fd_IPAD_10.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "NeoServer",
-      "version": "8.1.1",
-      "versionDate": "2026-03-11",
-      "size": 21968447,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.neo.NeoMan_NeoServer_8.1.1.ipa",
-      "developerName": "Space-Time Transformation Technology Co., Ltd.",
-      "bundleIdentifier": "com.neo.NeoMan",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/8b/a1/3f8ba11f-918f-4aaa-3a03-04c0a8dee0bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nNeoServer: SSH Client|Terminal\n\n• Bundle ID: com.neo.NeoMan\n• Updated to: 8.1.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/51/e9/7051e9d4-9400-ba5e-c0c4-b3c3028896a3/6ea7619e-b9fe-45ca-8c94-ac17544b1668_metrics.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/7a/8e/107a8e2f-99cf-e69b-ad17-21ea74a368b6/71a4a532-2c52-4e24-a1a3-90412bb627ad_detail.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/d6/7a/c7d67ad5-bfce-2194-b197-538cad1d5c11/de92a40d-1932-47c6-b46e-4b1a7701364b_container.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/e3/52/1ce352e2-f5bd-60b2-017d-6a5f1d4232c0/b364a3d0-04ff-4430-a090-b248826ba20e_top__U00282_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/02/8e/6b028ed3-2654-0289-d2e7-7640008e3c25/73bd8271-8ea2-44b5-9375-7abae09e3296_bastion.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/8a/3b/2e8a3bec-dc21-3960-d9a6-3a7c460c45bd/c05c007d-7c49-4811-b9c3-7edf6b438cb3_widget.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/ab/47/deab47f7-e291-4a0f-1220-151698126bb3/f4974bc9-a400-4514-ad87-3f48c529f054_setting.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/4d/6c/494d6c0c-7be2-08b5-7529-b45afe930ff1/d7c463a7-3337-4a2c-a113-2be93ecf9496_ssh.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/99/5e/ce995e86-222e-e399-212a-2a4259a4231c/35e98d2a-8178-4e1b-bcbd-7f4b3d1f15cc_sftp.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/df/c3/09dfc360-2cc5-aa6d-8a43-60ca1ae4460c/c72929c7-d422-4939-baa4-a2aa566fea7a_snippets.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
