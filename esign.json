@@ -3,6 +3,86 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Darkroom",
+      "version": "7.1.5",
+      "versionDate": "2026-04-17",
+      "size": 322611677,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/co.bergen.Darkroom_AutoRcSideload_7.1.5.ipa",
+      "developerName": "Bergen Co.",
+      "bundleIdentifier": "co.bergen.Darkroom",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/bd/0c2abd4d-dbb5-06e9-6ee7-f85798abd5b1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDarkroom: Photo & Video Editor\n\n• Bundle ID: co.bergen.Darkroom\n• Updated to: 7.1.5\n• Minimum iOS: 18.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nTrollstore only\nIt may work with a cert no guarantee\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7b/bc/e47bbcef-41ba-7fa0-4c6f-72efbd1be995/860502cb-b72a-474e-b89c-bcec75b94d34_55-1-masks.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/7d/4c/9f7d4c2f-bade-194a-eb3e-7ce1c60a0496/5ea2eb45-1299-46ee-875a-0746c380cb3f_55-2-sell.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/61/08/246108f9-1efe-3b43-59e9-6fabd260e122/9b66e9ba-536c-4b30-bc2e-5afa6288b487_55-3-presets.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/b4/e0/3db4e046-c41d-5bbd-4c3c-f4e6120cc1e7/8fe53768-1bf0-4553-9c40-b0362e59088e_55-4-grade.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/a3/c5/20a3c5b2-d61b-6187-97d0-aa38347b3aad/241318c3-c766-44c0-b3a0-12d312f8904b_55-5-frame.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/a8/51/85a85115-2b15-893b-2c50-327248c20758/68fdf098-026b-433c-b508-76c786090b39_55-6-batch.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/15/a7/b715a7a9-f56a-294b-8b92-c5642e4d223c/3e0f5c14-ab4e-492a-a09b-631e484615bc_55-7-raw.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/d8/20/4cd820d9-9b5c-5c8b-6752-573763186683/588690f7-95a9-4f9c-a358-bce10aa29bd7_55-8-transform.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/b6/f8/c4b6f899-9679-b214-f255-4e2a9bfa5e0c/4f72f74c-2bf2-40d5-ba4b-af4ffd16be6a_55-9-devices.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/10/3b/b4103bde-d04b-4ea2-2ea1-408543e2617f/f487c300-47ca-406b-ba39-90cb1f4cbc7c_55-10-reviews.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Windy.app",
+      "version": "15.5.9",
+      "versionDate": "2026-04-17",
+      "size": 156950594,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/co.windyapp.Windy_Windyapp_15.5.9.ipa",
+      "developerName": "Windy Weather World Inc",
+      "bundleIdentifier": "co.windyapp.Windy",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/07/d0/e407d065-34bc-0efc-f952-0d2f24759f57/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWindy.app — Windy Weather Map\n\nPro features unlocked\n\nTweak made by femto\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "FarmVille 2",
+      "version": "29.8",
+      "versionDate": "2026-04-17",
+      "size": 368487937,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.zynga.FarmVille2CountryEscape_29.8.ipa",
+      "developerName": "Zynga Inc.",
+      "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/78/28/59782842-e17c-a584-e6bf-e9cf67994553/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFarmVille 2: Country Escape\n\niGameGod was added to get unlimited Gems and Coins\n\nSearch for i4 Values\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5c/af/37/5caf3740-3aff-c869-7657-cbe6933ea0a5/mzl.jajcosnn.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/99/d4/94/99d494c2-6254-ca8c-bf55-f38afd3028c8/mzl.xjxzamcm.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/70/c8/fb70c831-e570-6e3d-52c5-0ede0e3e4edc/mzl.dbrgvjjy.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/85/eb/a8/85eba893-f7fc-8dae-0694-61b152da22f1/mzl.dovvjcez.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/09/e7/f1/09e7f167-8d88-5e1c-310e-e72df9bb5f75/mzl.furjnooj.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Komoot",
+      "version": "2026.16.0",
+      "versionDate": "2026-04-17",
+      "size": 119614868,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/de.komoot.berlinbikeapp_KomootPatch_2026.16.0.ipa",
+      "developerName": "komoot GmbH",
+      "bundleIdentifier": "de.komoot.berlinbikeapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/df/f4/68dff495-bc7f-1589-a879-203f7c3060cb/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nkomoot - hike, bike & run\n\nPremium and world map unlocked\n\nThanks to Никита for this tweak\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/cb/da/b5cbda6a-3a45-1f80-b5e6-853902584fa8/EN_komoot_1242x2688_iPhone65_01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f4/31/4ff431e7-8170-b5df-dacd-2b524f8b7b29/EN_komoot_1242x2688_iPhone65_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/a7/3e/2ba73e47-0775-42d7-abce-7990c25050d8/EN_komoot_1242x2688_iPhone65_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/e8/3a/b6e83a2c-5d13-fa00-5f41-312326eec6e4/EN_komoot_1242x2688_iPhone65_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/1e/1c/f51e1c60-e28a-7477-3017-26eb9d69c763/EN_komoot_1242x2688_iPhone65_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/fc/83/21fc837c-c106-b753-f7ba-f0ec20846b41/EN_komoot_1242x2688_iPhone65_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/d8/3a/3dd83a72-b139-10b6-719e-b53cd099791a/EN_komoot_1242x2688_iPhone65_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/03/ecc103f4-ec2c-03f9-7d28-13f604d09062/EN_komoot_1242x2688_iPhone65_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/83/7c/4c837c30-ecc6-3ebf-37e0-a5eb311a17ba/EN_komoot_1242x2688_iPhone65_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/02/89/000289ba-14fd-66eb-b97b-58ff92710f59/EN_komoot_1242x2688_iPhone65_10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "SwipeMix",
       "version": "2.12.2",
       "versionDate": "2026-04-17",
@@ -757,30 +837,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/33/06/a333067b-2fae-d376-7aa7-f7a8dacce560/f32b7a13-c9b0-4e60-a864-874ba66380d4_Playful_18_5.5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/e7/40/3ce740db-326e-bf1f-b3af-f17830d44899/51352ad3-c27e-43b7-88c0-59d2146e903f_Playful_19_5.5.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/5f/21/965f2125-3559-f465-859c-1501fd639e97/eb40aec7-dac3-4b23-a980-ae3868dd84b5_Playful_20_5.5.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Darkroom",
-      "version": "7.1.4",
-      "versionDate": "2026-04-16",
-      "size": 318379786,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/co.bergen.Darkroom_RevenueCatFix26_7.1.4.ipa",
-      "developerName": "Bergen Co.",
-      "bundleIdentifier": "co.bergen.Darkroom",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/bd/0c2abd4d-dbb5-06e9-6ee7-f85798abd5b1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDarkroom: Photo & Video Editor\n\nPro features unlocked\n\nSign with custom entitlements file if the app is crashing for you\n\nMinimum OS version 18.4\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7b/bc/e47bbcef-41ba-7fa0-4c6f-72efbd1be995/860502cb-b72a-474e-b89c-bcec75b94d34_55-1-masks.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/7d/4c/9f7d4c2f-bade-194a-eb3e-7ce1c60a0496/5ea2eb45-1299-46ee-875a-0746c380cb3f_55-2-sell.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/61/08/246108f9-1efe-3b43-59e9-6fabd260e122/9b66e9ba-536c-4b30-bc2e-5afa6288b487_55-3-presets.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/b4/e0/3db4e046-c41d-5bbd-4c3c-f4e6120cc1e7/8fe53768-1bf0-4553-9c40-b0362e59088e_55-4-grade.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/a3/c5/20a3c5b2-d61b-6187-97d0-aa38347b3aad/241318c3-c766-44c0-b3a0-12d312f8904b_55-5-frame.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/a8/51/85a85115-2b15-893b-2c50-327248c20758/68fdf098-026b-433c-b508-76c786090b39_55-6-batch.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/15/a7/b715a7a9-f56a-294b-8b92-c5642e4d223c/3e0f5c14-ab4e-492a-a09b-631e484615bc_55-7-raw.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/d8/20/4cd820d9-9b5c-5c8b-6752-573763186683/588690f7-95a9-4f9c-a358-bce10aa29bd7_55-8-transform.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/b6/f8/c4b6f899-9679-b214-f255-4e2a9bfa5e0c/4f72f74c-2bf2-40d5-ba4b-af4ffd16be6a_55-9-devices.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/10/3b/b4103bde-d04b-4ea2-2ea1-408543e2617f/f487c300-47ca-406b-ba39-90cb1f4cbc7c_55-10-reviews.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -3311,30 +3367,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Komoot",
-      "version": "2026.14.3",
-      "versionDate": "2026-04-03",
-      "size": 112270135,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/de.komoot.berlinbikeapp_KomootPatch_2026.14.3.ipa",
-      "developerName": "komoot GmbH",
-      "bundleIdentifier": "de.komoot.berlinbikeapp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/87/93/ed879367-4bef-152e-c5ad-879a7a98c7e0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nkomoot - hike, bike & run\n\nPremium and world map unlocked\n\nThanks to Никита for this tweak\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/cb/da/b5cbda6a-3a45-1f80-b5e6-853902584fa8/EN_komoot_1242x2688_iPhone65_01.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/f4/31/4ff431e7-8170-b5df-dacd-2b524f8b7b29/EN_komoot_1242x2688_iPhone65_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/a7/3e/2ba73e47-0775-42d7-abce-7990c25050d8/EN_komoot_1242x2688_iPhone65_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/e8/3a/b6e83a2c-5d13-fa00-5f41-312326eec6e4/EN_komoot_1242x2688_iPhone65_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/1e/1c/f51e1c60-e28a-7477-3017-26eb9d69c763/EN_komoot_1242x2688_iPhone65_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/fc/83/21fc837c-c106-b753-f7ba-f0ec20846b41/EN_komoot_1242x2688_iPhone65_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/d8/3a/3dd83a72-b139-10b6-719e-b53cd099791a/EN_komoot_1242x2688_iPhone65_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/03/ecc103f4-ec2c-03f9-7d28-13f604d09062/EN_komoot_1242x2688_iPhone65_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/83/7c/4c837c30-ecc6-3ebf-37e0-a5eb311a17ba/EN_komoot_1242x2688_iPhone65_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/02/89/000289ba-14fd-66eb-b97b-58ff92710f59/EN_komoot_1242x2688_iPhone65_10.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Anime",
       "version": "4.2",
       "versionDate": "2026-04-03",
@@ -5847,19 +5879,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/7a/bb/007abb2b-abbb-f5f3-1868-88c568b6b9ef/75b6488a-e87d-4102-87ce-ce4827d31089_6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/c3/8b/f8c38b7f-166c-1ca5-bc52-fc05b4752447/3a1f04bb-a07c-49e0-9f1e-a2a1ee9f8be4_7.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Windy.app",
-      "version": "15.5.5",
-      "versionDate": "2026-03-19",
-      "size": 152266389,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/co.windyapp.Windy_Windyapp_15.5.5.ipa",
-      "developerName": "Windy Weather World Inc",
-      "bundleIdentifier": "co.windyapp.Windy",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/72/fa/6d72fa78-c1b3-4003-7e4d-bab748c56f79/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nWindy.app — Windy Weather Map\n\nPro features unlocked\n\nTweak made by femto\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
