@@ -12484,8 +12484,8 @@
       "name": "Speak4Me",
       "bundleIdentifier": "com.yadux.Speak4Me",
       "developerName": "Bakery Scent",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ee/c4/cceec443-e1b2-8c23-850c-1225e59cabf4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSpeak4Me Text to Speech Reader\n\nTweak: Pro Unlocked\n\nVersion: 6.2.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.yadux.Speak4Me\nDeveloper: Bakery Scent",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/66/d4/c966d4fe-eef8-690c-55e3-a5027a60a69d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSpeak4Me Text to Speech Reader\n\nTweak: Pro Unlocked\n\nVersion: 6.2.10\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.yadux.Speak4Me\nDeveloper: Bakery Scent",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/b6/21/c2b621a1-2172-c7f5-aa9a-7b7515ef75ed/98f0eb8f-4d3d-4c36-b155-d5665d639c9e_406.jpg/1320x2868bb.jpg"
@@ -12532,6 +12532,12 @@
       ],
       "versions": [
         {
+          "version": "6.2.10",
+          "date": "2026-04-18",
+          "size": 97244331,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.yadux.Speak4Me_AutoRevenueCat_6.2.10.ipa"
+        },
+        {
           "version": "6.2.9",
           "date": "2026-03-11",
           "size": 95528335,
@@ -12539,10 +12545,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.2.9",
-      "versionDate": "2026-03-11T13:49:27.843Z",
-      "size": 95528335,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.yadux.Speak4Me_AutoRevenueCat_6.2.9.ipa"
+      "version": "6.2.10",
+      "versionDate": "2026-04-18T01:16:51.016Z",
+      "size": 97244331,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.yadux.Speak4Me_AutoRevenueCat_6.2.10.ipa"
     },
     {
       "name": "SnoreLab",
@@ -22147,7 +22153,7 @@
       "bundleIdentifier": "tech.miidii.MDClock",
       "developerName": "MD Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/a4/60/e8a460e9-050c-8342-962e-1de19acb8d23/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg"
@@ -22194,6 +22200,12 @@
       ],
       "versions": [
         {
+          "version": "2.67.2",
+          "date": "2026-04-18",
+          "size": 316433480,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/tech.miidii.MDClock_MDClock_2.67.2.ipa"
+        },
+        {
           "version": "2.67.1",
           "date": "2026-04-11",
           "size": 316450985,
@@ -22204,19 +22216,13 @@
           "date": "2026-04-07",
           "size": 316429258,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/tech.miidii.MDClock_MDClock_2.67.ipa"
-        },
-        {
-          "version": "2.66.1",
-          "date": "2026-03-20",
-          "size": 316998712,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-20/tech.miidii.MDClock_MDClock_2.66.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.67.1",
-      "versionDate": "2026-04-11T04:14:13.393Z",
-      "size": 316450985,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/tech.miidii.MDClock_MDClock_2.67.1.ipa"
+      "version": "2.67.2",
+      "versionDate": "2026-04-18T01:15:27.627Z",
+      "size": 316433480,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/tech.miidii.MDClock_MDClock_2.67.2.ipa"
     },
     {
       "name": "Lingvist",
@@ -25752,11 +25758,17 @@
       "name": "Lyfta",
       "bundleIdentifier": "com.lyftaios",
       "developerName": "Lindberg Development AS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/0c/e4/3b0ce4df-ac7d-750c-92b3-6ce2a24d7cb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLyfta: Gym Workout Tracker Log\n\n• Bundle ID: com.lyftaios\n• Updated to: 1.143\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/bf/48/9fbf4804-28eb-c5ae-0f74-d5be9bb33e0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLyfta: Gym Workout Tracker Log\n\n• Bundle ID: com.lyftaios\n• Updated to: 1.144\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.144",
+          "date": "2026-04-18",
+          "size": 65680893,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.lyftaios_Lyfta_1.144.ipa"
+        },
         {
           "version": "1.143",
           "date": "2026-04-13",
@@ -25768,19 +25780,13 @@
           "date": "2026-04-07",
           "size": 49514539,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.lyftaios_Sideloadbypass2_1.142.ipa"
-        },
-        {
-          "version": "1.139",
-          "date": "2026-03-17",
-          "size": 49004307,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.lyftaios_Sideloadbypass2_1.139.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.143",
-      "versionDate": "2026-04-13T22:14:22.669Z",
-      "size": 62034580,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.lyftaios_Lyfta_1.143.ipa"
+      "version": "1.144",
+      "versionDate": "2026-04-18T01:15:40.663Z",
+      "size": 65680893,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.lyftaios_Lyfta_1.144.ipa"
     },
     {
       "name": "Vids",
