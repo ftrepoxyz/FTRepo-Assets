@@ -3,6 +3,67 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Speak4Me",
+      "version": "6.2.10",
+      "versionDate": "2026-04-18",
+      "size": 97244331,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.yadux.Speak4Me_AutoRevenueCat_6.2.10.ipa",
+      "developerName": "Bakery Scent",
+      "bundleIdentifier": "com.yadux.Speak4Me",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/66/d4/c966d4fe-eef8-690c-55e3-a5027a60a69d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSpeak4Me Text to Speech Reader\n\nTweak: Pro Unlocked\n\nVersion: 6.2.10\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.yadux.Speak4Me\nDeveloper: Bakery Scent",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/b6/21/c2b621a1-2172-c7f5-aa9a-7b7515ef75ed/98f0eb8f-4d3d-4c36-b155-d5665d639c9e_406.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/0d/e7/b30de748-78b0-e088-3e42-c6856f8faaf4/e4097748-3e3e-4cb0-87e3-129897146a8a_407.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/b4/92/4db49239-fb72-b8d8-1ff4-71408d41570d/9e03c6ee-9d80-4d8f-b717-f7f3bfd3104b_408.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/cd/b7/53cdb750-f6b6-2841-38a7-95fe808dbbcb/b7b2c90b-8def-40f1-9c35-25a9ad5b1a83_130.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/81/b4/8881b4a2-e30e-4ad7-6ddd-036a7a262c66/b1c70ebd-a2c6-4ba9-8d3f-fbb731058e6c_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/5c/3f/bf5c3f14-1589-b949-746b-a590ced79187/c282c723-c213-44be-959e-b5a596cc600a_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/39/38/fc393863-848f-3368-1259-e94d3ed275f4/a48384eb-7921-4b22-b779-7271f3e32eed_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/ca/da/67cada25-b469-9c91-470c-fb3bb4eb98d4/3afdb2a2-3100-4427-abee-3a68a56561d4_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/be/14/7cbe1433-6d2c-9ce6-8faf-2eef00bed2ec/7e7de8ab-35f5-4aac-9cf8-8c1efb01ce91_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/9b/76/889b7615-3093-145c-4cc4-4d992308ea01/0f36201b-d59a-48cc-b48b-0c52aa25dc86_9.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Lyfta",
+      "version": "1.144",
+      "versionDate": "2026-04-18",
+      "size": 65680893,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.lyftaios_Lyfta_1.144.ipa",
+      "developerName": "Lindberg Development AS",
+      "bundleIdentifier": "com.lyftaios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/bf/48/9fbf4804-28eb-c5ae-0f74-d5be9bb33e0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLyfta: Gym Workout Tracker Log\n\n• Bundle ID: com.lyftaios\n• Updated to: 1.144\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "MD Clock",
+      "version": "2.67.2",
+      "versionDate": "2026-04-18",
+      "size": 316433480,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/tech.miidii.MDClock_MDClock_2.67.2.ipa",
+      "developerName": "MD Studio",
+      "bundleIdentifier": "tech.miidii.MDClock",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/a4/60/e8a460e9-050c-8342-962e-1de19acb8d23/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/56/38/21563844-609f-98f9-41cb-9993b2495eb8/8e2ce13d-e38e-4aca-a3a1-2ac8db4fcd51__U82f1_U6587_5.5-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/15/92/50159265-503b-0aba-9095-ac78304f3742/2b2924bb-9864-47a7-9d60-d70ca0ef396e_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/01/07/10010748-9ab5-e433-037e-abd5c9c48eac/9438bf5c-1d1b-420a-b849-723aecd02617_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a6/58/94a6580e-9af0-3f81-59c4-56abc185cafa/4aedb135-adc2-457b-8f8b-472dba16aa37_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/e7/db/22e7db83-5c62-540c-1921-00e31532518e/969492a3-e8a5-466f-92c6-b15f262b75b3_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/d8/b7/acd8b727-627a-dc90-f177-9a03b4e1a6d1/cd5775c8-ff9b-4012-b869-1cf413dabaf9_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/49/e1/a449e142-fc1a-b10a-ce9b-98da977dce72/ab1b0065-19a1-4d78-a68a-14ddf3e94452_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/bd/7b/32bd7bb3-68d1-c36b-cd1c-723074c837b8/6788d411-9998-4bcb-b785-596290970425_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/09/31/bf093188-5265-0055-8e58-01242a96ba09/2e430b3e-4785-4ebb-8596-b7a8275e2028_4.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Captions",
       "version": "13.13.1",
       "versionDate": "2026-04-17",
@@ -1584,19 +1645,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Lyfta",
-      "version": "1.143",
-      "versionDate": "2026-04-13",
-      "size": 62034580,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.lyftaios_Lyfta_1.143.ipa",
-      "developerName": "Lindberg Development AS",
-      "bundleIdentifier": "com.lyftaios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/0c/e4/3b0ce4df-ac7d-750c-92b3-6ce2a24d7cb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLyfta: Gym Workout Tracker Log\n\n• Bundle ID: com.lyftaios\n• Updated to: 1.143\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Photoshop",
       "version": "7.6.1",
       "versionDate": "2026-04-13",
@@ -1889,30 +1937,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/03/64/160364ec-677c-1c9a-723b-caa2bf4e26ab/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nFitness AI Gym Workout Planner\n\n• Bundle ID: com.jakemor.firness-ai\n• Updated to: 17.0\n• Minimum iOS: 16.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "MD Clock",
-      "version": "2.67.1",
-      "versionDate": "2026-04-11",
-      "size": 316450985,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-11/tech.miidii.MDClock_MDClock_2.67.1.ipa",
-      "developerName": "MD Studio",
-      "bundleIdentifier": "tech.miidii.MDClock",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/a4/60/e8a460e9-050c-8342-962e-1de19acb8d23/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/56/38/21563844-609f-98f9-41cb-9993b2495eb8/8e2ce13d-e38e-4aca-a3a1-2ac8db4fcd51__U82f1_U6587_5.5-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/15/92/50159265-503b-0aba-9095-ac78304f3742/2b2924bb-9864-47a7-9d60-d70ca0ef396e_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/01/07/10010748-9ab5-e433-037e-abd5c9c48eac/9438bf5c-1d1b-420a-b849-723aecd02617_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a6/58/94a6580e-9af0-3f81-59c4-56abc185cafa/4aedb135-adc2-457b-8f8b-472dba16aa37_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/e7/db/22e7db83-5c62-540c-1921-00e31532518e/969492a3-e8a5-466f-92c6-b15f262b75b3_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/d8/b7/acd8b727-627a-dc90-f177-9a03b4e1a6d1/cd5775c8-ff9b-4012-b869-1cf413dabaf9_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/49/e1/a449e142-fc1a-b10a-ce9b-98da977dce72/ab1b0065-19a1-4d78-a68a-14ddf3e94452_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/bd/7b/32bd7bb3-68d1-c36b-cd1c-723074c837b8/6788d411-9998-4bcb-b785-596290970425_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/09/31/bf093188-5265-0055-8e58-01242a96ba09/2e430b3e-4785-4ebb-8596-b7a8275e2028_4.png/1320x2868bb.png"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
@@ -8895,30 +8919,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/f0/ce/f8f0ce8b-269e-b95e-a57c-79087f16bc78/screenshot_129.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/4f/04/3b4f04f9-39ce-a265-b7bc-4083df9c08c2/screenshot_131.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/fc/5c/c2fc5c18-0193-ade1-4f7f-058409c1b221/screenshot_130.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Speak4Me",
-      "version": "6.2.9",
-      "versionDate": "2026-03-11",
-      "size": 95528335,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.yadux.Speak4Me_AutoRevenueCat_6.2.9.ipa",
-      "developerName": "Bakery Scent",
-      "bundleIdentifier": "com.yadux.Speak4Me",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ee/c4/cceec443-e1b2-8c23-850c-1225e59cabf4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSpeak4Me Text to Speech Reader\n\nTweak: Pro Unlocked\n\nVersion: 6.2.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.yadux.Speak4Me\nDeveloper: Bakery Scent",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/b6/21/c2b621a1-2172-c7f5-aa9a-7b7515ef75ed/98f0eb8f-4d3d-4c36-b155-d5665d639c9e_406.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/0d/e7/b30de748-78b0-e088-3e42-c6856f8faaf4/e4097748-3e3e-4cb0-87e3-129897146a8a_407.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/b4/92/4db49239-fb72-b8d8-1ff4-71408d41570d/9e03c6ee-9d80-4d8f-b717-f7f3bfd3104b_408.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/cd/b7/53cdb750-f6b6-2841-38a7-95fe808dbbcb/b7b2c90b-8def-40f1-9c35-25a9ad5b1a83_130.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/81/b4/8881b4a2-e30e-4ad7-6ddd-036a7a262c66/b1c70ebd-a2c6-4ba9-8d3f-fbb731058e6c_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/5c/3f/bf5c3f14-1589-b949-746b-a590ced79187/c282c723-c213-44be-959e-b5a596cc600a_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/39/38/fc393863-848f-3368-1259-e94d3ed275f4/a48384eb-7921-4b22-b779-7271f3e32eed_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/ca/da/67cada25-b469-9c91-470c-fb3bb4eb98d4/3afdb2a2-3100-4427-abee-3a68a56561d4_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/be/14/7cbe1433-6d2c-9ce6-8faf-2eef00bed2ec/7e7de8ab-35f5-4aac-9cf8-8c1efb01ce91_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/9b/76/889b7615-3093-145c-4cc4-4d992308ea01/0f36201b-d59a-48cc-b48b-0c52aa25dc86_9.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
