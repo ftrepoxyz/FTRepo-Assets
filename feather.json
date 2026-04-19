@@ -1174,11 +1174,17 @@
       "name": "VSCO",
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/5c/1c/f95c1c00-4b93-d703-5779-b45c66e09de4/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nVSCO: Photo & Video Editor\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/68/27/0868271d-2108-c3a7-9e9a-e4118aeeeb93/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nVSCO: Photo Editor & Presets\n\n• Bundle ID: co.visualsupply.cam\n• Updated to: 460.0.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "460.0.0",
+          "date": "2026-04-19",
+          "size": 212578692,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/co.visualsupply.cam_AutoRcSideload_460.0.0.ipa"
+        },
         {
           "version": "458.1.0",
           "date": "2026-03-14",
@@ -1190,19 +1196,13 @@
           "date": "2026-03-11",
           "size": 211091797,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.visualsupply.cam_RevenueCatFix26_458.0.0.ipa"
-        },
-        {
-          "version": "457.0.0",
-          "date": "2026-03-11",
-          "size": 215925402,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/co.visualsupply.cam_sideloadKeychainfix_457.0.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "458.1.0",
-      "versionDate": "2026-03-14T00:01:52.227Z",
-      "size": 202669113,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/co.visualsupply.cam_RevenueCatFix26_458.1.0.ipa"
+      "version": "460.0.0",
+      "versionDate": "2026-04-19T04:15:33.029Z",
+      "size": 212578692,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/co.visualsupply.cam_AutoRcSideload_460.0.0.ipa"
     },
     {
       "name": "InstagramRegram Instagram (Regram)",
@@ -12317,7 +12317,7 @@
       "bundleIdentifier": "com.gymstreak.GymStreakAI",
       "developerName": "GymStreak Ltd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/68/bc/9468bc85-0314-2459-9ac1-ea3700c2cca1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nGymStreak: AI Personal Trainer\n\nTweak: Subscription Unlocked\n\nVersion: 6.3.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.gymstreak.GymStreakAI\nDeveloper: GymStreak Ltd",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGymStreak: AI Personal Trainer\n\nTweak: Subscription Unlocked\n\nVersion: 6.3.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.gymstreak.GymStreakAI\nDeveloper: GymStreak Ltd",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/bc/b9/89bcb948-b030-1303-7ac5-5963c1f8aadb/24b413ac-3a13-4402-94e3-e7d9fa0fde89_0_guided_workout_leg_press.png/1320x2868bb.png"
@@ -12356,6 +12356,12 @@
       ],
       "versions": [
         {
+          "version": "6.3.7",
+          "date": "2026-04-19",
+          "size": 109220080,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.gymstreak.GymStreakAI_Sideloadbypass2_6.3.7.ipa"
+        },
+        {
           "version": "6.3.4",
           "date": "2026-03-26",
           "size": 106187757,
@@ -12363,10 +12369,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.3.4",
-      "versionDate": "2026-03-26T03:43:37.968Z",
-      "size": 106187757,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.gymstreak.GymStreakAI_Sideloadbypass2_6.3.4.ipa"
+      "version": "6.3.7",
+      "versionDate": "2026-04-19T01:15:35.376Z",
+      "size": 109220080,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.gymstreak.GymStreakAI_Sideloadbypass2_6.3.7.ipa"
     },
     {
       "name": "MapleRead CX",
@@ -30681,7 +30687,7 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/72/14/a1721435-9639-003c-f633-9d2609efd45e/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nRISE: Sleep Tracker\n\n• Bundle ID: com.risesci.nyx\n• Updated to: 1.581.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Certificate with healthkit entitlement is required.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nRISE: Sleep Tracker\n\n• Bundle ID: com.risesci.nyx\n• Updated to: 1.584.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Certificate with healthkit entitlement is required.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/1320x2868bb.png"
@@ -30720,6 +30726,12 @@
       ],
       "versions": [
         {
+          "version": "0.1.584",
+          "date": "2026-04-19",
+          "size": 144566356,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.risesci.nyx_AutoRcSideload_0.1.584.ipa"
+        },
+        {
           "version": "0.1.581",
           "date": "2026-04-07",
           "size": 143748250,
@@ -30730,19 +30742,13 @@
           "date": "2026-04-06",
           "size": 143261772,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.risesci.nyx_AutoRcSideload_0.1.580.ipa"
-        },
-        {
-          "version": "0.1.571",
-          "date": "2026-03-12",
-          "size": 138263962,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.risesci.nyx_AutoRcSideload_0.1.571.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.1.581",
-      "versionDate": "2026-04-07T15:13:41.377Z",
-      "size": 143748250,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.risesci.nyx_AutoRcSideload_0.1.581.ipa"
+      "version": "0.1.584",
+      "versionDate": "2026-04-19T01:15:20.874Z",
+      "size": 144566356,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.risesci.nyx_AutoRcSideload_0.1.584.ipa"
     },
     {
       "name": "Magic Sort",
