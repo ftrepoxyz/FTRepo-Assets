@@ -5,6 +5,52 @@
   },
   "data": [
     {
+      "name": "Bill Tracker",
+      "version": "4.1.79",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-20/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.79.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.unofficialcalculators.payplan",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/97/0d/d7970d91-0391-3589-bdae-b17171d6b06c/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.79\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "developer": "Bill Tracker Pro, Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "扫描全能王",
+      "version": "7.16.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-20/com.intsig.CamScannerLite_CamScanner_7.16.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.intsig.CamScannerLite",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/d7/1e/8fd71e65-222d-0966-5b30-70f702e93da2/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nCamScanner - PDF Scanner App\n\n• Bundle ID: com.intsig.CamScannerLite\n• Updated to: 7.16.0\n• Minimum iOS: 13.0\n• Patched\n• Modifier: VIP Unlocked\n• Tweaked by @blatants\n\n• Note:\nMay or may NOT work on iOS 18 and 26.\nSome features are server-sided and cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "INTSIG Information Co., Ltd",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/eb/4e/e1eb4e62-ad78-3f1f-9c1c-9e2b71d3928c/47f87bf1-8749-4190-87d3-f0d4080adbc4_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/83/ac/8983acae-c08b-9360-5bee-557e44479944/af1a1e60-7b6f-4b2a-b25d-3918738d3748_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/63/dc/f163dcae-21ad-f107-7972-dbf1dbd25bf0/e62de80e-9193-43b3-85c7-6fe6c182b005_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/2c/9b/8e2c9b9f-db58-81db-52e7-3b71794cd84a/2a3488c2-0edf-49a6-9671-dd0049445860_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/de/20/b0de20f9-6ef3-95ce-30a1-390d840904e4/0af87705-14e6-4c7b-9790-a2fc68f41162_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/19/cf/7319cfb5-b6fd-d3df-5b15-ef3fe8c27e27/e32ac62c-46a4-4ed7-9ebc-b2ec1f25257e_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/9e/0f/6b9e0fa5-8d57-6113-0c29-dd01da619630/a8c8e7fb-8f27-4aae-bf7f-9884f02d2efa_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/20/b5/9620b5a2-eef0-cc26-8136-6ad8a3030ffc/046eca67-2876-4082-8410-089fd6a781cf_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-9.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Summarify",
       "version": "3.13.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/nz.digitaltools.Tube-GPT_popuprifty_3.13.0.ipa",
@@ -685,24 +731,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/9b/40/bc9b4072-f0d7-2cda-18e2-ff967557b2ba/1_APP_IPAD_PRO_3GEN_129_1.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/52/70/7e5270bd-ba27-f8cc-4012-5559d7fc5190/2_APP_IPAD_PRO_3GEN_129_2.jpg/1320x2868bb.webp"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Bill Tracker",
-      "version": "4.1.78",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.78.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.unofficialcalculators.payplan",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/8a/10/648a10a4-2fcb-168b-ae25-06371bc9342e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.78\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
-      "developer": "Bill Tracker Pro, Inc.",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -3374,34 +3402,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/94/37/7c94374c-2c68-2a8b-a5a3-e383d08407aa/7_APP_IPHONE_55_7.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/5d/20/265d205d-8b52-9ce4-1c4a-454ddd68f4ad/8_APP_IPHONE_55_8.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/08/fe/8708fe2d-c6e3-2f96-0259-be1c0ac404a1/9_APP_IPHONE_55_9.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "扫描全能王",
-      "version": "7.15.5",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.intsig.CamScannerLite_CamScanner_7.15.5.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.intsig.CamScannerLite",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/d7/1e/8fd71e65-222d-0966-5b30-70f702e93da2/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nCamScanner - PDF Scanner App\n\n• Bundle ID: com.intsig.CamScannerLite\n• Updated to: 7.15.5\n• Minimum iOS: 13.0\n• Patched\n• Modifier: VIP Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Does NOT work on iOS 18 and 26.\n>Some features are server-sided and cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "INTSIG Information Co., Ltd",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/eb/4e/e1eb4e62-ad78-3f1f-9c1c-9e2b71d3928c/47f87bf1-8749-4190-87d3-f0d4080adbc4_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/83/ac/8983acae-c08b-9360-5bee-557e44479944/af1a1e60-7b6f-4b2a-b25d-3918738d3748_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/63/dc/f163dcae-21ad-f107-7972-dbf1dbd25bf0/e62de80e-9193-43b3-85c7-6fe6c182b005_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/2c/9b/8e2c9b9f-db58-81db-52e7-3b71794cd84a/2a3488c2-0edf-49a6-9671-dd0049445860_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/de/20/b0de20f9-6ef3-95ce-30a1-390d840904e4/0af87705-14e6-4c7b-9790-a2fc68f41162_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/19/cf/7319cfb5-b6fd-d3df-5b15-ef3fe8c27e27/e32ac62c-46a4-4ed7-9ebc-b2ec1f25257e_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/9e/0f/6b9e0fa5-8d57-6113-0c29-dd01da619630/a8c8e7fb-8f27-4aae-bf7f-9884f02d2efa_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/20/b5/9620b5a2-eef0-cc26-8136-6ad8a3030ffc/046eca67-2876-4082-8410-089fd6a781cf_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-9.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
