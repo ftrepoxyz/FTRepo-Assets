@@ -3091,6 +3091,60 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/es.monkimun.lingokids_LingoKidsPatch_26.16.0.ipa"
     },
     {
+      "name": "Truecaller",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "developerName": "True Software Scandinavia AB",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/2b/db/b42bdb33-5e40-4606-4a14-e1793e5c5774/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nTruecaller: Premium Caller ID\n\n• Bundle ID: com.truesoftware.TrueCallerOther\n• Updated to: 26.15\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Unlocked\n• Tweaked by @blatants\n\n• Note:\nApp requires a paid cert to function properly\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/c9/98/bfc99833-c363-a71e-2e0d-5cd5e022b543/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_02.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/bd/79/3fbd798d-0248-f781-9b5f-621133ec447a/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_03.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f6/bb/82f6bbab-6e00-fec4-0715-7fedfda6378b/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_04.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/94/76/f6947612-12fb-5536-2f93-525d289f06c0/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_05.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/9d/8a/609d8ae8-b415-8f0b-b691-731071d3d5e0/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_06.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/7f/de/b17fde32-e0c7-1814-3a03-aa302da77c2c/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_08.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/c9/98/bfc99833-c363-a71e-2e0d-5cd5e022b543/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/bd/79/3fbd798d-0248-f781-9b5f-621133ec447a/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f6/bb/82f6bbab-6e00-fec4-0715-7fedfda6378b/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/94/76/f6947612-12fb-5536-2f93-525d289f06c0/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/9d/8a/609d8ae8-b415-8f0b-b691-731071d3d5e0/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/7f/de/b17fde32-e0c7-1814-3a03-aa302da77c2c/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_08.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "26.15.5",
+          "date": "2026-04-21",
+          "size": 89220689,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.truesoftware.TrueCallerOther_Truecaller_26.15.5.ipa"
+        },
+        {
+          "version": "26.10.5",
+          "date": "2026-03-16",
+          "size": 90195682,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.truesoftware.TrueCallerOther_Truecaller_26.10.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.15.5",
+      "versionDate": "2026-04-21T10:15:37.264Z",
+      "size": 89220689,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.truesoftware.TrueCallerOther_Truecaller_26.15.5.ipa"
+    },
+    {
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
@@ -3395,54 +3449,6 @@
       "versionDate": "2026-03-15T19:03:54.466Z",
       "size": 118095669,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/net.whatsapp.WhatsAppSMB_BlockWAUpdates_26.10.10.ipa"
-    },
-    {
-      "name": "Truecaller",
-      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
-      "developerName": "True Software Scandinavia AB",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/a5/b6/c6a5b69b-7c5b-83f8-f216-c3aef26c5d07/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nTruecaller: Premium Caller ID\n\n• Bundle ID: com.truesoftware.TrueCallerOther\n• Reuploaded: 26.10\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Unlocked\n• Tweaked by @blatants\n\n• Note:\nApp requires a paid cert to function properly\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/ea/b4/1feab40a-4ee6-3e64-fcd2-2c85ee763396/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_02.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/c5/03/c0c50380-24e5-d033-04d6-4af628f50526/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_03.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1a/a7/411aa7f3-b478-4775-fff6-e1a58ecd7b9b/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_04.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/96/a5/9596a588-71de-0fbd-c065-fa1f7bcfa149/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_05.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/3f/62/843f623b-84c4-809e-0e91-4bef7d8cca57/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_06.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/27/f9/8527f92b-2bbe-4a9d-34d4-7f480c1efd10/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_08.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/ea/b4/1feab40a-4ee6-3e64-fcd2-2c85ee763396/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/c5/03/c0c50380-24e5-d033-04d6-4af628f50526/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1a/a7/411aa7f3-b478-4775-fff6-e1a58ecd7b9b/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/96/a5/9596a588-71de-0fbd-c065-fa1f7bcfa149/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/3f/62/843f623b-84c4-809e-0e91-4bef7d8cca57/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/27/f9/8527f92b-2bbe-4a9d-34d4-7f480c1efd10/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_08.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "26.10.5",
-          "date": "2026-03-16",
-          "size": 90195682,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.truesoftware.TrueCallerOther_Truecaller_26.10.5.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.10.5",
-      "versionDate": "2026-03-16T13:33:34.890Z",
-      "size": 90195682,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.truesoftware.TrueCallerOther_Truecaller_26.10.5.ipa"
     },
     {
       "name": "Open",
@@ -29575,7 +29581,7 @@
       "bundleIdentifier": "com.pronetis.ironballride2",
       "developerName": "SUPERSONIC STUDIOS LTD",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/1d/7a/031d7a4a-2e56-098e-27b2-2835229b19eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nGoing Balls\n\nTweak: no ads\n\nVersion: 1.4.22\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.pronetis.ironballride2\nDeveloper: SUPERSONIC STUDIOS LTD",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGoing Balls\n\nTweak: no ads\n\nVersion: 1.4.23\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.pronetis.ironballride2\nDeveloper: SUPERSONIC STUDIOS LTD",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/ea/13/9cea13ce-4ae1-accb-d6c3-b982e0afce24/2f89d271-b4bf-4b8d-b8b1-a5f2864d030f_0_Gcity_1242x2208.png/1320x2868bb.png"
@@ -29602,6 +29608,12 @@
       ],
       "versions": [
         {
+          "version": "1.4.23",
+          "date": "2026-04-21",
+          "size": 206447285,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.pronetis.ironballride2_Sideloadbypass2_1.4.23.ipa"
+        },
+        {
           "version": "1.4.22",
           "date": "2026-04-19",
           "size": 271159119,
@@ -29612,19 +29624,13 @@
           "date": "2026-04-14",
           "size": 270455520,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.pronetis.ironballride2_Sideloadbypass2_1.4.21.ipa"
-        },
-        {
-          "version": "1.4.20",
-          "date": "2026-03-31",
-          "size": 268044100,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.pronetis.ironballride2_Sideloadbypass2_1.4.20.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.4.22",
-      "versionDate": "2026-04-19T16:15:48.687Z",
-      "size": 271159119,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.pronetis.ironballride2_Sideloadbypass2_1.4.22.ipa"
+      "version": "1.4.23",
+      "versionDate": "2026-04-21T07:15:47.395Z",
+      "size": 206447285,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.pronetis.ironballride2_Sideloadbypass2_1.4.23.ipa"
     },
     {
       "name": "WL Analysis",
@@ -31191,7 +31197,7 @@
       "bundleIdentifier": "com.grandgames.magicsort",
       "developerName": "Grand Games A.Ş.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/1b/a9/891ba9a3-3006-e9d5-15df-876fd7b14128/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMagic Sort!\n\nTweak: Free iAP\n\nVersion: 0.0.2444\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.magicsort\nDeveloper: Grand Games A.Ş.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMagic Sort!\n\nTweak: Free iAP\n\nVersion: 0.0.2488\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.magicsort\nDeveloper: Grand Games A.Ş.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/6e/4e/4a6e4ee3-e67b-db0c-5b26-9c81cd0bd650/RainbowSS_1242x2208.jpg/1320x2868bb.jpg"
@@ -31230,6 +31236,12 @@
       ],
       "versions": [
         {
+          "version": "0.0.2488",
+          "date": "2026-04-21",
+          "size": 196246487,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.grandgames.magicsort_Sideloadbypass2_0.0.2488.ipa"
+        },
+        {
           "version": "0.0.2444",
           "date": "2026-04-14",
           "size": 204258317,
@@ -31237,10 +31249,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "0.0.2444",
-      "versionDate": "2026-04-14T10:15:15.841Z",
-      "size": 204258317,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.grandgames.magicsort_Sideloadbypass2_0.0.2444.ipa"
+      "version": "0.0.2488",
+      "versionDate": "2026-04-21T10:16:03.702Z",
+      "size": 196246487,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.grandgames.magicsort_Sideloadbypass2_0.0.2488.ipa"
     },
     {
       "name": "Car Match",
