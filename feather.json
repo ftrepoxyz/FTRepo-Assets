@@ -1023,7 +1023,7 @@
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Meta Platforms, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/bb/1a/c2bb1a24-b8f3-8d22-d937-32e1b33b05b2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFacebook Messenger Flow\n\nA lightweight Messenger enhancer\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFacebook Messenger Flow\n\nA lightweight Messenger enhancer \n\nIf you can't login try this version first. Login and then install the latest version over the current one you have without deleting it\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/0a/e3/320ae389-f4a4-ea24-4f15-25953990e148/messenger_appstore_iphone_1284x2778_1.png/1320x2868bb.webp"
@@ -1070,6 +1070,12 @@
       ],
       "versions": [
         {
+          "version": "558.0.0",
+          "date": "2026-04-22",
+          "size": 81371760,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.facebook.Messenger_Flow_558.0.0.ipa"
+        },
+        {
           "version": "556.0.0",
           "date": "2026-04-14",
           "size": 78982037,
@@ -1080,25 +1086,19 @@
           "date": "2026-03-25",
           "size": 76264732,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.facebook.Messenger_Flow_554.0.0.ipa"
-        },
-        {
-          "version": "553.0.0",
-          "date": "2026-03-21",
-          "size": 71793752,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-21/com.facebook.Messenger_Flow_553.0.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "556.0.0",
-      "versionDate": "2026-04-14T13:14:42.720Z",
-      "size": 78982037,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.facebook.Messenger_Flow_556.0.0.ipa"
+      "version": "558.0.0",
+      "versionDate": "2026-04-22T10:16:32.539Z",
+      "size": 81371760,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.facebook.Messenger_Flow_558.0.0.ipa"
     },
     {
       "name": "Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b0/a5/b0b0a541-fe16-3a7a-23a7-4a796a8887a5/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/27/ac/5a27acbb-4b2a-8c6f-40e6-c9b5a1aed6b6/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFacebook\n\nA simple, clean, and powerful tweak for Facebook \n\nGlow settings are available via long press on any tab\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
       "screenshots": [
         {
@@ -1146,6 +1146,12 @@
       ],
       "versions": [
         {
+          "version": "558.0.0",
+          "date": "2026-04-22",
+          "size": 186294787,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.facebook.Facebook_Glow_558.0.0.ipa"
+        },
+        {
           "version": "555.0.0",
           "date": "2026-04-01",
           "size": 178930243,
@@ -1156,19 +1162,13 @@
           "date": "2026-03-25",
           "size": 177731889,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.facebook.Facebook_Glow_554.0.0.ipa"
-        },
-        {
-          "version": "552.0.0",
-          "date": "2026-03-13",
-          "size": 173113181,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.facebook.Facebook_Glow_552.0.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "555.0.0",
-      "versionDate": "2026-04-01T19:02:05.485Z",
-      "size": 178930243,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.facebook.Facebook_Glow_555.0.0.ipa"
+      "version": "558.0.0",
+      "versionDate": "2026-04-22T10:16:20.768Z",
+      "size": 186294787,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.facebook.Facebook_Glow_558.0.0.ipa"
     },
     {
       "name": "VSCO",
@@ -6945,7 +6945,7 @@
       "bundleIdentifier": "tech.sketchar.ios",
       "developerName": "SketchAR",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/75/81/ca75816d-5f20-ded3-9322-fa857ce35ff3/sketchar-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSketchar: AR Drawing App\n\n• Bundle ID: tech.sketchar.ios\n• Updated to: 10.5.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSketchar: AR Drawing App\n\n• Bundle ID: tech.sketchar.ios\n• Updated to: 10.5.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/51/f1/2951f1ff-36b9-0a4c-f7d5-fac89f79133b/387e1b1d-4dab-44d3-8ad8-1aebb8438be4_En-5.5-01.jpg/1320x2868bb.jpg"
@@ -6984,6 +6984,12 @@
       ],
       "versions": [
         {
+          "version": "10.5.3",
+          "date": "2026-04-22",
+          "size": 158119910,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/tech.sketchar.ios_Sketchar_10.5.3.ipa"
+        },
+        {
           "version": "10.5.2",
           "date": "2026-04-18",
           "size": 158106844,
@@ -6994,19 +7000,13 @@
           "date": "2026-04-12",
           "size": 158107975,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/tech.sketchar.ios_Sketchar_10.5.1.ipa"
-        },
-        {
-          "version": "10.5",
-          "date": "2026-04-10",
-          "size": 158205396,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/tech.sketchar.ios_Sketchar_10.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "10.5.2",
-      "versionDate": "2026-04-18T22:15:22.126Z",
-      "size": 158106844,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/tech.sketchar.ios_Sketchar_10.5.2.ipa"
+      "version": "10.5.3",
+      "versionDate": "2026-04-22T07:15:51.857Z",
+      "size": 158119910,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/tech.sketchar.ios_Sketchar_10.5.3.ipa"
     },
     {
       "name": "Emphasis",
@@ -10877,7 +10877,7 @@
       "bundleIdentifier": "co.bergen.Darkroom",
       "developerName": "Bergen Co.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/bd/0c2abd4d-dbb5-06e9-6ee7-f85798abd5b1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDarkroom: Photo & Video Editor\n\nPro features unlocked\n\nSign with custom entitlements file if the app is crashing for you\n\nMinimum OS version 18.4\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nDarkroom: Photo & Video Editor\n\n• Bundle ID: co.bergen.Darkroom\n• Updated to: 7.1.6\n• Minimum iOS: 18.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nTrollstore only\nIt may work with a cert no guarantee\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7b/bc/e47bbcef-41ba-7fa0-4c6f-72efbd1be995/860502cb-b72a-474e-b89c-bcec75b94d34_55-1-masks.jpg/1320x2868bb.jpg"
@@ -10924,6 +10924,12 @@
       ],
       "versions": [
         {
+          "version": "7.1.6",
+          "date": "2026-04-22",
+          "size": 322611855,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/co.bergen.Darkroom_AutoRcSideload_7.1.6.ipa"
+        },
+        {
           "version": "7.1.5",
           "date": "2026-04-18",
           "size": 318381794,
@@ -10934,19 +10940,13 @@
           "date": "2026-04-16",
           "size": 318379786,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/co.bergen.Darkroom_RevenueCatFix26_7.1.4.ipa"
-        },
-        {
-          "version": "7.1.3",
-          "date": "2026-04-03",
-          "size": 317925366,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/co.bergen.Darkroom_RevenueCatFix26_7.1.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "7.1.5",
-      "versionDate": "2026-04-18T16:16:34.810Z",
-      "size": 318381794,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/co.bergen.Darkroom_RevenueCatFix26_7.1.5.ipa"
+      "version": "7.1.6",
+      "versionDate": "2026-04-22T10:15:58.607Z",
+      "size": 322611855,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/co.bergen.Darkroom_AutoRcSideload_7.1.6.ipa"
     },
     {
       "name": "EPIK",
@@ -23955,6 +23955,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/com.gymbros.app_popuprifty_2.13.1.ipa"
     },
     {
+      "name": "Summary AI",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "developerName": "Labhouse Mobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/82/a7/8682a706-d6f2-a4f7-10a4-ff5ca03f729e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSummary - AI Note Taker\n\nTweak: Premium Unlocked\n\nVersion: 2.12.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: io.labhouse.audioapp\nDeveloper: Labhouse Mobile",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.12.3",
+          "date": "2026-04-22",
+          "size": 124344411,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/io.labhouse.audioapp_Sideloadbypass2_2.12.3.ipa"
+        },
+        {
+          "version": "2.12.0",
+          "date": "2026-04-14",
+          "size": 123755441,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/io.labhouse.audioapp_Sideloadbypass2_2.12.0.ipa"
+        },
+        {
+          "version": "2.11.5",
+          "date": "2026-03-23",
+          "size": 119008671,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-23/io.labhouse.audioapp_Sideloadbypass2_2.11.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.12.3",
+      "versionDate": "2026-04-22T10:16:50.833Z",
+      "size": 124344411,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/io.labhouse.audioapp_Sideloadbypass2_2.12.3.ipa"
+    },
+    {
       "name": "SwipeMix",
       "bundleIdentifier": "com.museworks.swipemix",
       "developerName": "Onelight Apps CY Ltd",
@@ -24087,40 +24121,6 @@
       "versionDate": "2026-03-11T10:33:22.156Z",
       "size": 114453907,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.macpaw.iosgemini_CleanMyPhone_2.12.1.ipa"
-    },
-    {
-      "name": "Summary AI",
-      "bundleIdentifier": "io.labhouse.audioapp",
-      "developerName": "Labhouse Mobile",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/f3/36/bdf3360c-8f03-4e17-a87a-6e790c40ec45/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSummary - AI Note Taker\n\nTweak: Premium Unlocked\n\nVersion: 2.12.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: io.labhouse.audioapp\nDeveloper: Labhouse Mobile",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "2.12.0",
-          "date": "2026-04-14",
-          "size": 123755441,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/io.labhouse.audioapp_Sideloadbypass2_2.12.0.ipa"
-        },
-        {
-          "version": "2.11.5",
-          "date": "2026-03-23",
-          "size": 119008671,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-23/io.labhouse.audioapp_Sideloadbypass2_2.11.5.ipa"
-        },
-        {
-          "version": "2.11.3",
-          "date": "2026-03-13",
-          "size": 117257039,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/io.labhouse.audioapp_Sideloadbypass2_2.11.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.12.0",
-      "versionDate": "2026-04-14T07:14:38.609Z",
-      "size": 123755441,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/io.labhouse.audioapp_Sideloadbypass2_2.12.0.ipa"
     },
     {
       "name": "Scanner",
@@ -26842,8 +26842,8 @@
       "name": "Hill Climb",
       "bundleIdentifier": "com.fingersoft.hillclimbracing",
       "developerName": "Fingersoft",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/63/39/4663399f-23bd-d697-c645-324298615ae7/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nHill Climb Racing\n\nTweak: Free iAP\n\nVersion: 1.68.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.fingersoft.hillclimbracing\nDeveloper: Fingersoft",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/2d/46/bc2d464b-4684-5d58-ab78-12f7e9db5fa4/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nHill Climb Racing\n\nTweak: Free iAP\n\nVersion: 1.68.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.fingersoft.hillclimbracing\nDeveloper: Fingersoft",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/3e/fa/a23efade-331c-9fa9-3d92-e8c0ca040f6d/e04755ec-4f02-4a16-baf6-4d6520d8f972_HillClimbRacingPlus_Screenshot_2208x1242_01.jpg/1320x2868bb.jpg"
@@ -26874,6 +26874,12 @@
       ],
       "versions": [
         {
+          "version": "1.68.1",
+          "date": "2026-04-22",
+          "size": 124414572,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.fingersoft.hillclimbracing_popuprifty_1.68.1.ipa"
+        },
+        {
           "version": "1.68.0",
           "date": "2026-03-24",
           "size": 124212502,
@@ -26887,10 +26893,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.68.0",
-      "versionDate": "2026-03-24T15:43:11.267Z",
-      "size": 124212502,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.fingersoft.hillclimbracing_popuprifty_1.68.0.ipa"
+      "version": "1.68.1",
+      "versionDate": "2026-04-22T07:16:08.855Z",
+      "size": 124414572,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.fingersoft.hillclimbracing_popuprifty_1.68.1.ipa"
     },
     {
       "name": "Zombie Catchers",
