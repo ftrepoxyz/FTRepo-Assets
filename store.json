@@ -2735,6 +2735,74 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/es.monkimun.lingokids_LingoKidsPatch_26.16.0.ipa"
     },
     {
+      "name": "‎WA Business",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "developerName": "WhatsApp Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b8/55/ffb85597-e24a-81f1-7ad3-15d767cefc51/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nWhatsApp Business v26.15.10 | WGold v1.8\n\n🇷🇺 Современная модификация для WhatsApp\n— Приложение из TestFlight\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted\n\n🇺🇸 Modern modification for WhatsApp\n— The app from TestFlight\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/72/f5/7672f52e-e13c-6c7b-2ea2-65311cb10d4d/06_iOS_Notes.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/12/f44612f2-5bba-2767-14f1-9246171b27f7/07_iOS_CtWA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/d0/3b/21d03b3f-0fd4-8a16-1e5f-2bdbbe9a624f/08_iOS_Chat.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/72/f5/7672f52e-e13c-6c7b-2ea2-65311cb10d4d/06_iOS_Notes.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/12/f44612f2-5bba-2767-14f1-9246171b27f7/07_iOS_CtWA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/d0/3b/21d03b3f-0fd4-8a16-1e5f-2bdbbe9a624f/08_iOS_Chat.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "26.15.10",
+          "date": "2026-04-22",
+          "size": 136080090,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/net.whatsapp.WhatsAppSMB_BlockWAUpdates_26.15.10.ipa"
+        },
+        {
+          "version": "26.10.10",
+          "date": "2026-03-15",
+          "size": 118095669,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/net.whatsapp.WhatsAppSMB_BlockWAUpdates_26.10.10.ipa"
+        },
+        {
+          "version": "25.33.10",
+          "date": "2026-03-11",
+          "size": 124966544,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsAppSMB_libsubstrate_25.33.10.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.15.10",
+      "versionDate": "2026-04-22T19:16:47.794Z",
+      "size": 136080090,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/net.whatsapp.WhatsAppSMB_BlockWAUpdates_26.15.10.ipa"
+    },
+    {
       "name": "Truecaller",
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "developerName": "True Software Scandinavia AB",
@@ -2975,68 +3043,6 @@
       "versionDate": "2026-03-18T20:34:44.546Z",
       "size": 137057162,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.fouadraheb.watusi_Stalky_26.10.73.ipa"
-    },
-    {
-      "name": "‎WA Business",
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "developerName": "WhatsApp Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d4/b2/a1d4b276-cb04-c596-fd73-41cb908b1fb8/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/72/f5/7672f52e-e13c-6c7b-2ea2-65311cb10d4d/06_iOS_Notes.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/12/f44612f2-5bba-2767-14f1-9246171b27f7/07_iOS_CtWA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/d0/3b/21d03b3f-0fd4-8a16-1e5f-2bdbbe9a624f/08_iOS_Chat.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/72/f5/7672f52e-e13c-6c7b-2ea2-65311cb10d4d/06_iOS_Notes.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/12/f44612f2-5bba-2767-14f1-9246171b27f7/07_iOS_CtWA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/d0/3b/21d03b3f-0fd4-8a16-1e5f-2bdbbe9a624f/08_iOS_Chat.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "26.10.10",
-          "date": "2026-03-15",
-          "size": 118095669,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/net.whatsapp.WhatsAppSMB_BlockWAUpdates_26.10.10.ipa"
-        },
-        {
-          "version": "25.33.10",
-          "date": "2026-03-11",
-          "size": 124966544,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsAppSMB_libsubstrate_25.33.10.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.10.10",
-      "versionDate": "2026-03-15T19:03:54.466Z",
-      "size": 118095669,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/net.whatsapp.WhatsAppSMB_BlockWAUpdates_26.10.10.ipa"
     },
     {
       "name": "Open",
@@ -13468,11 +13474,17 @@
       "name": "Smart Receipts",
       "bundleIdentifier": "co.smartreceipts.ios",
       "developerName": "REACTIVE APPS CORP.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/71/cd/d771cdae-006d-c2cf-35fb-73c40ffd390c/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSmart Receipts: Expenses & Tax\n\nTweak: Pro Unlocked\n\nVersion: 5.15.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: co.smartreceipts.ios\nDeveloper: REACTIVE APPS CORP.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/8a/f5/768af597-e368-e26a-025b-820a77b1a29c/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSmart Receipts: Expenses & Tax\n\nTweak: Pro Unlocked\n\nVersion: 5.15.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: co.smartreceipts.ios\nDeveloper: REACTIVE APPS CORP.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "5.15.2",
+          "date": "2026-04-22",
+          "size": 33068841,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/co.smartreceipts.ios_AutoRevenueCat_5.15.2.ipa"
+        },
         {
           "version": "5.15.1",
           "date": "2026-04-16",
@@ -13487,10 +13499,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.15.1",
-      "versionDate": "2026-04-16T19:15:29.638Z",
-      "size": 146313297,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/co.smartreceipts.ios_AutoRevenueCat_5.15.1.ipa"
+      "version": "5.15.2",
+      "versionDate": "2026-04-22T19:16:55.362Z",
+      "size": 33068841,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/co.smartreceipts.ios_AutoRevenueCat_5.15.2.ipa"
     },
     {
       "name": "Mantra",
@@ -16905,6 +16917,70 @@
       "versionDate": "2026-03-11T13:12:03.951Z",
       "size": 103182969,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.cumbemg.davinci_Sideloadbypass2_4.6.4.ipa"
+    },
+    {
+      "name": "Ladder",
+      "bundleIdentifier": "com.ladder.bootcamp",
+      "developerName": "Ladder Technologies, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/ad/40/92ad40d4-57ec-6777-3e82-391bb67dd572/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nLADDER Strength Training Plans\n\n— Bundle ID: com.ladder.bootcamp\n— Updated to: 4.6.1\n— Minimum iOS: 17.6\n— Modifier: Subscription unlocked\n— Tweaked by @BillyMooree\n\nJoin Telegram Channel | Buy Certificate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/6b/4f/b66b4f96-c458-a164-14f3-c236633ffd76/5414f832-8c65-4d50-8ce1-2a7079298f1f_1st__1242_x_2208_pixels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/07/ea/3d07eab4-cca1-b39c-4dcf-c9f19df80ae6/b46a22db-6090-4fb3-ba8e-506a715eaea8_2nd__1242_x_2208_pixels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/47/98/3247982b-8dc6-bc2b-af6a-2c1c757093f3/e58b0935-33a1-4524-bb8f-8f89dbb8cda4_3rd__1242_x_2208_pixels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/c3/71/59c371f3-70d4-648e-388b-f05d486ee689/2e772544-ccad-44b2-ad27-12c30f62d4ea_4th_1242x2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/f7/58/7bf758fd-f9e0-4dc8-cd1c-49488b2d417a/8fc69aa7-263f-44be-bc91-67f56bcf1d66_5th__1242_x_2208_pixels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/92/dd/1c92dd32-ebbd-933c-8451-8abdaa4d250f/a905e032-0a67-49ee-9bab-942b3b75e1ba_6th__1242_x_2208_pixels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/fe/c9/40fec962-516d-765e-2157-7a07b8c5f654/e8af9918-3e52-4979-816c-249b4ca1f589_7th__1242_x_2208_pixels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/42/82/034282cd-8a13-d03e-05e7-e6db3d0bf315/14f84ddc-91e2-4235-84f5-0ab2ab263789_8th__1242_x_2208_pixels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/17/37/39173733-be9b-01b5-0e4d-20adcfe77bca/fa467f23-6dd9-461d-acaf-9526e9f20d0e_9th__1242_x_2208_pixels.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/40/a0/f440a083-db24-4749-c5ab-292d325e9764/163d0eab-2e64-4931-888d-be671f16b07a_10th__1242_x_2208_pixels.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/6b/4f/b66b4f96-c458-a164-14f3-c236633ffd76/5414f832-8c65-4d50-8ce1-2a7079298f1f_1st__1242_x_2208_pixels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/07/ea/3d07eab4-cca1-b39c-4dcf-c9f19df80ae6/b46a22db-6090-4fb3-ba8e-506a715eaea8_2nd__1242_x_2208_pixels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/47/98/3247982b-8dc6-bc2b-af6a-2c1c757093f3/e58b0935-33a1-4524-bb8f-8f89dbb8cda4_3rd__1242_x_2208_pixels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/c3/71/59c371f3-70d4-648e-388b-f05d486ee689/2e772544-ccad-44b2-ad27-12c30f62d4ea_4th_1242x2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/f7/58/7bf758fd-f9e0-4dc8-cd1c-49488b2d417a/8fc69aa7-263f-44be-bc91-67f56bcf1d66_5th__1242_x_2208_pixels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/92/dd/1c92dd32-ebbd-933c-8451-8abdaa4d250f/a905e032-0a67-49ee-9bab-942b3b75e1ba_6th__1242_x_2208_pixels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/fe/c9/40fec962-516d-765e-2157-7a07b8c5f654/e8af9918-3e52-4979-816c-249b4ca1f589_7th__1242_x_2208_pixels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/42/82/034282cd-8a13-d03e-05e7-e6db3d0bf315/14f84ddc-91e2-4235-84f5-0ab2ab263789_8th__1242_x_2208_pixels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/17/37/39173733-be9b-01b5-0e4d-20adcfe77bca/fa467f23-6dd9-461d-acaf-9526e9f20d0e_9th__1242_x_2208_pixels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/40/a0/f440a083-db24-4749-c5ab-292d325e9764/163d0eab-2e64-4931-888d-be671f16b07a_10th__1242_x_2208_pixels.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "4.6.1",
+          "date": "2026-04-22",
+          "size": 121103631,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.ladder.bootcamp_NewFix1_4.6.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.6.1",
+      "versionDate": "2026-04-22T19:16:30.909Z",
+      "size": 121103631,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.ladder.bootcamp_NewFix1_4.6.1.ipa"
     },
     {
       "name": "AdGuard",
@@ -20475,7 +20551,7 @@
       "bundleIdentifier": "com.intvl.app",
       "developerName": "INTVL PTY LTD",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/92/0f/92920f95-eb38-cad5-068e-e3756889e846/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nINTVL\n\nTweak: Gold Unlocked\n\nVersion: 3.3.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.intvl.app\nDeveloper: INTVL PTY LTD",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nINTVL\n\nTweak: Gold Unlocked\n\nVersion: 3.4.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.intvl.app\nDeveloper: INTVL PTY LTD",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/e3/7f/46e37fdb-bad1-d6e1-2baf-bd92d49ed560/17b36d39-1bcc-4967-897f-678e90c27449_01.png/1320x2868bb.png"
@@ -20514,6 +20590,12 @@
       ],
       "versions": [
         {
+          "version": "3.4.0",
+          "date": "2026-04-22",
+          "size": 96684501,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.intvl.app_Sideloadbypass2_3.4.0.ipa"
+        },
+        {
           "version": "3.3.9",
           "date": "2026-04-21",
           "size": 96690332,
@@ -20524,19 +20606,13 @@
           "date": "2026-04-15",
           "size": 93077873,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/com.intvl.app_Sideloadbypass2_3.3.8.ipa"
-        },
-        {
-          "version": "3.3.7",
-          "date": "2026-03-11",
-          "size": 87025066,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.intvl.app_Sideloadbypass2_3.3.7.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.3.9",
-      "versionDate": "2026-04-21T01:15:40.589Z",
-      "size": 96690332,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.intvl.app_Sideloadbypass2_3.3.9.ipa"
+      "version": "3.4.0",
+      "versionDate": "2026-04-22T22:15:48.041Z",
+      "size": 96684501,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.intvl.app_Sideloadbypass2_3.4.0.ipa"
     },
     {
       "name": "ShutEye",
@@ -21559,7 +21635,7 @@
       "bundleIdentifier": "com.hevyapp.hevy",
       "developerName": "Hevy Studios S.L.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/99/28/5a99283f-aee1-bfbb-a741-d97e8a324160/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nHevy - Workout Tracker Gym Log\n\nPro features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 14.1\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nHevy - Workout Tracker Gym Log\n\n• Bundle ID: com.hevyapp.hevy\n• Updated to: 3.0.8\n• Minimum iOS: 14.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n> Can't create unlimited routines.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/1320x2868bb.png"
@@ -21606,6 +21682,12 @@
       ],
       "versions": [
         {
+          "version": "3.0.8",
+          "date": "2026-04-22",
+          "size": 116277664,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.hevyapp.hevy_Hevy_3.0.8.ipa"
+        },
+        {
           "version": "3.0.7",
           "date": "2026-04-16",
           "size": 111842772,
@@ -21616,19 +21698,13 @@
           "date": "2026-04-01",
           "size": 115382568,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.hevyapp.hevy_Hevy_3.0.5.ipa"
-        },
-        {
-          "version": "3.0.3",
-          "date": "2026-03-15",
-          "size": 119773846,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/com.hevyapp.hevy_Hevy_3.0.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.0.7",
-      "versionDate": "2026-04-16T22:18:54.311Z",
-      "size": 111842772,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/com.hevyapp.hevy_Hevy_3.0.7.ipa"
+      "version": "3.0.8",
+      "versionDate": "2026-04-22T19:15:51.864Z",
+      "size": 116277664,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.hevyapp.hevy_Hevy_3.0.8.ipa"
     },
     {
       "name": "LUT-Studio",
@@ -24086,7 +24162,7 @@
       ],
       "appPermissions": {},
       "version": "2.8.2",
-      "versionDate": "2026-04-22T13:15:53.206Z",
+      "versionDate": "2026-04-22T19:15:57.743Z",
       "size": 26837884,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/app.getmoshi.ios_MoshiSSHMOSHTerminalPatch_2.8.2.ipa"
     },
@@ -29489,12 +29565,18 @@
     {
       "name": "Crsel",
       "bundleIdentifier": "com.frameoneapps.Crsel",
-      "developerName": "Crsel LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/6b/88/656b88ae-3971-62f9-c8c7-ad7799f2b993/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCrsel: Сarousel, Video Сollage\n\n• Bundle ID: com.frameoneapps.Crsel\n• Updated to: 1.3.604\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developerName": "Crsel Sp. z o.o.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/0d/06/800d067c-c4d0-59b9-3a63-f32f5d445bf6/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nCrsel: Сarousel, Video Сollage\n\n— Bundle ID: com.frameoneapps.Crsel\n— Updated to: 1.3.701\n— Minimum iOS: 17.0\n— Modifier: Subscription unlocked\n— Tweaked by @BillyMooree\n\nJoin Telegram Channel | Buy Certificate",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.3.701",
+          "date": "2026-04-22",
+          "size": 148512902,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.frameoneapps.Crsel_Crsel.arouselVideo.ollagePatch_1.3.701.ipa"
+        },
         {
           "version": "1.3.604",
           "date": "2026-04-04",
@@ -29506,19 +29588,13 @@
           "date": "2026-04-01",
           "size": 150268266,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.frameoneapps.Crsel_Crsel_1.3.603.ipa"
-        },
-        {
-          "version": "1.3.602",
-          "date": "2026-03-24",
-          "size": 150273822,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/com.frameoneapps.Crsel_Crsel_1.3.602.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.3.604",
-      "versionDate": "2026-04-04T03:13:09.273Z",
-      "size": 150268948,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.frameoneapps.Crsel_Crsel_1.3.604.ipa"
+      "version": "1.3.701",
+      "versionDate": "2026-04-22T19:16:15.588Z",
+      "size": 148512902,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.frameoneapps.Crsel_Crsel.arouselVideo.ollagePatch_1.3.701.ipa"
     },
     {
       "name": "Shinobi",
