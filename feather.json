@@ -20544,8 +20544,8 @@
       "name": "Tripsy",
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/39/cf/9139cf80-2e7b-cb43-f294-141d8097e202/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nTripsy: Travel Planner\n\n• Bundle ID: app.tripsy.ios\n• Updated to: 3.8.3\n• Minimum iOS: 18\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/c6/97/6dc697fd-29f5-92f9-252a-839d3b77008b/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nTripsy: Travel Planner\n\n• Bundle ID: app.tripsy.ios\n• Updated to: 3.8.6\n• Minimum iOS: 18\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/f0/f2/e7f0f287-78db-582a-1bd6-c6132c05521a/iPhone_6.5_Travel_Planner.jpg/1320x2868bb.webp"
@@ -20588,6 +20588,12 @@
       ],
       "versions": [
         {
+          "version": "3.8.6",
+          "date": "2026-04-23",
+          "size": 137063369,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/app.tripsy.ios_Tripsy_3.8.6.ipa"
+        },
+        {
           "version": "3.8.3",
           "date": "2026-04-02",
           "size": 131301550,
@@ -20598,19 +20604,13 @@
           "date": "2026-03-27",
           "size": 113268639,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/app.tripsy.ios_Tripsy_3.8.2.ipa"
-        },
-        {
-          "version": "3.8.0",
-          "date": "2026-03-25",
-          "size": 113310944,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/app.tripsy.ios_Tripsy_3.8.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.8.3",
-      "versionDate": "2026-04-02T19:01:30.915Z",
-      "size": 131301550,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/app.tripsy.ios_Tripsy_3.8.3.ipa"
+      "version": "3.8.6",
+      "versionDate": "2026-04-23T01:15:55.250Z",
+      "size": 137063369,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/app.tripsy.ios_Tripsy_3.8.6.ipa"
     },
     {
       "name": "Offline Music",
@@ -27369,33 +27369,11 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.media720.offlinegames_Sideloadbypass2_1.55.ipa"
     },
     {
-      "name": "Пассажирам",
-      "bundleIdentifier": "ru.dorogi20251024.passenger",
-      "developerName": "Unknown Developer",
-      "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from @glesign |\n----------------\nРЖД v1.55.1\n\n🇷🇺 Приложение от РЖД для пассажиров \n— Приложение из TestFlight \n© Создано: GLESign\n\n🇺🇸 The application from Russian Railways for passengers\n— The app from TestFlight\n© Created: GLESign",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "1.50",
-          "date": "2026-03-11",
-          "size": 35299912,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.dorogi20251024.passenger_1.50.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.50",
-      "versionDate": "2026-03-11T12:02:03.244Z",
-      "size": 35299912,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.dorogi20251024.passenger_1.50.ipa"
-    },
-    {
       "name": "Home workouts",
       "bundleIdentifier": "com.abishkking.maleworkout",
       "developerName": "Leap Health",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/36/86/973686d3-a50f-eec6-03fe-ebaa697aaa1a/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nHome Workout - No Equipments \n\nPremium features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nHome Workout - No Equipments\n\n• Bundle ID: com.abishkking.maleworkout\n• Updated to: 1.50.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/87/67/e68767d0-3a52-d7a5-d791-aacd63b4c418/1.jpg/1320x2868bb.jpg"
@@ -27442,6 +27420,12 @@
       ],
       "versions": [
         {
+          "version": "1.50.0",
+          "date": "2026-04-23",
+          "size": 196566368,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.abishkking.maleworkout_HomeWorkouts_1.50.0.ipa"
+        },
+        {
           "version": "1.49.0",
           "date": "2026-04-17",
           "size": 190557666,
@@ -27455,10 +27439,32 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.49.0",
-      "versionDate": "2026-04-17T07:17:59.779Z",
-      "size": 190557666,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.abishkking.maleworkout_LeapHealthUnlocker_1.49.0.ipa"
+      "version": "1.50.0",
+      "versionDate": "2026-04-23T04:16:01.094Z",
+      "size": 196566368,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.abishkking.maleworkout_HomeWorkouts_1.50.0.ipa"
+    },
+    {
+      "name": "Пассажирам",
+      "bundleIdentifier": "ru.dorogi20251024.passenger",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nРЖД v1.55.1\n\n🇷🇺 Приложение от РЖД для пассажиров \n— Приложение из TestFlight \n© Создано: GLESign\n\n🇺🇸 The application from Russian Railways for passengers\n— The app from TestFlight\n© Created: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.50",
+          "date": "2026-03-11",
+          "size": 35299912,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.dorogi20251024.passenger_1.50.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.50",
+      "versionDate": "2026-03-11T12:02:03.244Z",
+      "size": 35299912,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/ru.dorogi20251024.passenger_1.50.ipa"
     },
     {
       "name": "!Camera",
@@ -29993,7 +29999,7 @@
       "bundleIdentifier": "com.pronetis.ironballride2",
       "developerName": "SUPERSONIC STUDIOS LTD",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/1d/7a/031d7a4a-2e56-098e-27b2-2835229b19eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nGoing Balls\n\nTweak: no ads\n\nVersion: 1.4.23\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.pronetis.ironballride2\nDeveloper: SUPERSONIC STUDIOS LTD",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGoing Balls\n\nTweak: no ads\n\nVersion: 1.4.24\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.pronetis.ironballride2\nDeveloper: SUPERSONIC STUDIOS LTD",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/ea/13/9cea13ce-4ae1-accb-d6c3-b982e0afce24/2f89d271-b4bf-4b8d-b8b1-a5f2864d030f_0_Gcity_1242x2208.png/1320x2868bb.png"
@@ -30020,6 +30026,12 @@
       ],
       "versions": [
         {
+          "version": "1.4.24",
+          "date": "2026-04-23",
+          "size": 270541299,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.pronetis.ironballride2_Sideloadbypass2_1.4.24.ipa"
+        },
+        {
           "version": "1.4.23",
           "date": "2026-04-21",
           "size": 206447285,
@@ -30030,19 +30042,13 @@
           "date": "2026-04-19",
           "size": 271159119,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.pronetis.ironballride2_Sideloadbypass2_1.4.22.ipa"
-        },
-        {
-          "version": "1.4.21",
-          "date": "2026-04-14",
-          "size": 270455520,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.pronetis.ironballride2_Sideloadbypass2_1.4.21.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.4.23",
-      "versionDate": "2026-04-21T07:15:47.395Z",
-      "size": 206447285,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.pronetis.ironballride2_Sideloadbypass2_1.4.23.ipa"
+      "version": "1.4.24",
+      "versionDate": "2026-04-23T01:16:20.189Z",
+      "size": 270541299,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.pronetis.ironballride2_Sideloadbypass2_1.4.24.ipa"
     },
     {
       "name": "WL Analysis",
