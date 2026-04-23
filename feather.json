@@ -4692,12 +4692,6 @@
           "date": "2026-04-14",
           "size": 101938904,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.ulisesolave.Fitia_Fitia_22.3.8.ipa"
-        },
-        {
-          "version": "22.3.7",
-          "date": "2026-04-08",
-          "size": 101937464,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-08/com.ulisesolave.Fitia_Fitia_22.3.7.ipa"
         }
       ],
       "appPermissions": {},
@@ -5625,7 +5619,7 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/f2/f0/c6f2f049-71e8-872b-cefb-4f4d393bb4c1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCaptions: AI Edits Your Video\n\n• Bundle ID: boomer.Smart-Video\n• Updated to: 13.13.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Scale Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app if subscription isn't active.\nOnly subscription is unlocked!! Credits cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nCaptions: AI Edits Your Video\n\n• Bundle ID: boomer.Smart-Video\n• Updated to: 13.14.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Scale Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app if subscription isn't active.\nOnly subscription is unlocked!! Credits cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/1320x2868bb.png"
@@ -5656,6 +5650,12 @@
       ],
       "versions": [
         {
+          "version": "13.14.0",
+          "date": "2026-04-23",
+          "size": 408771354,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/boomer.Smart-Video_Captions_13.14.0.ipa"
+        },
+        {
           "version": "13.13.1",
           "date": "2026-04-17",
           "size": 409169443,
@@ -5666,19 +5666,13 @@
           "date": "2026-04-16",
           "size": 404659564,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/boomer.Smart-Video_Captions_13.13.0.ipa"
-        },
-        {
-          "version": "13.12.2",
-          "date": "2026-04-14",
-          "size": 401364766,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/boomer.Smart-Video_Sideloadbypass2_13.12.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "13.13.1",
-      "versionDate": "2026-04-17T22:15:25.924Z",
-      "size": 409169443,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/boomer.Smart-Video_Captions_13.13.1.ipa"
+      "version": "13.14.0",
+      "versionDate": "2026-04-23T19:16:17.543Z",
+      "size": 408771354,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/boomer.Smart-Video_Captions_13.14.0.ipa"
     },
     {
       "name": "Yazio",
@@ -24734,8 +24728,8 @@
       "name": "12min",
       "bundleIdentifier": "com.br.12min.mobile",
       "developerName": "12 MIN SERVICOS DIGITAIS E NEGOCIOS LTDA",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/ef/f0/6aeff072-a205-4944-0abd-136cd13dcf64/liquid_glass_icon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\n12min: Book Summaries & Ideas\n\nTweak: Premium Unlocked\n\nVersion: 2.8.26\n\nNotes: - downloading doesn't work\n- fast forwarding is buggy (nothing i can do about it)\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.br.12min.mobile\nDeveloper: 12 MIN SERVICOS DIGITAIS E NEGOCIOS LTDA",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/08/d9/6f08d985-af0d-1dae-19ea-aad3dabc0b18/liquid_glass_icon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\n12min: Book Summaries & Ideas\n\nTweak: Premium Unlocked\n\nVersion: 2.9.0\n\nNotes: - downloading doesn't work\n- fast forwarding is buggy (nothing i can do about it)\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.br.12min.mobile\nDeveloper: 12 MIN SERVICOS DIGITAIS E NEGOCIOS LTDA",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/64/ad/af64adff-f35f-e5d9-30fe-58af7a3928ff/EN-iPad-1__U00281_U0029.png/1320x2868bb.jpg"
@@ -24758,6 +24752,12 @@
       ],
       "versions": [
         {
+          "version": "2.9.0",
+          "date": "2026-04-23",
+          "size": 41095492,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.br.12min.mobile_Sideloadbypass2_2.9.0.ipa"
+        },
+        {
           "version": "2.8.26",
           "date": "2026-03-12",
           "size": 39948407,
@@ -24765,10 +24765,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.8.26",
-      "versionDate": "2026-03-12T15:29:51.146Z",
-      "size": 39948407,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.br.12min.mobile_Sideloadbypass2_2.8.26.ipa"
+      "version": "2.9.0",
+      "versionDate": "2026-04-23T19:16:27.104Z",
+      "size": 41095492,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.br.12min.mobile_Sideloadbypass2_2.9.0.ipa"
     },
     {
       "name": "Moshi",
