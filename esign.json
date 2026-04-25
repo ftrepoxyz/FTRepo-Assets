@@ -3,7 +3,7 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
-      "name": "Instagram",
+      "name": "Instagram (Ryukgram)",
       "version": "426.0.0",
       "versionDate": "2026-04-25",
       "size": 323994423,
@@ -5702,6 +5702,27 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/85/f6/0d85f6b7-152c-9803-e5e7-2da8308f5f1e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @riftysipalibrary |\n----------------\nSun Position and Path Sunlitt\n\nTweak: Premium Unlocked\n\nVersion: 4.10.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: eu.sun.litt\nDeveloper: Flipping Hues Srls",
       "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Instagram",
+      "version": "423.0.0",
+      "versionDate": "2026-04-01",
+      "size": 284410833,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.burbn.instagram_blatantsPatch_423.0.0.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e7/3e/44e73e4c-1819-1c3b-6032-8398e74507e5/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/02/0b/92020bf1-8c88-9e3e-c740-7a2ad76996d9/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/35/ad/e035adc7-a479-ccdf-85bf-5dd3d170c49e/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
       "tintColor": "#5C7AEA"
     },
     {
