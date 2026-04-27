@@ -4607,7 +4607,7 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/d4/da/c3d4da70-27c1-2150-ffc1-32970a5932f2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNotability: Notes, PDF\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 16.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png"
@@ -4634,6 +4634,12 @@
       ],
       "versions": [
         {
+          "version": "16.2",
+          "date": "2026-04-27",
+          "size": 276200538,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.gingerlabs.Notability_Notability_16.2.ipa"
+        },
+        {
           "version": "16.1.4",
           "date": "2026-04-21",
           "size": 251791640,
@@ -4644,19 +4650,13 @@
           "date": "2026-04-17",
           "size": 251520222,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_16.1.3.ipa"
-        },
-        {
-          "version": "16.1",
-          "date": "2026-04-01",
-          "size": 227201609,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_16.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "16.1.4",
-      "versionDate": "2026-04-21T22:16:40.141Z",
-      "size": 251791640,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_16.1.4.ipa"
+      "version": "16.2",
+      "versionDate": "2026-04-27T16:39:17.877Z",
+      "size": 276200538,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.gingerlabs.Notability_Notability_16.2.ipa"
     },
     {
       "name": "Dictionary",
@@ -24751,33 +24751,11 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/ideastudio.Weather-on-the-Way_Sideloadbypass2_2.5.2.ipa"
     },
     {
-      "name": "AniLiberty",
-      "bundleIdentifier": "tv.anilibria.anilibria",
-      "developerName": "Unknown Developer",
-      "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from @glesign |\n----------------\nAniLiberty 2.5.1\n\n🇷🇺 Приложение для просмотра аниме от команды Aniliberty. \n— Требуется iOS 13.0+\n© Создано: AniLibria\n\n🇺🇸 The Aniliberty team's anime viewing app\n— Requires iOS 13.0+\n© Created: AniLibria",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "2.5.1",
-          "date": "2026-03-11",
-          "size": 3847539,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/tv.anilibria.anilibria_2.5.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.5.1",
-      "versionDate": "2026-03-11T12:07:40.703Z",
-      "size": 3847539,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/tv.anilibria.anilibria_2.5.1.ipa"
-    },
-    {
       "name": "Dreams",
       "bundleIdentifier": "com.thelostproject.dreams",
       "developerName": "The Lost Project",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/3c/df/803cdf6d-c2aa-abf0-77df-7c09ae740539/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nDreams: Your dream journal\n\nTweak: Pro Unlocked\n\nVersion: 2.5.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16\nBundle ID: com.thelostproject.dreams\nDeveloper: The Lost Project",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/8c/32/3c8c32d0-3e53-6ff8-cd27-911435d981dc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nDreams: Your dream journal\n\nTweak: Pro Unlocked\n\nVersion: 2.5.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16\nBundle ID: com.thelostproject.dreams\nDeveloper: The Lost Project",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/5b/64/b05b6473-8269-3994-05d6-483bb50efff9/3c4310de-1be0-4732-817a-7a4873c8542b_iPhone_8_Plus-1-Journal-List.png/1320x2868bb.png"
@@ -24820,6 +24798,12 @@
       ],
       "versions": [
         {
+          "version": "2.5.1",
+          "date": "2026-04-27",
+          "size": 12577717,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.thelostproject.dreams_Sideloadbypass2_2.5.1.ipa"
+        },
+        {
           "version": "2.5.0",
           "date": "2026-03-11",
           "size": 12527937,
@@ -24827,10 +24811,32 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.5.0",
-      "versionDate": "2026-03-11T13:13:50.832Z",
-      "size": 12527937,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.thelostproject.dreams_Sideloadbypass2_2.5.0.ipa"
+      "version": "2.5.1",
+      "versionDate": "2026-04-27T16:39:22.845Z",
+      "size": 12577717,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.thelostproject.dreams_Sideloadbypass2_2.5.1.ipa"
+    },
+    {
+      "name": "AniLiberty",
+      "bundleIdentifier": "tv.anilibria.anilibria",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nAniLiberty 2.5.1\n\n🇷🇺 Приложение для просмотра аниме от команды Aniliberty. \n— Требуется iOS 13.0+\n© Создано: AniLibria\n\n🇺🇸 The Aniliberty team's anime viewing app\n— Requires iOS 13.0+\n© Created: AniLibria",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.5.1",
+          "date": "2026-03-11",
+          "size": 3847539,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/tv.anilibria.anilibria_2.5.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.5.1",
+      "versionDate": "2026-03-11T12:07:40.703Z",
+      "size": 3847539,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/tv.anilibria.anilibria_2.5.1.ipa"
     },
     {
       "name": "Edith",
@@ -29641,59 +29647,11 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.seastar.turrit_TelegramChatFixer_1.4.7.ipa"
     },
     {
-      "name": "Kino",
-      "bundleIdentifier": "camera.lux.kino",
-      "developerName": "Lux Optics Incorporated",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/95/f6/a395f675-1f24-f7e7-773a-76af14b13998/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nKino - Pro Video Camera\n\nPaid app $9.99\n\nDecrypted by user_hidden\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/98/2b/1d982b27-1094-dcf8-4da8-d4a7f2da65d5/d268a7f7-d078-44b1-a9a4-a5a43be65292_1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/90/b3/3d90b3aa-46be-bf39-80b9-b3923f72ced8/bd081660-87e9-4570-9a89-3d5d69ee0a5b_2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/38/47/7c38470e-3679-fede-6823-c4c98cc0d93f/12f21088-2532-4801-ba1b-40ddb7efba7a_3.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/27/f5d927a2-a914-5ed6-2ae5-fc79397f2df0/70596225-6550-4c3f-a645-e771e5ef2dc8_4.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/48/5a/b5485aac-e4ac-dffd-756e-0c7bd84772b6/f069206b-9614-4221-a96c-4f6224c5d9ab_5.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/84/b8/d084b81d-fb95-b5e4-186c-2d9844056e0f/31e0f3de-c7fb-4e68-b777-618215eecce8_6.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/98/2b/1d982b27-1094-dcf8-4da8-d4a7f2da65d5/d268a7f7-d078-44b1-a9a4-a5a43be65292_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/90/b3/3d90b3aa-46be-bf39-80b9-b3923f72ced8/bd081660-87e9-4570-9a89-3d5d69ee0a5b_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/38/47/7c38470e-3679-fede-6823-c4c98cc0d93f/12f21088-2532-4801-ba1b-40ddb7efba7a_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/27/f5d927a2-a914-5ed6-2ae5-fc79397f2df0/70596225-6550-4c3f-a645-e771e5ef2dc8_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/48/5a/b5485aac-e4ac-dffd-756e-0c7bd84772b6/f069206b-9614-4221-a96c-4f6224c5d9ab_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/84/b8/d084b81d-fb95-b5e4-186c-2d9844056e0f/31e0f3de-c7fb-4e68-b777-618215eecce8_6.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "1.4.1",
-          "date": "2026-03-11",
-          "size": 30877717,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/camera.lux.kino_1.4.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.4.1",
-      "versionDate": "2026-03-11T09:15:07.741Z",
-      "size": 30877717,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/camera.lux.kino_1.4.1.ipa"
-    },
-    {
       "name": "Climbah",
       "bundleIdentifier": "com.limitnil.climbah",
       "developerName": "Prabhkirat Singh",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/69/f0/0369f099-90a4-f212-0351-c03d75e5044f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nClimbah: Bouldering & Climb AI\n\nTweak: Premium Unlocked\n\nVersion: 1.4.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.limitnil.climbah\nDeveloper: Prabhkirat Singh",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/2c/92/f42c9241-0233-dbcf-ac33-dbc251c0ca28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nClimbah: Bouldering & Climb AI\n\nTweak: Premium Unlocked\n\nVersion: 1.4.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.limitnil.climbah\nDeveloper: Prabhkirat Singh",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/12/51/c312511c-55c4-f1e6-2011-584ea11e7d93/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-12-05_at_10.24.53.png/1320x2868bb.webp"
@@ -29748,6 +29706,12 @@
       ],
       "versions": [
         {
+          "version": "1.4.4",
+          "date": "2026-04-27",
+          "size": 36467555,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.limitnil.climbah_Sideloadbypass2_1.4.4.ipa"
+        },
+        {
           "version": "1.4.0",
           "date": "2026-03-11",
           "size": 34754529,
@@ -29755,10 +29719,58 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.4.0",
-      "versionDate": "2026-03-11T13:08:36.577Z",
-      "size": 34754529,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.limitnil.climbah_Sideloadbypass2_1.4.0.ipa"
+      "version": "1.4.4",
+      "versionDate": "2026-04-27T19:39:19.573Z",
+      "size": 36467555,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.limitnil.climbah_Sideloadbypass2_1.4.4.ipa"
+    },
+    {
+      "name": "Kino",
+      "bundleIdentifier": "camera.lux.kino",
+      "developerName": "Lux Optics Incorporated",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/95/f6/a395f675-1f24-f7e7-773a-76af14b13998/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nKino - Pro Video Camera\n\nPaid app $9.99\n\nDecrypted by user_hidden\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/98/2b/1d982b27-1094-dcf8-4da8-d4a7f2da65d5/d268a7f7-d078-44b1-a9a4-a5a43be65292_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/90/b3/3d90b3aa-46be-bf39-80b9-b3923f72ced8/bd081660-87e9-4570-9a89-3d5d69ee0a5b_2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/38/47/7c38470e-3679-fede-6823-c4c98cc0d93f/12f21088-2532-4801-ba1b-40ddb7efba7a_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/27/f5d927a2-a914-5ed6-2ae5-fc79397f2df0/70596225-6550-4c3f-a645-e771e5ef2dc8_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/48/5a/b5485aac-e4ac-dffd-756e-0c7bd84772b6/f069206b-9614-4221-a96c-4f6224c5d9ab_5.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/84/b8/d084b81d-fb95-b5e4-186c-2d9844056e0f/31e0f3de-c7fb-4e68-b777-618215eecce8_6.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/98/2b/1d982b27-1094-dcf8-4da8-d4a7f2da65d5/d268a7f7-d078-44b1-a9a4-a5a43be65292_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/90/b3/3d90b3aa-46be-bf39-80b9-b3923f72ced8/bd081660-87e9-4570-9a89-3d5d69ee0a5b_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/38/47/7c38470e-3679-fede-6823-c4c98cc0d93f/12f21088-2532-4801-ba1b-40ddb7efba7a_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/27/f5d927a2-a914-5ed6-2ae5-fc79397f2df0/70596225-6550-4c3f-a645-e771e5ef2dc8_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/48/5a/b5485aac-e4ac-dffd-756e-0c7bd84772b6/f069206b-9614-4221-a96c-4f6224c5d9ab_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/84/b8/d084b81d-fb95-b5e4-186c-2d9844056e0f/31e0f3de-c7fb-4e68-b777-618215eecce8_6.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2026-03-11",
+          "size": 30877717,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/camera.lux.kino_1.4.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.4.1",
+      "versionDate": "2026-03-11T09:15:07.741Z",
+      "size": 30877717,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/camera.lux.kino_1.4.1.ipa"
     },
     {
       "name": "Crsel",
@@ -31115,7 +31127,7 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/72/14/a1721435-9639-003c-f633-9d2609efd45e/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nRISE: Sleep Tracker\n\n• Bundle ID: com.risesci.nyx\n• Updated to: 1.585.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Certificate with healthkit entitlement is required.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nRISE: Sleep Tracker\n\n• Bundle ID: com.risesci.nyx\n• Updated to: 1.587.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Certificate with healthkit entitlement is required.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/1320x2868bb.png"
@@ -31154,6 +31166,12 @@
       ],
       "versions": [
         {
+          "version": "0.1.587",
+          "date": "2026-04-27",
+          "size": 141442552,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.risesci.nyx_AutoRcSideload_0.1.587.ipa"
+        },
+        {
           "version": "0.1.585",
           "date": "2026-04-20",
           "size": 144572494,
@@ -31164,19 +31182,13 @@
           "date": "2026-04-19",
           "size": 144566356,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.risesci.nyx_AutoRcSideload_0.1.584.ipa"
-        },
-        {
-          "version": "0.1.581",
-          "date": "2026-04-07",
-          "size": 143748250,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.risesci.nyx_AutoRcSideload_0.1.581.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.1.585",
-      "versionDate": "2026-04-20T22:15:46.366Z",
-      "size": 144572494,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-20/com.risesci.nyx_AutoRcSideload_0.1.585.ipa"
+      "version": "0.1.587",
+      "versionDate": "2026-04-27T19:39:11.127Z",
+      "size": 141442552,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.risesci.nyx_AutoRcSideload_0.1.587.ipa"
     },
     {
       "name": "Magic Sort",
