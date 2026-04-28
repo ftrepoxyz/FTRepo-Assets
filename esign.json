@@ -3,6 +3,102 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Lunatask",
+      "version": "2.1.28",
+      "versionDate": "2026-04-28",
+      "size": 15351167,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.mikekreeki.tasks_Sideloadbypass2_2.1.28.ipa",
+      "developerName": "Michal Krejci",
+      "bundleIdentifier": "com.mikekreeki.tasks",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/8e/ae/de8eae78-609e-6118-ee8c-d797d9dcee17/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLunatask: A Better To-Do List\n\nTweak: Premium Unlocked\n\nVersion: 2.1.28\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.mikekreeki.tasks\nDeveloper: Michal Krejci",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/48/61/964861da-466d-d526-1605-da5e04873125/iOS_iPhone_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/bd/1d/45bd1d27-0cb8-edbd-59bd-45f90597d9a9/iOS_iPhone_2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/d1/82/37d1823f-613e-38f8-587f-c4cdaf4cf5e8/iOS_iPhone_3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/f2/ec/8df2ec48-cefe-53b7-28c8-c1fe7c95b928/iOS_iPhone_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/13/94/8f1394a9-8111-1d5f-2660-9f84758dc84c/iOS_iPhone_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/d5/da/d6d5da74-49ae-1b32-49dd-36fa8d2fa5ae/iOS_iPad_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/ca/61/12ca61d1-78f9-f7bb-2609-13f013b142e2/iOS_iPad_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/24/99/962499c3-fc11-3d72-c92d-330ea9583500/iOS_iPad_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/09/ec/cb09ec53-a18d-7072-9c79-07ea313f9f60/iOS_iPad_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/5d/bd/a65dbd1b-d2e1-1258-f22b-dd0ab3bdbbba/iOS_iPad_5.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "ProCCD",
+      "version": "5.9.1",
+      "versionDate": "2026-04-28",
+      "size": 259065765,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.yengshine.proccd_ProCCD_5.9.1.ipa",
+      "developerName": "秉妍 蔡",
+      "bundleIdentifier": "com.yengshine.proccd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/ea/1c/90ea1cb8-825f-fb8b-ce68-ee1876b07400/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nProCCD - Digital Film Camera\n\n• Bundle ID: com.yengshine.proccd\n• Updated to: 5.9.1\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/c2/0bd0c293-022f-3e34-aa0b-ad5ef65875f4/02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a8/c9/1fa8c973-5642-3165-cafe-cfdd4515a957/03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/43/17/684317c4-eff1-5d0c-176f-e268c49a2336/04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/aa/ad/6caaadc3-f5bd-7b6e-7052-5ea449a19e35/05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/01/20/9f012047-bcce-e0b0-fd08-e1f40c1c3910/06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/3e/f1/443ef1ea-b621-9e4f-52fd-e339581ce521/07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/96/a4/5e96a4e5-e5c0-31b2-3143-4d0582ff1bbc/08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/84/bc/3e84bc43-2752-f578-3b71-9697d2f00d6c/09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/8b/e3/aa8be37a-cd78-a6b2-75ae-09d7582c84ab/10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Reframe",
+      "version": "3.9.53",
+      "versionDate": "2026-04-28",
+      "size": 251030695,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.53.ipa",
+      "developerName": "Glucobit Inc.",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3b/f4/423bf40c-d201-adbf-77c4-669df37c2dc0/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.53\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/26/08/fe2608eb-a316-8167-35f3-59ffcb02d374/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/e1/20/65e12087-8ca9-0491-8b7c-fcbfc084a6dc/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/cf/34/9ccf3454-fa3d-be90-6bce-e92fb1c8a95f/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/3a/e0/e73ae0f6-5fca-80ea-48db-01d204da58c1/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/db/48/e7db4885-64eb-455d-9926-ff8b5c1bd15b/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/e5/d9/fce5d952-65a3-a760-cf06-e5241e254d06/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/ec/6a/79ec6ad9-9446-f621-f357-698576f4cee4/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/11/5a/27115acf-0b42-04a9-888b-fc962cbb225d/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/1b/5a/e31b5a4b-aa2c-42d7-53e8-f7cfa23f944e/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/21/0f/ea210f2a-6b97-2d7c-ce91-bb07581e408f/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Mindllama",
+      "version": "2.5.8",
+      "versionDate": "2026-04-28",
+      "size": 182175067,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.vitalii.mind_Mindllama_2.5.8.ipa",
+      "developerName": "Llama Luna Apps",
+      "bundleIdentifier": "com.vitalii.mind",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/e8/1c/57e81c9c-f2f6-3da4-deec-20c50799019a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMindllama Breathe Sleep Focus\n\n• Bundle ID: com.vitalii.mind\n• Updated to: 2.5.8\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/f1/b7/c2f1b7ee-6c8f-3454-5bc4-a7f8be647ca1/d012647e-a374-4c47-a7fc-264b1e3dfa64_1-breathe-widget-anxiety.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/4e/75/844e752c-3e3e-1896-1d8e-6ab1c4ebf89f/978a9968-f303-4e29-9ce9-741e136c5ff9_2-relief-breathing-app.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/9b/31/be9b315e-d0af-d1c6-235b-9a6ccc4deacc/b4eda90a-306a-4da7-b20a-ded98eae652c_3-mental-exercises-calm.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/9c/a9/619ca96f-5104-340c-97d1-972e395c2bbc/4a4b2db0-7972-4b77-a094-1c0b36f42ded_4-meditation-sleep-relax.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/1c/db/651cdb6c-c001-1f7a-bc88-33a372069098/b3f6fff9-53eb-4e9a-b724-a26ec45b4fd4_5-mood-free-health-to-ios.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/c5/e1/f1c5e146-8d35-b8d9-1d32-a3285e427b70/e7c14af9-c65c-4bf6-9f4b-4e0525f157ca_6-breethe-zen-better-anti-stress.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/d6/e2/3bd6e2a3-b647-1e57-0f3c-dc549d016129/a1459af1-bad4-4590-a070-1828e67007b4_5-mood-free-health-to-ios.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/02/9c/e8029c8b-5e03-0ec8-21e6-57fcb52815e6/ec68dd36-7538-41b2-875f-effc35b3c3e3_6-breethe-zen-better-anti-stress.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/2a/9f/2a2a9f55-8255-7fa3-6dd0-eaacca5f3ea9/80e2236d-61df-433a-81c9-2f960d8b02c9_7-journal-headspace-pannic-breather.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/5c/a8/a75ca82c-348f-f7fb-5fbd-a9bb28adf1fa/ff77cfc3-766c-414c-b1ac-f9ad216b619b_8-breathe-widget-anxiety.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Horizon",
       "version": "1.3.11",
       "versionDate": "2026-04-28",
@@ -369,30 +465,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/25/f8/9325f896-d49a-28a8-81ba-fb889ac2ccb6/6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/fc/51/d0fc51a4-f1e3-3550-2695-3819d16ab84e/7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/d7/52/ecd75218-e2cf-6b42-2576-0a5cfb85b27f/9.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "ProCCD",
-      "version": "5.9.0",
-      "versionDate": "2026-04-27",
-      "size": 254999093,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.yengshine.proccd_ProCCD_5.9.0.ipa",
-      "developerName": "秉妍 蔡",
-      "bundleIdentifier": "com.yengshine.proccd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/ea/1c/90ea1cb8-825f-fb8b-ce68-ee1876b07400/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nProCCD - Digital Film Camera\n\nVIP features unlocked\n\nTweak made by blatant\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/c2/0bd0c293-022f-3e34-aa0b-ad5ef65875f4/02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a8/c9/1fa8c973-5642-3165-cafe-cfdd4515a957/03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/43/17/684317c4-eff1-5d0c-176f-e268c49a2336/04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/aa/ad/6caaadc3-f5bd-7b6e-7052-5ea449a19e35/05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/01/20/9f012047-bcce-e0b0-fd08-e1f40c1c3910/06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/3e/f1/443ef1ea-b621-9e4f-52fd-e339581ce521/07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/96/a4/5e96a4e5-e5c0-31b2-3143-4d0582ff1bbc/08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/84/bc/3e84bc43-2752-f578-3b71-9697d2f00d6c/09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/8b/e3/aa8be37a-cd78-a6b2-75ae-09d7582c84ab/10.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -798,30 +870,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/be/79/37be7958-3488-894e-b237-e5b90bff40f0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nPUSH Workout & Gym Tracker\n\n• Bundle ID: com.ADPTVLTD.push\n• Updated to: 3.11.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Reframe",
-      "version": "3.9.52",
-      "versionDate": "2026-04-26",
-      "size": 251029446,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.52.ipa",
-      "developerName": "Glucobit Inc.",
-      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3b/f4/423bf40c-d201-adbf-77c4-669df37c2dc0/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.52\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/26/08/fe2608eb-a316-8167-35f3-59ffcb02d374/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_01.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/e1/20/65e12087-8ca9-0491-8b7c-fcbfc084a6dc/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_02.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/cf/34/9ccf3454-fa3d-be90-6bce-e92fb1c8a95f/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_03.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/3a/e0/e73ae0f6-5fca-80ea-48db-01d204da58c1/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_04.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/db/48/e7db4885-64eb-455d-9926-ff8b5c1bd15b/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_05.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/e5/d9/fce5d952-65a3-a760-cf06-e5241e254d06/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_06.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/ec/6a/79ec6ad9-9446-f621-f357-698576f4cee4/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/11/5a/27115acf-0b42-04a9-888b-fc962cbb225d/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/1b/5a/e31b5a4b-aa2c-42d7-53e8-f7cfa23f944e/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/21/0f/ea210f2a-6b97-2d7c-ce91-bb07581e408f/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_10.jpg/1320x2868bb.jpg"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
@@ -7125,30 +7173,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Lunatask",
-      "version": "2.1.26",
-      "versionDate": "2026-03-22",
-      "size": 15277011,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.mikekreeki.tasks_Sideloadbypass2_2.1.26.ipa",
-      "developerName": "Michal Krejci",
-      "bundleIdentifier": "com.mikekreeki.tasks",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/2f/73/9a2f73d9-a464-1d5f-6c1a-a1983abfad9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nLunatask: A Better To-Do List\n\nTweak: Premium Unlocked\n\nVersion: 2.1.26\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.mikekreeki.tasks\nDeveloper: Michal Krejci",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/48/61/964861da-466d-d526-1605-da5e04873125/iOS_iPhone_1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/bd/1d/45bd1d27-0cb8-edbd-59bd-45f90597d9a9/iOS_iPhone_2.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/d1/82/37d1823f-613e-38f8-587f-c4cdaf4cf5e8/iOS_iPhone_3.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/f2/ec/8df2ec48-cefe-53b7-28c8-c1fe7c95b928/iOS_iPhone_4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/13/94/8f1394a9-8111-1d5f-2660-9f84758dc84c/iOS_iPhone_5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/d5/da/d6d5da74-49ae-1b32-49dd-36fa8d2fa5ae/iOS_iPad_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/ca/61/12ca61d1-78f9-f7bb-2609-13f013b142e2/iOS_iPad_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/24/99/962499c3-fc11-3d72-c92d-330ea9583500/iOS_iPad_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/09/ec/cb09ec53-a18d-7072-9c79-07ea313f9f60/iOS_iPad_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/5d/bd/a65dbd1b-d2e1-1258-f22b-dd0ab3bdbbba/iOS_iPad_5.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Habits",
       "version": "7.3",
       "versionDate": "2026-03-22",
@@ -11670,30 +11694,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/79/ab/3c79ab65-6123-805c-601b-2d3ecc224dd3/ae9d0cad-c49d-401e-99e4-d137b1b89527_6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/b4/fa/11b4faaf-cedc-6be0-287c-6d56032f5ede/015f207c-0425-4674-8ff1-a6e1265851ac_7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/2b/b1/a12bb1ac-c905-4be5-6ceb-f15d61bef2de/f4a2435e-7255-4a97-9e0e-2a5186f148fe_8.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Mindllama",
-      "version": "2.5.6",
-      "versionDate": "2026-03-11",
-      "size": 182111972,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.vitalii.mind_Mindllama_2.5.6.ipa",
-      "developerName": "Llama Luna Apps",
-      "bundleIdentifier": "com.vitalii.mind",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/00/fc/8400fca1-870f-e4ed-4a28-77beee57c28f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMindllama Breathe Sleep Focus\n\n• Bundle ID: com.vitalii.mind\n• Updated to: 2.5.6\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/f1/b7/c2f1b7ee-6c8f-3454-5bc4-a7f8be647ca1/d012647e-a374-4c47-a7fc-264b1e3dfa64_1-breathe-widget-anxiety.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/4e/75/844e752c-3e3e-1896-1d8e-6ab1c4ebf89f/978a9968-f303-4e29-9ce9-741e136c5ff9_2-relief-breathing-app.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/9b/31/be9b315e-d0af-d1c6-235b-9a6ccc4deacc/b4eda90a-306a-4da7-b20a-ded98eae652c_3-mental-exercises-calm.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/9c/a9/619ca96f-5104-340c-97d1-972e395c2bbc/4a4b2db0-7972-4b77-a094-1c0b36f42ded_4-meditation-sleep-relax.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/1c/db/651cdb6c-c001-1f7a-bc88-33a372069098/b3f6fff9-53eb-4e9a-b724-a26ec45b4fd4_5-mood-free-health-to-ios.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/c5/e1/f1c5e146-8d35-b8d9-1d32-a3285e427b70/e7c14af9-c65c-4bf6-9f4b-4e0525f157ca_6-breethe-zen-better-anti-stress.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/d6/e2/3bd6e2a3-b647-1e57-0f3c-dc549d016129/a1459af1-bad4-4590-a070-1828e67007b4_5-mood-free-health-to-ios.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/02/9c/e8029c8b-5e03-0ec8-21e6-57fcb52815e6/ec68dd36-7538-41b2-875f-effc35b3c3e3_6-breethe-zen-better-anti-stress.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/2a/9f/2a2a9f55-8255-7fa3-6dd0-eaacca5f3ea9/80e2236d-61df-433a-81c9-2f960d8b02c9_7-journal-headspace-pannic-breather.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/5c/a8/a75ca82c-348f-f7fb-5fbd-a9bb28adf1fa/ff77cfc3-766c-414c-b1ac-f9ad216b619b_8-breathe-widget-anxiety.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
