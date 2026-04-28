@@ -3,6 +3,80 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Bill Tracker",
+      "version": "4.1.82",
+      "versionDate": "2026-04-28",
+      "size": 148588030,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.82.ipa",
+      "developerName": "Bill Tracker Pro, Inc.",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/55/b7/0155b7a8-eb27-c6c6-4dae-deb7b9fbb1e1/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.82\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/02/6b/6a026b90-9f44-1b45-d5e4-8cf4d9ec16af/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/d5/a0/98d5a045-bc60-d23c-f4a8-e5968b95c478/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_08.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Enki",
+      "version": "2.40.8",
+      "versionDate": "2026-04-28",
+      "size": 18260645,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/PHCXZHD53T.com.enki.insights_Enki_2.40.8.ipa",
+      "developerName": "ENKI LABS Inc.",
+      "bundleIdentifier": "PHCXZHD53T.com.enki.insights",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/6b/fe/ed6bfef2-474d-f936-b2ad-f8795bab1437/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nEnki: Learn Coding/Programming\n\n• Bundle ID: PHCXZHD53T.com.enki.insights\n• Updated to: 5.40.8\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/3d/8f/313d8fcb-0bb3-ef3a-d3ec-12b0484b0bad/6a730e4f-0ee7-4975-a18b-daa1308a0a49_1_A_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/a4/e2/02a4e28c-1729-154b-3223-10557baa815c/9a9d3928-82c2-4cc8-a325-498be53fd819_2_A.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/bf/58/3abf5877-e0fd-d60d-478d-db18b1fab2f9/fd8267f0-795a-4d48-bcbc-4c576b10d29f_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/8e/f4/ff8ef473-8823-e62f-a657-a679348b9492/2c7af2d5-d326-45de-b5eb-999030b0508c_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/ca/b6/5dcab661-cb26-0910-9e6c-ff3856c87d7d/977272c1-fbea-4c3a-aa78-d7735c1545a5_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/55/f1/1f55f124-4a5f-b550-4692-317851844ec4/2c5c1c57-d57a-4ad2-b42c-3a7c93a0463a_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/67/34/656734ce-1d9d-9901-89ab-877a9d9a1e7e/be82c265-e693-4c52-8c68-6d83085af67a_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/f8/22/08f8226e-7442-0531-de35-d6cd462fdf40/116f7daa-bf11-41f9-b9b4-3da96efc81e5_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/ad/96/7cad96b9-86f3-f982-f45d-e48cbd249ccc/d087afca-5a6f-43f8-82f7-81422e6549f0_9.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Push Training",
+      "version": "1.1.2604260",
+      "versionDate": "2026-04-27",
+      "size": 217485491,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.albernackee.blur_Sideloadbypass2_1.1.2604260.ipa",
+      "developerName": "Push Training, LLC",
+      "bundleIdentifier": "com.albernackee.blur",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/1e/b0/361eb049-3f0b-9193-e66d-0450ddfbd1a7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nTreadmill Workout PushTraining\n\nTweak: Premium Unlocked\n\nVersion: 1.1.2604260\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.albernackee.blur\nDeveloper: Push Training, LLC",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "SODA",
+      "version": "10.1.11",
+      "versionDate": "2026-04-27",
+      "size": 152435060,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.snowcorp.soda_SODA_10.1.11.ipa",
+      "developerName": "SNOW Corporation",
+      "bundleIdentifier": "com.snowcorp.soda",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/47/b6/cb47b6bc-7bee-32e7-22ee-864b6d846d5e/GlobalAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSODA - Natural Beauty Camera\n\n• Bundle ID: com.snowcorp.soda\n• Updated to: 10.1.11\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/c8/47/89c8479c-70b7-9763-919e-412ebb4156f8/5.5inch_AI_beauty_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/4d/16/584d163d-a216-106f-6344-d92c627b2fcd/d9cd501a-e7e8-4016-a829-f316121836da_5.5inch_AI_Hair.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/87/64/fa876438-0034-33b6-f447-710c92d9059b/458f02c5-12e1-4981-9a9f-f91e2add6898_5.5inch_Remove.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/d2/39/70d23938-54cb-07f0-8c35-b98fe9243b72/0f74f3c9-13ad-4b85-86e1-33d05affb66d_5.5inch_Hi-res.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/ac/ec/47acec4c-82ec-079b-ce9f-0456ce2f11fc/fdbe7192-8eee-4cc1-9665-8859bdd3213d_5.5inch_Daily_Filters_EN.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/27/12/692712e1-0405-51f8-2882-ec5609d0297a/93bb7633-b21f-4042-9802-cc8b65877166_5.5inch_Makeup.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/d6/ad/0cd6ad48-0f99-2a93-5d9b-ed1c5c47de2a/c17ba01c-7e09-4722-89ab-bd67dc8b0356_5.5inch_3D_Beauty.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/c7/8a/7ac78ac6-d752-49d0-67ef-44006778c96f/7e738f40-0a5c-4e09-a8d8-4e02b60036e4_5.5inch_Video.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Climbah",
       "version": "1.4.4",
       "versionDate": "2026-04-27",
@@ -89,22 +163,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/35/3e/d3353edb-1003-a353-74a8-deedb53a63ca/3-iPhone55-EN.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/39/19/8b391919-a0c5-8a8f-ac1c-d9b8c7247540/4-iPhone55-EN.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/b3/244cb35c-927c-99c4-f018-9494f121e8d6/5-iPhone55-EN.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Bill Tracker",
-      "version": "4.1.81",
-      "versionDate": "2026-04-27",
-      "size": 148589233,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.81.ipa",
-      "developerName": "Bill Tracker Pro, Inc.",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/55/b7/0155b7a8-eb27-c6c6-4dae-deb7b9fbb1e1/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.81\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/02/6b/6a026b90-9f44-1b45-d5e4-8cf4d9ec16af/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/d5/a0/98d5a045-bc60-d23c-f4a8-e5968b95c478/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_08.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -4553,19 +4611,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Push Training",
-      "version": "1.1.2604080",
-      "versionDate": "2026-04-10",
-      "size": 217429230,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.albernackee.blur_Sideloadbypass2_1.1.2604080.ipa",
-      "developerName": "Push Training, LLC",
-      "bundleIdentifier": "com.albernackee.blur",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/ab/88/ccab8892-67a6-8910-1176-b1c224f76de4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nTreadmill Workout PushTraining\n\nTweak: Premium Unlocked\n\nVersion: 1.1.2604080\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.albernackee.blur\nDeveloper: Push Training, LLC",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Daygram",
       "version": "5.6.6",
       "versionDate": "2026-04-09",
@@ -4997,28 +5042,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/e9/1f/aae91fe5-3206-18c0-0ba8-71f2d28be7fd/6f27b6bb-c7dc-4c78-b536-2f6bb17aea1b_8plus_7.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/46/06/6b4606aa-c44c-c627-2a2f-54d17f7a6571/7e8b409a-f946-4245-8c11-584b14b60054_1242x2208bb__U00281_U0029.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bf/95/9abf95e1-886e-4cd6-3914-4f5a6c8c9aed/6280e918-8c08-4de9-9533-bb57b9b513a3_1242x2208bb__U00282_U0029.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "SODA",
-      "version": "10.1.3",
-      "versionDate": "2026-04-06",
-      "size": 150272994,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.snowcorp.soda_SODA_10.1.3.ipa",
-      "developerName": "SNOW Corporation",
-      "bundleIdentifier": "com.snowcorp.soda",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/9f/42/7c9f42d8-952c-2644-3662-c1b2b5f5f4d4/GlobalAppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSODA - Natural Beauty Camera\n\n• Bundle ID: com.snowcorp.soda\n• Updated to: 10.1.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/c8/47/89c8479c-70b7-9763-919e-412ebb4156f8/5.5inch_AI_beauty_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/4d/16/584d163d-a216-106f-6344-d92c627b2fcd/d9cd501a-e7e8-4016-a829-f316121836da_5.5inch_AI_Hair.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/87/64/fa876438-0034-33b6-f447-710c92d9059b/458f02c5-12e1-4981-9a9f-f91e2add6898_5.5inch_Remove.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/d2/39/70d23938-54cb-07f0-8c35-b98fe9243b72/0f74f3c9-13ad-4b85-86e1-33d05affb66d_5.5inch_Hi-res.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/ac/ec/47acec4c-82ec-079b-ce9f-0456ce2f11fc/fdbe7192-8eee-4cc1-9665-8859bdd3213d_5.5inch_Daily_Filters_EN.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/27/12/692712e1-0405-51f8-2882-ec5609d0297a/93bb7633-b21f-4042-9802-cc8b65877166_5.5inch_Makeup.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/d6/ad/0cd6ad48-0f99-2a93-5d9b-ed1c5c47de2a/c17ba01c-7e09-4722-89ab-bd67dc8b0356_5.5inch_3D_Beauty.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/c7/8a/7ac78ac6-d752-49d0-67ef-44006778c96f/7e738f40-0a5c-4e09-a8d8-4e02b60036e4_5.5inch_Video.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
