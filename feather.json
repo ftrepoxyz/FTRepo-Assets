@@ -9502,8 +9502,8 @@
       "name": "KineMaster",
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/1a/3d/e31a3dcb-0386-fba5-c848-7a9b5f1b2fb1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nKineMaster - Video Editor\n\n• Bundle ID: com.kinemaster.kios\n• Updated to: 8.1.4\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription and ignore \"Get Premium\" banner.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2d/38/e52d384a-af00-e51e-78f3-7e96e51464b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nKineMaster - Video Editor\n\n• Bundle ID: com.kinemaster.kios\n• Updated to: 8.1.7\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription and ignore \"Get Premium\" banner.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/1320x2868bb.jpg"
@@ -9546,16 +9546,16 @@
       ],
       "versions": [
         {
+          "version": "8.1.7",
+          "date": "2026-04-30",
+          "size": 116756874,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.kinemaster.kios_sideloadKeychainfix_8.1.7.ipa"
+        },
+        {
           "version": "8.1.4",
           "date": "2026-03-25",
           "size": 116526574,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.kinemaster.kios_sideloadKeychainfix_8.1.4.ipa"
-        },
-        {
-          "version": "8.1.3",
-          "date": "2026-03-11",
-          "size": 115503738,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.kinemaster.kios_sideloadKeychainfix_8.1.3.ipa"
         },
         {
           "version": "8.1.0",
@@ -9565,10 +9565,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.1.4",
-      "versionDate": "2026-03-25T06:43:02.284Z",
-      "size": 116526574,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.kinemaster.kios_sideloadKeychainfix_8.1.4.ipa"
+      "version": "8.1.7",
+      "versionDate": "2026-04-30T19:41:56.040Z",
+      "size": 116756874,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.kinemaster.kios_sideloadKeychainfix_8.1.7.ipa"
     },
     {
       "name": "NeoServer",
@@ -17615,6 +17615,106 @@
       "versionDate": "2026-03-12T16:00:22.043Z",
       "size": 207646730,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/RVS-Riverside.fm_Sideloadbypass2_4.10.1.ipa"
+    },
+    {
+      "name": "PhotoSync",
+      "bundleIdentifier": "com.touchbyte.PhotoSync",
+      "developerName": "touchbyte GmbH",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/9c/50/5e9c5035-9d3f-7968-fe63-6925a795df81/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPhotoSync – transfer photos\n\n• Bundle ID: com.touchbyte.PhotoSync\n• Updated to: 4.9.8\n• Minimum iOS: 12.0\n• Patched\n• Modifier:  Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/aa/09/d0aa09cf-9516-7c24-dc7f-7988efc2ac58/Screen-1-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/ff/25/aaff254b-2ae8-2c87-9382-58f49b2fb8d5/Screen-2-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/e2/e2/08e2e2db-2cab-d276-4028-2365a0441606/Screen-3-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/c7/61/f6c76179-376f-4a98-8073-98f8bc680331/Screen-4-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/6f/55/6d6f55de-8b3b-8044-9935-ff7ec0675b59/Screen-5-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a7/6c/7ea76c43-b832-3d97-c727-64876469a745/Screen-6-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/6d/7b/ef6d7b7a-c542-e21c-2eee-f96e9aed1d9e/Screen-7-EN-iPhone-6-5inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/ec/dd/1decdd6b-72a4-d8ae-6fa4-1c2c7bdafc75/Screen-8-EN-iPhone-6-5inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/ed/51/08ed512c-563a-68a6-de1a-392b95a4e4f5/Screen-9-EN-iPhone-6-5inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/7b/b7/b17bb76d-152d-d0d2-ad2d-3ae12ff6a37a/Screen-10-EN-iPhone-6-5inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/9a/0d/fc9a0d75-9ec6-531d-2f13-0d9d12539cb4/Screen-1-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/1a/c8/991ac8f6-da20-d05e-7a31-81d1701cbe69/Screen-2-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f0/b3/baf0b3bd-8ef8-8c8a-19f4-8656293a5e7d/Screen-3-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/ac/99/9aac9995-30c6-309d-efce-7e83307ed0e4/Screen-4-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/fd/86/f3fd865f-af5e-e8ce-e155-d20b50da6e95/Screen-5-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/9f/53/159f5326-e882-aa01-e55b-d201741b1c4b/Screen-6-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/10/17/881017c6-3f06-b9c5-efa0-cda4ff523f14/Screen-7-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/29/90/0a29909a-b89d-f067-7b3d-b06034467d19/Screen-8-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/6f/d1/d06fd132-5021-56df-ab45-dff3bac01a05/Screen-9-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/aa/09/d0aa09cf-9516-7c24-dc7f-7988efc2ac58/Screen-1-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/ff/25/aaff254b-2ae8-2c87-9382-58f49b2fb8d5/Screen-2-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/e2/e2/08e2e2db-2cab-d276-4028-2365a0441606/Screen-3-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/c7/61/f6c76179-376f-4a98-8073-98f8bc680331/Screen-4-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/6f/55/6d6f55de-8b3b-8044-9935-ff7ec0675b59/Screen-5-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a7/6c/7ea76c43-b832-3d97-c727-64876469a745/Screen-6-EN-iPhone-6-5inch@2x.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/6d/7b/ef6d7b7a-c542-e21c-2eee-f96e9aed1d9e/Screen-7-EN-iPhone-6-5inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/ec/dd/1decdd6b-72a4-d8ae-6fa4-1c2c7bdafc75/Screen-8-EN-iPhone-6-5inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/ed/51/08ed512c-563a-68a6-de1a-392b95a4e4f5/Screen-9-EN-iPhone-6-5inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/7b/b7/b17bb76d-152d-d0d2-ad2d-3ae12ff6a37a/Screen-10-EN-iPhone-6-5inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/9a/0d/fc9a0d75-9ec6-531d-2f13-0d9d12539cb4/Screen-1-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/1a/c8/991ac8f6-da20-d05e-7a31-81d1701cbe69/Screen-2-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f0/b3/baf0b3bd-8ef8-8c8a-19f4-8656293a5e7d/Screen-3-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/ac/99/9aac9995-30c6-309d-efce-7e83307ed0e4/Screen-4-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/fd/86/f3fd865f-af5e-e8ce-e155-d20b50da6e95/Screen-5-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/9f/53/159f5326-e882-aa01-e55b-d201741b1c4b/Screen-6-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/10/17/881017c6-3f06-b9c5-efa0-cda4ff523f14/Screen-7-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/29/90/0a29909a-b89d-f067-7b3d-b06034467d19/Screen-8-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/6f/d1/d06fd132-5021-56df-ab45-dff3bac01a05/Screen-9-EN-iPad-Pro-13inch@2x.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "4.9.8",
+          "date": "2026-04-30",
+          "size": 61605572,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.touchbyte.PhotoSync_AutoRcSideload_4.9.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.9.8",
+      "versionDate": "2026-04-30T16:39:32.559Z",
+      "size": 61605572,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.touchbyte.PhotoSync_AutoRcSideload_4.9.8.ipa"
     },
     {
       "name": "Unscripted",
