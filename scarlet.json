@@ -5,6 +5,48 @@
   },
   "data": [
     {
+      "name": "ProFit",
+      "version": "7.19.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.maxty.gofitness_ProFit_7.19.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.maxty.gofitness",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/9b/5f/6f9b5f4c-b059-69f9-5f77-4a557a086d96/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nProFit: Workout Planner\n\n• Bundle ID: com.maxty.gofitness\n• Updated to: 7.19.0\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "VGFIT LLC",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/bd/4c/2dbd4c54-f87e-b8b4-f573-fc9cca65e374/Screen_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/96/0d/d0960dd2-4d18-80a5-e83f-709bf60e90be/Screen_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/a3/a4/76a3a41a-45fb-7053-d582-6066794fe2bf/Screen_5.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "SnapEdit",
+      "version": "6.5.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.sfun.snapedit_SnapEdit_6.5.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.sfun.snapedit",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e4/3f/01e43f85-4e32-3c73-c0ca-adbfd5f35ec5/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.jpeg/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.5.6\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "SilverAI Joint Stock Company",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "MySwimPro",
       "version": "9.0.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.0.ipa",
@@ -1747,24 +1789,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/61/fe/fc61febd-3820-7baf-7284-871929b68537/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "description": "from @blatants |\n----------------\nOxford Dictionary & Thesaurus\n\n• Bundle ID: com.mobisystems.OxfordDictionaryOfEnglishFree\n• Updated to: 15.23\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "MobiSystems, Inc.",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "SnapEdit",
-      "version": "6.5.3",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.sfun.snapedit_SnapEdit_6.5.3.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.sfun.snapedit",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/83/b5/9d83b584-780f-62c5-492f-705cd2469db0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.5.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "SilverAI Joint Stock Company",
       "screenshots": [],
       "accentColor": {
         "light": {
@@ -4763,30 +4787,6 @@
       "description": "from @glesign |\n----------------\nNewsFloww v1.0.0\n\n🇷🇺 Приложение Хлынов Банка\n— Удалённое приложение из TestFlight\n© Создано: GLESign\n\n🇺🇸 Xlynov Bank Application\n— Removed app from TestFlight\n© Created: GLESign",
       "developer": "Unknown Developer",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "ProFit",
-      "version": "7.18.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.maxty.gofitness_ProFit_7.18.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.maxty.gofitness",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/9b/5f/6f9b5f4c-b059-69f9-5f77-4a557a086d96/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nProFit: Workout Planner\n\n• Bundle ID: com.maxty.gofitness\n• Updated to: 7.18.4\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "VGFIT LLC",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/bd/4c/2dbd4c54-f87e-b8b4-f573-fc9cca65e374/Screen_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/96/0d/d0960dd2-4d18-80a5-e83f-709bf60e90be/Screen_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/a3/a4/76a3a41a-45fb-7053-d582-6066794fe2bf/Screen_5.png/1320x2868bb.png"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
