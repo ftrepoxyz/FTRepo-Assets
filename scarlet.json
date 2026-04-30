@@ -5,6 +5,48 @@
   },
   "data": [
     {
+      "name": "YouTube",
+      "version": "21.17.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.google.ios.youtube_YouTubeDislikesReturn_21.17.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.google.ios.youtube",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/aa/cb/dcaacbd4-f6b3-a6a2-e9de-254f4126ebd8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @thescholarslounge |\n----------------\nBuilds of YouTube 📀\n\n🪧Build Version: 21.17.3\n⭐️YP: YTPlus Cracked\n➡️Repost Policy: t.me/iosdecrypted/15\n\n🛠On iOS 26 you should use Feather with “Replace Substrate with Ellekit”\n📊Other tweaks: \n📦YouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig, YTUHD, YTVideoErrorAlert, YTVideoOverlay, Open In YouTube Safari Extension.\n\n📁Changelog: Updated the build.\n\n📢@iosdecrypted | @iosdecryptedchat💬",
+      "developer": "Google",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "VEED Captions",
+      "version": "8.12.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/io.veed.appstore_AutoRcSideload_8.12.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "io.veed.appstore",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/60/ad/a760ada8-aca4-94e1-396b-e246cd2b585e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nVEED Shorts: AI videos\n\n• Bundle ID: io.veed.appstore\n• Updated to: 8.12.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "VEED Ltd",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "ProFit",
       "version": "7.19.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.maxty.gofitness_ProFit_7.19.0.ipa",
@@ -450,30 +492,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/7e/db/fd7edbe9-c2f4-27d0-9aea-ba00b13ef959/260106_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Home_Decor_VisualSearch_2.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/bb/72/69bb7297-3cbf-de9a-0648-0c299c6bd538/260106_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Multivertical_Collage_6.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/c5/35/f0c53531-0cee-cda6-a857-ebd22d64487f/260106_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Multivertical_Discover_1.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "YouTube",
-      "version": "21.17.3",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.google.ios.youtube_YTLite_21.17.3.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.google.ios.youtube",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/aa/cb/dcaacbd4-f6b3-a6a2-e9de-254f4126ebd8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @thescholarslounge",
-      "developer": "Google",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -4909,24 +4927,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/c2/b8/b0c2b83e-4c78-4147-4326-b7804e7859e6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "description": "from @binnichtaktivsipas |\n----------------\nMuslim Pro: Quran Athan Prayer\n\nPro features unlocked\n\nTweak made by никита\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
       "developer": "Bitsmedia Pte Ltd",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "VEED Captions",
-      "version": "8.11.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/io.veed.appstore_VEED_8.11.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "io.veed.appstore",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/3d/0b/483d0b70-b139-d142-0457-f87330edb581/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nVEED - Captions for videos\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "developer": "VEED Ltd",
       "screenshots": [],
       "accentColor": {
         "light": {
