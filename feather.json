@@ -10155,7 +10155,7 @@
       "bundleIdentifier": "com.maxty.gofitness",
       "developerName": "VGFIT LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/9b/5f/6f9b5f4c-b059-69f9-5f77-4a557a086d96/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nProFit: Workout Planner\n\n• Bundle ID: com.maxty.gofitness\n• Updated to: 7.18.4\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nProFit: Workout Planner\n\n• Bundle ID: com.maxty.gofitness\n• Updated to: 7.19.0\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/1320x2868bb.png"
@@ -10182,6 +10182,12 @@
       ],
       "versions": [
         {
+          "version": "7.19.0",
+          "date": "2026-04-30",
+          "size": 53178465,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.maxty.gofitness_ProFit_7.19.0.ipa"
+        },
+        {
           "version": "7.18.4",
           "date": "2026-04-18",
           "size": 52930688,
@@ -10192,19 +10198,13 @@
           "date": "2026-04-06",
           "size": 52655115,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.maxty.gofitness_ProFit_7.17.2.ipa"
-        },
-        {
-          "version": "7.16.14",
-          "date": "2026-03-13",
-          "size": 56313440,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.maxty.gofitness_ProFit_7.16.14.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "7.18.4",
-      "versionDate": "2026-04-18T10:15:05.067Z",
-      "size": 52930688,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.maxty.gofitness_ProFit_7.18.4.ipa"
+      "version": "7.19.0",
+      "versionDate": "2026-04-30T07:39:26.947Z",
+      "size": 53178465,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.maxty.gofitness_ProFit_7.19.0.ipa"
     },
     {
       "name": "扫描全能王",
@@ -12238,11 +12238,17 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/83/b5/9d83b584-780f-62c5-492f-705cd2469db0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.5.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e4/3f/01e43f85-4e32-3c73-c0ca-adbfd5f35ec5/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.5.6\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "6.5.6",
+          "date": "2026-04-30",
+          "size": 101224228,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.sfun.snapedit_SnapEdit_6.5.6.ipa"
+        },
         {
           "version": "6.5.3",
           "date": "2026-04-26",
@@ -12254,19 +12260,13 @@
           "date": "2026-04-18",
           "size": 97239071,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.sfun.snapedit_Sideloadbypass2_6.5.1.ipa"
-        },
-        {
-          "version": "6.5.0",
-          "date": "2026-04-17",
-          "size": 97229918,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.sfun.snapedit_Sideloadbypass2_6.5.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.5.3",
-      "versionDate": "2026-04-26T19:38:55.717Z",
-      "size": 101251326,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.sfun.snapedit_SnapEdit_6.5.3.ipa"
+      "version": "6.5.6",
+      "versionDate": "2026-04-30T04:39:30.526Z",
+      "size": 101224228,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.sfun.snapedit_SnapEdit_6.5.6.ipa"
     },
     {
       "name": "Alpha Progr.",
