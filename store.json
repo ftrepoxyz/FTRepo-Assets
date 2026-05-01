@@ -121,28 +121,6 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/com.videobrowser.ios_VideoLite_622300.ipa"
     },
     {
-      "name": "SolarWatch",
-      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
-      "developerName": "Fifteen Jugglers Software UG",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/6d/e9/d86de9f5-bf9c-cdef-d0dc-d1cbdf875f96/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSunrise Sunset Time SolarWatch\n\nTweak: Premium Unlocked\n\nVersion: 2026.18\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.6\nBundle ID: com.fifteenjugglers.solarwatch\nDeveloper: Fifteen Jugglers Software UG",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "2026.18",
-          "date": "2026-03-16",
-          "size": 54884545,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.fifteenjugglers.solarwatch_Sideloadbypass2_2026.18.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2026.18",
-      "versionDate": "2026-03-16T15:33:37.633Z",
-      "size": 54884545,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.fifteenjugglers.solarwatch_Sideloadbypass2_2026.18.ipa"
-    },
-    {
       "name": "Komoot",
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "developerName": "komoot GmbH",
@@ -194,6 +172,12 @@
       ],
       "versions": [
         {
+          "version": "2026.18.4",
+          "date": "2026-05-01",
+          "size": 122436961,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/de.komoot.berlinbikeapp_KomootPatch_2026.18.4.ipa"
+        },
+        {
           "version": "2026.17.0",
           "date": "2026-04-24",
           "size": 118708384,
@@ -204,19 +188,35 @@
           "date": "2026-04-17",
           "size": 119614868,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/de.komoot.berlinbikeapp_KomootPatch_2026.16.0.ipa"
-        },
-        {
-          "version": "2026.14.3",
-          "date": "2026-04-03",
-          "size": 112270135,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/de.komoot.berlinbikeapp_KomootPatch_2026.14.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2026.17.0",
-      "versionDate": "2026-04-24T01:39:22.556Z",
-      "size": 118708384,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/de.komoot.berlinbikeapp_KomootPatch_2026.17.0.ipa"
+      "version": "2026.18.4",
+      "versionDate": "2026-05-01T19:40:26.002Z",
+      "size": 122436961,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/de.komoot.berlinbikeapp_KomootPatch_2026.18.4.ipa"
+    },
+    {
+      "name": "SolarWatch",
+      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
+      "developerName": "Fifteen Jugglers Software UG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/6d/e9/d86de9f5-bf9c-cdef-d0dc-d1cbdf875f96/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSunrise Sunset Time SolarWatch\n\nTweak: Premium Unlocked\n\nVersion: 2026.18\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.6\nBundle ID: com.fifteenjugglers.solarwatch\nDeveloper: Fifteen Jugglers Software UG",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2026.18",
+          "date": "2026-03-16",
+          "size": 54884545,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.fifteenjugglers.solarwatch_Sideloadbypass2_2026.18.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.18",
+      "versionDate": "2026-03-16T15:33:37.633Z",
+      "size": 54884545,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.fifteenjugglers.solarwatch_Sideloadbypass2_2026.18.ipa"
     },
     {
       "name": "Reddit (Deluxe)",
@@ -2222,6 +2222,12 @@
       ],
       "versions": [
         {
+          "version": "31.5",
+          "date": "2026-05-01",
+          "size": 86210938,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.itimeteo.webssh_sideloadbypass2_31.5.ipa"
+        },
+        {
           "version": "31.4",
           "date": "2026-04-27",
           "size": 86179716,
@@ -2235,10 +2241,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "31.4",
-      "versionDate": "2026-04-27T13:42:10.742Z",
-      "size": 86179716,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.itimeteo.webssh_sideloadbypass2_31.4.ipa"
+      "version": "31.5",
+      "versionDate": "2026-05-01T19:40:08.497Z",
+      "size": 86210938,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.itimeteo.webssh_sideloadbypass2_31.5.ipa"
     },
     {
       "name": "Busuu",
@@ -4206,29 +4212,29 @@
       "name": "Fitia",
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/60/81/6160816a-4a2d-d91c-2245-8f24d29e8841/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 23.0.1\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/f6/6e/a3f66efc-3797-ffe0-de5e-155a992c2004/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 23.0.2\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "23.0.2",
+          "date": "2026-05-01",
+          "size": 108403302,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.ulisesolave.Fitia_Fitia_23.0.2.ipa"
+        },
         {
           "version": "23.0.1",
           "date": "2026-04-30",
           "size": 108008886,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.ulisesolave.Fitia_Fitia_23.0.1.ipa"
-        },
-        {
-          "version": "22.3.9",
-          "date": "2026-04-16",
-          "size": 102185847,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/com.ulisesolave.Fitia_Fitia_22.3.9.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "23.0.1",
-      "versionDate": "2026-04-30T01:39:30.860Z",
-      "size": 108008886,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.ulisesolave.Fitia_Fitia_23.0.1.ipa"
+      "version": "23.0.2",
+      "versionDate": "2026-05-01T19:39:46.165Z",
+      "size": 108403302,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.ulisesolave.Fitia_Fitia_23.0.2.ipa"
     },
     {
       "name": "YouTube",
@@ -8218,6 +8224,12 @@
       ],
       "versions": [
         {
+          "version": "8.8.4",
+          "date": "2026-05-01",
+          "size": 215509123,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.gunthermarktl.stepapp_AutoRc_8.8.4.ipa"
+        },
+        {
           "version": "8.8.2",
           "date": "2026-04-24",
           "size": 215808101,
@@ -8228,19 +8240,13 @@
           "date": "2026-04-14",
           "size": 215177850,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.gunthermarktl.stepapp_Sideloadbypass2_8.8.0.ipa"
-        },
-        {
-          "version": "8.7.4",
-          "date": "2026-04-01",
-          "size": 197955305,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.gunthermarktl.stepapp_AutoRc_8.7.4.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "8.8.2",
-      "versionDate": "2026-04-24T01:39:47.411Z",
-      "size": 215808101,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.gunthermarktl.stepapp_AutoRc_8.8.2.ipa"
+      "version": "8.8.4",
+      "versionDate": "2026-05-01T19:40:51.803Z",
+      "size": 215509123,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.gunthermarktl.stepapp_AutoRc_8.8.4.ipa"
     },
     {
       "name": "Flight Tracker",
@@ -13777,6 +13783,50 @@
       "versionDate": "2026-04-22T19:16:55.362Z",
       "size": 33068841,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/co.smartreceipts.ios_AutoRevenueCat_5.15.2.ipa"
+    },
+    {
+      "name": "Unzip",
+      "bundleIdentifier": "com.cuilingshi.fileextract",
+      "developerName": "书勇 贾",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/47/74/844774f3-8ebd-f160-caaf-7953c21ca1c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUnzip - zip file opener\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/8d/f6/618df616-e42c-9df4-582a-f308c04019dd/7b6dadc5-4201-4c6d-8a76-62317a37b3b4_5.5_Device_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/58/14/00581441-59cc-328c-3d05-3f4fd927d386/f115e411-5c51-4489-92b6-31f0d879badd_5.5_Device_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/dc/9a/30dc9a50-3b2f-ec21-48c0-191463792ac8/903db5ae-e098-4d5c-bc64-00f27c08a99d_5.5_Device_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b5/80/c2b58042-03f0-dcdd-95a3-481cd9f3b6a1/0b08afbd-092c-4ab7-a103-3523a5a89db1_5.5_Device_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/db/bf/f9dbbf1c-3509-3188-98fd-934102712fa8/dc71827b-8329-4364-9003-fd0fa66306c0_5.5_Device_4.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/8d/f6/618df616-e42c-9df4-582a-f308c04019dd/7b6dadc5-4201-4c6d-8a76-62317a37b3b4_5.5_Device_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/58/14/00581441-59cc-328c-3d05-3f4fd927d386/f115e411-5c51-4489-92b6-31f0d879badd_5.5_Device_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/dc/9a/30dc9a50-3b2f-ec21-48c0-191463792ac8/903db5ae-e098-4d5c-bc64-00f27c08a99d_5.5_Device_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b5/80/c2b58042-03f0-dcdd-95a3-481cd9f3b6a1/0b08afbd-092c-4ab7-a103-3523a5a89db1_5.5_Device_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/db/bf/f9dbbf1c-3509-3188-98fd-934102712fa8/dc71827b-8329-4364-9003-fd0fa66306c0_5.5_Device_4.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.14",
+          "date": "2026-05-01",
+          "size": 46940569,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.cuilingshi.fileextract_UnzipPatch_5.14.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.14",
+      "versionDate": "2026-05-01T19:41:00.531Z",
+      "size": 46940569,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.cuilingshi.fileextract_UnzipPatch_5.14.ipa"
     },
     {
       "name": "Gentler Streak",
@@ -21217,9 +21267,9 @@
     {
       "name": "Mercury",
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
-      "developerName": "Triple Glazed Studios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/af/06/42af066b-48ad-b847-ca12-b7891ed78677/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nMercury Weather\n\n• Bundle ID: com.tripleglazedstudios.Weather\n• Updated to: 3.4.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when installed with a certificate with Appgroups enabled.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developerName": "Triple Glazed Studios LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/54/37/1e5437d8-a1d2-1443-15f2-a97980efe8d8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMercury Weather\n\nPro unlocked\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/06/17/eb0617e1-3ddf-c259-0388-15097aa73909/0fc24c54-17ee-43a0-bc3b-05e244f1f110_Screen_1.png/1320x2868bb.jpg"
@@ -21254,16 +21304,16 @@
       ],
       "versions": [
         {
+          "version": "3.4.8",
+          "date": "2026-05-01",
+          "size": 64486314,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.tripleglazedstudios.Weather_Mercury1_3.4.8.ipa"
+        },
+        {
           "version": "3.4.5",
           "date": "2026-03-14",
           "size": 59002951,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.tripleglazedstudios.Weather_MercuryWeather_3.4.5.ipa"
-        },
-        {
-          "version": "3.4.2",
-          "date": "2026-03-12",
-          "size": 58965541,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.tripleglazedstudios.Weather_MercuryWeather_3.4.2.ipa"
         },
         {
           "version": "3.4.1",
@@ -21273,10 +21323,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.4.5",
-      "versionDate": "2026-03-14T01:31:11.331Z",
-      "size": 59002951,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/com.tripleglazedstudios.Weather_MercuryWeather_3.4.5.ipa"
+      "version": "3.4.8",
+      "versionDate": "2026-05-01T19:39:56.300Z",
+      "size": 64486314,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.tripleglazedstudios.Weather_Mercury1_3.4.8.ipa"
     },
     {
       "name": "INTVL",
