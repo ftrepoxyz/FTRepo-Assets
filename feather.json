@@ -4823,7 +4823,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/aa/cb/dcaacbd4-f6b3-a6a2-e9de-254f4126ebd8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUpdated to YouMod v1.1.0\n\nIf having \"Something Went Wrong\" issues, pls refer to [this](https://pastebin.com/raw/XmY1hXSH)\n\nIncluded Tweaks:\nYouMod updated to v1.1.0\n\nYouMod by Tonwalter888\n\n\n\nTweaks:\n\niSponsorBlock\nA/B\nYTweaks\nVolumeBoostYT\nGonerino\nYouMod\nDontEatMyContent\nReturn YouTube Dislike\nYTUHD\nYouChooseQuality\nYouPiP\nYouSlider\nVideo Overlay\n\nYouMod 1.1.0 Release Notes:\nReimplement the settings logics \nAdd gestures controls \nAdds an option to remove \"Includes paid promotion\" \nAdds an option to hide \"Suggested video\" after video playback ends\nAdds an option to remove Lens button in Shorts\nAdds an option to remove Trends button in Shorts\nAdds a temporary fix for \nTry to fix ads not hiding \nAdd Korean translations \nAdd French translations\n\n\n\n*Restart after first launch to fix UI issues*",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUpdated to YouMod v1.2.1\n\nIf having \"Something Went Wrong\" issues, pls refer to [this](https://pastebin.com/raw/XmY1hXSH)\n\nYouMod by Tonwalter888\n\nTweaks:\n\niSponsorBlock\nA/B\nYTweaks\nVolumeBoostYT\nGonerino\nYouMod\nDontEatMyContent\nReturn YouTube Dislike\nYTUHD\nYouChooseQuality\nYouPiP\nYouSlider\nVideo Overlay\n\n*Restart after first launch to fix UI issues*\n\n\nYouMod v1.2.0 release Notes:\n\nTry to fix ads not hiding. \nFixes hide cast button leaving a space. \nAdd new gestures features and HUD levels. (Brightness, Volume, and Playback speed) \nFixes hide fullscreen actions leaving a space. \nAdds an option to show video end time.  (TEMP-DISABLED)\nAdds an option to hide ambient lights.\nAdds an option to automatically disable captions.\n\nYouMod v1.2.1 release notes:\n\nImprove speed gestures logic",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg"
@@ -4851,9 +4851,9 @@
       "versions": [
         {
           "version": "21.17.3",
-          "date": "2026-05-01",
-          "size": 120568076,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.google.ios.youtube_YouSpeed_21.17.3.ipa"
+          "date": "2026-05-02",
+          "size": 120603976,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.google.ios.youtube_YouSpeed_21.17.3.ipa"
         },
         {
           "version": "21.16.2",
@@ -4870,9 +4870,9 @@
       ],
       "appPermissions": {},
       "version": "21.17.3",
-      "versionDate": "2026-05-01T10:39:48.939Z",
-      "size": 120568076,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.google.ios.youtube_YouSpeed_21.17.3.ipa"
+      "versionDate": "2026-05-02T16:40:09.025Z",
+      "size": 120603976,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.google.ios.youtube_YouSpeed_21.17.3.ipa"
     },
     {
       "name": "YouTube OLED YouTube (OLED)",
@@ -26433,6 +26433,74 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.alevioos.app_AlevioOS_2.4.7.ipa"
     },
     {
+      "name": "VlogNow",
+      "bundleIdentifier": "com.frontrow.vlog",
+      "developerName": "Ubiquiti Labs, LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/12/fd/d812fd37-aa2c-33f3-d553-8f604dc309fb/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nVN: Video Editor\n\n• Bundle ID: com.frontrow.vlog\n• Updated to: 2.4.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7b/a8/177ba862-5fce-c8b0-7ad1-a848dc96383c/en_plus_01.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c1/36/f1c136c9-23de-894e-7cb2-6f2222a4a985/en_plus_04.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/66/fc/da66fc1d-556d-bc6d-1631-df1d6094c201/en_plus_05.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/48/2b/f0482b0f-cf5f-48d0-1841-8cb0b802dac9/en_plus_06.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/6e/07/546e0710-984a-dd9e-a430-60c546ac089f/en_plus_07.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/91/d3/8a91d34e-74a8-fe9e-18de-03f6c27ef180/en_plus_08.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/21/d9/fd21d943-5b08-7f93-9e43-5ec372c8b713/en_plus_09.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/9f/5b/df9f5bf1-ce89-8b80-54c1-28c370d97d61/en_plus_10.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7b/a8/177ba862-5fce-c8b0-7ad1-a848dc96383c/en_plus_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c1/36/f1c136c9-23de-894e-7cb2-6f2222a4a985/en_plus_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/66/fc/da66fc1d-556d-bc6d-1631-df1d6094c201/en_plus_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/48/2b/f0482b0f-cf5f-48d0-1841-8cb0b802dac9/en_plus_06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/6e/07/546e0710-984a-dd9e-a430-60c546ac089f/en_plus_07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/91/d3/8a91d34e-74a8-fe9e-18de-03f6c27ef180/en_plus_08.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/21/d9/fd21d943-5b08-7f93-9e43-5ec372c8b713/en_plus_09.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/9f/5b/df9f5bf1-ce89-8b80-54c1-28c370d97d61/en_plus_10.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "2.4.0",
+          "date": "2026-05-02",
+          "size": 428934270,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.frontrow.vlog_VlogNow_2.4.0.ipa"
+        },
+        {
+          "version": "2.3.0",
+          "date": "2026-03-18",
+          "size": 401024415,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.frontrow.vlog_VlogNow_2.3.0.ipa"
+        },
+        {
+          "version": "2.2.0",
+          "date": "2026-03-11",
+          "size": 393476759,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.frontrow.vlog_VlogNow_2.2.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.4.0",
+      "versionDate": "2026-05-02T19:40:20.668Z",
+      "size": 428934270,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.frontrow.vlog_VlogNow_2.4.0.ipa"
+    },
+    {
       "name": "Phone Tracker",
       "bundleIdentifier": "phone.location.tracker",
       "developerName": "Webpeak OU",
@@ -26623,76 +26691,6 @@
       "versionDate": "2026-04-17T07:15:05.334Z",
       "size": 42894941,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.silverai.magiccut_SnapBG_2.3.3.ipa"
-    },
-    {
-      "name": "VlogNow",
-      "bundleIdentifier": "com.frontrow.vlog",
-      "developerName": "Ubiquiti Labs, LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/f6/40/94f64004-678b-a7fc-2221-ef98342aaff7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nVN: AI Video Editor\n\n• Bundle ID: com.frontrow.vlog\n• Updated to: 2.3.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/fe/ac/34feac0a-c830-0f1c-8ae3-0cbc741d03db/en_plus_01.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/52/88/5452880c-fcdb-4850-a523-55ae51843b65/en_plus_02.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/3c/40/a53c40d3-c96f-47c8-bfd5-138ea4ef379d/en_plus_03.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/85/fd/2785fd0d-19c8-e6bd-d606-13a1db37c5bf/en_plus_04.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6e/f2/bf6ef289-47cd-1972-562e-f9c851f76e73/en_plus_05.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/1a/9b/791a9b89-29b5-edf5-8218-071f2619c887/en_plus_06.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/e1/54/97e15472-e9e3-0f98-8f23-3f0cc681cc6a/en_plus_07.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/bc/fc/b2bcfcc5-a9eb-66c6-0fe0-68cac246f703/en_plus_08.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/bc/46/c5bc469c-8d44-b4c9-bea7-ad6a09b72410/en_plus_09.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/62/04/23620441-2066-2aa2-648a-72cba7f1e5ea/en_plus_10.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/fe/ac/34feac0a-c830-0f1c-8ae3-0cbc741d03db/en_plus_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/52/88/5452880c-fcdb-4850-a523-55ae51843b65/en_plus_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/3c/40/a53c40d3-c96f-47c8-bfd5-138ea4ef379d/en_plus_03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/85/fd/2785fd0d-19c8-e6bd-d606-13a1db37c5bf/en_plus_04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6e/f2/bf6ef289-47cd-1972-562e-f9c851f76e73/en_plus_05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/1a/9b/791a9b89-29b5-edf5-8218-071f2619c887/en_plus_06.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/e1/54/97e15472-e9e3-0f98-8f23-3f0cc681cc6a/en_plus_07.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/bc/fc/b2bcfcc5-a9eb-66c6-0fe0-68cac246f703/en_plus_08.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/bc/46/c5bc469c-8d44-b4c9-bea7-ad6a09b72410/en_plus_09.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/62/04/23620441-2066-2aa2-648a-72cba7f1e5ea/en_plus_10.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "2.3.0",
-          "date": "2026-03-18",
-          "size": 401024415,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.frontrow.vlog_VlogNow_2.3.0.ipa"
-        },
-        {
-          "version": "2.2.0",
-          "date": "2026-03-11",
-          "size": 393476759,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.frontrow.vlog_VlogNow_2.2.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.3.0",
-      "versionDate": "2026-03-18T14:35:01.622Z",
-      "size": 401024415,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.frontrow.vlog_VlogNow_2.3.0.ipa"
     },
     {
       "name": "InCollage",
