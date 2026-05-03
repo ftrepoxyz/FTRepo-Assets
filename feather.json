@@ -2721,7 +2721,7 @@
       "bundleIdentifier": "com.busuu.english.app",
       "developerName": "Busuu Limited",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/16/2f/63162f8b-9360-f3b8-b8a5-65137e229306/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.10.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.12.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg"
@@ -2768,6 +2768,12 @@
       ],
       "versions": [
         {
+          "version": "30.12.0",
+          "date": "2026-05-03",
+          "size": 158461695,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/com.busuu.english.app_BusuuLanguageLearning_30.12.0.ipa"
+        },
+        {
           "version": "30.10.0",
           "date": "2026-04-19",
           "size": 155905471,
@@ -2778,19 +2784,13 @@
           "date": "2026-04-12",
           "size": 156306338,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-12/com.busuu.english.app_BusuuLanguageLearning_30.9.0.ipa"
-        },
-        {
-          "version": "30.7.0",
-          "date": "2026-03-29",
-          "size": 156270795,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.busuu.english.app_BusuuLanguageLearning_30.7.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "30.10.0",
-      "versionDate": "2026-04-19T19:16:03.955Z",
-      "size": 155905471,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.busuu.english.app_BusuuLanguageLearning_30.10.0.ipa"
+      "version": "30.12.0",
+      "versionDate": "2026-05-03T19:40:08.423Z",
+      "size": 158461695,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/com.busuu.english.app_BusuuLanguageLearning_30.12.0.ipa"
     },
     {
       "name": "FarmVille 2",
@@ -19339,6 +19339,82 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.mwm.guitartuner_TunerPro_4.00.02.ipa"
     },
     {
+      "name": "VDIT",
+      "bundleIdentifier": "me.imgbase.videoday",
+      "developerName": "ImgBase, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/a9/eb/1ba9eb4f-7e1c-06f5-635a-eda1486bffe6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nVDIT - Video Caption Editor\n\n• Bundle ID: me.imgbase.videoday\n• Updated to: 4.0.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/f4/bd/51f4bde1-13fb-a843-993f-10413ae992f9/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Intro_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/c4/fc/97c4fcb2-bcf4-870c-3756-e230d5e4567d/VDIT_ScreenShot_v3.8.0_iPhone8Plus_AICaption_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/0a/a9/fe0aa9f9-f56a-7fa7-c6d3-32e1e3c27ec2/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Enhance_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/7e/78/d17e78ac-f91c-5efe-9af4-db9c887653aa/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Mosaic_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/da/e7/84dae75b-330d-bb09-6123-95d030d67d25/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Cutout_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/b2/a6/d9b2a6f8-6ece-c1a8-ff77-500e4c0ef478/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Speed_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/99/41/91994158-709d-d03f-50a3-0ffcfd39c849/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Effect_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/ce/9b/0ace9b34-1f6d-cdd5-0b22-76c70da32ab1/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Text_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/21/59/d021595e-71f6-0239-2a34-e2cebed80422/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Sticker_En.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/31/bd/7631bdda-f459-3f20-088b-856cefea1794/VDIT_ScreenShot_v3.8.0_iPhone8Plus_BGM_En.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/f4/bd/51f4bde1-13fb-a843-993f-10413ae992f9/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Intro_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/c4/fc/97c4fcb2-bcf4-870c-3756-e230d5e4567d/VDIT_ScreenShot_v3.8.0_iPhone8Plus_AICaption_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/0a/a9/fe0aa9f9-f56a-7fa7-c6d3-32e1e3c27ec2/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Enhance_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/7e/78/d17e78ac-f91c-5efe-9af4-db9c887653aa/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Mosaic_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/da/e7/84dae75b-330d-bb09-6123-95d030d67d25/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Cutout_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/b2/a6/d9b2a6f8-6ece-c1a8-ff77-500e4c0ef478/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Speed_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/99/41/91994158-709d-d03f-50a3-0ffcfd39c849/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Effect_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/ce/9b/0ace9b34-1f6d-cdd5-0b22-76c70da32ab1/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Text_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/21/59/d021595e-71f6-0239-2a34-e2cebed80422/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Sticker_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/31/bd/7631bdda-f459-3f20-088b-856cefea1794/VDIT_ScreenShot_v3.8.0_iPhone8Plus_BGM_En.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "4.0.0",
+          "date": "2026-05-03",
+          "size": 222802482,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/me.imgbase.videoday_VDIT_4.0.0.ipa"
+        },
+        {
+          "version": "3.7.2",
+          "date": "2026-03-11",
+          "size": 223455300,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/me.imgbase.videoday_Sideloadbypass2_3.7.2.ipa"
+        },
+        {
+          "version": "3.7.1",
+          "date": "2026-03-11",
+          "size": 223452696,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/me.imgbase.videoday_Sideloadbypass2_3.7.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.0.0",
+      "versionDate": "2026-05-03T16:40:14.563Z",
+      "size": 222802482,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/me.imgbase.videoday_VDIT_4.0.0.ipa"
+    },
+    {
       "name": "MetadataEditor",
       "bundleIdentifier": "com.andrespizabuckmann.MetadataEditor",
       "developerName": "Andres Piza Buckmann",
@@ -21635,76 +21711,6 @@
       "versionDate": "2026-03-11T12:56:22.012Z",
       "size": 14732664,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.teamspeak.teamspeak_3.8.2.ipa"
-    },
-    {
-      "name": "VDIT",
-      "bundleIdentifier": "me.imgbase.videoday",
-      "developerName": "ImgBase, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/58/cd/5358cd46-360e-2e98-a825-c9f442d03d89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nVDIT - Video Maker & Editor\n\nTweak: Premium Unlocked\n\nVersion: 3.7.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: me.imgbase.videoday\nDeveloper: ImgBase, Inc.",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/d0/66/a7d06691-27a3-84e7-26f0-df83fcce5a9d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Intro_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/f8/c2/dff8c247-7876-0a11-d5a9-ae4d14c50a8e/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Mosaic_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/59/05/1859050c-9c6b-e842-bbea-3e9ffafde071/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Cutout_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/ef/db/f7efdb8a-24b0-fdae-d520-3192ea87585c/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Speed_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/ba/6f/90ba6fa0-55bf-11b5-c3a8-5296ab211b85/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Effect_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/4f/f9/a54ff95c-ff9e-a221-ac33-2cb17144ba82/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Text_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/13/33/c21333ac-d9de-61ec-8311-70da5c983618/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Sticker_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/e0/83/a3e083a7-0292-d6f9-8e4f-8ed24082798d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_BGM_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/40/18/26401869-0522-7c5a-85fe-d79e2af7a4bf/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Transition_EnWinter.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/e6/18/c4e618d2-322a-682f-19b4-727ea98c80fe/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Filter_EnWinter.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/d0/66/a7d06691-27a3-84e7-26f0-df83fcce5a9d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Intro_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/f8/c2/dff8c247-7876-0a11-d5a9-ae4d14c50a8e/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Mosaic_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/59/05/1859050c-9c6b-e842-bbea-3e9ffafde071/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Cutout_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/ef/db/f7efdb8a-24b0-fdae-d520-3192ea87585c/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Speed_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/ba/6f/90ba6fa0-55bf-11b5-c3a8-5296ab211b85/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Effect_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/4f/f9/a54ff95c-ff9e-a221-ac33-2cb17144ba82/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Text_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/13/33/c21333ac-d9de-61ec-8311-70da5c983618/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Sticker_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/e0/83/a3e083a7-0292-d6f9-8e4f-8ed24082798d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_BGM_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/40/18/26401869-0522-7c5a-85fe-d79e2af7a4bf/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Transition_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/e6/18/c4e618d2-322a-682f-19b4-727ea98c80fe/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Filter_EnWinter.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "3.7.2",
-          "date": "2026-03-11",
-          "size": 223455300,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/me.imgbase.videoday_Sideloadbypass2_3.7.2.ipa"
-        },
-        {
-          "version": "3.7.1",
-          "date": "2026-03-11",
-          "size": 223452696,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/me.imgbase.videoday_Sideloadbypass2_3.7.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.7.2",
-      "versionDate": "2026-03-11T13:20:22.627Z",
-      "size": 223455300,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/me.imgbase.videoday_Sideloadbypass2_3.7.2.ipa"
     },
     {
       "name": "Bunpo",
