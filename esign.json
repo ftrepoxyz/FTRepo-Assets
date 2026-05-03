@@ -3,6 +3,54 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Busuu",
+      "version": "30.12.0",
+      "versionDate": "2026-05-03",
+      "size": 158461695,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/com.busuu.english.app_BusuuLanguageLearning_30.12.0.ipa",
+      "developerName": "Busuu Limited",
+      "bundleIdentifier": "com.busuu.english.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/16/2f/63162f8b-9360-f3b8-b8a5-65137e229306/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.12.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/54/38/a9543848-fca6-3f4d-a5bf-e199e1fde343/6e7682ab-be8e-47f7-8625-5dd7b3522eea_iOS-5.5-EN-Study.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f1/3b/7cf13bf1-f124-b61b-ff05-c2c6ac53a916/8c90811e-d211-4779-a398-5ce4e6b3fac6_iOS-5.5-EN-Progress.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/72/27/2f72279a-8ce8-8ed7-c5be-1a50db691694/4c37ae21-0153-415a-85ff-10234469556c_iOS-5.5-EN-Help.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c3/f2/d6c3f2fe-9f01-c422-ee55-816d198e1bee/4a54ca61-9dfc-4554-b881-2f88a3a284a1_iOS-5.5-EN-OnTrack.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/d7/be/9ad7be12-835b-67b7-2d2e-960649d573e0/c094e9d8-87f5-48e6-9e69-3882fc2c9c26_iOS-5.5-EN-ShareTips.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7d/4f/f87d4fb8-58c2-2245-99aa-ccded195513d/289aa46a-a68f-4bc2-bd17-5ac2bb4e3590_iOS-5.5-EN-Phrases.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/b6/0d/46b60db6-0486-bae9-11c8-beec18301fb0/e7325a90-8a4d-4400-b224-52161048688f_iOS-5.5-EN-SetGoals.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/10/6f/03106f42-f11a-7b8d-bc02-8a074bae7874/ebae4e0f-7a87-4e3f-8f69-1823ad7f953a_EN-iOS_EN_5.5__US_Growth_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e3/34/67e3349b-128d-6484-5126-cfd6487063c4/72b900e3-96a3-4aae-bc1a-500e851f5fd7_EN-iOS_EN_5.5__US_Growth_08.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "VDIT",
+      "version": "4.0.0",
+      "versionDate": "2026-05-03",
+      "size": 222802482,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/me.imgbase.videoday_VDIT_4.0.0.ipa",
+      "developerName": "ImgBase, Inc.",
+      "bundleIdentifier": "me.imgbase.videoday",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/a9/eb/1ba9eb4f-7e1c-06f5-635a-eda1486bffe6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nVDIT - Video Caption Editor\n\n• Bundle ID: me.imgbase.videoday\n• Updated to: 4.0.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/f4/bd/51f4bde1-13fb-a843-993f-10413ae992f9/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Intro_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/c4/fc/97c4fcb2-bcf4-870c-3756-e230d5e4567d/VDIT_ScreenShot_v3.8.0_iPhone8Plus_AICaption_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/0a/a9/fe0aa9f9-f56a-7fa7-c6d3-32e1e3c27ec2/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Enhance_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/7e/78/d17e78ac-f91c-5efe-9af4-db9c887653aa/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Mosaic_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/da/e7/84dae75b-330d-bb09-6123-95d030d67d25/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Cutout_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/b2/a6/d9b2a6f8-6ece-c1a8-ff77-500e4c0ef478/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Speed_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/99/41/91994158-709d-d03f-50a3-0ffcfd39c849/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Effect_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/ce/9b/0ace9b34-1f6d-cdd5-0b22-76c70da32ab1/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Text_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/21/59/d021595e-71f6-0239-2a34-e2cebed80422/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Sticker_En.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/31/bd/7631bdda-f459-3f20-088b-856cefea1794/VDIT_ScreenShot_v3.8.0_iPhone8Plus_BGM_En.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Fitbit to Apple Health",
       "version": "3.3.0",
       "versionDate": "2026-05-03",
@@ -3887,30 +3935,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/82/f2/ce82f29e-2b3a-7a3c-a1be-e3d0704b04f6/2.iMessage_screen.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/91/e0/2791e043-3f75-440b-76c0-29ffbd1c664e/3.iMessage_screen.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/8c/c8/758cc8c0-26c5-af4a-01ff-3cab350c2b7a/4.iMessage_screen.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Busuu",
-      "version": "30.10.0",
-      "versionDate": "2026-04-19",
-      "size": 155905471,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.busuu.english.app_BusuuLanguageLearning_30.10.0.ipa",
-      "developerName": "Busuu Limited",
-      "bundleIdentifier": "com.busuu.english.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/16/2f/63162f8b-9360-f3b8-b8a5-65137e229306/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.10.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/54/38/a9543848-fca6-3f4d-a5bf-e199e1fde343/6e7682ab-be8e-47f7-8625-5dd7b3522eea_iOS-5.5-EN-Study.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f1/3b/7cf13bf1-f124-b61b-ff05-c2c6ac53a916/8c90811e-d211-4779-a398-5ce4e6b3fac6_iOS-5.5-EN-Progress.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/72/27/2f72279a-8ce8-8ed7-c5be-1a50db691694/4c37ae21-0153-415a-85ff-10234469556c_iOS-5.5-EN-Help.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c3/f2/d6c3f2fe-9f01-c422-ee55-816d198e1bee/4a54ca61-9dfc-4554-b881-2f88a3a284a1_iOS-5.5-EN-OnTrack.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/d7/be/9ad7be12-835b-67b7-2d2e-960649d573e0/c094e9d8-87f5-48e6-9e69-3882fc2c9c26_iOS-5.5-EN-ShareTips.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7d/4f/f87d4fb8-58c2-2245-99aa-ccded195513d/289aa46a-a68f-4bc2-bd17-5ac2bb4e3590_iOS-5.5-EN-Phrases.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/b6/0d/46b60db6-0486-bae9-11c8-beec18301fb0/e7325a90-8a4d-4400-b224-52161048688f_iOS-5.5-EN-SetGoals.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/10/6f/03106f42-f11a-7b8d-bc02-8a074bae7874/ebae4e0f-7a87-4e3f-8f69-1823ad7f953a_EN-iOS_EN_5.5__US_Growth_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e3/34/67e3349b-128d-6484-5126-cfd6487063c4/72b900e3-96a3-4aae-bc1a-500e851f5fd7_EN-iOS_EN_5.5__US_Growth_08.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -10079,30 +10103,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/1d/0b/101d0b5b-9a43-d958-5ae5-3f2e56b6e62e/35496a94-8213-4b46-a9fc-6e4ef750820b_iPhone_5.5__-_10.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/2a/21/be2a217a-57d0-d9ab-4620-98945bfec6d2/076b620a-b6c3-44d0-8dc8-e664c11d1815_iPhone_5.5__-_5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/ae/21/ceae21d0-483d-5e83-f06b-9c2809e6105c/3387bbbe-0d9e-4f08-a1ad-1e10fdf122a5_iPhone_5.5__-_13.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "VDIT",
-      "version": "3.7.2",
-      "versionDate": "2026-03-11",
-      "size": 223455300,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/me.imgbase.videoday_Sideloadbypass2_3.7.2.ipa",
-      "developerName": "ImgBase, Inc.",
-      "bundleIdentifier": "me.imgbase.videoday",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/58/cd/5358cd46-360e-2e98-a825-c9f442d03d89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nVDIT - Video Maker & Editor\n\nTweak: Premium Unlocked\n\nVersion: 3.7.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: me.imgbase.videoday\nDeveloper: ImgBase, Inc.",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/d0/66/a7d06691-27a3-84e7-26f0-df83fcce5a9d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Intro_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/f8/c2/dff8c247-7876-0a11-d5a9-ae4d14c50a8e/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Mosaic_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/59/05/1859050c-9c6b-e842-bbea-3e9ffafde071/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Cutout_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/ef/db/f7efdb8a-24b0-fdae-d520-3192ea87585c/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Speed_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/ba/6f/90ba6fa0-55bf-11b5-c3a8-5296ab211b85/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Effect_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/4f/f9/a54ff95c-ff9e-a221-ac33-2cb17144ba82/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Text_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/13/33/c21333ac-d9de-61ec-8311-70da5c983618/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Sticker_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/e0/83/a3e083a7-0292-d6f9-8e4f-8ed24082798d/VDIT_ScreenShot_v3.7.0_iPhone8Plus_BGM_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/40/18/26401869-0522-7c5a-85fe-d79e2af7a4bf/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Transition_EnWinter.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/e6/18/c4e618d2-322a-682f-19b4-727ea98c80fe/VDIT_ScreenShot_v3.7.0_iPhone8Plus_Filter_EnWinter.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
