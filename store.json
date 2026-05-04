@@ -7021,7 +7021,7 @@
       "bundleIdentifier": "com.getupnote.ios",
       "developerName": "UpNote Company Limited",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/62/33/636233e0-613d-37ec-7094-4144a89b68a5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nUpNote - notes, diary, journal\n\n• Bundle ID: com.getupnote.ios\n• Updated to: 9.18.4\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart the app if subscription is not active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nUpNote - notes, diary, journal\n\n• Bundle ID: com.getupnote.ios\n• Updated to: 9.18.5\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart the app if subscription is not active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/2b/0a/d52b0a40-c84d-61dd-37c3-9c943c660677/d0ddf798-add0-4bfe-879c-357f97af258f_iphone-1-min.png/1320x2868bb.png"
@@ -7048,6 +7048,12 @@
       ],
       "versions": [
         {
+          "version": "9.18.5",
+          "date": "2026-05-04",
+          "size": 52256074,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.getupnote.ios_UpNote_9.18.5.ipa"
+        },
+        {
           "version": "9.18.4",
           "date": "2026-04-26",
           "size": 52254560,
@@ -7058,19 +7064,13 @@
           "date": "2026-04-04",
           "size": 52256195,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.getupnote.ios_UpNote_9.18.2.ipa"
-        },
-        {
-          "version": "9.18.0",
-          "date": "2026-03-27",
-          "size": 52197541,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.getupnote.ios_UpNote_9.18.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.18.4",
-      "versionDate": "2026-04-26T07:38:47.113Z",
-      "size": 52254560,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.getupnote.ios_UpNote_9.18.4.ipa"
+      "version": "9.18.5",
+      "versionDate": "2026-05-04T01:40:00.542Z",
+      "size": 52256074,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.getupnote.ios_UpNote_9.18.5.ipa"
     },
     {
       "name": "YouTube Music",
@@ -14381,6 +14381,76 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.northstar.gratitude_Sideloadbypass2_5.6.5.ipa"
     },
     {
+      "name": "Lingora",
+      "bundleIdentifier": "com.stebtech.lingora",
+      "developerName": "Alexander Stebner",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/3f/74/2c3f7442-b92e-92cb-4e91-498d558d14a7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLingora\n\nTweak: Subscription Unlocked\n\nVersion: 5.6.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.stebtech.lingora\nDeveloper: Alexander Stebner",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/73/36/55733630-1c64-126b-a2d2-2470cec990c2/5f078a28-68c1-4cf7-a4f0-392925c60c1c_iPhone_5.5__U00231.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/f0/50/6ef0501a-2d87-5cbe-7bd2-2294bc348cae/d91ed897-efb1-4c89-9ea8-b1151ca2ec0e_iPhone_5.5__U00232.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/cc/98/68cc985f-5c76-15e5-59a3-34692a8a890a/6fdbb15d-d821-4539-8929-49ab002cdee3_iPhone_5.5__U00233.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/f4/9d/d9f49d3f-05ff-711c-5b08-ac08a40acb61/cbe89a9c-24c6-4391-bc14-6d2acb27af5a_iPhone_5.5__U00234.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/6c/5a/666c5a9d-71b5-88e9-4d03-51450e3a5b79/70e0ccb7-5c6f-4aae-9e2c-1662540edcad_iPhone_5.5__U00235.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/5e/fc/905efce5-8cbe-54db-53ce-14639f591243/a938f470-d740-4488-afb3-73bb06fd68a1_iPhone_5.5__U00236.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/a4/66/c3a46684-7c90-9afe-e210-cff5303cd2ff/bda3a21f-3985-4301-b3af-291addd1d031_iPhone_5.5__U00237.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/eb/14/bdeb1467-b571-3d9a-ad92-03f3e3115b54/c1f1fcec-b480-4236-937f-0a6a73099d8b_iPhone_5.5__U00238.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/01/48/cb0148d6-c44a-d816-fd87-dba22d27356d/5e03c570-f5bf-45c3-96a2-ca3fc2a3176a_iPhone_5.5__U00239.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/85/4b/05854b70-1af3-39b3-0ecd-18858693c553/95061bee-fcec-446e-b4aa-c8e86fd2c979_iPhone_5.5__U002310.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/73/36/55733630-1c64-126b-a2d2-2470cec990c2/5f078a28-68c1-4cf7-a4f0-392925c60c1c_iPhone_5.5__U00231.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/f0/50/6ef0501a-2d87-5cbe-7bd2-2294bc348cae/d91ed897-efb1-4c89-9ea8-b1151ca2ec0e_iPhone_5.5__U00232.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/cc/98/68cc985f-5c76-15e5-59a3-34692a8a890a/6fdbb15d-d821-4539-8929-49ab002cdee3_iPhone_5.5__U00233.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/f4/9d/d9f49d3f-05ff-711c-5b08-ac08a40acb61/cbe89a9c-24c6-4391-bc14-6d2acb27af5a_iPhone_5.5__U00234.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/6c/5a/666c5a9d-71b5-88e9-4d03-51450e3a5b79/70e0ccb7-5c6f-4aae-9e2c-1662540edcad_iPhone_5.5__U00235.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/5e/fc/905efce5-8cbe-54db-53ce-14639f591243/a938f470-d740-4488-afb3-73bb06fd68a1_iPhone_5.5__U00236.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/a4/66/c3a46684-7c90-9afe-e210-cff5303cd2ff/bda3a21f-3985-4301-b3af-291addd1d031_iPhone_5.5__U00237.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/eb/14/bdeb1467-b571-3d9a-ad92-03f3e3115b54/c1f1fcec-b480-4236-937f-0a6a73099d8b_iPhone_5.5__U00238.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/01/48/cb0148d6-c44a-d816-fd87-dba22d27356d/5e03c570-f5bf-45c3-96a2-ca3fc2a3176a_iPhone_5.5__U00239.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/85/4b/05854b70-1af3-39b3-0ecd-18858693c553/95061bee-fcec-446e-b4aa-c8e86fd2c979_iPhone_5.5__U002310.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.6.4",
+          "date": "2026-05-03",
+          "size": 36691303,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/com.stebtech.lingora_Sideloadbypass2_5.6.4.ipa"
+        },
+        {
+          "version": "5.1.2",
+          "date": "2026-03-11",
+          "size": 59569832,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.stebtech.lingora_Sideloadbypass2_5.1.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.6.4",
+      "versionDate": "2026-05-03T22:39:57.877Z",
+      "size": 36691303,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/com.stebtech.lingora_Sideloadbypass2_5.6.4.ipa"
+    },
+    {
       "name": "djay",
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "Algoriddim GmbH",
@@ -15773,70 +15843,6 @@
       "versionDate": "2026-04-03T21:17:44.526Z",
       "size": 81098563,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.sublime.capture_Sideloadbypass2_5.1.2.ipa"
-    },
-    {
-      "name": "Lingora",
-      "bundleIdentifier": "com.stebtech.lingora",
-      "developerName": "Alexander Stebner",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/a4/65/6ca465ab-f869-29ab-495d-2236363502c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nLingora\n\nTweak: Subscription Unlocked\n\nVersion: 5.1.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.stebtech.lingora\nDeveloper: Alexander Stebner",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/80/37/9780375a-ebe8-a158-6bfd-d3114dd0830a/5f078a28-68c1-4cf7-a4f0-392925c60c1c_iPhone_5.5__U00231.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/d7/5e/9bd75e8c-2680-c7fb-a329-facfe2b57096/d91ed897-efb1-4c89-9ea8-b1151ca2ec0e_iPhone_5.5__U00232.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/12/15/c3121555-5e97-961a-0fe9-8a862e3ab3e0/6fdbb15d-d821-4539-8929-49ab002cdee3_iPhone_5.5__U00233.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/62/0c/6e620c3c-a304-cb10-fc23-214b956ced54/cbe89a9c-24c6-4391-bc14-6d2acb27af5a_iPhone_5.5__U00234.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/da/98/9eda9828-1ea9-92d1-b5d5-4d61806f1d58/70e0ccb7-5c6f-4aae-9e2c-1662540edcad_iPhone_5.5__U00235.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/96/20/e3962029-6c2e-f0bd-46f5-e512963a97cf/a938f470-d740-4488-afb3-73bb06fd68a1_iPhone_5.5__U00236.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/35/61/973561f1-a2d9-63f4-928d-4473ea76a79f/bda3a21f-3985-4301-b3af-291addd1d031_iPhone_5.5__U00237.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/3a/2c/7a3a2c17-33bc-e24a-e353-a9f6b0b66e7b/c1f1fcec-b480-4236-937f-0a6a73099d8b_iPhone_5.5__U00238.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/0e/f5/660ef565-8796-7d1f-d40c-e4b5901c362f/5e03c570-f5bf-45c3-96a2-ca3fc2a3176a_iPhone_5.5__U00239.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/31/19/bd311998-8962-ca85-0a09-66ce7138c6e7/95061bee-fcec-446e-b4aa-c8e86fd2c979_iPhone_5.5__U002310.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/80/37/9780375a-ebe8-a158-6bfd-d3114dd0830a/5f078a28-68c1-4cf7-a4f0-392925c60c1c_iPhone_5.5__U00231.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/d7/5e/9bd75e8c-2680-c7fb-a329-facfe2b57096/d91ed897-efb1-4c89-9ea8-b1151ca2ec0e_iPhone_5.5__U00232.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/12/15/c3121555-5e97-961a-0fe9-8a862e3ab3e0/6fdbb15d-d821-4539-8929-49ab002cdee3_iPhone_5.5__U00233.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/62/0c/6e620c3c-a304-cb10-fc23-214b956ced54/cbe89a9c-24c6-4391-bc14-6d2acb27af5a_iPhone_5.5__U00234.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/da/98/9eda9828-1ea9-92d1-b5d5-4d61806f1d58/70e0ccb7-5c6f-4aae-9e2c-1662540edcad_iPhone_5.5__U00235.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/96/20/e3962029-6c2e-f0bd-46f5-e512963a97cf/a938f470-d740-4488-afb3-73bb06fd68a1_iPhone_5.5__U00236.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/35/61/973561f1-a2d9-63f4-928d-4473ea76a79f/bda3a21f-3985-4301-b3af-291addd1d031_iPhone_5.5__U00237.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/3a/2c/7a3a2c17-33bc-e24a-e353-a9f6b0b66e7b/c1f1fcec-b480-4236-937f-0a6a73099d8b_iPhone_5.5__U00238.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/0e/f5/660ef565-8796-7d1f-d40c-e4b5901c362f/5e03c570-f5bf-45c3-96a2-ca3fc2a3176a_iPhone_5.5__U00239.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/31/19/bd311998-8962-ca85-0a09-66ce7138c6e7/95061bee-fcec-446e-b4aa-c8e86fd2c979_iPhone_5.5__U002310.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "5.1.2",
-          "date": "2026-03-11",
-          "size": 59569832,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.stebtech.lingora_Sideloadbypass2_5.1.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.1.2",
-      "versionDate": "2026-03-11T13:28:05.577Z",
-      "size": 59569832,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.stebtech.lingora_Sideloadbypass2_5.1.2.ipa"
     },
     {
       "name": "Inspo",
