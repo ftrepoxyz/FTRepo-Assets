@@ -1652,7 +1652,7 @@
       "name": "Bloons TD 6",
       "bundleIdentifier": "com.ninjakiwi.bloonstd6",
       "developerName": "Ninja Kiwi",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/96/d0049697-4c34-48ae-47b9-d614731a279c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/56/aa/5856aa61-cc2b-ac03-c492-a4f7780248ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBloons TD 6\n\nPaid game $6.99\n\nDecrypted by user_hidden\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
       "screenshots": [
         {
@@ -1692,6 +1692,12 @@
       ],
       "versions": [
         {
+          "version": "54.3",
+          "date": "2026-05-05",
+          "size": 74630151,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.ninjakiwi.bloonstd6_54.3.ipa"
+        },
+        {
           "version": "53.2",
           "date": "2026-03-12",
           "size": 72995132,
@@ -1702,19 +1708,13 @@
           "date": "2026-03-12",
           "size": 72833885,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ninjakiwi.bloonstd6_53.1.ipa"
-        },
-        {
-          "version": "53.0",
-          "date": "2026-03-12",
-          "size": 72768808,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ninjakiwi.bloonstd6_53.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "53.2",
-      "versionDate": "2026-03-12T07:58:40.404Z",
-      "size": 72995132,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ninjakiwi.bloonstd6_53.2.ipa"
+      "version": "54.3",
+      "versionDate": "2026-05-05T10:40:36.677Z",
+      "size": 74630151,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.ninjakiwi.bloonstd6_54.3.ipa"
     },
     {
       "name": "Bloons TD 6+",
@@ -3647,6 +3647,28 @@
       "versionDate": "2026-04-24T01:38:18.712Z",
       "size": 89897882,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.SofaScore.iOS_Sideloadbypass2_26.04.09.ipa"
+    },
+    {
+      "name": "Night Sky",
+      "bundleIdentifier": "com.icandiapps.nightsky",
+      "developerName": "iCandi Apps Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/af/08/71af08fa-929b-1117-a27c-8d6c3dfe12e4/NSIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nNight Sky\n\n• Bundle ID: com.icandiapps.nightsky\n• Updated to: 26.4\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Night Sky Plus\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "26.4",
+          "date": "2026-05-05",
+          "size": 824128202,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.icandiapps.nightsky_NightSky_26.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.4",
+      "versionDate": "2026-05-05T13:41:12.020Z",
+      "size": 824128202,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.icandiapps.nightsky_NightSky_26.4.ipa"
     },
     {
       "name": "Calisteniapp",
@@ -16943,6 +16965,66 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.verycoolapp.mediaconvert_MediaConverter_4.14.ipa"
     },
     {
+      "name": "Riverside",
+      "bundleIdentifier": "RVS-Riverside.fm",
+      "developerName": "riverside.fm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/4f/1b/e04f1b1c-a1ee-bb04-ba8f-e93b6bab45db/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRiverside Podcast Video Studio\n\nTweak: Premium Unlocked\n\nVersion: 4.13.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: RVS-Riverside.fm\nDeveloper: riverside.fm",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
+      ],
+      "versions": [
+        {
+          "version": "4.13.2",
+          "date": "2026-05-05",
+          "size": 242866797,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/RVS-Riverside.fm_Sideloadbypass2_4.13.2.ipa"
+        },
+        {
+          "version": "4.10.1",
+          "date": "2026-03-12",
+          "size": 207646730,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/RVS-Riverside.fm_Sideloadbypass2_4.10.1.ipa"
+        },
+        {
+          "version": "4.10.0",
+          "date": "2026-03-11",
+          "size": 206389500,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/RVS-Riverside.fm_Sideloadbypass2_4.10.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.13.2",
+      "versionDate": "2026-05-05T10:41:41.727Z",
+      "size": 242866797,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/RVS-Riverside.fm_Sideloadbypass2_4.13.2.ipa"
+    },
+    {
       "name": "Letterboxd",
       "bundleIdentifier": "com.letterboxd.LetterboxdApp",
       "developerName": "Letterboxd",
@@ -16999,6 +17081,58 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.letterboxd.LetterboxdApp_LetterboxdPatch_4.11.3.ipa"
     },
     {
+      "name": "FL Studio Mobile",
+      "bundleIdentifier": "com.imageline.FLStudioMobileHD",
+      "developerName": "Image Line Software",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/d7/7d/62d77de0-98a1-7af0-0914-c795092192b9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFL Studio Mobile\n\nPaid app $14.99\n\nDecrypted by user_hidden\n\nTap on buy then cancel\n\nMinimum OS version 12.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/5a/ff/7a5affff-5aaa-639c-f54f-e8dc264cc5de/12013809-9577-4ade-968d-3ef57f7bb07e_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.46.27.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/36/c5/1d36c535-fd99-993b-4db3-1b68f86649b0/8888cd59-5d61-43d3-9522-cb97e716427b_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.48.32.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/a9/e7/6ca9e74c-1ed7-a140-9de8-e93cf4641be6/f126e02b-a6d2-4d41-942a-5bf98881622f_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.47.01.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/68/4e/4b684ea5-c03a-fbc5-930b-098311a73812/bf41daf6-f7c3-4c4b-a824-4fc8ab547d4f_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.49.25.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b7/2f/14b72f78-1172-b7ad-74b2-9e721ad60bf0/089ddda9-91b9-4d00-8314-66e1e47a3958_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.49.02.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/3d/ff/983dff54-82a4-ea62-e1d2-ec370ea760fe/a616c867-b851-4bad-9dfc-b56882fd780a_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.48.13.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/84/df/c384dfdc-320a-68c4-3387-2597e315f4ca/314288a2-e9d1-4396-9378-bb79884c8969_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.50.10.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/5a/ff/7a5affff-5aaa-639c-f54f-e8dc264cc5de/12013809-9577-4ade-968d-3ef57f7bb07e_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.46.27.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/36/c5/1d36c535-fd99-993b-4db3-1b68f86649b0/8888cd59-5d61-43d3-9522-cb97e716427b_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.48.32.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/a9/e7/6ca9e74c-1ed7-a140-9de8-e93cf4641be6/f126e02b-a6d2-4d41-942a-5bf98881622f_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.47.01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/68/4e/4b684ea5-c03a-fbc5-930b-098311a73812/bf41daf6-f7c3-4c4b-a824-4fc8ab547d4f_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.49.25.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b7/2f/14b72f78-1172-b7ad-74b2-9e721ad60bf0/089ddda9-91b9-4d00-8314-66e1e47a3958_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.49.02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/3d/ff/983dff54-82a4-ea62-e1d2-ec370ea760fe/a616c867-b851-4bad-9dfc-b56882fd780a_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.48.13.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/84/df/c384dfdc-320a-68c4-3387-2597e315f4ca/314288a2-e9d1-4396-9378-bb79884c8969_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_12.50.10.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "4.10.1",
+          "date": "2026-05-05",
+          "size": 371769613,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.imageline.FLStudioMobileHD_SatellaJailed_4.10.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.10.1",
+      "versionDate": "2026-05-05T10:41:10.891Z",
+      "size": 371769613,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.imageline.FLStudioMobileHD_SatellaJailed_4.10.1.ipa"
+    },
+    {
       "name": "Sunlitt",
       "bundleIdentifier": "eu.sun.litt",
       "developerName": "Flipping Hues Srls",
@@ -17025,60 +17159,6 @@
       "versionDate": "2026-04-01T13:01:39.565Z",
       "size": 115629640,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/eu.sun.litt_Sideloadbypass2_4.10.1.ipa"
-    },
-    {
-      "name": "Riverside",
-      "bundleIdentifier": "RVS-Riverside.fm",
-      "developerName": "riverside.fm",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/95/f9/b495f95b-2b44-abcb-b5f0-d2d0a1110dea/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nRiverside Podcast Video Studio\n\nTweak: Premium Unlocked\n\nVersion: 4.10.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: RVS-Riverside.fm\nDeveloper: riverside.fm",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6e/57/1f6e5727-f53c-aa18-9b70-b8c18eee1182/Screenshot_01@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/94/69/f094690a-72ea-6142-d253-f89feb429b71/Screenshot_02@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/db/5abcdba8-2773-45db-700e-2520730a1051/Screenshot_03@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4a/aa/4d4aaa21-0c50-6972-6595-cd6b8dc3b1ea/Screenshot_04@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d0/d4/b6d0d49f-3c71-166e-1b0c-8df688710ff5/Screenshot_05@3x.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/13/4b/b2134b8f-2d73-2586-8012-e52186c05c48/Screenshot_06@3x.jpg/1320x2868bb.webp"
-      ],
-      "versions": [
-        {
-          "version": "4.10.1",
-          "date": "2026-03-12",
-          "size": 207646730,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/RVS-Riverside.fm_Sideloadbypass2_4.10.1.ipa"
-        },
-        {
-          "version": "4.10.0",
-          "date": "2026-03-11",
-          "size": 206389500,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/RVS-Riverside.fm_Sideloadbypass2_4.10.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.10.1",
-      "versionDate": "2026-03-12T16:00:22.043Z",
-      "size": 207646730,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/RVS-Riverside.fm_Sideloadbypass2_4.10.1.ipa"
     },
     {
       "name": "PhotoSync",
@@ -17705,6 +17785,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.ladder.bootcamp_NewFix1_4.6.1.ipa"
     },
     {
+      "name": "Livity",
+      "bundleIdentifier": "com.app-livity",
+      "developerName": "Martynas Narijauskas",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/2a/93/102a930a-67c4-d5f3-b620-7fe047b2c980/LivityNewIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLivity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.app-livity\nDeveloper: Martynas Narijauskas",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.6.0",
+          "date": "2026-05-05",
+          "size": 106011925,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.app-livity_Sideloadbypass2_4.6.0.ipa"
+        },
+        {
+          "version": "4.5.1",
+          "date": "2026-05-03",
+          "size": 105863760,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/com.app-livity_Sideloadbypass2_4.5.1.ipa"
+        },
+        {
+          "version": "4.4.6",
+          "date": "2026-03-27",
+          "size": 84644996,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.app-livity_Sideloadbypass2_4.4.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.6.0",
+      "versionDate": "2026-05-05T13:41:25.946Z",
+      "size": 106011925,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.app-livity_Sideloadbypass2_4.6.0.ipa"
+    },
+    {
       "name": "AdGuard",
       "bundleIdentifier": "com.adguard.AdguardExtension",
       "developerName": "Adguard Software Limited",
@@ -17799,40 +17913,6 @@
       "versionDate": "2026-04-22T01:18:55.889Z",
       "size": 219013279,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.vivacut.videoeditor_VivaCutPro_4.5.8.ipa"
-    },
-    {
-      "name": "Livity",
-      "bundleIdentifier": "com.app-livity",
-      "developerName": "Martynas Narijauskas",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/ae/f4/5aaef452-9bd9-197e-bce2-a6eb320cf302/LivityNewIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nLivity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.5.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.app-livity\nDeveloper: Martynas Narijauskas",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.5.1",
-          "date": "2026-05-03",
-          "size": 105863760,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/com.app-livity_Sideloadbypass2_4.5.1.ipa"
-        },
-        {
-          "version": "4.4.6",
-          "date": "2026-03-27",
-          "size": 84644996,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.app-livity_Sideloadbypass2_4.4.6.ipa"
-        },
-        {
-          "version": "4.4.5",
-          "date": "2026-03-26",
-          "size": 84644354,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.app-livity_Sideloadbypass2_4.4.5.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.5.1",
-      "versionDate": "2026-05-03T01:39:58.821Z",
-      "size": 105863760,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/com.app-livity_Sideloadbypass2_4.5.1.ipa"
     },
     {
       "name": "Terraria",
@@ -18883,7 +18963,7 @@
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/06/0c/67060ce3-380d-f5a5-bebd-bca770616059/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nRest: Fix Your Sleep For Good\n\nTweak: Subscription Unlocked\n\nVersion: 3.185.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.helm\nDeveloper: Evolve Global, Inc.",
+      "localizedDescription": "from @blatants |\n----------------\nRest: Fix Your Sleep For Good\n\n• Bundle ID: com.evolve.helm\n• Updated to: 3.185.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/1320x2868bb.png"
@@ -18919,9 +18999,9 @@
       "versions": [
         {
           "version": "3.185.0",
-          "date": "2026-05-04",
-          "size": 173769445,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.evolve.helm_Sideloadbypass2_3.185.0.ipa"
+          "date": "2026-05-05",
+          "size": 178532677,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.evolve.helm_AutoRcSideload_3.185.0.ipa"
         },
         {
           "version": "3.182.1",
@@ -18938,9 +19018,9 @@
       ],
       "appPermissions": {},
       "version": "3.185.0",
-      "versionDate": "2026-05-04T22:41:32.066Z",
-      "size": 173769445,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.evolve.helm_Sideloadbypass2_3.185.0.ipa"
+      "versionDate": "2026-05-05T10:40:26.708Z",
+      "size": 178532677,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.evolve.helm_AutoRcSideload_3.185.0.ipa"
     },
     {
       "name": "Opal",
