@@ -3,6 +3,133 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "MoneyCircle",
+      "version": "3.1.8",
+      "versionDate": "2026-05-06",
+      "size": 13845823,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.genau.MoneyCircle_Sideloadbypass2_3.1.8.ipa",
+      "developerName": "Genau Factory",
+      "bundleIdentifier": "com.genau.MoneyCircle",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/1d/5f/4e1d5f60-6790-ae7e-1380-606373eb9811/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.1.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/44/ecc14476-f47c-191d-d809-690b50fe7f8b/MC-ipad-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/f1/01/a6f1011d-883c-090b-1f15-50413cfa491f/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/2b/6d/952b6ddf-b2c5-3883-eea8-04e413d9548d/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/ec/d9/f9ecd9ab-de26-5df2-3bfd-f6e994f1fe51/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/9d/bc/2f9dbcd5-b5cc-f631-6aaa-6740d8f4e95d/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "YouTube",
+      "version": "21.18.4",
+      "versionDate": "2026-05-06",
+      "size": 142248847,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.google.ios.youtube_zxPluginsInject_21.18.4.ipa",
+      "developerName": "Google",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/aa/cb/dcaacbd4-f6b3-a6a2-e9de-254f4126ebd8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Knight Lancer",
+      "version": "1.61",
+      "versionDate": "2026-05-05",
+      "size": 109089317,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.ToweringTower.KnightLancer_Sideloadbypass2_1.61.ipa",
+      "developerName": "BABAR SAEED JANJUA",
+      "bundleIdentifier": "com.ToweringTower.KnightLancer",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/56/67/1d566794-25da-d017-29b2-c6d25732fa51/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nKnight Lancer\n\nTweak: Free iAP\n\nVersion: 1.61\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.ToweringTower.KnightLancer\nDeveloper: BABAR SAEED JANJUA",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/4a/b1/2d4ab169-54c9-81b8-7af1-04434e460c68/5a94fbd6-e2b5-4fc7-8ff4-32030d93123a_Screenshot_-_Joust.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/1d/95/b11d9589-40f4-e4cb-0b0c-ec6edb5d7517/f4529222-e96d-49ea-ac10-582480bdbcfe_Screenshot_-_Create_your_Knight.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/a6/2a/94a62ac4-ac2f-d473-8236-15c35afe6b05/225de077-ef2c-4f2e-9e8a-14074708c37a_Screenshot_-_Ragdoll.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/ce/6f/78ce6f1b-5328-e74f-5ead-cdabbf4f5496/d83b42fc-f162-4024-99c3-34de854aff51_Screenshot_-_Online.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/ab/de/90abde1a-7096-5694-77be-b1ace8a1a6ef/9aee9d9f-03a5-4b2b-979c-de46c1a301d0_Screenshot_-_Kings.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Gemini",
+      "version": "1.2026.1710205",
+      "versionDate": "2026-05-05",
+      "size": 103407685,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.google.gemini_sideloadKeychainFix_1.2026.1710205.ipa",
+      "developerName": "Google",
+      "bundleIdentifier": "com.google.gemini",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ad/25/c0ad25f5-c5f8-75a3-dcab-3849654e09f8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nGoogle Gemini v1.2026.1710205 | SyntheticHeart v1.0\n\n🇷🇺 Приложение Google Gemini - это ваш персональный, проактивный и мощный ИИ-помощник. С SyntheticHeart вы можете исследовать новые функции еще до того, как они станут официально доступны.\n— Позволяет вручную изменять A/B-флаги\n— Поддерживает экспорт и импорт конфигураций\n— Чтобы открыть настройки, нажмите 3-мя пальцами 2 раза\n— Рекомендуемая конфигурация для нового дизайна - скопируйте отсюда\n© Создано: iOSDecrypted\n\n🇺🇸 Google Gemini app is your personal, proactive and powerful AI Assistant. With SyntheticHeart you can explore new features before they are videos-available.\n— Allows you to manually change A/B flags\n— Has support of Exporting and Importing configurations\n— To open settings, tap with 3-fingers twice\n— Recommended config for new Design - Copy from here\n© Created by: iOSDecrypted",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/89/f8/4a89f851-baa1-27a5-0d00-07a10b463e90/APP_IPHONE_65-0.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/2b/1e/a72b1eae-cec5-1c11-2101-a54e67b8e2a1/APP_IPHONE_65-1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/1d/ce/a41dceb8-fd19-f881-65a5-4b4c2e63687d/APP_IPHONE_65-2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/3c/01/023c013c-bc0e-915d-477c-5f5da85e2748/APP_IPHONE_65-3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/1b/00/bc1b0003-ce74-55c9-6f0c-3e97e6a72121/APP_IPHONE_65-4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/9e/84/af9e8475-c499-7519-8d71-a49077b0a4ad/APP_IPHONE_65-5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/36/a7/7b36a794-391e-7cf4-1e70-531bf5955eda/APP_IPHONE_65-6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/c6/5d/09c65d01-7aab-39d5-68e6-e6f2cdb19f24/APP_IPHONE_65-7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/9d/a3/7c9da367-329d-5431-a6bf-433a5269508c/APP_IPHONE_65-8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/ab/86/58ab860e-06ef-982f-0196-ba5e346814ae/APP_IPHONE_65-9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/81/7d/99817d59-8513-06c1-e658-02ff3e66565c/APP_IPAD_PRO_3GEN_129-0.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/31/46/5d314637-44c1-4ce7-0f22-27b3881231e3/APP_IPAD_PRO_3GEN_129-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/dd/7c/0bdd7cc2-987a-6c79-a2a8-44a28cde52a7/APP_IPAD_PRO_3GEN_129-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/bb/41/30bb4192-9da8-1314-6571-2ba0366c7f2e/APP_IPAD_PRO_3GEN_129-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/a8/75/c3a87585-df3d-d105-57b8-70e05e0c6b6f/APP_IPAD_PRO_3GEN_129-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/44/30/4a443092-8f29-ab01-880e-640cc7a941f8/APP_IPAD_PRO_3GEN_129-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/02/e4/9f02e419-9230-adec-b0cc-62d5e0bcc718/APP_IPAD_PRO_3GEN_129-6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/cd/24/dacd24cb-12c6-7658-7ec3-b6a67b72f3d0/APP_IPAD_PRO_3GEN_129-7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/06/f1/8c06f1f9-b2c8-313f-3595-f5dae5cf791a/APP_IPAD_PRO_3GEN_129-8.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Facebook",
+      "version": "560.0.0",
+      "versionDate": "2026-05-05",
+      "size": 189399693,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.facebook.Facebook_Glow_560.0.0.ipa",
+      "developerName": "Meta Platforms, Inc.",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/27/ac/5a27acbb-4b2a-8c6f-40e6-c9b5a1aed6b6/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFacebook\n\nA simple, clean, and powerful tweak for Facebook \n\nGlow settings are available via long press on any tab\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a5/75/7ea575a5-a4cd-a468-f1f4-0bdafcb9251f/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/12/ec/4812ecdc-25dc-c18e-b4dd-3c3321a838e9/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/ee/f1/4feef161-9b45-6714-edb0-703c18d2516d/0130e841-7bad-4f8c-83c9-61ea0bac7d7b_3-iOS-5.5-Stories.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/72/17/e97217ee-71f6-0d19-367c-bb6797123ba8/9b761f68-4cd1-4c66-b5f2-76de4f58005f_4-iOS-5.5-Groups.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/1d/bd/361dbd6c-5aa5-d16f-01ad-fa30d23979c4/68c29824-a52c-4766-8aea-0a70c7a2f86f_5-iOS-5.5-Profile.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/40/c6/4a40c6a9-716a-817e-544b-b47314896ecf/28ff37e9-d855-4e6e-a8b4-fb2d585bb9ca_6-iOS-5.5-Marketplace.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/88/19/6588196b-f912-e376-f56d-89680c7d2e39/691c88f4-f976-46bb-92e1-5f088e8aa47f_7-iOS-5.5-Share.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/46/36/48463671-5953-68ac-b97c-b97a6d6cc3ce/d49c0719-9500-4504-8a4c-3124b914bafa_8-iOS-5.5-Search_with_AI.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/e3/c6/05e3c610-6058-7113-d784-7432f93b4725/ee650e7b-1eaa-4de6-81a2-0b35dac16446_9-iOS-5.5-Write_with_AI.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/66/84/6f668470-ef8e-be27-90b8-99ad73e10664/89fe27f2-ff0a-4a61-a502-73c2bd05da89_10-iOS-5.5-Notifications.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Locket",
+      "version": "2.45.0",
+      "versionDate": "2026-05-05",
+      "size": 334173688,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.locket.Locket_AutoRcSideload_2.45.0.ipa",
+      "developerName": "Locket Labs, Inc.",
+      "bundleIdentifier": "com.locket.Locket",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/76/50/02765094-9479-ae2e-0c1b-f0a3968c341a/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.45.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Lingora",
       "version": "5.6.5",
       "versionDate": "2026-05-05",
@@ -286,38 +413,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/67/ae/c467ae4a-2bcb-3898-9cf2-d85668e8328d/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/1e/2c/381e2cc8-8670-caff-0c88-b2297e64174a/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "YouTube",
-      "version": "21.18.4",
-      "versionDate": "2026-05-04",
-      "size": 141674285,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.google.ios.youtube_zxPluginsInject_21.18.4.ipa",
-      "developerName": "Google",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/aa/cb/dcaacbd4-f6b3-a6a2-e9de-254f4126ebd8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Locket",
-      "version": "2.44.0",
-      "versionDate": "2026-05-04",
-      "size": 334182196,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.locket.Locket_AutoRcSideload_2.44.0.ipa",
-      "developerName": "Locket Labs, Inc.",
-      "bundleIdentifier": "com.locket.Locket",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fe/bc/7efebc7e-dc30-1c8b-c097-934487461e40/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.44.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -1742,25 +1837,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/88/61/fb88619a-c7c4-c806-0944-2bcfc8f6b5b3/8ea0265f-d0a3-4df2-8ed9-ff9db14e3fab_5.5_Device_3.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ad/4b/bead4bb5-ef7f-9760-b418-0da878527e25/b598d39a-80e0-476f-9173-53ea9d25b2ca_5.5_Device_4.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/37/c6/7e37c6dd-de10-8491-1982-2de1a96f6d6c/1133a01a-1ce5-44f0-a875-a364afd875db_5.5_Device_5.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "MoneyCircle",
-      "version": "3.1.5",
-      "versionDate": "2026-04-28",
-      "size": 13841353,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.genau.MoneyCircle_Sideloadbypass2_3.1.5.ipa",
-      "developerName": "Genau Factory",
-      "bundleIdentifier": "com.genau.MoneyCircle",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/1d/5f/4e1d5f60-6790-ae7e-1380-606373eb9811/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.1.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/44/ecc14476-f47c-191d-d809-690b50fe7f8b/MC-ipad-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/f1/01/a6f1011d-883c-090b-1f15-50413cfa491f/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/2b/6d/952b6ddf-b2c5-3883-eea8-04e413d9548d/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/ec/d9/f9ecd9ab-de26-5df2-3bfd-f6e994f1fe51/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/9d/bc/2f9dbcd5-b5cc-f631-6aaa-6740d8f4e95d/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -3387,30 +3463,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/82/a7/8682a706-d6f2-a4f7-10a4-ff5ca03f729e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @riftysipalibrary |\n----------------\nSummary - AI Note Taker\n\nTweak: Premium Unlocked\n\nVersion: 2.12.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: io.labhouse.audioapp\nDeveloper: Labhouse Mobile",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Facebook",
-      "version": "558.0.0",
-      "versionDate": "2026-04-22",
-      "size": 186294787,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.facebook.Facebook_Glow_558.0.0.ipa",
-      "developerName": "Meta Platforms, Inc.",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/27/ac/5a27acbb-4b2a-8c6f-40e6-c9b5a1aed6b6/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nFacebook\n\nA simple, clean, and powerful tweak for Facebook \n\nGlow settings are available via long press on any tab\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a5/75/7ea575a5-a4cd-a468-f1f4-0bdafcb9251f/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/12/ec/4812ecdc-25dc-c18e-b4dd-3c3321a838e9/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/ee/f1/4feef161-9b45-6714-edb0-703c18d2516d/0130e841-7bad-4f8c-83c9-61ea0bac7d7b_3-iOS-5.5-Stories.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/72/17/e97217ee-71f6-0d19-367c-bb6797123ba8/9b761f68-4cd1-4c66-b5f2-76de4f58005f_4-iOS-5.5-Groups.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/1d/bd/361dbd6c-5aa5-d16f-01ad-fa30d23979c4/68c29824-a52c-4766-8aea-0a70c7a2f86f_5-iOS-5.5-Profile.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/40/c6/4a40c6a9-716a-817e-544b-b47314896ecf/28ff37e9-d855-4e6e-a8b4-fb2d585bb9ca_6-iOS-5.5-Marketplace.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/88/19/6588196b-f912-e376-f56d-89680c7d2e39/691c88f4-f976-46bb-92e1-5f088e8aa47f_7-iOS-5.5-Share.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/46/36/48463671-5953-68ac-b97c-b97a6d6cc3ce/d49c0719-9500-4504-8a4c-3124b914bafa_8-iOS-5.5-Search_with_AI.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/e3/c6/05e3c610-6058-7113-d784-7432f93b4725/ee650e7b-1eaa-4de6-81a2-0b35dac16446_9-iOS-5.5-Write_with_AI.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/66/84/6f668470-ef8e-be27-90b8-99ad73e10664/89fe27f2-ff0a-4a61-a502-73c2bd05da89_10-iOS-5.5-Notifications.png/1320x2868bb.png"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
