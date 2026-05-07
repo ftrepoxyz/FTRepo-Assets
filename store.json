@@ -1577,6 +1577,28 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.11.ipa"
     },
     {
+      "name": "Au",
+      "bundleIdentifier": "org.reactjs.native.prod.AuReactNativeApp",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @glesign |\n----------------\nАукцион Au.ru v223.0\n\n🇷🇺 Приложение Авито\n— Удалённое приложение из AppStore\n© Создано: GLESign\n\n🇺🇸 Avito Application\n— Removed app from AppStore\n© Created: GLESign",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "223.0",
+          "date": "2026-05-07",
+          "size": 381368830,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/org.reactjs.native.prod.AuReactNativeApp_223.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "223.0",
+      "versionDate": "2026-05-07T19:41:15.574Z",
+      "size": 381368830,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/org.reactjs.native.prod.AuReactNativeApp_223.0.ipa"
+    },
+    {
       "name": "ParrotPal",
       "bundleIdentifier": "ai.parrotpal",
       "developerName": "Scott Flear",
@@ -5025,7 +5047,7 @@
       "bundleIdentifier": "pinterest",
       "developerName": "Pinterest",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/32/df/9532df9f-b41b-6d94-088d-1b927ab32d23/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPinterest\n\nTweak: Download Videos, Sponsored Pins Removed\n\nVersion: 14.17\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: pinterest\nDeveloper: Pinterest",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPinterest\n\nTweak: Download Videos, Sponsored Pins Removed\n\nVersion: 14.17.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: pinterest\nDeveloper: Pinterest",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/0f/02/950f02d2-7902-bd15-bb7f-6f557ae8976f/260106_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Beauty_InclusiveAI_4.png/1320x2868bb.png"
@@ -5056,6 +5078,12 @@
       ],
       "versions": [
         {
+          "version": "14.17.1",
+          "date": "2026-05-07",
+          "size": 126999403,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/pinterest_Sideloadbypass2_14.17.1.ipa"
+        },
+        {
           "version": "14.17",
           "date": "2026-05-06",
           "size": 127000232,
@@ -5066,19 +5094,13 @@
           "date": "2026-04-29",
           "size": 120370384,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/pinterest_Sideloadbypass2_14.16.ipa"
-        },
-        {
-          "version": "14.14",
-          "date": "2026-04-15",
-          "size": 119847912,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/pinterest_Sideloadbypass2_14.14.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "14.17",
-      "versionDate": "2026-05-06T16:41:18.661Z",
-      "size": 127000232,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/pinterest_Sideloadbypass2_14.17.ipa"
+      "version": "14.17.1",
+      "versionDate": "2026-05-07T16:40:41.274Z",
+      "size": 126999403,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/pinterest_Sideloadbypass2_14.17.1.ipa"
     },
     {
       "name": "Snapchat",
@@ -8829,7 +8851,7 @@
       "bundleIdentifier": "com.carlosribas.HoursTrackerLite",
       "developerName": "Cribasoft, LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/27/75/9b2775ea-0db1-8a4d-0fc4-9e27f2f54672/HoursTrackerMainIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nHours Tracker: Time Tracking\n\nTweak: Premium Unlocked\n\nVersion: 8.2.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.2\nBundle ID: com.carlosribas.HoursTrackerLite\nDeveloper: Cribasoft, LLC",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nHours Tracker: Time Tracking\n\nTweak: Premium Unlocked\n\nVersion: 8.2.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.2\nBundle ID: com.carlosribas.HoursTrackerLite\nDeveloper: Cribasoft, LLC",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/36/fe/4136fe35-9baa-2b92-0fec-57272c6a9ea1/b90fdbb2-149f-4faf-907b-1e2900d6766c_updated-features.png/1320x2868bb.png"
@@ -8876,6 +8898,12 @@
       ],
       "versions": [
         {
+          "version": "8.2.3",
+          "date": "2026-05-07",
+          "size": 32112351,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.carlosribas.HoursTrackerLite_Sideloadbypass2_8.2.3.ipa"
+        },
+        {
           "version": "8.2.2",
           "date": "2026-04-25",
           "size": 32112732,
@@ -8883,10 +8911,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.2.2",
-      "versionDate": "2026-04-25T22:38:41.915Z",
-      "size": 32112732,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-25/com.carlosribas.HoursTrackerLite_Sideloadbypass2_8.2.2.ipa"
+      "version": "8.2.3",
+      "versionDate": "2026-05-07T19:41:21.844Z",
+      "size": 32112351,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.carlosribas.HoursTrackerLite_Sideloadbypass2_8.2.3.ipa"
     },
     {
       "name": "Widgetsmith",
@@ -21023,6 +21051,82 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-06/com.easygames.race_racemaster_3.9.1.ipa"
     },
     {
+      "name": "BoldVoice",
+      "bundleIdentifier": "com.wellocution.iosapp",
+      "developerName": "Wellocution Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/6e/5b/fc6e5bb5-ec21-a745-565b-6b88e0756a67/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.8.8\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/cb/5d/93cb5d0d-31a8-9ad3-5d1f-9c755382d06d/BoldVoice_iPad_Color_-_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/77/34/dd773483-f2d0-9635-0430-8b457cf7b11a/BoldVoice_iPad_Color_-_6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/fc/60/00fc6049-fcc7-a7e5-f3d9-f9e5634b136b/BoldVoice_iPad_Color_-_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/41/fa/a741fad5-063c-f519-167f-5f2b594dcc30/BoldVoice_iPad_Color_-_7.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/b9/47/9bb9471e-984d-c745-6d71-b8c34c50fe98/BoldVoice_iPad_Color_-_4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c6/29/34c6295c-05e4-e737-409f-92a9d30b4de6/BoldVoice_iPad_Color_-_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/94/d0/8194d08e-efa7-d73d-0908-1872edbf2280/BoldVoice_iPad_Color_-_9.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/58/00/c5580094-a044-4744-b92f-d4d2c3dc7681/BoldVoice_iPad_Color_-_8.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d2/dc/f5d2dc91-eb01-95ad-d559-e9c426456ccb/BoldVoice_iPad_Light_-_10.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/cb/5d/93cb5d0d-31a8-9ad3-5d1f-9c755382d06d/BoldVoice_iPad_Color_-_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/77/34/dd773483-f2d0-9635-0430-8b457cf7b11a/BoldVoice_iPad_Color_-_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/fc/60/00fc6049-fcc7-a7e5-f3d9-f9e5634b136b/BoldVoice_iPad_Color_-_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/41/fa/a741fad5-063c-f519-167f-5f2b594dcc30/BoldVoice_iPad_Color_-_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/b9/47/9bb9471e-984d-c745-6d71-b8c34c50fe98/BoldVoice_iPad_Color_-_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c6/29/34c6295c-05e4-e737-409f-92a9d30b4de6/BoldVoice_iPad_Color_-_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/94/d0/8194d08e-efa7-d73d-0908-1872edbf2280/BoldVoice_iPad_Color_-_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/58/00/c5580094-a044-4744-b92f-d4d2c3dc7681/BoldVoice_iPad_Color_-_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d2/dc/f5d2dc91-eb01-95ad-d559-e9c426456ccb/BoldVoice_iPad_Light_-_10.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.8.8",
+          "date": "2026-05-07",
+          "size": 121098478,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.wellocution.iosapp_BoldVoice_3.8.8.ipa"
+        },
+        {
+          "version": "3.8.5",
+          "date": "2026-05-02",
+          "size": 120227627,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.wellocution.iosapp_BoldVoice_3.8.5.ipa"
+        },
+        {
+          "version": "3.8.2",
+          "date": "2026-04-29",
+          "size": 147644331,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.wellocution.iosapp_BoldVoice_3.8.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.8.8",
+      "versionDate": "2026-05-07T19:40:41.194Z",
+      "size": 121098478,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.wellocution.iosapp_BoldVoice_3.8.8.ipa"
+    },
+    {
       "name": "Tripsy",
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
@@ -21093,82 +21197,6 @@
       "versionDate": "2026-04-23T01:15:55.250Z",
       "size": 137063369,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/app.tripsy.ios_Tripsy_3.8.6.ipa"
-    },
-    {
-      "name": "BoldVoice",
-      "bundleIdentifier": "com.wellocution.iosapp",
-      "developerName": "Wellocution Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/6e/5b/fc6e5bb5-ec21-a745-565b-6b88e0756a67/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.8.5\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/cb/5d/93cb5d0d-31a8-9ad3-5d1f-9c755382d06d/BoldVoice_iPad_Color_-_2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/77/34/dd773483-f2d0-9635-0430-8b457cf7b11a/BoldVoice_iPad_Color_-_6.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/fc/60/00fc6049-fcc7-a7e5-f3d9-f9e5634b136b/BoldVoice_iPad_Color_-_3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/41/fa/a741fad5-063c-f519-167f-5f2b594dcc30/BoldVoice_iPad_Color_-_7.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/b9/47/9bb9471e-984d-c745-6d71-b8c34c50fe98/BoldVoice_iPad_Color_-_4.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c6/29/34c6295c-05e4-e737-409f-92a9d30b4de6/BoldVoice_iPad_Color_-_5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/94/d0/8194d08e-efa7-d73d-0908-1872edbf2280/BoldVoice_iPad_Color_-_9.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/58/00/c5580094-a044-4744-b92f-d4d2c3dc7681/BoldVoice_iPad_Color_-_8.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d2/dc/f5d2dc91-eb01-95ad-d559-e9c426456ccb/BoldVoice_iPad_Light_-_10.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/cb/5d/93cb5d0d-31a8-9ad3-5d1f-9c755382d06d/BoldVoice_iPad_Color_-_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/77/34/dd773483-f2d0-9635-0430-8b457cf7b11a/BoldVoice_iPad_Color_-_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/fc/60/00fc6049-fcc7-a7e5-f3d9-f9e5634b136b/BoldVoice_iPad_Color_-_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/41/fa/a741fad5-063c-f519-167f-5f2b594dcc30/BoldVoice_iPad_Color_-_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/b9/47/9bb9471e-984d-c745-6d71-b8c34c50fe98/BoldVoice_iPad_Color_-_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c6/29/34c6295c-05e4-e737-409f-92a9d30b4de6/BoldVoice_iPad_Color_-_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/94/d0/8194d08e-efa7-d73d-0908-1872edbf2280/BoldVoice_iPad_Color_-_9.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/58/00/c5580094-a044-4744-b92f-d4d2c3dc7681/BoldVoice_iPad_Color_-_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d2/dc/f5d2dc91-eb01-95ad-d559-e9c426456ccb/BoldVoice_iPad_Light_-_10.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "3.8.5",
-          "date": "2026-05-02",
-          "size": 120227627,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.wellocution.iosapp_BoldVoice_3.8.5.ipa"
-        },
-        {
-          "version": "3.8.2",
-          "date": "2026-04-29",
-          "size": 147644331,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.wellocution.iosapp_BoldVoice_3.8.2.ipa"
-        },
-        {
-          "version": "3.7.9",
-          "date": "2026-04-22",
-          "size": 147738063,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.wellocution.iosapp_BoldVoice_3.7.9.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.8.5",
-      "versionDate": "2026-05-02T22:39:57.717Z",
-      "size": 120227627,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.wellocution.iosapp_BoldVoice_3.8.5.ipa"
     },
     {
       "name": "Offline Music",
