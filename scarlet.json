@@ -5,6 +5,78 @@
   },
   "data": [
     {
+      "name": "Persona",
+      "version": "1.15.28",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-08/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.28.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.tickettothemoon.video.persona",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1a/3a/a71a3a8f-0a9b-7249-709d-5df0f1c5b0ee/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nPersona: Beauty Camera\n\nTweak: Subscription Unlocked\n\nVersion: 1.15.28\n\nNotes: Restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.tickettothemoon.video.persona\nDeveloper: Ticket To The Moon, Inc.",
+      "developer": "Ticket To The Moon, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/06/4a/9e064a49-7c60-2b22-93cd-2055dee05b18/3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/11/42/9911429c-4c98-d672-5c8c-115fac2b2ab7/2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/d1/d2/f6d1d2c8-20f1-c6d0-fc58-aa70d59fd327/4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/41/8a/54418a73-95e1-f4c1-f44d-fc558f6de10c/8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/25/f8/9325f896-d49a-28a8-81ba-fb889ac2ccb6/6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/fc/51/d0fc51a4-f1e3-3550-2695-3819d16ab84e/7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/d7/52/ecd75218-e2cf-6b42-2576-0a5cfb85b27f/9.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Paste",
+      "version": "6.5.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-08/com.wiheads.paste_Paste_6.5.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.wiheads.paste",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/84/f5/b584f5f4-4214-28ec-fa73-9d40ffdba0bc/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nPaste – Limitless Clipboard\n\n• Bundle ID: com.wiheads.paste\n• Updated to: 6.5.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nThe app works properly when installed with a dev/dist certificate that has App Groups set up correctly.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Paste Team",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/34/3a/f6343ada-8d5a-247b-73e6-42a697a58491/iphone_-_screen_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/fd/40/6afd40a5-f832-bb75-1593-a613599789fc/iphone_-_screen_2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/05/22/2f0522bd-55f2-7b02-faf3-c6760eea65c1/iphone_-_screen_3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/1c/9a/e11c9a2d-fd85-af06-1ae6-c8d59948e06c/iphone_-_screen_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/71/02/26710201-bc03-4b6e-8d27-ed0e71535931/iphone_-_screen_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/fd/d1/4dfdd12f-e65b-906f-474c-513f7a55e353/iphone_-_screen_6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/d1/e5/72d1e5ab-5c5b-14fa-aec2-b72bbb568378/iphone_-_screen_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ab/3e/f5ab3ef5-6c32-bfed-9728-2641013e77f3/iphone_-_screen_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/c8/0c/dac80c4a-950a-cd65-ad2b-a9bfe6da3c07/iphone_-_screen_9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/f4/4b/67f44b5f-e7be-48e1-d337-04d9a4a63c3a/ipad_-_screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/6a/1d/436a1d89-c3e2-51a6-1dd1-a17da3aa6c37/ipad_-_screen_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d1/d3/a3d1d31b-036d-7615-67eb-fd2fab66913a/ipad_-_screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/5c/4e/ea5c4e76-47dc-73fa-3d0e-c08f43ed5af4/ipad_-_screen_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/97/47/5a9747a2-f9ae-c689-01a0-fe4efab15e63/ipad_-_screen_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/f8/6e/00f86ec8-9dfd-4e03-849f-1e9a73051bc5/ipad_-_screen_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/ba/aa/afbaaa07-bfcc-c7f8-1e72-38f03041131a/ipad_-_screen_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/1a/04/cb1a04a7-ac0a-b50f-1969-ed869dec9fca/ipad_-_screen_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/c5/5b/35c55bbf-5385-23ff-3d1c-4115246e511e/ipad_-_screen_9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/3c/92/cb3c92d2-a80f-c75e-a8d5-c0acfb13585e/mac_-_screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/66/b8/4b66b8e9-8585-5b4b-ae3f-2c0a251238f8/mac_-_screen_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/55/c0/6455c087-0124-51be-2039-d19fce37c50e/mac_-_screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/97/5c/e7975ca8-4aff-f337-3e07-dc6628b99e69/mac_-_screen_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/47/bb/b547bbd7-7e86-3cde-2747-d79d378bae86/mac_-_screen_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/1c/17/7b1c170e-88e2-a0b4-8844-8e85884f46c2/mac_-_screen_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/0f/84/020f84e4-85fb-fc4c-a9e3-a699fb879e02/mac_-_screen_7.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Voloco",
       "version": "9.15.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-08/com.resonantcavity.Voloco_popuprifty_9.15.0.ipa",
@@ -1948,50 +2020,6 @@
       }
     },
     {
-      "name": "Paste",
-      "version": "6.5.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.wiheads.paste_Paste_6.5.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.wiheads.paste",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/84/f5/b584f5f4-4214-28ec-fa73-9d40ffdba0bc/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nPaste – Limitless Clipboard\n\n• Bundle ID: com.wiheads.paste\n• Updated to: 6.5.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nThe app works properly when installed with a dev/dist certificate that has App Groups set up correctly.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Paste Team",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/34/3a/f6343ada-8d5a-247b-73e6-42a697a58491/iphone_-_screen_1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/fd/40/6afd40a5-f832-bb75-1593-a613599789fc/iphone_-_screen_2.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/05/22/2f0522bd-55f2-7b02-faf3-c6760eea65c1/iphone_-_screen_3.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/1c/9a/e11c9a2d-fd85-af06-1ae6-c8d59948e06c/iphone_-_screen_4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/71/02/26710201-bc03-4b6e-8d27-ed0e71535931/iphone_-_screen_5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/fd/d1/4dfdd12f-e65b-906f-474c-513f7a55e353/iphone_-_screen_6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/d1/e5/72d1e5ab-5c5b-14fa-aec2-b72bbb568378/iphone_-_screen_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ab/3e/f5ab3ef5-6c32-bfed-9728-2641013e77f3/iphone_-_screen_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/c8/0c/dac80c4a-950a-cd65-ad2b-a9bfe6da3c07/iphone_-_screen_9.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/f4/4b/67f44b5f-e7be-48e1-d337-04d9a4a63c3a/ipad_-_screen_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/6a/1d/436a1d89-c3e2-51a6-1dd1-a17da3aa6c37/ipad_-_screen_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d1/d3/a3d1d31b-036d-7615-67eb-fd2fab66913a/ipad_-_screen_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/5c/4e/ea5c4e76-47dc-73fa-3d0e-c08f43ed5af4/ipad_-_screen_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/97/47/5a9747a2-f9ae-c689-01a0-fe4efab15e63/ipad_-_screen_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/f8/6e/00f86ec8-9dfd-4e03-849f-1e9a73051bc5/ipad_-_screen_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/ba/aa/afbaaa07-bfcc-c7f8-1e72-38f03041131a/ipad_-_screen_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/1a/04/cb1a04a7-ac0a-b50f-1969-ed869dec9fca/ipad_-_screen_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/c5/5b/35c55bbf-5385-23ff-3d1c-4115246e511e/ipad_-_screen_9.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/3c/92/cb3c92d2-a80f-c75e-a8d5-c0acfb13585e/mac_-_screen_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/66/b8/4b66b8e9-8585-5b4b-ae3f-2c0a251238f8/mac_-_screen_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/55/c0/6455c087-0124-51be-2039-d19fce37c50e/mac_-_screen_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/97/5c/e7975ca8-4aff-f337-3e07-dc6628b99e69/mac_-_screen_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/47/bb/b547bbd7-7e86-3cde-2747-d79d378bae86/mac_-_screen_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/1c/17/7b1c170e-88e2-a0b4-8844-8e85884f46c2/mac_-_screen_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/0f/84/020f84e4-85fb-fc4c-a9e3-a699fb879e02/mac_-_screen_7.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Unzip",
       "version": "5.14",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.cuilingshi.fileextract_UnzipPatch_5.14.ipa",
@@ -3389,34 +3417,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/91/c9/6d91c973-871e-9875-1690-28a3f0e51000/4.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c6/5d/12c65d16-ee1c-4e8e-3048-355399f4eb57/5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/2e/c4/5f2ec4d8-2e9f-8bfe-ec4c-1c7527821b52/6.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Persona",
-      "version": "1.15.24",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.tickettothemoon.video.persona_RevenueCatFix26_1.15.24.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.tickettothemoon.video.persona",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1a/3a/a71a3a8f-0a9b-7249-709d-5df0f1c5b0ee/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nPersona: Beauty Camera\n\nVIP features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "developer": "Ticket To The Moon, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/06/4a/9e064a49-7c60-2b22-93cd-2055dee05b18/3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/11/42/9911429c-4c98-d672-5c8c-115fac2b2ab7/2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/d1/d2/f6d1d2c8-20f1-c6d0-fc58-aa70d59fd327/4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/41/8a/54418a73-95e1-f4c1-f44d-fc558f6de10c/8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/25/f8/9325f896-d49a-28a8-81ba-fb889ac2ccb6/6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/fc/51/d0fc51a4-f1e3-3550-2695-3819d16ab84e/7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/d7/52/ecd75218-e2cf-6b42-2576-0a5cfb85b27f/9.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
