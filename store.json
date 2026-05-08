@@ -11701,6 +11701,142 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-30/com.sfun.snapedit_SnapEdit_6.5.6.ipa"
     },
     {
+      "name": "Paste",
+      "bundleIdentifier": "com.wiheads.paste",
+      "developerName": "Paste Team",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/84/f5/b584f5f4-4214-28ec-fa73-9d40ffdba0bc/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPaste – Limitless Clipboard\n\n• Bundle ID: com.wiheads.paste\n• Updated to: 6.5.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nThe app works properly when installed with a dev/dist certificate that has App Groups set up correctly.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/34/3a/f6343ada-8d5a-247b-73e6-42a697a58491/iphone_-_screen_1.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/fd/40/6afd40a5-f832-bb75-1593-a613599789fc/iphone_-_screen_2.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/05/22/2f0522bd-55f2-7b02-faf3-c6760eea65c1/iphone_-_screen_3.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/1c/9a/e11c9a2d-fd85-af06-1ae6-c8d59948e06c/iphone_-_screen_4.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/71/02/26710201-bc03-4b6e-8d27-ed0e71535931/iphone_-_screen_5.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/fd/d1/4dfdd12f-e65b-906f-474c-513f7a55e353/iphone_-_screen_6.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/d1/e5/72d1e5ab-5c5b-14fa-aec2-b72bbb568378/iphone_-_screen_7.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ab/3e/f5ab3ef5-6c32-bfed-9728-2641013e77f3/iphone_-_screen_8.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/c8/0c/dac80c4a-950a-cd65-ad2b-a9bfe6da3c07/iphone_-_screen_9.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/f4/4b/67f44b5f-e7be-48e1-d337-04d9a4a63c3a/ipad_-_screen_1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/6a/1d/436a1d89-c3e2-51a6-1dd1-a17da3aa6c37/ipad_-_screen_2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d1/d3/a3d1d31b-036d-7615-67eb-fd2fab66913a/ipad_-_screen_3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/5c/4e/ea5c4e76-47dc-73fa-3d0e-c08f43ed5af4/ipad_-_screen_4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/97/47/5a9747a2-f9ae-c689-01a0-fe4efab15e63/ipad_-_screen_5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/f8/6e/00f86ec8-9dfd-4e03-849f-1e9a73051bc5/ipad_-_screen_6.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/ba/aa/afbaaa07-bfcc-c7f8-1e72-38f03041131a/ipad_-_screen_7.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/1a/04/cb1a04a7-ac0a-b50f-1969-ed869dec9fca/ipad_-_screen_8.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/c5/5b/35c55bbf-5385-23ff-3d1c-4115246e511e/ipad_-_screen_9.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/3c/92/cb3c92d2-a80f-c75e-a8d5-c0acfb13585e/mac_-_screen_1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/66/b8/4b66b8e9-8585-5b4b-ae3f-2c0a251238f8/mac_-_screen_2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/55/c0/6455c087-0124-51be-2039-d19fce37c50e/mac_-_screen_3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/97/5c/e7975ca8-4aff-f337-3e07-dc6628b99e69/mac_-_screen_4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/47/bb/b547bbd7-7e86-3cde-2747-d79d378bae86/mac_-_screen_5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/1c/17/7b1c170e-88e2-a0b4-8844-8e85884f46c2/mac_-_screen_6.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/0f/84/020f84e4-85fb-fc4c-a9e3-a699fb879e02/mac_-_screen_7.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/34/3a/f6343ada-8d5a-247b-73e6-42a697a58491/iphone_-_screen_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/fd/40/6afd40a5-f832-bb75-1593-a613599789fc/iphone_-_screen_2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/05/22/2f0522bd-55f2-7b02-faf3-c6760eea65c1/iphone_-_screen_3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/1c/9a/e11c9a2d-fd85-af06-1ae6-c8d59948e06c/iphone_-_screen_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/71/02/26710201-bc03-4b6e-8d27-ed0e71535931/iphone_-_screen_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/fd/d1/4dfdd12f-e65b-906f-474c-513f7a55e353/iphone_-_screen_6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/d1/e5/72d1e5ab-5c5b-14fa-aec2-b72bbb568378/iphone_-_screen_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ab/3e/f5ab3ef5-6c32-bfed-9728-2641013e77f3/iphone_-_screen_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/c8/0c/dac80c4a-950a-cd65-ad2b-a9bfe6da3c07/iphone_-_screen_9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/f4/4b/67f44b5f-e7be-48e1-d337-04d9a4a63c3a/ipad_-_screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/6a/1d/436a1d89-c3e2-51a6-1dd1-a17da3aa6c37/ipad_-_screen_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d1/d3/a3d1d31b-036d-7615-67eb-fd2fab66913a/ipad_-_screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/5c/4e/ea5c4e76-47dc-73fa-3d0e-c08f43ed5af4/ipad_-_screen_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/97/47/5a9747a2-f9ae-c689-01a0-fe4efab15e63/ipad_-_screen_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/f8/6e/00f86ec8-9dfd-4e03-849f-1e9a73051bc5/ipad_-_screen_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/ba/aa/afbaaa07-bfcc-c7f8-1e72-38f03041131a/ipad_-_screen_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/1a/04/cb1a04a7-ac0a-b50f-1969-ed869dec9fca/ipad_-_screen_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/c5/5b/35c55bbf-5385-23ff-3d1c-4115246e511e/ipad_-_screen_9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/3c/92/cb3c92d2-a80f-c75e-a8d5-c0acfb13585e/mac_-_screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/66/b8/4b66b8e9-8585-5b4b-ae3f-2c0a251238f8/mac_-_screen_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/55/c0/6455c087-0124-51be-2039-d19fce37c50e/mac_-_screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/97/5c/e7975ca8-4aff-f337-3e07-dc6628b99e69/mac_-_screen_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/47/bb/b547bbd7-7e86-3cde-2747-d79d378bae86/mac_-_screen_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/1c/17/7b1c170e-88e2-a0b4-8844-8e85884f46c2/mac_-_screen_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/0f/84/020f84e4-85fb-fc4c-a9e3-a699fb879e02/mac_-_screen_7.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "6.5.2",
+          "date": "2026-05-08",
+          "size": 135577708,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-08/com.wiheads.paste_Paste_6.5.2.ipa"
+        },
+        {
+          "version": "6.5.1",
+          "date": "2026-05-01",
+          "size": 135042296,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.wiheads.paste_Paste_6.5.1.ipa"
+        },
+        {
+          "version": "6.4.0",
+          "date": "2026-03-28",
+          "size": 117772844,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.wiheads.paste_Paste_6.4.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.5.2",
+      "versionDate": "2026-05-08T07:40:47.610Z",
+      "size": 135577708,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-08/com.wiheads.paste_Paste_6.5.2.ipa"
+    },
+    {
       "name": "Alpha Progr.",
       "bundleIdentifier": "com.alphaprogression.alphaprogression",
       "developerName": "Alpha Progression GmbH",
@@ -11817,142 +11953,6 @@
       "versionDate": "2026-05-06T19:40:39.916Z",
       "size": 68971979,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.365scores.365scroesapp_Sideloadbypass2_6.5.1.ipa"
-    },
-    {
-      "name": "Paste",
-      "bundleIdentifier": "com.wiheads.paste",
-      "developerName": "Paste Team",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/84/f5/b584f5f4-4214-28ec-fa73-9d40ffdba0bc/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPaste – Limitless Clipboard\n\n• Bundle ID: com.wiheads.paste\n• Updated to: 6.5.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nThe app works properly when installed with a dev/dist certificate that has App Groups set up correctly.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/34/3a/f6343ada-8d5a-247b-73e6-42a697a58491/iphone_-_screen_1.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/fd/40/6afd40a5-f832-bb75-1593-a613599789fc/iphone_-_screen_2.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/05/22/2f0522bd-55f2-7b02-faf3-c6760eea65c1/iphone_-_screen_3.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/1c/9a/e11c9a2d-fd85-af06-1ae6-c8d59948e06c/iphone_-_screen_4.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/71/02/26710201-bc03-4b6e-8d27-ed0e71535931/iphone_-_screen_5.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/fd/d1/4dfdd12f-e65b-906f-474c-513f7a55e353/iphone_-_screen_6.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/d1/e5/72d1e5ab-5c5b-14fa-aec2-b72bbb568378/iphone_-_screen_7.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ab/3e/f5ab3ef5-6c32-bfed-9728-2641013e77f3/iphone_-_screen_8.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/c8/0c/dac80c4a-950a-cd65-ad2b-a9bfe6da3c07/iphone_-_screen_9.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/f4/4b/67f44b5f-e7be-48e1-d337-04d9a4a63c3a/ipad_-_screen_1.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/6a/1d/436a1d89-c3e2-51a6-1dd1-a17da3aa6c37/ipad_-_screen_2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d1/d3/a3d1d31b-036d-7615-67eb-fd2fab66913a/ipad_-_screen_3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/5c/4e/ea5c4e76-47dc-73fa-3d0e-c08f43ed5af4/ipad_-_screen_4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/97/47/5a9747a2-f9ae-c689-01a0-fe4efab15e63/ipad_-_screen_5.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/f8/6e/00f86ec8-9dfd-4e03-849f-1e9a73051bc5/ipad_-_screen_6.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/ba/aa/afbaaa07-bfcc-c7f8-1e72-38f03041131a/ipad_-_screen_7.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/1a/04/cb1a04a7-ac0a-b50f-1969-ed869dec9fca/ipad_-_screen_8.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/c5/5b/35c55bbf-5385-23ff-3d1c-4115246e511e/ipad_-_screen_9.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/3c/92/cb3c92d2-a80f-c75e-a8d5-c0acfb13585e/mac_-_screen_1.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/66/b8/4b66b8e9-8585-5b4b-ae3f-2c0a251238f8/mac_-_screen_2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/55/c0/6455c087-0124-51be-2039-d19fce37c50e/mac_-_screen_3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/97/5c/e7975ca8-4aff-f337-3e07-dc6628b99e69/mac_-_screen_4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/47/bb/b547bbd7-7e86-3cde-2747-d79d378bae86/mac_-_screen_5.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/1c/17/7b1c170e-88e2-a0b4-8844-8e85884f46c2/mac_-_screen_6.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/0f/84/020f84e4-85fb-fc4c-a9e3-a699fb879e02/mac_-_screen_7.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/34/3a/f6343ada-8d5a-247b-73e6-42a697a58491/iphone_-_screen_1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/fd/40/6afd40a5-f832-bb75-1593-a613599789fc/iphone_-_screen_2.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/05/22/2f0522bd-55f2-7b02-faf3-c6760eea65c1/iphone_-_screen_3.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/1c/9a/e11c9a2d-fd85-af06-1ae6-c8d59948e06c/iphone_-_screen_4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/71/02/26710201-bc03-4b6e-8d27-ed0e71535931/iphone_-_screen_5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/fd/d1/4dfdd12f-e65b-906f-474c-513f7a55e353/iphone_-_screen_6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/d1/e5/72d1e5ab-5c5b-14fa-aec2-b72bbb568378/iphone_-_screen_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ab/3e/f5ab3ef5-6c32-bfed-9728-2641013e77f3/iphone_-_screen_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/c8/0c/dac80c4a-950a-cd65-ad2b-a9bfe6da3c07/iphone_-_screen_9.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/f4/4b/67f44b5f-e7be-48e1-d337-04d9a4a63c3a/ipad_-_screen_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/6a/1d/436a1d89-c3e2-51a6-1dd1-a17da3aa6c37/ipad_-_screen_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d1/d3/a3d1d31b-036d-7615-67eb-fd2fab66913a/ipad_-_screen_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/5c/4e/ea5c4e76-47dc-73fa-3d0e-c08f43ed5af4/ipad_-_screen_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/97/47/5a9747a2-f9ae-c689-01a0-fe4efab15e63/ipad_-_screen_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/f8/6e/00f86ec8-9dfd-4e03-849f-1e9a73051bc5/ipad_-_screen_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/ba/aa/afbaaa07-bfcc-c7f8-1e72-38f03041131a/ipad_-_screen_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/1a/04/cb1a04a7-ac0a-b50f-1969-ed869dec9fca/ipad_-_screen_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/c5/5b/35c55bbf-5385-23ff-3d1c-4115246e511e/ipad_-_screen_9.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/3c/92/cb3c92d2-a80f-c75e-a8d5-c0acfb13585e/mac_-_screen_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/66/b8/4b66b8e9-8585-5b4b-ae3f-2c0a251238f8/mac_-_screen_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/55/c0/6455c087-0124-51be-2039-d19fce37c50e/mac_-_screen_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/97/5c/e7975ca8-4aff-f337-3e07-dc6628b99e69/mac_-_screen_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/47/bb/b547bbd7-7e86-3cde-2747-d79d378bae86/mac_-_screen_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/1c/17/7b1c170e-88e2-a0b4-8844-8e85884f46c2/mac_-_screen_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/0f/84/020f84e4-85fb-fc4c-a9e3-a699fb879e02/mac_-_screen_7.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "6.5.1",
-          "date": "2026-05-01",
-          "size": 135042296,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.wiheads.paste_Paste_6.5.1.ipa"
-        },
-        {
-          "version": "6.4.0",
-          "date": "2026-03-28",
-          "size": 117772844,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-28/com.wiheads.paste_Paste_6.4.0.ipa"
-        },
-        {
-          "version": "6.3.12",
-          "date": "2026-03-17",
-          "size": 115043225,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-17/com.wiheads.paste_Paste_6.3.12.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "6.5.1",
-      "versionDate": "2026-05-01T22:40:06.487Z",
-      "size": 135042296,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.wiheads.paste_Paste_6.5.1.ipa"
     },
     {
       "name": "1Blocker",
@@ -29419,7 +29419,7 @@
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1a/3a/a71a3a8f-0a9b-7249-709d-5df0f1c5b0ee/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPersona: Beauty Camera\n\nVIP features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPersona: Beauty Camera\n\nTweak: Subscription Unlocked\n\nVersion: 1.15.28\n\nNotes: Restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.tickettothemoon.video.persona\nDeveloper: Ticket To The Moon, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/1320x2868bb.jpg"
@@ -29462,6 +29462,12 @@
       ],
       "versions": [
         {
+          "version": "1.15.28",
+          "date": "2026-05-08",
+          "size": 170848812,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-08/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.28.ipa"
+        },
+        {
           "version": "1.15.24",
           "date": "2026-04-27",
           "size": 164351977,
@@ -29472,19 +29478,13 @@
           "date": "2026-03-31",
           "size": 169675613,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.14.ipa"
-        },
-        {
-          "version": "1.15.12",
-          "date": "2026-03-25",
-          "size": 164631099,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.12.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.15.24",
-      "versionDate": "2026-04-27T13:43:48.166Z",
-      "size": 164351977,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.tickettothemoon.video.persona_RevenueCatFix26_1.15.24.ipa"
+      "version": "1.15.28",
+      "versionDate": "2026-05-08T07:41:17.557Z",
+      "size": 170848812,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-08/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.28.ipa"
     },
     {
       "name": "Apollo",
