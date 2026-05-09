@@ -5,6 +5,51 @@
   },
   "data": [
     {
+      "name": "‎WhatsApp",
+      "version": "26.18.10",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/net.whatsapp.WhatsApp_BlockWAUpdates_26.18.10.ipa",
+      "category": "Tweaked",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/c4/85/4dc485a5-2546-28a5-60f3-a02a8ae0378d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "from @glesign |\n----------------\nWhatsApp v26.18.10 | WGold v2.0\n\n🇷🇺 Современная модификация для WhatsApp\n— Приложение из TestFlight\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted\n\n🇺🇸 Modern modification for WhatsApp\n— The app from TestFlight\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted",
+      "developer": "WhatsApp Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/d6/6d/32d66da5-7bf6-fcfa-1152-cfa1d451a0e7/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/a3/3f/7ba33ffb-8664-6642-b658-376f0ec55534/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/e1/59/a5e159b6-0b4b-519c-5c47-3972a6943a77/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/d2/e5/7fd2e521-9815-cef7-6519-e0385b0fff72/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/9a/30/d39a3022-81fb-de42-fb10-f3e6253130f1/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Bill Tracker",
+      "version": "4.1.86",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.86.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.unofficialcalculators.payplan",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/55/b7/0155b7a8-eb27-c6c6-4dae-deb7b9fbb1e1/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.86\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "developer": "Bill Tracker Pro, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/02/6b/6a026b90-9f44-1b45-d5e4-8cf4d9ec16af/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/d5/a0/98d5a045-bc60-d23c-f4a8-e5968b95c478/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_08.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Block Blast!",
       "version": "7.0.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._7.0.3.ipa",
@@ -876,27 +921,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Bill Tracker",
-      "version": "4.1.85",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.85.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.unofficialcalculators.payplan",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/55/b7/0155b7a8-eb27-c6c6-4dae-deb7b9fbb1e1/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.85\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
-      "developer": "Bill Tracker Pro, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/02/6b/6a026b90-9f44-1b45-d5e4-8cf4d9ec16af/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/d5/a0/98d5a045-bc60-d23c-f4a8-e5968b95c478/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_08.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -11059,30 +11083,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/92/23/10922357-d13b-a449-510b-a51d61e56e26/69589642-e62b-4aa4-9d29-db31a56aec37_8.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/f0/30/77f0307b-26e6-c843-762d-12c565aa8ad0/c594249a-5fb7-443b-9015-361ef1543f74_9.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/8d/e2/d38de25a-2ccc-70c8-42fa-d8d3e7ab4947/5e2e81cd-f850-4cf4-970a-01d8e840c6dc_10.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "‎WhatsApp",
-      "version": "26.10.10",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/net.whatsapp.WhatsApp_BlockWAUpdates_26.10.10.ipa",
-      "category": "Tweaked",
-      "bundleID": "net.whatsapp.WhatsApp",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f4/0d/88f40df9-9a8c-235f-dc2c-48c3bd5b4345/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "description": "from @thescholarslounge",
-      "developer": "WhatsApp Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
