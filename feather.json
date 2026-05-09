@@ -11585,6 +11585,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/com.aagame.aagame_popuprifty_7.0.9.ipa"
     },
     {
+      "name": "Block Blast!",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "developerName": "Hungry Studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/90/86/019086cd-bde0-61f8-0fda-c61b63acfb09/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 7.0.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "7.0.3",
+          "date": "2026-05-09",
+          "size": 77224443,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._7.0.3.ipa"
+        },
+        {
+          "version": "7.0.1",
+          "date": "2026-04-29",
+          "size": 76768333,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._7.0.1.ipa"
+        },
+        {
+          "version": "7.0.0",
+          "date": "2026-04-26",
+          "size": 76643766,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._7.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "7.0.3",
+      "versionDate": "2026-05-09T07:41:04.404Z",
+      "size": 77224443,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._7.0.3.ipa"
+    },
+    {
       "name": "Speedtest",
       "bundleIdentifier": "com.ookla.speedtest",
       "developerName": "Ookla",
@@ -11649,40 +11683,6 @@
       "versionDate": "2026-04-29T22:41:08.997Z",
       "size": 55150720,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.ookla.speedtest_SpeedTestPatch_7.0.2.ipa"
-    },
-    {
-      "name": "Block Blast!",
-      "bundleIdentifier": "com.blockpuzzle.us.ios",
-      "developerName": "Hungry Studio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/b1/58/6fb1583d-6e83-7409-5a4a-d78ec2c51a1f/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 7.0.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "7.0.1",
-          "date": "2026-04-29",
-          "size": 76768333,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._7.0.1.ipa"
-        },
-        {
-          "version": "7.0.0",
-          "date": "2026-04-26",
-          "size": 76643766,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._7.0.0.ipa"
-        },
-        {
-          "version": "6.9.7",
-          "date": "2026-04-17",
-          "size": 77303091,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.blockpuzzle.us.ios_Adblock.2_6.9.7.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "7.0.1",
-      "versionDate": "2026-04-29T04:39:33.177Z",
-      "size": 76768333,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.blockpuzzle.us.ios_NetworkBlocker.adblocker._7.0.1.ipa"
     },
     {
       "name": "rPlayer",
@@ -23503,7 +23503,7 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/1d/5f/4e1d5f60-6790-ae7e-1380-606373eb9811/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.1.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.1.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/44/ecc14476-f47c-191d-d809-690b50fe7f8b/MC-ipad-1.png/1320x2868bb.jpg"
@@ -23530,6 +23530,12 @@
       ],
       "versions": [
         {
+          "version": "3.1.9",
+          "date": "2026-05-09",
+          "size": 13891813,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.genau.MoneyCircle_Sideloadbypass2_3.1.9.ipa"
+        },
+        {
           "version": "3.1.8",
           "date": "2026-05-06",
           "size": 13845823,
@@ -23540,19 +23546,13 @@
           "date": "2026-04-28",
           "size": 13841353,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.genau.MoneyCircle_Sideloadbypass2_3.1.5.ipa"
-        },
-        {
-          "version": "3.1.3",
-          "date": "2026-04-25",
-          "size": 13839270,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-25/com.genau.MoneyCircle_Sideloadbypass2_3.1.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.1.8",
-      "versionDate": "2026-05-06T01:40:34.476Z",
-      "size": 13845823,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.genau.MoneyCircle_Sideloadbypass2_3.1.8.ipa"
+      "version": "3.1.9",
+      "versionDate": "2026-05-09T04:40:41.566Z",
+      "size": 13891813,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.genau.MoneyCircle_Sideloadbypass2_3.1.9.ipa"
     },
     {
       "name": "InnerNow",
@@ -28417,7 +28417,7 @@
       "bundleIdentifier": "com.google.gemini",
       "developerName": "Google",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ad/25/c0ad25f5-c5f8-75a3-dcab-3849654e09f8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nGoogle Gemini v1.2026.1710205 | SyntheticHeart v1.1\n\n🇷🇺 Приложение Google Gemini - это ваш персональный, проактивный и мощный ИИ-помощник. С SyntheticHeart вы можете исследовать новые функции еще до того, как они станут официально доступны.\n— Позволяет вручную изменять A/B-флаги\n— Поддерживает экспорт и импорт конфигураций\n— Чтобы открыть настройки, нажмите 3-мя пальцами 2 раза\n— Рекомендуемая конфигурация репликирует нового дизайна\n— Добавлена русская локализация \n© Создано: iOSDecrypted\n\n🇺🇸 Google Gemini app is your personal, proactive and powerful AI Assistant. With SyntheticHeart you can explore new features before they are widely-available.\n— Allows you to manually change A/B flags\n— Has support of Exporting and Importing configurations\n— To open settings, tap with 3-fingers twice\n— Recommended config replicates new redesign\n© Created by: iOSDecrypted",
+      "localizedDescription": "from @glesign |\n----------------\nGoogle Gemini v1.2026.1762302 | SyntheticHeart v1.1\n\n🇷🇺 Приложение Google Gemini - это ваш персональный, проактивный и мощный ИИ-помощник. С SyntheticHeart вы можете исследовать новые функции еще до того, как они станут официально доступны.\n— Позволяет вручную изменять A/B-флаги\n— Поддерживает экспорт и импорт конфигураций\n— Чтобы открыть настройки, нажмите 3-мя пальцами 2 раза\n— Рекомендуемая конфигурация репликирует нового дизайна\n— Добавлена русская локализация \n© Создано: iOSDecrypted\n\n🇺🇸 Google Gemini app is your personal, proactive and powerful AI Assistant. With SyntheticHeart you can explore new features before they are widely-available.\n— Allows you to manually change A/B flags\n— Has support of Exporting and Importing configurations\n— To open settings, tap with 3-fingers twice\n— Recommended config replicates new redesign\n© Created by: iOSDecrypted",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/89/f8/4a89f851-baa1-27a5-0d00-07a10b463e90/APP_IPHONE_65-0.png/1320x2868bb.webp"
@@ -28500,6 +28500,12 @@
       ],
       "versions": [
         {
+          "version": "1.2026.1762302",
+          "date": "2026-05-09",
+          "size": 102808366,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.google.gemini_Sideloadbypass1_1.2026.1762302.ipa"
+        },
+        {
           "version": "1.2026.1710205",
           "date": "2026-05-06",
           "size": 103413190,
@@ -28507,10 +28513,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.2026.1710205",
-      "versionDate": "2026-05-06T04:40:26.353Z",
-      "size": 103413190,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.google.gemini_sideloadKeychainFix_1.2026.1710205.ipa"
+      "version": "1.2026.1762302",
+      "versionDate": "2026-05-09T07:40:52.201Z",
+      "size": 102808366,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.google.gemini_Sideloadbypass1_1.2026.1762302.ipa"
     },
     {
       "name": "Mojo",
