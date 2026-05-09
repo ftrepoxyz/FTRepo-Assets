@@ -2865,6 +2865,62 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-25/com.hiiker.hiiker_Sideloadbypass2_26.43.ipa"
     },
     {
+      "name": "‎WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "WhatsApp Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/c4/85/4dc485a5-2546-28a5-60f3-a02a8ae0378d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nWhatsApp v26.18.10 | WGold v2.0\n\n🇷🇺 Современная модификация для WhatsApp\n— Приложение из TestFlight\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted\n\n🇺🇸 Modern modification for WhatsApp\n— The app from TestFlight\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/d6/6d/32d66da5-7bf6-fcfa-1152-cfa1d451a0e7/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/a3/3f/7ba33ffb-8664-6642-b658-376f0ec55534/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/e1/59/a5e159b6-0b4b-519c-5c47-3972a6943a77/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/d2/e5/7fd2e521-9815-cef7-6519-e0385b0fff72/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/9a/30/d39a3022-81fb-de42-fb10-f3e6253130f1/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/d6/6d/32d66da5-7bf6-fcfa-1152-cfa1d451a0e7/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/a3/3f/7ba33ffb-8664-6642-b658-376f0ec55534/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/e1/59/a5e159b6-0b4b-519c-5c47-3972a6943a77/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/d2/e5/7fd2e521-9815-cef7-6519-e0385b0fff72/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/9a/30/d39a3022-81fb-de42-fb10-f3e6253130f1/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "26.18.10",
+          "date": "2026-05-09",
+          "size": 138860799,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/net.whatsapp.WhatsApp_BlockWAUpdates_26.18.10.ipa"
+        },
+        {
+          "version": "26.10.10",
+          "date": "2026-03-15",
+          "size": 118881769,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-15/net.whatsapp.WhatsApp_BlockWAUpdates_26.10.10.ipa"
+        },
+        {
+          "version": "25.33.10",
+          "date": "2026-03-11",
+          "size": 119851702,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/net.whatsapp.WhatsApp_libsubstrate_25.33.10.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.18.10",
+      "versionDate": "2026-05-09T19:41:00.377Z",
+      "size": 138860799,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/net.whatsapp.WhatsApp_BlockWAUpdates_26.18.10.ipa"
+    },
+    {
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
@@ -3203,56 +3259,6 @@
       "versionDate": "2026-04-21T10:15:37.264Z",
       "size": 89220689,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.truesoftware.TrueCallerOther_Truecaller_26.15.5.ipa"
-    },
-    {
-      "name": "‎WhatsApp WhatsApp (Watusi)",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "WhatsApp Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f4/0d/88f40df9-9a8c-235f-dc2c-48c3bd5b4345/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nWhatsApp v26.13.10 | Watusi v1.3.1\n\n🇷🇺 Взломаная модификация для WhatsApp\n— Приложение из TestFlight\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n— для активации, создайте новый аккаунт в твике и смените язык на любой с Автоматически\n© Создано: iOSDecrypted\n© Взломано: Blatant's iPA Library\n\n🇺🇸 Cracked modification for WhatsApp\n— The app from TestFlight\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n— to activate, make new account in tweak and switch language to any from Auto\n© Created by: iOSDecrypted\n© Cracked by: Blatant's iPA Library",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "26.13.10",
-          "date": "2026-04-02",
-          "size": 145504440,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/net.whatsapp.WhatsApp_WatusiCrack_26.13.10.ipa"
-        },
-        {
-          "version": "26.10.73",
-          "date": "2026-03-18",
-          "size": 137057818,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/net.whatsapp.WhatsApp_Stalky_26.10.73.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.13.10",
-      "versionDate": "2026-04-02T22:01:56.876Z",
-      "size": 145504440,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/net.whatsapp.WhatsApp_WatusiCrack_26.13.10.ipa"
     },
     {
       "name": "PS Express",
@@ -18677,7 +18683,7 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/55/b7/0155b7a8-eb27-c6c6-4dae-deb7b9fbb1e1/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.85\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.86\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/02/6b/6a026b90-9f44-1b45-d5e4-8cf4d9ec16af/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp"
@@ -18692,6 +18698,12 @@
       ],
       "versions": [
         {
+          "version": "4.1.86",
+          "date": "2026-05-09",
+          "size": 148674085,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.86.ipa"
+        },
+        {
           "version": "4.1.85",
           "date": "2026-05-07",
           "size": 148639965,
@@ -18702,19 +18714,13 @@
           "date": "2026-04-28",
           "size": 148588030,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.82.ipa"
-        },
-        {
-          "version": "4.1.81",
-          "date": "2026-04-27",
-          "size": 148589233,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.81.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.85",
-      "versionDate": "2026-05-07T01:40:39.188Z",
-      "size": 148639965,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.85.ipa"
+      "version": "4.1.86",
+      "versionDate": "2026-05-09T16:40:58.569Z",
+      "size": 148674085,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.86.ipa"
     },
     {
       "name": "Stndrd",
@@ -30116,12 +30122,6 @@
           "date": "2026-04-10",
           "size": 20312799,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/ventures.slam.minutes_AutoRcSideload_1.11.ipa"
-        },
-        {
-          "version": "1.10.1",
-          "date": "2026-03-25",
-          "size": 19494701,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-25/ventures.slam.minutes_AutoRcSideload_1.10.1.ipa"
         }
       ],
       "appPermissions": {},
