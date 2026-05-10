@@ -3,6 +3,19 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Phlow",
+      "version": "2.1.10",
+      "versionDate": "2026-05-10",
+      "size": 185910033,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-10/com.app.phlow_Sideloadbypass2_2.1.10.ipa",
+      "developerName": "Phlow, Inc.",
+      "bundleIdentifier": "com.app.phlow",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/25/97/d4259702-29ed-3336-74b7-421b9b834418/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhlow: Camera & Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2.1.10\n\nNotes: press restore purchase\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.2\nBundle ID: com.app.phlow\nDeveloper: Phlow, Inc.",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Picsart",
       "version": "29.9.2",
       "versionDate": "2026-05-09",
