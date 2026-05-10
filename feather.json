@@ -2900,6 +2900,12 @@
       ],
       "versions": [
         {
+          "version": "29.9.2",
+          "date": "2026-05-09",
+          "size": 130252905,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.picsart.studio_Picsart_29.9.2.ipa"
+        },
+        {
           "version": "29.9.1",
           "date": "2026-05-06",
           "size": 112801496,
@@ -2910,19 +2916,13 @@
           "date": "2026-04-19",
           "size": 112437630,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.picsart.studio_Picsart_29.8.2.ipa"
-        },
-        {
-          "version": "29.6.4",
-          "date": "2026-03-29",
-          "size": 100858298,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.picsart.studio_Picsart_29.6.4.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "29.9.1",
-      "versionDate": "2026-05-06T13:40:30.722Z",
-      "size": 112801496,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.picsart.studio_Picsart_29.9.1.ipa"
+      "version": "29.9.2",
+      "versionDate": "2026-05-09T22:40:59.834Z",
+      "size": 130252905,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.picsart.studio_Picsart_29.9.2.ipa"
     },
     {
       "name": "FarmVille 2",
