@@ -11104,11 +11104,17 @@
       "name": "Napper",
       "bundleIdentifier": "com.napper",
       "developerName": "Napper AB",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/5a/d5/fb5ad500-b6d3-584c-a782-5ebb24cd2bc4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nNapper: Baby Sleep Tracker\n\nTweak: Premium Unlocked\n\nVersion: 6.49.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.napper\nDeveloper: Napper AB",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/3d/5c/8b3d5c5b-f501-2528-741f-869cd02f80c0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nNapper: Baby Sleep Tracker\n\nTweak: Premium Unlocked\n\nVersion: 6.50.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.napper\nDeveloper: Napper AB",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "6.50.0",
+          "date": "2026-05-11",
+          "size": 33917066,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.napper_Sideloadbypass2_6.50.0.ipa"
+        },
         {
           "version": "6.49.0",
           "date": "2026-05-06",
@@ -11120,19 +11126,13 @@
           "date": "2026-04-03",
           "size": 32748212,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.napper_Sideloadbypass2_6.43.1.ipa"
-        },
-        {
-          "version": "6.42.0",
-          "date": "2026-03-31",
-          "size": 32503706,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.napper_Sideloadbypass2_6.42.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.49.0",
-      "versionDate": "2026-05-06T07:40:20.095Z",
-      "size": 33635239,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.napper_Sideloadbypass2_6.49.0.ipa"
+      "version": "6.50.0",
+      "versionDate": "2026-05-11T07:41:00.813Z",
+      "size": 33917066,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.napper_Sideloadbypass2_6.50.0.ipa"
     },
     {
       "name": "Sleep Cycle",
@@ -22503,6 +22503,62 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-29/com.widget-kid_Sideloadbypass2_3.2.1.ipa"
     },
     {
+      "name": "MoneyCircle",
+      "bundleIdentifier": "com.genau.MoneyCircle",
+      "developerName": "Genau Factory",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/1d/5f/4e1d5f60-6790-ae7e-1380-606373eb9811/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.2.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/44/ecc14476-f47c-191d-d809-690b50fe7f8b/MC-ipad-1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/f1/01/a6f1011d-883c-090b-1f15-50413cfa491f/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/2b/6d/952b6ddf-b2c5-3883-eea8-04e413d9548d/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/ec/d9/f9ecd9ab-de26-5df2-3bfd-f6e994f1fe51/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/9d/bc/2f9dbcd5-b5cc-f631-6aaa-6740d8f4e95d/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/44/ecc14476-f47c-191d-d809-690b50fe7f8b/MC-ipad-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/f1/01/a6f1011d-883c-090b-1f15-50413cfa491f/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/2b/6d/952b6ddf-b2c5-3883-eea8-04e413d9548d/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/ec/d9/f9ecd9ab-de26-5df2-3bfd-f6e994f1fe51/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/9d/bc/2f9dbcd5-b5cc-f631-6aaa-6740d8f4e95d/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.2.0",
+          "date": "2026-05-11",
+          "size": 13896471,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.genau.MoneyCircle_Sideloadbypass2_3.2.0.ipa"
+        },
+        {
+          "version": "3.1.9",
+          "date": "2026-05-09",
+          "size": 13891813,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.genau.MoneyCircle_Sideloadbypass2_3.1.9.ipa"
+        },
+        {
+          "version": "3.1.8",
+          "date": "2026-05-06",
+          "size": 13845823,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.genau.MoneyCircle_Sideloadbypass2_3.1.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.2.0",
+      "versionDate": "2026-05-11T04:40:57.508Z",
+      "size": 13896471,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.genau.MoneyCircle_Sideloadbypass2_3.2.0.ipa"
+    },
+    {
       "name": "#DRIVE",
       "bundleIdentifier": "com.pixelperfectdude.htdrive",
       "developerName": "Pixel Perfect Dude S.A.",
@@ -22781,62 +22837,6 @@
       "versionDate": "2026-04-24T01:38:36.315Z",
       "size": 136084571,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.lingodeer_LingoDeerPremium_3.1.10.ipa"
-    },
-    {
-      "name": "MoneyCircle",
-      "bundleIdentifier": "com.genau.MoneyCircle",
-      "developerName": "Genau Factory",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/1d/5f/4e1d5f60-6790-ae7e-1380-606373eb9811/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.1.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/44/ecc14476-f47c-191d-d809-690b50fe7f8b/MC-ipad-1.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/f1/01/a6f1011d-883c-090b-1f15-50413cfa491f/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/2b/6d/952b6ddf-b2c5-3883-eea8-04e413d9548d/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/ec/d9/f9ecd9ab-de26-5df2-3bfd-f6e994f1fe51/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/9d/bc/2f9dbcd5-b5cc-f631-6aaa-6740d8f4e95d/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/44/ecc14476-f47c-191d-d809-690b50fe7f8b/MC-ipad-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/f1/01/a6f1011d-883c-090b-1f15-50413cfa491f/23c3a462-18a4-4619-8e13-0df3658319be_MC-ipad-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/2b/6d/952b6ddf-b2c5-3883-eea8-04e413d9548d/3a01ad01-ac29-4b40-a667-d7e2776f895d_MC-ipad-4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/ec/d9/f9ecd9ab-de26-5df2-3bfd-f6e994f1fe51/3a11e757-04fa-485f-8344-183806f63a9a_MC-ipad-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/9d/bc/2f9dbcd5-b5cc-f631-6aaa-6740d8f4e95d/f4ed0ba9-45a6-4b5d-b189-cb1858b61cc8_MC-ipad-6.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "3.1.9",
-          "date": "2026-05-09",
-          "size": 13891813,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.genau.MoneyCircle_Sideloadbypass2_3.1.9.ipa"
-        },
-        {
-          "version": "3.1.8",
-          "date": "2026-05-06",
-          "size": 13845823,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.genau.MoneyCircle_Sideloadbypass2_3.1.8.ipa"
-        },
-        {
-          "version": "3.1.5",
-          "date": "2026-04-28",
-          "size": 13841353,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.genau.MoneyCircle_Sideloadbypass2_3.1.5.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.1.9",
-      "versionDate": "2026-05-09T04:40:41.566Z",
-      "size": 13891813,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.genau.MoneyCircle_Sideloadbypass2_3.1.9.ipa"
     },
     {
       "name": "InnerNow",
