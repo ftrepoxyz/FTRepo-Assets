@@ -3,6 +3,28 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Paku",
+      "version": "6.1.3",
+      "versionDate": "2026-05-12",
+      "size": 50598897,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-12/com.kylebashour.aqi-wtf_popuprifty_6.1.3.ipa",
+      "developerName": "Pitou Technologies, LLC",
+      "bundleIdentifier": "com.kylebashour.aqi-wtf",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/29/0c/ad290ce1-42f7-b068-a22e-42e67e5910dc/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPaku for PurpleAir\n\nTweak: Premium Unlocked\n\nVersion: 6.1.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.kylebashour.aqi-wtf\nDeveloper: Pitou Technologies, LLC",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/ae/02/c2ae020e-1184-d0b6-b2c1-92e92328f8ad/a13fdf96-c328-4ec4-a080-228d10ae9c08_iPhone_Small_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/fc/9e/27fc9e8c-f516-a70b-8448-857f34694060/11fa9476-280f-4074-8572-b2a3805c54fa_iPhone_Small_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/82/f3/5e82f3d8-c883-0395-0439-5b6c55c017f0/db34f79f-788e-4c50-b8cc-3cb0c95233a0_iPhone_Small_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/7c/20/537c207d-f9cf-be82-ae25-7a02f6c19a58/35bfe2b7-f3fe-491a-857e-0b374b75f257_iPhone_Small_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/68/d9/1268d935-036e-0fec-1c66-68a15638eaea/e4f96685-28a0-4d94-a3f1-c5fd817e1ccb_iPhone_Small_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/4e/f1/0b4ef1ae-6dba-2a23-dbd1-89848bfafbfc/ff22c3f7-b7dd-4bfc-a325-bb10034b591b_iPhone_Small_4_Copy.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/ec/68/0aec688c-a63b-422d-111d-eecbeab369c0/a24e69dd-f4ae-4078-adaa-4defce257fc3_iPhone_Small_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/5f/1e/fa5f1e75-e4b4-cbfd-aaa9-26c3b097c031/4d357f84-9db4-4090-84e9-baa8450572b5_iPhone_Small_7.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Filtru",
       "version": "4.6.11",
       "versionDate": "2026-05-12",
@@ -4689,28 +4711,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/94/76/f6947612-12fb-5536-2f93-525d289f06c0/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_05.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/9d/8a/609d8ae8-b415-8f0b-b691-731071d3d5e0/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_06.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/7f/de/b17fde32-e0c7-1814-3a03-aa302da77c2c/Truecaller_2025_iOS_Screens_6_U002c5__1242x2688_A-Control_optimization_04_08.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Paku",
-      "version": "6.1.2",
-      "versionDate": "2026-04-20",
-      "size": 50597224,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-20/com.kylebashour.aqi-wtf_popuprifty_6.1.2.ipa",
-      "developerName": "Pitou Technologies, LLC",
-      "bundleIdentifier": "com.kylebashour.aqi-wtf",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/29/0c/ad290ce1-42f7-b068-a22e-42e67e5910dc/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPaku for PurpleAir\n\nTweak: Premium Unlocked\n\nVersion: 6.1.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.kylebashour.aqi-wtf\nDeveloper: Pitou Technologies, LLC",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/ae/02/c2ae020e-1184-d0b6-b2c1-92e92328f8ad/a13fdf96-c328-4ec4-a080-228d10ae9c08_iPhone_Small_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/fc/9e/27fc9e8c-f516-a70b-8448-857f34694060/11fa9476-280f-4074-8572-b2a3805c54fa_iPhone_Small_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/82/f3/5e82f3d8-c883-0395-0439-5b6c55c017f0/db34f79f-788e-4c50-b8cc-3cb0c95233a0_iPhone_Small_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/7c/20/537c207d-f9cf-be82-ae25-7a02f6c19a58/35bfe2b7-f3fe-491a-857e-0b374b75f257_iPhone_Small_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/68/d9/1268d935-036e-0fec-1c66-68a15638eaea/e4f96685-28a0-4d94-a3f1-c5fd817e1ccb_iPhone_Small_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/4e/f1/0b4ef1ae-6dba-2a23-dbd1-89848bfafbfc/ff22c3f7-b7dd-4bfc-a325-bb10034b591b_iPhone_Small_4_Copy.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/ec/68/0aec688c-a63b-422d-111d-eecbeab369c0/a24e69dd-f4ae-4078-adaa-4defce257fc3_iPhone_Small_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/5f/1e/fa5f1e75-e4b4-cbfd-aaa9-26c3b097c031/4d357f84-9db4-4090-84e9-baa8450572b5_iPhone_Small_7.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
