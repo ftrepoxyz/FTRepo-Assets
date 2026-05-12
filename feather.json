@@ -13413,7 +13413,7 @@
       "bundleIdentifier": "com.kylebashour.aqi-wtf",
       "developerName": "Pitou Technologies, LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/29/0c/ad290ce1-42f7-b068-a22e-42e67e5910dc/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPaku for PurpleAir\n\nTweak: Premium Unlocked\n\nVersion: 6.1.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.kylebashour.aqi-wtf\nDeveloper: Pitou Technologies, LLC",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPaku for PurpleAir\n\nTweak: Premium Unlocked\n\nVersion: 6.1.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.kylebashour.aqi-wtf\nDeveloper: Pitou Technologies, LLC",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/ae/02/c2ae020e-1184-d0b6-b2c1-92e92328f8ad/a13fdf96-c328-4ec4-a080-228d10ae9c08_iPhone_Small_1.png/1320x2868bb.png"
@@ -13452,6 +13452,12 @@
       ],
       "versions": [
         {
+          "version": "6.1.3",
+          "date": "2026-05-12",
+          "size": 50598897,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-12/com.kylebashour.aqi-wtf_popuprifty_6.1.3.ipa"
+        },
+        {
           "version": "6.1.2",
           "date": "2026-04-20",
           "size": 50597224,
@@ -13459,10 +13465,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.1.2",
-      "versionDate": "2026-04-20T22:15:54.326Z",
-      "size": 50597224,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-20/com.kylebashour.aqi-wtf_popuprifty_6.1.2.ipa"
+      "version": "6.1.3",
+      "versionDate": "2026-05-12T04:41:10.167Z",
+      "size": 50598897,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-12/com.kylebashour.aqi-wtf_popuprifty_6.1.3.ipa"
     },
     {
       "name": "OVF Editor",
