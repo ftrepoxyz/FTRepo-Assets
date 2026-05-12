@@ -12243,6 +12243,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/com.gymstreak.GymStreakAI_Sideloadbypass2_6.3.7.ipa"
     },
     {
+      "name": "SnoreLab",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "developerName": "Reviva Softworks Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/56/80/8b5680d0-da27-f244-ec0b-fcb24589c3f2/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSnoreLab : Record Your Snoring\n\nTweak: Satella injected for unlocking subscription\n\nVersion: 6.3.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.revivasoftworks.Snore-Lab\nDeveloper: Reviva Softworks Ltd",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "6.3.4",
+          "date": "2026-05-11",
+          "size": 155066598,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.3.4.ipa"
+        },
+        {
+          "version": "6.2.7",
+          "date": "2026-03-27",
+          "size": 153505090,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.2.7.ipa"
+        },
+        {
+          "version": "6.2.4",
+          "date": "2026-03-16",
+          "size": 151876865,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.2.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.3.4",
+      "versionDate": "2026-05-11T22:41:21.167Z",
+      "size": 155066598,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.3.4.ipa"
+    },
+    {
       "name": "Pillow",
       "bundleIdentifier": "com.neybox.Pillow",
       "developerName": "Neybox Digital Ltd.",
@@ -12505,40 +12539,6 @@
       "versionDate": "2026-04-18T01:16:51.016Z",
       "size": 97244331,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.yadux.Speak4Me_AutoRevenueCat_6.2.10.ipa"
-    },
-    {
-      "name": "SnoreLab",
-      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
-      "developerName": "Reviva Softworks Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/7d/4c/af7d4ca8-0a7b-0039-6f00-91f8a7a59b5b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSnoreLab : Record Your Snoring\n\nTweak: Satella injected for unlocking subscription\n\nVersion: 6.2.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.revivasoftworks.Snore-Lab\nDeveloper: Reviva Softworks Ltd",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "6.2.7",
-          "date": "2026-03-27",
-          "size": 153505090,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.2.7.ipa"
-        },
-        {
-          "version": "6.2.4",
-          "date": "2026-03-16",
-          "size": 151876865,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.2.4.ipa"
-        },
-        {
-          "version": "6.2.1",
-          "date": "2026-03-12",
-          "size": 157075814,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.revivasoftworks.Snore-Lab_SnoreLab_6.2.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "6.2.7",
-      "versionDate": "2026-03-27T01:01:05.868Z",
-      "size": 153505090,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.revivasoftworks.Snore-Lab_Sideloadbypass2_6.2.7.ipa"
     },
     {
       "name": "VideoShow",
@@ -17759,7 +17759,7 @@
       "bundleIdentifier": "com.przemyslawbobak.filtru",
       "developerName": "Spirograph Limited",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/41/b0/1341b0a6-3e57-d080-5edd-ffcba75a5018/Primary-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nFiltru: Brew the best coffee\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.8\n\nNotes: press restore purchase if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.przemyslawbobak.filtru\nDeveloper: Spirograph Limited",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nFiltru: Brew the best coffee\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.11\n\nNotes: press restore purchase if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.przemyslawbobak.filtru\nDeveloper: Spirograph Limited",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/cb/a6/5ecba665-2754-f3b2-cbf4-85fce67c1c41/8ADC886B-FB2A-4B06-B4F9-500B95D264E5-iPhone_14_Pro_Max_-_Screen_1.png/1320x2868bb.webp"
@@ -17822,6 +17822,12 @@
       ],
       "versions": [
         {
+          "version": "4.6.11",
+          "date": "2026-05-12",
+          "size": 91965150,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-12/com.przemyslawbobak.filtru_Sideloadbypass2_4.6.11.ipa"
+        },
+        {
           "version": "4.6.8",
           "date": "2026-04-16",
           "size": 90189041,
@@ -17835,10 +17841,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.6.8",
-      "versionDate": "2026-04-16T22:20:51.593Z",
-      "size": 90189041,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/com.przemyslawbobak.filtru_Sideloadbypass2_4.6.8.ipa"
+      "version": "4.6.11",
+      "versionDate": "2026-05-12T01:41:14.104Z",
+      "size": 91965150,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-12/com.przemyslawbobak.filtru_Sideloadbypass2_4.6.11.ipa"
     },
     {
       "name": "Da Vinci Eye",
