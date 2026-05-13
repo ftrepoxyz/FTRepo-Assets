@@ -5,6 +5,24 @@
   },
   "data": [
     {
+      "name": "Colourtone",
+      "version": "5.5.8",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.colorpresets.colourtone_Sideloadbypass2_5.5.8.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.colorpresets.colourtone",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/90/95/709095b4-a7a7-e58d-c4b3-1ad4232c000a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nColourtone: #1 Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 5.5.8\n\nNotes: ignore purchase page\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.colorpresets.colourtone\nDeveloper: Bonnie Curtis",
+      "developer": "Bonnie Curtis",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Minutes",
       "version": "1.12",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/ventures.slam.minutes_Sideloadbypass2_1.12.ipa",
@@ -9495,24 +9513,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/af/84/d1af84b0-3bed-f126-1b1f-228b75dccc94/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
       "description": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.4.1\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.4.1\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Removed vibrancy effect of player toast, now toast follows system theme\n• Added option to automatically clean Infuse trash folder\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "Firecore, LLC",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Colourtone",
-      "version": "5.5.3",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.colorpresets.colourtone_Sideloadbypass2_5.5.3.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.colorpresets.colourtone",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/3c/d1/b23cd196-8be0-a830-cec0-33258f82b46b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nColourtone: #1 Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 5.5.3\n\nNotes: ignore purchase page\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.colorpresets.colourtone\nDeveloper: Bonnie Curtis",
-      "developer": "Bonnie Curtis",
       "screenshots": [],
       "accentColor": {
         "light": {
