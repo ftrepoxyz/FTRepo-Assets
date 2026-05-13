@@ -3,6 +3,43 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "ahead",
+      "version": "1.60.23",
+      "versionDate": "2026-05-13",
+      "size": 412742405,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.aheadsolutions.aHead_Sideloadbypass2_1.60.23.ipa",
+      "developerName": "ahead Solutions GmbH",
+      "bundleIdentifier": "com.aheadsolutions.aHead",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/72/2b/a5722bc7-28b6-f02b-2ac0-fe875e0bf37c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAhead: Emotions Coach\n\nTweak: Subscription Unlocked\n\nVersion: 1.60.23\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.aheadsolutions.aHead\nDeveloper: ahead Solutions GmbH",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/54/3e/21543ed6-1b6c-de81-49c9-de4676c75ab8/eb468f18-3f2c-4055-8e00-3501f58a826a_Playful_11_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/9e/34/1b9e3430-b1fa-0171-41da-69938079a8ff/Playful_5.5_Screen_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/e5/46/3de5462d-ffac-9bb1-42b8-7b3536860ad4/6dde9d02-f472-4c50-a002-a8545cdbe323_Playful_13_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/63/88/9763881a-8391-bbbe-ff53-2ce3963afce9/e10a6230-fa56-4be8-8112-6a35af10c69d_Playful_14_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/a8/f5/e9a8f51f-dde4-cddd-1a4c-f329729f4a7c/e1dfd29c-75f1-4a4b-962f-7c0441689c89_Playful_15_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/48/55/0f48553f-c3c9-f46c-19ad-2ca8c1c8c271/916389f2-2a46-4d95-aa48-2adb9fcd3f8c_Playful_16_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/16/75/d51675ab-28f1-c923-58a3-1f49bad73832/7226f37a-d4a9-4591-a64e-b67d180920c4_Playful_17_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/33/06/a333067b-2fae-d376-7aa7-f7a8dacce560/f32b7a13-c9b0-4e60-a864-874ba66380d4_Playful_18_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/e7/40/3ce740db-326e-bf1f-b3af-f17830d44899/51352ad3-c27e-43b7-88c0-59d2146e903f_Playful_19_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/5f/21/965f2125-3559-f465-859c-1501fd639e97/eb40aec7-dac3-4b23-a980-ae3868dd84b5_Playful_20_5.5.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "‎WA Business WhatsApp (Watusi)",
+      "version": "26.17.77",
+      "versionDate": "2026-05-13",
+      "size": 152177944,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.fouadraheb.watusiSMB_ContactSync_26.17.77.ipa",
+      "developerName": "Unknown Developer",
+      "bundleIdentifier": "com.fouadraheb.watusiSMB",
+      "iconURL": "",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nWatusi for WhatsApp Business Duplicate\n(not cracked)\nWhatsApp Business version: 26.17.77\nWatusi 3 version: 1.3.12\nBundle ID: com.fouadraheb.watusiSMB\nApp by FouadRaheb",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Gratitude",
       "version": "5.6.7",
       "versionDate": "2026-05-13",
@@ -5950,30 +5987,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/13/49/9c1349cb-0915-51ab-2057-8a0488aeba9e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nCleanup: Phone Storage Cleaner\n\n• Bundle ID: com.codeway.cleanerplus\n• Updated to: 6.13.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "ahead",
-      "version": "1.60.22",
-      "versionDate": "2026-04-16",
-      "size": 411895931,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/com.aheadsolutions.aHead_Sideloadbypass2_1.60.22.ipa",
-      "developerName": "ahead Solutions GmbH",
-      "bundleIdentifier": "com.aheadsolutions.aHead",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/72/2b/a5722bc7-28b6-f02b-2ac0-fe875e0bf37c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAhead: Emotions Coach\n\nTweak: Subscription Unlocked\n\nVersion: 1.60.22\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.aheadsolutions.aHead\nDeveloper: ahead Solutions GmbH",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/54/3e/21543ed6-1b6c-de81-49c9-de4676c75ab8/eb468f18-3f2c-4055-8e00-3501f58a826a_Playful_11_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/9e/34/1b9e3430-b1fa-0171-41da-69938079a8ff/Playful_5.5_Screen_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/e5/46/3de5462d-ffac-9bb1-42b8-7b3536860ad4/6dde9d02-f472-4c50-a002-a8545cdbe323_Playful_13_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/63/88/9763881a-8391-bbbe-ff53-2ce3963afce9/e10a6230-fa56-4be8-8112-6a35af10c69d_Playful_14_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/a8/f5/e9a8f51f-dde4-cddd-1a4c-f329729f4a7c/e1dfd29c-75f1-4a4b-962f-7c0441689c89_Playful_15_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/48/55/0f48553f-c3c9-f46c-19ad-2ca8c1c8c271/916389f2-2a46-4d95-aa48-2adb9fcd3f8c_Playful_16_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/16/75/d51675ab-28f1-c923-58a3-1f49bad73832/7226f37a-d4a9-4591-a64e-b67d180920c4_Playful_17_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/33/06/a333067b-2fae-d376-7aa7-f7a8dacce560/f32b7a13-c9b0-4e60-a864-874ba66380d4_Playful_18_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/e7/40/3ce740db-326e-bf1f-b3af-f17830d44899/51352ad3-c27e-43b7-88c0-59d2146e903f_Playful_19_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/5f/21/965f2125-3559-f465-859c-1501fd639e97/eb40aec7-dac3-4b23-a980-ae3868dd84b5_Playful_20_5.5.png/1320x2868bb.png"
-      ],
       "tintColor": "#5C7AEA"
     },
     {
