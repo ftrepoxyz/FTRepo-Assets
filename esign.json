@@ -3,6 +3,83 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Tripsy",
+      "version": "3.8.10",
+      "versionDate": "2026-05-13",
+      "size": 130602311,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/app.tripsy.ios_Tripsy_3.8.10.ipa",
+      "developerName": "Tripsy LLC",
+      "bundleIdentifier": "app.tripsy.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/c6/97/6dc697fd-29f5-92f9-252a-839d3b77008b/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nTripsy: Travel Planner\n\n• Bundle ID: app.tripsy.ios\n• Updated to: 3.8.10\n• Minimum iOS: 18\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/f0/f2/e7f0f287-78db-582a-1bd6-c6132c05521a/iPhone_6.5_Travel_Planner.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/fd/f9/61fdf99d-8ad9-a4eb-80e6-99be2ec9d5f5/iPhone_6.5_New_York.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/97/49/7097491e-94be-37b6-bb9d-da03c102909c/iPhone_6.5_Trip_Organizer.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/eb/25/0feb25b5-2059-73b2-51ef-c9e317084d86/iPhone_6.5_Activity_Lists.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/e7/3f/3ae73f2c-7f7b-6f42-b04d-0ff157837538/iPhone_6.5_Flight_Detail.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/d9/9c/e1d99c55-7ec8-d0a5-4c73-9b3a1e9ca9d0/iPhone_6.5_Flight_Alerts.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/e8/a4/28e8a4dd-39d5-b93e-4c0d-2d6a6dc0ceab/iPhone_6.5_Expenses.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/ab/63/8eab63ef-a42c-db66-2144-5d7837ebdc8d/iPhone_6.5_Trip_Guests.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/0e/a3/a70ea361-d426-5130-c014-49a9e7bf56a4/iPhone_6.5_Documents.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Rest",
+      "version": "3.186.0",
+      "versionDate": "2026-05-13",
+      "size": 173769299,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.evolve.helm_Sideloadbypass2_3.186.0.ipa",
+      "developerName": "Evolve Global, Inc.",
+      "bundleIdentifier": "com.evolve.helm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/59/57/f45957f9-8778-c3fb-185d-bb8a0dc3e418/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nRest: Fix Your Sleep For Good\n\nTweak: Subscription Unlocked\n\nVersion: 3.186.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.helm\nDeveloper: Evolve Global, Inc.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/85/59/a3855969-d4bf-efc1-fcfc-f7071309aebd/5.5_-_Slide_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/34/0e/03340ec1-a3e6-cd3f-52c1-245f97762b4d/5.5_-_Slide_4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/05/32/7c053254-64a9-0be7-fea3-0f19a240f735/5.5_-_Slide_5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/12/6c/2b126c17-f15c-c72e-c585-4504b188602f/5.5_-_Slide_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/53/8a/32538a55-34ba-0d84-f460-33c52bcfcd5e/5.5_-_Slide_7.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "SimplyDraw",
+      "version": "1.6.27",
+      "versionDate": "2026-05-13",
+      "size": 130666601,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.joytunes.Draw_SimplyCrack_1.6.27.ipa",
+      "developerName": "Simply Ltd",
+      "bundleIdentifier": "com.joytunes.Draw",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/52/cc/e552cc58-e254-7e94-9a85-7402ffb4e104/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSimply Draw: Learn to Draw\n\n• Bundle ID: com.joytunes.Draw\n• Updated to: 1.6.27\n• Minimum iOS: 15.2\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Flight Tracker",
+      "version": "8.7.9",
+      "versionDate": "2026-05-13",
+      "size": 118613290,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.iaftt.flightplusfree_flighttracker%2B_8.7.9.ipa",
+      "developerName": "Impala Studios",
+      "bundleIdentifier": "com.iaftt.flightplusfree",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/9a/ad/2e9aad8b-f111-ae0b-3f23-151cb792881a/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFlight Tracker +\n\n• Bundle ID: com.iaftt.flightplusfree\n• Updated to: 8.7.9\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/36/fe/8336fe93-1c64-6467-232b-ab33e95e8f71/iPad_Pro_12.9__-_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/49/7b/03497b27-dac5-82b3-5a52-4fc9c30c2ae0/iPad_Pro_12.9__-_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/05/43/b90543ec-3cfc-1fdb-a558-e064d29352ed/iPad_Pro_12.9__-_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/0c/02/2a0c02a0-f233-f39a-1550-56ecd2c907a7/iPad_Pro_12.9__-_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/c4/1f/11c41f1e-b0ac-feaf-5a78-75f131064c80/iPad_Pro_12.9__-_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/b0/17/91b0178f-9905-c306-88a8-f3320d38294d/iPad_Pro_12.9__-_6.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Nutri Coach",
       "version": "1.9.2",
       "versionDate": "2026-05-13",
@@ -2085,27 +2162,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/03/06/3e030679-e982-0af6-e3d9-cc4da074c1eb/756051fa-6399-44e2-bf43-982e18b60be1_6_5.5__0000_English.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/73/00/117300de-2fc0-aa10-5673-7625e8aa14d6/0c23a637-12a2-450c-8dc1-44a4e349731c_7_5.5__0000_English.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/23/79/2c2379d9-7d76-f357-d64a-410baed9c6a7/mzl.aegcvjxr.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Rest",
-      "version": "3.185.0",
-      "versionDate": "2026-05-05",
-      "size": 178532677,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.evolve.helm_AutoRcSideload_3.185.0.ipa",
-      "developerName": "Evolve Global, Inc.",
-      "bundleIdentifier": "com.evolve.helm",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/06/0c/67060ce3-380d-f5a5-bebd-bca770616059/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nRest: Fix Your Sleep For Good\n\n• Bundle ID: com.evolve.helm\n• Updated to: 3.185.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/85/59/a3855969-d4bf-efc1-fcfc-f7071309aebd/5.5_-_Slide_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/34/0e/03340ec1-a3e6-cd3f-52c1-245f97762b4d/5.5_-_Slide_4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/05/32/7c053254-64a9-0be7-fea3-0f19a240f735/5.5_-_Slide_5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/12/6c/2b126c17-f15c-c72e-c585-4504b188602f/5.5_-_Slide_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/53/8a/32538a55-34ba-0d84-f460-33c52bcfcd5e/5.5_-_Slide_7.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -4356,19 +4412,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "SimplyDraw",
-      "version": "1.6.23",
-      "versionDate": "2026-04-23",
-      "size": 128791073,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.joytunes.Draw_SimplyCrack_1.6.23.ipa",
-      "developerName": "Simply Ltd",
-      "bundleIdentifier": "com.joytunes.Draw",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/dd/8a/62dd8aff-b702-d00a-7847-f72f8b22cb52/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSimply Draw: Learn to Draw\n\n• Bundle ID: com.joytunes.Draw\n• Updated to: 1.6.23\n• Minimum iOS: 15.2\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Open",
       "version": "26.17",
       "versionDate": "2026-04-23",
@@ -4442,29 +4485,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/fd/ba/c4fdba35-24b0-dc37-6ca0-7f1d6b3e914d/7ebfad0a-ba0c-44b3-b57f-81ad58c92b55_2_Ghexagon_1242x2208.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/bd/60/11bd6089-605d-d8d5-d232-0758b6facce2/ad4e0ccb-2012-4f4d-b7a5-dcdaa287d9d8_3_CityWhite_1242x2208.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fb/32/ee/fb32ee90-6d72-eea9-4df6-56fa6ddf9578/3e78a902-7d48-4c05-8f61-a030ad019d3c_4_Bonus_1242x2208.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Tripsy",
-      "version": "3.8.6",
-      "versionDate": "2026-04-23",
-      "size": 137063369,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/app.tripsy.ios_Tripsy_3.8.6.ipa",
-      "developerName": "Tripsy LLC",
-      "bundleIdentifier": "app.tripsy.ios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/c6/97/6dc697fd-29f5-92f9-252a-839d3b77008b/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nTripsy: Travel Planner\n\n• Bundle ID: app.tripsy.ios\n• Updated to: 3.8.6\n• Minimum iOS: 18\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/f0/f2/e7f0f287-78db-582a-1bd6-c6132c05521a/iPhone_6.5_Travel_Planner.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/fd/f9/61fdf99d-8ad9-a4eb-80e6-99be2ec9d5f5/iPhone_6.5_New_York.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/97/49/7097491e-94be-37b6-bb9d-da03c102909c/iPhone_6.5_Trip_Organizer.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/eb/25/0feb25b5-2059-73b2-51ef-c9e317084d86/iPhone_6.5_Activity_Lists.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/e7/3f/3ae73f2c-7f7b-6f42-b04d-0ff157837538/iPhone_6.5_Flight_Detail.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/d9/9c/e1d99c55-7ec8-d0a5-4c73-9b3a1e9ca9d0/iPhone_6.5_Flight_Alerts.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/e8/a4/28e8a4dd-39d5-b93e-4c0d-2d6a6dc0ceab/iPhone_6.5_Expenses.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/ab/63/8eab63ef-a42c-db66-2144-5d7837ebdc8d/iPhone_6.5_Trip_Guests.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/0e/a3/a70ea361-d426-5130-c014-49a9e7bf56a4/iPhone_6.5_Documents.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -9120,32 +9140,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/9f/46/a29f4622-f27d-cef7-b9f1-07a9342a347c/6_55.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/7d/5f/aa7d5f57-495a-b998-07f7-0d7604ae2519/iPhone_5.5_-_7.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/4e/d8/2b4ed840-8c56-c68f-1e14-71bc2d2372fc/8_55.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Flight Tracker",
-      "version": "8.7.5",
-      "versionDate": "2026-03-16",
-      "size": 118734095,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.iaftt.flightplusfree_flighttracker%2B_8.7.5.ipa",
-      "developerName": "Impala Studios",
-      "bundleIdentifier": "com.iaftt.flightplusfree",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/e1/83/c5e18351-7dc2-236a-bc54-0aad3a4dc005/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFlight Tracker +\n\n• Bundle ID: com.iaftt.flightplusfree\n• Updated to: 8.7.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/82/f7/5182f7af-0523-569d-433b-50fc7120850d/iPhone_14__U0026_15_Pro_Max_-_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/20/73/d72073cf-d162-3def-23c3-f273857c3656/iPhone_14__U0026_15_Pro_Max_-_2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/58/37/df5837e8-be61-f63d-97a7-553c8c670f19/iPhone_14__U0026_15_Pro_Max_-_3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ae/61/aaae61ea-ca0b-7ae3-de46-64c19597ea45/iPhone_14__U0026_15_Pro_Max_-_4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/6d/05/cb6d05d6-6172-b71e-87a9-e93ef1fa7718/iPhone_14__U0026_15_Pro_Max_-_5.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/d5/82/7fd582fa-9d74-b967-f582-88f2e95692e3/iPhone_14__U0026_15_Pro_Max_-_6.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/0f/8a/7e0f8aaf-0e65-29d5-887a-01546d0e757f/iPad_Pro_12.9__-_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/16/65/f21665cc-65a3-b88d-5c4e-54e07de53f78/iPad_Pro_12.9__-_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/c0/97/ddc09771-014b-62aa-362e-95f415d17a8d/iPad_Pro_12.9__-_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/ad/e2/44ade2e5-9c18-ac91-6db7-288ab85c81dd/iPad_Pro_12.9__-_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/17/25/e1172590-2dd8-a450-deb3-4cd3c50c7597/iPad_Pro_12.9__-_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/70/b3/7e70b3f6-7ae9-fdff-a494-27cbe91f5bcd/iPad_Pro_12.9__-_6.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
