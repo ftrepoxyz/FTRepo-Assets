@@ -31475,6 +31475,56 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.picspacehd.anilistclient_RevenueCatFix26_1.9.5.ipa"
     },
     {
+      "name": "Nutri Coach",
+      "bundleIdentifier": "nutrition.coach",
+      "developerName": "Eclipse Studios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/18/52/c6185288-7a06-bcc7-30eb-b5112f0770c5/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nNutrition Coach: Food tracker\n\n• Bundle ID: nutrition.coach\n• Updated to: 1.9.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/d9/fa/5ad9fa88-a8aa-788f-3116-4b39a018ab58/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/b0/b0/e4b0b0af-47b9-c47a-4cb0-b3539a2dba02/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/01/29/4f012956-aec5-7874-9fa0-db5a002980fc/ed4392c1-1b1b-42fe-8be0-e76978e298c6_Nutricoach-screenshot-03.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/c1/77/1ac177a9-767b-4647-27cd-8546b47efb40/4bfea753-80ce-4d1b-b6ff-a4554866e9ee_Nutricoach-screenshot-04-1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/e9/7c/84e97cdc-69de-5353-e539-8750705731be/2988a673-564b-4199-b968-3be19c1827f0_Nutricoach-screenshot-05.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/d9/fa/5ad9fa88-a8aa-788f-3116-4b39a018ab58/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/b0/b0/e4b0b0af-47b9-c47a-4cb0-b3539a2dba02/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/01/29/4f012956-aec5-7874-9fa0-db5a002980fc/ed4392c1-1b1b-42fe-8be0-e76978e298c6_Nutricoach-screenshot-03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/c1/77/1ac177a9-767b-4647-27cd-8546b47efb40/4bfea753-80ce-4d1b-b6ff-a4554866e9ee_Nutricoach-screenshot-04-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/e9/7c/84e97cdc-69de-5353-e539-8750705731be/2988a673-564b-4199-b968-3be19c1827f0_Nutricoach-screenshot-05.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.9.2",
+          "date": "2026-05-13",
+          "size": 73500192,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/nutrition.coach_NutriCoach_1.9.2.ipa"
+        },
+        {
+          "version": "1.8.2",
+          "date": "2026-04-09",
+          "size": 51519037,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-09/nutrition.coach_NutriCoach_1.8.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.9.2",
+      "versionDate": "2026-05-13T13:08:08.956Z",
+      "size": 73500192,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/nutrition.coach_NutriCoach_1.9.2.ipa"
+    },
+    {
       "name": "Flourish",
       "bundleIdentifier": "vladchechura.AffirmationsEN",
       "developerName": "Positive Mindset sp. z o. o.",
@@ -31651,50 +31701,6 @@
       "versionDate": "2026-03-23T06:43:03.134Z",
       "size": 8555589,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-23/com.benchu.ARMCPUZ_CPUXPro_1.8.3.ipa"
-    },
-    {
-      "name": "Nutri Coach",
-      "bundleIdentifier": "nutrition.coach",
-      "developerName": "Luni",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/54/2f/fc542fb8-b864-0b83-0aff-1f32682c1e71/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nNutrition Coach: Food tracker\n\n• Bundle ID: nutrition.coach\n• Updated to: 1.8.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/d9/fa/5ad9fa88-a8aa-788f-3116-4b39a018ab58/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/b0/b0/e4b0b0af-47b9-c47a-4cb0-b3539a2dba02/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/01/29/4f012956-aec5-7874-9fa0-db5a002980fc/ed4392c1-1b1b-42fe-8be0-e76978e298c6_Nutricoach-screenshot-03.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/c1/77/1ac177a9-767b-4647-27cd-8546b47efb40/4bfea753-80ce-4d1b-b6ff-a4554866e9ee_Nutricoach-screenshot-04-1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/e9/7c/84e97cdc-69de-5353-e539-8750705731be/2988a673-564b-4199-b968-3be19c1827f0_Nutricoach-screenshot-05.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/d9/fa/5ad9fa88-a8aa-788f-3116-4b39a018ab58/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/b0/b0/e4b0b0af-47b9-c47a-4cb0-b3539a2dba02/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/01/29/4f012956-aec5-7874-9fa0-db5a002980fc/ed4392c1-1b1b-42fe-8be0-e76978e298c6_Nutricoach-screenshot-03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/c1/77/1ac177a9-767b-4647-27cd-8546b47efb40/4bfea753-80ce-4d1b-b6ff-a4554866e9ee_Nutricoach-screenshot-04-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/e9/7c/84e97cdc-69de-5353-e539-8750705731be/2988a673-564b-4199-b968-3be19c1827f0_Nutricoach-screenshot-05.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "1.8.2",
-          "date": "2026-04-09",
-          "size": 51519037,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-09/nutrition.coach_NutriCoach_1.8.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.8.2",
-      "versionDate": "2026-04-09T18:13:50.409Z",
-      "size": 51519037,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-09/nutrition.coach_NutriCoach_1.8.2.ipa"
     },
     {
       "name": "Recify",
