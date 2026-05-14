@@ -5,6 +5,110 @@
   },
   "data": [
     {
+      "name": "YouTube Music",
+      "version": "9.19.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.19.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.google.ios.youtubemusic",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/d1/40/8ad140a2-156d-db21-d415-3d5e186cb9a3/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nYTMusicUltimate\n\nThe best tweak for YouTube Music on iOS.\n\nRelease information\n\nIf you're on iOS 14-15, download this version\n\nDownloading only works on 9.14.2 and lower. The developer has to update his tweak to fix this problem\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "developer": "Google",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Noteshelf 3",
+      "version": "7.1.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.fluidtouch.noteshelf3_Sideloadbypass2_7.1.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.fluidtouch.noteshelf3",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/8d/ad/7a8dadcb-9a4e-165d-e7d7-4a5cc992dc1f/AppIcon-Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nNoteshelf 3\n\nTap on buy then cancel\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "developer": "Fluid Touch Pte. Ltd.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/01/24/ac0124af-9f27-0bfe-f0c8-9e47622a8b00/English1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/46/a8/3d46a8a3-3afc-aa8b-6818-f7a362f26781/English2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/02/2e/d6022eed-61da-21f8-e0af-515ae03dce61/English3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/9c/18/be9c188c-4258-dd9b-5d4b-a160e68a7a5c/English4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/61/fa/7a61fa25-da01-ebdf-b2d2-60eb7355d876/English5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/f0/29/fcf029a3-8c01-7ca9-4c82-98d70d3ca6b3/English6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/00/39/97003935-5d56-00db-f5cd-2f9ab7d06191/English7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/71/04/eb71049a-df0e-edaf-6a34-8504e6b36c93/English8.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Photomyne",
+      "version": "34.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.photomyne.photomyneapplite_StopReviews_34.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.photomyne.photomyneapplite",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/2e/18/7f2e18d4-2007-5831-706a-c427928e528c/AppIconLite-0-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nPhoto Scan App by Photomyne\n\nTap on buy then cancel\n\nMinimum OS version 17.6\n\nAppStore link | Donate",
+      "developer": "Photomyne LTD",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/03/29/0303299c-7f6e-a24d-ddff-33370466a9ba/5.5_en_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/7b/d6/047bd642-13bc-eca2-51a7-2efaf8a27a5f/5.5_en_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/fe/91/23fe91ee-5745-958f-3687-846d09687606/3ceba404-81ef-4e76-8fc7-074f676d2908_5.5_en_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/90/12/f19012ec-982c-9fb9-ec4d-7109d46ef8da/9c6424b5-26f1-43d6-9ddd-45efad97cc77_5.5_en_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/2c/ff/692cff79-2fe9-ef9f-d05c-d1cb6f9dd336/99e8ed90-a995-4609-8a2f-f084af486045_5.5_en_05.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "EPIK",
+      "version": "7.1.20",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.snowcorp.epik_EPIK_7.1.20.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.snowcorp.epik",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/97/7a/9e977aab-cf5f-f033-27a8-fb520d618c50/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nEPIK - AI Photo & Video Editor\n\n• Bundle ID: com.snowcorp.epik\n• Updated to: 7.1.20\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⛔️Restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "SNOW Corporation",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/45/d9/5745d933-47ec-80c1-7466-2480d5e998dc/Adjust_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/39/4a/b3394a4a-1c0e-cc87-2cef-8d6e47269b45/Sticker_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b5/92/14b592f5-9e23-7330-3064-44d6a1fdc87e/Restrore_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/71/f0/3871f094-7f61-050f-09a4-60009e26259f/HD_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/bd/41/ecbd4176-37af-fca2-e40f-d0c669ffeddf/Cutout_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5f/c3/235fc36f-aaa7-e342-d695-3b37232be3d0/Layout_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f9/26/34f92689-f584-3f21-9349-70251f3b4a50/Beauty_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/97/16/ab97163b-1af1-86ef-b136-9d7a2c0f719b/Remove_en.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Drafts",
       "version": "52.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.agiletortoise.Drafts5_drafts_52.0.ipa",
@@ -4012,30 +4116,6 @@
       }
     },
     {
-      "name": "YouTube Music",
-      "version": "9.17.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.17.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.google.ios.youtubemusic",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/d1/40/8ad140a2-156d-db21-d415-3d5e186cb9a3/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nYTMusicUltimate\n\nThe best tweak for YouTube Music on iOS.\n\nRelease information\n\nIf you're on iOS 14-15, download this version\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "developer": "Google",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Speedtest",
       "version": "7.0.2",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.ookla.speedtest_SpeedTestPatch_7.0.2.ipa",
@@ -6482,30 +6562,6 @@
       }
     },
     {
-      "name": "Photomyne",
-      "version": "33.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.photomyne.photomyneapplite_StopReviews_33.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.photomyne.photomyneapplite",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/2e/18/7f2e18d4-2007-5831-706a-c427928e528c/AppIconLite-0-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nPhoto Scan App by Photomyne\n\nTap on buy then cancel\n\nMinimum OS version 17.6\n\nAppStore link | Donate",
-      "developer": "Photomyne LTD",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/03/29/0303299c-7f6e-a24d-ddff-33370466a9ba/5.5_en_01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/7b/d6/047bd642-13bc-eca2-51a7-2efaf8a27a5f/5.5_en_02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/fe/91/23fe91ee-5745-958f-3687-846d09687606/3ceba404-81ef-4e76-8fc7-074f676d2908_5.5_en_03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/90/12/f19012ec-982c-9fb9-ec4d-7109d46ef8da/9c6424b5-26f1-43d6-9ddd-45efad97cc77_5.5_en_04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/2c/ff/692cff79-2fe9-ef9f-d05c-d1cb6f9dd336/99e8ed90-a995-4609-8a2f-f084af486045_5.5_en_05.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Mojo",
       "version": "1.264.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/archery.storify_AutoRc_1.264.0.ipa",
@@ -7518,35 +7574,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/3e/0a/843e0aa4-1a27-4756-34ef-a2737bb69da7/b2a79f8f-c127-44fa-889e-3be3262d638b_Appstore_55_05.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/72/cf/8a/72cf8a84-8174-d3da-3253-bc6bdaf10237/e4573f30-47ba-4185-9807-8850b71f83f5_Appstore_55_06.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/ce/ee/b8ceee24-d35c-5c99-28ce-0558af82f37e/488c415e-43eb-4150-a8a9-df60e15572de_Appstore_55_07.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "EPIK",
-      "version": "7.1.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.snowcorp.epik_EPIK_7.1.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.snowcorp.epik",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/97/7a/9e977aab-cf5f-f033-27a8-fb520d618c50/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nEPIK - AI Photo & Video Editor\n\n• Bundle ID: com.snowcorp.epik\n• Updated to: 7.1.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⛔️Restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "SNOW Corporation",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/45/d9/5745d933-47ec-80c1-7466-2480d5e998dc/Adjust_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/39/4a/b3394a4a-1c0e-cc87-2cef-8d6e47269b45/Sticker_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b5/92/14b592f5-9e23-7330-3064-44d6a1fdc87e/Restrore_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/71/f0/3871f094-7f61-050f-09a4-60009e26259f/HD_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/bd/41/ecbd4176-37af-fca2-e40f-d0c669ffeddf/Cutout_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5f/c3/235fc36f-aaa7-e342-d695-3b37232be3d0/Layout_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f9/26/34f92689-f584-3f21-9349-70251f3b4a50/Beauty_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/97/16/ab97163b-1af1-86ef-b136-9d7a2c0f719b/Remove_en.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
@@ -12297,33 +12324,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bf/d2/79/bfd27901-9a80-5a39-e988-95e78f8fc08b/39668322-930c-4b32-b163-82359292fd37__0011_us_5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/11/fd/8d/11fd8df2-9511-e7ce-e294-078c45e57104/5ca41165-ae8c-4ca5-8c84-d359ef970858__0012_us_6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9c/cc/7a/9ccc7a25-fd2a-899b-daec-d5bbd9767d7e/2e2ce02a-5c6d-400f-a07b-a6dd9c231855__0013_us_7.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Noteshelf 3",
-      "version": "6.7.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.fluidtouch.noteshelf3_Sideloadbypass1_6.7.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.fluidtouch.noteshelf3",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/79/f3/5e79f3fd-afe0-9e0d-d276-8bd50b03bcd5/AppIcon-Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nNoteshelf 3\n\nTap on buy then cancel\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "developer": "Fluid Touch Pte. Ltd.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/72/bb/4272bb79-51a6-d738-331b-783799aa9c40/English1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/f9/46/eff946ea-f772-b4b5-860c-1f9340c4bbcf/English2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/31/e6/fa31e6c8-d9be-182d-5b77-6e2f90899edf/English3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/64/63/f46463b0-d1a8-03bb-1b78-a1a3ffb81618/English4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/e9/33/7de933f8-f889-c4da-62e7-4fa20b40c929/English5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/5a/04/a05a04a6-0bd7-d646-45b0-050161d01142/English6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/e0/f7/1be0f747-6974-72b2-a12b-b769bad0c5cf/English7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/56/af/de56af17-28f1-b852-9cf1-a261f510dd3d/English8.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
