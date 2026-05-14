@@ -5,6 +5,178 @@
   },
   "data": [
     {
+      "name": "Apollo",
+      "version": "1.15.11",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.christianselig.Apollo",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @thescholarslounge",
+      "developer": "Christian Selig",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Premiere",
+      "version": "26.12.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.adobe.premiere.ios_FilePickerFix_26.12.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.adobe.premiere.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/9d/cf/8c9dcf10-c6f2-e8f2-c718-c70de146455e/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nAdobe Premiere AI Video Editor\n\n• Bundle ID: com.adobe.premiere.ios\n• Updated to: 26.12.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Adobe Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/f0/d6/3bf0d655-4feb-34ab-0ef0-9965cee70cfc/Adobe_Premiere_EN_iOS_6.9_Screenshots_Coachella-01_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/0a/db/d20adbba-7336-f6d9-debf-0916f2e3c434/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Splash.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/58/61/ff586157-3533-2439-6d56-4eb1cdedc74f/Adobe_Premiere_EN_iOS-6.9_Screenshot_Coachella-03_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/b1/2e/53b12ee9-b5a7-dad3-98a2-9a45e23a2017/Adobe_Premiere_EN_iOS_6.9_Screenshots_Coachella-02_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/e6/3a/53e63af8-3926-ff3e-65f0-e8140a57baa1/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Timeline.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/c8/4d/83c84de1-ce96-61a8-6389-c5f6fb2a953b/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Voiceover.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/cc/3a/a7cc3a5c-07f9-f775-d26b-a440bd4194f4/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Sound_Effects.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/2e/02/092e02a5-cc5e-290b-7e82-2ce7a6ef139c/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Export.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/3a/70/ba3a7070-63b0-7c00-a57a-60c16928ac4c/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Trust.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/81/a6/2581a636-99d7-9d42-6f4a-0535679f6303/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Stock.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/93/c9/a793c9ed-16db-860b-8e9a-194b84b07c99/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/e3/55/b4e3556f-dd40-92dc-c768-dd78cc497178/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/f2/18/53f2185a-1ac0-b79a-1058-d9814cf85aaa/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/c8/b2/27c8b21b-688b-0919-7bbc-44e317ee215c/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_04.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/ad/22/61ad22fa-9563-44d8-02c3-08cb993793cf/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_05.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/49/26/f2492610-62b1-b778-9ae8-2222077b37b1/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/9c/b6/9e9cb61b-158e-7869-0753-e96b4cc3924d/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_06.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "PeakVisor",
+      "version": "5.97.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/ru.routes.peakvisor_PeakVisor_5.97.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "ru.routes.peakvisor",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/3e/c6/c53ec6f0-c858-8c16-29bc-b7654044c62d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nHiking and Skiing - PeakVisor\n\n• Bundle ID: ru.routes.peakvisor\n• Updated to: 5.97\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Routes Software SRL",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/8d/c2/d38dc21a-0e64-130a-2dd1-7e086148103b/peakvisor_appstore_iphone_16_plus_en_.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/b7/ea/84b7ea01-fbd9-de9b-8ad2-cd57344012d0/peakvisor_appstore_iphone_16_plus_en_.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/a5/cf/7da5cf89-9933-7e6b-5b66-c5b6b85484d3/peakvisor_appstore_iphone_16_plus_en_-2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/bc/d0/12bcd084-766f-365a-3a24-8647cadd9f8d/peakvisor_appstore_iphone_16_plus_en_-4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/0d/ff/a70dff4f-4bd1-0ced-d3a5-c982bbbd0b29/peakvisor_appstore_iphone_16_plus_en_-5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/ad/e2/9dade295-130c-a2d2-d3ff-26c82205b04a/peakvisor_appstore_iphone_16_plus_en_-6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/ec/c0/03ecc06a-6708-b7ba-e397-c1fd75f41556/peakvisor_appstore_iphone_16_plus_en_-7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/0a/5d/f30a5d4c-a5db-34f5-5813-31eac45d9ed5/peakvisor_appstore_iphone_16_plus_en_-8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/7e/fe/3a7efed9-4e63-7e0d-b52e-00fc578d289d/peakvisor_appstore_iphone_16_plus_en_-10.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/d0/fe/2ad0fef8-45e3-479f-363d-e527d212a9e9/peakvisor_appstore_ipad_pro_6_en_.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/c2/01/a1c20160-6d9b-dca6-b2be-4ced775c1d4b/peakvisor_appstore_ipad_pro_6_en_-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/94/57/679457b2-4846-bb5a-d805-c500d01930c6/peakvisor_appstore_ipad_pro_6_en_-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/ba/9b/3bba9bfb-1da4-e392-5bcf-609a41b0a8a9/776e9a64-7e13-4661-9f64-45d2d11c01f6_peakvisor_ipad_pro_appstore_en_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/51/21/bd5121c5-970f-21a8-530e-69ad7d38bdd5/fa1a5d6f-bb70-4522-a1f4-d2435ea52c47_peakvisor_ipad_pro_appstore_en_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/75/9b/ff759b54-ece5-3d50-3580-bda372f2e1fc/130b5fec-33e5-494d-9b26-1a6a7622edcd_peakvisor_ipad_pro_appstore_en_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/24/5e/aa245e20-ffc4-6f4e-9f19-9e635d82540f/b5438160-e2b0-4fba-b585-35669d828545_peakvisor_ipad_pro_appstore_en_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ea/d1/47ead19e-ddf6-ffee-f956-a24510932f68/6d567881-63eb-4bea-b1f1-f71f3681d4ac_peakvisor_ipad_pro_appstore_en_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/2e/cb/8c2ecbd8-7d54-3411-166c-8eb3cba7483f/44edc488-943f-4648-b5e8-b96d378cc805_peakvisor_ipad_pro_appstore_en_9.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Analogue",
+      "version": "1.4.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/Cristian-Teichner.Analogue_AnalogueProCamera_1.4.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "Cristian-Teichner.Analogue",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/24/10/122410a1-7544-f40d-3e83-46f8f60fc15d/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nAnalogue – Film Camera\n\n• Bundle ID: Cristian-Teichner.Analogue\n• Updated to: 1.4.1\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app if subscription isn't unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Cristian Teichner",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Grounded",
+      "version": "3.1.20",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.ifeanyi.Grounded_Sideloadbypass2_3.1.20.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.ifeanyi.Grounded",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a1/31/82a131f3-56f1-a96b-5cfe-4558ea304a82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nGrounded: Quit Weed Smoking\n\nTweak: Subscription Unlocked\n\nVersion: 3.1.20\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.ifeanyi.Grounded\nDeveloper: Christopher Onuigbo",
+      "developer": "Christopher Onuigbo",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/02/f3/5502f3c9-d5f2-c2cc-d002-7af0da253d64/59f8996f-03d6-4b94-8666-e99d0d5051e8_5.5_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/8b/7b/bb8b7bc5-905e-8af5-512a-131fcde73b85/339da310-8b21-4fd7-801c-8da79e3a1c5f_5.5_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/df/5016dfdd-80fa-cb15-b962-8011827f79ec/b62ba2f7-e7a9-433e-89be-960b917045b5_5.5_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/d7/b1/81d7b1c3-1bac-fb9e-6570-2ae0d92c6488/d45dca23-74c7-4825-bc92-c76be46006fb_5.5_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/0f/10/5b0f1065-cfd7-dece-5632-98c79d3b43cb/8a510f58-0f52-44cc-8485-e7bc8c3e376c_5.5_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/90/0a/5e900a14-2ffb-dacb-cac6-90eb4ec23c5b/cf5e43d3-c310-4052-804a-a5c78b1c7c63_5.5_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/75/2b/7d752be5-654b-4dd7-fa3a-2301bc6dba4e/dbdeaaca-40b6-4ba1-85bb-37014bdc17a0_5.5_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/f7/0f/23f70fef-33bb-b65a-d020-b38a75fb7c99/750b44c6-84dc-419e-950a-c3da22c257cf_5.5_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/5d/77/435d77d5-dec6-ad2f-5f19-420136996c8e/edc56f5c-76de-42b9-92ff-249bec9ceaee_5.5_09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/9c/c4/1f9cc4d9-0651-db23-e529-7a7b8ed42a41/9e993afb-440c-42f2-a845-3feaab319262_5.5_10.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Zombie Catchers",
+      "version": "1.65.26",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/fi.twomenandadog.zombiecatchers_1.65.26.ipa",
+      "category": "Other",
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/ea/bb/fceabbcf-65ee-f707-ab98-cd4783e5d762/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nZombie Catchers : Hunt & sell\n\nAdded iGameGod to get unlimitee coins\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
+      "developer": "Two Men and a Dog",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/35/b4/5835b48c-0d62-773a-ea31-0e0863663653/mzl.kkcayufo.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/5c/62/9e5c62ed-869d-31e8-ac0d-7c022dec383b/mzl.uhjqukaw.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/51/a3/71/51a3711d-e85b-c696-10e7-308305df7dcf/mzl.rvxvshel.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f6/9c/f2/f69cf25e-bd82-7849-dd83-12f1563379ba/mzl.ctfvopfk.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/99/65/7199656a-2154-b645-84da-72e4a6ac9029/mzl.vuiolopj.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c7/d0/e8/c7d0e820-8ec3-832e-c966-9c40ccfeea0a/mzl.pxnsfflb.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f5/93/16/f593160a-38ea-1999-533f-217c3fcc844e/mzl.pswetjez.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Tripsy",
       "version": "3.8.10",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/app.tripsy.ios_Tripsy_3.8.10.ipa",
@@ -459,32 +631,6 @@
       "description": "from @binnichtaktivsipas |\n----------------\nLingokids - Play and Learn\n\nUnlimited features unlocked\n\nTweak made by Никита\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
       "developer": "Monkimun Inc",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Apollo",
-      "version": "1.15.11",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.christianselig.Apollo",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nApollo for Reddit\n\nApollo-ImprovedCustomApi\n\nPlease carefully read the tutorial that appears when you open the app\n\nTweak changelog\n\niPA made by Balackburn\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "developer": "Christian Selig",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -7707,42 +7853,6 @@
       }
     },
     {
-      "name": "Premiere",
-      "version": "26.10.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/com.adobe.premiere.ios_FilePickerFix_26.10.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.adobe.premiere.ios",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/9d/cf/8c9dcf10-c6f2-e8f2-c718-c70de146455e/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nAdobe Premiere AI Video Editor\n\n• Bundle ID: com.adobe.premiere.ios\n• Updated to: 26.10.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Adobe Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/f0/d6/3bf0d655-4feb-34ab-0ef0-9965cee70cfc/Adobe_Premiere_EN_iOS_6.9_Screenshots_Coachella-01_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/0a/db/d20adbba-7336-f6d9-debf-0916f2e3c434/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Splash.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/58/61/ff586157-3533-2439-6d56-4eb1cdedc74f/Adobe_Premiere_EN_iOS-6.9_Screenshot_Coachella-03_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/b1/2e/53b12ee9-b5a7-dad3-98a2-9a45e23a2017/Adobe_Premiere_EN_iOS_6.9_Screenshots_Coachella-02_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/e6/3a/53e63af8-3926-ff3e-65f0-e8140a57baa1/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Timeline.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/c8/4d/83c84de1-ce96-61a8-6389-c5f6fb2a953b/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Voiceover.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/cc/3a/a7cc3a5c-07f9-f775-d26b-a440bd4194f4/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Sound_Effects.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/2e/02/092e02a5-cc5e-290b-7e82-2ce7a6ef139c/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Export.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/3a/70/ba3a7070-63b0-7c00-a57a-60c16928ac4c/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Trust.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/81/a6/2581a636-99d7-9d42-6f4a-0535679f6303/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Stock.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/93/c9/a793c9ed-16db-860b-8e9a-194b84b07c99/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/e3/55/b4e3556f-dd40-92dc-c768-dd78cc497178/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/f2/18/53f2185a-1ac0-b79a-1058-d9814cf85aaa/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/c8/b2/27c8b21b-688b-0919-7bbc-44e317ee215c/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_04.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/ad/22/61ad22fa-9563-44d8-02c3-08cb993793cf/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_05.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/49/26/f2492610-62b1-b778-9ae8-2222077b37b1/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/9c/b6/9e9cb61b-158e-7869-0753-e96b4cc3924d/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_06.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Video Lite",
       "version": "622300",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/com.videobrowser.ios_VideoLite_622300.ipa",
@@ -7758,35 +7868,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/55/7d/1a557d30-aab4-5b32-1352-ffeac6ef36af/704546bb-5a40-405d-ac5b-2afa68f47856_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-04_at_14.28.22.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/0d/0b/690d0b41-158d-c107-56cd-7dfe4c3d3f02/a1ddf4a2-d67b-4115-acc9-018a71b93cf5_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-04_at_14.28.23.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/05/98/50059892-770c-2520-3ee0-989d62ed012c/1067ae59-965e-4a6d-a4e1-ea5322057086_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-04_at_14.28.24.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Grounded",
-      "version": "3.1.18",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.ifeanyi.Grounded_Sideloadbypass2_3.1.18.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.ifeanyi.Grounded",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a1/31/82a131f3-56f1-a96b-5cfe-4558ea304a82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nGrounded: Quit Weed Smoking\n\nTweak: Subscription Unlocked\n\nVersion: 3.1.18\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.ifeanyi.Grounded\nDeveloper: Christopher Onuigbo",
-      "developer": "Christopher Onuigbo",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/02/f3/5502f3c9-d5f2-c2cc-d002-7af0da253d64/59f8996f-03d6-4b94-8666-e99d0d5051e8_5.5_01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/8b/7b/bb8b7bc5-905e-8af5-512a-131fcde73b85/339da310-8b21-4fd7-801c-8da79e3a1c5f_5.5_02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/16/df/5016dfdd-80fa-cb15-b962-8011827f79ec/b62ba2f7-e7a9-433e-89be-960b917045b5_5.5_03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/d7/b1/81d7b1c3-1bac-fb9e-6570-2ae0d92c6488/d45dca23-74c7-4825-bc92-c76be46006fb_5.5_04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/0f/10/5b0f1065-cfd7-dece-5632-98c79d3b43cb/8a510f58-0f52-44cc-8485-e7bc8c3e376c_5.5_05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/90/0a/5e900a14-2ffb-dacb-cac6-90eb4ec23c5b/cf5e43d3-c310-4052-804a-a5c78b1c7c63_5.5_06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/75/2b/7d752be5-654b-4dd7-fa3a-2301bc6dba4e/dbdeaaca-40b6-4ba1-85bb-37014bdc17a0_5.5_07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/f7/0f/23f70fef-33bb-b65a-d020-b38a75fb7c99/750b44c6-84dc-419e-950a-c3da22c257cf_5.5_08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/5d/77/435d77d5-dec6-ad2f-5f19-420136996c8e/edc56f5c-76de-42b9-92ff-249bec9ceaee_5.5_09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/9c/c4/1f9cc4d9-0651-db23-e529-7a7b8ed42a41/9e993afb-440c-42f2-a845-3feaab319262_5.5_10.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -8668,44 +8749,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/67/20/136720a1-955a-9aaf-586d-28842fb33045/screenshot_6.9_6.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/5a/fa/115afa93-97d0-8870-5fcc-0738d6f94150/screenshot_6.9_7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/ca/65/21ca65be-12b1-f050-b311-f10b5900012d/screenshot_6.9_8.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "PeakVisor",
-      "version": "5.90",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/ru.routes.peakvisor_PeakVisor_5.90.ipa",
-      "category": "Tweaked",
-      "bundleID": "ru.routes.peakvisor",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/59/37/9d5937f3-3f58-08ee-f2ac-919d4fb79a79/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nSkiing and Hiking - PeakVisor\n\n• Bundle ID: ru.routes.peakvisor\n• Updated to: 5.90\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Routes Software SRL",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/95/98/8e95983e-31c2-c34b-a6eb-766ce6c5f8d1/peakvisor_appstore_iphone_16_plus_en_.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/38/cb/1c38cb20-28d1-a5e0-8230-45233f8bdedd/peakvisor_appstore_iphone_16_plus_en_.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/d5/06/ead50693-231f-68dd-2d67-a3d18cd8ec8e/peakvisor_appstore_iphone_16_plus_en_-2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/8b/aa/fc8baa5d-25eb-d773-bb95-415a2cfe735e/peakvisor_appstore_iphone_16_plus_en_-4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/43/6a/d7436ada-b3b1-b824-d214-8d96f681e157/peakvisor_appstore_iphone_16_plus_en_-3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/84/88/67848801-45c4-2d36-f546-1b904457f335/peakvisor_appstore_iphone_16_plus_en_-5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/c2/15/71c21562-bcef-4020-e51d-fa595b5a9256/peakvisor_appstore_iphone_16_plus_en_-6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/c9/9d/04c99d2a-494d-5615-e44d-8aac7ccf2529/peakvisor_appstore_iphone_16_plus_en_-7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/07/b3/4d07b3a2-3230-dcd3-fc69-33d7a3665b43/peakvisor_appstore_iphone_16_plus_en_-8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/37/51/1837513c-cfea-317e-668c-707b83099c94/peakvisor_appstore_iphone_16_plus_en_-10.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/db/60/4ddb6089-5ae3-bfff-e5f6-9fae26d772e1/peakvisor_appstore_ipad_pro_6_en_.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/ed/73/83ed7329-ece0-e032-7587-a224c44001a6/peakvisor_appstore_ipad_pro_6_en_-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/7d/8e/217d8ee3-b933-0ae0-5869-fa4b7770a7d6/peakvisor_appstore_ipad_pro_6_en_-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/27/4b/66274b42-c40d-a0dd-a48c-135ad24a9cec/776e9a64-7e13-4661-9f64-45d2d11c01f6_peakvisor_ipad_pro_appstore_en_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/47/a7/8b47a7c4-0bd6-8954-2dc4-18a3e194d9ef/fa1a5d6f-bb70-4522-a1f4-d2435ea52c47_peakvisor_ipad_pro_appstore_en_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/29/b7/e829b7f6-ab4f-83f4-971d-915acd3af54d/130b5fec-33e5-494d-9b26-1a6a7622edcd_peakvisor_ipad_pro_appstore_en_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/02/41/7b0241f3-cb39-2bd1-0c9d-f27a05286b0b/b5438160-e2b0-4fba-b585-35669d828545_peakvisor_ipad_pro_appstore_en_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/69/17ca690a-5b9e-2b92-d41f-0586a9890e72/6d567881-63eb-4bea-b1f1-f71f3681d4ac_peakvisor_ipad_pro_appstore_en_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/48/11/044811d6-1d02-9f0c-ce26-9c29c110dcb7/44edc488-943f-4648-b5e8-b96d378cc805_peakvisor_ipad_pro_appstore_en_9.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -14515,32 +14558,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/44/59/29/4459298a-d947-b064-fb8f-6d043e2a185a/383ad987-5c37-4afc-9c0a-c7812bde204a_iPhone_5.5__Portrait_6.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/01/1a/b9011a15-807f-8dd3-256e-02db0714b992/4e4fd50e-a487-4f01-946f-5a9cfeba308c_iPhone_5.5__Portrait_7.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/85/33/c9/8533c909-1193-1126-aa85-f1b0f178a3b0/ec8907b0-ee01-4e88-83dc-18549b8bf5ee_iPhone_5.5__Portrait_8.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Zombie Catchers",
-      "version": "1.62.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/fi.twomenandadog.zombiecatchers_1.62.1.ipa",
-      "category": "Other",
-      "bundleID": "fi.twomenandadog.zombiecatchers",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/7f/38/1d7f38f3-e628-d372-fc65-318b2ea740a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nZombie Catchers : Hunt & sell\n\nAdded iGameGod to get unlimitee coins\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
-      "developer": "Two Men and a Dog",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/35/b4/5835b48c-0d62-773a-ea31-0e0863663653/mzl.kkcayufo.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/5c/62/9e5c62ed-869d-31e8-ac0d-7c022dec383b/mzl.uhjqukaw.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/51/a3/71/51a3711d-e85b-c696-10e7-308305df7dcf/mzl.rvxvshel.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f6/9c/f2/f69cf25e-bd82-7849-dd83-12f1563379ba/mzl.ctfvopfk.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/99/65/7199656a-2154-b645-84da-72e4a6ac9029/mzl.vuiolopj.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c7/d0/e8/c7d0e820-8ec3-832e-c966-9c40ccfeea0a/mzl.pxnsfflb.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f5/93/16/f593160a-38ea-1999-533f-217c3fcc844e/mzl.pswetjez.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
