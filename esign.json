@@ -3,6 +3,47 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Drafts",
+      "version": "52.0",
+      "versionDate": "2026-05-14",
+      "size": 42803152,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.agiletortoise.Drafts5_drafts_52.0.ipa",
+      "developerName": "Agile Tortoise",
+      "bundleIdentifier": "com.agiletortoise.Drafts5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/03/9d/1f039d7b-e671-675b-9bd3-c60133deb71d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDrafts\n\n• Bundle ID: com.agiletortoise.Drafts5\n• Updated to: 52.0\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Click restore purchase and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/6e/f7/206ef73e-c4e5-ceee-ab34-52c4a0c5509f/iPhone-01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/74/36/29743667-8c3a-88de-edd3-1bc6dc9821bf/iPhone-02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/dc/d2/badcd221-b60d-404f-6f5a-6c87e067d575/iPhone-03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/88/4e/bb884e8b-332d-ca36-e056-c666e6222a79/iPhone-04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/ec/67/85ec67f2-cb02-6d9b-3a53-33b6e133669a/iPhone-08.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/c9/38/3cc93817-ea22-927c-4c0b-05ed70dd2d3b/iPhone-05.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e0/79/f6e07997-3196-33e8-c26b-b7fe60bd550c/iPhone-07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/bf/f7/12bff703-2fbd-1453-6fa5-9e84de3213e9/iPad-01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/2f/ae/722fae0f-f689-d955-a548-6d272bc33e48/iPad-02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/1e/1c/911e1cf1-d455-940d-9147-77d1bdb49686/iPad-03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/4b/99/a14b99f5-bb09-a62c-d7d0-fee3c38614db/iPad-04.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/fd/28/e7fd288d-cd6f-6583-c073-72697a6c4f6b/iPad-05.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/d7/d9/39d7d9e3-7d81-4a5f-7389-938280018f65/iPad-06.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/43/a5/6943a5cb-5170-aecc-da91-06c373261d5f/iPad-07.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Osmosis",
+      "version": "6.0.6",
+      "versionDate": "2026-05-14",
+      "size": 27432127,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.osmose-it.osmosis_OsmosisMedical_6.0.6.ipa",
+      "developerName": "Knowledge Diffusion",
+      "bundleIdentifier": "com.osmose-it.osmosis",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b2/3c/cdb23ca2-e22c-e968-6c87-43f72dd8825a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nOsmosis - Med School Study App\n\n• Bundle ID: com.osmose-it.osmosis\n• Updated to: 6.0.6\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "CollaNote",
       "version": "4.1.2",
       "versionDate": "2026-05-14",
@@ -5121,34 +5162,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Drafts",
-      "version": "51.0.6",
-      "versionDate": "2026-04-22",
-      "size": 38131022,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.agiletortoise.Drafts5_drafts_51.0.6.ipa",
-      "developerName": "Agile Tortoise",
-      "bundleIdentifier": "com.agiletortoise.Drafts5",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/03/9d/1f039d7b-e671-675b-9bd3-c60133deb71d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDrafts\n\nPro features unlocked\n\n⚠️ only works with Trollstore / Jailbreak.\n\nTap on restore purchase if pro is not unlocked directly\n\nTweak made by Blatant\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/6e/f7/206ef73e-c4e5-ceee-ab34-52c4a0c5509f/iPhone-01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/74/36/29743667-8c3a-88de-edd3-1bc6dc9821bf/iPhone-02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/dc/d2/badcd221-b60d-404f-6f5a-6c87e067d575/iPhone-03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/88/4e/bb884e8b-332d-ca36-e056-c666e6222a79/iPhone-04.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/ec/67/85ec67f2-cb02-6d9b-3a53-33b6e133669a/iPhone-08.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/c9/38/3cc93817-ea22-927c-4c0b-05ed70dd2d3b/iPhone-05.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e0/79/f6e07997-3196-33e8-c26b-b7fe60bd550c/iPhone-07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/bf/f7/12bff703-2fbd-1453-6fa5-9e84de3213e9/iPad-01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/2f/ae/722fae0f-f689-d955-a548-6d272bc33e48/iPad-02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/1e/1c/911e1cf1-d455-940d-9147-77d1bdb49686/iPad-03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/4b/99/a14b99f5-bb09-a62c-d7d0-fee3c38614db/iPad-04.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/fd/28/e7fd288d-cd6f-6583-c073-72697a6c4f6b/iPad-05.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/d7/d9/39d7d9e3-7d81-4a5f-7389-938280018f65/iPad-06.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/43/a5/6943a5cb-5170-aecc-da91-06c373261d5f/iPad-07.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Instagram (IGFormat)",
       "version": "426.0.0",
       "versionDate": "2026-04-22",
@@ -8057,19 +8070,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/d5/be/79d5be7a-1370-7016-2695-915c1969c70b/91d51435-47c2-4dbc-90ef-de94b21a5552_04.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/c8/67/c6c86782-b4b2-3704-5d80-76ebfc56620d/d9f1d9ab-a9e5-4e2b-9f75-d210331701e0_05.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Osmosis",
-      "version": "6.0.4",
-      "versionDate": "2026-03-27",
-      "size": 25352711,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.osmose-it.osmosis_OsmosisPatch_6.0.4.ipa",
-      "developerName": "Knowledge Diffusion",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7c/22/727c22e9-357f-53cc-f93a-6b9beef68d66/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nOsmosis: Medical School Notes\n\nFull Access\n\nTweak made by Никита\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
