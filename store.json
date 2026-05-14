@@ -1813,7 +1813,7 @@
       "bundleIdentifier": "com.agiletortoise.Drafts5",
       "developerName": "Agile Tortoise",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/03/9d/1f039d7b-e671-675b-9bd3-c60133deb71d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDrafts\n\nPro features unlocked\n\n⚠️ only works with Trollstore / Jailbreak.\n\nTap on restore purchase if pro is not unlocked directly\n\nTweak made by Blatant\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nDrafts\n\n• Bundle ID: com.agiletortoise.Drafts5\n• Updated to: 52.0\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Click restore purchase and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/6e/f7/206ef73e-c4e5-ceee-ab34-52c4a0c5509f/iPhone-01.png/1320x2868bb.webp"
@@ -1876,6 +1876,12 @@
       ],
       "versions": [
         {
+          "version": "52.0",
+          "date": "2026-05-14",
+          "size": 42803152,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.agiletortoise.Drafts5_drafts_52.0.ipa"
+        },
+        {
           "version": "51.0.6",
           "date": "2026-04-22",
           "size": 38131022,
@@ -1886,19 +1892,13 @@
           "date": "2026-04-16",
           "size": 38149117,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/com.agiletortoise.Drafts5_drafts_51.0.5.ipa"
-        },
-        {
-          "version": "51.0",
-          "date": "2026-03-13",
-          "size": 37786468,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.agiletortoise.Drafts5_drafts_51.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "51.0.6",
-      "versionDate": "2026-04-22T01:16:42.021Z",
-      "size": 38131022,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.agiletortoise.Drafts5_drafts_51.0.6.ipa"
+      "version": "52.0",
+      "versionDate": "2026-05-14T13:43:53.205Z",
+      "size": 42803152,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.agiletortoise.Drafts5_drafts_52.0.ipa"
     },
     {
       "name": "Nerva",
@@ -12953,6 +12953,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.appicfun.translatorfree_SpeakTranslate_6.0.56.ipa"
     },
     {
+      "name": "Osmosis",
+      "bundleIdentifier": "com.osmose-it.osmosis",
+      "developerName": "Knowledge Diffusion",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b2/3c/cdb23ca2-e22c-e968-6c87-43f72dd8825a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nOsmosis - Med School Study App\n\n• Bundle ID: com.osmose-it.osmosis\n• Updated to: 6.0.6\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "6.0.6",
+          "date": "2026-05-14",
+          "size": 27432127,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.osmose-it.osmosis_OsmosisMedical_6.0.6.ipa"
+        },
+        {
+          "version": "6.0.4",
+          "date": "2026-03-27",
+          "size": 25352711,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.osmose-it.osmosis_OsmosisPatch_6.0.4.ipa"
+        },
+        {
+          "version": "6.0.3",
+          "date": "2026-03-12",
+          "size": 27046944,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.osmose-it.osmosis_OsmosisMedical_6.0.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.0.6",
+      "versionDate": "2026-05-14T10:43:51.116Z",
+      "size": 27432127,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.osmose-it.osmosis_OsmosisMedical_6.0.6.ipa"
+    },
+    {
       "name": "ClearStatus",
       "bundleIdentifier": "hd.clear.status.app.clearstatus",
       "developerName": "Akash Varlani",
@@ -12999,34 +13033,6 @@
       "versionDate": "2026-05-13T07:41:59.681Z",
       "size": 31080910,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/hd.clear.status.app.clearstatus_ClearStatusPro_6.0.4.ipa"
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "Knowledge Diffusion",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7c/22/727c22e9-357f-53cc-f93a-6b9beef68d66/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nOsmosis: Medical School Notes\n\nFull Access\n\nTweak made by Никита\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "6.0.4",
-          "date": "2026-03-27",
-          "size": 25352711,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.osmose-it.osmosis_OsmosisPatch_6.0.4.ipa"
-        },
-        {
-          "version": "6.0.3",
-          "date": "2026-03-12",
-          "size": 27046944,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.osmose-it.osmosis_OsmosisMedical_6.0.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "6.0.4",
-      "versionDate": "2026-03-27T22:01:05.784Z",
-      "size": 25352711,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/com.osmose-it.osmosis_OsmosisPatch_6.0.4.ipa"
     },
     {
       "name": "Osmosis",
