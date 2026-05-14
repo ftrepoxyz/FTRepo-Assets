@@ -2624,6 +2624,12 @@
       ],
       "versions": [
         {
+          "version": "34.0",
+          "date": "2026-05-14",
+          "size": 192102961,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.photomyne.photomyneapplite_StopReviews_34.0.ipa"
+        },
+        {
           "version": "33.0",
           "date": "2026-04-21",
           "size": 145747044,
@@ -2637,10 +2643,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "33.0",
-      "versionDate": "2026-04-21T22:16:11.522Z",
-      "size": 145747044,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.photomyne.photomyneapplite_StopReviews_33.0.ipa"
+      "version": "34.0",
+      "versionDate": "2026-05-14T19:44:37.993Z",
+      "size": 192102961,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.photomyne.photomyneapplite_StopReviews_34.0.ipa"
     },
     {
       "name": "TikTok (LRD)",
@@ -7987,6 +7993,62 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-08/io.stampapp.Stamp_FreeYourMusic_9.23.0.ipa"
     },
     {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/d1/40/8ad140a2-156d-db21-d415-3d5e186cb9a3/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nYTMusicUltimate\n\nThe best tweak for YouTube Music on iOS.\n\nRelease information\n\nIf you're on iOS 14-15, download this version\n\nDownloading only works on 9.14.2 and lower. The developer has to update his tweak to fix this problem\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "9.19.5",
+          "date": "2026-05-14",
+          "size": 100365948,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.19.5.ipa"
+        },
+        {
+          "version": "9.17.2",
+          "date": "2026-04-29",
+          "size": 99758679,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.17.2.ipa"
+        },
+        {
+          "version": "9.12.2",
+          "date": "2026-03-26",
+          "size": 103251851,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.google.ios.youtubemusic_YTMABConfig_9.12.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.19.5",
+      "versionDate": "2026-05-14T19:45:26.408Z",
+      "size": 100365948,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.19.5.ipa"
+    },
+    {
       "name": "UpNote",
       "bundleIdentifier": "com.getupnote.ios",
       "developerName": "UpNote Company Limited",
@@ -8041,62 +8103,6 @@
       "versionDate": "2026-05-04T01:40:00.542Z",
       "size": 52256074,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.getupnote.ios_UpNote_9.18.5.ipa"
-    },
-    {
-      "name": "YouTube Music",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Google",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/d1/40/8ad140a2-156d-db21-d415-3d5e186cb9a3/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nYTMusicUltimate\n\nThe best tweak for YouTube Music on iOS.\n\nRelease information\n\nIf you're on iOS 14-15, download this version\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "9.17.2",
-          "date": "2026-04-29",
-          "size": 99758679,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.17.2.ipa"
-        },
-        {
-          "version": "9.12.2",
-          "date": "2026-03-26",
-          "size": 103251851,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.google.ios.youtubemusic_YTMABConfig_9.12.2.ipa"
-        },
-        {
-          "version": "7.02.2",
-          "date": "2026-03-19",
-          "size": 64078080,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.google.ios.youtubemusic_YTMusicUltimate_7.02.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "9.17.2",
-      "versionDate": "2026-04-29T22:41:23.533Z",
-      "size": 99758679,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.17.2.ipa"
     },
     {
       "name": "Voloco",
@@ -11471,6 +11477,82 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.adobe.fresco.ios_SideloadSpoofer-08_7.2.0.ipa"
     },
     {
+      "name": "EPIK",
+      "bundleIdentifier": "com.snowcorp.epik",
+      "developerName": "SNOW Corporation",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/97/7a/9e977aab-cf5f-f033-27a8-fb520d618c50/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nEPIK - AI Photo & Video Editor\n\n• Bundle ID: com.snowcorp.epik\n• Updated to: 7.1.20\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⛔️Restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/45/d9/5745d933-47ec-80c1-7466-2480d5e998dc/Adjust_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/39/4a/b3394a4a-1c0e-cc87-2cef-8d6e47269b45/Sticker_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b5/92/14b592f5-9e23-7330-3064-44d6a1fdc87e/Restrore_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/71/f0/3871f094-7f61-050f-09a4-60009e26259f/HD_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/bd/41/ecbd4176-37af-fca2-e40f-d0c669ffeddf/Cutout_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5f/c3/235fc36f-aaa7-e342-d695-3b37232be3d0/Layout_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f9/26/34f92689-f584-3f21-9349-70251f3b4a50/Beauty_en.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/97/16/ab97163b-1af1-86ef-b136-9d7a2c0f719b/Remove_en.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/45/d9/5745d933-47ec-80c1-7466-2480d5e998dc/Adjust_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/39/4a/b3394a4a-1c0e-cc87-2cef-8d6e47269b45/Sticker_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b5/92/14b592f5-9e23-7330-3064-44d6a1fdc87e/Restrore_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/71/f0/3871f094-7f61-050f-09a4-60009e26259f/HD_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/bd/41/ecbd4176-37af-fca2-e40f-d0c669ffeddf/Cutout_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5f/c3/235fc36f-aaa7-e342-d695-3b37232be3d0/Layout_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f9/26/34f92689-f584-3f21-9349-70251f3b4a50/Beauty_en.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/97/16/ab97163b-1af1-86ef-b136-9d7a2c0f719b/Remove_en.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "7.1.20",
+          "date": "2026-05-14",
+          "size": 194922495,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.snowcorp.epik_EPIK_7.1.20.ipa"
+        },
+        {
+          "version": "7.1.0",
+          "date": "2026-04-17",
+          "size": 174657863,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.snowcorp.epik_EPIK_7.1.0.ipa"
+        },
+        {
+          "version": "7.0.160",
+          "date": "2026-04-02",
+          "size": 168529776,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.snowcorp.epik_EPIK_7.0.160.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "7.1.20",
+      "versionDate": "2026-05-14T19:44:13.987Z",
+      "size": 194922495,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.snowcorp.epik_EPIK_7.1.20.ipa"
+    },
+    {
       "name": "Darkroom",
       "bundleIdentifier": "co.bergen.Darkroom",
       "developerName": "Bergen Co.",
@@ -11547,80 +11629,66 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/co.bergen.Darkroom_RevenueCatFix26_7.1.6.ipa"
     },
     {
-      "name": "EPIK",
-      "bundleIdentifier": "com.snowcorp.epik",
-      "developerName": "SNOW Corporation",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/97/7a/9e977aab-cf5f-f033-27a8-fb520d618c50/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nEPIK - AI Photo & Video Editor\n\n• Bundle ID: com.snowcorp.epik\n• Updated to: 7.1.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⛔️Restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "name": "Noteshelf 3",
+      "bundleIdentifier": "com.fluidtouch.noteshelf3",
+      "developerName": "Fluid Touch Pte. Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/8d/ad/7a8dadcb-9a4e-165d-e7d7-4a5cc992dc1f/AppIcon-Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNoteshelf 3\n\nTap on buy then cancel\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
       "screenshots": [
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/1320x2868bb.png"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/01/24/ac0124af-9f27-0bfe-f0c8-9e47622a8b00/English1.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/1320x2868bb.png"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/46/a8/3d46a8a3-3afc-aa8b-6818-f7a362f26781/English2.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/45/d9/5745d933-47ec-80c1-7466-2480d5e998dc/Adjust_en.png/1320x2868bb.png"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/02/2e/d6022eed-61da-21f8-e0af-515ae03dce61/English3.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/39/4a/b3394a4a-1c0e-cc87-2cef-8d6e47269b45/Sticker_en.png/1320x2868bb.png"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/9c/18/be9c188c-4258-dd9b-5d4b-a160e68a7a5c/English4.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b5/92/14b592f5-9e23-7330-3064-44d6a1fdc87e/Restrore_en.png/1320x2868bb.png"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/61/fa/7a61fa25-da01-ebdf-b2d2-60eb7355d876/English5.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/71/f0/3871f094-7f61-050f-09a4-60009e26259f/HD_en.png/1320x2868bb.png"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/f0/29/fcf029a3-8c01-7ca9-4c82-98d70d3ca6b3/English6.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/bd/41/ecbd4176-37af-fca2-e40f-d0c669ffeddf/Cutout_en.png/1320x2868bb.png"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/00/39/97003935-5d56-00db-f5cd-2f9ab7d06191/English7.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5f/c3/235fc36f-aaa7-e342-d695-3b37232be3d0/Layout_en.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f9/26/34f92689-f584-3f21-9349-70251f3b4a50/Beauty_en.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/97/16/ab97163b-1af1-86ef-b136-9d7a2c0f719b/Remove_en.png/1320x2868bb.png"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/71/04/eb71049a-df0e-edaf-6a34-8504e6b36c93/English8.jpg/1320x2868bb.jpg"
         }
       ],
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/45/d9/5745d933-47ec-80c1-7466-2480d5e998dc/Adjust_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/39/4a/b3394a4a-1c0e-cc87-2cef-8d6e47269b45/Sticker_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/b5/92/14b592f5-9e23-7330-3064-44d6a1fdc87e/Restrore_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/71/f0/3871f094-7f61-050f-09a4-60009e26259f/HD_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/bd/41/ecbd4176-37af-fca2-e40f-d0c669ffeddf/Cutout_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5f/c3/235fc36f-aaa7-e342-d695-3b37232be3d0/Layout_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f9/26/34f92689-f584-3f21-9349-70251f3b4a50/Beauty_en.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/97/16/ab97163b-1af1-86ef-b136-9d7a2c0f719b/Remove_en.png/1320x2868bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/01/24/ac0124af-9f27-0bfe-f0c8-9e47622a8b00/English1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/46/a8/3d46a8a3-3afc-aa8b-6818-f7a362f26781/English2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/02/2e/d6022eed-61da-21f8-e0af-515ae03dce61/English3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/9c/18/be9c188c-4258-dd9b-5d4b-a160e68a7a5c/English4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/61/fa/7a61fa25-da01-ebdf-b2d2-60eb7355d876/English5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/f0/29/fcf029a3-8c01-7ca9-4c82-98d70d3ca6b3/English6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/00/39/97003935-5d56-00db-f5cd-2f9ab7d06191/English7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/71/04/eb71049a-df0e-edaf-6a34-8504e6b36c93/English8.jpg/1320x2868bb.jpg"
       ],
       "versions": [
         {
-          "version": "7.1.0",
-          "date": "2026-04-17",
-          "size": 174657863,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.snowcorp.epik_EPIK_7.1.0.ipa"
+          "version": "7.1.1",
+          "date": "2026-05-14",
+          "size": 355591285,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.fluidtouch.noteshelf3_Sideloadbypass2_7.1.1.ipa"
         },
         {
-          "version": "7.0.160",
-          "date": "2026-04-02",
-          "size": 168529776,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.snowcorp.epik_EPIK_7.0.160.ipa"
-        },
-        {
-          "version": "7.0.130",
-          "date": "2026-03-13",
-          "size": 157791157,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.snowcorp.epik_EPIK_7.0.130.ipa"
+          "version": "6.7.1",
+          "date": "2026-03-12",
+          "size": 238992452,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.fluidtouch.noteshelf3_Sideloadbypass1_6.7.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "7.1.0",
-      "versionDate": "2026-04-17T01:15:22.684Z",
-      "size": 174657863,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.snowcorp.epik_EPIK_7.1.0.ipa"
+      "version": "7.1.1",
+      "versionDate": "2026-05-14T19:45:11.029Z",
+      "size": 355591285,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-14/com.fluidtouch.noteshelf3_Sideloadbypass2_7.1.1.ipa"
     },
     {
       "name": "aa",
@@ -12243,62 +12311,6 @@
       "versionDate": "2026-03-16T20:03:50.694Z",
       "size": 66895262,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.breakthroughapps.Mary-Ochsner-Yoga_Sideloadbypass2_6.8.3.ipa"
-    },
-    {
-      "name": "Noteshelf 3",
-      "bundleIdentifier": "com.fluidtouch.noteshelf3",
-      "developerName": "Fluid Touch Pte. Ltd.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/79/f3/5e79f3fd-afe0-9e0d-d276-8bd50b03bcd5/AppIcon-Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNoteshelf 3\n\nTap on buy then cancel\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/72/bb/4272bb79-51a6-d738-331b-783799aa9c40/English1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/f9/46/eff946ea-f772-b4b5-860c-1f9340c4bbcf/English2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/31/e6/fa31e6c8-d9be-182d-5b77-6e2f90899edf/English3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/64/63/f46463b0-d1a8-03bb-1b78-a1a3ffb81618/English4.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/e9/33/7de933f8-f889-c4da-62e7-4fa20b40c929/English5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/5a/04/a05a04a6-0bd7-d646-45b0-050161d01142/English6.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/e0/f7/1be0f747-6974-72b2-a12b-b769bad0c5cf/English7.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/56/af/de56af17-28f1-b852-9cf1-a261f510dd3d/English8.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/72/bb/4272bb79-51a6-d738-331b-783799aa9c40/English1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/f9/46/eff946ea-f772-b4b5-860c-1f9340c4bbcf/English2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/31/e6/fa31e6c8-d9be-182d-5b77-6e2f90899edf/English3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/64/63/f46463b0-d1a8-03bb-1b78-a1a3ffb81618/English4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/e9/33/7de933f8-f889-c4da-62e7-4fa20b40c929/English5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/5a/04/a05a04a6-0bd7-d646-45b0-050161d01142/English6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/e0/f7/1be0f747-6974-72b2-a12b-b769bad0c5cf/English7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/56/af/de56af17-28f1-b852-9cf1-a261f510dd3d/English8.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "6.7.1",
-          "date": "2026-03-12",
-          "size": 238992452,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.fluidtouch.noteshelf3_Sideloadbypass1_6.7.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "6.7.1",
-      "versionDate": "2026-03-12T08:05:22.327Z",
-      "size": 238992452,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.fluidtouch.noteshelf3_Sideloadbypass1_6.7.1.ipa"
     },
     {
       "name": "Life",
