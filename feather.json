@@ -10079,7 +10079,7 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f9/6c/a0f96c8e-8765-f105-e436-88c274d92f10/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDuolingo: Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Reuploaded: 7.122.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nDuolingo: Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.122.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/32/13/a032137c-b6b5-8533-8b4d-00734cb192dd/iPhone6.5_-_Current_ASO_-_1.png/1320x2868bb.webp"
@@ -10162,6 +10162,12 @@
       ],
       "versions": [
         {
+          "version": "7.122.1",
+          "date": "2026-05-15",
+          "size": 213513508,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/com.duolingo.DuolingoMobile_Duolingo_7.122.1.ipa"
+        },
+        {
           "version": "7.122.0",
           "date": "2026-05-11",
           "size": 213519642,
@@ -10172,19 +10178,13 @@
           "date": "2026-04-21",
           "size": 214193752,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.duolingo.DuolingoMobile_Duolingo_7.119.0.ipa"
-        },
-        {
-          "version": "7.116.0",
-          "date": "2026-03-30",
-          "size": 207152998,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/com.duolingo.DuolingoMobile_Duolingo_7.116.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "7.122.0",
-      "versionDate": "2026-05-11T19:41:28.861Z",
-      "size": 213519642,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.duolingo.DuolingoMobile_Duolingo_7.122.0.ipa"
+      "version": "7.122.1",
+      "versionDate": "2026-05-15T19:44:25.359Z",
+      "size": 213513508,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/com.duolingo.DuolingoMobile_Duolingo_7.122.1.ipa"
     },
     {
       "name": "ism",
@@ -14905,7 +14905,7 @@
       "bundleIdentifier": "app.gentler.activity",
       "developerName": "Gentler Stories LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/73/5f/50735f45-ec11-9146-71e4-3e326b8ce312/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nGentler Streak Workout Tracker\n\n• Bundle ID: app.gentler.activity\n• Updated to: 5.12.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nGentler Streak Workout Tracker\n\n• Bundle ID: app.gentler.activity\n• Updated to: 5.12.4\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/43/dc/fc43dc40-f5df-a46d-3799-521f962107df/Valera_English_iPhone1.png/1320x2868bb.webp"
@@ -14984,6 +14984,12 @@
       ],
       "versions": [
         {
+          "version": "5.12.4",
+          "date": "2026-05-15",
+          "size": 191823860,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/app.gentler.activity_AutoRcSideload_5.12.4.ipa"
+        },
+        {
           "version": "5.12.2",
           "date": "2026-04-28",
           "size": 190201455,
@@ -14991,10 +14997,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.12.2",
-      "versionDate": "2026-04-28T07:39:20.233Z",
-      "size": 190201455,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/app.gentler.activity_AutoRcSideload_5.12.2.ipa"
+      "version": "5.12.4",
+      "versionDate": "2026-05-15T16:44:19.739Z",
+      "size": 191823860,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/app.gentler.activity_AutoRcSideload_5.12.4.ipa"
     },
     {
       "name": "Sling Drift",
