@@ -5,6 +5,81 @@
   },
   "data": [
     {
+      "name": "Duolingo",
+      "version": "7.122.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/com.duolingo.DuolingoMobile_Duolingo_7.122.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.duolingo.DuolingoMobile",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f9/6c/a0f96c8e-8765-f105-e436-88c274d92f10/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nDuolingo: Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.122.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Duolingo",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/32/13/a032137c-b6b5-8533-8b4d-00734cb192dd/iPhone6.5_-_Current_ASO_-_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/6b/c4/976bc4fd-844e-206e-e31c-d9e23f651a2e/iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_20.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/06/be/6a06be5b-4150-3261-5b82-f01e21dc46da/iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_21.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/a3/de/9ea3de39-d5a4-4433-a95e-ecef5f17ce82/6f720a4b-b175-4c97-95a5-b4b0d47a7efc_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/e0/bf/ede0bf85-d9dc-da4f-829b-130c999c7a7f/b8f7baed-f34e-47de-839e-53f1b955144c_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/3c/25/723c2504-637f-4ed4-9671-772205db7d00/86b731eb-a471-4a30-8299-12017d022069_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/38/18/9d381833-2619-ba6f-d7b6-7de8b4d9d54b/d4460d2f-c1c0-4ba6-a636-11bd4a45a08b_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/3a/a0/d13aa00a-8e51-86ab-7b89-9a5276fe690e/f16197e4-45fd-4d9d-9019-c1bab0b57050_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/c5/35/6fc5355e-f58b-acb0-9595-49a69a436351/9f196a8e-1dc4-4350-8889-5096cf10f9ac_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/69/ef/1369ef75-5ed5-8e49-2721-6a498344d09c/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_1_-_v2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/49/60/3a4960ba-9e2d-da13-c4a7-5acfb4cfcf67/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_17.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/61/82/13618263-eca9-5c91-2475-4d7759a851d8/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_16.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cb/2c/5ccb2ce8-2d18-5210-5f74-c2406e5cb996/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/9e/42/1d9e4220-4486-fde6-0604-a17b442f6c95/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/b2/fa/8cb2fa7c-2172-26a8-ce37-d7ff39c9b254/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/78/e6/d178e657-fb25-3a30-454c-d25f8dfa2b3a/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/a7/76/8ea77601-efdd-7c53-5dc8-8b2607744619/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/a7/d0/c5a7d0f8-dfe6-f587-affa-caf8e572479d/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_39.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/9f/7d/299f7d00-4b38-f6f6-bbb5-e6f35f1a8c18/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_9.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Gentler Streak",
+      "version": "5.12.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/app.gentler.activity_AutoRcSideload_5.12.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "app.gentler.activity",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/73/5f/50735f45-ec11-9146-71e4-3e326b8ce312/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nGentler Streak Workout Tracker\n\n• Bundle ID: app.gentler.activity\n• Updated to: 5.12.4\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Gentler Stories LLC",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/43/dc/fc43dc40-f5df-a46d-3799-521f962107df/Valera_English_iPhone1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/d1/3f/f7d13f37-7120-0f03-881c-8fe0b8494472/Valera_English_iPhone2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/03/00/c80300ac-bd26-aba8-2d35-0e2d56bb8972/Valera_English_iPhone3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/d0/7c/4dd07c7b-9b01-e5ac-a29e-ece618aebf74/Valera_English_iPhone10.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/db/eb/5cdbeb12-8cb6-1819-a85e-d5319dbc78c4/Valera_English_iPhone4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/45/7f/93457f93-0177-5e24-3d03-29a24631244a/Valera_English_iPhone5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/a9/de/1aa9de5e-ffe7-2d49-17e3-50232d1c6331/Valera_English_iPhone6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/9b/da/da9bda15-7df7-b905-8e8a-2bac80a405f8/Valera_English_iPhone7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/5e/ca/535ecafa-ac2d-5c18-eb32-649dc551c18e/Valera_English_iPhone8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/c8/5e/83c85e09-5e04-03ea-1408-84c952cde27d/Valera_English_iPhone9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/e4/a8/16e4a859-4d98-b214-9c2a-abb9efaca986/iPad_S1@1x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/f8/81/b3f88108-00b3-f8ea-a670-17c724a8eb02/iPad_S2@1x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/2f/94/4c2f9467-2f95-f5ca-a310-ff2679977d6c/iPad_S3@1x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/44/74/12447448-9232-4496-a785-d2a9701b8260/iPad_S8@1x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/06/33/0c063305-3d40-c7e2-548c-88938cf01f16/iPad_S4@1x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/f0/b9/04f0b9b7-fc88-0f4c-3b71-4fd0b44df87f/iPad_S5@1x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/fe/06/c4fe0679-cbe7-287f-f192-fd59b3dd74c3/iPad_S7@1x.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/4f/a4/4c4fa4e6-3d5e-e16c-ad22-c0dadb66fb16/iPad_S6@1x.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Bearable",
       "version": "1.0.595",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/co.codeleap.bearable_AutoRcSideload_1.0.595.ipa",
@@ -1512,44 +1587,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/42/f3/2c42f30a-7942-356a-18c0-13c5b0e511c3/98ec4baf-b027-40ae-8568-00d45eaf26c2_2208x1242_3.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/c9/d6/dac9d6dc-fa56-0ebb-47d2-cf743f38290d/7130cee7-9798-48b7-982b-45f5e036f998_2208x1242_4.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/c1/3e/bcc13ef3-d2f5-01e8-15b2-76a4778d84bd/03961ddd-7874-401c-92a3-542c1e823ef5_2208x1242_6.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Duolingo",
-      "version": "7.122.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.duolingo.DuolingoMobile_Duolingo_7.122.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.duolingo.DuolingoMobile",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f9/6c/a0f96c8e-8765-f105-e436-88c274d92f10/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nDuolingo: Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Reuploaded: 7.122.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Duolingo",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/32/13/a032137c-b6b5-8533-8b4d-00734cb192dd/iPhone6.5_-_Current_ASO_-_1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/6b/c4/976bc4fd-844e-206e-e31c-d9e23f651a2e/iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_20.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/06/be/6a06be5b-4150-3261-5b82-f01e21dc46da/iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_21.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/a3/de/9ea3de39-d5a4-4433-a95e-ecef5f17ce82/6f720a4b-b175-4c97-95a5-b4b0d47a7efc_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/e0/bf/ede0bf85-d9dc-da4f-829b-130c999c7a7f/b8f7baed-f34e-47de-839e-53f1b955144c_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/3c/25/723c2504-637f-4ed4-9671-772205db7d00/86b731eb-a471-4a30-8299-12017d022069_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/38/18/9d381833-2619-ba6f-d7b6-7de8b4d9d54b/d4460d2f-c1c0-4ba6-a636-11bd4a45a08b_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/3a/a0/d13aa00a-8e51-86ab-7b89-9a5276fe690e/f16197e4-45fd-4d9d-9019-c1bab0b57050_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/c5/35/6fc5355e-f58b-acb0-9595-49a69a436351/9f196a8e-1dc4-4350-8889-5096cf10f9ac_iPhone_6.5_026824_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_9.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/69/ef/1369ef75-5ed5-8e49-2721-6a498344d09c/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_1_-_v2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/49/60/3a4960ba-9e2d-da13-c4a7-5acfb4cfcf67/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_17.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/61/82/13618263-eca9-5c91-2475-4d7759a851d8/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_16.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/cb/2c/5ccb2ce8-2d18-5210-5f74-c2406e5cb996/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/9e/42/1d9e4220-4486-fde6-0604-a17b442f6c95/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/b2/fa/8cb2fa7c-2172-26a8-ce37-d7ff39c9b254/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/78/e6/d178e657-fb25-3a30-454c-d25f8dfa2b3a/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/a7/76/8ea77601-efdd-7c53-5dc8-8b2607744619/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/a7/d0/c5a7d0f8-dfe6-f587-affa-caf8e572479d/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_39.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/9f/7d/299f7d00-4b38-f6f6-bbb5-e6f35f1a8c18/iPad_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_9.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -4645,43 +4682,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/de/34/f2de346e-7075-a4b1-6f77-fa7ed1126754/b0a13888-f9c2-4362-9adb-4d8ff568581f_IOS_5.5_5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/49/9f/a2499fcd-9038-9385-bee6-99a1ffdd149e/61078484-31d1-447e-a656-a25cb4212285_IOS_5.5_6.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/b4/74/ebb474cf-e5f9-481a-226d-817c45b57b8d/1044b7ba-f80c-4008-81fb-8010ddd32ca7_IOS_5.5_8.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Gentler Streak",
-      "version": "5.12.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/app.gentler.activity_AutoRcSideload_5.12.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "app.gentler.activity",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/73/5f/50735f45-ec11-9146-71e4-3e326b8ce312/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nGentler Streak Workout Tracker\n\n• Bundle ID: app.gentler.activity\n• Updated to: 5.12.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Gentler Stories LLC",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/43/dc/fc43dc40-f5df-a46d-3799-521f962107df/Valera_English_iPhone1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/d1/3f/f7d13f37-7120-0f03-881c-8fe0b8494472/Valera_English_iPhone2.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/03/00/c80300ac-bd26-aba8-2d35-0e2d56bb8972/Valera_English_iPhone3.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/d0/7c/4dd07c7b-9b01-e5ac-a29e-ece618aebf74/Valera_English_iPhone10.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/db/eb/5cdbeb12-8cb6-1819-a85e-d5319dbc78c4/Valera_English_iPhone4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/45/7f/93457f93-0177-5e24-3d03-29a24631244a/Valera_English_iPhone5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/a9/de/1aa9de5e-ffe7-2d49-17e3-50232d1c6331/Valera_English_iPhone6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/9b/da/da9bda15-7df7-b905-8e8a-2bac80a405f8/Valera_English_iPhone7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/5e/ca/535ecafa-ac2d-5c18-eb32-649dc551c18e/Valera_English_iPhone8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/c8/5e/83c85e09-5e04-03ea-1408-84c952cde27d/Valera_English_iPhone9.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/e4/a8/16e4a859-4d98-b214-9c2a-abb9efaca986/iPad_S1@1x.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/f8/81/b3f88108-00b3-f8ea-a670-17c724a8eb02/iPad_S2@1x.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/2f/94/4c2f9467-2f95-f5ca-a310-ff2679977d6c/iPad_S3@1x.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/44/74/12447448-9232-4496-a785-d2a9701b8260/iPad_S8@1x.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/06/33/0c063305-3d40-c7e2-548c-88938cf01f16/iPad_S4@1x.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/f0/b9/04f0b9b7-fc88-0f4c-3b71-4fd0b44df87f/iPad_S5@1x.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/fe/06/c4fe0679-cbe7-287f-f192-fd59b3dd74c3/iPad_S7@1x.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/4f/a4/4c4fa4e6-3d5e-e16c-ad22-c0dadb66fb16/iPad_S6@1x.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
