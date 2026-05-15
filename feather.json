@@ -10458,8 +10458,8 @@
       "name": "扫描全能王",
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/d7/1e/8fd71e65-222d-0966-5b30-70f702e93da2/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCamScanner - PDF Scanner App\n\n• Bundle ID: com.intsig.CamScannerLite\n• Updated to: 7.16.5\n• Minimum iOS: 13.0\n• Patched\n• Modifier: VIP Unlocked\n• Tweaked by @blatants\n\n• Note:\nMay or may NOT work on iOS 18 and 26.\nSome features are server-sided and cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/84/23/78842339-419b-1665-d133-9f399d81ab8e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nCamScanner - PDF Scanner App\n\n• Bundle ID: com.intsig.CamScannerLite\n• Updated to: 7.17.5\n• Minimum iOS: 13.0\n• Patched\n• Modifier: VIP Unlocked\n• Tweaked by @blatants\n\n• Note:\nMay or may NOT work on iOS 18 and 26.\nSome features are server-sided and cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/1320x2868bb.jpg"
@@ -10502,6 +10502,12 @@
       ],
       "versions": [
         {
+          "version": "7.17.5",
+          "date": "2026-05-15",
+          "size": 200297214,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/com.intsig.CamScannerLite_CamScanner_7.17.5.ipa"
+        },
+        {
           "version": "7.16.5",
           "date": "2026-04-27",
           "size": 208217906,
@@ -10512,19 +10518,13 @@
           "date": "2026-04-20",
           "size": 207849716,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-20/com.intsig.CamScannerLite_CamScanner_7.16.0.ipa"
-        },
-        {
-          "version": "7.15.5",
-          "date": "2026-04-10",
-          "size": 189345602,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.intsig.CamScannerLite_CamScanner_7.15.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "7.16.5",
-      "versionDate": "2026-04-27T07:39:12.319Z",
-      "size": 208217906,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.intsig.CamScannerLite_CamScanner_7.16.5.ipa"
+      "version": "7.17.5",
+      "versionDate": "2026-05-15T04:44:17.289Z",
+      "size": 200297214,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/com.intsig.CamScannerLite_CamScanner_7.17.5.ipa"
     },
     {
       "name": "2 Player Games",
