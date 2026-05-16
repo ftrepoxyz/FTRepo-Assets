@@ -5,6 +5,255 @@
   },
   "data": [
     {
+      "name": "duet",
+      "version": "3.1.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.kairos.duet_DuetDisplay_3.1.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.kairos.duet",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/69/ac/2e69accd-8bfd-cb5f-8e28-f7770a219770/DuetDisplayAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nDuet Display\n\n• Bundle ID: com.kairos.duet\n• Updated to: 3.1.6\n• Minimum iOS: 12.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Duet, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c9/da/acc9da7c-5562-dd17-3f6e-cb4dd6e7227c/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/37/36/3b373606-6cce-f7ce-0c76-866c4fc28218/pr_source.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c6/70/7dc6700b-bbab-8374-debe-95aee232e661/mzl.swgojqwm.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Detail",
+      "version": "5.5.19",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/co.detail.duo_Detail_5.5.19.ipa",
+      "category": "Tweaked",
+      "bundleID": "co.detail.duo",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/7e/68/537e6860-7efe-9a4c-e27f-c7abf0b2b859/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.19\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Detail Technologies B.V.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/ec/4c/02ec4cd7-1edf-1ad4-a7e5-a1d672dc2151/EN_-_Screenshot_0.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/fc/94/ebfc94c6-050a-4372-0d9f-a0c4c6af5da0/EN_-_Screenshot_2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/cb/0d/a3cb0d73-a68f-d3d4-8ab7-f5b9935ba2b4/EN_-_Screenshot_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/70/38/b0703849-b908-cf6c-1552-d5c07d3ba909/EN_-_Screenshot_6.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/73/e1/0f73e164-a684-83f8-dd89-67d784ed9226/EN_-_Screenshot_7.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/40/cf/7340cfb8-e2cc-aaac-dc52-b018bf10acd4/EN_-_Screenshot_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/08/08/22080835-0612-2b5f-af7d-44c8c5cf2ddd/EN_-_Screenshot_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/7e/62/1b7e6252-cfd2-3a14-36ad-b07fc1078f67/EN_-_Screenshot_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/b1/57/41b15725-81b6-037d-97c0-219e4819f429/EN_-_Screenshot_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/81/c6/4081c6a2-f2b9-4405-b23b-2f8b1cf67756/EN_-_App_Store_-_12.9_-_Screenshot_0.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/92/75/21927580-c31f-d436-5632-2a62d1a1d347/EN_-_App_Store_-_12.9_-_Screenshot_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/f9/2d/f3f92d51-f60a-2ba0-f2f2-abe4c3d5f859/EN_-_App_Store_-_12.9_-_Screenshot_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/58/44/7b58443d-7c7a-50ec-fa1c-c198e11d05e3/EN_-_App_Store_-_12.9_-_Screenshot_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/55/bf/5255bf6d-7bca-1f46-6988-098b4f48f471/EN_-_App_Store_-_12.9_-_Screenshot_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/04/f6/0a04f6df-1fc2-3ea3-2cc4-f632b7c59d2c/EN_-_App_Store_-_12.9_-_Screenshot_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a7/84/eea78496-96d3-29c0-b5f3-a93e24107e22/EN_-_App_Store_-_12.9_-_Screenshot_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/1b/f8/ab1bf851-c0c2-0c74-6ec4-a7864e74a9aa/EN_-_App_Store_-_12.9_-_Screenshot_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/7d/1b/0e7d1b96-a447-3284-736b-7a99a7558054/EN_-_App_Store_-_12.9_-_Screenshot_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/1b/48/4c1b48ba-e985-22b2-5200-f5e53284a45f/a96ca02f-c993-48e8-8c8f-4f22e36a4c28_iMessage_-_6.5_-_Screenshot_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/f0/18/4bf01862-4ac9-0943-3a4c-dab85fb63988/647cafa6-341e-42fd-a7cd-5d5a49216927_iMessage_-_6.5_-_Screenshot_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/5a/6b/8b5a6b09-15d6-e481-e346-06e73a90e98f/a0f29222-e4c6-49eb-8205-945538d25442_iMessage_-_6.5_-_Screenshot_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/45/e8/1945e850-2019-157e-33dc-3ebbe82d3e05/a96376d0-1a24-4f8f-b73e-49f402787238_iMessage_-_6.5_-_Screenshot_4.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "HiWidget",
+      "version": "4.4.22",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.zerone.hidesktop_iScreen_4.4.22.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.zerone.hidesktop",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/ff/8a/23ff8a35-c0fb-3d49-c5ad-9a1bfff36c69/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.4.22\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Xiamen ShenZhuo Information Technology Co., Ltd.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/a6/97/6ba697b8-46b4-a052-d36e-62f116c53107/2208-_U58c1_U7eb8__U82f1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/a5/5b/82a55ba3-af13-c0f2-8f29-8aa57778ed72/d649a293-6f8b-4aa2-9e8c-90c56de95539_2208-_U7075_U52a8__U82f13.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/5c/53/075c53ee-6e77-6a43-1db5-399aa82b7655/55e4fdea-791b-4c13-98df-550f5554cfd7_2208-_U82f1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/c6/14/9dc6149c-9def-a142-cfc2-612df8ef1945/3027cd9c-f3e6-43da-a915-022ceaf8f18c_2208-_U9501_U5c4f_U5c0f_U7ec4_U4ef6__U82f12.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/dc/40/aadc40f1-c717-1d21-e85c-f8b1f59ed39d/4deb4a37-7f9c-4258-844b-8a4c80849644_2208-_U58c1_U7eb8_U5236_U4f5c__U82f11.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/f8/f9/adf8f946-9316-bc72-c8f8-c518328802a8/4d4a31a3-3e28-4d27-badd-e7e86251125b_2208-_U5bc6_U53cb__U82f1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/3d/14/253d14c3-418b-7992-4140-43ba1acc4033/75f7e05c-590e-42e4-903e-b25447eaa87c_2208-_U8bed_U97f3__U82f15.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/f0/47/dbf047de-e140-b378-53de-8d7d85e765de/6e661b5f-e113-4002-9ea3-c29ab93c72db_2208-_U7075_U52a8__U82f1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/46/78/0f467876-2be6-d2f8-7357-fa14ab916ee3/bb6db5e5-40c8-4907-a805-e359097ac1f9_2208-_U4e3b_U9898__U82f14.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Calisteniapp",
+      "version": "26.5.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.inakitajes.Calisthenial_RevenueCatFix26_26.5.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.inakitajes.Calisthenial",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/cb/25/cccb2536-cacb-6a50-8f10-dd1e5c8233d3/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nCalisteniapp\n\nPro features unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "Calisteniapp, Sociedad Limitada",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Wordscapes",
+      "version": "3.11.71",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.peoplefun.wordcross_NetworkBlocker_3.11.71.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.peoplefun.wordcross",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/50/17/c150171b-81fa-a886-6612-059dddfc913f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nWordscapes\n\nno ads and iGG to get unlimited coins\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
+      "developer": "PeopleFun, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/db/25/47db25f1-4404-c14a-f319-6ea21226da0d/009_WS_IOS_Base_Screenshots_EN_1242x2688_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/b5/0f/d7b50f5a-8a15-7b23-75ec-592aa18e94ec/1f5e1453-252b-43ce-8460-cbb851a6a2ce_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_7.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/4d/a7/a44da772-606d-5d3a-de26-f7e3a91147ee/86cf1afe-510c-47d5-a2c6-7ddfcf6e0cba_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/95/ff/f895ff82-ff48-295c-8813-6c9740f2dae9/6e10bbb0-f778-4d1b-b90b-7ebcae73940b_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/a3/c7/0ca3c77c-e5f3-3211-4044-b5c878da5d5c/059def01-c85f-4a87-b843-7586c77dc23a_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/5d/26/785d263e-9206-5aa5-ed80-cf42e711cf46/4826837a-aac1-44f4-aa53-a1a16e58afe7_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/12/b9/5212b9b8-e37d-7d0d-c9bd-9f45150922d2/37474a88-0245-4613-974b-d93f132e1133_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/dc/e1/53dce16a-f1c8-4d2b-10b7-30dd5d19de3c/eb2c25ff-87f8-4796-94c0-1c2c72468b75_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/73/92/067392b2-a182-6577-f28a-7760eeae4d50/009_WS_IOS_Base_Screenshots_EN_2048x2732_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/3a/3d/913a3d4c-d16f-4d8a-46be-b586ff79cadb/ff0f5f3a-0cd9-4919-81cc-cd734f3a4704_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/34/80/ae34805f-5d8a-79c5-2b18-42e43c57c46e/05abdf6b-5f6b-4966-ac9e-000afe120c4e_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/dd/4f/7cdd4f12-d08a-c435-c76b-6d935a6a1364/b21c0e72-68c8-4dbe-a42b-28391945e4ca_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/b2/cd/07b2cd3a-800e-a12c-f9b4-0f1c2a6c57a4/333874f9-baec-4a68-af56-b2ba78ea0be2_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/ef/4d/09ef4da5-1db6-4314-41d5-f61a1ec9e21e/c319c51e-1f70-4326-9be2-2ebdc8d700a3_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/49/cf/ad49cfbb-2798-22a8-25de-55dbc8381e6b/77dc2ef8-c4ad-4093-a04b-7618e25b834f_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/d1/4e/00d14e6b-ee6b-309a-8f4f-954e316f1d24/f6718df6-f4d4-4b9a-abf0-3203b3527fbf_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_1.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "OrNET Browser",
+      "version": "4.0.5",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/ch.b-eng.tor_TORBrowserPatch_4.0.5.ipa",
+      "category": "Tweaked",
+      "bundleID": "ch.b-eng.tor",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/c3/2c/afc32c04-670e-40b1-374e-b5c4abdf5d39/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nTOR Browser: OrNET Onion + VPN\n\nPremium features unlocked\n\nYour certificate needs VPN entitlements. It doesnt work with Altstore or Sideloadly\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "developer": "Stronger Apps",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bd/16/84/bd1684e7-e88c-7c44-fcb6-8e5b97b26aae/a750325e-6d72-4952-9d23-d6cf8ce9294c_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/8e/bb/3c8ebb58-0f65-1c09-c7ca-83e37c5ee060/f12d62c3-dd05-4aae-b4be-c9de19ae3663_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5d/e9/87/5de98779-063c-8d66-97ee-65a0b03334e1/fad6b99b-7f3d-43d5-9682-1c04850002b8_03.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Place Guesser",
+      "version": "1.51.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.mobivalley.LookAroundApp_PlaceGuesserPro_1.51.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.mobivalley.LookAroundApp",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/3d/ff/f93dffb2-9e5b-72e8-9dfa-8cf204198801/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nPlace Guesser\n\nFree GeoGuessr alternative for iPhone\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 17.6\n\nAppStore link | Donate",
+      "developer": "Mobivalley",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/4b/60/514b60ac-3b79-298e-d3c1-5ea2a68c951b/c1bbff5b-10ab-4abd-8a67-b28a01a01ffd_iphoneSE3rdGeneration-mockup2.001.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/0e/64/b50e64e7-de5e-b29d-fc41-f6108aa2762f/850d9138-244b-42b5-b96e-f99aaf22b12b_iphoneSE3rdGeneration-mockup.003.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/4b/f0/694bf0dc-26af-75d6-be61-fa89c77e22af/abe61517-49a4-4e64-8f05-bd924b412daa_iphoneSE3rdGeneration-mockup.005.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/55/1d/4a551d9f-415e-3558-4376-e7ff0b7433de/ac1c504f-6012-4fe6-9ace-f6d824263d54_iphoneSE3rdGeneration-mockup.004.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/73/63/bd7363ec-e04e-138c-b95c-94e9e053f99f/0c82e8a9-5afd-40f8-8bb3-7677f9ddb95c_iphoneSE3rdGeneration-mockup.002.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/f9/59/83f95920-9c48-f356-a5e7-c3dca8cd279c/6ec1c092-ff95-429d-85ae-87b3cd9bf58b_iphoneSE3rdGeneration-mockup.007.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/37/f4/f237f4f0-4f34-d25e-9a22-26abf927f83b/4415f208-491c-4165-9900-c637f7d31f25_iphoneSE3rdGeneration-mockup.006.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "MyFitnessPal",
+      "version": "26.19.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.myfitnesspal.mfp_MyFitnessPal_26.19.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.myfitnesspal.mfp",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/76/0f/69760fbc-4a13-147c-38b7-3fb61ecf344e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nMyFitnessPal: Calorie Counter\n\nPremium features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "developer": "MyFitnessPal, Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/87/fc/3a87fc34-74c0-8024-227d-49a546e39c2f/MyFitnessPal_First_Screen.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/30/3e/25303ec5-7317-37aa-9f26-20cb6fc6fe82/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/6b/c1/ae6bc169-fadb-b13a-9cfe-98258957ae18/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_04.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/95/ee/8095ee6f-cef0-30bc-0e25-3a2297094b03/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_06.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/0b/55/e50b55e9-570b-880d-95ed-28cd04c42bae/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_08.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4c/2b/c74c2b24-80b7-d4ff-2448-71bcf27ff51a/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_07-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/83/c7/2b83c79b-94e2-d113-280a-ff030f63c6c8/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/c1/2f/00c12fa8-18a9-d04a-f2c9-85e5f3c9a510/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_10.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "BeautyPlus",
+      "version": "7.37.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.commsource.BeautyPlus_rophim_7.37.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.commsource.BeautyPlus",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/cf/ae/1fcfae90-0304-f993-e069-c03a6d0fd744/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nBeautyPlus - AI Photo Editor\n\nPremium features unlocked\n\nTweak made by ⏤͟͞Lãng Khách🇻🇳\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/1f/a9/be1fa97a-020f-6f70-62c3-d347c544d932/02ce367b-222b-451a-85fd-37a7ef46cf19_EN__U81ea_U62cd_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/db/2d/abdb2d56-1d42-79ca-b4c1-eb1e61c9aab3/efedfaee-efaa-4541-8010-ff9b2852bac7_EN__U6d88_U9664_U7b14_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/a1/db/44a1db05-8a65-853e-f313-73fbeff1f573/8072b204-f0fa-4de5-8056-8ad6c2b512f2_EN__U58c1_U7eb8.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/52/e3/4a52e3af-2c24-0280-c292-01623b82c9b9/b11acf0e-ba3d-41c6-a978-177275f5c7c2_EN__U7f8e_U5986_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/d0/ee/fad0ee3b-85a5-0ced-b560-68a1de296a31/68c39b45-b0de-409a-8a92-5bb135afbd4f_EN__U53d1_U578b_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/a6/46/c1a646b1-376d-3bc7-899a-38cb2ff63192/3f15e2cd-d960-4f26-a10f-3f0d20bda66e_EN_Pet_Avatar_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/ab/3a/f1ab3a55-4af2-e940-6614-011a485fdd90/9894e694-d81a-47f7-9a98-d33797baa528_EN__U7167_U7247_U4fee_U590d_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/32/44/0332442e-7e5d-d822-3c37-d6a6e65dd7bf/3736685f-31a3-4191-ad64-9e1de522b1e0_EN_blur_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/8f/fa/568ffa63-1399-1035-f9d5-50087238664c/15d95d7f-8add-43a6-a859-8220c9429752_EN__U62fc_U56fe_2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/8d/d2/368dd295-d77e-62c6-305a-4d696374c4e1/e46a95c9-a6e8-4e1f-8f0e-e8acc1d9558e_EN_AI_Art_2208.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Pillow",
       "version": "6.4.2",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.neybox.Pillow_Pillow_6.4.2.ipa",
@@ -973,24 +1222,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/07/4e/65074e0d-9e1c-004e-3199-96342a5dbe4f/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "description": "from @blatants |\n----------------\nCleanup: Phone Storage Cleaner\n\n• Bundle ID: com.codeway.cleanerplus\n• Updated to: 6.14.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Calisteniapp",
-      "version": "26.5.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/com.inakitajes.Calisthenial_Sideloadbypass2_26.5.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.inakitajes.Calisthenial",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/cb/25/cccb2536-cacb-6a50-8f10-dd1e5c8233d3/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nCalisteniapp - Calisthenics\n\nTweak: Pro Unlocked\n\nVersion: 26.5.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.inakitajes.Calisthenial\nDeveloper: Calisteniapp, Sociedad Limitada",
-      "developer": "Calisteniapp, Sociedad Limitada",
       "screenshots": [],
       "accentColor": {
         "light": {
@@ -4322,33 +4553,6 @@
       }
     },
     {
-      "name": "MyFitnessPal",
-      "version": "26.17.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.myfitnesspal.mfp_MyFitnessPal_26.17.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.myfitnesspal.mfp",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/76/0f/69760fbc-4a13-147c-38b7-3fb61ecf344e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nMyFitnessPal: Calorie Counter\n\nPremium features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "developer": "MyFitnessPal, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/87/fc/3a87fc34-74c0-8024-227d-49a546e39c2f/MyFitnessPal_First_Screen.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/30/3e/25303ec5-7317-37aa-9f26-20cb6fc6fe82/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/6b/c1/ae6bc169-fadb-b13a-9cfe-98258957ae18/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_04.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/95/ee/8095ee6f-cef0-30bc-0e25-3a2297094b03/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_06.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/0b/55/e50b55e9-570b-880d-95ed-28cd04c42bae/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_08.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4c/2b/c74c2b24-80b7-d4ff-2448-71bcf27ff51a/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_07-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/83/c7/2b83c79b-94e2-d113-280a-ff030f63c6c8/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/c1/2f/00c12fa8-18a9-d04a-f2c9-85e5f3c9a510/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_10.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Speedtest",
       "version": "7.0.2",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.ookla.speedtest_SpeedTestPatch_7.0.2.ipa",
@@ -6475,28 +6679,6 @@
       }
     },
     {
-      "name": "OrNET Browser",
-      "version": "4.0.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/ch.b-eng.tor_TORBrowserPatch_4.0.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "ch.b-eng.tor",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/c3/2c/afc32c04-670e-40b1-374e-b5c4abdf5d39/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nTOR Browser: OrNET Onion + VPN\n\nPremium features unlocked\n\nYour certificate needs VPN entitlements. It doesnt work with Altstore or Sideloadly\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "developer": "Stronger Apps",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bd/16/84/bd1684e7-e88c-7c44-fcb6-8e5b97b26aae/a750325e-6d72-4952-9d23-d6cf8ce9294c_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/8e/bb/3c8ebb58-0f65-1c09-c7ca-83e37c5ee060/f12d62c3-dd05-4aae-b4be-c9de19ae3663_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5d/e9/87/5de98779-063c-8d66-97ee-65a0b03334e1/fad6b99b-7f3d-43d5-9682-1c04850002b8_03.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "BHTikTokPlus TikTok (BHTikTok)",
       "version": "44.8.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-22/com.zhiliaoapp.musically_AutoCacheDelete_44.8.0.ipa",
@@ -6611,35 +6793,6 @@
       "description": "from @riftysipalibrary |\n----------------\nAI Calorie Counter: ParrotPal\n\nTweak: Subscription Unlocked\n\nVersion: 193\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: ai.parrotpal\nDeveloper: Scott Flear",
       "developer": "Scott Flear",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "BeautyPlus",
-      "version": "7.36.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.commsource.BeautyPlus_rophim_7.36.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.commsource.BeautyPlus",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/cf/ae/1fcfae90-0304-f993-e069-c03a6d0fd744/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nBeautyPlus - AI Photo Editor\n\nPremium features unlocked\n\nTweak made by ⏤͟͞Lãng Khách🇻🇳\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/1f/a9/be1fa97a-020f-6f70-62c3-d347c544d932/02ce367b-222b-451a-85fd-37a7ef46cf19_EN__U81ea_U62cd_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/db/2d/abdb2d56-1d42-79ca-b4c1-eb1e61c9aab3/efedfaee-efaa-4541-8010-ff9b2852bac7_EN__U6d88_U9664_U7b14_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/a1/db/44a1db05-8a65-853e-f313-73fbeff1f573/8072b204-f0fa-4de5-8056-8ad6c2b512f2_EN__U58c1_U7eb8.jpeg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/52/e3/4a52e3af-2c24-0280-c292-01623b82c9b9/b11acf0e-ba3d-41c6-a978-177275f5c7c2_EN__U7f8e_U5986_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/d0/ee/fad0ee3b-85a5-0ced-b560-68a1de296a31/68c39b45-b0de-409a-8a92-5bb135afbd4f_EN__U53d1_U578b_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/a6/46/c1a646b1-376d-3bc7-899a-38cb2ff63192/3f15e2cd-d960-4f26-a10f-3f0d20bda66e_EN_Pet_Avatar_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/ab/3a/f1ab3a55-4af2-e940-6614-011a485fdd90/9894e694-d81a-47f7-9a98-d33797baa528_EN__U7167_U7247_U4fee_U590d_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/32/44/0332442e-7e5d-d822-3c37-d6a6e65dd7bf/3736685f-31a3-4191-ad64-9e1de522b1e0_EN_blur_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/8f/fa/568ffa63-1399-1035-f9d5-50087238664c/15d95d7f-8add-43a6-a859-8220c9429752_EN__U62fc_U56fe_2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/8d/d2/368dd295-d77e-62c6-305a-4d696374c4e1/e46a95c9-a6e8-4e1f-8f0e-e8acc1d9558e_EN_AI_Art_2208.jpg/1320x2868bb.jpg"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -8205,35 +8358,6 @@
       }
     },
     {
-      "name": "HiWidget",
-      "version": "4.4.11",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/com.zerone.hidesktop_iScreen_4.4.11.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.zerone.hidesktop",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/02/20/a0022049-a3b8-6a85-8301-ee3915872378/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.4.11\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Xiamen ShenZhuo Information Technology Co., Ltd.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/a6/97/6ba697b8-46b4-a052-d36e-62f116c53107/2208-_U58c1_U7eb8__U82f1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/a5/5b/82a55ba3-af13-c0f2-8f29-8aa57778ed72/d649a293-6f8b-4aa2-9e8c-90c56de95539_2208-_U7075_U52a8__U82f13.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/5c/53/075c53ee-6e77-6a43-1db5-399aa82b7655/55e4fdea-791b-4c13-98df-550f5554cfd7_2208-_U82f1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/c6/14/9dc6149c-9def-a142-cfc2-612df8ef1945/3027cd9c-f3e6-43da-a915-022ceaf8f18c_2208-_U9501_U5c4f_U5c0f_U7ec4_U4ef6__U82f12.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/dc/40/aadc40f1-c717-1d21-e85c-f8b1f59ed39d/4deb4a37-7f9c-4258-844b-8a4c80849644_2208-_U58c1_U7eb8_U5236_U4f5c__U82f11.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/f8/f9/adf8f946-9316-bc72-c8f8-c518328802a8/4d4a31a3-3e28-4d27-badd-e7e86251125b_2208-_U5bc6_U53cb__U82f1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/3d/14/253d14c3-418b-7992-4140-43ba1acc4033/75f7e05c-590e-42e4-903e-b25447eaa87c_2208-_U8bed_U97f3__U82f15.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/f0/47/dbf047de-e140-b378-53de-8d7d85e765de/6e661b5f-e113-4002-9ea3-c29ab93c72db_2208-_U7075_U52a8__U82f1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/46/78/0f467876-2be6-d2f8-7357-fa14ab916ee3/bb6db5e5-40c8-4907-a805-e359097ac1f9_2208-_U4e3b_U9898__U82f14.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "DictionaryAir",
       "version": "2026.3.5",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-13/co.airapps.dictionary_DictionaryAir_2026.3.5.ipa",
@@ -9034,47 +9158,6 @@
       }
     },
     {
-      "name": "Detail",
-      "version": "5.5.13",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/co.detail.duo_Detail_5.5.13.ipa",
-      "category": "Tweaked",
-      "bundleID": "co.detail.duo",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/69/42/e869426d-3c23-44fb-9553-2ba4d4d140d6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.13\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Detail Technologies B.V.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/aa/62/efaa62c5-a226-ca70-b9da-7f12a8534ba3/EN_-_Screenshot_0.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/0e/ca/780eca68-18fd-8539-4b91-013feb7b4ea6/EN_-_Screenshot_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/14/d6/d214d6b9-db1a-e190-6d2d-6fd1fc7bd53d/EN_-_Screenshot_2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/b2/c9/f2b2c9e9-decc-a0d9-81f7-ea9c1e099e57/EN_-_Screenshot_6.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/05/0b/8a050b1a-e4f2-f466-9e20-2aaeaf5f266c/EN_-_Screenshot_7.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/09/76/a0097688-41b7-751b-dd6c-1dc07fbcaef5/EN_-_Screenshot_3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/5a/7e/3b5a7eee-42d0-449a-d484-4f3f64a6ba95/EN_-_Screenshot_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/a9/ec/53a9ec06-b1ea-d9be-bd12-1c28f0c4af10/EN_-_Screenshot_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5b/0a/065b0a94-e325-6a78-8aef-1a7aa81a4237/EN_-_Screenshot_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/62/0f/68620f33-2746-d00d-13e0-1984e15a7f52/EN_-_App_Store_-_12.9_-_Screenshot_0.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/00/be/3000be29-2bd3-e70d-caf8-b2df3b0f543b/EN_-_App_Store_-_12.9_-_Screenshot_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/28/43/02284397-285d-f7b1-d8c8-671d6f013603/EN_-_App_Store_-_12.9_-_Screenshot_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/a7/d5/d5a7d5a5-a5f9-795c-606c-64334a83d79f/EN_-_App_Store_-_12.9_-_Screenshot_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/d8/33/e7d833dd-7426-2901-77b3-8045c5100ae0/EN_-_App_Store_-_12.9_-_Screenshot_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/27/ca/ce27cafd-c1eb-4925-7cb0-8cb0838182ec/EN_-_App_Store_-_12.9_-_Screenshot_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/80/40/f4804031-92cf-9762-3fc6-f00c772411ec/EN_-_App_Store_-_12.9_-_Screenshot_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/e8/53/b9e8532c-eeb9-0520-abec-9918e8e9d58d/EN_-_App_Store_-_12.9_-_Screenshot_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/8a/94/698a9473-b95f-3a8d-c914-174a757fbb89/EN_-_App_Store_-_12.9_-_Screenshot_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/a8/5b/03a85b92-2977-2507-97ee-08d130bfa325/a96ca02f-c993-48e8-8c8f-4f22e36a4c28_iMessage_-_6.5_-_Screenshot_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/11/4c/4c114cba-5bf3-77e2-d080-6366f45e69ae/647cafa6-341e-42fd-a7cd-5d5a49216927_iMessage_-_6.5_-_Screenshot_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/a8/b0/a1a8b0e2-acfd-d75c-3484-b515fb3837ae/a0f29222-e4c6-49eb-8205-945538d25442_iMessage_-_6.5_-_Screenshot_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/49/ea/ea49eabd-a826-3f5f-ec72-1deae9530b10/a96376d0-1a24-4f8f-b73e-49f402787238_iMessage_-_6.5_-_Screenshot_4.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Parking Jam 3D",
       "version": "231.0.11",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-04/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.11.ipa",
@@ -9202,28 +9285,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/fc/4b/bdfc4bd9-26fa-a956-9929-8f62eef07547/752f5a92-bddc-476a-acb2-870508f25f6d_en-05.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cc/64/dccc64a6-5335-a446-ad76-11de3cff5677/33ac3a41-aaf1-4115-9834-2e7f9b246077_en-06.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/7f/46/837f462b-10dc-89fe-a391-d4fd3f533efe/262818d8-413f-4e4c-97ca-97f1838669ff_en-07.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "duet",
-      "version": "3.1.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.kairos.duet_DuetDisplay_3.1.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.kairos.duet",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/9e/55/029e5523-e0c6-844d-4381-2612a25917d6/DuetDisplayAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nDuet Display\n\n• Bundle ID: com.kairos.duet\n• Updated to: 3.1.4\n• Minimum iOS: 12.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Duet, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c9/da/acc9da7c-5562-dd17-3f6e-cb4dd6e7227c/pr_source.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/37/36/3b373606-6cce-f7ce-0c76-866c4fc28218/pr_source.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c6/70/7dc6700b-bbab-8374-debe-95aee232e661/mzl.swgojqwm.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -11911,41 +11972,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/98/66/0998668b-73f7-8bae-4a3f-b297ea6daa8c/57e725bc-7c7c-4a4a-af40-400656063d1c_5.5_progressions.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/03/37/de0337cf-b27f-5338-4f28-c724b016066c/a23207ab-1c27-414c-9b9f-7f9a85296c97_5.5_records__U00281_U0029.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/f1/65/67f1654b-64c1-6e59-4318-5c5d4d767676/5279075b-b575-4273-85b5-48b111b41d07_5.5_sets.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Wordscapes",
-      "version": "3.9.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-13/com.peoplefun.wordcross_NetworkBlocker_3.9.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.peoplefun.wordcross",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/02/73/2a02731e-c057-d2ce-f1bb-6f07f6fcee04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nWordscapes\n\nno ads and iGG to get unlimited coins\n\nMinimum OS version 13.0\n\nAppStore link | Donate",
-      "developer": "PeopleFun, Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/db/25/47db25f1-4404-c14a-f319-6ea21226da0d/009_WS_IOS_Base_Screenshots_EN_1242x2688_1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/b5/0f/d7b50f5a-8a15-7b23-75ec-592aa18e94ec/1f5e1453-252b-43ce-8460-cbb851a6a2ce_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_7.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/4d/a7/a44da772-606d-5d3a-de26-f7e3a91147ee/86cf1afe-510c-47d5-a2c6-7ddfcf6e0cba_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/95/ff/f895ff82-ff48-295c-8813-6c9740f2dae9/6e10bbb0-f778-4d1b-b90b-7ebcae73940b_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/a3/c7/0ca3c77c-e5f3-3211-4044-b5c878da5d5c/059def01-c85f-4a87-b843-7586c77dc23a_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/5d/26/785d263e-9206-5aa5-ed80-cf42e711cf46/4826837a-aac1-44f4-aa53-a1a16e58afe7_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/12/b9/5212b9b8-e37d-7d0d-c9bd-9f45150922d2/37474a88-0245-4613-974b-d93f132e1133_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/dc/e1/53dce16a-f1c8-4d2b-10b7-30dd5d19de3c/eb2c25ff-87f8-4796-94c0-1c2c72468b75_ws_spark_asoscreenshots_backtoschool_en_static_1242x2688_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/73/92/067392b2-a182-6577-f28a-7760eeae4d50/009_WS_IOS_Base_Screenshots_EN_2048x2732_1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/3a/3d/913a3d4c-d16f-4d8a-46be-b586ff79cadb/ff0f5f3a-0cd9-4919-81cc-cd734f3a4704_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/34/80/ae34805f-5d8a-79c5-2b18-42e43c57c46e/05abdf6b-5f6b-4966-ac9e-000afe120c4e_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/dd/4f/7cdd4f12-d08a-c435-c76b-6d935a6a1364/b21c0e72-68c8-4dbe-a42b-28391945e4ca_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/b2/cd/07b2cd3a-800e-a12c-f9b4-0f1c2a6c57a4/333874f9-baec-4a68-af56-b2ba78ea0be2_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/ef/4d/09ef4da5-1db6-4314-41d5-f61a1ec9e21e/c319c51e-1f70-4326-9be2-2ebdc8d700a3_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/49/cf/ad49cfbb-2798-22a8-25de-55dbc8381e6b/77dc2ef8-c4ad-4093-a04b-7618e25b834f_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/d1/4e/00d14e6b-ee6b-309a-8f4f-954e316f1d24/f6718df6-f4d4-4b9a-abf0-3203b3527fbf_ws_spark_asoscreenshots_backtoschool_en_static_2048x2732_1.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
