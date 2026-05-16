@@ -6826,11 +6826,17 @@
       "name": "Soundscape",
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/03/07/fe0307c7-f679-4bfb-4412-ec239a70ceb3/SoundscapeIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 10.1.15\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/ef/26/40ef2691-7c60-1a28-2370-61b99d8aa446/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSoundscape: Sleep Focus Relax\n\nTweak: Subscription Unlocked\n\nVersion: 10.1.23\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.soundscape.music\nDeveloper: Soundscape",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "10.1.23",
+          "date": "2026-05-16",
+          "size": 91236101,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.soundscape.music_Sideloadbypass2_10.1.23.ipa"
+        },
         {
           "version": "10.1.15",
           "date": "2026-04-15",
@@ -6842,19 +6848,13 @@
           "date": "2026-04-08",
           "size": 88006078,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-08/com.soundscape.music_Sideloadbypass2_10.1.14.ipa"
-        },
-        {
-          "version": "10.1.1",
-          "date": "2026-03-30",
-          "size": 117750425,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/com.soundscape.music_Sideloadbypass2_10.1.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "10.1.15",
-      "versionDate": "2026-04-15T07:14:50.013Z",
-      "size": 88009991,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/com.soundscape.music_Sideloadbypass2_10.1.15.ipa"
+      "version": "10.1.23",
+      "versionDate": "2026-05-16T16:44:27.559Z",
+      "size": 91236101,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.soundscape.music_Sideloadbypass2_10.1.23.ipa"
     },
     {
       "name": "SODA",
@@ -18941,7 +18941,7 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/55/b7/0155b7a8-eb27-c6c6-4dae-deb7b9fbb1e1/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.87\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.89\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/02/6b/6a026b90-9f44-1b45-d5e4-8cf4d9ec16af/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp"
@@ -18956,6 +18956,12 @@
       ],
       "versions": [
         {
+          "version": "4.1.89",
+          "date": "2026-05-16",
+          "size": 148686498,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.89.ipa"
+        },
+        {
           "version": "4.1.87",
           "date": "2026-05-12",
           "size": 148673801,
@@ -18966,19 +18972,13 @@
           "date": "2026-05-09",
           "size": 148674085,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.86.ipa"
-        },
-        {
-          "version": "4.1.85",
-          "date": "2026-05-07",
-          "size": 148639965,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.85.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.87",
-      "versionDate": "2026-05-12T19:41:27.423Z",
-      "size": 148673801,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-12/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.87.ipa"
+      "version": "4.1.89",
+      "versionDate": "2026-05-16T19:44:25.495Z",
+      "size": 148686498,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.89.ipa"
     },
     {
       "name": "Stndrd",
@@ -21009,6 +21009,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-10/com.vertventures.stella_Sideloadbypass2_3.12.12.ipa"
     },
     {
+      "name": "PUSH",
+      "bundleIdentifier": "com.ADPTVLTD.push",
+      "developerName": "ADPTV LIMITED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/2a/dc/b12adca6-ca94-7a94-d966-539986fea7da/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPUSH Workout & Gym Tracker\n\n• Bundle ID: com.ADPTVLTD.push\n• Updated to: 3.12.1\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "3.12.1",
+          "date": "2026-05-16",
+          "size": 59207326,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.ADPTVLTD.push_AutoRcSideload_3.12.1.ipa"
+        },
+        {
+          "version": "3.11.0",
+          "date": "2026-04-26",
+          "size": 48012723,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.ADPTVLTD.push_AutoRcSideload_3.11.0.ipa"
+        },
+        {
+          "version": "3.10.3",
+          "date": "2026-03-12",
+          "size": 44458125,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ADPTVLTD.push_AutoRcSideload_3.10.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.12.1",
+      "versionDate": "2026-05-16T16:44:15.345Z",
+      "size": 59207326,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.ADPTVLTD.push_AutoRcSideload_3.12.1.ipa"
+    },
+    {
       "name": " ",
       "bundleIdentifier": "tech.miidii.MDBlank",
       "developerName": "MD Studio",
@@ -21177,34 +21211,6 @@
       "versionDate": "2026-05-16T01:49:04.183Z",
       "size": 158998289,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.peoplefun.wordcross_NetworkBlocker_3.11.71.ipa"
-    },
-    {
-      "name": "PUSH",
-      "bundleIdentifier": "com.ADPTVLTD.push",
-      "developerName": "ADPTV LIMITED",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/be/79/37be7958-3488-894e-b237-e5b90bff40f0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPUSH Workout & Gym Tracker\n\n• Bundle ID: com.ADPTVLTD.push\n• Updated to: 3.11.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "3.11.0",
-          "date": "2026-04-26",
-          "size": 48012723,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.ADPTVLTD.push_AutoRcSideload_3.11.0.ipa"
-        },
-        {
-          "version": "3.10.3",
-          "date": "2026-03-12",
-          "size": 44458125,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.ADPTVLTD.push_AutoRcSideload_3.10.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.11.0",
-      "versionDate": "2026-04-26T13:38:49.200Z",
-      "size": 48012723,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/com.ADPTVLTD.push_AutoRcSideload_3.11.0.ipa"
     },
     {
       "name": "Planes Live Free",
