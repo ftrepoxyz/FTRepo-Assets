@@ -3,6 +3,47 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Voicepal",
+      "version": "2.2.7",
+      "versionDate": "2026-05-17",
+      "size": 48148334,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-17/com.choiceapps.recipesfdw_Sideloadbypass2_2.2.7.ipa",
+      "developerName": "Voicepal Limited",
+      "bundleIdentifier": "com.choiceapps.recipesfdw",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ee/ad/b7eeadb8-8267-1119-309a-5896c8816087/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nVoicepal: your AI Ghostwriter\n\nTweak: Subscription Unlocked\n\nVersion: 2.2.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.choiceapps.recipesfdw\nDeveloper: Voicepal Limited",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/e3/46/2ce3464e-c72d-dc8a-ed1f-53792d822fed/916f89e3-6811-4fc6-b470-9e9ddba03404_iPhone_5.5__U00287_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/dc/2d/ebdc2dce-6ce9-5dca-144d-49a9b4930afb/169d4ab2-633f-495e-a51c-46047b824f87_iPhone_5.5__U00281_U0029.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c7/c8/53c7c8b9-f779-a5f3-9fad-a2955b4c4b30/8c167c03-0ff7-4287-9d14-469569aea183_iPhone_5.5__U00282_U0029.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/68/8e/58688ee4-8035-c10b-3f0b-7245b4c27d75/6f908896-4404-4ff1-bb65-511f8cdef7e2_iPhone_5.5__U00283_U0029.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/7c/16/217c16f3-54f0-f7ce-3922-c75661a48eee/c97a5359-5be3-42f6-825f-449b8a84d175_iPhone_5.5__U00284_U0029.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/55/b9/fe55b9c2-341e-b149-c8cd-b8d80335fc93/b2cce808-f795-4e32-ba54-e461ea536d95_iPhone_5.5__U00285_U0029.jpeg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Instagram (Regram)",
+      "version": "429.0.0",
+      "versionDate": "2026-05-17",
+      "size": 307688647,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-17/com.burbn.instagram_Regram_429.0.0.ipa",
+      "developerName": "Instagram, Inc.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a9/cc2ea9a4-1c31-7fda-4ce4-fb67e8bebbc2/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nRegram 4.0.1",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/64/4d/38644df4-f5fc-97d6-61d1-94cf27762b1e/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/58/d9/4758d91e-4359-b964-c83a-70c47762a1d3/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/53/68/c55368ac-3b36-e9ec-c67f-8ca303dc659f/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/63/51/b0635181-466e-2cd2-a8d0-f2c24650603a/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/36/76/f43676f2-f6a9-e6dd-c838-5580b72c5802/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "aa",
       "version": "7.1.2",
       "versionDate": "2026-05-17",
@@ -2845,27 +2886,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/46/36/48463671-5953-68ac-b97c-b97a6d6cc3ce/d49c0719-9500-4504-8a4c-3124b914bafa_8-iOS-5.5-Search_with_AI.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/e3/c6/05e3c610-6058-7113-d784-7432f93b4725/ee650e7b-1eaa-4de6-81a2-0b35dac16446_9-iOS-5.5-Write_with_AI.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/66/84/6f668470-ef8e-be27-90b8-99ad73e10664/89fe27f2-ff0a-4a61-a502-73c2bd05da89_10-iOS-5.5-Notifications.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Instagram (Regram)",
-      "version": "428.2.0",
-      "versionDate": "2026-05-05",
-      "size": 340210504,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._428.2.0.ipa",
-      "developerName": "Instagram, Inc.",
-      "bundleIdentifier": "com.burbn.instagram",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/73/96/187396d0-9ea0-cd65-83f6-42550506b3f3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/64/4d/38644df4-f5fc-97d6-61d1-94cf27762b1e/3_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/58/d9/4758d91e-4359-b964-c83a-70c47762a1d3/4_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/53/68/c55368ac-3b36-e9ec-c67f-8ca303dc659f/5_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/63/51/b0635181-466e-2cd2-a8d0-f2c24650603a/6_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/36/76/f43676f2-f6a9-e6dd-c838-5580b72c5802/7_iOS_5.5.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -10856,26 +10876,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/13/d9/0a13d996-7c42-3830-8843-fbc371f56894/ETG_Screen_1.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/f6/e0/eff6e048-6a6b-b404-7d13-99fb2f908d51/ETG_Screen_2.jpg/1320x2868bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/26/89/b226890b-2382-b94b-ba33-c5692e478b90/ETG_Screen_3.jpg/1320x2868bb.webp"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Voicepal",
-      "version": "2.2.5",
-      "versionDate": "2026-03-11",
-      "size": 46160237,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.choiceapps.recipesfdw_Sideloadbypass2_2.2.5.ipa",
-      "developerName": "Voicepal Limited",
-      "bundleIdentifier": "com.choiceapps.recipesfdw",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/1a/b3/981ab3d3-4986-1e69-98de-15cabd341db3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nVoicepal: your AI Ghostwriter\n\nTweak: Subscription Unlocked\n\nVersion: 2.2.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.choiceapps.recipesfdw\nDeveloper: Voicepal Limited",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/e3/46/2ce3464e-c72d-dc8a-ed1f-53792d822fed/916f89e3-6811-4fc6-b470-9e9ddba03404_iPhone_5.5__U00287_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/dc/2d/ebdc2dce-6ce9-5dca-144d-49a9b4930afb/169d4ab2-633f-495e-a51c-46047b824f87_iPhone_5.5__U00281_U0029.jpeg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c7/c8/53c7c8b9-f779-a5f3-9fad-a2955b4c4b30/8c167c03-0ff7-4287-9d14-469569aea183_iPhone_5.5__U00282_U0029.jpeg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/68/8e/58688ee4-8035-c10b-3f0b-7245b4c27d75/6f908896-4404-4ff1-bb65-511f8cdef7e2_iPhone_5.5__U00283_U0029.jpeg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/7c/16/217c16f3-54f0-f7ce-3922-c75661a48eee/c97a5359-5be3-42f6-825f-449b8a84d175_iPhone_5.5__U00284_U0029.jpeg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/55/b9/fe55b9c2-341e-b149-c8cd-b8d80335fc93/b2cce808-f795-4e32-ba54-e461ea536d95_iPhone_5.5__U00285_U0029.jpeg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
