@@ -121,6 +121,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/com.videobrowser.ios_VideoLite_622300.ipa"
     },
     {
+      "name": "Photoroom",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "developerName": "Photoroom",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/3f/1e/1d3f1e39-07ae-654b-d04c-9eccf2312f82/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPhotoroom: AI Photo Editor\n\n• Bundle ID: com.dr1ven.eraser\n• Updated to: 2026.21.01\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Max Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nImage generation might still be limited.\nIgnore any purchase pages and restart the app once.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2026.21.01",
+          "date": "2026-05-19",
+          "size": 131263611,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.dr1ven.eraser_Photoroom_2026.21.01.ipa"
+        },
+        {
+          "version": "2026.19.02",
+          "date": "2026-05-16",
+          "size": 189956465,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.dr1ven.eraser_PhotoRoomPatch_2026.19.02.ipa"
+        },
+        {
+          "version": "2026.15.01",
+          "date": "2026-04-15",
+          "size": 177798654,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/com.dr1ven.eraser_PhotoRoomPatch_2026.15.01.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2026.21.01",
+      "versionDate": "2026-05-19T07:44:47.290Z",
+      "size": 131263611,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.dr1ven.eraser_Photoroom_2026.21.01.ipa"
+    },
+    {
       "name": "Komoot",
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "developerName": "komoot GmbH",
@@ -255,40 +289,6 @@
       "versionDate": "2026-05-12T22:41:31.368Z",
       "size": 160793037,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-12/com.reddit.Reddit_redditColorComments_2026.19.9.ipa"
-    },
-    {
-      "name": "Photoroom",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "developerName": "Photoroom",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/3f/1e/1d3f1e39-07ae-654b-d04c-9eccf2312f82/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPhotoRoom: AI Photo Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "2026.19.02",
-          "date": "2026-05-16",
-          "size": 189956465,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.dr1ven.eraser_PhotoRoomPatch_2026.19.02.ipa"
-        },
-        {
-          "version": "2026.15.01",
-          "date": "2026-04-15",
-          "size": 177798654,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-15/com.dr1ven.eraser_PhotoRoomPatch_2026.15.01.ipa"
-        },
-        {
-          "version": "2026.14.01",
-          "date": "2026-04-07",
-          "size": 175172832,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.dr1ven.eraser_Sideloadbypass2_2026.14.01.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2026.19.02",
-      "versionDate": "2026-05-16T01:44:47.251Z",
-      "size": 189956465,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.dr1ven.eraser_PhotoRoomPatch_2026.19.02.ipa"
     },
     {
       "name": "SolarWatch",
@@ -4397,6 +4397,34 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.SofaScore.iOS_Sideloadbypass2_26.04.09.ipa"
     },
     {
+      "name": "wpsoffice",
+      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+      "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/60/6f/51606f5b-32f1-942b-2b43-32f58fa78683/US_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nWPS Office-AI Doc, PDF, Sheet\n\n• Bundle ID: com.kingsoft.office.g.wpsoffice\n• Updated to: 26.4.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: PRO+AI Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore any purchase banners.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "26.4.1",
+          "date": "2026-05-19",
+          "size": 335432005,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.kingsoft.office.g.wpsoffice_WPSOffice_26.4.1.ipa"
+        },
+        {
+          "version": "11.37.40",
+          "date": "2026-03-18",
+          "size": 323544102,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.kingsoft.office.g.wpsoffice_WPSOffice_11.37.40.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.4.1",
+      "versionDate": "2026-05-19T04:44:59.957Z",
+      "size": 335432005,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.kingsoft.office.g.wpsoffice_WPSOffice_26.4.1.ipa"
+    },
+    {
       "name": "Еаптечка",
       "bundleIdentifier": "com.eaptechka.ios",
       "developerName": "Unknown Developer",
@@ -6625,28 +6653,6 @@
       "versionDate": "2026-03-11T12:26:00.041Z",
       "size": 39840510,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.x.chat.beta.testflight_11.71.ipa"
-    },
-    {
-      "name": "wpsoffice",
-      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
-      "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ac/6a/15ac6af8-13fa-61eb-ecae-dc6af443b5c3/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nWPS Office: PDF, Docs, Sheets\n\n• Bundle ID: com.kingsoft.office.g.wpsoffice\n• Updated to: 11.37.40\n• Minimum iOS: 15.0\n• Patched\n• Modifier: PRO+AI Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore any purchase banners.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "11.37.40",
-          "date": "2026-03-18",
-          "size": 323544102,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.kingsoft.office.g.wpsoffice_WPSOffice_11.37.40.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "11.37.40",
-      "versionDate": "2026-03-18T05:34:51.271Z",
-      "size": 323544102,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/com.kingsoft.office.g.wpsoffice_WPSOffice_11.37.40.ipa"
     },
     {
       "name": "BandLab",
@@ -22395,7 +22401,7 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/6e/5b/fc6e5bb5-ec21-a745-565b-6b88e0756a67/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.9.4\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.9.5\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg"
@@ -22442,6 +22448,12 @@
       ],
       "versions": [
         {
+          "version": "3.9.5",
+          "date": "2026-05-19",
+          "size": 128478943,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.wellocution.iosapp_BoldVoice_3.9.5.ipa"
+        },
+        {
           "version": "3.9.4",
           "date": "2026-05-18",
           "size": 128473207,
@@ -22452,19 +22464,13 @@
           "date": "2026-05-07",
           "size": 121098478,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.wellocution.iosapp_BoldVoice_3.8.8.ipa"
-        },
-        {
-          "version": "3.8.5",
-          "date": "2026-05-02",
-          "size": 120227627,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.wellocution.iosapp_BoldVoice_3.8.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.9.4",
-      "versionDate": "2026-05-18T07:44:36.933Z",
-      "size": 128473207,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.wellocution.iosapp_BoldVoice_3.9.4.ipa"
+      "version": "3.9.5",
+      "versionDate": "2026-05-19T04:45:16.880Z",
+      "size": 128478943,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.wellocution.iosapp_BoldVoice_3.9.5.ipa"
     },
     {
       "name": "Offline Games",
