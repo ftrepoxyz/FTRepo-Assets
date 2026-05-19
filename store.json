@@ -2431,7 +2431,7 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/04/73/0a0473a0-c60c-d26f-e39d-0995063d74d4/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPicsart AI Photo Video Editor\n\nPro features unlocked\n\n⚠️ AI is NOT unlocked!\n\nTweak made by blatant\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 29.9.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/2a/36/072a3665-ee23-8ab4-3d15-1af135b8e32a/5.Collage___iPhone_6.5.jpg/1320x2868bb.webp"
@@ -2506,16 +2506,16 @@
       ],
       "versions": [
         {
+          "version": "29.9.5",
+          "date": "2026-05-19",
+          "size": 107954085,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.picsart.studio_Picsart_29.9.5.ipa"
+        },
+        {
           "version": "29.9.4",
           "date": "2026-05-18",
           "size": 100587356,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.picsart.studio_Picsart_29.9.4.ipa"
-        },
-        {
-          "version": "29.9.2",
-          "date": "2026-05-09",
-          "size": 130252905,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-09/com.picsart.studio_Picsart_29.9.2.ipa"
         },
         {
           "version": "29.9.1",
@@ -2525,10 +2525,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "29.9.4",
-      "versionDate": "2026-05-18T16:44:57.158Z",
-      "size": 100587356,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.picsart.studio_Picsart_29.9.4.ipa"
+      "version": "29.9.5",
+      "versionDate": "2026-05-19T19:44:51.943Z",
+      "size": 107954085,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.picsart.studio_Picsart_29.9.5.ipa"
     },
     {
       "name": "FarmVille 2",
@@ -8840,11 +8840,17 @@
       "name": "Infuse",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Firecore, LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/af/84/d1af84b0-3bed-f126-1b1f-228b75dccc94/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.4.1\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.4.1\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Removed vibrancy effect of player toast, now toast follows system theme\n• Added option to automatically clean Infuse trash folder\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/75/2f/e6752f0d-6382-3024-67c7-4f4cdba6d1a6/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.4.5\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.5\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Tweak core has been fully rewritten\n• Settings have been optimized for iPad\n• Improved gesture interaction\n• Fixed an issue with the loop button visibility\n• Added overlay lock feature\n• Added vertical and horizontal video mirroring\n• Added an option to mute the player only\n• Added support for Infuse 8.2.5+\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "8.4.5",
+          "date": "2026-05-19",
+          "size": 92100828,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.firecore.infuse_InfusePlus_8.4.5.ipa"
+        },
         {
           "version": "8.4.1",
           "date": "2026-03-31",
@@ -8856,19 +8862,13 @@
           "date": "2026-03-12",
           "size": 77264574,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.firecore.infuse_InfusePlus_8.3.9.ipa"
-        },
-        {
-          "version": "8.2.4",
-          "date": "2026-03-11",
-          "size": 68974859,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.firecore.infuse_InfusePlus_8.2.4.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "8.4.1",
-      "versionDate": "2026-03-31T16:01:06.913Z",
-      "size": 83506392,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-31/com.firecore.infuse_InfusePlus_8.4.1.ipa"
+      "version": "8.4.5",
+      "versionDate": "2026-05-19T16:44:53.142Z",
+      "size": 92100828,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.firecore.infuse_InfusePlus_8.4.5.ipa"
     },
     {
       "name": "KetoDiet",
@@ -10868,12 +10868,6 @@
           "date": "2026-04-17",
           "size": 174657863,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.snowcorp.epik_EPIK_7.1.0.ipa"
-        },
-        {
-          "version": "7.0.160",
-          "date": "2026-04-02",
-          "size": 168529776,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.snowcorp.epik_EPIK_7.0.160.ipa"
         }
       ],
       "appPermissions": {},
