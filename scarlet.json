@@ -5,6 +5,50 @@
   },
   "data": [
     {
+      "name": "Moovit",
+      "version": "5.192.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.tranzmate.tranzmate1_Moovit_5.192.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.tranzmate.tranzmate1",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/02/6e/63026edf-eed1-2f9f-a96b-64953a25a59a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nMoovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.192.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Moovit App Global LTD",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f9/4f/02f94f76-571c-93f5-6110-a0a3972b225e/mzl.upvezpae.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/16/ef/5316efcb-e0be-f62b-e188-4e55afd92bd2/mzl.mvtlndfz.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/3c/04/0f3c049e-9b00-2de4-b27b-9d052773a7a4/mzl.jjmfrmui.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/69/4f/b7694f38-8a7e-c3da-e573-c49021b8734d/mzl.ucjfykre.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/f7/db/91f7db52-35fc-ae95-308d-dcf5d55d2065/mzl.supxeqsq.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/9f/80/b69f808d-556d-3d21-a95e-f3dea361588c/mzl.bmtixkgh.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/a6/e0/e3a6e0ac-6e3e-dc76-645d-bf25b551154b/mzl.kvlhdvoc.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "StressWatch",
+      "version": "3.1.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.ideation.Stress_StressWatch_3.1.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.ideation.Stress",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a5/71/37a5714e-35ae-caf2-a7a5-d00d3ad9ec1b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nStressWatch: AI Stress Monitor\n\n• Bundle ID: com.ideation.Stress\n• Updated to: 3.1.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "One Hundred Bad Ideas Limited",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Photoroom",
       "version": "2026.21.01",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.dr1ven.eraser_Photoroom_2026.21.01.ipa",
@@ -4480,32 +4524,6 @@
       "description": "from @riftysipalibrary |\n----------------\nSunrise Sunset Time SolarWatch\n\nTweak: Premium Unlocked\n\nVersion: 2026.19\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.6\nBundle ID: com.fifteenjugglers.solarwatch\nDeveloper: Fifteen Jugglers Software UG",
       "developer": "Fifteen Jugglers Software UG",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Moovit",
-      "version": "5.191.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.tranzmate.tranzmate1_Moovit_5.191.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.tranzmate.tranzmate1",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/02/6e/63026edf-eed1-2f9f-a96b-64953a25a59a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nMoovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.191.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Moovit App Global LTD",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f9/4f/02f94f76-571c-93f5-6110-a0a3972b225e/mzl.upvezpae.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/16/ef/5316efcb-e0be-f62b-e188-4e55afd92bd2/mzl.mvtlndfz.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/3c/04/0f3c049e-9b00-2de4-b27b-9d052773a7a4/mzl.jjmfrmui.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/69/4f/b7694f38-8a7e-c3da-e573-c49021b8734d/mzl.ucjfykre.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/f7/db/91f7db52-35fc-ae95-308d-dcf5d55d2065/mzl.supxeqsq.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/9f/80/b69f808d-556d-3d21-a95e-f3dea361588c/mzl.bmtixkgh.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/a6/e0/e3a6e0ac-6e3e-dc76-645d-bf25b551154b/mzl.kvlhdvoc.jpg/1320x2868bb.jpg"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -9714,24 +9732,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/3a/fa/fa3afa6b-30f4-272b-4d1e-c2a957fe1df3/Buddy-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "description": "from @blatants |\n----------------\nBuddy: Budget Planner App\n\n• Bundle ID: com.iPwners.Plonkan\n• Updated to: 13.31\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "Buddy Budgeting AB",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "StressWatch",
-      "version": "3.0.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.ideation.Stress_StressWatch_3.0.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.ideation.Stress",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/33/c4/6433c4e4-517d-21a5-d8c6-bba6b9f6c6ec/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nStressWatch: AI Stress Monitor\n\n• Bundle ID: com.ideation.Stress\n• Updated to: 3.0.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "One Hundred Bad Ideas Limited",
       "screenshots": [],
       "accentColor": {
         "light": {
