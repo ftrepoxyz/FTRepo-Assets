@@ -13379,7 +13379,7 @@
       "bundleIdentifier": "com.tranzmate.tranzmate1",
       "developerName": "Moovit App Global LTD",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/02/6e/63026edf-eed1-2f9f-a96b-64953a25a59a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMoovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.191.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nMoovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.192.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f9/4f/02f94f76-571c-93f5-6110-a0a3972b225e/mzl.upvezpae.jpg/1320x2868bb.jpg"
@@ -13414,6 +13414,12 @@
       ],
       "versions": [
         {
+          "version": "5.192.0",
+          "date": "2026-05-19",
+          "size": 107698670,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.tranzmate.tranzmate1_Moovit_5.192.0.ipa"
+        },
+        {
           "version": "5.191.0",
           "date": "2026-05-04",
           "size": 107630546,
@@ -13421,10 +13427,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.191.0",
-      "versionDate": "2026-05-04T07:40:32.362Z",
-      "size": 107630546,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.tranzmate.tranzmate1_Moovit_5.191.0.ipa"
+      "version": "5.192.0",
+      "versionDate": "2026-05-19T13:44:51.223Z",
+      "size": 107698670,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.tranzmate.tranzmate1_Moovit_5.192.0.ipa"
     },
     {
       "name": "Instories",
@@ -23341,6 +23347,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.kairos.duet_DuetDisplay_3.1.6.ipa"
     },
     {
+      "name": "StressWatch",
+      "bundleIdentifier": "com.ideation.Stress",
+      "developerName": "One Hundred Bad Ideas Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a5/71/37a5714e-35ae-caf2-a7a5-d00d3ad9ec1b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nStressWatch: AI Stress Monitor\n\n• Bundle ID: com.ideation.Stress\n• Updated to: 3.1.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "3.1.4",
+          "date": "2026-05-19",
+          "size": 353298394,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.ideation.Stress_StressWatch_3.1.4.ipa"
+        },
+        {
+          "version": "3.0.1",
+          "date": "2026-04-02",
+          "size": 325481063,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.ideation.Stress_StressWatch_3.0.1.ipa"
+        },
+        {
+          "version": "3.0.0",
+          "date": "2026-03-19",
+          "size": 325189876,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.ideation.Stress_StressWatch_3.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.1.4",
+      "versionDate": "2026-05-19T10:45:27.373Z",
+      "size": 353298394,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.ideation.Stress_StressWatch_3.1.4.ipa"
+    },
+    {
       "name": "InnerNow",
       "bundleIdentifier": "com.chopraglobal.chopra",
       "developerName": "CHPWL LLC",
@@ -23829,40 +23869,6 @@
       "versionDate": "2026-03-22T12:42:37.437Z",
       "size": 118864072,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.joytunes.Sing_SimplyCrack_3.0.2.ipa"
-    },
-    {
-      "name": "StressWatch",
-      "bundleIdentifier": "com.ideation.Stress",
-      "developerName": "One Hundred Bad Ideas Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/33/c4/6433c4e4-517d-21a5-d8c6-bba6b9f6c6ec/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nStressWatch: AI Stress Monitor\n\n• Bundle ID: com.ideation.Stress\n• Updated to: 3.0.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "3.0.1",
-          "date": "2026-04-02",
-          "size": 325481063,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.ideation.Stress_StressWatch_3.0.1.ipa"
-        },
-        {
-          "version": "3.0.0",
-          "date": "2026-03-19",
-          "size": 325189876,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-19/com.ideation.Stress_StressWatch_3.0.0.ipa"
-        },
-        {
-          "version": "2.5.1",
-          "date": "2026-03-11",
-          "size": 321604778,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ideation.Stress_StressWatch_2.5.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.0.1",
-      "versionDate": "2026-04-02T04:01:38.917Z",
-      "size": 325481063,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-02/com.ideation.Stress_StressWatch_3.0.1.ipa"
     },
     {
       "name": "Spoke",
