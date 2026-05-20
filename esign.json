@@ -3,6 +3,84 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Flacbox",
+      "version": "7.4",
+      "versionDate": "2026-05-20",
+      "size": 86290558,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.leshko.flap_Flacbox_7.4.ipa",
+      "developerName": "EVERAPPZ SL",
+      "bundleIdentifier": "com.leshko.flap",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/50/c0/9250c048-bb0b-446c-e465-be1be6fc811c/AppIcon_flacbox-0-0-1x_U007epad-0-1-sRGB-512MB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFlacbox: Hi-Res Music Player\n\n• Bundle ID: com.leshko.flap\n• Updated to: 7.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page all features work\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/96/ae/2a96ae67-1f93-dcd5-a436-17d933b98785/01_iPhone.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/b4/c4/87b4c48e-bdfe-15f0-bb28-ce4cbd5ec9d9/02_iPhone.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/44/49/35444967-94f0-c480-3c20-2566eb39fefd/03_iPhone.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/ca/80/3cca80c1-f278-d63c-f441-3d5c3cd34b01/04_iPhone.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/31/2b/4d312b9b-808d-1ac1-73ee-e7b3eddffe7a/05_iPhone.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/34/28/ea342807-37df-1a50-b354-22b15ac817de/06_iPhone.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0f/fe/370ffe5e-065f-faaa-a08f-717387dfe0d1/07_iPhone.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/d7/30/17d730cf-5b49-4ee6-d134-f7884bee459b/08_iPhone.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/0d/3b/e70d3bc1-0117-3d64-0034-6e373f541e12/09_iPhone.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/c1/aa/bdc1aa79-32a4-d4ce-2a6f-19544a62b7e1/10_iPhone.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/ad/32/84ad3287-b04f-86fa-3137-dad75cab3560/01_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/e0/ef/06e0efec-9ce3-09d8-c61e-eab6fd975b1a/02_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/7d/6e/157d6ed1-c3a5-5296-6e64-0c414add5813/03_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/bb/79/febb79f3-36a3-d395-50bc-c07bd867c112/04_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/e3/2d/b4e32d9d-9f52-fcfe-cebe-91d7f6d33665/05_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/74/20/b77420f0-0858-4d04-a368-313642a7b2e6/06_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/92/7e/ee927e1e-98c8-721f-0d60-3304dad1393d/07_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/c7/a4/b1c7a486-69e4-d190-ea6a-a9e78b81289f/08_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/b6/a4/35b6a430-b1aa-c182-bf77-8e0be555f7ac/09_iPad.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/3b/85/c43b85db-b1fa-6848-81bc-50b975c7de54/10_iPad.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Twitch",
+      "version": "29.5",
+      "versionDate": "2026-05-20",
+      "size": 147449419,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/tv.twitch_TwitchControl_29.5.ipa",
+      "developerName": "Twitch Interactive, Inc.",
+      "bundleIdentifier": "tv.twitch",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/fd/8a/c6fd8a15-38fb-a2ae-0345-0a8871e0b6f7/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nTwitch Control v0.0.5 is now live.\n\nChanges:\n- Added full support for Twitch version 29.5 and the new Composable Skyline UI.\n- Implemented advanced Recap stories, autopost cards, and grids suppression.\n- Added Zero-Latency stream playlist loading, allowing streams to launch under 1-2 seconds.\n- Integrated an in-memory Stateful Ad-Break scanner to prevent endless black screens.\n- Added a dual-layer Telemetry Shield using network blocking and runtime class swizzling.\n- improved background recovery connections and optimized local transport sockets.\n- Enabled TCP Keep-Alive and implemented UI pipeline hardening to ensure zero interface lag.\n\nThe official .dylib and .ipa are attached below.\n\nFull detailed changelog and guide are posted right below.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/58/1b/22581b48-e7bb-f8e4-d4bd-347ea0c89a58/77c505ba-b565-443b-83da-642a3bbc96f8_03-1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/05/c7/2c05c7b6-d986-1dc2-a55b-f25286b12cce/f1b8408a-d231-4e9a-aeff-9bcc55be2d34_04-1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/80/90/0f80906b-8d06-719f-cd2b-ea5a6bc6233e/d09d7800-f33b-4f91-b9a7-1c0a8a9fc7bb_05-1242x2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f1/f9/baf1f966-1509-e84f-c830-bae9c2aa1dc0/5cd0dff7-0dad-4dc2-9ad8-dfdb3afe5fe6_06-1242x2208.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "LINE Camera",
+      "version": "18.3.0",
+      "versionDate": "2026-05-20",
+      "size": 200560856,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/jp.naver.linecamera_LINECamera_18.3.0.ipa",
+      "developerName": "SNOW Corporation",
+      "bundleIdentifier": "jp.naver.linecamera",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/7d/d6/607dd672-636b-6fda-b605-cd270c257298/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLINE Camera - Photo editor\n\n• Bundle ID: jp.naver.linecamera\n• Updated to: 18.3.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/27/8f/39278fe6-038f-45b8-f616-2b00cd9b4329/1242x2208_filter.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/68/b3/c968b397-9270-cd57-6a02-1728925d0c44/1242x2208_blur.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/2a/89/102a89e5-8078-b33c-3135-087c2af9c53d/1242x2208_store.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/22/ab/2e22ab4b-a13a-22db-12e8-2870f5d10a6a/1242x2208_asian.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/b3/2e/3cb32e5e-ce38-1abb-eab0-903e62924eab/1242x2208_asian2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/fb/f446fb55-a1cf-d921-8fd4-9333e3341070/1242x2208_asian.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/8f/f6/4f8ff650-cbf0-9069-f536-dd86f090bf4a/01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/4f/6b/a14f6b34-8e15-1afc-888e-a6719bf9d963/02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/0b/72/bb0b725a-fcee-05be-7d27-eea940e21117/1242x2208_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/52/58/735258a6-5d30-e611-75fc-a89a1417cbd7/06.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "InShot",
       "version": "1.96.1",
       "versionDate": "2026-05-20",
@@ -6295,26 +6373,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Twitch",
-      "version": "29.0",
-      "versionDate": "2026-04-18",
-      "size": 152208247,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/tv.twitch_TwitchControl0.0.2_29.0.ipa",
-      "developerName": "Twitch Interactive, Inc.",
-      "bundleIdentifier": "tv.twitch",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/e2/a4/6be2a491-8c80-2227-df5d-d5e7b82cc2b3/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/58/1b/22581b48-e7bb-f8e4-d4bd-347ea0c89a58/77c505ba-b565-443b-83da-642a3bbc96f8_03-1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/05/c7/2c05c7b6-d986-1dc2-a55b-f25286b12cce/f1b8408a-d231-4e9a-aeff-9bcc55be2d34_04-1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/80/90/0f80906b-8d06-719f-cd2b-ea5a6bc6233e/d09d7800-f33b-4f91-b9a7-1c0a8a9fc7bb_05-1242x2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f1/f9/baf1f966-1509-e84f-c830-bae9c2aa1dc0/5cd0dff7-0dad-4dc2-9ad8-dfdb3afe5fe6_06-1242x2208.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "BAM!",
       "version": "2.27",
       "versionDate": "2026-04-18",
@@ -6539,30 +6597,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/ca/da/67cada25-b469-9c91-470c-fb3bb4eb98d4/3afdb2a2-3100-4427-abee-3a68a56561d4_7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/be/14/7cbe1433-6d2c-9ce6-8faf-2eef00bed2ec/7e7de8ab-35f5-4aac-9cf8-8c1efb01ce91_8.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/9b/76/889b7615-3093-145c-4cc4-4d992308ea01/0f36201b-d59a-48cc-b48b-0c52aa25dc86_9.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "LINE Camera",
-      "version": "18.2.7",
-      "versionDate": "2026-04-17",
-      "size": 192284769,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/jp.naver.linecamera_LINECamera_18.2.7.ipa",
-      "developerName": "SNOW Corporation",
-      "bundleIdentifier": "jp.naver.linecamera",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/33/58/5c3358ee-a07a-9b0f-8b63-a1164078a23d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLINE Camera - Photo editor\n\n• Bundle ID: jp.naver.linecamera\n• Updated to: 18.2.7\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/ba/98/e3ba98f5-5dff-66e2-d51b-925776378f49/1242x2208_asian.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/f9/d7/67f9d7ba-a20c-c060-eedb-55172ad49a3c/1242x2208_asian2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/2e/4c/9d2e4cf8-518a-bedb-23eb-f895b2d8c231/1242x2208_asian.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/f4/15/faf41512-d474-d190-abad-ff7312e0fd66/01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/a3/35/78a335f2-4601-846c-ce94-949892171efb/02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/98/3c/37983c33-fed2-bbbe-21e6-840a9320a345/03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/6b/0e/326b0e35-f78b-1c5b-8389-f6958d46b7e6/04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/7e/34/4a7e3491-3b54-9e43-cb0e-2ad7e4abcd78/1242x2208_05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/33/3a/df333aeb-fefe-9a87-3e9a-000d6273b9f6/06.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/c8/59/5dc8593e-fad5-c4ca-bde9-1379a18a9d5c/07.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
