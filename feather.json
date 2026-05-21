@@ -1311,45 +1311,11 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-19/co.visualsupply.cam_AutoRcSideload_460.0.0.ipa"
     },
     {
-      "name": "Threads",
-      "bundleIdentifier": "com.burbn.barcelona",
-      "developerName": "Instagram, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/fa/ee/53faee9c-12b7-52f8-afb2-9357d2e90231/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nThreads\n\nAd blocker and media downloader\n\nThanks to Chocolate Fluffy for this tweak\n\nMinimum OS version 16.3\n\nAppStore link | Donate",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "430.0.0",
-          "date": "2026-05-18",
-          "size": 91564976,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.burbn.barcelona_ThreadSaver_430.0.0.ipa"
-        },
-        {
-          "version": "426.0.0",
-          "date": "2026-04-23",
-          "size": 88900702,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.burbn.barcelona_ThreadSaver_426.0.0.ipa"
-        },
-        {
-          "version": "423.1.0",
-          "date": "2026-04-03",
-          "size": 84436954,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.burbn.barcelona_ThreadSaver_423.1.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "430.0.0",
-      "versionDate": "2026-05-18T22:45:40.086Z",
-      "size": 91564976,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.burbn.barcelona_ThreadSaver_430.0.0.ipa"
-    },
-    {
       "name": "Instagram (Regram)",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a9/cc2ea9a4-1c31-7fda-4ce4-fb67e8bebbc2/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nRegram 4.0.1",
+      "localizedDescription": "from @binnichtaktivsipas",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/1320x2868bb.jpg"
@@ -1384,6 +1350,12 @@
       ],
       "versions": [
         {
+          "version": "430.0.0",
+          "date": "2026-05-21",
+          "size": 310384507,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.burbn.instagram_Regram_430.0.0.ipa"
+        },
+        {
           "version": "429.0.0",
           "date": "2026-05-17",
           "size": 307688647,
@@ -1397,10 +1369,44 @@
         }
       ],
       "appPermissions": {},
-      "version": "429.0.0",
-      "versionDate": "2026-05-17T19:44:44.869Z",
-      "size": 307688647,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-17/com.burbn.instagram_Regram_429.0.0.ipa"
+      "version": "430.0.0",
+      "versionDate": "2026-05-21T19:45:46.398Z",
+      "size": 310384507,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.burbn.instagram_Regram_430.0.0.ipa"
+    },
+    {
+      "name": "Threads",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "developerName": "Instagram, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/fa/ee/53faee9c-12b7-52f8-afb2-9357d2e90231/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nThreads\n\nAd blocker and media downloader\n\nThanks to Chocolate Fluffy for this tweak\n\nMinimum OS version 16.3\n\nAppStore link | Donate",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "430.0.0",
+          "date": "2026-05-18",
+          "size": 91564976,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.burbn.barcelona_ThreadSaver_430.0.0.ipa"
+        },
+        {
+          "version": "426.0.0",
+          "date": "2026-04-23",
+          "size": 88900702,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.burbn.barcelona_ThreadSaver_426.0.0.ipa"
+        },
+        {
+          "version": "423.1.0",
+          "date": "2026-04-03",
+          "size": 84436954,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/com.burbn.barcelona_ThreadSaver_423.1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "430.0.0",
+      "versionDate": "2026-05-18T22:45:40.086Z",
+      "size": 91564976,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.burbn.barcelona_ThreadSaver_430.0.0.ipa"
     },
     {
       "name": "Instagram (Ryukgram)",
@@ -4397,6 +4403,76 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.SofaScore.iOS_Sideloadbypass2_26.04.09.ipa"
     },
     {
+      "name": "Athlytic",
+      "bundleIdentifier": "myndarc.newFitnessApp",
+      "developerName": "MyndArc, LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/24/17/242417c0-8942-ae72-484d-b8eeda453c42/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAthlytic: AI Fitness Coach\n\n• Bundle ID: myndarc.newFitnessApp\n• Updated to: 26.4.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/ca/d9/30cad91c-30fc-f194-ee41-90e934fbd7ea/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/40/9c/29409c58-b7b3-af21-b9e2-285efda0705f/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/9d/02/7f9d0271-7b69-0a8c-ec67-81ec6e25bb5e/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/e8/92/05e8923a-0dca-3420-46f4-f02f18b84937/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/4a/af/af4aafdb-4a8a-93c8-56f9-02a0d3ccfffd/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/67/22/906722a8-12dd-20e4-d19c-4a48f07c87e5/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-6.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/90/cd/1e90cded-d61a-8665-e9ae-bc297fe97e77/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-7.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/6a/ea/7b6aeaba-a4e7-355a-295a-e926fab58b9b/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-8.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/b9/f8/0eb9f816-d6dd-ba99-dc1a-228f16d0ee45/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-9.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/e3/5a/93e35a64-89d6-58e2-d61c-62e8694d4206/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-10.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/ca/d9/30cad91c-30fc-f194-ee41-90e934fbd7ea/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/40/9c/29409c58-b7b3-af21-b9e2-285efda0705f/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/9d/02/7f9d0271-7b69-0a8c-ec67-81ec6e25bb5e/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/e8/92/05e8923a-0dca-3420-46f4-f02f18b84937/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/4a/af/af4aafdb-4a8a-93c8-56f9-02a0d3ccfffd/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/67/22/906722a8-12dd-20e4-d19c-4a48f07c87e5/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/90/cd/1e90cded-d61a-8665-e9ae-bc297fe97e77/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/6a/ea/7b6aeaba-a4e7-355a-295a-e926fab58b9b/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/b9/f8/0eb9f816-d6dd-ba99-dc1a-228f16d0ee45/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/e3/5a/93e35a64-89d6-58e2-d61c-62e8694d4206/Athlytic_app_store_assets_iPad_2064x2752_042826_Artboard-10.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "26.4.2",
+          "date": "2026-05-21",
+          "size": 32210502,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/myndarc.newFitnessApp_Athlytic_26.4.2.ipa"
+        },
+        {
+          "version": "26.3.2",
+          "date": "2026-03-24",
+          "size": 31603875,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/myndarc.newFitnessApp_Athlytic_26.3.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.4.2",
+      "versionDate": "2026-05-21T16:44:57.748Z",
+      "size": 32210502,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/myndarc.newFitnessApp_Athlytic_26.4.2.ipa"
+    },
+    {
       "name": "wpsoffice",
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
       "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
@@ -4537,70 +4613,6 @@
       "versionDate": "2026-03-11T09:53:36.995Z",
       "size": 178103503,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.adobe.scan.ios_Sideloadbypass2_26.03.06.ipa"
-    },
-    {
-      "name": "Athlytic",
-      "bundleIdentifier": "myndarc.newFitnessApp",
-      "developerName": "MyndArc, LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/fb/a8/79fba883-b8e8-2a06-38ea-723202be5e2c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAthlytic: AI Fitness Coach\n\n• Bundle ID: myndarc.newFitnessApp\n• Updated to: 26.3.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/09/3d/12093dce-1607-e6f9-c293-488267293d5a/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-1.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/dd/ba/1dddba5a-c7b1-0278-86c5-5733990309ac/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/87/b7/4087b7fa-10d8-58b7-c978-1b2d425b89d0/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a5/e2/6ca5e2f4-24b3-59c0-a130-5b0b59982a20/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/79/20/197920d9-abfc-65bc-43da-4dd698e96bff/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-5.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/a4/ca/15a4ca3d-6ad3-6ba5-4d17-6df033045cb3/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-6.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/f5/94/fbf59410-9858-7518-8197-ea255f8f6162/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-7.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/35/7e/73357e1a-89d4-f5d2-b947-66b1067c2361/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-8.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/77/e5/7b77e5fd-6168-6781-6b1d-33812ce182f3/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-10.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/b7/82/2cb7827f-65a3-43c7-85c3-0b5b2e7a5731/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-9.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/09/3d/12093dce-1607-e6f9-c293-488267293d5a/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/dd/ba/1dddba5a-c7b1-0278-86c5-5733990309ac/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/87/b7/4087b7fa-10d8-58b7-c978-1b2d425b89d0/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a5/e2/6ca5e2f4-24b3-59c0-a130-5b0b59982a20/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/79/20/197920d9-abfc-65bc-43da-4dd698e96bff/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/a4/ca/15a4ca3d-6ad3-6ba5-4d17-6df033045cb3/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-6.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/f5/94/fbf59410-9858-7518-8197-ea255f8f6162/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/35/7e/73357e1a-89d4-f5d2-b947-66b1067c2361/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/77/e5/7b77e5fd-6168-6781-6b1d-33812ce182f3/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-10.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/b7/82/2cb7827f-65a3-43c7-85c3-0b5b2e7a5731/Athlytic_app_store_assets_iPad_2064x2752_072225_Artboard-9.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "26.3.2",
-          "date": "2026-03-24",
-          "size": 31603875,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/myndarc.newFitnessApp_Athlytic_26.3.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.3.2",
-      "versionDate": "2026-03-24T18:42:50.426Z",
-      "size": 31603875,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-24/myndarc.newFitnessApp_Athlytic_26.3.2.ipa"
     },
     {
       "name": "Bazaart",
@@ -10162,8 +10174,8 @@
       "name": "Duolingo",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f9/6c/a0f96c8e-8765-f105-e436-88c274d92f10/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDuolingo: Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.122.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/c3/8c/41c38c9e-d7f1-7f13-5832-814069dfb6a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDuolingo: Language Lessons\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.123.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/32/13/a032137c-b6b5-8533-8b4d-00734cb192dd/iPhone6.5_-_Current_ASO_-_1.png/1320x2868bb.webp"
@@ -10246,6 +10258,12 @@
       ],
       "versions": [
         {
+          "version": "7.123.1",
+          "date": "2026-05-21",
+          "size": 210079949,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.duolingo.DuolingoMobile_Duolingo_7.123.1.ipa"
+        },
+        {
           "version": "7.122.1",
           "date": "2026-05-15",
           "size": 213513508,
@@ -10256,19 +10274,13 @@
           "date": "2026-05-11",
           "size": 213519642,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.duolingo.DuolingoMobile_Duolingo_7.122.0.ipa"
-        },
-        {
-          "version": "7.119.0",
-          "date": "2026-04-21",
-          "size": 214193752,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.duolingo.DuolingoMobile_Duolingo_7.119.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "7.122.1",
-      "versionDate": "2026-05-15T19:44:25.359Z",
-      "size": 213513508,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/com.duolingo.DuolingoMobile_Duolingo_7.122.1.ipa"
+      "version": "7.123.1",
+      "versionDate": "2026-05-21T16:45:24.447Z",
+      "size": 210079949,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.duolingo.DuolingoMobile_Duolingo_7.123.1.ipa"
     },
     {
       "name": "ism",
@@ -22565,7 +22577,7 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/6e/5b/fc6e5bb5-ec21-a745-565b-6b88e0756a67/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.9.5\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.9.6\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg"
@@ -22612,6 +22624,12 @@
       ],
       "versions": [
         {
+          "version": "3.9.6",
+          "date": "2026-05-21",
+          "size": 146342268,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.wellocution.iosapp_BoldVoice_3.9.6.ipa"
+        },
+        {
           "version": "3.9.5",
           "date": "2026-05-19",
           "size": 128478943,
@@ -22622,19 +22640,13 @@
           "date": "2026-05-18",
           "size": 128473207,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.wellocution.iosapp_BoldVoice_3.9.4.ipa"
-        },
-        {
-          "version": "3.8.8",
-          "date": "2026-05-07",
-          "size": 121098478,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/com.wellocution.iosapp_BoldVoice_3.8.8.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.9.5",
-      "versionDate": "2026-05-19T04:45:16.880Z",
-      "size": 128478943,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.wellocution.iosapp_BoldVoice_3.9.5.ipa"
+      "version": "3.9.6",
+      "versionDate": "2026-05-21T19:45:14.281Z",
+      "size": 146342268,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.wellocution.iosapp_BoldVoice_3.9.6.ipa"
     },
     {
       "name": "Offline Games",
