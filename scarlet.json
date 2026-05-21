@@ -5,6 +5,72 @@
   },
   "data": [
     {
+      "name": "PeakVisor",
+      "version": "5.99",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/ru.routes.peakvisor_PeakVisor_5.99.ipa",
+      "category": "Tweaked",
+      "bundleID": "ru.routes.peakvisor",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/3e/c6/c53ec6f0-c858-8c16-29bc-b7654044c62d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nHiking and Skiing - PeakVisor\n\n• Bundle ID: ru.routes.peakvisor\n• Updated to: 5.99\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Routes Software SRL",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/8d/c2/d38dc21a-0e64-130a-2dd1-7e086148103b/peakvisor_appstore_iphone_16_plus_en_.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/b7/ea/84b7ea01-fbd9-de9b-8ad2-cd57344012d0/peakvisor_appstore_iphone_16_plus_en_.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/a5/cf/7da5cf89-9933-7e6b-5b66-c5b6b85484d3/peakvisor_appstore_iphone_16_plus_en_-2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/bc/d0/12bcd084-766f-365a-3a24-8647cadd9f8d/peakvisor_appstore_iphone_16_plus_en_-4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/0d/ff/a70dff4f-4bd1-0ced-d3a5-c982bbbd0b29/peakvisor_appstore_iphone_16_plus_en_-5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/ad/e2/9dade295-130c-a2d2-d3ff-26c82205b04a/peakvisor_appstore_iphone_16_plus_en_-6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/ec/c0/03ecc06a-6708-b7ba-e397-c1fd75f41556/peakvisor_appstore_iphone_16_plus_en_-7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/0a/5d/f30a5d4c-a5db-34f5-5813-31eac45d9ed5/peakvisor_appstore_iphone_16_plus_en_-8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/7e/fe/3a7efed9-4e63-7e0d-b52e-00fc578d289d/peakvisor_appstore_iphone_16_plus_en_-10.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/d0/fe/2ad0fef8-45e3-479f-363d-e527d212a9e9/peakvisor_appstore_ipad_pro_6_en_.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/c2/01/a1c20160-6d9b-dca6-b2be-4ced775c1d4b/peakvisor_appstore_ipad_pro_6_en_-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/94/57/679457b2-4846-bb5a-d805-c500d01930c6/peakvisor_appstore_ipad_pro_6_en_-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/ba/9b/3bba9bfb-1da4-e392-5bcf-609a41b0a8a9/776e9a64-7e13-4661-9f64-45d2d11c01f6_peakvisor_ipad_pro_appstore_en_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/51/21/bd5121c5-970f-21a8-530e-69ad7d38bdd5/fa1a5d6f-bb70-4522-a1f4-d2435ea52c47_peakvisor_ipad_pro_appstore_en_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/75/9b/ff759b54-ece5-3d50-3580-bda372f2e1fc/130b5fec-33e5-494d-9b26-1a6a7622edcd_peakvisor_ipad_pro_appstore_en_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/24/5e/aa245e20-ffc4-6f4e-9f19-9e635d82540f/b5438160-e2b0-4fba-b585-35669d828545_peakvisor_ipad_pro_appstore_en_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ea/d1/47ead19e-ddf6-ffee-f956-a24510932f68/6d567881-63eb-4bea-b1f1-f71f3681d4ac_peakvisor_ipad_pro_appstore_en_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/2e/cb/8c2ecbd8-7d54-3411-166c-8eb3cba7483f/44edc488-943f-4648-b5e8-b96d378cc805_peakvisor_ipad_pro_appstore_en_9.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "ProCCD",
+      "version": "6.0.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.yengshine.proccd_ProCCD_6.0.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.yengshine.proccd",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/33/c2/ca33c251-4a2c-dbdb-f105-e3980aff3ec2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nProCCD - Digital Film Camera\n\n• Bundle ID: com.yengshine.proccd\n• Updated to: 6.0.1\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "亚玲 查",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/c2/0bd0c293-022f-3e34-aa0b-ad5ef65875f4/02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a8/c9/1fa8c973-5642-3165-cafe-cfdd4515a957/03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/43/17/684317c4-eff1-5d0c-176f-e268c49a2336/04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/aa/ad/6caaadc3-f5bd-7b6e-7052-5ea449a19e35/05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/01/20/9f012047-bcce-e0b0-fd08-e1f40c1c3910/06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/3e/f1/443ef1ea-b621-9e4f-52fd-e339581ce521/07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/96/a4/5e96a4e5-e5c0-31b2-3143-4d0582ff1bbc/08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/84/bc/3e84bc43-2752-f578-3b71-9697d2f00d6c/09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/8b/e3/aa8be37a-cd78-a6b2-75ae-09d7582c84ab/10.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Flacbox",
       "version": "7.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.leshko.flap_Flacbox_7.4.ipa",
@@ -1065,35 +1131,6 @@
       "description": "from @binnichtaktivsipas |\n----------------\nAllTrails \n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
       "developer": "AllTrails, Inc.",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "ProCCD",
-      "version": "6.0.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-17/com.yengshine.proccd_ProCCD_6.0.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.yengshine.proccd",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/33/c2/ca33c251-4a2c-dbdb-f105-e3980aff3ec2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nProCCD - Digital Film Camera\n\nVIP features unlocked\n\nTweak made by blatant\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
-      "developer": "亚玲 查",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/c2/0bd0c293-022f-3e34-aa0b-ad5ef65875f4/02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a8/c9/1fa8c973-5642-3165-cafe-cfdd4515a957/03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/43/17/684317c4-eff1-5d0c-176f-e268c49a2336/04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/aa/ad/6caaadc3-f5bd-7b6e-7052-5ea449a19e35/05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/01/20/9f012047-bcce-e0b0-fd08-e1f40c1c3910/06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/3e/f1/443ef1ea-b621-9e4f-52fd-e339581ce521/07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/96/a4/5e96a4e5-e5c0-31b2-3143-4d0582ff1bbc/08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/84/bc/3e84bc43-2752-f578-3b71-9697d2f00d6c/09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/8b/e3/aa8be37a-cd78-a6b2-75ae-09d7582c84ab/10.jpg/1320x2868bb.jpg"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -2480,43 +2517,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/ad/22/61ad22fa-9563-44d8-02c3-08cb993793cf/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_05.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/49/26/f2492610-62b1-b778-9ae8-2222077b37b1/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_07.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/9c/b6/9e9cb61b-158e-7869-0753-e96b4cc3924d/Adobe_Premiere_EN_iOS_13_Screenshots_HR_260311_06.png/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "PeakVisor",
-      "version": "5.97.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/ru.routes.peakvisor_PeakVisor_5.97.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "ru.routes.peakvisor",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/3e/c6/c53ec6f0-c858-8c16-29bc-b7654044c62d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nHiking and Skiing - PeakVisor\n\n• Bundle ID: ru.routes.peakvisor\n• Updated to: 5.97\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Routes Software SRL",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/8d/c2/d38dc21a-0e64-130a-2dd1-7e086148103b/peakvisor_appstore_iphone_16_plus_en_.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/b7/ea/84b7ea01-fbd9-de9b-8ad2-cd57344012d0/peakvisor_appstore_iphone_16_plus_en_.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/a5/cf/7da5cf89-9933-7e6b-5b66-c5b6b85484d3/peakvisor_appstore_iphone_16_plus_en_-2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/bc/d0/12bcd084-766f-365a-3a24-8647cadd9f8d/peakvisor_appstore_iphone_16_plus_en_-4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/0d/ff/a70dff4f-4bd1-0ced-d3a5-c982bbbd0b29/peakvisor_appstore_iphone_16_plus_en_-5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/ad/e2/9dade295-130c-a2d2-d3ff-26c82205b04a/peakvisor_appstore_iphone_16_plus_en_-6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/ec/c0/03ecc06a-6708-b7ba-e397-c1fd75f41556/peakvisor_appstore_iphone_16_plus_en_-7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/0a/5d/f30a5d4c-a5db-34f5-5813-31eac45d9ed5/peakvisor_appstore_iphone_16_plus_en_-8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/7e/fe/3a7efed9-4e63-7e0d-b52e-00fc578d289d/peakvisor_appstore_iphone_16_plus_en_-10.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/d0/fe/2ad0fef8-45e3-479f-363d-e527d212a9e9/peakvisor_appstore_ipad_pro_6_en_.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/c2/01/a1c20160-6d9b-dca6-b2be-4ced775c1d4b/peakvisor_appstore_ipad_pro_6_en_-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/94/57/679457b2-4846-bb5a-d805-c500d01930c6/peakvisor_appstore_ipad_pro_6_en_-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/ba/9b/3bba9bfb-1da4-e392-5bcf-609a41b0a8a9/776e9a64-7e13-4661-9f64-45d2d11c01f6_peakvisor_ipad_pro_appstore_en_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/51/21/bd5121c5-970f-21a8-530e-69ad7d38bdd5/fa1a5d6f-bb70-4522-a1f4-d2435ea52c47_peakvisor_ipad_pro_appstore_en_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/75/9b/ff759b54-ece5-3d50-3580-bda372f2e1fc/130b5fec-33e5-494d-9b26-1a6a7622edcd_peakvisor_ipad_pro_appstore_en_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/24/5e/aa245e20-ffc4-6f4e-9f19-9e635d82540f/b5438160-e2b0-4fba-b585-35669d828545_peakvisor_ipad_pro_appstore_en_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ea/d1/47ead19e-ddf6-ffee-f956-a24510932f68/6d567881-63eb-4bea-b1f1-f71f3681d4ac_peakvisor_ipad_pro_appstore_en_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/2e/cb/8c2ecbd8-7d54-3411-166c-8eb3cba7483f/44edc488-943f-4648-b5e8-b96d378cc805_peakvisor_ipad_pro_appstore_en_9.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
