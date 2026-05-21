@@ -14283,7 +14283,7 @@
       "bundleIdentifier": "com.tranzmate.tranzmate1",
       "developerName": "Moovit App Global LTD",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/02/6e/63026edf-eed1-2f9f-a96b-64953a25a59a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMoovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.192.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nMoovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.192.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f9/4f/02f94f76-571c-93f5-6110-a0a3972b225e/mzl.upvezpae.jpg/1320x2868bb.jpg"
@@ -14318,6 +14318,12 @@
       ],
       "versions": [
         {
+          "version": "5.192.1",
+          "date": "2026-05-21",
+          "size": 107697134,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.tranzmate.tranzmate1_Moovit_5.192.1.ipa"
+        },
+        {
           "version": "5.192.0",
           "date": "2026-05-19",
           "size": 107698670,
@@ -14331,10 +14337,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.192.0",
-      "versionDate": "2026-05-19T13:44:51.223Z",
-      "size": 107698670,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.tranzmate.tranzmate1_Moovit_5.192.0.ipa"
+      "version": "5.192.1",
+      "versionDate": "2026-05-21T13:45:04.338Z",
+      "size": 107697134,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.tranzmate.tranzmate1_Moovit_5.192.1.ipa"
     },
     {
       "name": "Instories",
@@ -31333,16 +31339,16 @@
       "versions": [
         {
           "version": "1.15.11",
-          "date": "2026-05-20",
-          "size": 114472684,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
+          "date": "2026-05-21",
+          "size": 114484650,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
         }
       ],
       "appPermissions": {},
       "version": "1.15.11",
-      "versionDate": "2026-05-20T07:45:28.357Z",
-      "size": 114472684,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
+      "versionDate": "2026-05-21T10:45:17.411Z",
+      "size": 114484650,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
     },
     {
       "name": "Stellarium",
