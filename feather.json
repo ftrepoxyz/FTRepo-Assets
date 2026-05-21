@@ -14059,7 +14059,7 @@
       "bundleIdentifier": "com.yengshine.proccd",
       "developerName": "亚玲 查",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/33/c2/ca33c251-4a2c-dbdb-f105-e3980aff3ec2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nProCCD - Digital Film Camera\n\nVIP features unlocked\n\nTweak made by blatant\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nProCCD - Digital Film Camera\n\n• Bundle ID: com.yengshine.proccd\n• Updated to: 6.0.1\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/1320x2868bb.jpg"
@@ -14106,6 +14106,12 @@
       ],
       "versions": [
         {
+          "version": "6.0.1",
+          "date": "2026-05-20",
+          "size": 261371075,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.yengshine.proccd_ProCCD_6.0.1.ipa"
+        },
+        {
           "version": "6.0.0",
           "date": "2026-05-17",
           "size": 257105874,
@@ -14116,19 +14122,13 @@
           "date": "2026-04-28",
           "size": 259065765,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/com.yengshine.proccd_ProCCD_5.9.1.ipa"
-        },
-        {
-          "version": "5.9.0",
-          "date": "2026-04-27",
-          "size": 254999093,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.yengshine.proccd_ProCCD_5.9.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.0.0",
-      "versionDate": "2026-05-17T22:48:07.979Z",
-      "size": 257105874,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-17/com.yengshine.proccd_ProCCD_6.0.0.ipa"
+      "version": "6.0.1",
+      "versionDate": "2026-05-20T22:45:15.855Z",
+      "size": 261371075,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.yengshine.proccd_ProCCD_6.0.1.ipa"
     },
     {
       "name": "Badoo",
@@ -14355,7 +14355,7 @@
       "bundleIdentifier": "ru.routes.peakvisor",
       "developerName": "Routes Software SRL",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/3e/c6/c53ec6f0-c858-8c16-29bc-b7654044c62d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nHiking and Skiing - PeakVisor\n\n• Bundle ID: ru.routes.peakvisor\n• Updated to: 5.97\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nHiking and Skiing - PeakVisor\n\n• Bundle ID: ru.routes.peakvisor\n• Updated to: 5.99\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/8d/c2/d38dc21a-0e64-130a-2dd1-7e086148103b/peakvisor_appstore_iphone_16_plus_en_.jpg/1320x2868bb.webp"
@@ -14434,6 +14434,12 @@
       ],
       "versions": [
         {
+          "version": "5.99",
+          "date": "2026-05-21",
+          "size": 147274986,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/ru.routes.peakvisor_PeakVisor_5.99.ipa"
+        },
+        {
           "version": "5.97.1",
           "date": "2026-05-13",
           "size": 132539420,
@@ -14444,19 +14450,13 @@
           "date": "2026-04-05",
           "size": 130115542,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/ru.routes.peakvisor_PeakVisor_5.90.ipa"
-        },
-        {
-          "version": "5.83",
-          "date": "2026-03-12",
-          "size": 127441809,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/ru.routes.peakvisor_PeakVisor_5.83.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.97.1",
-      "versionDate": "2026-05-13T22:44:45.451Z",
-      "size": 132539420,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-13/ru.routes.peakvisor_PeakVisor_5.97.1.ipa"
+      "version": "5.99",
+      "versionDate": "2026-05-21T01:45:03.381Z",
+      "size": 147274986,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/ru.routes.peakvisor_PeakVisor_5.99.ipa"
     },
     {
       "name": "Tarteel",
