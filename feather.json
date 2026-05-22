@@ -870,11 +870,17 @@
       "name": "Plane Finder",
       "bundleIdentifier": "uk.co.leeus.planefinderfree",
       "developerName": "pinkfroot limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/24/12/7d24120c-3f6c-d5df-adda-1c6a9d15271e/AppLiveIcon-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-512MB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/64/fc2664e5-48c0-349d-9990-6437aef1a1a4/AppLiveIcon-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-512MB-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPlane Finder ⁃ Flight Tracker\n\nPremium features unlocked\n\nLog in to get premium\n\nIf you like this app, buy it. Its not expensive -> support the developers\n\nTweak made by Никита\n\nMinimum OS version 17.5\n\nAppStore link | Donate",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2026.2.5",
+          "date": "2026-05-22",
+          "size": 95435717,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/uk.co.leeus.planefinderfree_PlaneFinderPatch_2026.2.5.ipa"
+        },
         {
           "version": "2026.2.4",
           "date": "2026-04-03",
@@ -889,10 +895,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2026.2.4",
-      "versionDate": "2026-04-03T21:17:08.497Z",
-      "size": 95180443,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-03/uk.co.leeus.planefinderfree_PlaneFinderPatch_2026.2.4.ipa"
+      "version": "2026.2.5",
+      "versionDate": "2026-05-22T01:45:36.011Z",
+      "size": 95435717,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/uk.co.leeus.planefinderfree_PlaneFinderPatch_2026.2.5.ipa"
     },
     {
       "name": "Find Air",
@@ -5486,8 +5492,8 @@
       "name": "Notability",
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/d4/da/c3d4da70-27c1-2150-ffc1-32970a5932f2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 16.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/cc/67/d5cc679a-9517-8303-5dae-f080bc77d6dc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 16.2.4\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png"
@@ -5514,6 +5520,12 @@
       ],
       "versions": [
         {
+          "version": "16.2.4",
+          "date": "2026-05-22",
+          "size": 269687430,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/com.gingerlabs.Notability_Notability_16.2.4.ipa"
+        },
+        {
           "version": "16.2",
           "date": "2026-04-27",
           "size": 276200538,
@@ -5524,19 +5536,13 @@
           "date": "2026-04-21",
           "size": 251791640,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_16.1.4.ipa"
-        },
-        {
-          "version": "16.1.3",
-          "date": "2026-04-17",
-          "size": 251520222,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-17/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_16.1.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "16.2",
-      "versionDate": "2026-04-27T16:39:17.877Z",
-      "size": 276200538,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.gingerlabs.Notability_Notability_16.2.ipa"
+      "version": "16.2.4",
+      "versionDate": "2026-05-22T01:45:22.024Z",
+      "size": 269687430,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/com.gingerlabs.Notability_Notability_16.2.4.ipa"
     },
     {
       "name": "Dictionary",
@@ -20345,7 +20351,7 @@
       "bundleIdentifier": "app.uplens",
       "developerName": "MPGames",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/6f/c1/3e6fc1ea-249a-cbc6-9748-c26e7cf745bb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nUplens: Photo & Video Editor\n\nPro features unlocked\n\nNote: Click Restore Purchases\n\nTweak made by Zzz Zzz\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nUplens: Photo & Video Editor\n\n• Bundle ID: app.uplens\n• Updated to: 4.0.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/1320x2868bb.jpg"
@@ -20388,23 +20394,23 @@
       ],
       "versions": [
         {
+          "version": "4.0.3",
+          "date": "2026-05-21",
+          "size": 176844881,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/app.uplens_Uplens_4.0.3.ipa"
+        },
+        {
           "version": "4.0.2",
           "date": "2026-05-07",
           "size": 174559455,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/app.uplens_uplens_4.0.2.ipa"
-        },
-        {
-          "version": "3.5.0",
-          "date": "2026-04-05",
-          "size": 178942334,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/app.uplens_Uplens_3.5.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.0.2",
-      "versionDate": "2026-05-07T22:44:04.998Z",
-      "size": 174559455,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-07/app.uplens_uplens_4.0.2.ipa"
+      "version": "4.0.3",
+      "versionDate": "2026-05-21T22:45:13.843Z",
+      "size": 176844881,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/app.uplens_Uplens_4.0.3.ipa"
     },
     {
       "name": "Tuner Pro",
