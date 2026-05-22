@@ -5,6 +5,53 @@
   },
   "data": [
     {
+      "name": "TickTick",
+      "version": "8.0.90",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/com.TickTick.task_Ticktick_8.0.90.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.TickTick.task",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/24/d4/3324d4bf-49d3-cc51-9c63-75a05adea6d6/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nTickTick:To-Do List & Calendar\n\n• Bundle ID: com.TickTick.task\n• Updated to: 8.0.90\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Login to activate subscription.\n>Restart your device if widgets are not working(Paid Cert and trollstore only).\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Appest Limited",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/83/a3/f483a328-db13-be47-3d13-85227c32b0c4/1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/05/47/780547c6-a5cf-6233-3699-fa2328c18a8d/2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/d3/0a/4fd30a8e-c19b-702e-da97-5fc5bf3124de/3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cb/73/60cb73a5-096e-0e3f-d397-d67fac1ebf41/4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/47/b9/2647b98a-4c6b-f89e-5d9a-f844a0650c03/5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/98/08/709808a6-0cbc-66c9-1060-f1693bb35294/6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/b0/75/3eb07585-2cb6-f686-9f8b-964e9fd438d9/7.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/bd/14/49bd14d7-64fc-dcde-b126-e35634cfb9b4/8.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/d5/3a/12d53ad6-fd75-f6e5-8990-6a336274d8b6/9.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/67/47/7b674751-6745-fb32-7ee4-af640f53f5aa/10.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "رشاقة",
+      "version": "17.9",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/com.madarsoft.fitness_sideloadKeychainfix_17.9.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.madarsoft.fitness",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/1e/26/4d1e269c-2d7a-696e-3672-b66f2a7757d0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nرشاقة: حساب السعرات، خطوات مشي\n\n• Bundle ID: com.madarsoft.fitness\n• Updated to: 17.9\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore the \"Premium\" button all features should work.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Madar Al Parmaga",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Captions",
       "version": "13.18.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/boomer.Smart-Video_Captions_13.18.0.ipa",
@@ -5268,35 +5315,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/32/f4/9332f451-6ae7-9bec-ef7d-83ac8dbee26d/fec297fd-2404-44df-bce4-3c0c262ed921_85.5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/31/1a/5f311ab2-4524-5b13-9b6c-346c3267683c/344052e7-2339-42da-9b55-3bd7b032558e_95.5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/89/53/4d895344-e0c7-0a45-16d0-f3d5811d3608/e0d9cc5a-63d2-49f6-9775-1d740bf2aabe_105.5.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "TickTick",
-      "version": "8.0.71",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-01/com.TickTick.task_Ticktick_8.0.71.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.TickTick.task",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b7/96/edb796ea-6001-20d3-9802-345be5ca68bc/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nTickTick:To-Do List & Calendar\n\nPro features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 15.5\n\nAppStore link | Donate",
-      "developer": "Appest Limited",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/83/a3/f483a328-db13-be47-3d13-85227c32b0c4/1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/05/47/780547c6-a5cf-6233-3699-fa2328c18a8d/2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/d3/0a/4fd30a8e-c19b-702e-da97-5fc5bf3124de/3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cb/73/60cb73a5-096e-0e3f-d397-d67fac1ebf41/4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/47/b9/2647b98a-4c6b-f89e-5d9a-f844a0650c03/5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/98/08/709808a6-0cbc-66c9-1060-f1693bb35294/6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/b0/75/3eb07585-2cb6-f686-9f8b-964e9fd438d9/7.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/bd/14/49bd14d7-64fc-dcde-b126-e35634cfb9b4/8.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/d5/3a/12d53ad6-fd75-f6e5-8990-6a336274d8b6/9.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/67/47/7b674751-6745-fb32-7ee4-af640f53f5aa/10.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
@@ -13183,35 +13201,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/1c/97/b81c9791-b8e5-b1df-41b2-d6242f12ad33/9aeadbec-2831-4ef0-ba60-a03409dcad8e_02.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/71/4d/9e714d20-120c-334b-3520-423ffc814568/57c3e73a-6f0c-4a4e-b332-65cecc547c8f_03.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/06/61/cc06616a-d669-0577-89be-b2da8591a600/b71d7b53-1958-4e23-bb76-c94272fb0ee7_04.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "رشاقة",
-      "version": "17.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.madarsoft.fitness_Rashaqa_17.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.madarsoft.fitness",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/39/11/1b39119d-1bc9-32ed-ca8a-9e5583f89006/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nخطواتي سعراتي تمرين - رشاقة\n\n• Bundle ID: com.madarsoft.fitness\n• Updated to: 17.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore the \"Premium\" button all features should work.\n\nッ Jailbreak Repo | ♡ Support",
-      "developer": "Madar Al Parmaga",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/16/c6/3f16c694-a5d1-b847-ca30-a2576936afbf/Home_screen_iphone_6_New_02_Ramadan_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/e9/c7/d6e9c71e-24e6-4a6b-fbb3-fafa3ba30f8e/iphone_6_-__U0648_U0635_U0641_U0627_U062a__U063a_U0630_U0627_U0626_U064a_U0629_ramadan_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/84/4c/47844cd8-f3c8-5297-a61b-4033fd36efda/iphone_6_-__U062d_U0633_U0627_U0628__U0627_U0644_U062e_U0637_U0648_U0627_U062a_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/df/83/afdf83fb-3d2a-41fb-b0d9-f2284bf877de/iphone_6_-__U0633_U062a_U0631_U064a_U0643__U0631_U0634_U0627_U0642_U0629_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ad/55/aaad556f-9749-a6cd-cabe-f5e2b93b97e6/iphone_6_-__U062d_U0627_U0633_U0628_U0629__U0627_U0644_U0633_U0639_U0631_U0627_U062a_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/a1/2a/b3a12a0e-a9e0-572d-0b34-8aae52303a08/iphone_6_-__U0627_U0646_U0638_U0645_U0629__U063a_U0630_U0627_U064a_U0654_U064a_U0629_copy.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/d4/12/d1d4124f-4aa1-c799-ebb6-bb3d4b279036/iphone_6_-__U062a_U0645_U0627_U0631_U064a_U0646__U0645_U0646_U0632_U0644_U064a_U0629_copy.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/2f/b0/1d2fb0b4-3ff7-1e7c-01d2-ccff88aa9374/iphone_6_-__U0645_U0646_U0628_U0629__U0634_U0631_U0628__U0627_U0644_U0645_U0627_U0621_copy.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/84/09/cd8409e0-af12-0aed-a4ee-852eece344b9/iphone_6_-__U0627_U0644_U0627_U062d_U0635_U0627_U064a_U0654_U064a_U0627_U062a_copy.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/7e/1d/2b7e1d60-c2d7-7e08-0a9f-65ee9e68fa06/iphone_6_-__U0627_U0644_U0645_U062c_U0645_U0648_U0639_U0627_U062a_copy.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
