@@ -3,6 +3,39 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "wpsoffice",
+      "version": "26.4.2",
+      "versionDate": "2026-05-23",
+      "size": 335428575,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-23/com.kingsoft.office.g.wpsoffice_WPSOffice_26.4.2.ipa",
+      "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
+      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/c2/ba/8fc2ba5e-be7f-84ca-7402-6ba4756c598e/US_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nWPS Office-AI Doc, PDF, Sheet\n\n• Bundle ID: com.kingsoft.office.g.wpsoffice\n• Updated to: 26.4.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: PRO+AI Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore any purchase banners.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Diamond Finder",
+      "version": "9.2.1",
+      "versionDate": "2026-05-23",
+      "size": 50146762,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-23/com.mcdiamondfinder.app_DiamondFinder_9.2.1.ipa",
+      "developerName": "Digital App Group GmbH",
+      "bundleIdentifier": "com.mcdiamondfinder.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/14/d5/3614d534-ce2c-64cb-8439-4a95b9c5e12f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDiamond Finder for Minecraft +\n\n• Bundle ID: com.mcdiamondfinder.app\n• Updated to: 9.0.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/17/36631760-d4a6-b5d5-a69f-47c19d2a1fba/d5ba64b7-c970-4aa0-9b3d-d5983bb3ba09_1242x2208_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/67/fb/ce67fb0c-8792-e826-d7df-098593ae0a5d/0e220864-fb59-4933-8226-973716ceb1d1_1242x2208_1-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/1f/05/c71f05d9-449b-b26c-a036-57726c8eca79/baf6fbb1-f1bb-4ece-bef2-69d47d8f961b_1242x2208_1-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/5c/a7/575ca7f0-7eb8-3a7c-9834-e12b0ce151d4/4cec1a69-b18a-4276-93b4-c4fe4a88dd81_1242x2208_1-3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/aa/85/0caa853d-41f1-b871-5816-06e686f25621/c740598a-53c1-4e96-94a7-0978333613a5_1242x2208_1-4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/29/58/a2295872-b2a7-4751-b3a9-5da4f21986f6/1284x2778_6-2.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Reframe",
       "version": "3.9.61",
       "versionDate": "2026-05-23",
@@ -840,19 +873,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "wpsoffice",
-      "version": "26.4.1",
-      "versionDate": "2026-05-19",
-      "size": 335432005,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.kingsoft.office.g.wpsoffice_WPSOffice_26.4.1.ipa",
-      "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
-      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/60/6f/51606f5b-32f1-942b-2b43-32f58fa78683/US_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nWPS Office-AI Doc, PDF, Sheet\n\n• Bundle ID: com.kingsoft.office.g.wpsoffice\n• Updated to: 26.4.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: PRO+AI Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore any purchase banners.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "Balance",
       "version": "1.203.0",
       "versionDate": "2026-05-18",
@@ -905,26 +925,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/25/0a/9f250a42-4b1b-79dd-553e-4ad04c0ad686/mzl.csnfwfjd.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/5a/b6/485ab64a-637e-f88b-e8de-c35a6bbd51f9/mzl.egbnuasx.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9b/8d/9d/9b8d9d2a-3a3c-ae2d-9fee-cdc4b5eb9650/mzl.ygsdsqpl.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Diamond Finder",
-      "version": "9.1.0",
-      "versionDate": "2026-05-18",
-      "size": 46787532,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-18/com.mcdiamondfinder.app_DiamondFinder_9.1.0.ipa",
-      "developerName": "Digital App Group GmbH",
-      "bundleIdentifier": "com.mcdiamondfinder.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/14/d5/3614d534-ce2c-64cb-8439-4a95b9c5e12f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDiamond Finder for Minecraft +\n\nPremium features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 16.6\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/17/36631760-d4a6-b5d5-a69f-47c19d2a1fba/d5ba64b7-c970-4aa0-9b3d-d5983bb3ba09_1242x2208_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/67/fb/ce67fb0c-8792-e826-d7df-098593ae0a5d/0e220864-fb59-4933-8226-973716ceb1d1_1242x2208_1-1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/1f/05/c71f05d9-449b-b26c-a036-57726c8eca79/baf6fbb1-f1bb-4ece-bef2-69d47d8f961b_1242x2208_1-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/5c/a7/575ca7f0-7eb8-3a7c-9834-e12b0ce151d4/4cec1a69-b18a-4276-93b4-c4fe4a88dd81_1242x2208_1-3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/aa/85/0caa853d-41f1-b871-5816-06e686f25621/c740598a-53c1-4e96-94a7-0978333613a5_1242x2208_1-4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/29/58/a2295872-b2a7-4751-b3a9-5da4f21986f6/1284x2778_6-2.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
