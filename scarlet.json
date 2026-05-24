@@ -5,6 +5,60 @@
   },
   "data": [
     {
+      "name": "Reader",
+      "version": "8.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-24/io.readwise.read_8.4.ipa",
+      "category": "Other",
+      "bundleID": "io.readwise.read",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8c/e1/b98ce1f1-dbf7-4983-7994-7bb25a7780d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas",
+      "developer": "Readwise, Inc",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/03/0f/73030f7d-b543-8432-6665-8219d5c42587/iphone55-01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/ff/48/58ff4898-67d6-7774-fb18-41be5e4ba839/iphone55-03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/f4/64/4cf46454-cd67-3c06-67ee-b2f0d9dd5c13/iphone55-04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/3e/5c/453e5c1f-243d-23a1-c1e2-02d55277bba6/iphone55-02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/75/c4/6075c401-cb28-9f8a-6156-635068e88ef3/iphone55-07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/ff/e5/38ffe581-4906-2f56-a017-5d96c4f17753/iphone55-05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/b5/18/e1b51806-c79b-9c2d-8470-c864ead7565c/iphone55-06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/86/db/0786dbc5-a6f5-cdda-e1ee-2bd9fd9da8a7/iphone55-08.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Yazio",
+      "version": "12.85.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-24/com.yazio.ios.YAZIO_Yazio_12.85.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.yazio.ios.YAZIO",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/03/4f/dd034fb5-874e-0df7-c7a6-ff014adc3ec7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 12.85.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "YAZIO",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/2b/ae/6d2bae5e-a199-52ef-7e43-12e8b925afa5/4c582818-8bc7-470a-93e5-8906f963a69a_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a0/3d/87a03d09-706e-23c3-9fca-a9fe0b921db2/de9e490b-dbcb-491b-af7a-61e7288a6009_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d8/c2/a2d8c2d9-b9c0-05fd-677f-3806364fa224/740cc4bd-bcb5-4962-b867-d2f8e8e11b7c_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/90/f6/f290f6f1-0d85-eb7c-1940-8660b5b2f8ea/eea1ab0a-87f9-4f65-a494-f033aa7c677f_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/2c/99/4e2c99f4-81d3-e208-4cef-e0bc8118cdb4/93824828-57f7-44cc-9832-718f1fcee761_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/45/ebea4531-5f5c-b8b1-a8c5-67ee9a673041/ec9802ad-92ca-40f9-811a-8498eaf5bf23_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "رشاقة",
       "version": "17.9",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-24/com.madarsoft.fitness_sideloadKeychainfix_17.9.ipa",
@@ -6866,33 +6920,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/2c/b5/822cb52e-8dc1-a64d-1fee-c134d1beccfc/b14c9683-670b-4b8c-95bd-12d4bb0bb172_7.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/e9/66/9fe96666-dbde-6a0b-7f95-617270465e23/f7fc0aa2-df6a-418e-ba8f-768a00f938f8_App_Store_Screenshot.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/02/2e/93022ec4-4b9f-30c0-1ff1-c196844c3eff/8d9a623a-31a4-4dfa-abbd-9e3330d58bb8_Antoine_Design_Exploration__U00284_U0029..jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Yazio",
-      "version": "12.81.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.yazio.ios.YAZIO_blatantsPatch_12.81.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.yazio.ios.YAZIO",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/03/4f/dd034fb5-874e-0df7-c7a6-ff014adc3ec7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\n[P] AI Calorie Tracker by Yazio\n\n— Bundle ID: com.yazio.ios.YAZIO\n— Updated to: 12.81.1\n— Minimum iOS: 16.0\n— Modifier: Subscription unlocked\n— Tweaked by @BillyMooree\n\nNotes:\n\n— Sign in to your account to activate subscription\n\nJoin Telegram Channel | Buy Certificate",
-      "developer": "YAZIO",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/2b/ae/6d2bae5e-a199-52ef-7e43-12e8b925afa5/4c582818-8bc7-470a-93e5-8906f963a69a_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a0/3d/87a03d09-706e-23c3-9fca-a9fe0b921db2/de9e490b-dbcb-491b-af7a-61e7288a6009_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d8/c2/a2d8c2d9-b9c0-05fd-677f-3806364fa224/740cc4bd-bcb5-4962-b867-d2f8e8e11b7c_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/90/f6/f290f6f1-0d85-eb7c-1940-8660b5b2f8ea/eea1ab0a-87f9-4f65-a494-f033aa7c677f_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/2c/99/4e2c99f4-81d3-e208-4cef-e0bc8118cdb4/93824828-57f7-44cc-9832-718f1fcee761_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/45/ebea4531-5f5c-b8b1-a8c5-67ee9a673041/ec9802ad-92ca-40f9-811a-8498eaf5bf23_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
