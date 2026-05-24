@@ -5,6 +5,34 @@
   },
   "data": [
     {
+      "name": "رشاقة",
+      "version": "17.9",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-24/com.madarsoft.fitness_sideloadKeychainfix_17.9.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.madarsoft.fitness",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/dd/23/88dd235e-d225-bb2a-48a4-30578c12cb3a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nرشاقة: حساب السعرات، خطوات مشي\n\n• Bundle ID: com.madarsoft.fitness\n• Reuploaded: 18.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore the \"Premium\" button all features should work.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Madar Al Parmaga",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/d2/cc/35d2cc5d-45ba-8aa5-8619-1f9b0c08bb89/Home_screen_iphone_6_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/27/51/482751a0-7fe9-d985-c857-38e5245fabce/_U062e_U0637_U0648_U0627_U062a_iphone_6_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/3b/7b/ed3b7bfe-f127-92bd-15ac-cd15df12e236/_U062a_U0645_U0627_U0631_U064a_U0646__U0645_U0646_U0632_U0644_U064a_U0629_iphone_6_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/9a/27/f49a27cb-a787-d541-838a-4ac4a72cd8b6/629__U0633_U0639_U0631_U0627_U062a__U0628_U0627_U0644_U0630_U0643_U0627_U0621__U0627_U0644_U0627_U0635_U0637_U0646_U0627_U0639_U064a_iphone_6_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/83/7c/b8837cd8-2d37-fd86-dd64-25c138e56a5e/_U0627_U0646_U0638_U0645_U0629__U063a_U0630_U0627_U0626_U064a_U0629_iphone_6_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/46/b5/af46b55f-ef79-054c-12cb-34be248f8558/_U0627_U062d_U0635_U0627_U0626_U064a_U0627_U062a_iphone_6_copy.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/5c/81/bd5c8108-2b1d-37f9-3a93-06da0d8c3a07/_U0627_U0644_U062a_U062d_U062f_U064a_U0627_U062a_iphone_6_copy.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/b5/df/90b5df0a-4983-8ee2-b9ca-aa72af8b7498/_U0645_U0646_U0628_U0629__U0634_U0631_U0628__U0627_U0644_U0645_U0627_U0621_iphone_6_copy.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/a3/66/caa3665b-8d08-1406-5575-89275798b8f7/_U0633_U062a_U0631_U064a_U0643_iphone_6_copy.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "JournalCircle",
       "version": "3.3.3",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-24/com.genau.JournalCircle_Sideloadbypass2_3.3.3.ipa",
@@ -522,24 +550,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/d5/3a/12d53ad6-fd75-f6e5-8990-6a336274d8b6/9.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/67/47/7b674751-6745-fb32-7ee4-af640f53f5aa/10.png/1320x2868bb.png"
       ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "رشاقة",
-      "version": "17.9",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/com.madarsoft.fitness_sideloadKeychainfix_17.9.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.madarsoft.fitness",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/1e/26/4d1e269c-2d7a-696e-3672-b66f2a7757d0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nرشاقة: حساب السعرات، خطوات مشي\n\n• Bundle ID: com.madarsoft.fitness\n• Updated to: 17.9\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore the \"Premium\" button all features should work.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Madar Al Parmaga",
-      "screenshots": [],
       "accentColor": {
         "light": {
           "red": 0.361,
