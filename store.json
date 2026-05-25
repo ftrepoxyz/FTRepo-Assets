@@ -4481,7 +4481,7 @@
       "bundleIdentifier": "com.puresignal.strides",
       "developerName": "Goals LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/71/f9/cd71f9ea-0dec-eba8-fd62-64c039e60c42/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nStrides: Habit Tracker + Goals\n\nTweak: Plus Unlocked\n\nVersion: 19.8.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.puresignal.strides\nDeveloper: Goals LLC",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nStrides: Habit Tracker + Goals\n\nTweak: Plus Unlocked\n\nVersion: 19.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.puresignal.strides\nDeveloper: Goals LLC",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/6d/b9/826db97e-6665-4fe0-a8f5-2bf943912302/780059c5-f9da-49ff-be2b-aa6eb4b4295b_1.png/1320x2868bb.png"
@@ -4524,6 +4524,12 @@
       ],
       "versions": [
         {
+          "version": "19.9",
+          "date": "2026-05-25",
+          "size": 113815636,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/com.puresignal.strides_Sideloadbypass2_19.9.ipa"
+        },
+        {
           "version": "19.8.1",
           "date": "2026-05-05",
           "size": 165861476,
@@ -4534,19 +4540,13 @@
           "date": "2026-03-22",
           "size": 147838523,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.puresignal.strides_Sideloadbypass2_19.6.1.ipa"
-        },
-        {
-          "version": "19.6",
-          "date": "2026-03-11",
-          "size": 145390368,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.puresignal.strides_Sideloadbypass2_19.6.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "19.8.1",
-      "versionDate": "2026-05-05T01:40:28.830Z",
-      "size": 165861476,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.puresignal.strides_Sideloadbypass2_19.8.1.ipa"
+      "version": "19.9",
+      "versionDate": "2026-05-25T04:45:52.748Z",
+      "size": 113815636,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/com.puresignal.strides_Sideloadbypass2_19.9.ipa"
     },
     {
       "name": "NC v18.200.19",
@@ -9827,7 +9827,7 @@
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/84/23/78842339-419b-1665-d133-9f399d81ab8e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCamScanner - PDF Scanner App\n\n• Bundle ID: com.intsig.CamScannerLite\n• Updated to: 7.17.5\n• Minimum iOS: 13.0\n• Patched\n• Modifier: VIP Unlocked\n• Tweaked by @blatants\n\n• Note:\nMay or may NOT work on iOS 18 and 26.\nSome features are server-sided and cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nCamScanner - PDF Scanner App\n\n• Bundle ID: com.intsig.CamScannerLite\n• Reuploaded: 7.18.0\n• Minimum iOS: 13.0\n• Patched\n• Modifier: VIP Unlocked\n• Tweaked by @blatants\n\n• Note:\nMay or may NOT work on iOS 18 and 26.\nSome features are server-sided and cannot be unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/1320x2868bb.jpg"
@@ -9870,6 +9870,12 @@
       ],
       "versions": [
         {
+          "version": "7.18.0",
+          "date": "2026-05-25",
+          "size": 214645887,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/com.intsig.CamScannerLite_CamScanner_7.18.0.ipa"
+        },
+        {
           "version": "7.17.5",
           "date": "2026-05-15",
           "size": 200297214,
@@ -9880,19 +9886,13 @@
           "date": "2026-04-27",
           "size": 208217906,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.intsig.CamScannerLite_CamScanner_7.16.5.ipa"
-        },
-        {
-          "version": "7.16.0",
-          "date": "2026-04-20",
-          "size": 207849716,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-20/com.intsig.CamScannerLite_CamScanner_7.16.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "7.17.5",
-      "versionDate": "2026-05-15T04:44:17.289Z",
-      "size": 200297214,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/com.intsig.CamScannerLite_CamScanner_7.17.5.ipa"
+      "version": "7.18.0",
+      "versionDate": "2026-05-25T07:45:51.091Z",
+      "size": 214645887,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/com.intsig.CamScannerLite_CamScanner_7.18.0.ipa"
     },
     {
       "name": "2 Player Games",
@@ -24302,45 +24302,51 @@
       "name": "Dancebit",
       "bundleIdentifier": "dance.fitness.app",
       "developerName": "Gismart Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/d7/83/0dd783b9-e93d-72db-309c-accc9b1f8d01/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nDancebit: Weight Loss Workouts\n\nTweak: Premium Unlocked\n\nVersion: 2.84\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: dance.fitness.app\nDeveloper: Gismart Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/e3/45/37e34598-159d-dfd6-5036-fec0f0cf918a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nDancebit: Weight Loss Workouts\n\nTweak: Premium Unlocked\n\nVersion: 2.86\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: dance.fitness.app\nDeveloper: Gismart Limited",
       "screenshots": [
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/79/b8/5f79b865-ca09-21e0-3de3-b29394736aa5/screenshot_6.9_1.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/39/08/4f390899-a278-457a-877c-5b2673509e0a/screenshot_6.9_1.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/7b/78/da7b7860-a5f5-0d0f-062e-689d3eca289c/screenshot_6.9_2.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/34/2b/86342b61-1047-2300-4170-9c401ae45b0b/screenshot_6.9_2.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/89/62/88896208-25d4-a3fc-9c4e-b0a40851ab72/screenshot_6.9_3.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/e3/90/aee3906b-d9a6-41cf-1048-749d532f8ed3/screenshot_6.9_3.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/41/6c/01416cd7-da38-a05a-4c97-21fa0edb585f/screenshot_6.9_4.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/48/94/264894f8-2542-64a3-5133-f399d02ce328/screenshot_6.9_4.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/39/c9/0939c990-7f1b-6b3b-71a1-d4362d0f9fc4/screenshot_6.9_5.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/6d/66/7c6d66a2-c306-da25-a425-ba8d45526d15/screenshot_6.9_5.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/67/20/136720a1-955a-9aaf-586d-28842fb33045/screenshot_6.9_6.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/23/c2/ae23c264-8e08-ea1c-c5c8-3f1464923ada/screenshot_6.9_6.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/5a/fa/115afa93-97d0-8870-5fcc-0738d6f94150/screenshot_6.9_7.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/01/f2/2701f208-eea0-e54f-c833-0841119bcc3e/screenshot_6.9_7.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/ca/65/21ca65be-12b1-f050-b311-f10b5900012d/screenshot_6.9_8.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/b3/37/1ab33743-8bac-7c1a-ee18-1e375adf07e8/screenshot_6.9_8.jpg/1320x2868bb.jpg"
         }
       ],
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/79/b8/5f79b865-ca09-21e0-3de3-b29394736aa5/screenshot_6.9_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/7b/78/da7b7860-a5f5-0d0f-062e-689d3eca289c/screenshot_6.9_2.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/89/62/88896208-25d4-a3fc-9c4e-b0a40851ab72/screenshot_6.9_3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/41/6c/01416cd7-da38-a05a-4c97-21fa0edb585f/screenshot_6.9_4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/39/c9/0939c990-7f1b-6b3b-71a1-d4362d0f9fc4/screenshot_6.9_5.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/67/20/136720a1-955a-9aaf-586d-28842fb33045/screenshot_6.9_6.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/5a/fa/115afa93-97d0-8870-5fcc-0738d6f94150/screenshot_6.9_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/ca/65/21ca65be-12b1-f050-b311-f10b5900012d/screenshot_6.9_8.jpg/1320x2868bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/39/08/4f390899-a278-457a-877c-5b2673509e0a/screenshot_6.9_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/34/2b/86342b61-1047-2300-4170-9c401ae45b0b/screenshot_6.9_2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/e3/90/aee3906b-d9a6-41cf-1048-749d532f8ed3/screenshot_6.9_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/48/94/264894f8-2542-64a3-5133-f399d02ce328/screenshot_6.9_4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/6d/66/7c6d66a2-c306-da25-a425-ba8d45526d15/screenshot_6.9_5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/23/c2/ae23c264-8e08-ea1c-c5c8-3f1464923ada/screenshot_6.9_6.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/01/f2/2701f208-eea0-e54f-c833-0841119bcc3e/screenshot_6.9_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/b3/37/1ab33743-8bac-7c1a-ee18-1e375adf07e8/screenshot_6.9_8.jpg/1320x2868bb.jpg"
       ],
       "versions": [
+        {
+          "version": "2.86",
+          "date": "2026-05-25",
+          "size": 196356161,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/dance.fitness.app_Sideloadbypass2_2.86.ipa"
+        },
         {
           "version": "2.84",
           "date": "2026-04-05",
@@ -24355,10 +24361,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.84",
-      "versionDate": "2026-04-05T09:13:28.018Z",
-      "size": 194950754,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-05/dance.fitness.app_Sideloadbypass2_2.84.ipa"
+      "version": "2.86",
+      "versionDate": "2026-05-25T07:46:17.266Z",
+      "size": 196356161,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/dance.fitness.app_Sideloadbypass2_2.86.ipa"
     },
     {
       "name": "Videoleap",
@@ -26783,42 +26789,48 @@
     {
       "name": "No Fusion",
       "bundleIdentifier": "com.grey.swiftcamera",
-      "developerName": "培屹 王",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/b9/31/cbb93147-f60a-72c0-8444-68f824e511c5/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNo Fusion-Powerful Pro Cam\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 15.6\n\nAppStore link | Donate",
+      "developerName": "Raster Field Co., Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/36/cf/7136cfb5-c73f-49f4-8ff4-0c29caba8e3b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nNo Fusion-Powerful Pro Cam\n\n• Bundle ID: com.grey.swiftcamera\n• Updated to: 2.5.53\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app if subscription isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/95/38/909538b7-80a2-9ef5-301a-ffd853e73ed0/iPhone_14__U0026_15_Pro_-_61283.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/05/ca/7d05ca5b-4c54-903f-42fb-2362b689dc46/iPhone_14__U0026_15_Pro_-_61283.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/8e/d3/b98ed32c-361f-0c51-698b-0d08e13eef4b/iPhone_14__U0026_15_Pro_-_61284.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b2/e5/1bb2e5a0-b8bb-e264-0985-bcd21c635776/iPhone_14__U0026_15_Pro_-_61284.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/bb/52/e4bb526b-0f1d-c8ff-ca63-71abda5f68fc/iPhone_14__U0026_15_Pro_-_61285.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/80/6e/3a806eeb-6757-08cd-41b0-2d57421ebe16/iPhone_14__U0026_15_Pro_-_61285.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/2b/d6/ba2bd6b7-016f-c3b0-47f7-c0fe2477363b/iPhone_14__U0026_15_Pro_-_61286-1.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/d9/e8/1ed9e8cc-1edb-d495-bf35-8e37957d3da3/iPhone_14__U0026_15_Pro_-_61287.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/2c/15/112c1539-c8b3-8527-abc1-c525274056c0/iPhone_14__U0026_15_Pro_-_61287-1.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/1f/a9/ef1fa9db-34d2-f524-fd85-e709a595eaa9/iPhone_14__U0026_15_Pro_-_61289.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/7f/7e/c27f7ef8-3a5a-5972-70b1-c7d8f529a6bb/iPhone_14__U0026_15_Pro_-_61289-1.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/8b/d2/ff8bd22d-e848-9403-bb65-3bee834a14ae/iPhone_14__U0026_15_Pro_-_61288.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/e3/41/11e3418e-0981-e8b7-2b0b-c97d3ff0ef1f/iPhone_14__U0026_15_Pro_-_61288.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/9d/4b/869d4bda-587d-76f2-c31b-09c7cdfae0c8/iPhone_14__U0026_15_Pro_-_61290.jpg/1320x2868bb.jpg"
         }
       ],
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/95/38/909538b7-80a2-9ef5-301a-ffd853e73ed0/iPhone_14__U0026_15_Pro_-_61283.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/8e/d3/b98ed32c-361f-0c51-698b-0d08e13eef4b/iPhone_14__U0026_15_Pro_-_61284.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/bb/52/e4bb526b-0f1d-c8ff-ca63-71abda5f68fc/iPhone_14__U0026_15_Pro_-_61285.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/2b/d6/ba2bd6b7-016f-c3b0-47f7-c0fe2477363b/iPhone_14__U0026_15_Pro_-_61286-1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/2c/15/112c1539-c8b3-8527-abc1-c525274056c0/iPhone_14__U0026_15_Pro_-_61287-1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/7f/7e/c27f7ef8-3a5a-5972-70b1-c7d8f529a6bb/iPhone_14__U0026_15_Pro_-_61289-1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/e3/41/11e3418e-0981-e8b7-2b0b-c97d3ff0ef1f/iPhone_14__U0026_15_Pro_-_61288.jpg/1320x2868bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/05/ca/7d05ca5b-4c54-903f-42fb-2362b689dc46/iPhone_14__U0026_15_Pro_-_61283.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b2/e5/1bb2e5a0-b8bb-e264-0985-bcd21c635776/iPhone_14__U0026_15_Pro_-_61284.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/80/6e/3a806eeb-6757-08cd-41b0-2d57421ebe16/iPhone_14__U0026_15_Pro_-_61285.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/d9/e8/1ed9e8cc-1edb-d495-bf35-8e37957d3da3/iPhone_14__U0026_15_Pro_-_61287.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/1f/a9/ef1fa9db-34d2-f524-fd85-e709a595eaa9/iPhone_14__U0026_15_Pro_-_61289.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/8b/d2/ff8bd22d-e848-9403-bb65-3bee834a14ae/iPhone_14__U0026_15_Pro_-_61288.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/9d/4b/869d4bda-587d-76f2-c31b-09c7cdfae0c8/iPhone_14__U0026_15_Pro_-_61290.jpg/1320x2868bb.jpg"
       ],
       "versions": [
+        {
+          "version": "2.5.54",
+          "date": "2026-05-25",
+          "size": 112886057,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/com.grey.swiftcamera_NoFusion_2.5.54.ipa"
+        },
         {
           "version": "2.5.51",
           "date": "2026-03-12",
@@ -26827,10 +26839,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.5.51",
-      "versionDate": "2026-03-12T07:56:21.388Z",
-      "size": 100174463,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-12/com.grey.swiftcamera_NoFusionPowerfulProCamPatch_2.5.51.ipa"
+      "version": "2.5.54",
+      "versionDate": "2026-05-25T04:45:38.752Z",
+      "size": 112886057,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/com.grey.swiftcamera_NoFusion_2.5.54.ipa"
     },
     {
       "name": "Mindllama",
