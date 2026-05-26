@@ -6082,8 +6082,8 @@
       "name": "Yazio",
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/03/4f/dd034fb5-874e-0df7-c7a6-ff014adc3ec7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 12.85.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/7c/9e/947c9e51-99e9-fff5-93e7-8485563c5df1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 12.86.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg"
@@ -6122,6 +6122,12 @@
       ],
       "versions": [
         {
+          "version": "12.86.1",
+          "date": "2026-05-26",
+          "size": 143429434,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.yazio.ios.YAZIO_Yazio_12.86.1.ipa"
+        },
+        {
           "version": "12.85.2",
           "date": "2026-05-24",
           "size": 142143024,
@@ -6132,19 +6138,13 @@
           "date": "2026-04-24",
           "size": 130999124,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.yazio.ios.YAZIO_blatantsPatch_12.81.1.ipa"
-        },
-        {
-          "version": "12.76.0",
-          "date": "2026-03-16",
-          "size": 132883572,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-16/com.yazio.ios.YAZIO_Yazio_12.76.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "12.85.2",
-      "versionDate": "2026-05-24T10:45:33.030Z",
-      "size": 142143024,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-24/com.yazio.ios.YAZIO_Yazio_12.85.2.ipa"
+      "version": "12.86.1",
+      "versionDate": "2026-05-26T10:45:53.630Z",
+      "size": 143429434,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.yazio.ios.YAZIO_Yazio_12.86.1.ipa"
     },
     {
       "name": "Mimo",
@@ -12282,77 +12282,87 @@
       "name": "Sleep Cycle",
       "bundleIdentifier": "com.lexwarelabs.goodmorning",
       "developerName": "Sleep Cycle AB",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f1/70/99f170b1-7ea1-810c-ad17-940ca2c73ce9/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.16\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/35/f7/ee35f75a-26d7-58b6-62fe-ace5bc92ffa1/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.20\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/bb/26/7dbb26ff-16d8-3714-8221-75f1b4f336cc/EN_US_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/34/10/3034100b-4c93-5831-fd26-272f37bf6ff7/6.9__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/5e/d5/015ed5af-a9c5-5eff-5cb3-86490975cec5/EN_US_ASO_iPhone_Screen_2__U00281_U0029.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/5f/10/b95f10a9-f830-56a7-9eb7-8baef37dce10/6.9__Non-EN_Master_ASO_iPhone_Screen_2.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/7c/b3/827cb301-09ec-4451-c40b-c7c95d2a4e6b/6.5__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/76/30/9c763065-aa90-4ff3-4e2c-cd8bd3177d3b/6.9__Non-EN_Master_ASO_iPhone_Screen_3.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/95/8c/a0958cff-48c8-7379-36a7-08ff7a92a4a2/EN_US_ASO_iPhone_Screen_3.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ca/e0/1ecae0b2-9e2b-52b7-e389-a83f9e568c53/6.9__Non-EN_Master_ASO_iPhone_Screen_4.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/08/a8/ea08a859-e0ab-196b-5c77-f8ecc1b87286/EN_US_ASO_iPhone_Screen_4.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/de/2a/39de2a27-1d1b-45e0-e688-fa736c6beb1a/6.9__Non-EN_Master_ASO_iPhone_Screen_5.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ad/55/abad5550-3231-11db-1a94-c3e9292b61a2/EN_US_ASO_iPhone_Screen_5.jpg/1320x2868bb.webp"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/46/20/cf46201e-4960-2b97-eb78-d49b630c3161/6.9__Non-EN_Master_ASO_iPhone_Screen_7.jpg/1320x2868bb.webp"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/9f/69/fa9f6912-c1bf-e381-4f98-2becabbd8eae/EN_US_ASO_iPhone_Screen_6.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/b5/27/76b52794-ecf9-f5e2-1698-ebb3225a41c4/6.9__Non-EN_Master_ASO_iPhone_Screen_8.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/7d/f1/ba7df143-a130-a401-d4c1-e0dfac9d4a56/EN_US_ASO_iPhone_Screen_7.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/84/d4/8e84d4ca-be94-a288-20fa-407d1dcf5d8e/6.9__Non-EN_Master_ASO_iPhone_Screen_9.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/ed/ad/11edad26-2b48-a672-9199-a7152b0a9e6f/EN_US_ASO_iPhone_Screen_8.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ca/53/4aca53d6-68a2-22f9-7f57-62bd68c7d368/6.9__Non-EN_Master_ASO_iPhone_Screen_6.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/08/c9/2408c9f1-001b-fffa-87c9-c2ba6fd2e440/Screen_24.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/6f/8f/156f8fd6-01e6-6604-5938-f9156f301842/6.9__Non-EN_Master_ASO_iPhone_Screen_10.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/68/56/a2685678-96b0-6952-6245-c57787173b98/Screen3.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/f6/06/4ef606f7-c397-9c83-9779-df1f10bd384c/Screen_24.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/9b/2e/a99b2eb2-39be-ff74-7e50-89dde242b8b7/Screen_39.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/d5/c4/c2d5c4c0-ce46-395a-5df0-438d95161086/Screen3.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/95/9f/ab959ffe-8010-cf55-45c1-5c40ab85563d/Screen_54.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/c3/e9/40c3e9c1-6bf7-e92f-de4e-ea50a16d9a13/Screen_39.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b1/f4/99b1f48f-3c98-2c82-61d2-897dd7d856cd/Screen_69.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/aa/78/27aa78f9-d297-c940-a4a7-ed973e14a92d/Screen_54.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/d6/54/91d654b3-6b54-c55c-e915-f471eaa843cf/Screen_83.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/fa/44/2bfa444c-08c7-499d-0d9b-404e40de429c/Screen_69.jpg/1320x2868bb.jpg"
         },
         {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/26/25/8a2625db-973f-8ae3-8c6d-b2caf8ae3139/Screen_98.jpg/1320x2868bb.jpg"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/5f/fa/ac5ffa70-92a4-1211-7164-42e436797002/Screen_83.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/4e/c0/b04ec041-46df-c497-3fd7-5189e998c104/Screen_98.jpg/1320x2868bb.jpg"
         }
       ],
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/bb/26/7dbb26ff-16d8-3714-8221-75f1b4f336cc/EN_US_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/5e/d5/015ed5af-a9c5-5eff-5cb3-86490975cec5/EN_US_ASO_iPhone_Screen_2__U00281_U0029.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/7c/b3/827cb301-09ec-4451-c40b-c7c95d2a4e6b/6.5__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/95/8c/a0958cff-48c8-7379-36a7-08ff7a92a4a2/EN_US_ASO_iPhone_Screen_3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/08/a8/ea08a859-e0ab-196b-5c77-f8ecc1b87286/EN_US_ASO_iPhone_Screen_4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ad/55/abad5550-3231-11db-1a94-c3e9292b61a2/EN_US_ASO_iPhone_Screen_5.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/9f/69/fa9f6912-c1bf-e381-4f98-2becabbd8eae/EN_US_ASO_iPhone_Screen_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/7d/f1/ba7df143-a130-a401-d4c1-e0dfac9d4a56/EN_US_ASO_iPhone_Screen_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/ed/ad/11edad26-2b48-a672-9199-a7152b0a9e6f/EN_US_ASO_iPhone_Screen_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/08/c9/2408c9f1-001b-fffa-87c9-c2ba6fd2e440/Screen_24.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/68/56/a2685678-96b0-6952-6245-c57787173b98/Screen3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/9b/2e/a99b2eb2-39be-ff74-7e50-89dde242b8b7/Screen_39.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/95/9f/ab959ffe-8010-cf55-45c1-5c40ab85563d/Screen_54.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b1/f4/99b1f48f-3c98-2c82-61d2-897dd7d856cd/Screen_69.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/d6/54/91d654b3-6b54-c55c-e915-f471eaa843cf/Screen_83.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/26/25/8a2625db-973f-8ae3-8c6d-b2caf8ae3139/Screen_98.jpg/1320x2868bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/34/10/3034100b-4c93-5831-fd26-272f37bf6ff7/6.9__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/5f/10/b95f10a9-f830-56a7-9eb7-8baef37dce10/6.9__Non-EN_Master_ASO_iPhone_Screen_2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/76/30/9c763065-aa90-4ff3-4e2c-cd8bd3177d3b/6.9__Non-EN_Master_ASO_iPhone_Screen_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ca/e0/1ecae0b2-9e2b-52b7-e389-a83f9e568c53/6.9__Non-EN_Master_ASO_iPhone_Screen_4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/de/2a/39de2a27-1d1b-45e0-e688-fa736c6beb1a/6.9__Non-EN_Master_ASO_iPhone_Screen_5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/46/20/cf46201e-4960-2b97-eb78-d49b630c3161/6.9__Non-EN_Master_ASO_iPhone_Screen_7.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/b5/27/76b52794-ecf9-f5e2-1698-ebb3225a41c4/6.9__Non-EN_Master_ASO_iPhone_Screen_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/84/d4/8e84d4ca-be94-a288-20fa-407d1dcf5d8e/6.9__Non-EN_Master_ASO_iPhone_Screen_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ca/53/4aca53d6-68a2-22f9-7f57-62bd68c7d368/6.9__Non-EN_Master_ASO_iPhone_Screen_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/6f/8f/156f8fd6-01e6-6604-5938-f9156f301842/6.9__Non-EN_Master_ASO_iPhone_Screen_10.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/f6/06/4ef606f7-c397-9c83-9779-df1f10bd384c/Screen_24.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/d5/c4/c2d5c4c0-ce46-395a-5df0-438d95161086/Screen3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/c3/e9/40c3e9c1-6bf7-e92f-de4e-ea50a16d9a13/Screen_39.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/aa/78/27aa78f9-d297-c940-a4a7-ed973e14a92d/Screen_54.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/fa/44/2bfa444c-08c7-499d-0d9b-404e40de429c/Screen_69.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/5f/fa/ac5ffa70-92a4-1211-7164-42e436797002/Screen_83.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/4e/c0/b04ec041-46df-c497-3fd7-5189e998c104/Screen_98.jpg/1320x2868bb.jpg"
       ],
       "versions": [
+        {
+          "version": "6.26.20",
+          "date": "2026-05-26",
+          "size": 341070915,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.lexwarelabs.goodmorning_SleepCycle_6.26.20.ipa"
+        },
         {
           "version": "6.26.16",
           "date": "2026-04-27",
@@ -12364,19 +12374,13 @@
           "date": "2026-04-14",
           "size": 340848796,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-14/com.lexwarelabs.goodmorning_SleepCycle_6.26.14.ipa"
-        },
-        {
-          "version": "6.26.7",
-          "date": "2026-03-11",
-          "size": 329949621,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.lexwarelabs.goodmorning_SleepCycle_6.26.7.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.26.16",
-      "versionDate": "2026-04-27T10:39:18.983Z",
-      "size": 339645507,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.lexwarelabs.goodmorning_SleepCycle_6.26.16.ipa"
+      "version": "6.26.20",
+      "versionDate": "2026-05-26T13:46:10.107Z",
+      "size": 341070915,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.lexwarelabs.goodmorning_SleepCycle_6.26.20.ipa"
     },
     {
       "name": "AutoCAD",
@@ -14316,11 +14320,17 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d5/13/ffd51368-df80-e80c-c213-3002bceee570/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nElevate - Brain Training Games\n\n• Bundle ID: com.elevateapp.elevate\n• Updated to: 5.237.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/31/5a/0f315a96-dad6-7d2c-e168-64cac49b5ab7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nElevate - Brain Training Games\n\nTweak: Subscription Unlocked\n\nVersion: 5.241.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.elevate\nDeveloper: The Mind Company",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "5.241.0",
+          "date": "2026-05-26",
+          "size": 389086767,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.elevateapp.elevate_Sideloadbypass2_5.241.0.ipa"
+        },
         {
           "version": "5.237.1",
           "date": "2026-05-04",
@@ -14332,19 +14342,13 @@
           "date": "2026-04-20",
           "size": 395792660,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-20/com.elevateapp.elevate_AutoRcSideload_5.236.0.ipa"
-        },
-        {
-          "version": "5.235.0",
-          "date": "2026-04-07",
-          "size": 396442665,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-07/com.elevateapp.elevate_AutoRcSideload_5.235.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.237.1",
-      "versionDate": "2026-05-04T16:40:36.848Z",
-      "size": 395983128,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.elevateapp.elevate_AutoRcSideload_5.237.1.ipa"
+      "version": "5.241.0",
+      "versionDate": "2026-05-26T13:46:50.062Z",
+      "size": 389086767,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.elevateapp.elevate_Sideloadbypass2_5.241.0.ipa"
     },
     {
       "name": "Moovit",
@@ -30304,11 +30308,17 @@
       "name": "Offline Games",
       "bundleIdentifier": "com.media720.offlinegames",
       "developerName": "720 Media LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/63/0e/d1630ed3-d747-7f39-0b97-0eb0b80357e0/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nOffline Games No WiFi Fun 100+\n\nTweak: Ads Removed\n\nVersion: 1.55\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.media720.offlinegames\nDeveloper: 720 Media LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/2c/eb1f2cbb-7ee9-0580-92bf-0129ba5850b7/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOffline Games No WiFi Fun 100+\n\nTweak: Ads Removed\n\nVersion: 1.58\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.media720.offlinegames\nDeveloper: 720 Media LLC",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.58",
+          "date": "2026-05-26",
+          "size": 206254233,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.media720.offlinegames_Sideloadbypass2_1.58.ipa"
+        },
         {
           "version": "1.55",
           "date": "2026-04-01",
@@ -30323,10 +30333,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.55",
-      "versionDate": "2026-04-01T01:01:22.942Z",
-      "size": 201246180,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.media720.offlinegames_Sideloadbypass2_1.55.ipa"
+      "version": "1.58",
+      "versionDate": "2026-05-26T10:46:19.881Z",
+      "size": 206254233,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.media720.offlinegames_Sideloadbypass2_1.58.ipa"
     },
     {
       "name": "Place Guesser",
