@@ -3,6 +3,85 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Elevate",
+      "version": "5.241.0",
+      "versionDate": "2026-05-26",
+      "size": 389086767,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.elevateapp.elevate_Sideloadbypass2_5.241.0.ipa",
+      "developerName": "The Mind Company",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/31/5a/0f315a96-dad6-7d2c-e168-64cac49b5ab7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nElevate - Brain Training Games\n\nTweak: Subscription Unlocked\n\nVersion: 5.241.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.elevate\nDeveloper: The Mind Company",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Sleep Cycle",
+      "version": "6.26.20",
+      "versionDate": "2026-05-26",
+      "size": 341070915,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.lexwarelabs.goodmorning_SleepCycle_6.26.20.ipa",
+      "developerName": "Sleep Cycle AB",
+      "bundleIdentifier": "com.lexwarelabs.goodmorning",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/35/f7/ee35f75a-26d7-58b6-62fe-ace5bc92ffa1/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.20\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/34/10/3034100b-4c93-5831-fd26-272f37bf6ff7/6.9__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/5f/10/b95f10a9-f830-56a7-9eb7-8baef37dce10/6.9__Non-EN_Master_ASO_iPhone_Screen_2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/76/30/9c763065-aa90-4ff3-4e2c-cd8bd3177d3b/6.9__Non-EN_Master_ASO_iPhone_Screen_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ca/e0/1ecae0b2-9e2b-52b7-e389-a83f9e568c53/6.9__Non-EN_Master_ASO_iPhone_Screen_4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/de/2a/39de2a27-1d1b-45e0-e688-fa736c6beb1a/6.9__Non-EN_Master_ASO_iPhone_Screen_5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/46/20/cf46201e-4960-2b97-eb78-d49b630c3161/6.9__Non-EN_Master_ASO_iPhone_Screen_7.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/b5/27/76b52794-ecf9-f5e2-1698-ebb3225a41c4/6.9__Non-EN_Master_ASO_iPhone_Screen_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/84/d4/8e84d4ca-be94-a288-20fa-407d1dcf5d8e/6.9__Non-EN_Master_ASO_iPhone_Screen_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ca/53/4aca53d6-68a2-22f9-7f57-62bd68c7d368/6.9__Non-EN_Master_ASO_iPhone_Screen_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/6f/8f/156f8fd6-01e6-6604-5938-f9156f301842/6.9__Non-EN_Master_ASO_iPhone_Screen_10.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/f6/06/4ef606f7-c397-9c83-9779-df1f10bd384c/Screen_24.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/d5/c4/c2d5c4c0-ce46-395a-5df0-438d95161086/Screen3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/c3/e9/40c3e9c1-6bf7-e92f-de4e-ea50a16d9a13/Screen_39.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/aa/78/27aa78f9-d297-c940-a4a7-ed973e14a92d/Screen_54.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/fa/44/2bfa444c-08c7-499d-0d9b-404e40de429c/Screen_69.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/5f/fa/ac5ffa70-92a4-1211-7164-42e436797002/Screen_83.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/4e/c0/b04ec041-46df-c497-3fd7-5189e998c104/Screen_98.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Offline Games",
+      "version": "1.58",
+      "versionDate": "2026-05-26",
+      "size": 206254233,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.media720.offlinegames_Sideloadbypass2_1.58.ipa",
+      "developerName": "720 Media LLC",
+      "bundleIdentifier": "com.media720.offlinegames",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/2c/eb1f2cbb-7ee9-0580-92bf-0129ba5850b7/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOffline Games No WiFi Fun 100+\n\nTweak: Ads Removed\n\nVersion: 1.58\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.media720.offlinegames\nDeveloper: 720 Media LLC",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Yazio",
+      "version": "12.86.1",
+      "versionDate": "2026-05-26",
+      "size": 143429434,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.yazio.ios.YAZIO_Yazio_12.86.1.ipa",
+      "developerName": "YAZIO",
+      "bundleIdentifier": "com.yazio.ios.YAZIO",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/7c/9e/947c9e51-99e9-fff5-93e7-8485563c5df1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 12.86.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/2b/ae/6d2bae5e-a199-52ef-7e43-12e8b925afa5/4c582818-8bc7-470a-93e5-8906f963a69a_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a0/3d/87a03d09-706e-23c3-9fca-a9fe0b921db2/de9e490b-dbcb-491b-af7a-61e7288a6009_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d8/c2/a2d8c2d9-b9c0-05fd-677f-3806364fa224/740cc4bd-bcb5-4962-b867-d2f8e8e11b7c_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/90/f6/f290f6f1-0d85-eb7c-1940-8660b5b2f8ea/eea1ab0a-87f9-4f65-a494-f033aa7c677f_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/2c/99/4e2c99f4-81d3-e208-4cef-e0bc8118cdb4/93824828-57f7-44cc-9832-718f1fcee761_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/45/ebea4531-5f5c-b8b1-a8c5-67ee9a673041/ec9802ad-92ca-40f9-811a-8498eaf5bf23_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "TikTok (BHTikTok)",
       "version": "45.3.0",
       "versionDate": "2026-05-26",
@@ -585,28 +664,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/ff/e5/38ffe581-4906-2f56-a017-5d96c4f17753/iphone55-05.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/b5/18/e1b51806-c79b-9c2d-8470-c864ead7565c/iphone55-06.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/86/db/0786dbc5-a6f5-cdda-e1ee-2bd9fd9da8a7/iphone55-08.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Yazio",
-      "version": "12.85.2",
-      "versionDate": "2026-05-24",
-      "size": 142143024,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-24/com.yazio.ios.YAZIO_Yazio_12.85.2.ipa",
-      "developerName": "YAZIO",
-      "bundleIdentifier": "com.yazio.ios.YAZIO",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/03/4f/dd034fb5-874e-0df7-c7a6-ff014adc3ec7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 12.85.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/2b/ae/6d2bae5e-a199-52ef-7e43-12e8b925afa5/4c582818-8bc7-470a-93e5-8906f963a69a_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a0/3d/87a03d09-706e-23c3-9fca-a9fe0b921db2/de9e490b-dbcb-491b-af7a-61e7288a6009_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d8/c2/a2d8c2d9-b9c0-05fd-677f-3806364fa224/740cc4bd-bcb5-4962-b867-d2f8e8e11b7c_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/90/f6/f290f6f1-0d85-eb7c-1940-8660b5b2f8ea/eea1ab0a-87f9-4f65-a494-f033aa7c677f_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/2c/99/4e2c99f4-81d3-e208-4cef-e0bc8118cdb4/93824828-57f7-44cc-9832-718f1fcee761_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/45/ebea4531-5f5c-b8b1-a8c5-67ee9a673041/ec9802ad-92ca-40f9-811a-8498eaf5bf23_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -4444,19 +4501,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Elevate",
-      "version": "5.237.1",
-      "versionDate": "2026-05-04",
-      "size": 395983128,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.elevateapp.elevate_AutoRcSideload_5.237.1.ipa",
-      "developerName": "The Mind Company",
-      "bundleIdentifier": "com.elevateapp.elevate",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d5/13/ffd51368-df80-e80c-c213-3002bceee570/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nElevate - Brain Training Games\n\n• Bundle ID: com.elevateapp.elevate\n• Updated to: 5.237.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "SolarWatch",
       "version": "2026.19",
       "versionDate": "2026-05-04",
@@ -5507,36 +5551,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/2c/ff/582cff02-fa39-3dc1-d38e-287382fda005/6c3d7838-88c5-4263-9fee-63b2256744b6_2.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/ff/ac/55ffac24-1d80-e701-993e-1f3acfefbcf3/766cd2fc-6465-46a4-a0e0-6e3838414cc1_9.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/3f/e0/dd3fe0f7-1e07-136e-5fc8-fe39d007784f/494349ed-7f69-48aa-ad3a-473b0aab53a9_8.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Sleep Cycle",
-      "version": "6.26.16",
-      "versionDate": "2026-04-27",
-      "size": 339645507,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.lexwarelabs.goodmorning_SleepCycle_6.26.16.ipa",
-      "developerName": "Sleep Cycle AB",
-      "bundleIdentifier": "com.lexwarelabs.goodmorning",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f1/70/99f170b1-7ea1-810c-ad17-940ca2c73ce9/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.16\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/bb/26/7dbb26ff-16d8-3714-8221-75f1b4f336cc/EN_US_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/5e/d5/015ed5af-a9c5-5eff-5cb3-86490975cec5/EN_US_ASO_iPhone_Screen_2__U00281_U0029.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/7c/b3/827cb301-09ec-4451-c40b-c7c95d2a4e6b/6.5__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/95/8c/a0958cff-48c8-7379-36a7-08ff7a92a4a2/EN_US_ASO_iPhone_Screen_3.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/08/a8/ea08a859-e0ab-196b-5c77-f8ecc1b87286/EN_US_ASO_iPhone_Screen_4.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ad/55/abad5550-3231-11db-1a94-c3e9292b61a2/EN_US_ASO_iPhone_Screen_5.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/9f/69/fa9f6912-c1bf-e381-4f98-2becabbd8eae/EN_US_ASO_iPhone_Screen_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/7d/f1/ba7df143-a130-a401-d4c1-e0dfac9d4a56/EN_US_ASO_iPhone_Screen_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/ed/ad/11edad26-2b48-a672-9199-a7152b0a9e6f/EN_US_ASO_iPhone_Screen_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/08/c9/2408c9f1-001b-fffa-87c9-c2ba6fd2e440/Screen_24.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/68/56/a2685678-96b0-6952-6245-c57787173b98/Screen3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/9b/2e/a99b2eb2-39be-ff74-7e50-89dde242b8b7/Screen_39.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/95/9f/ab959ffe-8010-cf55-45c1-5c40ab85563d/Screen_54.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b1/f4/99b1f48f-3c98-2c82-61d2-897dd7d856cd/Screen_69.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/d6/54/91d654b3-6b54-c55c-e915-f471eaa843cf/Screen_83.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/26/25/8a2625db-973f-8ae3-8c6d-b2caf8ae3139/Screen_98.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -8335,19 +8349,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Offline Games",
-      "version": "1.55",
-      "versionDate": "2026-04-01",
-      "size": 201246180,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/com.media720.offlinegames_Sideloadbypass2_1.55.ipa",
-      "developerName": "720 Media LLC",
-      "bundleIdentifier": "com.media720.offlinegames",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/63/0e/d1630ed3-d747-7f39-0b97-0eb0b80357e0/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nOffline Games No WiFi Fun 100+\n\nTweak: Ads Removed\n\nVersion: 1.55\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.media720.offlinegames\nDeveloper: 720 Media LLC",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
