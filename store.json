@@ -1273,11 +1273,11 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-23/co.visualsupply.cam_AutoRcSideload_461.2.0.ipa"
     },
     {
-      "name": "Instagram (Regram)",
+      "name": "Instagram (Ryukgram)",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a9/cc2ea9a4-1c31-7fda-4ce4-fb67e8bebbc2/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
+      "localizedDescription": "from @ryukgram |\n----------------\nRyukGram v1.3.0 | Instagram 430.0.0\n\n• IPA — with plugins (sideloaded)\n• IPA — no plugins (SideStore / AltStore)\n• TrollFools bundle (.zip)\n\nSee changelog above ⬆️\n\nBug reports / Feature requests here \nhttps://t.me/+zZvEA1SluWFjYWY0",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/1320x2868bb.jpg"
@@ -1313,28 +1313,22 @@
       "versions": [
         {
           "version": "430.0.0",
-          "date": "2026-05-21",
-          "size": 310384507,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.burbn.instagram_Regram_430.0.0.ipa"
+          "date": "2026-05-26",
+          "size": 318126524,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.burbn.instagram_RyukGram_430.0.0.ipa"
         },
         {
-          "version": "429.0.0",
-          "date": "2026-05-17",
-          "size": 307688647,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-17/com.burbn.instagram_Regram_429.0.0.ipa"
-        },
-        {
-          "version": "428.2.0",
-          "date": "2026-05-05",
-          "size": 340210504,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-05/com.burbn.instagram__ipa_by_iosdecrypted_.sideloadKeychainFix._428.2.0.ipa"
+          "version": "426.0.0",
+          "date": "2026-04-25",
+          "size": 323994423,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-25/com.burbn.instagram_RyukGram_426.0.0.ipa"
         }
       ],
       "appPermissions": {},
       "version": "430.0.0",
-      "versionDate": "2026-05-21T19:45:46.398Z",
-      "size": 310384507,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.burbn.instagram_Regram_430.0.0.ipa"
+      "versionDate": "2026-05-26T18:52:04.677Z",
+      "size": 318126524,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.burbn.instagram_RyukGram_430.0.0.ipa"
     },
     {
       "name": "Threads",
