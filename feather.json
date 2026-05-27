@@ -26740,11 +26740,17 @@
       "name": "Liftoff",
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/e1/6a/bde16a73-2f95-8a2a-b054-ca14d628d020/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nLiftoff - Ranked Gym Workouts\n\nTweak: Subscription Unlocked\n\nVersion: 2.13.11\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.gymbros.app\nDeveloper: GymBros Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/ab/b9/1fabb964-bbef-19e7-7341-95410a1c1d0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLiftoff - Ranked Gym Workouts\n\nTweak: Subscription Unlocked\n\nVersion: 2.13.15\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.gymbros.app\nDeveloper: GymBros Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.13.15",
+          "date": "2026-05-27",
+          "size": 160967493,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-27/com.gymbros.app_popuprifty_2.13.15.ipa"
+        },
         {
           "version": "2.13.11",
           "date": "2026-05-11",
@@ -26756,19 +26762,13 @@
           "date": "2026-04-24",
           "size": 135277052,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-24/com.gymbros.app_popuprifty_2.13.6.ipa"
-        },
-        {
-          "version": "2.13.1",
-          "date": "2026-04-16",
-          "size": 128056531,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/com.gymbros.app_popuprifty_2.13.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.13.11",
-      "versionDate": "2026-05-11T16:41:33.169Z",
-      "size": 160808043,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-11/com.gymbros.app_popuprifty_2.13.11.ipa"
+      "version": "2.13.15",
+      "versionDate": "2026-05-27T04:46:02.718Z",
+      "size": 160967493,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-27/com.gymbros.app_popuprifty_2.13.15.ipa"
     },
     {
       "name": "Fitness Coach",
