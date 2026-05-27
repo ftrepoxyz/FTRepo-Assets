@@ -3,6 +3,65 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "MyFitnessPal",
+      "version": "26.21.0",
+      "versionDate": "2026-05-27",
+      "size": 339072065,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-27/com.myfitnesspal.mfp_sideloadKeychainfix_26.21.0.ipa",
+      "developerName": "MyFitnessPal, Inc.",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/33/d2/6533d21f-b77c-28a0-bc78-df54a5862145/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.21.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/36/79/11367982-2102-9565-4176-535e794aad8a/MFP_iOS_Screen_1.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/ef/1f/14ef1fc2-ffbe-b3aa-d758-b9d83ddd9aee/MFP_iOS_Screen_2.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/8c/bc/208cbc19-ab05-2745-219f-3ea26edfa90c/MFP_iOS_Screen_3.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/e1/f4/87e1f4a5-cb29-a5d3-14ca-15cbd608a85f/MFP_iOS_Screen_4.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/a6/50/2ba65048-4951-b7c8-2ce2-dd7b42e5cfe1/MFP_iOS_Screen_5.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/7d/18/c07d1806-d854-ae8c-68a0-4d5d7cd25a0d/MFP_iOS_Screen_6.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/7d/4d/a17d4d41-d6a3-6dfc-94d3-978970109f49/MFP_iOS_Screen_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/50/c0/6250c036-8c24-9916-cc09-adc52fcce68e/MFP_iOS_Screen_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/26/80/32268068-b408-e59e-0095-d8660d967d2b/MFP_iOS_Screen_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/cb/2b/b5cb2bd8-0186-4dca-bc33-0b4c8a4d9e20/MFP_iOS_US_iPad_Screen_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/8a/e7/c48ae7fa-bf35-8461-eba8-abc7b8c46a35/MFP_iOS_US_iPad_Screen_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/b4/d9/37b4d912-1813-b0e1-9f01-ef13a8b782a3/MFP_iOS_US_iPad_Screen_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/fb/5d/fcfb5d7f-1e53-cc17-5eb2-414006b54cc8/MFP_iOS_US_iPad_Screen_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/ce/3e/37ce3e3e-d8a7-c2af-6d52-0d756b2f0566/MFP_iOS_US_iPad_Screen_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/13/05/ee13055e-0613-367d-62e8-299a8936849f/MFP_iOS_US_iPad_Screen_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/02/46/78024685-d902-4ab9-2bd6-f40955fa77c9/MFP_iOS_US_iPad_Screen_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/df/61/51df612a-ac14-ae8e-d296-cfe620c0feac/MFP_iOS_US_iPad_Screen_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/8c/37/938c376d-e9a5-0a0b-b6b1-1e2f14e98604/MFP_iOS_US_iPad_Screen_9.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/e1/c6/10e1c6a6-1ecc-4b8c-0dda-080626c26f76/MFP_iOS_US_iPad_Screen_10.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "ShutEye",
+      "version": "3.4.3",
+      "versionDate": "2026-05-26",
+      "size": 491901714,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.4.3.ipa",
+      "developerName": "Unknown Developer",
+      "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
+      "iconURL": "",
+      "localizedDescription": "from @blatants |\n----------------\nShutEye®: Sleep Tracker, Sound\n\n• Bundle ID: health.sleep.sounds.tracker.alarm.calm\n• Updated to: 3.4.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Phocus",
+      "version": "3.4.0",
+      "versionDate": "2026-05-26",
+      "size": 244483879,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.ahmetserdarkaradeniz.Phocus_AutoRcSideload_3.4.0.ipa",
+      "developerName": "RAY INFORMATICS YAZILIM TEKNOLOJI MEDYA DANISMANLIK VE EGITIM TICARET LIMITED SIRKETI",
+      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/85/82/1a858289-1fc9-cb02-7c2c-5dd020eb276a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPhocus: DSLR Portrait Camera\n\n• Bundle ID: com.ahmetserdarkaradeniz.Phocus\n• Updated to: 3.4.0\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nClick Skip on purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Daygram",
       "version": "5.6.8",
       "versionDate": "2026-05-26",
@@ -2621,28 +2680,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/73/63/bd7363ec-e04e-138c-b95c-94e9e053f99f/0c82e8a9-5afd-40f8-8bb3-7677f9ddb95c_iphoneSE3rdGeneration-mockup.002.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/f9/59/83f95920-9c48-f356-a5e7-c3dca8cd279c/6ec1c092-ff95-429d-85ae-87b3cd9bf58b_iphoneSE3rdGeneration-mockup.007.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/37/f4/f237f4f0-4f34-d25e-9a22-26abf927f83b/4415f208-491c-4165-9900-c637f7d31f25_iphoneSE3rdGeneration-mockup.006.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "MyFitnessPal",
-      "version": "26.19.1",
-      "versionDate": "2026-05-16",
-      "size": 329506829,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-16/com.myfitnesspal.mfp_MyFitnessPal_26.19.1.ipa",
-      "developerName": "MyFitnessPal, Inc.",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/76/0f/69760fbc-4a13-147c-38b7-3fb61ecf344e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nMyFitnessPal: Calorie Counter\n\nPremium features unlocked\n\nTweak made by Blatant\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/87/fc/3a87fc34-74c0-8024-227d-49a546e39c2f/MyFitnessPal_First_Screen.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/30/3e/25303ec5-7317-37aa-9f26-20cb6fc6fe82/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/6b/c1/ae6bc169-fadb-b13a-9cfe-98258957ae18/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_04.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/95/ee/8095ee6f-cef0-30bc-0e25-3a2297094b03/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_06.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/0b/55/e50b55e9-570b-880d-95ed-28cd04c42bae/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_08.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4c/2b/c74c2b24-80b7-d4ff-2448-71bcf27ff51a/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_07-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/83/c7/2b83c79b-94e2-d113-280a-ff030f63c6c8/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/c1/2f/00c12fa8-18a9-d04a-f2c9-85e5f3c9a510/MyFitnessPal_MyFitnessPal_US_iOS_13_Screenshots_251216_10.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -8765,19 +8802,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0c/ad/2a/0cad2ad5-094c-c4ad-0956-85069f04eef6/89ac0da6-55f1-42f5-92fe-72c7f57211c6_modern_book_note_popoever.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/5c/83/7b5c8306-a157-2396-412c-d35b21366dc9/2d2eb922-2597-4d47-b8c3-47f472d67861_modern_book_brightness_control.png/1320x2868bb.png"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "ShutEye",
-      "version": "3.3.8",
-      "versionDate": "2026-03-27",
-      "size": 433141049,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-27/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.3.8.ipa",
-      "developerName": "Enerjoy Pte. Ltd.",
-      "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/e3/b2/9ee3b237-1f26-9fd7-7db2-3109a90fd37b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nShutEye®: Sleep Tracker, Sound\n\n• Bundle ID: health.sleep.sounds.tracker.alarm.calm\n• Updated to: 3.3.8\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
