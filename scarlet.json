@@ -5,6 +5,134 @@
   },
   "data": [
     {
+      "name": "Photoshop",
+      "version": "7.7.8",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-29/com.adobe.photoshop.ios_AdobePhotoshopPatch_7.7.8.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.adobe.photoshop.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/d5/83/1bd5839c-5152-437e-bc2e-bdf5d282b293/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "description": "from @binnichtaktivsipas |\n----------------\nAdobe Photoshop: Image Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "developer": "Adobe Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/60/4b/2c604b7b-a8ba-efb7-2ed1-4a2a1c11375f/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/d1/d1/0ad1d1a3-d31d-f370-2797-43655a772c25/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/59/2c/7f592c19-bf82-1b5c-d281-011fc6680831/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/7a/cd/a67acd0a-8a53-91b5-bbc3-9749a52a5683/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_05.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/62/4d/51624d86-28b0-3553-ec78-e448fedb27ac/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_06.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/8c/99/608c9977-782f-3f43-a5f2-ad401d94b6eb/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/e4/7e/e4e47ee1-f38a-44a9-16c1-4db2ce881c44/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_08.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/2f/56/ae2f5669-b5b0-77f9-c12a-1cc981f9c0d1/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_09.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/fb/7f/28fb7f41-0788-78c8-0568-1049e42ab942/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_10.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/b4/d3/07b4d3ca-4427-c0a1-dcfc-a7c78dcbcd9b/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/80/83/a68083b7-adab-c24f-319d-0ad55bd548f7/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/f8/00/e8f800ea-3c55-1cb1-e98e-22018596cacc/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/0b/5f/c70b5f67-53d8-7d7d-6b2c-f37a0ed5667a/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/5e/77/f85e77c2-b07a-8e91-2971-40ac2c2cde44/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/c3/d1/fec3d142-2893-253c-9014-788ec6299ea9/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/9c/69/909c694c-36b0-513a-368f-a60e1097177b/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-08.jpg/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "CARROT",
+      "version": "6.6",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-29/com.grailr.CARROTweather_Carrot_6.6.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.grailr.CARROTweather",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/e8/0d/29e80d73-4a90-2f5e-f6c9-f325da74b6dc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nCARROT Weather: Alerts & Radar\n\n• Bundle ID: com.grailr.CARROTweather\n• Updated to: 6.6\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when signed with a paid cert that has appgroups configured.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Grailr LLC",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/86/1aae86aa-2bbd-ae86-aedf-6bcf3ed08bd2/6561375a-42cc-4ccb-aa9b-71298cef0d58_phone-1-1_copy.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/57/f4/bb57f420-ac2f-d39e-a76e-f58c470bcc04/4cd4e55b-7815-4586-8e2f-bd75207a2950_phone-1-2_copy.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/ec/56/1fec565d-ba6a-c7a7-ef33-ec54181d6c9a/36cce7c2-2ad6-4946-82eb-b4532b41cceb_phone-1-3_copy.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f2/db/c5f2dbdb-d300-5b19-e91e-14673911fea4/8baae691-6c1b-425f-86f9-2a3617b3fcea_phone-chonk-widget.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/f4/77/dbf47751-e7c4-4e13-f4da-eb292758e917/d7345edb-d5f1-463c-b739-8c12c0474b53_phone-chonk-notifications.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d0/9f/96d09fa8-0f20-7080-7647-5bc000c05667/3008cf4a-5ef1-4125-8b3b-46b3880b5849_phone-chonk-watch.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/05/87/0a0587ab-5731-d8b9-f1f9-fd039cc71ea2/728544ce-ef31-454c-8543-0bc30bc7df37_phone-chonk-forecast.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/08/e6/0d08e64e-8db5-d8c2-187f-bd93cb24d101/ac4a3cb0-ad9e-4d7b-b12d-4a718ec816ef_phone-chonk-customization.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/2a/80/e82a8080-7a3e-d007-6058-0056500347a9/0a17c586-f68b-428d-bfd0-b9a0b8806bc7_phone-chonk-station.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/b4/f9/42b4f9e5-790b-47d8-bd40-b6973119dd81/d20982a0-ae71-4dd2-a032-c9a062912ea1_phone-chonk-fun.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Captions",
+      "version": "13.19.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-29/boomer.Smart-Video_Sideloadbypass2_13.19.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "boomer.Smart-Video",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/14/c9/1114c9b4-d20c-6064-dcea-c30f1aa06b25/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nCaptions: For Talking Videos\n\nTweak: Premium Unlocked\n\nVersion: 13.19.0\n\nNotes: Press restore once then close the app if subscription isn't activated\n\n@riftysIPAlibrary\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: boomer.Smart-Video\nDeveloper: Captions, LLC (US)",
+      "developer": "Captions, LLC (US)",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/18/46/bd184695-f431-6a44-9ed1-5b760fcc68f0/4.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/5f/14/c85f1427-5fa0-52f0-a25b-fb81f0c5efc1/4-1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/00/b9/f700b917-673e-634a-c602-e66ed6a2f058/5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/5b/f4/055bf473-b8c8-46d5-5840-9d4e22cc2e98/5-1.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Adobe Fresco",
+      "version": "7.3.3",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-29/com.adobe.fresco.ios_AdobeFresco_7.3.3.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.adobe.fresco.ios",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/18/6f6318c6-7759-7004-d2f7-39dcfc0491d1/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nAdobe Fresco: Draw & Paint App\n\n• Bundle ID: com.adobe.fresco.ios\n• Updated to: 7.3.3\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Adobe Inc.",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/0b/9c/750b9c82-94bd-cbf7-be7f-efa1d38f8628/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/e9/1f/28e91fe6-adff-fd0a-a6a5-8f4603a13329/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3d/46/d03d4698-adaa-0b62-33a7-7c66d63bb509/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/41/96/d4419684-0387-af6c-0a4d-f0b0ee9d6449/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/7a/7e/2a7a7e2e-84fe-5248-55e6-4f11733d8c62/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_05.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/ac/38/bdac38f8-3208-6987-c4dd-b989880b28bf/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_06.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/d3/af/18d3affd-34c5-d195-5188-97fba69293b8/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ae/30/dcae30e1-b694-9c1f-aa61-2e896c48555b/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_08.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/4b/08/394b08c0-1373-cc0e-08d5-f92327078d00/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_09.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/ea/24/52ea2451-3936-4e00-b3ee-dedcd8a86369/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_10.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/63/19/e46319cd-dbba-bc10-c881-e8c5149a7b73/Adobe_Fresco_US_iOS-13_Screenshots_251215_03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/dd/33/a7dd33c3-f20e-61b0-a2ea-d44511dcd9be/Adobe_Fresco_US_iOS-13_Screenshots_251215_07.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/e2/c6/f4e2c6ef-af22-b5b4-4421-1acf1a3c1167/Adobe_Fresco_US_iOS-13_Screenshots_251215_01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/0c/f0/070cf022-d2d3-aebb-fab4-9b567b79df22/Adobe_Fresco_US_iOS-13_Screenshots_251215_02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6c/86/bf6c8678-0638-2e8c-10fe-77047fb03487/Adobe_Fresco_US_iOS-13_Screenshots_251215_04.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/25/3f/b0253f1c-b879-c610-5ac8-d1ff5cf90e68/Adobe_Fresco_US_iOS-13_Screenshots_251215_05.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/44/60/314460e4-5fd8-ac39-6323-067138e22fa8/Adobe_Fresco_US_iOS-13_Screenshots_251215_06.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/5f/7a/0d5f7a61-03fb-93da-3a8b-30d1a3b08f38/Adobe_Fresco_US_iOS-13_Screenshots_251215_08.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/95/6f/c2956fbb-acc6-1372-044c-f32dfd1c00d8/Adobe_Fresco_US_iOS-13_Screenshots_251215_09.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/12/35/f112351b-28a0-74cc-0049-63946fe41ae7/Adobe_Fresco_US_iOS-13_Screenshots_251215_10.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "JournalCircle",
       "version": "3.3.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-28/com.genau.JournalCircle_Sideloadbypass2_3.3.4.ipa",
@@ -1314,41 +1442,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/12/7b/35127bd3-8bc8-b818-fc41-66f2d53253bb/ios-02.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/ec/2a/41ec2acf-6387-9ac2-5bff-bc3e1cc517a1/ios-03.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/e5/5b/bee55be2-d64b-211b-0c87-2f9b9ff0916b/ios-04.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Photoshop",
-      "version": "7.7.8",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-28/com.adobe.photoshop.ios_AdobePhotoshop_7.7.8.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.adobe.photoshop.ios",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/d5/83/1bd5839c-5152-437e-bc2e-bdf5d282b293/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nAdobe Photoshop: Photo Editor\n\n• Bundle ID: com.adobe.photoshop.ios\n• Updated to: 7.8\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Adobe Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/60/4b/2c604b7b-a8ba-efb7-2ed1-4a2a1c11375f/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/d1/d1/0ad1d1a3-d31d-f370-2797-43655a772c25/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/59/2c/7f592c19-bf82-1b5c-d281-011fc6680831/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_04.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/7a/cd/a67acd0a-8a53-91b5-bbc3-9749a52a5683/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_05.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/62/4d/51624d86-28b0-3553-ec78-e448fedb27ac/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_06.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/8c/99/608c9977-782f-3f43-a5f2-ad401d94b6eb/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/e4/7e/e4e47ee1-f38a-44a9-16c1-4db2ce881c44/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_08.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/2f/56/ae2f5669-b5b0-77f9-c12a-1cc981f9c0d1/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_09.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/fb/7f/28fb7f41-0788-78c8-0568-1049e42ab942/Adobe_PSM_en-US_iOS_6.9_Screenshots_260203_Grey_BG_10.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/b4/d3/07b4d3ca-4427-c0a1-dcfc-a7c78dcbcd9b/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/80/83/a68083b7-adab-c24f-319d-0ad55bd548f7/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/f8/00/e8f800ea-3c55-1cb1-e98e-22018596cacc/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/0b/5f/c70b5f67-53d8-7d7d-6b2c-f37a0ed5667a/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/5e/77/f85e77c2-b07a-8e91-2971-40ac2c2cde44/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/c3/d1/fec3d142-2893-253c-9014-788ec6299ea9/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/9c/69/909c694c-36b0-513a-368f-a60e1097177b/Adobe-Photoshop-Mobile-iPad-GrayBckgd-2752x2064-en-US-08.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -3104,31 +3197,6 @@
       }
     },
     {
-      "name": "Captions",
-      "version": "13.18.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/boomer.Smart-Video_Captions_13.18.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "boomer.Smart-Video",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/14/c9/1114c9b4-d20c-6064-dcea-c30f1aa06b25/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nCaptions: For Talking Videos\n\nPro features unlocked\n\n⚠️ AI is NOT unlocked!\n\nTweak made by blatant\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "developer": "Captions, LLC (US)",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/18/46/bd184695-f431-6a44-9ed1-5b760fcc68f0/4.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/5f/14/c85f1427-5fa0-52f0-a25b-fb81f0c5efc1/4-1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/00/b9/f700b917-673e-634a-c602-e66ed6a2f058/5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/5b/f4/055bf473-b8c8-46d5-5840-9d4e22cc2e98/5-1.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "LUT-Studio",
       "version": "3.0.12",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-22/com.solveit.lut-studio_LUTStudio_3.0.12.ipa",
@@ -3365,45 +3433,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Adobe Fresco",
-      "version": "7.3.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.adobe.fresco.ios_AdobeFresco_7.3.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.adobe.fresco.ios",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/18/6f6318c6-7759-7004-d2f7-39dcfc0491d1/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nAdobe Fresco: Draw & Paint App\n\n• Bundle ID: com.adobe.fresco.ios\n• Updated to: 7.3.2\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Adobe Inc.",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/0b/9c/750b9c82-94bd-cbf7-be7f-efa1d38f8628/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_01.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/e9/1f/28e91fe6-adff-fd0a-a6a5-8f4603a13329/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_02.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3d/46/d03d4698-adaa-0b62-33a7-7c66d63bb509/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_03.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/41/96/d4419684-0387-af6c-0a4d-f0b0ee9d6449/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_04.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/7a/7e/2a7a7e2e-84fe-5248-55e6-4f11733d8c62/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_05.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/ac/38/bdac38f8-3208-6987-c4dd-b989880b28bf/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_06.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/d3/af/18d3affd-34c5-d195-5188-97fba69293b8/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ae/30/dcae30e1-b694-9c1f-aa61-2e896c48555b/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_08.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/4b/08/394b08c0-1373-cc0e-08d5-f92327078d00/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_09.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/ea/24/52ea2451-3936-4e00-b3ee-dedcd8a86369/Adobe_Fresco_US_U002bUK_U002bIN_iOS-6.7_Screenshots_250423_V3_10.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/63/19/e46319cd-dbba-bc10-c881-e8c5149a7b73/Adobe_Fresco_US_iOS-13_Screenshots_251215_03.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/dd/33/a7dd33c3-f20e-61b0-a2ea-d44511dcd9be/Adobe_Fresco_US_iOS-13_Screenshots_251215_07.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/e2/c6/f4e2c6ef-af22-b5b4-4421-1acf1a3c1167/Adobe_Fresco_US_iOS-13_Screenshots_251215_01.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/0c/f0/070cf022-d2d3-aebb-fab4-9b567b79df22/Adobe_Fresco_US_iOS-13_Screenshots_251215_02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6c/86/bf6c8678-0638-2e8c-10fe-77047fb03487/Adobe_Fresco_US_iOS-13_Screenshots_251215_04.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/25/3f/b0253f1c-b879-c610-5ac8-d1ff5cf90e68/Adobe_Fresco_US_iOS-13_Screenshots_251215_05.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/44/60/314460e4-5fd8-ac39-6323-067138e22fa8/Adobe_Fresco_US_iOS-13_Screenshots_251215_06.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/5f/7a/0d5f7a61-03fb-93da-3a8b-30d1a3b08f38/Adobe_Fresco_US_iOS-13_Screenshots_251215_08.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/95/6f/c2956fbb-acc6-1372-044c-f32dfd1c00d8/Adobe_Fresco_US_iOS-13_Screenshots_251215_09.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/12/35/f112351b-28a0-74cc-0049-63946fe41ae7/Adobe_Fresco_US_iOS-13_Screenshots_251215_10.png/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
@@ -11466,35 +11495,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/10/e9/8a10e907-a584-d822-0787-cd1b9abb6837/c6a145a6-5767-43b3-891f-57d5e555b64a_1242x2208bb-8.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/5e/62/765e6235-b11f-a66e-497d-87c3481ec0d8/730ce7b7-9488-49d0-96ad-f3a02c08bc6f_1242x2208bb-9.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/1c/04/ea1c04c8-8fb4-b585-36ce-fba99c25c6c8/c8029c6d-ae49-4510-85bb-ba1c0d26463d_1242x2208bb-10.png/1320x2868bb.png"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "CARROT",
-      "version": "6.5",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-26/com.grailr.CARROTweather_Carrot_6.5.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.grailr.CARROTweather",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/7e/1e/227e1ec8-3bf0-bc25-554c-80e87220d4f0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nCARROT Weather: Alerts & Radar\n\n• Bundle ID: com.grailr.CARROTweather\n• Updated to: 6.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when signed with a paid cert that has appgroups configured.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Grailr LLC",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/86/1aae86aa-2bbd-ae86-aedf-6bcf3ed08bd2/6561375a-42cc-4ccb-aa9b-71298cef0d58_phone-1-1_copy.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/57/f4/bb57f420-ac2f-d39e-a76e-f58c470bcc04/4cd4e55b-7815-4586-8e2f-bd75207a2950_phone-1-2_copy.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/ec/56/1fec565d-ba6a-c7a7-ef33-ec54181d6c9a/36cce7c2-2ad6-4946-82eb-b4532b41cceb_phone-1-3_copy.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f2/db/c5f2dbdb-d300-5b19-e91e-14673911fea4/8baae691-6c1b-425f-86f9-2a3617b3fcea_phone-chonk-widget.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/f4/77/dbf47751-e7c4-4e13-f4da-eb292758e917/d7345edb-d5f1-463c-b739-8c12c0474b53_phone-chonk-notifications.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d0/9f/96d09fa8-0f20-7080-7647-5bc000c05667/3008cf4a-5ef1-4125-8b3b-46b3880b5849_phone-chonk-watch.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/05/87/0a0587ab-5731-d8b9-f1f9-fd039cc71ea2/728544ce-ef31-454c-8543-0bc30bc7df37_phone-chonk-forecast.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/08/e6/0d08e64e-8db5-d8c2-187f-bd93cb24d101/ac4a3cb0-ad9e-4d7b-b12d-4a718ec816ef_phone-chonk-customization.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/2a/80/e82a8080-7a3e-d007-6058-0056500347a9/0a17c586-f68b-428d-bfd0-b9a0b8806bc7_phone-chonk-station.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/b4/f9/42b4f9e5-790b-47d8-bd40-b6973119dd81/d20982a0-ae71-4dd2-a032-c9a062912ea1_phone-chonk-fun.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
