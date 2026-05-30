@@ -5,6 +5,69 @@
   },
   "data": [
     {
+      "name": "Locket",
+      "version": "2.49.1",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-30/com.locket.Locket_AutoRcSideload_2.49.1.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.locket.Locket",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/fe/ab/9cfeab99-6119-c8b2-4147-30535afb3f78/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.49.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Locket Labs, Inc.",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "Forza Football",
+      "version": "6.17.4",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-29/com.footballaddicts.livescoreaddicts_Sideloadbypass2_6.17.4.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.footballaddicts.livescoreaddicts",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/5c/6c/645c6ca4-f609-493b-c02e-1af76b7bb6fb/icon_default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nForza Football - Live Scores\n\nTweak: Legend Unlocked\n\nVersion: 6.17.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.footballaddicts.livescoreaddicts\nDeveloper: Forza Football AB",
+      "developer": "Forza Football AB",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/91/7c/a0917c02-ca02-a97c-8fee-ca17efacf80b/02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/19/3c/8a193cc5-c784-78c1-3c57-9aafee8acb86/03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/9e/ed/299eed44-7b0e-5f00-1c5b-870b11ade5b1/03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/3c/0d/813c0d17-0869-a2a2-79ba-4fb9271d1204/04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/0b/ab/770bab9f-d849-be9f-5f21-43b3a1a0641a/05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/3b/11/173b1103-1d58-8dac-8649-08f344e36ea5/06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/a9/0d/e2a90dc1-2b69-cd2e-a6f1-78d274673ab0/07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/c7/30/64c73060-59ea-cdec-d918-544b79073da8/08.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "superagent",
+      "version": "4.2.0",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-29/com.agent.super.extension.safari_AutoRcSideload_4.2.0.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.agent.super.extension.safari",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/b6/51/15b65158-89cb-d0a2-5af5-7440be0bde38/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nSuper Agent for Safari\n\n• Bundle ID: com.agent.super.extension.safari\n• Updated to: 4.2\n• Minimum iOS: 17\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⚠️Use esign + paid certificate.\n>Ignore purchase page and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "Super Agent, Inc",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Phlow",
       "version": "2.1.13",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-29/com.app.phlow_Sideloadbypass2_2.1.13.ipa",
@@ -5108,24 +5171,6 @@
       }
     },
     {
-      "name": "Locket",
-      "version": "2.47.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/com.locket.Locket_AutoRcSideload_2.47.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.locket.Locket",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/71/56/7c7156b5-9014-da0e-36d5-e09c4716685d/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.47.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "Locket Labs, Inc.",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
       "name": "Gentler Streak",
       "version": "5.12.4",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-15/app.gentler.activity_AutoRcSideload_5.12.4.ipa",
@@ -8182,33 +8227,6 @@
       "description": "from @binnichtaktivsipas |\n----------------\nCalory AI: Calorie Counter\n\nTap on buy pro then cancel\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
       "developer": "Funn Media, LLC",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "Forza Football",
-      "version": "6.17.2",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-27/com.footballaddicts.livescoreaddicts_Sideloadbypass2_6.17.2.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.footballaddicts.livescoreaddicts",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/7b/68/357b68dd-1dd8-e581-3b39-90a4b734ec3d/icon_default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nForza Football - Live Scores\n\nTweak: Legend Unlocked\n\nVersion: 6.17.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.footballaddicts.livescoreaddicts\nDeveloper: Forza Football AB",
-      "developer": "Forza Football AB",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/91/7c/a0917c02-ca02-a97c-8fee-ca17efacf80b/02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/19/3c/8a193cc5-c784-78c1-3c57-9aafee8acb86/03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/9e/ed/299eed44-7b0e-5f00-1c5b-870b11ade5b1/03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/3c/0d/813c0d17-0869-a2a2-79ba-4fb9271d1204/04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/0b/ab/770bab9f-d849-be9f-5f21-43b3a1a0641a/05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/3b/11/173b1103-1d58-8dac-8649-08f344e36ea5/06.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/a9/0d/e2a90dc1-2b69-cd2e-a6f1-78d274673ab0/07.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/c7/30/64c73060-59ea-cdec-d918-544b79073da8/08.png/1320x2868bb.png"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -15833,32 +15851,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/d8/e4/25d8e40f-49dc-93ed-6a8f-5f0b2097d1be/e6a91824-1056-464f-ac81-950032f1c7d9_08.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/06/fd/7106fd87-4e67-4ff9-1d9e-1d688495a701/2169a37b-868f-4586-baf5-7f42f5eae761_07.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/4e/09/a04e099e-9e58-7b80-47f1-d98488d2c594/ee3de37f-0385-4130-89e0-82e75357daa0_09.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "superagent",
-      "version": "3.48.0",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.agent.super.extension.safari_SuperAgentForSafariPatch_3.48.0.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.agent.super.extension.safari",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/e6/4a/8ae64aaa-a22e-8f22-9f63-026cbbfd4456/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "description": "from @binnichtaktivsipas |\n----------------\nSuper Agent for Safari\n\nUnlimited features unlocked\n\nGreat safari addon that automatically fills out website’s cookie consent forms for you based on your preferences\n\nTweak made by Никитаy\n\nMinimum OS version 16\n\nAppStore link | Donate",
-      "developer": "Super Agent, Inc",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/08/54/730854bf-a830-da4f-b988-479c163d0558/af9c9ef5-aff8-4bfd-8d9c-289e3e771424_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/42/9b/47429b30-925b-13ee-d231-8bbedeba7581/e3ee2f2a-aaed-475c-bb6e-ef910d1f2ca5_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/19/16/a01916b3-d9c7-daaa-e53e-32ed5cc4012d/aa76891e-5bb2-418e-98ec-024ed9567402_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/6c/37/1c6c37fb-5cb4-6651-e277-9a7383a6a89f/252f814c-8ccf-4a8f-8e6b-31d814add606_ecras-01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/40/87/1d4087c8-1c41-eef6-f31e-a5cca484c863/e7fcff23-2346-411e-8705-102b77872bfd_ecras-02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/a1/08/fea108e2-e6c1-0087-dead-cefb035bf433/8f82145e-0838-40a6-b23c-62d6efed0adf_ecras-03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/fd/65/b5fd650a-3828-9469-333f-80c8c5c16016/39ff30a3-30a2-4e32-950c-fd526ac15f05_ecras-04.jpg/1320x2868bb.jpg"
       ],
       "accentColor": {
         "light": {
