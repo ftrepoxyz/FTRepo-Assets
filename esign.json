@@ -3,6 +3,49 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "YouTube",
+      "version": "21.22.4",
+      "versionDate": "2026-05-30",
+      "size": 132130941,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-30/com.google.ios.youtube_sideloadkeychainfix_21.22.4.ipa",
+      "developerName": "Google",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nYouTube 21.22.4 \nYTLite 5.2.1 cracked\nInjected with:\nDontEatMyContent\nGonerino\nSideloadkeychainfix\nVolumeBoostYT\nYouChooseQuality\nYouGetCaption\nYouGroupSettings\nYouPiP\nYouQuality\nYouTubeDislikesReturn\nYouTubeNativeShare\nYTABConfig\nYTHoldForSpeed\nYTLite\nYTUHD\nYTVideoErrorAlert\nYTVideoOverlay\nOpenYouTubeSafariExtension",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Flightradar24",
+      "version": "11.5.1",
+      "versionDate": "2026-05-30",
+      "size": 225225201,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-30/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.1.ipa",
+      "developerName": "Flightradar24 AB",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/17/246817b5-2d91-e7f4-30ab-fe06236519be/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFlightradar24 | Flight Tracker\n\n• Bundle ID: se.resenatverket.FlightRadar24-Free\n• Updated to: 11.5.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Lifetime\n• Tweaked by @blatants\n\n• Note:\nLogin and restart to activate.\nMost Features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/68/f4/5e68f402-366e-1bcc-56a6-a48c6d2ae8e5/01d2d8ec-dc39-4ec9-ad8c-8de5c84f0af6_iphone8_screenshot_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/69/f4/0b69f4de-5631-a1c0-90e6-800886190ea6/iphone8_screenshot_5_US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/b7/77/dbb777f1-ef83-281a-770e-3ca37729fa48/iphone8_liveactivities.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c5/2f/74c52fc2-f8d8-7e09-4231-aa887fd3eeef/iphone8_filters.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/69/c4/6e69c4c0-19da-ba5e-9042-2f147a72f000/4c184d36-9be6-40a2-8637-30a9b0cabf28_iphone8_screenshot_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4f/66/be4f662f-58f3-d03b-eb6a-858b522f53be/25111d8e-d0cf-42b7-980a-609294ade787_iphone8_screenshot_6-B.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/dd/cf/9cddcf62-d3b2-7a76-33c9-8ef366602b53/c285712d-8337-4b8c-bf7f-2bceab08478a_iphone8_screenshot_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3d/46/683d468a-e2ed-22f7-8c6c-9564b23bae38/121f30a0-5594-4518-9fc6-d6d928a83967_iphone8_screenshot_4.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Race Master",
       "version": "3.13.2",
       "versionDate": "2026-05-30",
@@ -2302,30 +2345,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/7c/23/ac7c2378-8ad7-1a64-a9b0-992cd134027b/6_55.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/5b/ac/725bac5e-f814-02fe-a2c6-bdb98a5b8d88/7_55.png/1320x2868bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/d5/ba/91d5ba6c-1c02-c9f3-0ce4-d3e96ebfa10c/8_55.png/1320x2868bb.png"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Flightradar24",
-      "version": "11.5.0",
-      "versionDate": "2026-05-25",
-      "size": 222034559,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.0.ipa",
-      "developerName": "Flightradar24 AB",
-      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/17/246817b5-2d91-e7f4-30ab-fe06236519be/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFlightradar24 | Flight Tracker\n\n• Bundle ID: se.resenatverket.FlightRadar24-Free\n• Reuploaded: 11.5.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Lifetime\n• Tweaked by @blatants\n\n• Note:\nLogin and restart to activate.\nMost Features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/68/f4/5e68f402-366e-1bcc-56a6-a48c6d2ae8e5/01d2d8ec-dc39-4ec9-ad8c-8de5c84f0af6_iphone8_screenshot_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/69/f4/0b69f4de-5631-a1c0-90e6-800886190ea6/iphone8_screenshot_5_US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/b7/77/dbb777f1-ef83-281a-770e-3ca37729fa48/iphone8_liveactivities.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c5/2f/74c52fc2-f8d8-7e09-4231-aa887fd3eeef/iphone8_filters.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/69/c4/6e69c4c0-19da-ba5e-9042-2f147a72f000/4c184d36-9be6-40a2-8637-30a9b0cabf28_iphone8_screenshot_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4f/66/be4f662f-58f3-d03b-eb6a-858b522f53be/25111d8e-d0cf-42b7-980a-609294ade787_iphone8_screenshot_6-B.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/dd/cf/9cddcf62-d3b2-7a76-33c9-8ef366602b53/c285712d-8337-4b8c-bf7f-2bceab08478a_iphone8_screenshot_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3d/46/683d468a-e2ed-22f7-8c6c-9564b23bae38/121f30a0-5594-4518-9fc6-d6d928a83967_iphone8_screenshot_4.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -5666,25 +5685,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/a2/6e/76a26ea0-f1fd-e7f5-3799-b57782063d9e/GPT-screenshot-1a-1.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/17/2a/6c172a42-86ed-f132-c3b6-139c2453d5e2/GPT-screenshot-1a.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/c8/9e/e1c89e96-e286-293f-08bd-08cf3842c05e/GPT-screenshot-2-1.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "YouTube",
-      "version": "21.18.4",
-      "versionDate": "2026-05-06",
-      "size": 142248847,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.google.ios.youtube_zxPluginsInject_21.18.4.ipa",
-      "developerName": "Google",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/aa/cb/dcaacbd4-f6b3-a6a2-e9de-254f4126ebd8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
