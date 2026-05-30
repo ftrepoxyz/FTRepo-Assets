@@ -3,6 +3,30 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Home workouts",
+      "version": "1.51.0",
+      "versionDate": "2026-05-30",
+      "size": 198034453,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-30/com.abishkking.maleworkout_HomeWorkouts_1.51.0.ipa",
+      "developerName": "Leap Health",
+      "bundleIdentifier": "com.abishkking.maleworkout",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/f3/74/82f37424-0f3e-b1f4-c42c-daf956d5c74f/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nHome Workout - No Equipments\n\n• Bundle ID: com.abishkking.maleworkout\n• Updated to: 1.51.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/87/67/e68767d0-3a52-d7a5-d791-aacd63b4c418/1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/9f/be/549fbe3a-ae73-df25-502b-ec99979b2ea2/2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/0d/9a/aa0d9ae9-f008-4894-ed2c-ed070c4af59c/3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/f9/1a/c0f91ab7-ccfe-7764-79b2-3ebb70bdb8f0/4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/39/ab/f239ab1c-9817-5700-3db0-3927df428e2b/5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/9f/b8/8a9fb8de-ebd7-1a36-ffc4-48dee3f7e24b/6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/63/35/c9633580-9464-08b1-c380-a92246601085/7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c0/ba/34c0ba1d-df16-903a-b3ff-ad4ca20e1f2a/8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/23/6a/cb236ad1-158d-d3b1-4fa1-70138e963cd5/9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/01/94/f5019427-8ad0-59d0-7a5a-3a97764fd01f/10.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "Locket",
       "version": "2.49.1",
       "versionDate": "2026-05-30",
@@ -6979,30 +7003,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/03/a7/7603a794-ca34-b38c-6625-28e9cadee1e3/EN-iPad-2__U00281_U0029.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/17/b3/ec17b398-c983-9856-c529-ded8c451030c/EN-iPad-3__U00281_U0029.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/4e/0f/3a4e0f17-ed55-debd-6c4f-7aed60aade04/EN-iPad-4__U00281_U0029.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Home workouts",
-      "version": "1.50.0",
-      "versionDate": "2026-04-23",
-      "size": 196566368,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-23/com.abishkking.maleworkout_HomeWorkouts_1.50.0.ipa",
-      "developerName": "Leap Health",
-      "bundleIdentifier": "com.abishkking.maleworkout",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/36/86/973686d3-a50f-eec6-03fe-ebaa697aaa1a/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nHome Workout - No Equipments\n\n• Bundle ID: com.abishkking.maleworkout\n• Updated to: 1.50.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/87/67/e68767d0-3a52-d7a5-d791-aacd63b4c418/1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/9f/be/549fbe3a-ae73-df25-502b-ec99979b2ea2/2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/0d/9a/aa0d9ae9-f008-4894-ed2c-ed070c4af59c/3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/f9/1a/c0f91ab7-ccfe-7764-79b2-3ebb70bdb8f0/4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/39/ab/f239ab1c-9817-5700-3db0-3927df428e2b/5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/9f/b8/8a9fb8de-ebd7-1a36-ffc4-48dee3f7e24b/6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/63/35/c9633580-9464-08b1-c380-a92246601085/7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/c0/ba/34c0ba1d-df16-903a-b3ff-ad4ca20e1f2a/8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/23/6a/cb236ad1-158d-d3b1-4fa1-70138e963cd5/9.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/01/94/f5019427-8ad0-59d0-7a5a-3a97764fd01f/10.jpg/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
