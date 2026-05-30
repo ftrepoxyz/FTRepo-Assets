@@ -3,6 +3,75 @@
   "identifier": "xyz.ftrepo",
   "apps": [
     {
+      "name": "SoundCloud",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "SoundCloud Global Limited & Co KG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/c3/ce/66c3cec5-0f3b-f140-483f-aeb3ef2cd885/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @soundcloudtweaks |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.62.1.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/f1/4f/05f14fbd-ed7a-2c45-14ee-005b99c47233/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/94/5f/50945ff3-efba-111d-57fc-2e624420109f/ba7696c7-7243-486b-9c7d-068909e90818_iPad_Pro_2A.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/3a/93/473a9361-d349-283f-21b1-3483f7282c6a/0b5c0fa0-9dcc-4bb8-8ebb-5398547b1971_iPad_Pro_3A.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/e4/a8/9ae4a8e2-3dd6-079d-1082-b64c26dc157d/b4ea7933-cecc-4049-aa93-38ce38cd95ca_iPad_Pro_4A.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/ed/e7/73ede7db-99f8-777b-8a22-4b2db83a34b7/a7dbf188-1858-4698-b27a-a37b7fb0970e_iPad_Pro_5A.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/91/d3/d691d3d7-6fb4-764f-d784-70a9a6e06b85/ebc3b586-fbda-4a39-a00c-cb28b6d70f7d_iPad_Pro_6A.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/64/e8/4964e856-5724-9761-5859-3f0a3242be61/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/ac/06/82ac06b4-224d-a5c1-2c29-7ed36c76bef1/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/f1/4f/05f14fbd-ed7a-2c45-14ee-005b99c47233/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/94/5f/50945ff3-efba-111d-57fc-2e624420109f/ba7696c7-7243-486b-9c7d-068909e90818_iPad_Pro_2A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/3a/93/473a9361-d349-283f-21b1-3483f7282c6a/0b5c0fa0-9dcc-4bb8-8ebb-5398547b1971_iPad_Pro_3A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/e4/a8/9ae4a8e2-3dd6-079d-1082-b64c26dc157d/b4ea7933-cecc-4049-aa93-38ce38cd95ca_iPad_Pro_4A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/ed/e7/73ede7db-99f8-777b-8a22-4b2db83a34b7/a7dbf188-1858-4698-b27a-a37b7fb0970e_iPad_Pro_5A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/91/d3/d691d3d7-6fb4-764f-d784-70a9a6e06b85/ebc3b586-fbda-4a39-a00c-cb28b6d70f7d_iPad_Pro_6A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/64/e8/4964e856-5724-9761-5859-3f0a3242be61/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/ac/06/82ac06b4-224d-a5c1-2c29-7ed36c76bef1/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "8.62.1",
+          "date": "2026-05-27",
+          "size": 115574864,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-27/com.soundcloud.TouchApp_libsubstrate_8.62.1.ipa"
+        },
+        {
+          "version": "8.61.0",
+          "date": "2026-05-20",
+          "size": 110517101,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.soundcloud.TouchApp_libsubstrate_8.61.0.ipa"
+        },
+        {
+          "version": "8.59.1",
+          "date": "2026-05-04",
+          "size": 109730674,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.soundcloud.TouchApp_libsubstrate_8.59.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.62.1",
+      "versionDate": "2026-05-27T19:46:24.884Z",
+      "size": 115574864,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-27/com.soundcloud.TouchApp_libsubstrate_8.62.1.ipa",
+      "recommended": true
+    },
+    {
       "name": "SplitActivities",
       "bundleIdentifier": "com.splitactivities.app",
       "developerName": "Unknown Developer",
@@ -5176,8 +5245,8 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/aa/cb/dcaacbd4-f6b3-a6a2-e9de-254f4126ebd8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nYouTube 21.22.4 \nYTLite 5.2.1 cracked\nInjected with:\nDontEatMyContent\nGonerino\nSideloadkeychainfix\nVolumeBoostYT\nYouChooseQuality\nYouGetCaption\nYouGroupSettings\nYouPiP\nYouQuality\nYouTubeDislikesReturn\nYouTubeNativeShare\nYTABConfig\nYTHoldForSpeed\nYTLite\nYTUHD\nYTVideoErrorAlert\nYTVideoOverlay\nOpenYouTubeSafariExtension",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg"
@@ -5204,6 +5273,12 @@
       ],
       "versions": [
         {
+          "version": "21.22.4",
+          "date": "2026-05-30",
+          "size": 132130941,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-30/com.google.ios.youtube_sideloadkeychainfix_21.22.4.ipa"
+        },
+        {
           "version": "21.18.4",
           "date": "2026-05-06",
           "size": 142248847,
@@ -5214,19 +5289,13 @@
           "date": "2026-05-02",
           "size": 120603976,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-02/com.google.ios.youtube_YouSpeed_21.17.3.ipa"
-        },
-        {
-          "version": "21.16.2",
-          "date": "2026-04-21",
-          "size": 129695669,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-21/com.google.ios.youtube_libcolorpicker_21.16.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "21.18.4",
-      "versionDate": "2026-05-06T01:40:30.411Z",
-      "size": 142248847,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-06/com.google.ios.youtube_zxPluginsInject_21.18.4.ipa",
+      "version": "21.22.4",
+      "versionDate": "2026-05-30T13:09:08.184Z",
+      "size": 132130941,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-30/com.google.ios.youtube_sideloadkeychainfix_21.22.4.ipa",
       "recommended": false
     },
     {
@@ -7027,6 +7096,83 @@
       "recommended": false
     },
     {
+      "name": "Flightradar24",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+      "developerName": "Flightradar24 AB",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/17/246817b5-2d91-e7f4-30ab-fe06236519be/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFlightradar24 | Flight Tracker\n\n• Bundle ID: se.resenatverket.FlightRadar24-Free\n• Updated to: 11.5.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Lifetime\n• Tweaked by @blatants\n\n• Note:\nLogin and restart to activate.\nMost Features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/68/f4/5e68f402-366e-1bcc-56a6-a48c6d2ae8e5/01d2d8ec-dc39-4ec9-ad8c-8de5c84f0af6_iphone8_screenshot_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/69/f4/0b69f4de-5631-a1c0-90e6-800886190ea6/iphone8_screenshot_5_US.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/b7/77/dbb777f1-ef83-281a-770e-3ca37729fa48/iphone8_liveactivities.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c5/2f/74c52fc2-f8d8-7e09-4231-aa887fd3eeef/iphone8_filters.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/69/c4/6e69c4c0-19da-ba5e-9042-2f147a72f000/4c184d36-9be6-40a2-8637-30a9b0cabf28_iphone8_screenshot_7.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4f/66/be4f662f-58f3-d03b-eb6a-858b522f53be/25111d8e-d0cf-42b7-980a-609294ade787_iphone8_screenshot_6-B.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/dd/cf/9cddcf62-d3b2-7a76-33c9-8ef366602b53/c285712d-8337-4b8c-bf7f-2bceab08478a_iphone8_screenshot_8.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3d/46/683d468a-e2ed-22f7-8c6c-9564b23bae38/121f30a0-5594-4518-9fc6-d6d928a83967_iphone8_screenshot_4.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/68/f4/5e68f402-366e-1bcc-56a6-a48c6d2ae8e5/01d2d8ec-dc39-4ec9-ad8c-8de5c84f0af6_iphone8_screenshot_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/69/f4/0b69f4de-5631-a1c0-90e6-800886190ea6/iphone8_screenshot_5_US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/b7/77/dbb777f1-ef83-281a-770e-3ca37729fa48/iphone8_liveactivities.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c5/2f/74c52fc2-f8d8-7e09-4231-aa887fd3eeef/iphone8_filters.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/69/c4/6e69c4c0-19da-ba5e-9042-2f147a72f000/4c184d36-9be6-40a2-8637-30a9b0cabf28_iphone8_screenshot_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4f/66/be4f662f-58f3-d03b-eb6a-858b522f53be/25111d8e-d0cf-42b7-980a-609294ade787_iphone8_screenshot_6-B.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/dd/cf/9cddcf62-d3b2-7a76-33c9-8ef366602b53/c285712d-8337-4b8c-bf7f-2bceab08478a_iphone8_screenshot_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3d/46/683d468a-e2ed-22f7-8c6c-9564b23bae38/121f30a0-5594-4518-9fc6-d6d928a83967_iphone8_screenshot_4.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "11.5.1",
+          "date": "2026-05-30",
+          "size": 225225201,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-30/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.1.ipa"
+        },
+        {
+          "version": "11.5.0",
+          "date": "2026-05-25",
+          "size": 222034559,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.0.ipa"
+        },
+        {
+          "version": "11.4.0",
+          "date": "2026-05-03",
+          "size": 221913804,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.4.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "11.5.1",
+      "versionDate": "2026-05-30T13:08:06.688Z",
+      "size": 225225201,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-30/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.1.ipa",
+      "recommended": false
+    },
+    {
       "name": "TOR VPN",
       "bundleIdentifier": "com.youssef.developer.Full-Browser",
       "developerName": "STELLAR APPS LIMITED",
@@ -7085,83 +7231,6 @@
       "versionDate": "2026-05-25T22:46:17.547Z",
       "size": 188918633,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/com.youssef.developer.Full-Browser_TorSuite_11.5.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Flightradar24",
-      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
-      "developerName": "Flightradar24 AB",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/17/246817b5-2d91-e7f4-30ab-fe06236519be/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFlightradar24 | Flight Tracker\n\n• Bundle ID: se.resenatverket.FlightRadar24-Free\n• Reuploaded: 11.5.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Lifetime\n• Tweaked by @blatants\n\n• Note:\nLogin and restart to activate.\nMost Features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/68/f4/5e68f402-366e-1bcc-56a6-a48c6d2ae8e5/01d2d8ec-dc39-4ec9-ad8c-8de5c84f0af6_iphone8_screenshot_3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/69/f4/0b69f4de-5631-a1c0-90e6-800886190ea6/iphone8_screenshot_5_US.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/b7/77/dbb777f1-ef83-281a-770e-3ca37729fa48/iphone8_liveactivities.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c5/2f/74c52fc2-f8d8-7e09-4231-aa887fd3eeef/iphone8_filters.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/69/c4/6e69c4c0-19da-ba5e-9042-2f147a72f000/4c184d36-9be6-40a2-8637-30a9b0cabf28_iphone8_screenshot_7.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4f/66/be4f662f-58f3-d03b-eb6a-858b522f53be/25111d8e-d0cf-42b7-980a-609294ade787_iphone8_screenshot_6-B.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/dd/cf/9cddcf62-d3b2-7a76-33c9-8ef366602b53/c285712d-8337-4b8c-bf7f-2bceab08478a_iphone8_screenshot_8.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3d/46/683d468a-e2ed-22f7-8c6c-9564b23bae38/121f30a0-5594-4518-9fc6-d6d928a83967_iphone8_screenshot_4.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/68/f4/5e68f402-366e-1bcc-56a6-a48c6d2ae8e5/01d2d8ec-dc39-4ec9-ad8c-8de5c84f0af6_iphone8_screenshot_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/69/f4/0b69f4de-5631-a1c0-90e6-800886190ea6/iphone8_screenshot_5_US.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/b7/77/dbb777f1-ef83-281a-770e-3ca37729fa48/iphone8_liveactivities.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c5/2f/74c52fc2-f8d8-7e09-4231-aa887fd3eeef/iphone8_filters.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/69/c4/6e69c4c0-19da-ba5e-9042-2f147a72f000/4c184d36-9be6-40a2-8637-30a9b0cabf28_iphone8_screenshot_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4f/66/be4f662f-58f3-d03b-eb6a-858b522f53be/25111d8e-d0cf-42b7-980a-609294ade787_iphone8_screenshot_6-B.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/dd/cf/9cddcf62-d3b2-7a76-33c9-8ef366602b53/c285712d-8337-4b8c-bf7f-2bceab08478a_iphone8_screenshot_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3d/46/683d468a-e2ed-22f7-8c6c-9564b23bae38/121f30a0-5594-4518-9fc6-d6d928a83967_iphone8_screenshot_4.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "11.5.0",
-          "date": "2026-05-25",
-          "size": 222034559,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.0.ipa"
-        },
-        {
-          "version": "11.4.0",
-          "date": "2026-05-03",
-          "size": 221913804,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-03/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.4.0.ipa"
-        },
-        {
-          "version": "11.3.0",
-          "date": "2026-04-16",
-          "size": 217148048,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.3.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "11.5.0",
-      "versionDate": "2026-05-25T19:45:55.670Z",
-      "size": 222034559,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-25/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.0.ipa",
       "recommended": false
     },
     {
@@ -9203,75 +9272,6 @@
       "versionDate": "2026-04-29T22:39:54.284Z",
       "size": 167296906,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-29/com.moonlab.unfoldstories_AutoRc_8.158.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "SoundCloud",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "developerName": "SoundCloud Global Limited & Co KG",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/c3/ce/66c3cec5-0f3b-f140-483f-aeb3ef2cd885/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @soundcloudtweaks |\n----------------\nAppstore link : SoundCloud\nUpdated to : 8.62.1.\nPackaged by : @woomc\n\nFeatures:\n• Go+ unlocked\n• HQ audio streaming\n• No ads (audio & visual)\n• No upgrade popups\n\nTweaks by original creators.\nMy channel | Fix errors",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/f1/4f/05f14fbd-ed7a-2c45-14ee-005b99c47233/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/94/5f/50945ff3-efba-111d-57fc-2e624420109f/ba7696c7-7243-486b-9c7d-068909e90818_iPad_Pro_2A.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/3a/93/473a9361-d349-283f-21b1-3483f7282c6a/0b5c0fa0-9dcc-4bb8-8ebb-5398547b1971_iPad_Pro_3A.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/e4/a8/9ae4a8e2-3dd6-079d-1082-b64c26dc157d/b4ea7933-cecc-4049-aa93-38ce38cd95ca_iPad_Pro_4A.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/ed/e7/73ede7db-99f8-777b-8a22-4b2db83a34b7/a7dbf188-1858-4698-b27a-a37b7fb0970e_iPad_Pro_5A.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/91/d3/d691d3d7-6fb4-764f-d784-70a9a6e06b85/ebc3b586-fbda-4a39-a00c-cb28b6d70f7d_iPad_Pro_6A.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/64/e8/4964e856-5724-9761-5859-3f0a3242be61/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/ac/06/82ac06b4-224d-a5c1-2c29-7ed36c76bef1/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/f1/4f/05f14fbd-ed7a-2c45-14ee-005b99c47233/60f13616-efa3-46ac-b5f6-0ac504d5fc8e_iPad_Pro_1A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/94/5f/50945ff3-efba-111d-57fc-2e624420109f/ba7696c7-7243-486b-9c7d-068909e90818_iPad_Pro_2A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/3a/93/473a9361-d349-283f-21b1-3483f7282c6a/0b5c0fa0-9dcc-4bb8-8ebb-5398547b1971_iPad_Pro_3A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/e4/a8/9ae4a8e2-3dd6-079d-1082-b64c26dc157d/b4ea7933-cecc-4049-aa93-38ce38cd95ca_iPad_Pro_4A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/ed/e7/73ede7db-99f8-777b-8a22-4b2db83a34b7/a7dbf188-1858-4698-b27a-a37b7fb0970e_iPad_Pro_5A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/91/d3/d691d3d7-6fb4-764f-d784-70a9a6e06b85/ebc3b586-fbda-4a39-a00c-cb28b6d70f7d_iPad_Pro_6A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/64/e8/4964e856-5724-9761-5859-3f0a3242be61/5e3fa2ce-d71d-442a-a0d4-75443eb83fb4_iPad_Pro_7A.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/ac/06/82ac06b4-224d-a5c1-2c29-7ed36c76bef1/67ff339e-4344-4d38-9589-57b5ddee0cd4_iPad_Pro_8A.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "8.62.1",
-          "date": "2026-05-27",
-          "size": 115574864,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-27/com.soundcloud.TouchApp_libsubstrate_8.62.1.ipa"
-        },
-        {
-          "version": "8.61.0",
-          "date": "2026-05-20",
-          "size": 110517101,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-20/com.soundcloud.TouchApp_libsubstrate_8.61.0.ipa"
-        },
-        {
-          "version": "8.59.1",
-          "date": "2026-05-04",
-          "size": 109730674,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-04/com.soundcloud.TouchApp_libsubstrate_8.59.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "8.62.1",
-      "versionDate": "2026-05-27T19:46:24.884Z",
-      "size": 115574864,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-27/com.soundcloud.TouchApp_libsubstrate_8.62.1.ipa",
       "recommended": false
     },
     {
