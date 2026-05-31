@@ -3,6 +3,39 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "JournalCircle",
+      "version": "3.3.5",
+      "versionDate": "2026-05-31",
+      "size": 13427345,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-31/com.genau.JournalCircle_Sideloadbypass2_3.3.5.ipa",
+      "developerName": "Genau Factory",
+      "bundleIdentifier": "com.genau.JournalCircle",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/2e/c3/142ec32e-e840-9fd0-06dd-1c3d84e4fabe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nJournalCircle: Diary & Tracker\n\nTweak: Premium Unlocked\n\nVersion: 3.3.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.JournalCircle\nDeveloper: Genau Factory",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/6f/b0fb6f8c-73b9-9ec0-9beb-57237b2acf3a/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/4c/23/f24c238f-1e6e-7538-6b14-cf1a525fe87a/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/18/bf/3918bf41-c65e-4a7e-6e41-ccb637664150/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d5/38/67d538f0-5f1f-2aa1-463a-463ff1023c7a/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d3/8c/a3d38c9c-3afc-b690-1289-77f202def507/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/3d/15/a23d15f5-86f4-1ab5-9e0e-62ba61d58014/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "StressWatch",
+      "version": "3.1.5",
+      "versionDate": "2026-05-31",
+      "size": 367344990,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-31/com.ideation.Stress_StressWatch_3.1.5.ipa",
+      "developerName": "One Hundred Bad Ideas Limited",
+      "bundleIdentifier": "com.ideation.Stress",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a5/71/37a5714e-35ae-caf2-a7a5-d00d3ad9ec1b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nStressWatch: AI Stress Monitor\n\n• Bundle ID: com.ideation.Stress\n• Updated to: 3.1.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "PureStatus",
       "version": "2026.01",
       "versionDate": "2026-05-31",
@@ -727,26 +760,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/5f/7a/0d5f7a61-03fb-93da-3a8b-30d1a3b08f38/Adobe_Fresco_US_iOS-13_Screenshots_251215_08.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/95/6f/c2956fbb-acc6-1372-044c-f32dfd1c00d8/Adobe_Fresco_US_iOS-13_Screenshots_251215_09.png/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/12/35/f112351b-28a0-74cc-0049-63946fe41ae7/Adobe_Fresco_US_iOS-13_Screenshots_251215_10.png/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "JournalCircle",
-      "version": "3.3.4",
-      "versionDate": "2026-05-28",
-      "size": 13436994,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-28/com.genau.JournalCircle_Sideloadbypass2_3.3.4.ipa",
-      "developerName": "Genau Factory",
-      "bundleIdentifier": "com.genau.JournalCircle",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/2e/c3/142ec32e-e840-9fd0-06dd-1c3d84e4fabe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nJournalCircle: Diary & Tracker\n\nTweak: Premium Unlocked\n\nVersion: 3.3.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.JournalCircle\nDeveloper: Genau Factory",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/6f/b0fb6f8c-73b9-9ec0-9beb-57237b2acf3a/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/4c/23/f24c238f-1e6e-7538-6b14-cf1a525fe87a/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/18/bf/3918bf41-c65e-4a7e-6e41-ccb637664150/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d5/38/67d538f0-5f1f-2aa1-463a-463ff1023c7a/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d3/8c/a3d38c9c-3afc-b690-1289-77f202def507/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/3d/15/a23d15f5-86f4-1ab5-9e0e-62ba61d58014/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
       ],
       "tintColor": "#5C7AEA"
     },
@@ -3382,19 +3395,6 @@
       "bundleIdentifier": "com.firecore.infuse",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/75/2f/e6752f0d-6382-3024-67c7-4f4cdba6d1a6/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.4.5\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.5\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Tweak core has been fully rewritten\n• Settings have been optimized for iPad\n• Improved gesture interaction\n• Fixed an issue with the loop button visibility\n• Added overlay lock feature\n• Added vertical and horizontal video mirroring\n• Added an option to mute the player only\n• Added support for Infuse 8.2.5+\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "StressWatch",
-      "version": "3.1.4",
-      "versionDate": "2026-05-19",
-      "size": 353298394,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-19/com.ideation.Stress_StressWatch_3.1.4.ipa",
-      "developerName": "One Hundred Bad Ideas Limited",
-      "bundleIdentifier": "com.ideation.Stress",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a5/71/37a5714e-35ae-caf2-a7a5-d00d3ad9ec1b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nStressWatch: AI Stress Monitor\n\n• Bundle ID: com.ideation.Stress\n• Updated to: 3.1.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
