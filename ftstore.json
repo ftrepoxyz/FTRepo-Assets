@@ -8256,8 +8256,8 @@
       "name": "Fishbrain",
       "bundleIdentifier": "com.fishbrain.app",
       "developerName": "FishBrain",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/e3/17/e3e317a0-90bd-b70b-46f7-0d8257133599/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nFishbrain - Fishing App\n\nTweak: Pro Unlocked\n\nVersion: 9.51.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.fishbrain.app\nDeveloper: FishBrain",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/57/44/3a5744f4-18cc-012c-4d3d-6fa4f9b5b963/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nFishbrain - Fishing App\n\nTweak: Pro Unlocked\n\nVersion: 9.55.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.fishbrain.app\nDeveloper: FishBrain",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/91/94/349194cb-6260-048c-8706-410bd747c510/587a1251-897c-4222-b374-174bfde201ec_Lake_dock_1.png/1320x2868bb.png"
@@ -8304,6 +8304,12 @@
       ],
       "versions": [
         {
+          "version": "9.55.0",
+          "date": "2026-06-01",
+          "size": 95869691,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.fishbrain.app_Sideloadbypass2_9.55.0.ipa"
+        },
+        {
           "version": "9.51.1",
           "date": "2026-04-10",
           "size": 99982257,
@@ -8317,10 +8323,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.51.1",
-      "versionDate": "2026-04-10T10:14:01.123Z",
-      "size": 99982257,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-10/com.fishbrain.app_Sideloadbypass2_9.51.1.ipa",
+      "version": "9.55.0",
+      "versionDate": "2026-06-01T12:07:46.072Z",
+      "size": 95869691,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.fishbrain.app_Sideloadbypass2_9.55.0.ipa",
       "recommended": false
     },
     {
@@ -32693,6 +32699,35 @@
       "recommended": false
     },
     {
+      "name": "Coin ID",
+      "bundleIdentifier": "com.aiby.wtcoin",
+      "developerName": "AIBY",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/7d/c3/637dc334-4398-9c90-77dc-ea41471af1df/AppIcon_default-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nCoin ID: Coin Value Identifier\n\n• Bundle ID: com.aiby.wtcoin\n• Updated to: 1.25\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.25",
+          "date": "2026-06-01",
+          "size": 46617565,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.aiby.wtcoin_CoinID_1.25.ipa"
+        },
+        {
+          "version": "1.23",
+          "date": "2026-03-11",
+          "size": 49984394,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.aiby.wtcoin_CoinID_1.23.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.25",
+      "versionDate": "2026-06-01T12:04:38.723Z",
+      "size": 46617565,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.aiby.wtcoin_CoinID_1.25.ipa",
+      "recommended": false
+    },
+    {
       "name": "BEAT",
       "bundleIdentifier": "reels-maker-one",
       "developerName": "Onelight Apps CY Ltd",
@@ -32796,29 +32831,6 @@
       "versionDate": "2026-03-11T12:47:57.515Z",
       "size": 78062534,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.ndemiccreations.plagueinc_1.23.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Coin ID",
-      "bundleIdentifier": "com.aiby.wtcoin",
-      "developerName": "AIBY",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/2f/ba/b62fba30-f98e-2483-4772-57ffaf9e9532/AppIcon_default-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCoin ID: Coin Value Identifier\n\n• Bundle ID: com.aiby.wtcoin\n• Updated to: 1.23\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ Jailbreak Repo | ♡ Support",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "1.23",
-          "date": "2026-03-11",
-          "size": 49984394,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.aiby.wtcoin_CoinID_1.23.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.23",
-      "versionDate": "2026-03-11T08:29:52.420Z",
-      "size": 49984394,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-11/com.aiby.wtcoin_CoinID_1.23.ipa",
       "recommended": false
     },
     {
