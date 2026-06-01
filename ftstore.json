@@ -6383,7 +6383,7 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/7c/9e/947c9e51-99e9-fff5-93e7-8485563c5df1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 12.86.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 12.87.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg"
@@ -6422,6 +6422,12 @@
       ],
       "versions": [
         {
+          "version": "12.87.0",
+          "date": "2026-06-01",
+          "size": 126485703,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.yazio.ios.YAZIO_Yazio_12.87.0.ipa"
+        },
+        {
           "version": "12.86.3",
           "date": "2026-05-28",
           "size": 124815830,
@@ -6432,19 +6438,13 @@
           "date": "2026-05-26",
           "size": 143534215,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.yazio.ios.YAZIO_Yazio_12.86.2.ipa"
-        },
-        {
-          "version": "12.86.1",
-          "date": "2026-05-26",
-          "size": 143429434,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-26/com.yazio.ios.YAZIO_Yazio_12.86.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "12.86.3",
-      "versionDate": "2026-05-28T20:12:17.578Z",
-      "size": 124815830,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-28/com.yazio.ios.YAZIO_Yazio_12.86.3.ipa",
+      "version": "12.87.0",
+      "versionDate": "2026-06-01T08:09:13.336Z",
+      "size": 126485703,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.yazio.ios.YAZIO_Yazio_12.87.0.ipa",
       "recommended": false
     },
     {
@@ -20693,34 +20693,11 @@
       "recommended": false
     },
     {
-      "name": "Shopping List",
-      "bundleIdentifier": "jp.tyabaken.kaimono",
-      "developerName": "kenta ito",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/92/a7/3d92a7aa-13ea-8626-06a7-5855afb84706/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nShopii - Grocery List & To Do\n\nTweak: Pro Unlocked\n\nVersion: 4.4.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: jp.tyabaken.kaimono\nDeveloper: kenta ito",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.4.3",
-          "date": "2026-03-14",
-          "size": 14879857,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/jp.tyabaken.kaimono_Sideloadbypass2_4.4.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.4.3",
-      "versionDate": "2026-03-14T22:02:00.509Z",
-      "size": 14879857,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/jp.tyabaken.kaimono_Sideloadbypass2_4.4.3.ipa",
-      "recommended": false
-    },
-    {
       "name": "BeFreed",
       "bundleIdentifier": "ai.befreed.freed-frontend-rn",
       "developerName": "beFreed, Inc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/ff/26/d6ff2614-21c6-8cfa-eef6-74e450137a7b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBeFreed: Learn Anything\n\nTweak: Subscription Unlocked\n\nVersion: 4.3.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: ai.befreed.freed-frontend-rn\nDeveloper: beFreed, Inc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/7a/c7/4e7ac72a-6509-83c7-f2cb-5f167cb0058c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBeFreed: Learn Anything\n\nTweak: Subscription Unlocked\n\nVersion: 4.4.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: ai.befreed.freed-frontend-rn\nDeveloper: beFreed, Inc",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/07/96/4d07962c-2466-d489-6b28-26bd0a22d778/0_APP_IPHONE_65_0.jpg/1320x2868bb.webp"
@@ -20763,6 +20740,12 @@
       ],
       "versions": [
         {
+          "version": "4.4.3",
+          "date": "2026-06-01",
+          "size": 47095795,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.4.3.ipa"
+        },
+        {
           "version": "4.3.9",
           "date": "2026-04-01",
           "size": 47152581,
@@ -20773,19 +20756,36 @@
           "date": "2026-03-30",
           "size": 46929028,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-30/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.8.ipa"
-        },
-        {
-          "version": "4.3.5",
-          "date": "2026-03-14",
-          "size": 44339417,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.3.9",
-      "versionDate": "2026-04-01T19:02:17.546Z",
-      "size": 47152581,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-01/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.3.9.ipa",
+      "version": "4.4.3",
+      "versionDate": "2026-06-01T08:09:23.292Z",
+      "size": 47095795,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/ai.befreed.freed-frontend-rn_Sideloadbypass2_4.4.3.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Shopping List",
+      "bundleIdentifier": "jp.tyabaken.kaimono",
+      "developerName": "kenta ito",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/92/a7/3d92a7aa-13ea-8626-06a7-5855afb84706/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nShopii - Grocery List & To Do\n\nTweak: Pro Unlocked\n\nVersion: 4.4.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: jp.tyabaken.kaimono\nDeveloper: kenta ito",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.4.3",
+          "date": "2026-03-14",
+          "size": 14879857,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/jp.tyabaken.kaimono_Sideloadbypass2_4.4.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.4.3",
+      "versionDate": "2026-03-14T22:02:00.509Z",
+      "size": 14879857,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-14/jp.tyabaken.kaimono_Sideloadbypass2_4.4.3.ipa",
       "recommended": false
     },
     {
