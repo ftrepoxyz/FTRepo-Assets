@@ -3,6 +3,74 @@
   "identifier": "com.ftrepo.source",
   "apps": [
     {
+      "name": "Clear Minds Hypnotherapy",
+      "version": "80.0.25",
+      "versionDate": "2026-06-02",
+      "size": 96469355,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.clearmindshypnotherapy.app_Sideloadbypass2_80.0.25.ipa",
+      "developerName": "Pure Clear Minds LTD",
+      "bundleIdentifier": "com.clearmindshypnotherapy.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/fc/fe/09fcfe7f-201c-9125-4976-e2a6031d030a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nClear Minds - Hypnotherapy\n\nTweak: Subscription Unlocked\n\nVersion: 80.0.25\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.clearmindshypnotherapy.app\nDeveloper: Pure Clear Minds LTD",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "PlantSnap",
+      "version": "7.6.6",
+      "versionDate": "2026-06-02",
+      "size": 60004285,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/net.plantsnap.freemium_Sideloadbypass2_7.6.6.ipa",
+      "developerName": "PlantSnap, Inc.",
+      "bundleIdentifier": "net.plantsnap.freemium",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/d5/fe/c1d5fe79-53d3-9f6c-e513-df714a3bac5e/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPlantSnap - Plant Identifier\n\nTweak: Subscription Unlocked\n\nVersion: 7.6.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: net.plantsnap.freemium\nDeveloper: PlantSnap, Inc.",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/8e/1a/9e8e1a7e-8490-4e38-0bed-eab9d68d07f0/5affcb05-47ec-47bf-b10d-3c65e0b9234c_Plant_diary_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/2d/ad/bd2dad8f-b8f9-099a-faf1-14685b74f7bb/0d1d9b92-2fd5-4c00-88de-6ac5305baf47_My_garden_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/14/78/371478af-4c92-ec40-2162-84ac590ee470/1f2bf80a-79d4-4178-8c97-1c2a65985e03_Plant_details_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/4e/6c/774e6c74-992f-cc26-91d3-c849596b5984/15d94572-19f6-43a1-a2dc-6ec5f2d307fb_Plant_database_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/e2/d6/a0e2d664-593b-920a-ff73-8c4ddd69fe3e/51d44899-67b8-41ea-8851-8f8f8815c29a_Identification_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/71/01/b6710151-191e-aa28-69c8-126afdec834e/d31e14af-284f-4479-b528-8cef489292ee_Explore_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/3a/cb/6c3acb0f-cab8-2c34-3b70-f96b411ff1f4/5c4ae2e0-b007-45eb-8a8e-d19137ff2526_Community_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "Moovit",
+      "version": "5.193.0",
+      "versionDate": "2026-06-02",
+      "size": 101699935,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.tranzmate.tranzmate1_Moovit_5.193.0.ipa",
+      "developerName": "Moovit App Global LTD",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/02/6e/63026edf-eed1-2f9f-a96b-64953a25a59a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMoovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.193.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f9/4f/02f94f76-571c-93f5-6110-a0a3972b225e/mzl.upvezpae.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/16/ef/5316efcb-e0be-f62b-e188-4e55afd92bd2/mzl.mvtlndfz.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/3c/04/0f3c049e-9b00-2de4-b27b-9d052773a7a4/mzl.jjmfrmui.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/69/4f/b7694f38-8a7e-c3da-e573-c49021b8734d/mzl.ucjfykre.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/f7/db/91f7db52-35fc-ae95-308d-dcf5d55d2065/mzl.supxeqsq.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/9f/80/b69f808d-556d-3d21-a95e-f3dea361588c/mzl.bmtixkgh.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/a6/e0/e3a6e0ac-6e3e-dc76-645d-bf25b551154b/mzl.kvlhdvoc.jpg/1320x2868bb.jpg"
+      ],
+      "tintColor": "#5C7AEA"
+    },
+    {
+      "name": "FTStore Manager",
+      "version": "1.0",
+      "versionDate": "2026-06-02",
+      "size": 13808083,
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/app.ftstore.manager_1.0.ipa",
+      "developerName": "Unknown Developer",
+      "bundleIdentifier": "app.ftstore.manager",
+      "iconURL": "",
+      "localizedDescription": "from github:Felitendo/FTStore-Manager (dev) |\n----------------\nRolling development build of FTStore Manager from the latest `main` commit (43959b965063eb8321874e782a5a673aefc5226f). FTStore Manager installs and updates FTStore on-device. Unsigned — sign it on-device at install (e.g. with your own certificate).",
+      "screenshotURLs": [],
+      "tintColor": "#5C7AEA"
+    },
+    {
       "name": "MD Clock",
       "version": "2.69",
       "versionDate": "2026-06-02",
@@ -820,19 +888,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/82/2a/72822af9-0d8e-3405-014d-a46e7a8667e9/iPad_3rd_v2_-_iPad_-_58.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/42/f8/4942f8fb-e3d6-fef8-d566-55b3c7dd5801/iPad_3rd_v2_-_iPad_-_59.jpg/1320x2868bb.jpg"
       ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "Clear Minds Hypnotherapy",
-      "version": "80.0.22",
-      "versionDate": "2026-06-01",
-      "size": 96871148,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.clearmindshypnotherapy.app_Sideloadbypass2_80.0.22.ipa",
-      "developerName": "Pure Clear Minds LTD",
-      "bundleIdentifier": "com.clearmindshypnotherapy.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/b9/e7/44b9e756-eb11-27ad-0384-bba725413f9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nClear Minds - Hypnotherapy\n\nTweak: Subscription Unlocked\n\nVersion: 80.0.22\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.clearmindshypnotherapy.app\nDeveloper: Pure Clear Minds LTD",
-      "screenshotURLs": [],
       "tintColor": "#5C7AEA"
     },
     {
@@ -7402,27 +7457,6 @@
       "tintColor": "#5C7AEA"
     },
     {
-      "name": "Moovit",
-      "version": "5.192.1",
-      "versionDate": "2026-05-21",
-      "size": 107697134,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-05-21/com.tranzmate.tranzmate1_Moovit_5.192.1.ipa",
-      "developerName": "Moovit App Global LTD",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/02/6e/63026edf-eed1-2f9f-a96b-64953a25a59a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMoovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.192.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f9/4f/02f94f76-571c-93f5-6110-a0a3972b225e/mzl.upvezpae.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/16/ef/5316efcb-e0be-f62b-e188-4e55afd92bd2/mzl.mvtlndfz.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/3c/04/0f3c049e-9b00-2de4-b27b-9d052773a7a4/mzl.jjmfrmui.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/69/4f/b7694f38-8a7e-c3da-e573-c49021b8734d/mzl.ucjfykre.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/f7/db/91f7db52-35fc-ae95-308d-dcf5d55d2065/mzl.supxeqsq.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/9f/80/b69f808d-556d-3d21-a95e-f3dea361588c/mzl.bmtixkgh.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/a6/e0/e3a6e0ac-6e3e-dc76-645d-bf25b551154b/mzl.kvlhdvoc.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
       "name": "ProCCD",
       "version": "6.0.1",
       "versionDate": "2026-05-20",
@@ -10151,27 +10185,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/3e/0a/843e0aa4-1a27-4756-34ef-a2737bb69da7/b2a79f8f-c127-44fa-889e-3be3262d638b_Appstore_55_05.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/72/cf/8a/72cf8a84-8174-d3da-3253-bc6bdaf10237/e4573f30-47ba-4185-9807-8850b71f83f5_Appstore_55_06.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/ce/ee/b8ceee24-d35c-5c99-28ce-0558af82f37e/488c415e-43eb-4150-a8a9-df60e15572de_Appstore_55_07.jpg/1320x2868bb.jpg"
-      ],
-      "tintColor": "#5C7AEA"
-    },
-    {
-      "name": "PlantSnap",
-      "version": "7.6.5",
-      "versionDate": "2026-04-16",
-      "size": 57352627,
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-16/net.plantsnap.freemium_AutoRc_7.6.5.ipa",
-      "developerName": "PlantSnap, Inc.",
-      "bundleIdentifier": "net.plantsnap.freemium",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/9a/bd/629abd65-c755-a391-80dd-d28a04aa1833/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPlantSnap - identify plants\n\nPremium features unlocked\n\nTweak made by Chocolate Fluffy\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/c8/e4/44c8e428-cd3e-de75-3cf2-96c44332db89/5affcb05-47ec-47bf-b10d-3c65e0b9234c_Plant_diary_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/7d/c3/897dc30c-f0fa-bb6b-36e1-e088fc52d4eb/0d1d9b92-2fd5-4c00-88de-6ac5305baf47_My_garden_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/56/24/ed5624ec-1561-a308-2429-3fc3c19c4014/1f2bf80a-79d4-4178-8c97-1c2a65985e03_Plant_details_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ce/6f/51ce6f75-2f0e-77ec-89d7-4a059725a9ea/15d94572-19f6-43a1-a2dc-6ec5f2d307fb_Plant_database_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/83/2a/7e832a28-038c-b4be-c5ac-0f03d99346e6/51d44899-67b8-41ea-8851-8f8f8815c29a_Identification_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/f7/4b/1cf74b51-8dc3-42b0-9920-686ab5eae521/d31e14af-284f-4479-b528-8cef489292ee_Explore_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/d5/ff/0fd5fffd-054f-61ad-70ee-6ef13565b42d/5c4ae2e0-b007-45eb-8a8e-d19137ff2526_Community_-_iPhone_8__U00285.5__U0029.png/1320x2868bb.png"
       ],
       "tintColor": "#5C7AEA"
     },
