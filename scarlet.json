@@ -5,6 +5,73 @@
   },
   "data": [
     {
+      "name": "MD Clock",
+      "version": "2.69",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDClock_MDClock_2.69.ipa",
+      "category": "Tweaked",
+      "bundleID": "tech.miidii.MDClock",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/d8/10/c4d8105f-b1d3-f3f3-ceda-5efd67f20c9f/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.69\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "MD Studio",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/56/38/21563844-609f-98f9-41cb-9993b2495eb8/8e2ce13d-e38e-4aca-a3a1-2ac8db4fcd51__U82f1_U6587_5.5-2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/15/92/50159265-503b-0aba-9095-ac78304f3742/2b2924bb-9864-47a7-9d60-d70ca0ef396e_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/01/07/10010748-9ab5-e433-037e-abd5c9c48eac/9438bf5c-1d1b-420a-b849-723aecd02617_0.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a6/58/94a6580e-9af0-3f81-59c4-56abc185cafa/4aedb135-adc2-457b-8f8b-472dba16aa37_1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/e7/db/22e7db83-5c62-540c-1921-00e31532518e/969492a3-e8a5-466f-92c6-b15f262b75b3_2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/d8/b7/acd8b727-627a-dc90-f177-9a03b4e1a6d1/cd5775c8-ff9b-4012-b869-1cf413dabaf9_5.5.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/49/e1/a449e142-fc1a-b10a-ce9b-98da977dce72/ab1b0065-19a1-4d78-a68a-14ddf3e94452_3.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/bd/7b/32bd7bb3-68d1-c36b-cd1c-723074c837b8/6788d411-9998-4bcb-b785-596290970425_6.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/09/31/bf093188-5265-0055-8e58-01242a96ba09/2e430b3e-4785-4ebb-8596-b7a8275e2028_4.png/1320x2868bb.png"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": "BAM!",
+      "version": "2.30",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.optiflow.imposter_Sideloadbypass2_2.30.ipa",
+      "category": "Tweaked",
+      "bundleID": "com.optiflow.imposter",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/80/b4/b480b4c7-73c1-d956-9d2f-12b9f4414250/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.30\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
+      "developer": "Red Ocean Apps",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/3b/a3/153ba3de-fe99-e8c6-a53e-95e7ea9ede14/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
+      ],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
+      "name": " ",
+      "version": "4.0.2",
+      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDBlank_MDWidgets_4.0.2.ipa",
+      "category": "Tweaked",
+      "bundleID": "tech.miidii.MDBlank",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ed/f1/26edf138-a41b-0685-47c7-2620b2a1e56e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "description": "from @blatants |\n----------------\nMD Widgets: Live Wallpaper\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 4.0.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "developer": "MD Studio",
+      "screenshots": [],
+      "accentColor": {
+        "light": {
+          "red": 0.361,
+          "green": 0.478,
+          "blue": 0.918
+        }
+      }
+    },
+    {
       "name": "Apollo",
       "version": "3.0.0",
       "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.christianselig.Apollo_libFLEX_3.0.0.ipa",
@@ -1354,26 +1421,6 @@
       "description": "from @riftysipalibrary |\n----------------\nImposter - Party Word Game\n\nTweak: Premium Unlocked\n\nVersion: 4.2.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 12.0\nBundle ID: at.vucak.impostor\nDeveloper: Sven Vucak",
       "developer": "Sven Vucak",
       "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "BAM!",
-      "version": "2.29",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.optiflow.imposter_Sideloadbypass2_2.29.ipa",
-      "category": "Tweaked",
-      "bundleID": "com.optiflow.imposter",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/80/b4/b480b4c7-73c1-d956-9d2f-12b9f4414250/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "description": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.29\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
-      "developer": "Red Ocean Apps",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/3b/a3/153ba3de-fe99-e8c6-a53e-95e7ea9ede14/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
-      ],
       "accentColor": {
         "light": {
           "red": 0.361,
@@ -6409,24 +6456,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/31/5a/0f315a96-dad6-7d2c-e168-64cac49b5ab7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "description": "from @blatants |\n----------------\nElevate - Brain Training Games\n\n• Bundle ID: com.elevateapp.elevate\n• Updated to: 5.241.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "developer": "The Mind Company",
-      "screenshots": [],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": " ",
-      "version": "4.0.1",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/tech.miidii.MDBlank_MDWidgets_4.0.1.ipa",
-      "category": "Tweaked",
-      "bundleID": "tech.miidii.MDBlank",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ed/f1/26edf138-a41b-0685-47c7-2620b2a1e56e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nMD Widgets: Live Wallpaper\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 4.0.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "MD Studio",
       "screenshots": [],
       "accentColor": {
         "light": {
@@ -11579,35 +11608,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fb/4c/1f/fb4c1f9d-76cb-c2b1-a72e-a0b8cf78a6f3/pr_source.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2f/65/09/2f650942-155c-9d7f-4831-a25f2ed79e47/pr_source.jpg/1320x2868bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9c/cb/b7/9ccbb76d-d402-cef7-7162-f200a5a5f6ef/pr_source.jpg/1320x2868bb.jpg"
-      ],
-      "accentColor": {
-        "light": {
-          "red": 0.361,
-          "green": 0.478,
-          "blue": 0.918
-        }
-      }
-    },
-    {
-      "name": "MD Clock",
-      "version": "2.67.4",
-      "down": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/tech.miidii.MDClock_MDClock_2.67.4.ipa",
-      "category": "Tweaked",
-      "bundleID": "tech.miidii.MDClock",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/e9/5b/e2e95b37-54ff-d052-da04-ece7a24080b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "description": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "developer": "MD Studio",
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/56/38/21563844-609f-98f9-41cb-9993b2495eb8/8e2ce13d-e38e-4aca-a3a1-2ac8db4fcd51__U82f1_U6587_5.5-2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/15/92/50159265-503b-0aba-9095-ac78304f3742/2b2924bb-9864-47a7-9d60-d70ca0ef396e_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/01/07/10010748-9ab5-e433-037e-abd5c9c48eac/9438bf5c-1d1b-420a-b849-723aecd02617_0.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a6/58/94a6580e-9af0-3f81-59c4-56abc185cafa/4aedb135-adc2-457b-8f8b-472dba16aa37_1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/e7/db/22e7db83-5c62-540c-1921-00e31532518e/969492a3-e8a5-466f-92c6-b15f262b75b3_2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/d8/b7/acd8b727-627a-dc90-f177-9a03b4e1a6d1/cd5775c8-ff9b-4012-b869-1cf413dabaf9_5.5.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/49/e1/a449e142-fc1a-b10a-ce9b-98da977dce72/ab1b0065-19a1-4d78-a68a-14ddf3e94452_3.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/bd/7b/32bd7bb3-68d1-c36b-cd1c-723074c837b8/6788d411-9998-4bcb-b785-596290970425_6.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/09/31/bf093188-5265-0055-8e58-01242a96ba09/2e430b3e-4785-4ebb-8596-b7a8275e2028_4.png/1320x2868bb.png"
       ],
       "accentColor": {
         "light": {
