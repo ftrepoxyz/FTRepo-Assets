@@ -22431,6 +22431,40 @@
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/app.uplens_uplens_4.0.3.ipa"
     },
     {
+      "name": " ",
+      "bundleIdentifier": "tech.miidii.MDBlank",
+      "developerName": "MD Studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ed/f1/26edf138-a41b-0685-47c7-2620b2a1e56e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMD Widgets: Live Wallpaper\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 4.0.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.0.2",
+          "date": "2026-06-02",
+          "size": 166179019,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDBlank_MDWidgets_4.0.2.ipa"
+        },
+        {
+          "version": "4.0.1",
+          "date": "2026-06-01",
+          "size": 194656435,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/tech.miidii.MDBlank_MDWidgets_4.0.1.ipa"
+        },
+        {
+          "version": "4.0.0",
+          "date": "2026-06-01",
+          "size": 193431743,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/tech.miidii.MDBlank_MDWidgets_4.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.0.2",
+      "versionDate": "2026-06-02T03:25:53.389Z",
+      "size": 166179019,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDBlank_MDWidgets_4.0.2.ipa"
+    },
+    {
       "name": "VDIT",
       "bundleIdentifier": "me.imgbase.videoday",
       "developerName": "ImgBase, Inc.",
@@ -22695,40 +22729,6 @@
       "versionDate": "2026-06-01T12:48:02.053Z",
       "size": 29943309,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.codeway.AIKeyboard_TypeAi_4.0.1.ipa"
-    },
-    {
-      "name": " ",
-      "bundleIdentifier": "tech.miidii.MDBlank",
-      "developerName": "MD Studio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ed/f1/26edf138-a41b-0685-47c7-2620b2a1e56e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Widgets: Live Wallpaper\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 4.0.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.0.1",
-          "date": "2026-06-01",
-          "size": 194656435,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/tech.miidii.MDBlank_MDWidgets_4.0.1.ipa"
-        },
-        {
-          "version": "4.0.0",
-          "date": "2026-06-01",
-          "size": 193431743,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/tech.miidii.MDBlank_MDWidgets_4.0.0.ipa"
-        },
-        {
-          "version": "3.12.1",
-          "date": "2026-03-18",
-          "size": 178893163,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-18/tech.miidii.MDBlank_MDWidgets_3.12.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.0.1",
-      "versionDate": "2026-06-01T12:47:55.086Z",
-      "size": 194656435,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/tech.miidii.MDBlank_MDWidgets_4.0.1.ipa"
     },
     {
       "name": "MetadataEditor",
@@ -27696,8 +27696,8 @@
       "name": "MD Clock",
       "bundleIdentifier": "tech.miidii.MDClock",
       "developerName": "MD Studio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/e9/5b/e2e95b37-54ff-d052-da04-ece7a24080b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.67.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/d8/10/c4d8105f-b1d3-f3f3-ceda-5efd67f20c9f/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.69\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg"
@@ -27744,6 +27744,12 @@
       ],
       "versions": [
         {
+          "version": "2.69",
+          "date": "2026-06-02",
+          "size": 196785110,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDClock_MDClock_2.69.ipa"
+        },
+        {
           "version": "2.67.4",
           "date": "2026-04-28",
           "size": 316342725,
@@ -27754,19 +27760,13 @@
           "date": "2026-04-26",
           "size": 316350218,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-26/tech.miidii.MDClock_MDClock_2.67.3.ipa"
-        },
-        {
-          "version": "2.67.2",
-          "date": "2026-04-18",
-          "size": 316433480,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/tech.miidii.MDClock_MDClock_2.67.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.67.4",
-      "versionDate": "2026-04-28T04:39:23.030Z",
-      "size": 316342725,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-28/tech.miidii.MDClock_MDClock_2.67.4.ipa"
+      "version": "2.69",
+      "versionDate": "2026-06-02T06:25:56.917Z",
+      "size": 196785110,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDClock_MDClock_2.69.ipa"
     },
     {
       "name": "Lingvist",
@@ -28577,7 +28577,7 @@
       "bundleIdentifier": "com.optiflow.imposter",
       "developerName": "Red Ocean Apps",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/80/b4/b480b4c7-73c1-d956-9d2f-12b9f4414250/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.29\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nImposter & Party Games - BAM!\n\nTweak: Plus Unlocked\n\nVersion: 2.30\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.optiflow.imposter\nDeveloper: Red Ocean Apps",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/3b/a3/153ba3de-fe99-e8c6-a53e-95e7ea9ede14/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
@@ -28587,6 +28587,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/3b/a3/153ba3de-fe99-e8c6-a53e-95e7ea9ede14/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-10-15_at_14.01.09.png/1320x2868bb.jpg"
       ],
       "versions": [
+        {
+          "version": "2.30",
+          "date": "2026-06-02",
+          "size": 115372900,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.optiflow.imposter_Sideloadbypass2_2.30.ipa"
+        },
         {
           "version": "2.29",
           "date": "2026-06-01",
@@ -28598,19 +28604,13 @@
           "date": "2026-04-18",
           "size": 114295842,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-04-18/com.optiflow.imposter_Sideloadbypass2_2.27.ipa"
-        },
-        {
-          "version": "2.24.1",
-          "date": "2026-03-22",
-          "size": 100777589,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-03-22/com.optiflow.imposter_Sideloadbypass2_2.24.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.29",
-      "versionDate": "2026-06-01T15:29:34.959Z",
-      "size": 119693064,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-01/com.optiflow.imposter_Sideloadbypass2_2.29.ipa"
+      "version": "2.30",
+      "versionDate": "2026-06-02T03:26:22.429Z",
+      "size": 115372900,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.optiflow.imposter_Sideloadbypass2_2.30.ipa"
     },
     {
       "name": "1 2 3 4 Player Games",
