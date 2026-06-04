@@ -834,9 +834,9 @@
       "versions": [
         {
           "version": "563.0.0",
-          "date": "2026-06-02",
+          "date": "2026-06-04",
           "size": 188549431,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.facebook.Facebook_Glow_563.0.0.ipa"
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.facebook.Facebook_Glow_563.0.0.ipa"
         },
         {
           "version": "561.0.0",
@@ -847,9 +847,9 @@
       ],
       "appPermissions": {},
       "version": "563.0.0",
-      "versionDate": "2026-06-02T15:32:02.715Z",
+      "versionDate": "2026-06-04T20:07:08.835Z",
       "size": 188549431,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.facebook.Facebook_Glow_563.0.0.ipa",
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.facebook.Facebook_Glow_563.0.0.ipa",
       "recommended": false
     },
     {
@@ -2629,6 +2629,41 @@
       "recommended": false
     },
     {
+      "name": "‎WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "WhatsApp Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/08/3a/a9083a9f-ceb3-76c6-5e76-dc166cfd5f58/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @glesign |\n----------------\nWhatsApp v26.22.10 | WGold v2.0\n\n🇷🇺 Современная модификация для WhatsApp\n— Приложение из TestFlight\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted\n\n🇺🇸 Modern modification for WhatsApp\n— The app from TestFlight\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "26.22.10",
+          "date": "2026-06-04",
+          "size": 141511713,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/net.whatsapp.WhatsApp_BlockWAUpdates_26.22.10.ipa"
+        },
+        {
+          "version": "26.18.10",
+          "date": "2026-06-02",
+          "size": 138860799,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/net.whatsapp.WhatsApp_BlockWAUpdates_26.18.10.ipa"
+        },
+        {
+          "version": "26.16.10",
+          "date": "2026-06-03",
+          "size": 133671329,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/net.whatsapp.WhatsApp_BlockWAUpdates_26.16.10.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.22.10",
+      "versionDate": "2026-06-04T20:07:26.812Z",
+      "size": 141511713,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/net.whatsapp.WhatsApp_BlockWAUpdates_26.22.10.ipa",
+      "recommended": false
+    },
+    {
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
@@ -3041,41 +3076,6 @@
       "versionDate": "2026-06-03T10:23:58.117Z",
       "size": 120770203,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/es.monkimun.lingokids_LingoKidsPatch_26.21.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "‎WhatsApp",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "WhatsApp Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/2d/dd/b32dddda-be73-1001-0d43-48e1d9885b3b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @glesign |\n----------------\nWhatsApp v26.18.10 | WGold v2.0\n\n🇷🇺 Современная модификация для WhatsApp\n— Приложение из TestFlight\n— в приложение есть полная поддержка iPad\n— рекомендовано исполользовать как Связанное устройство\n— видео-туториал: t.me/glesign_chat/31951\n© Создано: iOSDecrypted\n\n🇺🇸 Modern modification for WhatsApp\n— The app from TestFlight\n— the app has full iPad support\n— it is recommended to use as Linked Device\n— video tutorial: t.me/glesign_chat/31954\n© Created by: iOSDecrypted",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "26.18.10",
-          "date": "2026-06-02",
-          "size": 138860799,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/net.whatsapp.WhatsApp_BlockWAUpdates_26.18.10.ipa"
-        },
-        {
-          "version": "26.16.10",
-          "date": "2026-06-03",
-          "size": 133671329,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/net.whatsapp.WhatsApp_BlockWAUpdates_26.16.10.ipa"
-        },
-        {
-          "version": "25.33.10",
-          "date": "2026-06-02",
-          "size": 119851702,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/net.whatsapp.WhatsApp_libsubstrate_25.33.10.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.18.10",
-      "versionDate": "2026-06-02T15:52:15.716Z",
-      "size": 138860799,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/net.whatsapp.WhatsApp_BlockWAUpdates_26.18.10.ipa",
       "recommended": false
     },
     {
