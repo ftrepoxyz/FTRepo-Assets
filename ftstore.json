@@ -12689,11 +12689,17 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/cf/38/01cf389b-010a-53f8-d458-a7882a519b15/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.10\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/d7/ce/f8d7ced2-6ae7-0393-4633-3a3e8b81d06a/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.11\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "6.11",
+          "date": "2026-06-05",
+          "size": 101966552,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.sfun.snapedit_SnapEdit_6.11.ipa"
+        },
         {
           "version": "6.10",
           "date": "2026-06-04",
@@ -12705,19 +12711,13 @@
           "date": "2026-06-02",
           "size": 105212868,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.sfun.snapedit_Sideloadbypass2_6.9.ipa"
-        },
-        {
-          "version": "6.8",
-          "date": "2026-06-03",
-          "size": 100956235,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.sfun.snapedit_SnapEdit_6.8.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.10",
-      "versionDate": "2026-06-04T03:27:15.806Z",
-      "size": 101951339,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.sfun.snapedit_SnapEdit_6.10.ipa",
+      "version": "6.11",
+      "versionDate": "2026-06-05T18:12:55.377Z",
+      "size": 101966552,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.sfun.snapedit_SnapEdit_6.11.ipa",
       "recommended": false
     },
     {
@@ -15572,6 +15572,107 @@
       "recommended": false
     },
     {
+      "name": "Animock",
+      "bundleIdentifier": "com.hassantaleb.mockup",
+      "developerName": "Hassan Taleb",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2c/01/012c01dc-46aa-201d-d172-accc0cac3675/Animock-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAnimock: 3D Mockup Animator\n\n• Bundle ID: com.hassantaleb.mockup\n• Updated to: 5.6\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nClick \"Restore Purchase\" if pro isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/45/5a/e0455a01-55cf-faa9-7404-e4b03fa8582c/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.36.57.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/c8/9a/4ec89a8d-9c90-ef4f-0c73-8edf88b916fe/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.45.06.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/48/d2/7948d2c3-1ee4-1585-d3eb-6b1b9be53993/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.56.56.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/c3/a4/90c3a49a-fcbd-6622-e8c8-ef06cb3991c2/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.53.29.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/e6/87/70e687f1-3b62-c29b-801b-4e21bee353d6/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.50.40.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/4a/9a/804a9af1-4146-5006-e3cf-daacb1d25530/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_09.02.20.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/ff/9f/f2ff9ff6-6c5f-ac66-9f83-531eb3633eab/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-23_at_14.33.32.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/df/47/ebdf4791-c152-9c2f-9039-e4f03790d101/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-10_at_10.14.24.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/e8/06/26e806a1-9d36-3c57-0baa-8049a6c2f282/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.05.19.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/ee/c0/13eec0d3-67b5-008c-a4b5-108fabe09192/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.09.02.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/11/6f/b5116f4a-330c-9cec-cba4-b217ad3877d0/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.12.38.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/e9/1b/0ae91b3e-c4ee-e1d4-29b0-6870181864a4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.18.12.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/8e/a1/348ea1e7-071a-4729-3027-ad97131bac72/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.21.51.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/ec/ce/05ecce9f-65b6-a745-88ff-408df959fac3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.23.53.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/9b/b9/c89bb929-30d2-6adc-4047-84f58fd80102/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-09-23_at_14.40.32.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/54/4d/31544d3d-8fc1-4f08-b3b3-b91582bd9d46/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-10_at_10.15.59.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/45/5a/e0455a01-55cf-faa9-7404-e4b03fa8582c/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.36.57.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/c8/9a/4ec89a8d-9c90-ef4f-0c73-8edf88b916fe/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.45.06.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/48/d2/7948d2c3-1ee4-1585-d3eb-6b1b9be53993/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.56.56.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/c3/a4/90c3a49a-fcbd-6622-e8c8-ef06cb3991c2/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.53.29.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/e6/87/70e687f1-3b62-c29b-801b-4e21bee353d6/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.50.40.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/4a/9a/804a9af1-4146-5006-e3cf-daacb1d25530/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_09.02.20.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/ff/9f/f2ff9ff6-6c5f-ac66-9f83-531eb3633eab/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-23_at_14.33.32.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/df/47/ebdf4791-c152-9c2f-9039-e4f03790d101/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-10_at_10.14.24.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/e8/06/26e806a1-9d36-3c57-0baa-8049a6c2f282/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.05.19.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/ee/c0/13eec0d3-67b5-008c-a4b5-108fabe09192/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.09.02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/11/6f/b5116f4a-330c-9cec-cba4-b217ad3877d0/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.12.38.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/e9/1b/0ae91b3e-c4ee-e1d4-29b0-6870181864a4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.18.12.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/8e/a1/348ea1e7-071a-4729-3027-ad97131bac72/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.21.51.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/ec/ce/05ecce9f-65b6-a745-88ff-408df959fac3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.23.53.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/9b/b9/c89bb929-30d2-6adc-4047-84f58fd80102/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-09-23_at_14.40.32.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/54/4d/31544d3d-8fc1-4f08-b3b3-b91582bd9d46/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-10_at_10.15.59.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.6",
+          "date": "2026-06-05",
+          "size": 115403942,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.hassantaleb.mockup_Animock_5.6.ipa"
+        },
+        {
+          "version": "5.5",
+          "date": "2026-06-02",
+          "size": 113578817,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.hassantaleb.mockup_Animock_5.5.ipa"
+        },
+        {
+          "version": "5.4",
+          "date": "2026-06-04",
+          "size": 107184116,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.hassantaleb.mockup_Animock_5.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.6",
+      "versionDate": "2026-06-05T21:13:03.321Z",
+      "size": 115403942,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.hassantaleb.mockup_Animock_5.6.ipa",
+      "recommended": false
+    },
+    {
       "name": "OS Maps",
       "bundleIdentifier": "uk.os.osmaps",
       "developerName": "Ordnance Survey",
@@ -15970,107 +16071,6 @@
       "versionDate": "2026-06-03T12:32:01.410Z",
       "size": 237873447,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/cameronnazemi.Tappy_Sideloadbypass2_5.5.1.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Animock",
-      "bundleIdentifier": "com.hassantaleb.mockup",
-      "developerName": "Hassan Taleb",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2c/01/012c01dc-46aa-201d-d172-accc0cac3675/Animock-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAnimock: 3D Mockup Animator\n\n• Bundle ID: com.hassantaleb.mockup\n• Updated to: 5.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nClick \"Restore Purchase\" if pro isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/45/5a/e0455a01-55cf-faa9-7404-e4b03fa8582c/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.36.57.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/c8/9a/4ec89a8d-9c90-ef4f-0c73-8edf88b916fe/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.45.06.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/48/d2/7948d2c3-1ee4-1585-d3eb-6b1b9be53993/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.56.56.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/c3/a4/90c3a49a-fcbd-6622-e8c8-ef06cb3991c2/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.53.29.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/e6/87/70e687f1-3b62-c29b-801b-4e21bee353d6/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.50.40.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/4a/9a/804a9af1-4146-5006-e3cf-daacb1d25530/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_09.02.20.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/ff/9f/f2ff9ff6-6c5f-ac66-9f83-531eb3633eab/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-23_at_14.33.32.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/df/47/ebdf4791-c152-9c2f-9039-e4f03790d101/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-10_at_10.14.24.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/e8/06/26e806a1-9d36-3c57-0baa-8049a6c2f282/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.05.19.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/ee/c0/13eec0d3-67b5-008c-a4b5-108fabe09192/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.09.02.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/11/6f/b5116f4a-330c-9cec-cba4-b217ad3877d0/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.12.38.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/e9/1b/0ae91b3e-c4ee-e1d4-29b0-6870181864a4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.18.12.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/8e/a1/348ea1e7-071a-4729-3027-ad97131bac72/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.21.51.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/ec/ce/05ecce9f-65b6-a745-88ff-408df959fac3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.23.53.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/9b/b9/c89bb929-30d2-6adc-4047-84f58fd80102/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-09-23_at_14.40.32.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/54/4d/31544d3d-8fc1-4f08-b3b3-b91582bd9d46/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-10_at_10.15.59.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/45/5a/e0455a01-55cf-faa9-7404-e4b03fa8582c/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.36.57.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/c8/9a/4ec89a8d-9c90-ef4f-0c73-8edf88b916fe/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.45.06.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/48/d2/7948d2c3-1ee4-1585-d3eb-6b1b9be53993/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.56.56.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/c3/a4/90c3a49a-fcbd-6622-e8c8-ef06cb3991c2/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.53.29.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/e6/87/70e687f1-3b62-c29b-801b-4e21bee353d6/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_08.50.40.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/4a/9a/804a9af1-4146-5006-e3cf-daacb1d25530/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_09.02.20.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/ff/9f/f2ff9ff6-6c5f-ac66-9f83-531eb3633eab/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-23_at_14.33.32.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/df/47/ebdf4791-c152-9c2f-9039-e4f03790d101/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-10_at_10.14.24.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/e8/06/26e806a1-9d36-3c57-0baa-8049a6c2f282/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.05.19.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/ee/c0/13eec0d3-67b5-008c-a4b5-108fabe09192/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.09.02.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/11/6f/b5116f4a-330c-9cec-cba4-b217ad3877d0/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.12.38.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/e9/1b/0ae91b3e-c4ee-e1d4-29b0-6870181864a4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.18.12.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/8e/a1/348ea1e7-071a-4729-3027-ad97131bac72/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.21.51.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/ec/ce/05ecce9f-65b6-a745-88ff-408df959fac3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_10.23.53.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/9b/b9/c89bb929-30d2-6adc-4047-84f58fd80102/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-09-23_at_14.40.32.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/54/4d/31544d3d-8fc1-4f08-b3b3-b91582bd9d46/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-10_at_10.15.59.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "5.5",
-          "date": "2026-06-02",
-          "size": 113578817,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.hassantaleb.mockup_Animock_5.5.ipa"
-        },
-        {
-          "version": "5.4",
-          "date": "2026-06-04",
-          "size": 107184116,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.hassantaleb.mockup_Animock_5.4.ipa"
-        },
-        {
-          "version": "5.3",
-          "date": "2026-06-05",
-          "size": 101861067,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.hassantaleb.mockup_Animock_5.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.5",
-      "versionDate": "2026-06-02T14:46:29.334Z",
-      "size": 113578817,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.hassantaleb.mockup_Animock_5.5.ipa",
       "recommended": false
     },
     {
@@ -32804,6 +32804,29 @@
       "recommended": false
     },
     {
+      "name": "FTStore Manager",
+      "bundleIdentifier": "app.ftstore.manager",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from github:Felitendo/FTStore-Manager (dev) |\n----------------\nRolling development build of FTStore Manager from the latest `main` commit (e6568749f7ecdde3f62ee0356a044f62dc440c54). FTStore Manager installs and updates FTStore on-device. Unsigned — sign it on-device at install (e.g. with your own certificate).",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-06-05",
+          "size": 14166027,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/app.ftstore.manager_1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0",
+      "versionDate": "2026-06-05T21:12:47.721Z",
+      "size": 14166027,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/app.ftstore.manager_1.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Amethyst",
       "bundleIdentifier": "org.angelauramc.amethyst",
       "developerName": "Unknown Developer",
@@ -32985,29 +33008,6 @@
       "versionDate": "2026-06-04T22:57:17.764Z",
       "size": 185516844,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.brainy.flashcard.studystack_1.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "FTStore Manager",
-      "bundleIdentifier": "app.ftstore.manager",
-      "developerName": "Unknown Developer",
-      "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from github:Felitendo/FTStore-Manager (dev) |\n----------------\nRolling development build of FTStore Manager from the latest `main` commit (ae8e111418d70324fb895850db7f9379511147e9). FTStore Manager installs and updates FTStore on-device. Unsigned — sign it on-device at install (e.g. with your own certificate).",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-06-03",
-          "size": 14165748,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/app.ftstore.manager_1.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.0",
-      "versionDate": "2026-06-03T15:27:07.554Z",
-      "size": 14165748,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/app.ftstore.manager_1.0.ipa",
       "recommended": false
     },
     {
