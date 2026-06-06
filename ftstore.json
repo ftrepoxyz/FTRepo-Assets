@@ -1932,7 +1932,7 @@
       "bundleIdentifier": "com.bpmhealth.boostfitness",
       "developerName": "BPM Health Co.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/cb/b4/2dcbb419-b912-df7c-1e43-f5f78d5e8f30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBoostcamp: Workout Programs\n\n• Bundle ID: com.bpmhealth.boostfitness\n• Updated to: 259\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBoostcamp: Workout Programs\n\n• Bundle ID: com.bpmhealth.boostfitness\n• Updated to: 260\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/1320x2868bb.png"
@@ -1963,6 +1963,12 @@
       ],
       "versions": [
         {
+          "version": "260",
+          "date": "2026-06-06",
+          "size": 80864505,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.bpmhealth.boostfitness_AutoRcSideload_260.ipa"
+        },
+        {
           "version": "259",
           "date": "2026-06-03",
           "size": 79897671,
@@ -1973,19 +1979,13 @@
           "date": "2026-06-04",
           "size": 79678711,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.bpmhealth.boostfitness_AutoRcSideload_258.ipa"
-        },
-        {
-          "version": "257",
-          "date": "2026-06-05",
-          "size": 78322696,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.bpmhealth.boostfitness_AutoRcSideload_257.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "259",
-      "versionDate": "2026-06-03T10:01:56.867Z",
-      "size": 79897671,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.bpmhealth.boostfitness_AutoRcSideload_259.ipa",
+      "version": "260",
+      "versionDate": "2026-06-06T04:07:15.391Z",
+      "size": 80864505,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.bpmhealth.boostfitness_AutoRcSideload_260.ipa",
       "recommended": false
     },
     {
@@ -15783,60 +15783,11 @@
       "recommended": false
     },
     {
-      "name": "Clarity",
-      "bundleIdentifier": "com.moodtools.thoughtdiary",
-      "developerName": "Inquiry Health LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/11/05/8b11052e-adef-2bcc-b346-9b72621d9e91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nClarity - CBT Thought Diary\n\nPro features unlocked\n\nTweak made by blatant\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/83/aca183f1-d602-5f78-3b38-58593a632ed3/bec62a60-9135-43e2-a01a-19096eb7eb3f_ipad3v2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/ee/bd6fee6d-22aa-bbdc-7203-d5fcac2b0dd8/c745c6d5-00b6-4c19-b0f7-5d2f24c5c5f6_ipad4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/c6/ae48c6e4-b733-3664-c5e7-e28ef0b212ef/3337e524-262b-4275-ba03-43ab4cf69b5c_ipad5v3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e1/05/dce1059c-1bfa-5730-7a10-c58ff6288217/simulator_screenshot_85EAE2C5-6E5B-46C8-B6B0-EEB34D037932.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/0b/c5/430bc5e8-e353-3790-f070-a4d256c10013/simulator_screenshot_394DD1D3-A428-4D68-9448-19CA9C810F0E.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/83/aca183f1-d602-5f78-3b38-58593a632ed3/bec62a60-9135-43e2-a01a-19096eb7eb3f_ipad3v2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/ee/bd6fee6d-22aa-bbdc-7203-d5fcac2b0dd8/c745c6d5-00b6-4c19-b0f7-5d2f24c5c5f6_ipad4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/c6/ae48c6e4-b733-3664-c5e7-e28ef0b212ef/3337e524-262b-4275-ba03-43ab4cf69b5c_ipad5v3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e1/05/dce1059c-1bfa-5730-7a10-c58ff6288217/simulator_screenshot_85EAE2C5-6E5B-46C8-B6B0-EEB34D037932.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/0b/c5/430bc5e8-e353-3790-f070-a4d256c10013/simulator_screenshot_394DD1D3-A428-4D68-9448-19CA9C810F0E.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "5.5.20",
-          "date": "2026-06-03",
-          "size": 178381523,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.moodtools.thoughtdiary_Clarity_5.5.20.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.5.20",
-      "versionDate": "2026-06-03T10:44:02.729Z",
-      "size": 178381523,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.moodtools.thoughtdiary_Clarity_5.5.20.ipa",
-      "recommended": false
-    },
-    {
       "name": "Detail",
       "bundleIdentifier": "co.detail.duo",
       "developerName": "Detail Technologies B.V.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/3e/89/0c3e8991-a51c-c3a9-bb54-bd418dc9f3f2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.20\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.21\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/e0/4a/fce04ae9-ab17-5b9d-d29e-6744fa60bfd2/EN_-_Screenshot_0.jpg/1320x2868bb.webp"
@@ -15931,6 +15882,12 @@
       ],
       "versions": [
         {
+          "version": "5.5.21",
+          "date": "2026-06-06",
+          "size": 192369956,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/co.detail.duo_Detail_5.5.21.ipa"
+        },
+        {
           "version": "5.5.20",
           "date": "2026-06-03",
           "size": 247274102,
@@ -15941,19 +15898,62 @@
           "date": "2026-06-05",
           "size": 183810378,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/co.detail.duo_Detail_5.5.19.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.5.21",
+      "versionDate": "2026-06-06T07:07:29.555Z",
+      "size": 192369956,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/co.detail.duo_Detail_5.5.21.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Clarity",
+      "bundleIdentifier": "com.moodtools.thoughtdiary",
+      "developerName": "Inquiry Health LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/11/05/8b11052e-adef-2bcc-b346-9b72621d9e91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nClarity - CBT Thought Diary\n\nPro features unlocked\n\nTweak made by blatant\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg"
         },
         {
-          "version": "5.5.18",
-          "date": "2026-06-05",
-          "size": 219595076,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/co.detail.duo_Sideloadbypass2_5.5.18.ipa"
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/83/aca183f1-d602-5f78-3b38-58593a632ed3/bec62a60-9135-43e2-a01a-19096eb7eb3f_ipad3v2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/ee/bd6fee6d-22aa-bbdc-7203-d5fcac2b0dd8/c745c6d5-00b6-4c19-b0f7-5d2f24c5c5f6_ipad4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/c6/ae48c6e4-b733-3664-c5e7-e28ef0b212ef/3337e524-262b-4275-ba03-43ab4cf69b5c_ipad5v3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e1/05/dce1059c-1bfa-5730-7a10-c58ff6288217/simulator_screenshot_85EAE2C5-6E5B-46C8-B6B0-EEB34D037932.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/0b/c5/430bc5e8-e353-3790-f070-a4d256c10013/simulator_screenshot_394DD1D3-A428-4D68-9448-19CA9C810F0E.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/83/aca183f1-d602-5f78-3b38-58593a632ed3/bec62a60-9135-43e2-a01a-19096eb7eb3f_ipad3v2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/ee/bd6fee6d-22aa-bbdc-7203-d5fcac2b0dd8/c745c6d5-00b6-4c19-b0f7-5d2f24c5c5f6_ipad4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/c6/ae48c6e4-b733-3664-c5e7-e28ef0b212ef/3337e524-262b-4275-ba03-43ab4cf69b5c_ipad5v3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e1/05/dce1059c-1bfa-5730-7a10-c58ff6288217/simulator_screenshot_85EAE2C5-6E5B-46C8-B6B0-EEB34D037932.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/0b/c5/430bc5e8-e353-3790-f070-a4d256c10013/simulator_screenshot_394DD1D3-A428-4D68-9448-19CA9C810F0E.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.5.20",
+          "date": "2026-06-03",
+          "size": 178381523,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.moodtools.thoughtdiary_Clarity_5.5.20.ipa"
         }
       ],
       "appPermissions": {},
       "version": "5.5.20",
-      "versionDate": "2026-06-03T09:37:13.894Z",
-      "size": 247274102,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/co.detail.duo_Detail_5.5.20.ipa",
+      "versionDate": "2026-06-03T10:44:02.729Z",
+      "size": 178381523,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.moodtools.thoughtdiary_Clarity_5.5.20.ipa",
       "recommended": false
     },
     {
