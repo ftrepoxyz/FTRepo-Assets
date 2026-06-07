@@ -21535,7 +21535,7 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.9.8\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 3.9.9\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg"
@@ -21582,6 +21582,12 @@
       ],
       "versions": [
         {
+          "version": "3.9.9",
+          "date": "2026-06-07",
+          "size": 138012229,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.wellocution.iosapp_BoldVoice_3.9.9.ipa"
+        },
+        {
           "version": "3.9.8",
           "date": "2026-06-02",
           "size": 146912295,
@@ -21592,19 +21598,13 @@
           "date": "2026-06-03",
           "size": 146411561,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.wellocution.iosapp_BoldVoice_3.9.7.ipa"
-        },
-        {
-          "version": "3.9.6",
-          "date": "2026-06-04",
-          "size": 146342268,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.wellocution.iosapp_BoldVoice_3.9.6.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.9.8",
-      "versionDate": "2026-06-02T14:57:43.170Z",
-      "size": 146912295,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.wellocution.iosapp_BoldVoice_3.9.8.ipa",
+      "version": "3.9.9",
+      "versionDate": "2026-06-07T01:07:43.817Z",
+      "size": 138012229,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.wellocution.iosapp_BoldVoice_3.9.9.ipa",
       "recommended": false
     },
     {
@@ -22472,34 +22472,11 @@
       "recommended": false
     },
     {
-      "name": "inflow",
-      "bundleIdentifier": "com.inflow.app",
-      "developerName": "Get Inflow Ltd.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d5/99/8dd59918-64b9-3175-c6a1-6da91291a470/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nInflow - Manage your ADHD\n\nTweak: Subscription Unlocked\n\nVersion: 3.2.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.inflow.app\nDeveloper: Get Inflow Ltd.",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "3.2.7",
-          "date": "2026-06-03",
-          "size": 42905098,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.inflow.app_Sideloadbypass2_3.2.7.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.2.7",
-      "versionDate": "2026-06-03T12:30:03.064Z",
-      "size": 42905098,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.inflow.app_Sideloadbypass2_3.2.7.ipa",
-      "recommended": false
-    },
-    {
       "name": "MoneyCircle",
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.2.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoneyCircle: Spending,Expense\n\nTweak: Premium Unlocked\n\nVersion: 3.2.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.genau.MoneyCircle\nDeveloper: Genau Factory",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/c1/44/ecc14476-f47c-191d-d809-690b50fe7f8b/MC-ipad-1.png/1320x2868bb.jpg"
@@ -22526,6 +22503,12 @@
       ],
       "versions": [
         {
+          "version": "3.2.9",
+          "date": "2026-06-07",
+          "size": 12498680,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.genau.MoneyCircle_Sideloadbypass2_3.2.9.ipa"
+        },
+        {
           "version": "3.2.7",
           "date": "2026-06-02",
           "size": 13924129,
@@ -22536,19 +22519,36 @@
           "date": "2026-06-02",
           "size": 13918163,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.genau.MoneyCircle_Sideloadbypass2_3.2.6.ipa"
-        },
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.2.9",
+      "versionDate": "2026-06-07T01:07:48.794Z",
+      "size": 12498680,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.genau.MoneyCircle_Sideloadbypass2_3.2.9.ipa",
+      "recommended": false
+    },
+    {
+      "name": "inflow",
+      "bundleIdentifier": "com.inflow.app",
+      "developerName": "Get Inflow Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d5/99/8dd59918-64b9-3175-c6a1-6da91291a470/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nInflow - Manage your ADHD\n\nTweak: Subscription Unlocked\n\nVersion: 3.2.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.6\nBundle ID: com.inflow.app\nDeveloper: Get Inflow Ltd.",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
         {
-          "version": "3.2.5",
+          "version": "3.2.7",
           "date": "2026-06-03",
-          "size": 13906043,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.genau.MoneyCircle_Sideloadbypass2_3.2.5.ipa"
+          "size": 42905098,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.inflow.app_Sideloadbypass2_3.2.7.ipa"
         }
       ],
       "appPermissions": {},
       "version": "3.2.7",
-      "versionDate": "2026-06-02T17:24:16.336Z",
-      "size": 13924129,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.genau.MoneyCircle_Sideloadbypass2_3.2.7.ipa",
+      "versionDate": "2026-06-03T12:30:03.064Z",
+      "size": 42905098,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.inflow.app_Sideloadbypass2_3.2.7.ipa",
       "recommended": false
     },
     {
@@ -22882,6 +22882,71 @@
       "recommended": false
     },
     {
+      "name": "Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nApollo-Reborn Liquid Glass\n\nPlease carefully read the tutorial that appears when you open the app\n\nTweak changelog\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "3.1.1",
+          "date": "2026-06-06",
+          "size": 138064637,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.christianselig.Apollo_ApolloOpenInFix_3.1.1.ipa"
+        },
+        {
+          "version": "3.1.0",
+          "date": "2026-06-05",
+          "size": 138061108,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.christianselig.Apollo_ApolloOpenInFix_3.1.0.ipa"
+        },
+        {
+          "version": "3.0.0",
+          "date": "2026-06-03",
+          "size": 137808818,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.christianselig.Apollo_ApolloReborn_3.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.1.1",
+      "versionDate": "2026-06-06T22:08:08.042Z",
+      "size": 138064637,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.christianselig.Apollo_ApolloOpenInFix_3.1.1.ipa",
+      "recommended": false
+    },
+    {
       "name": "Lungy",
       "bundleIdentifier": "com.pia.lungy",
       "developerName": "Pi-A",
@@ -22968,71 +23033,6 @@
       "versionDate": "2026-06-02T17:41:09.856Z",
       "size": 237603285,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.pia.lungy_Sideloadbypass2_3.1.1.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Apollo",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "Christian Selig",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nApollo-Reborn\n\nPlease carefully read the tutorial that appears when you open the app\n\nTweak changelog\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "3.1.0",
-          "date": "2026-06-05",
-          "size": 138061108,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.christianselig.Apollo_ApolloOpenInFix_3.1.0.ipa"
-        },
-        {
-          "version": "3.0.0",
-          "date": "2026-06-03",
-          "size": 137808818,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.christianselig.Apollo_ApolloReborn_3.0.0.ipa"
-        },
-        {
-          "version": "1.15.11",
-          "date": "2026-06-05",
-          "size": 114717040,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.christianselig.Apollo_ApolloImprovedCustomApi_1.15.11.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.1.0",
-      "versionDate": "2026-06-05T09:16:04.826Z",
-      "size": 138061108,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.christianselig.Apollo_ApolloOpenInFix_3.1.0.ipa",
       "recommended": false
     },
     {
@@ -30189,7 +30189,7 @@
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/d4/f6/03d4f63a-23be-f134-e541-8e947f0febe8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPersona: Beauty Camera\n\nTweak: Subscription Unlocked\n\nVersion: 1.15.36\n\nNotes: Restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.tickettothemoon.video.persona\nDeveloper: Ticket To The Moon, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPersona: Beauty Camera\n\nTweak: Subscription Unlocked\n\nVersion: 1.15.38\n\nNotes: Restart app if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.tickettothemoon.video.persona\nDeveloper: Ticket To The Moon, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/1320x2868bb.jpg"
@@ -30232,6 +30232,12 @@
       ],
       "versions": [
         {
+          "version": "1.15.38",
+          "date": "2026-06-06",
+          "size": 170902760,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.38.ipa"
+        },
+        {
           "version": "1.15.36",
           "date": "2026-06-03",
           "size": 171486642,
@@ -30242,19 +30248,13 @@
           "date": "2026-06-03",
           "size": 171487731,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.34.ipa"
-        },
-        {
-          "version": "1.15.32",
-          "date": "2026-06-03",
-          "size": 171401110,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.32.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.15.36",
-      "versionDate": "2026-06-03T12:07:40.144Z",
-      "size": 171486642,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.36.ipa",
+      "version": "1.15.38",
+      "versionDate": "2026-06-06T22:08:28.749Z",
+      "size": 170902760,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.tickettothemoon.video.persona_Sideloadbypass2_1.15.38.ipa",
       "recommended": false
     },
     {
