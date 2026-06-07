@@ -4779,7 +4779,7 @@
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/36/5e/2c365e0a-3c3f-821c-08f7-09531a512ced/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBazaart AI Photo Editor Design\n\n• Bundle ID: co.bazaart.app\n• Updated to: 26.3.1\n• Minimum iOS: 16\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBazaart AI Photo Editor Design\n\n• Bundle ID: co.bazaart.app\n• Updated to: 26.3.3\n• Minimum iOS: 16\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/35/88/463588d7-7511-bcbd-fdc6-28c433cfaf43/EN_ipad_1_Remove_people.jpg/1320x2868bb.jpg"
@@ -4794,6 +4794,12 @@
       ],
       "versions": [
         {
+          "version": "26.3.3",
+          "date": "2026-06-07",
+          "size": 80754565,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/co.bazaart.app_Bazaart_26.3.3.ipa"
+        },
+        {
           "version": "26.3.1",
           "date": "2026-06-02",
           "size": 81309895,
@@ -4804,19 +4810,13 @@
           "date": "2026-06-04",
           "size": 102145083,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/co.bazaart.app_Bazaart_26.3.0.ipa"
-        },
-        {
-          "version": "26.2.0",
-          "date": "2026-06-03",
-          "size": 101458166,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/co.bazaart.app_BazaartAIPhotoEditorDesignPatch_26.2.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "26.3.1",
-      "versionDate": "2026-06-02T14:52:23.884Z",
-      "size": 81309895,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/co.bazaart.app_Bazaart_26.3.1.ipa",
+      "version": "26.3.3",
+      "versionDate": "2026-06-07T07:07:46.472Z",
+      "size": 80754565,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/co.bazaart.app_Bazaart_26.3.3.ipa",
       "recommended": false
     },
     {
