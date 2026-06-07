@@ -22145,11 +22145,17 @@
       "name": "ShutEye",
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
       "developerName": "Enerjoy Pte. Ltd.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/fb/a2/33fba2c1-8bce-1c88-ef17-e3cb2f454cf1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nShutEye®: Sleep Tracker, Sound\n\n• Bundle ID: health.sleep.sounds.tracker.alarm.calm\n• Updated to: 3.4.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/8f/d8/008fd86d-8b7c-9e9c-0e76-9cfe0facac4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nShutEye®: Sleep Tracker, Sound\n\n• Bundle ID: health.sleep.sounds.tracker.alarm.calm\n• Updated to: 3.4.4\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "3.4.4",
+          "date": "2026-06-07",
+          "size": 490211237,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.4.4.ipa"
+        },
         {
           "version": "3.4.3",
           "date": "2026-06-03",
@@ -22161,19 +22167,13 @@
           "date": "2026-06-04",
           "size": 489385809,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.4.2.ipa"
-        },
-        {
-          "version": "3.4.1",
-          "date": "2026-06-05",
-          "size": 491335858,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.4.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.4.3",
-      "versionDate": "2026-06-03T09:41:12.248Z",
-      "size": 491901714,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.4.3.ipa",
+      "version": "3.4.4",
+      "versionDate": "2026-06-07T13:08:39.421Z",
+      "size": 490211237,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/health.sleep.sounds.tracker.alarm.calm_ShutEye_3.4.4.ipa",
       "recommended": false
     },
     {
