@@ -2947,7 +2947,7 @@
       "bundleIdentifier": "com.busuu.english.app",
       "developerName": "Busuu Limited",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/a4/51/c4a45184-c3e6-3254-823c-af37967ebeaa/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.16.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBusuu: Language Learning\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.17.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/1320x2868bb.jpg"
@@ -2994,6 +2994,12 @@
       ],
       "versions": [
         {
+          "version": "30.17.0",
+          "date": "2026-06-07",
+          "size": 87468644,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.busuu.english.app_BusuuLanguageLearning_30.17.0.ipa"
+        },
+        {
           "version": "30.16.0",
           "date": "2026-06-02",
           "size": 87460090,
@@ -3004,19 +3010,13 @@
           "date": "2026-06-03",
           "size": 158165886,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.busuu.english.app_BusuuLanguageLearning_30.15.0.ipa"
-        },
-        {
-          "version": "30.14.0",
-          "date": "2026-06-04",
-          "size": 87441224,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.busuu.english.app_BusuuLanguageLearning_30.14.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "30.16.0",
-      "versionDate": "2026-06-02T14:52:39.207Z",
-      "size": 87460090,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.busuu.english.app_BusuuLanguageLearning_30.16.0.ipa",
+      "version": "30.17.0",
+      "versionDate": "2026-06-07T19:07:57.217Z",
+      "size": 87468644,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.busuu.english.app_BusuuLanguageLearning_30.17.0.ipa",
       "recommended": false
     },
     {
@@ -22765,7 +22765,7 @@
       "bundleIdentifier": "com.jabhi.clarido",
       "developerName": "Jabhi Studios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/0f/26/c50f2648-8461-ac2a-76cf-80b127615256/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nClarido: AI Notes & Memory\n\nTweak: Pro Unlocked\n\nVersion: 3.1.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.2\nBundle ID: com.jabhi.clarido\nDeveloper: Jabhi Studios",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nClarido: AI Notes & Memory\n\nTweak: Pro Unlocked\n\nVersion: 3.1.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.2\nBundle ID: com.jabhi.clarido\nDeveloper: Jabhi Studios",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/80/f1/5180f1af-522d-66a1-b182-d1127bc2f544/Most_Important_Thing__U0028iPad_U0029.jpg/1320x2868bb.jpg"
@@ -22784,6 +22784,12 @@
       ],
       "versions": [
         {
+          "version": "3.1.8",
+          "date": "2026-06-07",
+          "size": 7446844,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.jabhi.clarido_Sideloadbypass2_3.1.8.ipa"
+        },
+        {
           "version": "3.1.7",
           "date": "2026-06-04",
           "size": 7387895,
@@ -22794,19 +22800,13 @@
           "date": "2026-06-02",
           "size": 7425756,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.jabhi.clarido_Sideloadbypass2_3.1.6.ipa"
-        },
-        {
-          "version": "3.1.5",
-          "date": "2026-06-03",
-          "size": 7255876,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.jabhi.clarido_Sideloadbypass2_3.1.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.1.7",
-      "versionDate": "2026-06-04T23:53:25.431Z",
-      "size": 7387895,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.jabhi.clarido_Sideloadbypass2_3.1.7.ipa",
+      "version": "3.1.8",
+      "versionDate": "2026-06-07T19:08:01.409Z",
+      "size": 7446844,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.jabhi.clarido_Sideloadbypass2_3.1.8.ipa",
       "recommended": false
     },
     {
@@ -28201,7 +28201,7 @@
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "developerName": "SHANTANU PTE. LTD.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f9/a3/84f9a348-56bc-07d6-a352-b5e1a0efba86/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nInShot - Video Editor\n\n• Bundle ID: com.camerasideas.InstaShot\n• Updated to: 1.96.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nInShot - Video Editor\n\n• Bundle ID: com.camerasideas.InstaShot\n• Updated to: 1.97.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/6e/c2/136ec2d1-9f95-294a-30b4-e99d837faae2/a6c1eed2-18ab-47b2-a1b7-52439148b2e6_01-1.jpg/1320x2868bb.jpg"
@@ -28248,6 +28248,12 @@
       ],
       "versions": [
         {
+          "version": "1.97.0",
+          "date": "2026-06-07",
+          "size": 152657317,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.camerasideas.InstaShot_InShot_1.97.0.ipa"
+        },
+        {
           "version": "1.96.1",
           "date": "2026-06-04",
           "size": 159290230,
@@ -28261,10 +28267,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.96.1",
-      "versionDate": "2026-06-04T21:33:40.189Z",
-      "size": 159290230,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.camerasideas.InstaShot_InShot_1.96.1.ipa",
+      "version": "1.97.0",
+      "versionDate": "2026-06-07T16:08:00.045Z",
+      "size": 152657317,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.camerasideas.InstaShot_InShot_1.97.0.ipa",
       "recommended": false
     },
     {
