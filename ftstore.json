@@ -7678,7 +7678,7 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/7a/66/607a665f-39fe-10f2-3d2f-ef0ecd165707/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.39\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.40\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg"
@@ -7713,6 +7713,12 @@
       ],
       "versions": [
         {
+          "version": "9.40",
+          "date": "2026-06-08",
+          "size": 72672174,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.dopedevelopment.Panels_Sideloadbypass2_9.40.ipa"
+        },
+        {
           "version": "9.39",
           "date": "2026-06-02",
           "size": 72456989,
@@ -7723,19 +7729,13 @@
           "date": "2026-06-03",
           "size": 77009303,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.dopedevelopment.Panels_Sideloadbypass2_9.38.ipa"
-        },
-        {
-          "version": "9.37",
-          "date": "2026-06-05",
-          "size": 89148650,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.dopedevelopment.Panels_Sideloadbypass2_9.37.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.39",
-      "versionDate": "2026-06-02T17:15:47.403Z",
-      "size": 72456989,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.dopedevelopment.Panels_Sideloadbypass2_9.39.ipa",
+      "version": "9.40",
+      "versionDate": "2026-06-08T10:05:50.197Z",
+      "size": 72672174,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.dopedevelopment.Panels_Sideloadbypass2_9.40.ipa",
       "recommended": false
     },
     {
@@ -17703,6 +17703,55 @@
       "recommended": false
     },
     {
+      "name": "Scanner for Me",
+      "bundleIdentifier": "com.apalonapps.pdffree",
+      "developerName": "Mosaic S.r.l.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/64/c6/7864c622-374d-8d7b-945b-8f46cdb70be9/AppIconFree-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nScan Hero: PDF Scanner\n\n• Bundle ID: com.apalonapps.pdffree\n• Updated to: 4.24.36\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart app if Subscriptions isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/59/47/12/59471207-8c6c-0b01-c09f-287f7a785e49/29043ee5-39bc-4de9-ae0b-97c00ec2df11_iphone5.5_s1_en-US.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/aa/76/60/aa766031-0257-55e6-812d-b582a4b06019/1fccd7ff-0e2a-4a9b-97bb-74cad5923f01_iphone5.5_s2_en-US.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e1/d9/bb/e1d9bb57-6393-1687-a4dc-c7197891c081/bad43244-bc9e-4273-a146-b6d6cec21ca0_iphone5.5_s3_en-US.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ac/ec/18/acec1804-3881-a8ff-7c85-33f59a241846/61b82a88-8664-4ffc-ad7b-9d1bf2e672a7_iphone5.5_s4_en-US.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c4/be/6a/c4be6a79-6286-49d3-842d-d7b142d1b50e/662ed1d3-39bb-44b4-bf3e-0a95ebf6b572_iphone5.5_s5_en-US.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fc/9b/c6/fc9bc670-2bef-278e-41ab-ec52f4a454d7/0256364d-44e5-4ccd-8a48-c366374e6f5a_iphone5.5_s6_en-US.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/59/47/12/59471207-8c6c-0b01-c09f-287f7a785e49/29043ee5-39bc-4de9-ae0b-97c00ec2df11_iphone5.5_s1_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/aa/76/60/aa766031-0257-55e6-812d-b582a4b06019/1fccd7ff-0e2a-4a9b-97bb-74cad5923f01_iphone5.5_s2_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e1/d9/bb/e1d9bb57-6393-1687-a4dc-c7197891c081/bad43244-bc9e-4273-a146-b6d6cec21ca0_iphone5.5_s3_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ac/ec/18/acec1804-3881-a8ff-7c85-33f59a241846/61b82a88-8664-4ffc-ad7b-9d1bf2e672a7_iphone5.5_s4_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c4/be/6a/c4be6a79-6286-49d3-842d-d7b142d1b50e/662ed1d3-39bb-44b4-bf3e-0a95ebf6b572_iphone5.5_s5_en-US.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fc/9b/c6/fc9bc670-2bef-278e-41ab-ec52f4a454d7/0256364d-44e5-4ccd-8a48-c366374e6f5a_iphone5.5_s6_en-US.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "4.24.36",
+          "date": "2026-06-08",
+          "size": 103033833,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.apalonapps.pdffree_ScanHero_4.24.36.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.24.36",
+      "versionDate": "2026-06-08T10:05:39.741Z",
+      "size": 103033833,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.apalonapps.pdffree_ScanHero_4.24.36.ipa",
+      "recommended": false
+    },
+    {
       "name": "Control Panel for Twitter",
       "bundleIdentifier": "dev.jbscript.Tweak-New-Twitter",
       "developerName": "J BUCHANAN & L.J BUCHANAN",
@@ -21203,6 +21252,111 @@
       "recommended": false
     },
     {
+      "name": "Pigment",
+      "bundleIdentifier": "com.pixite.pigment",
+      "developerName": "Pixite Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b5/38/9cb538ef-8540-21ee-22d2-ddf8644cf03a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAdult Coloring Book - Pigment\n\n• Bundle ID: com.pixite.pigment\n• Updated to: 3.12\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/d0/1e/b2d01e09-20fd-a94f-64be-658caf05f76a/iPhone_Large_Spark.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/a3/6f/e8a36fae-e7da-be43-84b3-d986010cd367/iPhone_Large_16.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/c8/92/1ac892b3-0b33-778b-c5e3-121e9ebeaade/iPhone_Large_17.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/3d/f8/3b3df8d0-1a85-8b32-2820-56b8bb871724/iPhone_Large_11_-_UK.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/47/28/234728b9-2a8f-78a0-cf33-064ea829198d/iPhone_Large_33.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/5d/87d55d21-cae5-fb81-172e-19d3c7f4e5d2/iPhone_Large_12_-_UK.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/26/ee/c526ee33-478c-6770-ca67-a112e484fea6/iPhone_Large_13_-_UK.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/56/a7/6556a7df-e6c9-e924-8141-93939775f5b4/iPhone_Large_14_-_UK.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/c2/85/8ec28518-1193-f452-46c5-089210aa9eb5/iPhone_Large_6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/5b/5e/5d5b5eef-b48d-1967-9879-a242dde5986a/iPad_Spark.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/c9/47/10c94782-2542-af4b-035e-263715fda744/iPad_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ed/5f/e0ed5fb3-018c-1df2-5de4-9cb558ce7f9f/iPad_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/d7/3b/46d73beb-3d0a-5597-4b48-ba966abd3be9/iPad_8.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/8c/3e/1b8c3ee3-824f-449d-7de0-a0a24389a7c5/iPad_4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/ab/be/94abbee2-6b52-3798-e1e6-6c356f4f9d02/iPad_6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ed/f8/46edf809-7885-5deb-0538-16e1a84edb32/iPad_7.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/57/7a/93577ae6-0119-75e5-3c12-ac6ae8b5eb25/iPad_5.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/d0/1e/b2d01e09-20fd-a94f-64be-658caf05f76a/iPhone_Large_Spark.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/a3/6f/e8a36fae-e7da-be43-84b3-d986010cd367/iPhone_Large_16.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/c8/92/1ac892b3-0b33-778b-c5e3-121e9ebeaade/iPhone_Large_17.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/3d/f8/3b3df8d0-1a85-8b32-2820-56b8bb871724/iPhone_Large_11_-_UK.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/47/28/234728b9-2a8f-78a0-cf33-064ea829198d/iPhone_Large_33.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/5d/87d55d21-cae5-fb81-172e-19d3c7f4e5d2/iPhone_Large_12_-_UK.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/26/ee/c526ee33-478c-6770-ca67-a112e484fea6/iPhone_Large_13_-_UK.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/56/a7/6556a7df-e6c9-e924-8141-93939775f5b4/iPhone_Large_14_-_UK.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/c2/85/8ec28518-1193-f452-46c5-089210aa9eb5/iPhone_Large_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/5b/5e/5d5b5eef-b48d-1967-9879-a242dde5986a/iPad_Spark.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/c9/47/10c94782-2542-af4b-035e-263715fda744/iPad_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ed/5f/e0ed5fb3-018c-1df2-5de4-9cb558ce7f9f/iPad_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/d7/3b/46d73beb-3d0a-5597-4b48-ba966abd3be9/iPad_8.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/8c/3e/1b8c3ee3-824f-449d-7de0-a0a24389a7c5/iPad_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/ab/be/94abbee2-6b52-3798-e1e6-6c356f4f9d02/iPad_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ed/f8/46edf809-7885-5deb-0538-16e1a84edb32/iPad_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/57/7a/93577ae6-0119-75e5-3c12-ac6ae8b5eb25/iPad_5.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.12",
+          "date": "2026-06-08",
+          "size": 135260610,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.pixite.pigment_AutoRcSideload_3.12.ipa"
+        },
+        {
+          "version": "3.11.1",
+          "date": "2026-06-05",
+          "size": 134409060,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.pixite.pigment_Sideloadbypass2_3.11.1.ipa"
+        },
+        {
+          "version": "3.11",
+          "date": "2026-06-05",
+          "size": 134409191,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.pixite.pigment_Sideloadbypass2_3.11.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.12",
+      "versionDate": "2026-06-08T13:05:46.075Z",
+      "size": 135260610,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.pixite.pigment_AutoRcSideload_3.12.ipa",
+      "recommended": false
+    },
+    {
       "name": "Bunpo",
       "bundleIdentifier": "com.N2BunpouApp.yuki",
       "developerName": "Bunpo Language Learning",
@@ -21358,105 +21512,6 @@
       "versionDate": "2026-06-02T15:35:55.779Z",
       "size": 157028649,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.peoplefun.wordcross_NetworkBlocker_3.12.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Pigment",
-      "bundleIdentifier": "com.pixite.pigment",
-      "developerName": "Pixite Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b5/38/9cb538ef-8540-21ee-22d2-ddf8644cf03a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAdult Coloring Book - Pigment\n\nTweak: Subscription Unlocked\n\nVersion: 3.11.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.pixite.pigment\nDeveloper: Pixite Inc.",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/d0/1e/b2d01e09-20fd-a94f-64be-658caf05f76a/iPhone_Large_Spark.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/a3/6f/e8a36fae-e7da-be43-84b3-d986010cd367/iPhone_Large_16.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/c8/92/1ac892b3-0b33-778b-c5e3-121e9ebeaade/iPhone_Large_17.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/3d/f8/3b3df8d0-1a85-8b32-2820-56b8bb871724/iPhone_Large_11_-_UK.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/47/28/234728b9-2a8f-78a0-cf33-064ea829198d/iPhone_Large_33.jpg/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/5d/87d55d21-cae5-fb81-172e-19d3c7f4e5d2/iPhone_Large_12_-_UK.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/26/ee/c526ee33-478c-6770-ca67-a112e484fea6/iPhone_Large_13_-_UK.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/56/a7/6556a7df-e6c9-e924-8141-93939775f5b4/iPhone_Large_14_-_UK.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/c2/85/8ec28518-1193-f452-46c5-089210aa9eb5/iPhone_Large_6.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/5b/5e/5d5b5eef-b48d-1967-9879-a242dde5986a/iPad_Spark.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/c9/47/10c94782-2542-af4b-035e-263715fda744/iPad_2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ed/5f/e0ed5fb3-018c-1df2-5de4-9cb558ce7f9f/iPad_3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/d7/3b/46d73beb-3d0a-5597-4b48-ba966abd3be9/iPad_8.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/8c/3e/1b8c3ee3-824f-449d-7de0-a0a24389a7c5/iPad_4.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/ab/be/94abbee2-6b52-3798-e1e6-6c356f4f9d02/iPad_6.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ed/f8/46edf809-7885-5deb-0538-16e1a84edb32/iPad_7.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/57/7a/93577ae6-0119-75e5-3c12-ac6ae8b5eb25/iPad_5.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/d0/1e/b2d01e09-20fd-a94f-64be-658caf05f76a/iPhone_Large_Spark.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/a3/6f/e8a36fae-e7da-be43-84b3-d986010cd367/iPhone_Large_16.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/c8/92/1ac892b3-0b33-778b-c5e3-121e9ebeaade/iPhone_Large_17.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/3d/f8/3b3df8d0-1a85-8b32-2820-56b8bb871724/iPhone_Large_11_-_UK.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/47/28/234728b9-2a8f-78a0-cf33-064ea829198d/iPhone_Large_33.jpg/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/5d/87d55d21-cae5-fb81-172e-19d3c7f4e5d2/iPhone_Large_12_-_UK.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/26/ee/c526ee33-478c-6770-ca67-a112e484fea6/iPhone_Large_13_-_UK.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/56/a7/6556a7df-e6c9-e924-8141-93939775f5b4/iPhone_Large_14_-_UK.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/c2/85/8ec28518-1193-f452-46c5-089210aa9eb5/iPhone_Large_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/5b/5e/5d5b5eef-b48d-1967-9879-a242dde5986a/iPad_Spark.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/c9/47/10c94782-2542-af4b-035e-263715fda744/iPad_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ed/5f/e0ed5fb3-018c-1df2-5de4-9cb558ce7f9f/iPad_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/d7/3b/46d73beb-3d0a-5597-4b48-ba966abd3be9/iPad_8.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/8c/3e/1b8c3ee3-824f-449d-7de0-a0a24389a7c5/iPad_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/ab/be/94abbee2-6b52-3798-e1e6-6c356f4f9d02/iPad_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ed/f8/46edf809-7885-5deb-0538-16e1a84edb32/iPad_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/57/7a/93577ae6-0119-75e5-3c12-ac6ae8b5eb25/iPad_5.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "3.11.1",
-          "date": "2026-06-05",
-          "size": 134409060,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.pixite.pigment_Sideloadbypass2_3.11.1.ipa"
-        },
-        {
-          "version": "3.11",
-          "date": "2026-06-05",
-          "size": 134409191,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.pixite.pigment_Sideloadbypass2_3.11.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.11.1",
-      "versionDate": "2026-06-05T02:44:43.591Z",
-      "size": 134409060,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.pixite.pigment_Sideloadbypass2_3.11.1.ipa",
       "recommended": false
     },
     {
@@ -31310,7 +31365,7 @@
       "bundleIdentifier": "vladchechura.MotivationEN",
       "developerName": "Positive Mindset sp. z o. o.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/72/5f/78725fa0-186a-3b0a-ae60-eed8bf7489f1/App_Icon-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nQuoteUp - Daily Motivation\n\nTweak: Premium Unlocked\n\nVersion: 1.5.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: vladchechura.MotivationEN\nDeveloper: Positive Mindset sp. z o. o.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nQuoteUp - Daily Motivation\n\nTweak: Premium Unlocked\n\nVersion: 1.5.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: vladchechura.MotivationEN\nDeveloper: Positive Mindset sp. z o. o.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/7c/e4/517ce4db-d621-7f34-0a8c-9d058fa7d7c5/ec8e2b56-3416-4c10-a586-cee563bce66c_1.png/1320x2868bb.png"
@@ -31345,6 +31400,12 @@
       ],
       "versions": [
         {
+          "version": "1.5.8",
+          "date": "2026-06-08",
+          "size": 76569294,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/vladchechura.MotivationEN_Sideloadbypass2_1.5.8.ipa"
+        },
+        {
           "version": "1.5.7",
           "date": "2026-06-02",
           "size": 84824678,
@@ -31355,19 +31416,13 @@
           "date": "2026-06-03",
           "size": 84734182,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/vladchechura.MotivationEN_Sideloadbypass2_1.5.6.ipa"
-        },
-        {
-          "version": "1.5.5",
-          "date": "2026-06-05",
-          "size": 74468176,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/vladchechura.MotivationEN_Sideloadbypass2_1.5.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.5.7",
-      "versionDate": "2026-06-02T17:32:46.999Z",
-      "size": 84824678,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/vladchechura.MotivationEN_Sideloadbypass2_1.5.7.ipa",
+      "version": "1.5.8",
+      "versionDate": "2026-06-08T07:05:54.699Z",
+      "size": 76569294,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/vladchechura.MotivationEN_Sideloadbypass2_1.5.8.ipa",
       "recommended": false
     },
     {
