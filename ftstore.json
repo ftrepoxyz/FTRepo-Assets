@@ -9223,7 +9223,7 @@
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "Impala Studios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/dc/e0/efdce0f6-a520-b700-0bf2-e8edd872ddb4/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFlight Tracker +\n\n• Bundle ID: com.iaftt.flightplusfree\n• Updated to: 8.7.12\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nFlight Tracker +\n\n• Bundle ID: com.iaftt.flightplusfree\n• Updated to: 8.7.13\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/36/fe/8336fe93-1c64-6467-232b-ab33e95e8f71/iPad_Pro_12.9__-_1.jpg/1320x2868bb.jpg"
@@ -9254,6 +9254,12 @@
       ],
       "versions": [
         {
+          "version": "8.7.13",
+          "date": "2026-06-08",
+          "size": 84866178,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.iaftt.flightplusfree_flighttracker%2B_8.7.13.ipa"
+        },
+        {
           "version": "8.7.12",
           "date": "2026-06-03",
           "size": 84822468,
@@ -9264,19 +9270,13 @@
           "date": "2026-06-02",
           "size": 120245008,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.iaftt.flightplusfree_flighttracker%2B_8.7.11.ipa"
-        },
-        {
-          "version": "8.7.10",
-          "date": "2026-06-03",
-          "size": 120240925,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.iaftt.flightplusfree_flighttracker%2B_8.7.10.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "8.7.12",
-      "versionDate": "2026-06-03T09:35:12.343Z",
-      "size": 84822468,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.iaftt.flightplusfree_flighttracker%2B_8.7.12.ipa",
+      "version": "8.7.13",
+      "versionDate": "2026-06-08T07:05:35.020Z",
+      "size": 84866178,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.iaftt.flightplusfree_flighttracker%2B_8.7.13.ipa",
       "recommended": false
     },
     {
@@ -18774,7 +18774,7 @@
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/99/18/2e9918f0-d96c-aa27-f851-b6e869b13732/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.4.25\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\niScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 4.4.26\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/1320x2868bb.png"
@@ -18821,6 +18821,12 @@
       ],
       "versions": [
         {
+          "version": "4.4.26",
+          "date": "2026-06-08",
+          "size": 419999458,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.zerone.hidesktop_iScreen_4.4.26.ipa"
+        },
+        {
           "version": "4.4.25",
           "date": "2026-06-02",
           "size": 420141453,
@@ -18831,19 +18837,13 @@
           "date": "2026-06-03",
           "size": 420498749,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.zerone.hidesktop_iScreen_4.4.23.ipa"
-        },
-        {
-          "version": "4.4.22",
-          "date": "2026-06-05",
-          "size": 420138801,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.zerone.hidesktop_iScreen_4.4.22.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.4.25",
-      "versionDate": "2026-06-02T14:51:29.253Z",
-      "size": 420141453,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.zerone.hidesktop_iScreen_4.4.25.ipa",
+      "version": "4.4.26",
+      "versionDate": "2026-06-08T04:06:02.446Z",
+      "size": 419999458,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.zerone.hidesktop_iScreen_4.4.26.ipa",
       "recommended": false
     },
     {
@@ -33870,7 +33870,7 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/ff/33/8cff334a-586f-3542-85e0-0fada7905929/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nRISE: Sleep Tracker\n\n• Bundle ID: com.risesci.nyx\n• Updated to: 1.599.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Certificate with healthkit entitlement is required.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nRISE: Sleep Tracker\n\n• Bundle ID: com.risesci.nyx\n• Updated to: 1.600.0\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Certificate with healthkit entitlement is required.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/1320x2868bb.png"
@@ -33909,6 +33909,12 @@
       ],
       "versions": [
         {
+          "version": "0.1.600",
+          "date": "2026-06-08",
+          "size": 138888157,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.risesci.nyx_AutoRcSideload_0.1.600.ipa"
+        },
+        {
           "version": "0.1.599",
           "date": "2026-06-03",
           "size": 144259457,
@@ -33919,19 +33925,13 @@
           "date": "2026-06-02",
           "size": 144251902,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.risesci.nyx_AutoRcSideload_0.1.598.ipa"
-        },
-        {
-          "version": "0.1.597",
-          "date": "2026-06-02",
-          "size": 137651881,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.risesci.nyx_AutoRcSideload_0.1.597.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.1.599",
-      "versionDate": "2026-06-03T15:27:27.342Z",
-      "size": 144259457,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.risesci.nyx_AutoRcSideload_0.1.599.ipa",
+      "version": "0.1.600",
+      "versionDate": "2026-06-08T01:05:47.105Z",
+      "size": 138888157,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.risesci.nyx_AutoRcSideload_0.1.600.ipa",
       "recommended": false
     },
     {
