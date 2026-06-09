@@ -225,11 +225,17 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/6e/27/446e272b-f25d-b3dc-0dca-adca3770baa9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/be/ef/0cbeef28-9e19-660f-aa78-20bf1f4ad87a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPhotoRoom: AI Photo Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2026.24.01",
+          "date": "2026-06-08",
+          "size": 120206402,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.dr1ven.eraser_PhotoRoomPatch_2026.24.01.ipa"
+        },
         {
           "version": "2026.23.02",
           "date": "2026-06-05",
@@ -241,19 +247,13 @@
           "date": "2026-06-02",
           "size": 122331561,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.dr1ven.eraser_Sideloadbypass2_2026.23.01.ipa"
-        },
-        {
-          "version": "2026.22.01",
-          "date": "2026-06-03",
-          "size": 190127369,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.dr1ven.eraser_Sideloadbypass2_2026.22.01.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2026.23.02",
-      "versionDate": "2026-06-05T09:13:28.918Z",
-      "size": 192465361,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.dr1ven.eraser_PhotoRoomPatch_2026.23.02.ipa",
+      "version": "2026.24.01",
+      "versionDate": "2026-06-08T19:08:10.654Z",
+      "size": 120206402,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.dr1ven.eraser_PhotoRoomPatch_2026.24.01.ipa",
       "recommended": false
     },
     {
@@ -3473,7 +3473,7 @@
       "bundleIdentifier": "com.shapr3d.shapr",
       "developerName": "Shapr3D Zrt",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/05/e3/a705e397-58e7-ee45-fcea-616ee2e3fe17/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nShapr 3D CAD modeling\n\nPro features unlocked\n\nTweak made by Никита and @binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nShapr 3D CAD modeling\n\nPro features unlocked\n\nTweak made by Никита and @binnichtaktiv\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/2b/44/f52b44ce-0018-ad2b-3dc6-725888f0db20/05_26-80_app_iPadOS_en-US.png/1320x2868bb.webp"
@@ -3500,6 +3500,12 @@
       ],
       "versions": [
         {
+          "version": "26.100.0",
+          "date": "2026-06-08",
+          "size": 1185180250,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.shapr3d.shapr_Shapr3DPatch_26.100.0.ipa"
+        },
+        {
           "version": "26.90.0",
           "date": "2026-06-02",
           "size": 1186231400,
@@ -3510,19 +3516,13 @@
           "date": "2026-06-03",
           "size": 1215489933,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.shapr3d.shapr_Shapr3DPatch_26.81.0.ipa"
-        },
-        {
-          "version": "26.80.0",
-          "date": "2026-06-03",
-          "size": 1215455528,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.shapr3d.shapr_Shapr3DPatch_26.80.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "26.90.0",
-      "versionDate": "2026-06-02T15:35:34.639Z",
-      "size": 1186231400,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.shapr3d.shapr_Shapr3DPatch_26.90.0.ipa",
+      "version": "26.100.0",
+      "versionDate": "2026-06-08T19:09:41.141Z",
+      "size": 1185180250,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.shapr3d.shapr_Shapr3DPatch_26.100.0.ipa",
       "recommended": false
     },
     {
@@ -3600,6 +3600,41 @@
       "versionDate": "2026-06-04T23:54:12.020Z",
       "size": 118866963,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.hiiker.hiiker_Sideloadbypass2_26.61.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Lingokids",
+      "bundleIdentifier": "es.monkimun.lingokids",
+      "developerName": "Monkimun Inc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/c4/54/06c4543d-d6a9-37ed-8867-64aa4c05e049/AppIconMain-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nLingokids - Play and Learn\n\nUnlimited features unlocked\n\nTweak made by Никита\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "26.24.0",
+          "date": "2026-06-08",
+          "size": 126246882,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/es.monkimun.lingokids_LingoKidsPatch_26.24.0.ipa"
+        },
+        {
+          "version": "26.21.0",
+          "date": "2026-06-03",
+          "size": 120770203,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/es.monkimun.lingokids_LingoKidsPatch_26.21.0.ipa"
+        },
+        {
+          "version": "26.20.0",
+          "date": "2026-06-04",
+          "size": 120904563,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/es.monkimun.lingokids_LingoKidsPatch_26.20.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.24.0",
+      "versionDate": "2026-06-08T19:10:34.727Z",
+      "size": 126246882,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/es.monkimun.lingokids_LingoKidsPatch_26.24.0.ipa",
       "recommended": false
     },
     {
@@ -4185,35 +4220,6 @@
       "versionDate": "2026-06-03T21:27:49.041Z",
       "size": 159899940,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.fouadraheb.watusiSMB_ContactSync_26.21.74.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Lingokids",
-      "bundleIdentifier": "es.monkimun.lingokids",
-      "developerName": "Monkimun Inc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/29/0d/e5290d2e-37c2-cece-d632-8e74d128886c/AppIconMain-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nLingokids - Play and Learn\n\nUnlimited features unlocked\n\nTweak made by Никита\n\nMinimum OS version 15.1\n\nAppStore link | Donate",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "26.21.0",
-          "date": "2026-06-03",
-          "size": 120770203,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/es.monkimun.lingokids_LingoKidsPatch_26.21.0.ipa"
-        },
-        {
-          "version": "26.20.0",
-          "date": "2026-06-04",
-          "size": 120904563,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/es.monkimun.lingokids_LingoKidsPatch_26.20.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.21.0",
-      "versionDate": "2026-06-03T10:23:58.117Z",
-      "size": 120770203,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/es.monkimun.lingokids_LingoKidsPatch_26.21.0.ipa",
       "recommended": false
     },
     {
@@ -6368,6 +6374,12 @@
       ],
       "versions": [
         {
+          "version": "12.13.0",
+          "date": "2026-06-08",
+          "size": 52053806,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.getmimo.mimo_Mimo_12.13.0.ipa"
+        },
+        {
           "version": "12.12.0",
           "date": "2026-06-04",
           "size": 153839104,
@@ -6381,10 +6393,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "12.12.0",
-      "versionDate": "2026-06-04T22:09:56.903Z",
-      "size": 153839104,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.getmimo.mimo_Mimo_12.12.0.ipa",
+      "version": "12.13.0",
+      "versionDate": "2026-06-08T19:10:52.994Z",
+      "size": 52053806,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.getmimo.mimo_Mimo_12.13.0.ipa",
       "recommended": false
     },
     {
@@ -11964,7 +11976,7 @@
       "bundleIdentifier": "com.calm.calmapp",
       "developerName": "Calm.com",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/88/8c/11888cdd-0381-2cd8-0646-9a10d0d22172/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCalm\n\n• Bundle ID: com.calm.calmapp\n• Updated to: 6.96\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore purchase pages all the features should work.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nCalm\n\nPremium features unlocked\n\n⚠️ Login to activate premium features\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/1320x2868bb.png"
@@ -11995,6 +12007,12 @@
       ],
       "versions": [
         {
+          "version": "6.97",
+          "date": "2026-06-08",
+          "size": 93848451,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.calm.calmapp_Sideloadbypass2_6.97.ipa"
+        },
+        {
           "version": "6.96",
           "date": "2026-06-02",
           "size": 125436361,
@@ -12005,19 +12023,13 @@
           "date": "2026-06-05",
           "size": 125366012,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.calm.calmapp_Calm_6.95.1.ipa"
-        },
-        {
-          "version": "6.95",
-          "date": "2026-06-04",
-          "size": 123561734,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.calm.calmapp_Sideloadbypass2_6.95.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.96",
-      "versionDate": "2026-06-02T15:09:26.331Z",
-      "size": 125436361,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.calm.calmapp_Calm_6.96.ipa",
+      "version": "6.97",
+      "versionDate": "2026-06-08T19:10:15.741Z",
+      "size": 93848451,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.calm.calmapp_Sideloadbypass2_6.97.ipa",
       "recommended": false
     },
     {
@@ -12060,6 +12072,12 @@
       ],
       "versions": [
         {
+          "version": "6.87",
+          "date": "2026-06-08",
+          "size": 387673234,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.morpholioapps.trace_SatellaJailed_6.87.ipa"
+        },
+        {
           "version": "6.86",
           "date": "2026-06-03",
           "size": 388090596,
@@ -12073,10 +12091,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "6.86",
-      "versionDate": "2026-06-03T10:21:13.715Z",
-      "size": 388090596,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.morpholioapps.trace_SatellaJailed_6.86.ipa",
+      "version": "6.87",
+      "versionDate": "2026-06-08T19:07:06.982Z",
+      "size": 387673234,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.morpholioapps.trace_SatellaJailed_6.87.ipa",
       "recommended": false
     },
     {
@@ -14132,11 +14150,17 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/f8/72/26f8722a-2930-e584-b1c4-f03fcf8e7d36/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nElevate - Brain Training Games\n\nTweak: Subscription Unlocked\n\nVersion: 5.242.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.elevate\nDeveloper: The Mind Company",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/0c/af/530cafe1-cf6d-9fd9-6f33-afe2cd4f779a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nElevate - Brain Training Games\n\nPro features unlocked\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "5.243.0",
+          "date": "2026-06-08",
+          "size": 123417309,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.elevateapp.elevate_AutoRc_5.243.0.ipa"
+        },
         {
           "version": "5.242.1",
           "date": "2026-06-02",
@@ -14148,19 +14172,13 @@
           "date": "2026-06-02",
           "size": 123034369,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.elevateapp.elevate_Sideloadbypass2_5.242.0.ipa"
-        },
-        {
-          "version": "5.241.0",
-          "date": "2026-06-03",
-          "size": 389086767,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.elevateapp.elevate_Sideloadbypass2_5.241.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.242.1",
-      "versionDate": "2026-06-02T14:35:44.111Z",
-      "size": 123034283,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.elevateapp.elevate_Sideloadbypass2_5.242.1.ipa",
+      "version": "5.243.0",
+      "versionDate": "2026-06-08T19:07:34.172Z",
+      "size": 123417309,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.elevateapp.elevate_AutoRc_5.243.0.ipa",
       "recommended": false
     },
     {
@@ -18082,6 +18100,12 @@
       ],
       "versions": [
         {
+          "version": "4.12.1",
+          "date": "2026-06-08",
+          "size": 48314281,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.letterboxd.LetterboxdApp_LetterboxdPatch_4.12.1.ipa"
+        },
+        {
           "version": "4.11.4",
           "date": "2026-06-03",
           "size": 57251409,
@@ -18095,10 +18119,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.11.4",
-      "versionDate": "2026-06-03T10:40:08.196Z",
-      "size": 57251409,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.letterboxd.LetterboxdApp_LetterboxdPatch_4.11.4.ipa",
+      "version": "4.12.1",
+      "versionDate": "2026-06-08T19:11:00.440Z",
+      "size": 48314281,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.letterboxd.LetterboxdApp_LetterboxdPatch_4.12.1.ipa",
       "recommended": false
     },
     {
@@ -22830,7 +22854,7 @@
       "bundleIdentifier": "com.lingodeer",
       "developerName": "LingoDeer Co, Ltd.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/cc/e9/2acce97c-3738-b45d-0399-609d63de5723/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nLingoDeer - Learn Languages\n\nPremium features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nLingoDeer - Learn Languages\n\nPremium features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/da/a1/56daa157-aa6c-217d-ef25-1a38c2fe01f8/fb1e7844-ecf6-47ce-a076-2654524d3015_iPhone5.5_Uff08414-736_Uff09.png/1320x2868bb.png"
@@ -22873,6 +22897,12 @@
       ],
       "versions": [
         {
+          "version": "3.1.13",
+          "date": "2026-06-08",
+          "size": 128461802,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.lingodeer_LingoDeerPremium_3.1.13.ipa"
+        },
+        {
           "version": "3.1.12",
           "date": "2026-06-02",
           "size": 137539928,
@@ -22886,10 +22916,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.1.12",
-      "versionDate": "2026-06-02T15:43:57.577Z",
-      "size": 137539928,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.lingodeer_LingoDeerPremium_3.1.12.ipa",
+      "version": "3.1.13",
+      "versionDate": "2026-06-08T19:06:31.150Z",
+      "size": 128461802,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.lingodeer_LingoDeerPremium_3.1.13.ipa",
       "recommended": false
     },
     {
@@ -23539,16 +23569,16 @@
       "versions": [
         {
           "version": "3.0",
-          "date": "2026-06-07",
+          "date": "2026-06-08",
           "size": 71941094,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.instantbits.cast.webvideo_3.0.ipa"
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.instantbits.cast.webvideo_3.0.ipa"
         }
       ],
       "appPermissions": {},
       "version": "3.0",
-      "versionDate": "2026-06-07T22:09:35.395Z",
+      "versionDate": "2026-06-08T19:10:45.249Z",
       "size": 71941094,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/com.instantbits.cast.webvideo_3.0.ipa",
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.instantbits.cast.webvideo_3.0.ipa",
       "recommended": false
     },
     {
@@ -23637,6 +23667,29 @@
       "versionDate": "2026-06-05T01:35:48.479Z",
       "size": 157850503,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.sp67.flero_mod_2.207.ipa",
+      "recommended": false
+    },
+    {
+      "name": "My Calendar",
+      "bundleIdentifier": "com.podfactor.pod",
+      "developerName": "BUCKET LIST LABS S.L.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/12/e7/2312e7b3-e922-a00f-e745-a423eb055a78/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nCalendar · Planner & Reminders\n\n• Bundle ID: com.podfactor.pod\n• Updated to: 2.106.2\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.106.2",
+          "date": "2026-06-08",
+          "size": 22582077,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.podfactor.pod_MyCalendar_2.106.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.106.2",
+      "versionDate": "2026-06-08T22:05:49.194Z",
+      "size": 22582077,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.podfactor.pod_MyCalendar_2.106.2.ipa",
       "recommended": false
     },
     {
@@ -23868,11 +23921,17 @@
       "name": "Paired",
       "bundleIdentifier": "io.betterhalf.app",
       "developerName": "Better Half Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/9d/22/5c9d222e-29b3-ddd3-970b-69e41e733c57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/83/23/18832306-a013-8372-d294-e79dd9ca71ed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPaired: Couples & Relationship\n\nPremium features unlocked\n\nTweak made by Dell\n\nMinimum OS version 15.5\n\nAppStore link | Donate",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.85.0",
+          "date": "2026-06-08",
+          "size": 53595773,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/io.betterhalf.app_PairedPatch_2.85.0.ipa"
+        },
         {
           "version": "2.84.0",
           "date": "2026-06-02",
@@ -23884,19 +23943,13 @@
           "date": "2026-06-02",
           "size": 52848931,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/io.betterhalf.app_PairedPatch_2.83.0.ipa"
-        },
-        {
-          "version": "2.81.0",
-          "date": "2026-06-04",
-          "size": 51277229,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/io.betterhalf.app_PairedPatch_2.81.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.84.0",
-      "versionDate": "2026-06-02T15:20:40.551Z",
-      "size": 54227260,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/io.betterhalf.app_PairedPatch_2.84.0.ipa",
+      "version": "2.85.0",
+      "versionDate": "2026-06-08T19:07:15.920Z",
+      "size": 53595773,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/io.betterhalf.app_PairedPatch_2.85.0.ipa",
       "recommended": false
     },
     {
@@ -24814,6 +24867,95 @@
       "versionDate": "2026-06-04T23:08:16.589Z",
       "size": 4840715,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.onecast.ios_2.22.ipa",
+      "recommended": false
+    },
+    {
+      "name": "CoinSnap",
+      "bundleIdentifier": "com.coinidentifier.identifycoins",
+      "developerName": "Next Vision Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f8/72/6af87233-a77f-8904-44d0-5bfbeb0a8e61/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nCoinSnap: Coin Identifier\n\nPremium features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/54/7e/62547ef1-edf0-4d5b-7c14-71efbd2b898b/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_01.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/c2/1c/8cc21c7c-5c35-e7d9-6cb9-2e83979984ce/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_02.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/46/28/c34628f3-9c72-a0d2-a772-21dcdb4fe503/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_03.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/07/5b/df075b32-335d-f328-1838-74de345b07b6/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_04.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/95/a2/b095a28e-7408-e338-cc72-940c3f497961/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_05.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/77/06/a8770606-d8a3-a723-d609-751161530ba9/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_06.jpg/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/e9/ef/ade9ef6b-3644-b354-0df3-cb7ee5e85df1/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_07.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/58/ce/3658ceac-77ce-2e5b-b703-92e35bc4390a/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_08.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ac/1e/ecac1e09-0e60-8215-f192-7f31406e9238/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_01.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/73/ff/ef73ffe8-08f5-b710-13d3-05eff4a04a22/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_02.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/2e/6e/402e6e95-f236-9cae-e111-3acc603eabf1/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_03.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/dc/4e/fbdc4ef0-7b7a-297e-3b57-469565205ae0/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_04.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/f4/c9/31f4c90f-739b-0efe-d22d-3ce5319025cc/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_06.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/a0/f0/03a0f08d-e673-8c09-9f6e-478b1021e576/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_05.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/6b/89/086b89af-deba-fb5c-7554-decfc86bf0ec/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_07.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/04/11/420411ad-46db-1921-ffc1-31d5842e7fa7/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_08.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/54/7e/62547ef1-edf0-4d5b-7c14-71efbd2b898b/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_01.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/c2/1c/8cc21c7c-5c35-e7d9-6cb9-2e83979984ce/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_02.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/46/28/c34628f3-9c72-a0d2-a772-21dcdb4fe503/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_03.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/07/5b/df075b32-335d-f328-1838-74de345b07b6/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_04.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/95/a2/b095a28e-7408-e338-cc72-940c3f497961/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_05.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/77/06/a8770606-d8a3-a723-d609-751161530ba9/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_06.jpg/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/e9/ef/ade9ef6b-3644-b354-0df3-cb7ee5e85df1/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/58/ce/3658ceac-77ce-2e5b-b703-92e35bc4390a/CS_104591_English-_U52a0_U62ff_U5927_IPHONE65_08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ac/1e/ecac1e09-0e60-8215-f192-7f31406e9238/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/73/ff/ef73ffe8-08f5-b710-13d3-05eff4a04a22/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/2e/6e/402e6e95-f236-9cae-e111-3acc603eabf1/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/dc/4e/fbdc4ef0-7b7a-297e-3b57-469565205ae0/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/f4/c9/31f4c90f-739b-0efe-d22d-3ce5319025cc/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/a0/f0/03a0f08d-e673-8c09-9f6e-478b1021e576/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/6b/89/086b89af-deba-fb5c-7554-decfc86bf0ec/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/04/11/420411ad-46db-1921-ffc1-31d5842e7fa7/118113_CS_EN-US_IPAD13__U5f85_U5b9a__U5f85_U5b9a_20260508_ZX_08.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.20.0",
+          "date": "2026-06-08",
+          "size": 90089256,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.coinidentifier.identifycoins_PictureMushroomPatch_2.20.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.20.0",
+      "versionDate": "2026-06-08T19:09:59.150Z",
+      "size": 90089256,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.coinidentifier.identifycoins_PictureMushroomPatch_2.20.0.ipa",
       "recommended": false
     },
     {
@@ -27519,6 +27661,51 @@
       "recommended": false
     },
     {
+      "name": "Draw It",
+      "bundleIdentifier": "com.kwalee.drawit",
+      "developerName": "Kwalee Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/25/8a/dd258a85-3716-c5d9-f29d-14b64f8f5404/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDraw it\n\nTap on buy then cancel\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/4f/5f/d24f5fd8-bd4e-14f0-a2bf-7f088bce5b38/Apple_5.5__U00281242_X_2208_U0029_-_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/5e/38/d25e3800-460b-3466-3af1-c9e969afb44f/Apple_5.5__U00281242_X_2208_U0029_-_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/bb/6a/24bb6a5d-028c-855d-b472-7471ee4bb775/Apple_5.5__U00281242_X_2208_U0029_-_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/7f/5c/467f5c0a-2dac-7da8-762e-d35a26deee1a/Apple_5.5__U00281242_X_2208_U0029_-_4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/0a/ba/130aba17-6044-bead-bb5b-d899d7366b78/Apple_5.5__U00281242_X_2208_U0029_-_5.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/4f/5f/d24f5fd8-bd4e-14f0-a2bf-7f088bce5b38/Apple_5.5__U00281242_X_2208_U0029_-_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/5e/38/d25e3800-460b-3466-3af1-c9e969afb44f/Apple_5.5__U00281242_X_2208_U0029_-_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/bb/6a/24bb6a5d-028c-855d-b472-7471ee4bb775/Apple_5.5__U00281242_X_2208_U0029_-_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/7f/5c/467f5c0a-2dac-7da8-762e-d35a26deee1a/Apple_5.5__U00281242_X_2208_U0029_-_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/0a/ba/130aba17-6044-bead-bb5b-d899d7366b78/Apple_5.5__U00281242_X_2208_U0029_-_5.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.1.4",
+          "date": "2026-06-08",
+          "size": 152358387,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.kwalee.drawit_SatellaJailed_2.1.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.1.4",
+      "versionDate": "2026-06-08T19:07:54.270Z",
+      "size": 152358387,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.kwalee.drawit_SatellaJailed_2.1.4.ipa",
+      "recommended": false
+    },
+    {
       "name": "VidList",
       "bundleIdentifier": "com.vh.vhub",
       "developerName": "Unknown Developer",
@@ -29602,7 +29789,7 @@
       "bundleIdentifier": "com.auxbrain.egginc",
       "developerName": "Auxbrain, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/20/b4/9e20b441-5ce8-a931-40ab-f0b241035320/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nEgg, Inc.\n\nTweak: Free iAP\n\nVersion: 1.35.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.auxbrain.egginc\nDeveloper: Auxbrain, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nEgg, Inc.\n\nTweak: Free iAP\n\nVersion: 1.35.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.auxbrain.egginc\nDeveloper: Auxbrain, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/dd/50/ab/dd50abe9-82f2-a8af-fcd0-4ad1a71b5bce/d5107542-7f25-4708-8878-9185d34f4a92_IMG_A68C7E5A23A4-1.jpeg/1320x2868bb.jpg"
@@ -29649,6 +29836,12 @@
       ],
       "versions": [
         {
+          "version": "1.35.7",
+          "date": "2026-06-09",
+          "size": 59022428,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.auxbrain.egginc_popuprifty_1.35.7.ipa"
+        },
+        {
           "version": "1.35.6",
           "date": "2026-06-04",
           "size": 59888855,
@@ -29656,10 +29849,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.35.6",
-      "versionDate": "2026-06-04T23:53:21.723Z",
-      "size": 59888855,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.auxbrain.egginc_popuprifty_1.35.6.ipa",
+      "version": "1.35.7",
+      "versionDate": "2026-06-09T01:06:08.836Z",
+      "size": 59022428,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.auxbrain.egginc_popuprifty_1.35.7.ipa",
       "recommended": false
     },
     {
@@ -30941,11 +31134,17 @@
       "name": "Medication List",
       "bundleIdentifier": "com.jojoapps.Medication-List",
       "developerName": "JOJO APPS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/23/5a/23235a62-b913-37c0-3367-b516dc1814c7/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMedication List\n\nTweak: Subscription Unlocked\n\nVersion: 1.8.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.jojoapps.Medication-List\nDeveloper: JOJO APPS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ae/c3/c6aec3ef-0e13-3c5c-4858-3f297fafa42c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMedication List\n\nTweak: Subscription Unlocked\n\nVersion: 1.8.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.jojoapps.Medication-List\nDeveloper: JOJO APPS",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.8.9",
+          "date": "2026-06-08",
+          "size": 16358042,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.jojoapps.Medication-List_popuprifty_1.8.9.ipa"
+        },
         {
           "version": "1.8.8",
           "date": "2026-06-03",
@@ -30957,19 +31156,13 @@
           "date": "2026-06-05",
           "size": 19307731,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.jojoapps.Medication-List_popuprifty_1.8.7.ipa"
-        },
-        {
-          "version": "1.8.6",
-          "date": "2026-06-05",
-          "size": 19307753,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.jojoapps.Medication-List_popuprifty_1.8.6.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.8.8",
-      "versionDate": "2026-06-03T12:22:00.975Z",
-      "size": 19293530,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.jojoapps.Medication-List_popuprifty_1.8.8.ipa",
+      "version": "1.8.9",
+      "versionDate": "2026-06-08T22:05:54.803Z",
+      "size": 16358042,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.jojoapps.Medication-List_popuprifty_1.8.9.ipa",
       "recommended": false
     },
     {
@@ -31822,11 +32015,17 @@
       "name": "Crsel",
       "bundleIdentifier": "com.frameoneapps.Crsel",
       "developerName": "Crsel Sp. z o.o.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/f7/9f/d7f79f32-4b0f-25e1-3b5a-7f59d1483e23/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nCrsel: Carousel, Collage Maker\n\n• Bundle ID: com.frameoneapps.Crsel\n• Updated to: 1.3.710\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/f8/fd/d0f8fda0-ae64-d3bc-b031-51e33fcb18eb/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nCrsel: Carousel, Collage Maker\n\n• Bundle ID: com.frameoneapps.Crsel\n• Updated to: 1.3.712\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.3.712",
+          "date": "2026-06-09",
+          "size": 99305419,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.frameoneapps.Crsel_Crsel_1.3.712.ipa"
+        },
         {
           "version": "1.3.710",
           "date": "2026-06-04",
@@ -31838,19 +32037,13 @@
           "date": "2026-06-03",
           "size": 138041950,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.frameoneapps.Crsel_Crsel_1.3.709.ipa"
-        },
-        {
-          "version": "1.3.708",
-          "date": "2026-06-04",
-          "size": 98722146,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.frameoneapps.Crsel_Crsel_1.3.708.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.3.710",
-      "versionDate": "2026-06-04T21:18:19.897Z",
-      "size": 138170384,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.frameoneapps.Crsel_Crsel_1.3.710.ipa",
+      "version": "1.3.712",
+      "versionDate": "2026-06-09T01:05:59.773Z",
+      "size": 99305419,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.frameoneapps.Crsel_Crsel_1.3.712.ipa",
       "recommended": false
     },
     {
