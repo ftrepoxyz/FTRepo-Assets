@@ -225,11 +225,17 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/be/ef/0cbeef28-9e19-660f-aa78-20bf1f4ad87a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPhotoRoom: AI Photo Editor\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 18.0\n\nAppStore link | Donate",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/07/9c/a1079cf7-b14b-13a3-995f-9d6d4ffb5c39/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhotoroom: AI Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2026.24.02\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.dr1ven.eraser\nDeveloper: Photoroom",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2026.24.02",
+          "date": "2026-06-09",
+          "size": 119214285,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.dr1ven.eraser_Sideloadbypass2_2026.24.02.ipa"
+        },
         {
           "version": "2026.24.01",
           "date": "2026-06-08",
@@ -241,19 +247,13 @@
           "date": "2026-06-05",
           "size": 192465361,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.dr1ven.eraser_PhotoRoomPatch_2026.23.02.ipa"
-        },
-        {
-          "version": "2026.23.01",
-          "date": "2026-06-02",
-          "size": 122331561,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.dr1ven.eraser_Sideloadbypass2_2026.23.01.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2026.24.01",
-      "versionDate": "2026-06-08T19:08:10.654Z",
-      "size": 120206402,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.dr1ven.eraser_PhotoRoomPatch_2026.24.01.ipa",
+      "version": "2026.24.02",
+      "versionDate": "2026-06-09T10:06:07.313Z",
+      "size": 119214285,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.dr1ven.eraser_Sideloadbypass2_2026.24.02.ipa",
       "recommended": false
     },
     {
@@ -23709,7 +23709,7 @@
       "bundleIdentifier": "com.aiarlabs.prequel",
       "developerName": "Prequel Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/8c/f5/9b8cf5f1-52a5-f74e-982c-4b822c48c892/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPrequel: Photo & Video Editor\n\n• Bundle ID: com.aiarlabs.prequel\n• Updated to: 2.93.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nPrequel: Photo & Video Editor\n\n• Bundle ID: com.aiarlabs.prequel\n• Updated to: 2.94\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/5f/de/865fdea4-22c5-2863-25e2-80d3292500ab/screen_6.5_1.jpg/1320x2868bb.webp"
@@ -23764,6 +23764,12 @@
       ],
       "versions": [
         {
+          "version": "2.94.0",
+          "date": "2026-06-09",
+          "size": 260690093,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.aiarlabs.prequel_Prequel_2.94.0.ipa"
+        },
+        {
           "version": "2.93.1",
           "date": "2026-06-05",
           "size": 278427312,
@@ -23777,10 +23783,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.93.1",
-      "versionDate": "2026-06-05T00:27:37.063Z",
-      "size": 278427312,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.aiarlabs.prequel_Prequel_2.93.1.ipa",
+      "version": "2.94.0",
+      "versionDate": "2026-06-09T13:06:27.759Z",
+      "size": 260690093,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.aiarlabs.prequel_Prequel_2.94.0.ipa",
       "recommended": false
     },
     {
@@ -34263,7 +34269,7 @@
       "bundleIdentifier": "com.grandgames.magicsort",
       "developerName": "Grand Games A.Ş.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/84/4a/bc844a68-043c-cdca-def3-34eb66aa9af9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMagic Sort!\n\nTweak: Free iAP\n\nVersion: 0.0.2620\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.magicsort\nDeveloper: Grand Games A.Ş.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMagic Sort!\n\nTweak: Free iAP\n\nVersion: 0.0.2649\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.grandgames.magicsort\nDeveloper: Grand Games A.Ş.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/6e/4e/4a6e4ee3-e67b-db0c-5b26-9c81cd0bd650/RainbowSS_1242x2208.jpg/1320x2868bb.jpg"
@@ -34302,6 +34308,12 @@
       ],
       "versions": [
         {
+          "version": "0.0.2649",
+          "date": "2026-06-09",
+          "size": 188175321,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.grandgames.magicsort_Sideloadbypass2_0.0.2649.ipa"
+        },
+        {
           "version": "0.0.2620",
           "date": "2026-06-02",
           "size": 188050666,
@@ -34312,19 +34324,13 @@
           "date": "2026-06-03",
           "size": 199295426,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.grandgames.magicsort_Sideloadbypass2_0.0.2579.ipa"
-        },
-        {
-          "version": "0.0.2542",
-          "date": "2026-06-05",
-          "size": 196319720,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.grandgames.magicsort_Sideloadbypass2_0.0.2542.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.0.2620",
-      "versionDate": "2026-06-02T17:20:21.901Z",
-      "size": 188050666,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.grandgames.magicsort_Sideloadbypass2_0.0.2620.ipa",
+      "version": "0.0.2649",
+      "versionDate": "2026-06-09T13:06:52.983Z",
+      "size": 188175321,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.grandgames.magicsort_Sideloadbypass2_0.0.2649.ipa",
       "recommended": false
     },
     {
