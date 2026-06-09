@@ -7696,7 +7696,7 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/7a/66/607a665f-39fe-10f2-3d2f-ef0ecd165707/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.40\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.40.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg"
@@ -7731,6 +7731,12 @@
       ],
       "versions": [
         {
+          "version": "9.40.1",
+          "date": "2026-06-09",
+          "size": 72663042,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.dopedevelopment.Panels_Sideloadbypass2_9.40.1.ipa"
+        },
+        {
           "version": "9.40",
           "date": "2026-06-08",
           "size": 72672174,
@@ -7741,19 +7747,13 @@
           "date": "2026-06-02",
           "size": 72456989,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.dopedevelopment.Panels_Sideloadbypass2_9.39.ipa"
-        },
-        {
-          "version": "9.38",
-          "date": "2026-06-03",
-          "size": 77009303,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.dopedevelopment.Panels_Sideloadbypass2_9.38.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.40",
-      "versionDate": "2026-06-08T10:05:50.197Z",
-      "size": 72672174,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.dopedevelopment.Panels_Sideloadbypass2_9.40.ipa",
+      "version": "9.40.1",
+      "versionDate": "2026-06-09T16:06:21.294Z",
+      "size": 72663042,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.dopedevelopment.Panels_Sideloadbypass2_9.40.1.ipa",
       "recommended": false
     },
     {
@@ -8470,6 +8470,59 @@
       "versionDate": "2026-06-05T09:15:26.617Z",
       "size": 45484222,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.jps.gpspeedhud_StopReviews_9.0.2.ipa",
+      "recommended": false
+    },
+    {
+      "name": "edjing Mix",
+      "bundleIdentifier": "com.edjing.edjingdjturntable",
+      "developerName": "MWM",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/ec/06/44ec066c-5f1d-cb96-4276-438985ef3be4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nEdjing Mix - DJ Music Mixer\n\n• Bundle ID: com.edjing.edjingdjturntable\n• Updated to: 9.0.1\n• Minimum iOS: 18.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8b/3a/4f8b3ae0-5283-85fd-ee16-7b28136dc9ee/dd8bb763-2f99-4e88-ac16-e67199db5d0e_en-01.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ec/0c/86ec0cf7-7302-3af3-821a-3cbebbcde98b/93679357-390c-45fe-94cf-5773e846a4fb_en-02.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ef/cc/39efcc6b-5c66-b8af-0302-d9158fded289/dba377bf-8722-4f13-9496-9f7b4c152f98_en-03.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/b8/2a/e7b82abc-7508-f44c-d09d-f17fa135d2d9/95e898d1-c39e-4b37-aeef-dcdf83cc89ae_en-04.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/fc/4b/bdfc4bd9-26fa-a956-9929-8f62eef07547/752f5a92-bddc-476a-acb2-870508f25f6d_en-05.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cc/64/dccc64a6-5335-a446-ad76-11de3cff5677/33ac3a41-aaf1-4115-9834-2e7f9b246077_en-06.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/7f/46/837f462b-10dc-89fe-a391-d4fd3f533efe/262818d8-413f-4e4c-97ca-97f1838669ff_en-07.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8b/3a/4f8b3ae0-5283-85fd-ee16-7b28136dc9ee/dd8bb763-2f99-4e88-ac16-e67199db5d0e_en-01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ec/0c/86ec0cf7-7302-3af3-821a-3cbebbcde98b/93679357-390c-45fe-94cf-5773e846a4fb_en-02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ef/cc/39efcc6b-5c66-b8af-0302-d9158fded289/dba377bf-8722-4f13-9496-9f7b4c152f98_en-03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/b8/2a/e7b82abc-7508-f44c-d09d-f17fa135d2d9/95e898d1-c39e-4b37-aeef-dcdf83cc89ae_en-04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/fc/4b/bdfc4bd9-26fa-a956-9929-8f62eef07547/752f5a92-bddc-476a-acb2-870508f25f6d_en-05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cc/64/dccc64a6-5335-a446-ad76-11de3cff5677/33ac3a41-aaf1-4115-9834-2e7f9b246077_en-06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/7f/46/837f462b-10dc-89fe-a391-d4fd3f533efe/262818d8-413f-4e4c-97ca-97f1838669ff_en-07.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "9.0.1",
+          "date": "2026-06-09",
+          "size": 144370407,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.edjing.edjingdjturntable_DJMixer_9.0.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.0.1",
+      "versionDate": "2026-06-09T19:06:22.473Z",
+      "size": 144370407,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.edjing.edjingdjturntable_DJMixer_9.0.1.ipa",
       "recommended": false
     },
     {
@@ -9754,6 +9807,51 @@
       "versionDate": "2026-06-02T15:38:37.207Z",
       "size": 96355190,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/io.readwise.read_8.4.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Widgetsmith",
+      "bundleIdentifier": "com.crossforward.WidgetSmith",
+      "developerName": "Cross Forward Consulting, LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/d0/67/17d0678a-6b33-289d-e507-0811bcdf3243/Primary-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nWidgetsmith\n\n• Bundle ID: com.crossforward.WidgetSmith\n• Updated to: 8.3.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/eb/6c/28eb6c4d-667b-0fbf-f6ad-52e45f2fa7c2/8.0_Launch_-_iPad_Panel_1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/ca/73/2fca7366-41fe-9263-6d78-7435546d629f/8.0_Launch_-_iPad_Panel_2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/33/72/4433724d-5727-0b5e-eeed-7efcac30ee0d/8.0_Launch_-_iPad_Panel_3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/94/42/7f9442e5-d410-cde8-2995-b399528e45de/8.0_Launch_-_iPad_Panel_4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/0c/3c/1e0c3c3b-46ec-358f-b16d-e57c63a33798/8.0_Launch_-_iPad_Panel_5.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/eb/6c/28eb6c4d-667b-0fbf-f6ad-52e45f2fa7c2/8.0_Launch_-_iPad_Panel_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/ca/73/2fca7366-41fe-9263-6d78-7435546d629f/8.0_Launch_-_iPad_Panel_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/33/72/4433724d-5727-0b5e-eeed-7efcac30ee0d/8.0_Launch_-_iPad_Panel_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/94/42/7f9442e5-d410-cde8-2995-b399528e45de/8.0_Launch_-_iPad_Panel_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/0c/3c/1e0c3c3b-46ec-358f-b16d-e57c63a33798/8.0_Launch_-_iPad_Panel_5.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "8.3.1",
+          "date": "2026-06-09",
+          "size": 108478458,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.crossforward.WidgetSmith_AutoRcSideload_8.3.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "8.3.1",
+      "versionDate": "2026-06-09T16:06:11.121Z",
+      "size": 108478458,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.crossforward.WidgetSmith_AutoRcSideload_8.3.1.ipa",
       "recommended": false
     },
     {
@@ -24367,6 +24465,77 @@
       "recommended": false
     },
     {
+      "name": "Mesmerize",
+      "bundleIdentifier": "com.rockwellventures.mesmerize",
+      "developerName": "Rockwell Ventures",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/86/73/438673ca-86c3-01cc-4e12-c5793fad4463/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMesmerize - Visual Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 2.41\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.rockwellventures.mesmerize\nDeveloper: Rockwell Ventures",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/91/2a/b3912ac2-30e0-905e-7417-3e59f287a755/4c25d08d-b3e1-4ae7-945b-f92e18005ec2_11.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/2f/b6/3c2fb692-439b-9d32-af95-3361644a146e/eadd4afa-8cd4-4270-b159-adf56d99b405_12.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/06/62/1c06621c-e9ba-7017-15e9-d44f2dd3c015/db9c7a17-807d-4d28-911f-25be1784b527_13.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/72/de/4a72dea3-d513-6595-8876-dd3497616191/cb857a06-b1ee-42eb-a04f-eb113eae1ce7_14.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/e9/1b/6de91b9f-d148-d2f9-b81e-afb7e9881263/4de06b94-1b2b-408d-baeb-7a776fa66d67_15.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/8b/90/998b9086-2b68-2288-a62a-a51791621a61/a7fe164d-9667-4743-b9bb-14bd53416a94_16.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/44/bb/5844bb07-8bcc-8627-502b-c90224c5cab3/61f79192-9b97-4595-9fd5-a040fd5baa25_17.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/9e/14/3b9e14fe-7836-7f40-fae9-0d779f1bf22c/6a47e90a-854c-4df8-99a1-ce959d8dad9b_18.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/66/57/8766575b-c3f2-1abe-cbae-90d16959cd41/54e34787-1dd1-4643-8722-74f91dd9fc7c_19.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/d0/62/54d062c0-61b6-a9ee-8a75-869a64fbca94/417db0fe-b1c3-4b54-b6d9-7b8261a92542_20.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/91/2a/b3912ac2-30e0-905e-7417-3e59f287a755/4c25d08d-b3e1-4ae7-945b-f92e18005ec2_11.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/2f/b6/3c2fb692-439b-9d32-af95-3361644a146e/eadd4afa-8cd4-4270-b159-adf56d99b405_12.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/06/62/1c06621c-e9ba-7017-15e9-d44f2dd3c015/db9c7a17-807d-4d28-911f-25be1784b527_13.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/72/de/4a72dea3-d513-6595-8876-dd3497616191/cb857a06-b1ee-42eb-a04f-eb113eae1ce7_14.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/e9/1b/6de91b9f-d148-d2f9-b81e-afb7e9881263/4de06b94-1b2b-408d-baeb-7a776fa66d67_15.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/8b/90/998b9086-2b68-2288-a62a-a51791621a61/a7fe164d-9667-4743-b9bb-14bd53416a94_16.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/44/bb/5844bb07-8bcc-8627-502b-c90224c5cab3/61f79192-9b97-4595-9fd5-a040fd5baa25_17.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/9e/14/3b9e14fe-7836-7f40-fae9-0d779f1bf22c/6a47e90a-854c-4df8-99a1-ce959d8dad9b_18.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/66/57/8766575b-c3f2-1abe-cbae-90d16959cd41/54e34787-1dd1-4643-8722-74f91dd9fc7c_19.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/d0/62/54d062c0-61b6-a9ee-8a75-869a64fbca94/417db0fe-b1c3-4b54-b6d9-7b8261a92542_20.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.41",
+          "date": "2026-06-09",
+          "size": 228074129,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.rockwellventures.mesmerize_Sideloadbypass2_2.41.ipa"
+        },
+        {
+          "version": "2.40",
+          "date": "2026-06-05",
+          "size": 228070322,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.rockwellventures.mesmerize_Sideloadbypass2_2.40.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.41",
+      "versionDate": "2026-06-09T19:06:49.775Z",
+      "size": 228074129,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.rockwellventures.mesmerize_Sideloadbypass2_2.41.ipa",
+      "recommended": false
+    },
+    {
       "name": "Hunter Assassin",
       "bundleIdentifier": "com.rubygames.assassin",
       "developerName": "RUBY OYUN VE YAZILIM DANISMANLIK SANAYI TICARET ANONIM SIRKETI",
@@ -24565,71 +24734,6 @@
       "versionDate": "2026-06-02T14:44:58.603Z",
       "size": 18198306,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/PHCXZHD53T.com.enki.insights_Enki_2.40.9.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Mesmerize",
-      "bundleIdentifier": "com.rockwellventures.mesmerize",
-      "developerName": "Rockwell Ventures",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/86/73/438673ca-86c3-01cc-4e12-c5793fad4463/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMesmerize - Visual Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 2.40\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.rockwellventures.mesmerize\nDeveloper: Rockwell Ventures",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/91/2a/b3912ac2-30e0-905e-7417-3e59f287a755/4c25d08d-b3e1-4ae7-945b-f92e18005ec2_11.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/2f/b6/3c2fb692-439b-9d32-af95-3361644a146e/eadd4afa-8cd4-4270-b159-adf56d99b405_12.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/06/62/1c06621c-e9ba-7017-15e9-d44f2dd3c015/db9c7a17-807d-4d28-911f-25be1784b527_13.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/72/de/4a72dea3-d513-6595-8876-dd3497616191/cb857a06-b1ee-42eb-a04f-eb113eae1ce7_14.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/e9/1b/6de91b9f-d148-d2f9-b81e-afb7e9881263/4de06b94-1b2b-408d-baeb-7a776fa66d67_15.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/8b/90/998b9086-2b68-2288-a62a-a51791621a61/a7fe164d-9667-4743-b9bb-14bd53416a94_16.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/44/bb/5844bb07-8bcc-8627-502b-c90224c5cab3/61f79192-9b97-4595-9fd5-a040fd5baa25_17.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/9e/14/3b9e14fe-7836-7f40-fae9-0d779f1bf22c/6a47e90a-854c-4df8-99a1-ce959d8dad9b_18.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/66/57/8766575b-c3f2-1abe-cbae-90d16959cd41/54e34787-1dd1-4643-8722-74f91dd9fc7c_19.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/d0/62/54d062c0-61b6-a9ee-8a75-869a64fbca94/417db0fe-b1c3-4b54-b6d9-7b8261a92542_20.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/91/2a/b3912ac2-30e0-905e-7417-3e59f287a755/4c25d08d-b3e1-4ae7-945b-f92e18005ec2_11.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/2f/b6/3c2fb692-439b-9d32-af95-3361644a146e/eadd4afa-8cd4-4270-b159-adf56d99b405_12.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/06/62/1c06621c-e9ba-7017-15e9-d44f2dd3c015/db9c7a17-807d-4d28-911f-25be1784b527_13.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/72/de/4a72dea3-d513-6595-8876-dd3497616191/cb857a06-b1ee-42eb-a04f-eb113eae1ce7_14.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/e9/1b/6de91b9f-d148-d2f9-b81e-afb7e9881263/4de06b94-1b2b-408d-baeb-7a776fa66d67_15.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/8b/90/998b9086-2b68-2288-a62a-a51791621a61/a7fe164d-9667-4743-b9bb-14bd53416a94_16.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/44/bb/5844bb07-8bcc-8627-502b-c90224c5cab3/61f79192-9b97-4595-9fd5-a040fd5baa25_17.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/9e/14/3b9e14fe-7836-7f40-fae9-0d779f1bf22c/6a47e90a-854c-4df8-99a1-ce959d8dad9b_18.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/66/57/8766575b-c3f2-1abe-cbae-90d16959cd41/54e34787-1dd1-4643-8722-74f91dd9fc7c_19.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/d0/62/54d062c0-61b6-a9ee-8a75-869a64fbca94/417db0fe-b1c3-4b54-b6d9-7b8261a92542_20.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "2.40",
-          "date": "2026-06-05",
-          "size": 228070322,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.rockwellventures.mesmerize_Sideloadbypass2_2.40.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.40",
-      "versionDate": "2026-06-05T02:43:12.429Z",
-      "size": 228070322,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.rockwellventures.mesmerize_Sideloadbypass2_2.40.ipa",
       "recommended": false
     },
     {
