@@ -312,7 +312,7 @@
       ],
       "appPermissions": {},
       "version": "2026.23.0",
-      "versionDate": "2026-06-10T07:23:37.257Z",
+      "versionDate": "2026-06-10T07:24:06.512Z",
       "size": 155535490,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/com.reddit.Reddit_redditColorComments_2026.23.0.ipa",
       "recommended": true
@@ -21348,7 +21348,7 @@
       "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
       "developerName": "Moreno Maio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/61/81/d261817e-7b34-7053-68c5-b868703eadc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nOffline Games - No Wifi Games\n\nTweak: Unlimited Tokens, No Ads\n\nVersion: 3.12.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.JindoBlu.OfflineGamesIOS\nDeveloper: Moreno Maio",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOffline Games - No Wifi Games\n\nTweak: Unlimited Tokens, No Ads\n\nVersion: 3.12.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.JindoBlu.OfflineGamesIOS\nDeveloper: Moreno Maio",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/19/2e/13192e32-18f6-3a91-c1a6-469bde566f9d/MiniBanners_1242x2208.png/1320x2868bb.png"
@@ -21395,6 +21395,12 @@
       ],
       "versions": [
         {
+          "version": "3.12.3",
+          "date": "2026-06-10",
+          "size": 99958962,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/com.JindoBlu.OfflineGamesIOS_ogrifty_3.12.3.ipa"
+        },
+        {
           "version": "3.12.2",
           "date": "2026-06-02",
           "size": 99952488,
@@ -21408,10 +21414,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.12.2",
-      "versionDate": "2026-06-02T17:15:17.357Z",
-      "size": 99952488,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.JindoBlu.OfflineGamesIOS_ogrifty_3.12.2.ipa",
+      "version": "3.12.3",
+      "versionDate": "2026-06-10T10:23:12.344Z",
+      "size": 99958962,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/com.JindoBlu.OfflineGamesIOS_ogrifty_3.12.3.ipa",
       "recommended": false
     },
     {
@@ -25376,52 +25382,11 @@
       "recommended": false
     },
     {
-      "name": "iRetouch",
-      "bundleIdentifier": "com.photoedit.cleanwatermark",
-      "developerName": "俊杰 阮",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/1c/39/7d1c39cd-c5e8-56d7-82c2-493156847145/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\niRetouch - Photo Video Eraser\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/e9/0e/1be90ef3-8c6e-3f44-f0ca-872661ef1603/32d2ebe7-93c6-4bce-857f-c65670e1da88_iPhoneMin0.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/65/5a/ff655a10-b302-e002-9310-94e3dd66d2bc/72517199-13c2-4215-bceb-48d3e9d184f6_iPhoneMin1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/d3/d5/cfd3d587-fb1a-2142-271c-3d2ff6511b0d/9f3cd46a-e01c-4261-8664-741f2f1bf888_iPhoneMin2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/f1/ee/65f1ee02-05c9-51ef-a9e1-fa7071818958/0d88cbca-e64a-4e02-8e76-187230ded2c2_iPhoneMin3.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/e9/0e/1be90ef3-8c6e-3f44-f0ca-872661ef1603/32d2ebe7-93c6-4bce-857f-c65670e1da88_iPhoneMin0.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/65/5a/ff655a10-b302-e002-9310-94e3dd66d2bc/72517199-13c2-4215-bceb-48d3e9d184f6_iPhoneMin1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/d3/d5/cfd3d587-fb1a-2142-271c-3d2ff6511b0d/9f3cd46a-e01c-4261-8664-741f2f1bf888_iPhoneMin2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/f1/ee/65f1ee02-05c9-51ef-a9e1-fa7071818958/0d88cbca-e64a-4e02-8e76-187230ded2c2_iPhoneMin3.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "2.15",
-          "date": "2026-06-03",
-          "size": 239998884,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.photoedit.cleanwatermark_iRetouchPro_2.15.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.15",
-      "versionDate": "2026-06-03T10:41:02.926Z",
-      "size": 239998884,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.photoedit.cleanwatermark_iRetouchPro_2.15.ipa",
-      "recommended": false
-    },
-    {
       "name": "Ereasy",
       "bundleIdentifier": "background.remover.bg.eraser",
       "developerName": "Video editor & maker app",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/0b/21/610b21ed-3386-50ae-e2c8-18ff2a5f6033/AppIconV2-0-0-1x_U007ephone-0-11-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Background Remover - Ereasy\n\nTweak: Subscription Unlocked\n\nVersion: 2.14.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: background.remover.bg.eraser\nDeveloper: Video editor & maker app",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Background Remover - Ereasy\n\nTweak: Subscription Unlocked\n\nVersion: 2.15.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: background.remover.bg.eraser\nDeveloper: Video editor & maker app",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/75/ac/9375ac5e-8a4e-2044-d599-30b5aba9107a/EN_US_ScreenshotsAppStore_6.5_1.jpg/1320x2868bb.webp"
@@ -25468,6 +25433,12 @@
       ],
       "versions": [
         {
+          "version": "2.15.0",
+          "date": "2026-06-10",
+          "size": 86633016,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/background.remover.bg.eraser_Sideloadbypass2_2.15.0.ipa"
+        },
+        {
           "version": "2.14.1",
           "date": "2026-06-05",
           "size": 86623539,
@@ -25475,10 +25446,51 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.14.1",
-      "versionDate": "2026-06-05T00:13:49.509Z",
-      "size": 86623539,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/background.remover.bg.eraser_Sideloadbypass2_2.14.1.ipa",
+      "version": "2.15.0",
+      "versionDate": "2026-06-10T07:24:17.850Z",
+      "size": 86633016,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/background.remover.bg.eraser_Sideloadbypass2_2.15.0.ipa",
+      "recommended": false
+    },
+    {
+      "name": "iRetouch",
+      "bundleIdentifier": "com.photoedit.cleanwatermark",
+      "developerName": "俊杰 阮",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/1c/39/7d1c39cd-c5e8-56d7-82c2-493156847145/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\niRetouch - Photo Video Eraser\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/e9/0e/1be90ef3-8c6e-3f44-f0ca-872661ef1603/32d2ebe7-93c6-4bce-857f-c65670e1da88_iPhoneMin0.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/65/5a/ff655a10-b302-e002-9310-94e3dd66d2bc/72517199-13c2-4215-bceb-48d3e9d184f6_iPhoneMin1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/d3/d5/cfd3d587-fb1a-2142-271c-3d2ff6511b0d/9f3cd46a-e01c-4261-8664-741f2f1bf888_iPhoneMin2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/f1/ee/65f1ee02-05c9-51ef-a9e1-fa7071818958/0d88cbca-e64a-4e02-8e76-187230ded2c2_iPhoneMin3.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/e9/0e/1be90ef3-8c6e-3f44-f0ca-872661ef1603/32d2ebe7-93c6-4bce-857f-c65670e1da88_iPhoneMin0.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/65/5a/ff655a10-b302-e002-9310-94e3dd66d2bc/72517199-13c2-4215-bceb-48d3e9d184f6_iPhoneMin1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/d3/d5/cfd3d587-fb1a-2142-271c-3d2ff6511b0d/9f3cd46a-e01c-4261-8664-741f2f1bf888_iPhoneMin2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/f1/ee/65f1ee02-05c9-51ef-a9e1-fa7071818958/0d88cbca-e64a-4e02-8e76-187230ded2c2_iPhoneMin3.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.15",
+          "date": "2026-06-03",
+          "size": 239998884,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.photoedit.cleanwatermark_iRetouchPro_2.15.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.15",
+      "versionDate": "2026-06-03T10:41:02.926Z",
+      "size": 239998884,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.photoedit.cleanwatermark_iRetouchPro_2.15.ipa",
       "recommended": false
     },
     {
@@ -33218,11 +33230,17 @@
       "name": "Bearable",
       "bundleIdentifier": "co.codeleap.bearable",
       "developerName": "Bearable Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/14/66/a514661a-f34c-57bd-5b4a-4e2cbd81395d/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/bf/d9/34bfd9a8-2fb1-e028-eefa-ed14a30007be/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
       "localizedDescription": "from @blatants |\n----------------\nBearable - Symptom Tracker\n\n• Bundle ID: co.codeleap.bearable\n• Updated to: 1.0.597\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nPremium Unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.0.598",
+          "date": "2026-06-10",
+          "size": 59853401,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/co.codeleap.bearable_AutoRcSideload_1.0.598.ipa"
+        },
         {
           "version": "1.0.597",
           "date": "2026-06-02",
@@ -33234,19 +33252,13 @@
           "date": "2026-06-03",
           "size": 59446179,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/co.codeleap.bearable_AutoRcSideload_1.0.596.ipa"
-        },
-        {
-          "version": "1.0.595",
-          "date": "2026-06-05",
-          "size": 59433359,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/co.codeleap.bearable_AutoRcSideload_1.0.595.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.0.597",
-      "versionDate": "2026-06-02T14:39:12.398Z",
-      "size": 61166491,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/co.codeleap.bearable_AutoRcSideload_1.0.597.ipa",
+      "version": "1.0.598",
+      "versionDate": "2026-06-10T13:23:11.369Z",
+      "size": 59853401,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/co.codeleap.bearable_AutoRcSideload_1.0.598.ipa",
       "recommended": false
     },
     {
