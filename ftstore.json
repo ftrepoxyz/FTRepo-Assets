@@ -4327,7 +4327,7 @@
       "bundleIdentifier": "com.adobe.premiere.ios",
       "developerName": "Adobe Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/02/2f/34022f22-aefd-ebb9-8b1a-1d045924eb92/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAdobe Premiere AI Video Editor\n\n• Bundle ID: com.adobe.premiere.ios\n• Updated to: 26.13.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nAdobe Premiere AI Video Editor\n\n• Bundle ID: com.adobe.premiere.ios\n• Updated to: 26.14.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/08/bd/6308bd91-ac7c-a05b-fafc-bc1971fe99bb/Adobe_Premiere_EN_iOS_6.9_Screenshots_260311_01.png/1320x2868bb.webp"
@@ -4402,6 +4402,12 @@
       ],
       "versions": [
         {
+          "version": "26.14.0",
+          "date": "2026-06-11",
+          "size": 67096580,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.adobe.premiere.ios_FilePickerFix_26.14.0.ipa"
+        },
+        {
           "version": "26.13.0",
           "date": "2026-06-02",
           "size": 65681879,
@@ -4415,10 +4421,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "26.13.0",
-      "versionDate": "2026-06-02T15:10:29.777Z",
-      "size": 65681879,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.adobe.premiere.ios_FilePickerFix_26.13.0.ipa",
+      "version": "26.14.0",
+      "versionDate": "2026-06-11T07:06:58.263Z",
+      "size": 67096580,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.adobe.premiere.ios_FilePickerFix_26.14.0.ipa",
       "recommended": false
     },
     {
@@ -8162,7 +8168,7 @@
       "bundleIdentifier": "com.AppChief.ArabicArt",
       "developerName": "AppChief Ltd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/48/6c/86486c6a-cc47-1c2e-c0f8-9a33cc7a0fbc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAndalusi AI Design Photo Video\n\n• Bundle ID: com.AppChief.ArabicArt\n• Updated to: 9.8.1\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Reinstall the app if subscription isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nAndalusi AI Design Photo Video\n\n• Bundle ID: com.AppChief.ArabicArt\n• Updated to: 9.8.4\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Reinstall the app if subscription isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/b2/60/0eb26066-aa57-c831-69ea-5ef765f27619/b560e5e4-5aaa-4782-b7b8-1edaa0f9b312_1242x2208_EN_Cover.png/1320x2868bb.png"
@@ -8209,6 +8215,12 @@
       ],
       "versions": [
         {
+          "version": "9.8.4",
+          "date": "2026-06-11",
+          "size": 66508016,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.AppChief.ArabicArt_Andalusi_9.8.4.ipa"
+        },
+        {
           "version": "9.8.1",
           "date": "2026-06-03",
           "size": 116399145,
@@ -8222,10 +8234,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.8.1",
-      "versionDate": "2026-06-03T09:51:28.121Z",
-      "size": 116399145,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.AppChief.ArabicArt_Andalusi_9.8.1.ipa",
+      "version": "9.8.4",
+      "versionDate": "2026-06-11T01:07:50.341Z",
+      "size": 66508016,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.AppChief.ArabicArt_Andalusi_9.8.4.ipa",
       "recommended": false
     },
     {
@@ -18700,6 +18712,69 @@
       "recommended": false
     },
     {
+      "name": "VivaCut",
+      "bundleIdentifier": "com.vivacut.videoeditor",
+      "developerName": "Hangzhou Quwei Technology Co., Ltd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/b9/72/1bb97263-4f3e-0be6-a4e6-1c18cff3113b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nVivaCut - AI Video Editor\n\n• Bundle ID: com.vivacut.videoeditor\n• Updated to: 4.6.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart app if subscription isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fa/8d/ef/fa8def6d-88de-7fb2-1aeb-820e931b861b/f785803c-65d1-44b4-9083-2214b86b6704__U7f8e_U56fd_U753b_U4e2d_U753b5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/ac/c4/f1acc43d-70e4-dc46-009e-4a4eb8f1bb0a/a37a6ece-bce6-423b-9b78-0c81f180dee7_vivacut-1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/87/95/148795be-3e07-481c-6d41-a7df4fa329fc/ec346a0e-4a9e-4e7b-a52a-3a6e471300a3_vivacut.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/8a/b9/b48ab9e7-39d6-bcc2-1208-dda753494a8d/62ef3377-c0dc-4d29-ba12-34d1cce526d8_vivacut-4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/a4/2f/89a42fb0-4f1e-f2c6-d780-3e815fadaeb2/d52706cd-f5c3-461a-a606-6b4395935d09_vivacut-3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e4/a4/2be4a4ca-9694-6b30-9754-9eee6db2b3ca/e19256f4-1bd5-48b4-b423-5bc24a99e99a_vivacut-5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/b7/7e/71b77e63-3edb-13d8-0a1b-d1e741d24667/3cb4d050-e644-43e0-a0b2-f1af31ddc3c1_vivacut-6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/bd/0a/efbd0a34-8b94-e6cd-d62c-e12c078744b4/e786f0b2-361b-49fa-b81d-77f50093f107_vivacut-2.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fa/8d/ef/fa8def6d-88de-7fb2-1aeb-820e931b861b/f785803c-65d1-44b4-9083-2214b86b6704__U7f8e_U56fd_U753b_U4e2d_U753b5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/ac/c4/f1acc43d-70e4-dc46-009e-4a4eb8f1bb0a/a37a6ece-bce6-423b-9b78-0c81f180dee7_vivacut-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/87/95/148795be-3e07-481c-6d41-a7df4fa329fc/ec346a0e-4a9e-4e7b-a52a-3a6e471300a3_vivacut.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/8a/b9/b48ab9e7-39d6-bcc2-1208-dda753494a8d/62ef3377-c0dc-4d29-ba12-34d1cce526d8_vivacut-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/a4/2f/89a42fb0-4f1e-f2c6-d780-3e815fadaeb2/d52706cd-f5c3-461a-a606-6b4395935d09_vivacut-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e4/a4/2be4a4ca-9694-6b30-9754-9eee6db2b3ca/e19256f4-1bd5-48b4-b423-5bc24a99e99a_vivacut-5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/b7/7e/71b77e63-3edb-13d8-0a1b-d1e741d24667/3cb4d050-e644-43e0-a0b2-f1af31ddc3c1_vivacut-6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/bd/0a/efbd0a34-8b94-e6cd-d62c-e12c078744b4/e786f0b2-361b-49fa-b81d-77f50093f107_vivacut-2.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "4.6.0",
+          "date": "2026-06-11",
+          "size": 203109116,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.vivacut.videoeditor_sideloadKeychainfix_4.6.0.ipa"
+        },
+        {
+          "version": "4.5.9",
+          "date": "2026-06-04",
+          "size": 218991949,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.vivacut.videoeditor_VivaCutPro_4.5.9.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.6.0",
+      "versionDate": "2026-06-11T04:07:00.168Z",
+      "size": 203109116,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.vivacut.videoeditor_sideloadKeychainfix_4.6.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Reveri",
       "bundleIdentifier": "com.reveri.reverihealth",
       "developerName": "Reveri Health, Inc.",
@@ -18758,63 +18833,6 @@
       "versionDate": "2026-06-02T17:17:16.894Z",
       "size": 90445600,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.reveri.reverihealth_Sideloadbypass2_4.6.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "VivaCut",
-      "bundleIdentifier": "com.vivacut.videoeditor",
-      "developerName": "Hangzhou Quwei Technology Co., Ltd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/b9/72/1bb97263-4f3e-0be6-a4e6-1c18cff3113b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nVivaCut\n\nPro unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fa/8d/ef/fa8def6d-88de-7fb2-1aeb-820e931b861b/f785803c-65d1-44b4-9083-2214b86b6704__U7f8e_U56fd_U753b_U4e2d_U753b5.5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/ac/c4/f1acc43d-70e4-dc46-009e-4a4eb8f1bb0a/a37a6ece-bce6-423b-9b78-0c81f180dee7_vivacut-1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/87/95/148795be-3e07-481c-6d41-a7df4fa329fc/ec346a0e-4a9e-4e7b-a52a-3a6e471300a3_vivacut.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/8a/b9/b48ab9e7-39d6-bcc2-1208-dda753494a8d/62ef3377-c0dc-4d29-ba12-34d1cce526d8_vivacut-4.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/a4/2f/89a42fb0-4f1e-f2c6-d780-3e815fadaeb2/d52706cd-f5c3-461a-a606-6b4395935d09_vivacut-3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e4/a4/2be4a4ca-9694-6b30-9754-9eee6db2b3ca/e19256f4-1bd5-48b4-b423-5bc24a99e99a_vivacut-5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/b7/7e/71b77e63-3edb-13d8-0a1b-d1e741d24667/3cb4d050-e644-43e0-a0b2-f1af31ddc3c1_vivacut-6.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/bd/0a/efbd0a34-8b94-e6cd-d62c-e12c078744b4/e786f0b2-361b-49fa-b81d-77f50093f107_vivacut-2.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fa/8d/ef/fa8def6d-88de-7fb2-1aeb-820e931b861b/f785803c-65d1-44b4-9083-2214b86b6704__U7f8e_U56fd_U753b_U4e2d_U753b5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/ac/c4/f1acc43d-70e4-dc46-009e-4a4eb8f1bb0a/a37a6ece-bce6-423b-9b78-0c81f180dee7_vivacut-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/87/95/148795be-3e07-481c-6d41-a7df4fa329fc/ec346a0e-4a9e-4e7b-a52a-3a6e471300a3_vivacut.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/8a/b9/b48ab9e7-39d6-bcc2-1208-dda753494a8d/62ef3377-c0dc-4d29-ba12-34d1cce526d8_vivacut-4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/a4/2f/89a42fb0-4f1e-f2c6-d780-3e815fadaeb2/d52706cd-f5c3-461a-a606-6b4395935d09_vivacut-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e4/a4/2be4a4ca-9694-6b30-9754-9eee6db2b3ca/e19256f4-1bd5-48b4-b423-5bc24a99e99a_vivacut-5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/b7/7e/71b77e63-3edb-13d8-0a1b-d1e741d24667/3cb4d050-e644-43e0-a0b2-f1af31ddc3c1_vivacut-6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/bd/0a/efbd0a34-8b94-e6cd-d62c-e12c078744b4/e786f0b2-361b-49fa-b81d-77f50093f107_vivacut-2.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "4.5.9",
-          "date": "2026-06-04",
-          "size": 218991949,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.vivacut.videoeditor_VivaCutPro_4.5.9.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.5.9",
-      "versionDate": "2026-06-04T22:06:34.630Z",
-      "size": 218991949,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.vivacut.videoeditor_VivaCutPro_4.5.9.ipa",
       "recommended": false
     },
     {
@@ -19725,6 +19743,41 @@
       "recommended": false
     },
     {
+      "name": " ",
+      "bundleIdentifier": "tech.miidii.MDBlank",
+      "developerName": "MD Studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/4e/da/f34eda31-6575-0e25-f338-85e197a3c1f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nMD Widgets: Live Wallpaper\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 4.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.1",
+          "date": "2026-06-11",
+          "size": 166586564,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/tech.miidii.MDBlank_MDWidgets_4.1.ipa"
+        },
+        {
+          "version": "4.0.2",
+          "date": "2026-06-02",
+          "size": 166179019,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDBlank_MDWidgets_4.0.2.ipa"
+        },
+        {
+          "version": "4.0.1",
+          "date": "2026-06-02",
+          "size": 194656435,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDBlank_MDWidgets_4.0.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.1",
+      "versionDate": "2026-06-11T01:07:40.437Z",
+      "size": 166586564,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/tech.miidii.MDBlank_MDWidgets_4.1.ipa",
+      "recommended": false
+    },
+    {
       "name": "VDIT",
       "bundleIdentifier": "me.imgbase.videoday",
       "developerName": "ImgBase, Inc.",
@@ -20027,41 +20080,6 @@
       "versionDate": "2026-06-05T09:13:46.180Z",
       "size": 123211008,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.ilovepdf.www_Sideloadbypass2_4.0.2.ipa",
-      "recommended": false
-    },
-    {
-      "name": " ",
-      "bundleIdentifier": "tech.miidii.MDBlank",
-      "developerName": "MD Studio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/4d/b6/1f4db6b3-b282-b925-791f-ff8766f56d3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Widgets: Live Wallpaper\n\n• Bundle ID: tech.miidii.MDBlank\n• Updated to: 4.0.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.0.2",
-          "date": "2026-06-02",
-          "size": 166179019,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDBlank_MDWidgets_4.0.2.ipa"
-        },
-        {
-          "version": "4.0.1",
-          "date": "2026-06-02",
-          "size": 194656435,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDBlank_MDWidgets_4.0.1.ipa"
-        },
-        {
-          "version": "4.0.0",
-          "date": "2026-06-03",
-          "size": 193431743,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/tech.miidii.MDBlank_MDWidgets_4.0.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.0.2",
-      "versionDate": "2026-06-02T14:42:12.587Z",
-      "size": 166179019,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDBlank_MDWidgets_4.0.2.ipa",
       "recommended": false
     },
     {
@@ -24131,7 +24149,7 @@
       "bundleIdentifier": "tech.miidii.MDClock",
       "developerName": "MD Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/d8/10/c4d8105f-b1d3-f3f3-ceda-5efd67f20c9f/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.69\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nMD Clock - Flip Clock\n\n• Bundle ID: tech.miidii.MDClock\n• Updated to: 2.69.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/1320x2868bb.jpg"
@@ -24178,6 +24196,12 @@
       ],
       "versions": [
         {
+          "version": "2.69.1",
+          "date": "2026-06-11",
+          "size": 196778411,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/tech.miidii.MDClock_MDClock_2.69.1.ipa"
+        },
+        {
           "version": "2.69",
           "date": "2026-06-02",
           "size": 196785110,
@@ -24185,10 +24209,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.69",
-      "versionDate": "2026-06-02T14:41:50.868Z",
-      "size": 196785110,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tech.miidii.MDClock_MDClock_2.69.ipa",
+      "version": "2.69.1",
+      "versionDate": "2026-06-11T01:07:08.184Z",
+      "size": 196778411,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/tech.miidii.MDClock_MDClock_2.69.1.ipa",
       "recommended": false
     },
     {
