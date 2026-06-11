@@ -22557,7 +22557,7 @@
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "MWM",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/d3/19/2ad31907-3323-ee30-4d32-ea07ab90a30d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPhoto Cleaner: Swipewipe\n\n• Bundle ID: com.aoklab.fewerphotos\n• Updated to: 3.4.2\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nPhoto Cleaner: Swipewipe\n\n• Bundle ID: com.aoklab.fewerphotos\n• Updated to: 3.4.3\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/1e/04/ec1e040e-189b-213a-e35e-485034915f33/EN_iphone65_01.png/1320x2868bb.webp"
@@ -22644,6 +22644,12 @@
       ],
       "versions": [
         {
+          "version": "3.4.3",
+          "date": "2026-06-11",
+          "size": 146703414,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.aoklab.fewerphotos_SwipeWipe_3.4.3.ipa"
+        },
+        {
           "version": "3.4.2",
           "date": "2026-06-02",
           "size": 145331847,
@@ -22654,19 +22660,13 @@
           "date": "2026-06-03",
           "size": 145133660,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.aoklab.fewerphotos_SwipeWipe_3.4.1.ipa"
-        },
-        {
-          "version": "3.4.0",
-          "date": "2026-06-04",
-          "size": 145775597,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.aoklab.fewerphotos_SwipeWipe_3.4.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.4.2",
-      "versionDate": "2026-06-02T23:27:42.591Z",
-      "size": 145331847,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.aoklab.fewerphotos_SwipeWipe_3.4.2.ipa",
+      "version": "3.4.3",
+      "versionDate": "2026-06-11T19:07:32.883Z",
+      "size": 146703414,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.aoklab.fewerphotos_SwipeWipe_3.4.3.ipa",
       "recommended": false
     },
     {
@@ -23629,6 +23629,63 @@
       "versionDate": "2026-06-03T12:17:36.505Z",
       "size": 74297508,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.stippl.stippl_Sideloadbypass2_3.0.8.ipa",
+      "recommended": false
+    },
+    {
+      "name": "1 2 3 4 Player Games",
+      "bundleIdentifier": "com.JindoBlu.FourPlayersIOS",
+      "developerName": "Moreno Maio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/ff/e5/58ffe5bb-0056-8d22-f99f-84a6fe73606c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\n1 2 3 4 Player Games\n\nTweak: No Ads\n\nVersion: 3.0.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.JindoBlu.FourPlayersIOS\nDeveloper: Moreno Maio",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/87/c5/1787c554-47df-8f66-81a9-d9e11ce71b9b/4PG_1242x2208_01-2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/12/4f/37124fce-fb7b-d3b6-a0ad-60a1b30a0c9a/4PG_1242x2208_02-2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/03/40/1903406c-8b4b-d4e2-99c1-9dca0d5762ca/4PG_1242x2208_04-2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/9e/b6/3d9eb659-3a3b-356c-56ea-3a916aedaf7e/4PG_1242x2208_03-2.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/17/28/d81728e2-663c-d407-bb1f-112f01d6de8d/4PG_1242x2208_05-2.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/87/c5/1787c554-47df-8f66-81a9-d9e11ce71b9b/4PG_1242x2208_01-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/12/4f/37124fce-fb7b-d3b6-a0ad-60a1b30a0c9a/4PG_1242x2208_02-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/03/40/1903406c-8b4b-d4e2-99c1-9dca0d5762ca/4PG_1242x2208_04-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/9e/b6/3d9eb659-3a3b-356c-56ea-3a916aedaf7e/4PG_1242x2208_03-2.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/17/28/d81728e2-663c-d407-bb1f-112f01d6de8d/4PG_1242x2208_05-2.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "3.0.6",
+          "date": "2026-06-11",
+          "size": 83035196,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.JindoBlu.FourPlayersIOS_Sideloadbypass2_3.0.6.ipa"
+        },
+        {
+          "version": "2.29.5",
+          "date": "2026-06-05",
+          "size": 83391148,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.JindoBlu.FourPlayersIOS_Sideloadbypass2_2.29.5.ipa"
+        },
+        {
+          "version": "2.28.2",
+          "date": "2026-06-05",
+          "size": 83253921,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.JindoBlu.FourPlayersIOS_Sideloadbypass2_2.28.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.0.6",
+      "versionDate": "2026-06-11T13:07:36.709Z",
+      "size": 83035196,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.JindoBlu.FourPlayersIOS_Sideloadbypass2_3.0.6.ipa",
       "recommended": false
     },
     {
@@ -24926,57 +24983,6 @@
       "versionDate": "2026-06-02T17:16:46.919Z",
       "size": 115372900,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.optiflow.imposter_Sideloadbypass2_2.30.ipa",
-      "recommended": false
-    },
-    {
-      "name": "1 2 3 4 Player Games",
-      "bundleIdentifier": "com.JindoBlu.FourPlayersIOS",
-      "developerName": "Moreno Maio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/ff/e5/58ffe5bb-0056-8d22-f99f-84a6fe73606c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\n1 2 3 4 Player Games\n\nTweak: No Ads\n\nVersion: 2.29.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.JindoBlu.FourPlayersIOS\nDeveloper: Moreno Maio",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/87/c5/1787c554-47df-8f66-81a9-d9e11ce71b9b/4PG_1242x2208_01-2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/12/4f/37124fce-fb7b-d3b6-a0ad-60a1b30a0c9a/4PG_1242x2208_02-2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/03/40/1903406c-8b4b-d4e2-99c1-9dca0d5762ca/4PG_1242x2208_04-2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/9e/b6/3d9eb659-3a3b-356c-56ea-3a916aedaf7e/4PG_1242x2208_03-2.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/17/28/d81728e2-663c-d407-bb1f-112f01d6de8d/4PG_1242x2208_05-2.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/87/c5/1787c554-47df-8f66-81a9-d9e11ce71b9b/4PG_1242x2208_01-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/12/4f/37124fce-fb7b-d3b6-a0ad-60a1b30a0c9a/4PG_1242x2208_02-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/03/40/1903406c-8b4b-d4e2-99c1-9dca0d5762ca/4PG_1242x2208_04-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/9e/b6/3d9eb659-3a3b-356c-56ea-3a916aedaf7e/4PG_1242x2208_03-2.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/17/28/d81728e2-663c-d407-bb1f-112f01d6de8d/4PG_1242x2208_05-2.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "2.29.5",
-          "date": "2026-06-05",
-          "size": 83391148,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.JindoBlu.FourPlayersIOS_Sideloadbypass2_2.29.5.ipa"
-        },
-        {
-          "version": "2.28.2",
-          "date": "2026-06-05",
-          "size": 83253921,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.JindoBlu.FourPlayersIOS_Sideloadbypass2_2.28.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.29.5",
-      "versionDate": "2026-06-05T03:08:01.213Z",
-      "size": 83391148,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.JindoBlu.FourPlayersIOS_Sideloadbypass2_2.29.5.ipa",
       "recommended": false
     },
     {
