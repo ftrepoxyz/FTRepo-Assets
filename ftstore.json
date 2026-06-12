@@ -3336,78 +3336,6 @@
       "recommended": false
     },
     {
-      "name": "Twitch Beta",
-      "bundleIdentifier": "tv.twitch.beta",
-      "developerName": "Unknown Developer",
-      "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from @glesign |\n----------------\nTwitch v29.7 | TwitchControl v0.0.5\n\n🇷🇺 Модифицированный клиент Twitch с дизайном Liquid Glass\n— Приложение из TestFlight\n— Нет Рекламы\n© Создано: iOSDecrypted\n\n🇺🇸 Modified Twitch client with Liquid Glass design\n— The app from TestFlight\n— No Ads\n© Created by: iOSDecrypted",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "29.7",
-          "date": "2026-06-02",
-          "size": 133557826,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tv.twitch.beta_TwitchControl_29.7.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "29.7",
-      "versionDate": "2026-06-02T15:47:01.853Z",
-      "size": 133557826,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tv.twitch.beta_TwitchControl_29.7.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Twitch",
-      "bundleIdentifier": "tv.twitch",
-      "developerName": "Twitch Interactive, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/0b/86/c90b86d4-a447-0cfc-a1f9-aa0bc02d7b68/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/58/1b/22581b48-e7bb-f8e4-d4bd-347ea0c89a58/77c505ba-b565-443b-83da-642a3bbc96f8_03-1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/05/c7/2c05c7b6-d986-1dc2-a55b-f25286b12cce/f1b8408a-d231-4e9a-aeff-9bcc55be2d34_04-1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/80/90/0f80906b-8d06-719f-cd2b-ea5a6bc6233e/d09d7800-f33b-4f91-b9a7-1c0a8a9fc7bb_05-1242x2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f1/f9/baf1f966-1509-e84f-c830-bae9c2aa1dc0/5cd0dff7-0dad-4dc2-9ad8-dfdb3afe5fe6_06-1242x2208.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/58/1b/22581b48-e7bb-f8e4-d4bd-347ea0c89a58/77c505ba-b565-443b-83da-642a3bbc96f8_03-1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/05/c7/2c05c7b6-d986-1dc2-a55b-f25286b12cce/f1b8408a-d231-4e9a-aeff-9bcc55be2d34_04-1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/80/90/0f80906b-8d06-719f-cd2b-ea5a6bc6233e/d09d7800-f33b-4f91-b9a7-1c0a8a9fc7bb_05-1242x2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f1/f9/baf1f966-1509-e84f-c830-bae9c2aa1dc0/5cd0dff7-0dad-4dc2-9ad8-dfdb3afe5fe6_06-1242x2208.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "29.5",
-          "date": "2026-06-02",
-          "size": 147449402,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tv.twitch_TwitchControl_29.5.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "29.5",
-      "versionDate": "2026-06-02T16:38:32.402Z",
-      "size": 147449402,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/tv.twitch_TwitchControl_29.5.ipa",
-      "recommended": false
-    },
-    {
       "name": "Kitchen Stories",
       "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
       "developerName": "AJNS New Media",
@@ -8434,7 +8362,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @eeveespotifyrevived",
+      "localizedDescription": "from github:NotDarkn/EeveeReincarnatedIPA (9.1.50-417d747) |\n----------------\n# EeveeSpotifyReincarnated [`417d747`](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated/commit/8e619c4)\r\nThis version pulls the latest changes made up to the commit `417d747` in the [EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) repo. \r\n\r\n## Changelogs (vs. [9.1.48-ad9ab7c](https://github.com/NotDarkn/EeveeReincarnatedIPAs/releases/tag/9.1.48-ad9ab7c))\r\n- Updated Spotify to version `9.1.50`!\r\n- Improved lyrics handling\r\n- Improved lyrics fallback\r\n\r\n## Unpatched vs. Patched\r\nUnpatched → Use if you're using a **Free Developer Account** to sideload. (e.g. [Sideloadly](https://sideloadly.io) / [PlumeImpactor](https://github.com/claration/Impactor))\r\n\r\nPatched → Use if you're using **TrollStore** or a **Paid Developer Certificate** to sideload.\r\n\r\n## Credits\r\n@whoeevee - [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn)\r\n@jaydenjcpy - [EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated)\r\n@estrogencat - [EeveeIPA](https://github.com/estrogencat/EeveeIPA)\r\n\r\n> [!NOTE]\r\n> the `.deb` files are just the tweak files if you want to inject EeveeSpotifyReincarnated into your own **decrypted** Spotify app.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
@@ -8473,30 +8401,30 @@
       ],
       "versions": [
         {
+          "version": "9.1.50",
+          "date": "2026-06-12",
+          "size": 120104794,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_EeveeSpotify_9.1.50.ipa"
+        },
+        {
+          "version": "9.1.48",
+          "date": "2026-06-12",
+          "size": 115473210,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_EeveeSpotify_9.1.48.ipa"
+        },
+        {
           "version": "9.1.22",
           "date": "2026-06-02",
           "size": 99334975,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.spotify.client_EeveeSpotify_9.1.22.ipa"
-        },
-        {
-          "version": "9.1.12",
-          "date": "2026-06-02",
-          "size": 96189010,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.spotify.client_EeveeSpotify_9.1.12.ipa"
-        },
-        {
-          "version": "9.1.6",
-          "date": "2026-06-02",
-          "size": 119012020,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.spotify.client_EeveeSpotify_9.1.6.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.1.22",
-      "versionDate": "2026-06-02T17:44:20.005Z",
-      "size": 99334975,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.spotify.client_EeveeSpotify_9.1.22.ipa",
-      "recommended": false
+      "version": "9.1.50",
+      "versionDate": "2026-06-12T07:20:33.481Z",
+      "size": 120104794,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_EeveeSpotify_9.1.50.ipa",
+      "recommended": true
     },
     {
       "name": "MySwimPro",
@@ -9268,7 +9196,7 @@
       "bundleIdentifier": "com.geniussoftware.GeniusScan",
       "developerName": "The Grizzly Labs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/3f/37/d33f370c-bae7-cbc4-765f-a525f16468be/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nScanner App: Genius Scan\n\nTweak: Premium Unlocked\n\nVersion: 8.11\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.geniussoftware.GeniusScan\nDeveloper: The Grizzly Labs",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nScanner App: Genius Scan\n\nTweak: Premium Unlocked\n\nVersion: 8.12.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.geniussoftware.GeniusScan\nDeveloper: The Grizzly Labs",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/e2/2a/1ce22a9b-3ba8-4287-6d42-e390d540e73e/iOS_iPad__13-ipadPro129-01.png/1320x2868bb.jpg"
@@ -9307,6 +9235,12 @@
       ],
       "versions": [
         {
+          "version": "8.12.1",
+          "date": "2026-06-12",
+          "size": 58583644,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.geniussoftware.GeniusScan_autoRevenuecat_8.12.1.ipa"
+        },
+        {
           "version": "8.11",
           "date": "2026-06-05",
           "size": 58814336,
@@ -9314,10 +9248,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "8.11",
-      "versionDate": "2026-06-05T02:54:54.051Z",
-      "size": 58814336,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.geniussoftware.GeniusScan_autoRevenuecat_8.11.ipa",
+      "version": "8.12.1",
+      "versionDate": "2026-06-12T07:22:52.232Z",
+      "size": 58583644,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.geniussoftware.GeniusScan_autoRevenuecat_8.12.1.ipa",
       "recommended": false
     },
     {
@@ -15684,11 +15618,17 @@
       "name": "Gratitude",
       "bundleIdentifier": "com.northstar.gratitude",
       "developerName": "Hapjoy Technologies Private Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e5/41/c3e5413f-859e-d35c-67df-10c250ac2bda/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/7b/7f/a87b7f77-ddd7-cf27-9237-e176ec17193a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.7.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "5.7.1",
+          "date": "2026-06-12",
+          "size": 64371265,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.northstar.gratitude_Sideloadbypass2_5.7.1.ipa"
+        },
         {
           "version": "5.7",
           "date": "2026-06-02",
@@ -15700,19 +15640,13 @@
           "date": "2026-06-02",
           "size": 64913556,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.northstar.gratitude_Sideloadbypass2_5.6.9.ipa"
-        },
-        {
-          "version": "5.6.8",
-          "date": "2026-06-03",
-          "size": 64913701,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.northstar.gratitude_Sideloadbypass2_5.6.8.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.7",
-      "versionDate": "2026-06-02T17:29:12.071Z",
-      "size": 64360494,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.northstar.gratitude_Sideloadbypass2_5.7.ipa",
+      "version": "5.7.1",
+      "versionDate": "2026-06-12T07:08:47.187Z",
+      "size": 64371265,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.northstar.gratitude_Sideloadbypass2_5.7.1.ipa",
       "recommended": false
     },
     {
@@ -23208,7 +23142,7 @@
       "bundleIdentifier": "com.kairos.duet",
       "developerName": "Duet, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8e/72/508e725c-12c6-0fc7-2a32-eb880f69326c/DuetDisplayAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDuet Display\n\n• Bundle ID: com.kairos.duet\n• Updated to: 3.1.7\n• Minimum iOS: 12.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nDuet Display\n\n• Bundle ID: com.kairos.duet\n• Updated to: 3.1.8\n• Minimum iOS: 12.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c9/da/acc9da7c-5562-dd17-3f6e-cb4dd6e7227c/pr_source.jpg/1320x2868bb.jpg"
@@ -23227,6 +23161,12 @@
       ],
       "versions": [
         {
+          "version": "3.1.8",
+          "date": "2026-06-12",
+          "size": 44623847,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.kairos.duet_DuetDisplay_3.1.8.ipa"
+        },
+        {
           "version": "3.1.7",
           "date": "2026-06-03",
           "size": 44596371,
@@ -23240,10 +23180,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.1.7",
-      "versionDate": "2026-06-03T10:01:45.172Z",
-      "size": 44596371,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.kairos.duet_DuetDisplay_3.1.7.ipa",
+      "version": "3.1.8",
+      "versionDate": "2026-06-12T07:22:43.202Z",
+      "size": 44623847,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.kairos.duet_DuetDisplay_3.1.8.ipa",
       "recommended": false
     },
     {
