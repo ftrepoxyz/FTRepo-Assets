@@ -26514,11 +26514,17 @@
       "name": "Locket",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/c8/91/c2c89171-dab6-12c3-23d5-e782ea145cf0/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.50.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/1b/85/e11b85bd-8b11-a7de-d934-af9307ea2df0/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.51.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.51.0",
+          "date": "2026-06-12",
+          "size": 337184216,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.locket.Locket_AutoRcSideload_2.51.0.ipa"
+        },
         {
           "version": "2.50.1",
           "date": "2026-06-06",
@@ -26530,19 +26536,13 @@
           "date": "2026-06-05",
           "size": 338049183,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.locket.Locket_AutoRcSideload_2.50.0.ipa"
-        },
-        {
-          "version": "2.49.1",
-          "date": "2026-06-02",
-          "size": 338003926,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.locket.Locket_AutoRcSideload_2.49.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.50.1",
-      "versionDate": "2026-06-06T19:07:39.088Z",
-      "size": 151177399,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.locket.Locket_AutoRcSideload_2.50.1.ipa",
+      "version": "2.51.0",
+      "versionDate": "2026-06-12T20:55:35.334Z",
+      "size": 337184216,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.locket.Locket_AutoRcSideload_2.51.0.ipa",
       "recommended": false
     },
     {
@@ -26887,10 +26887,16 @@
       "bundleIdentifier": "com.wakdev.wdnfc",
       "developerName": "wakdev",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/51/2f/b5512fb1-2532-5e98-1f49-c9ec5b60ee77/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nNFC Tools\n\n• Bundle ID: com.wakdev.wdnfc\n• Updated to: 2.39\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nNFC Tools\n\n• Bundle ID: com.wakdev.wdnfc\n• Updated to: 2.39.1\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.39.1",
+          "date": "2026-06-12",
+          "size": 5274806,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.wakdev.wdnfc_NFCTools_2.39.1.ipa"
+        },
         {
           "version": "2.39",
           "date": "2026-06-11",
@@ -26902,19 +26908,13 @@
           "date": "2026-06-12",
           "size": 4965496,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.wakdev.wdnfc_NFCTools_2.38.1.ipa"
-        },
-        {
-          "version": "2.38",
-          "date": "2026-06-05",
-          "size": 4964732,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.wakdev.wdnfc_NFCTools_2.38.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.39",
-      "versionDate": "2026-06-11T22:07:22.181Z",
-      "size": 5274714,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.wakdev.wdnfc_NFCTools_2.39.ipa",
+      "version": "2.39.1",
+      "versionDate": "2026-06-12T17:55:05.199Z",
+      "size": 5274806,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.wakdev.wdnfc_NFCTools_2.39.1.ipa",
       "recommended": false
     },
     {
@@ -36417,11 +36417,17 @@
       "name": "Lens AI",
       "bundleIdentifier": "com.lens.ai.app",
       "developerName": "XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/29/17/0329177d-34aa-2d36-3a30-076e0a5c5227/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nLens AI: Scanner & Identifier\n\nTweak: Pro Unlocked\n\nVersion: 1.0.46\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.lens.ai.app\nDeveloper: XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/e7/0e/46e70e31-26b0-06f6-fe5e-016932a0ca5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLens AI: Scanner & Identifier\n\nTweak: Pro Unlocked\n\nVersion: 1.0.48\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.lens.ai.app\nDeveloper: XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.0.48",
+          "date": "2026-06-12",
+          "size": 45916923,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.lens.ai.app_Sideloadbypass2_1.0.48.ipa"
+        },
         {
           "version": "1.0.46",
           "date": "2026-06-05",
@@ -36436,10 +36442,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.0.46",
-      "versionDate": "2026-06-05T00:11:55.278Z",
-      "size": 47280484,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.lens.ai.app_Sideloadbypass2_1.0.46.ipa",
+      "version": "1.0.48",
+      "versionDate": "2026-06-12T17:55:15.458Z",
+      "size": 45916923,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.lens.ai.app_Sideloadbypass2_1.0.48.ipa",
       "recommended": false
     },
     {
