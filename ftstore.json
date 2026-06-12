@@ -1993,7 +1993,7 @@
       "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
       "developerName": "Popcore GmbH",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/ce/c5/0ecec593-d4b5-740c-42ab-8fde6650f2c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nParking Jam 3D\n\nTweak: No Ads, Unlimited Coins\n\nVersion: 232.0.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.uqxuwtxbbu.parkingjam\nDeveloper: Popcore GmbH",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nParking Jam 3D\n\nTweak: No Ads, Unlimited Coins\n\nVersion: 232.0.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.uqxuwtxbbu.parkingjam\nDeveloper: Popcore GmbH",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/67/26/7567264b-c0bc-8ea6-fa05-d06100d5e54b/4__U00282_U0029.png/1320x2868bb.png"
@@ -2016,6 +2016,12 @@
       ],
       "versions": [
         {
+          "version": "232.0.3",
+          "date": "2026-06-12",
+          "size": 225900194,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.uqxuwtxbbu.parkingjam_popuprifty_232.0.3.ipa"
+        },
+        {
           "version": "232.0.2",
           "date": "2026-06-03",
           "size": 225137342,
@@ -2026,19 +2032,13 @@
           "date": "2026-06-05",
           "size": 223144311,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.17.ipa"
-        },
-        {
-          "version": "231.0.16",
-          "date": "2026-06-05",
-          "size": 225067536,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.uqxuwtxbbu.parkingjam_popuprifty_231.0.16.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "232.0.2",
-      "versionDate": "2026-06-03T12:30:59.993Z",
-      "size": 225137342,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.uqxuwtxbbu.parkingjam_popuprifty_232.0.2.ipa",
+      "version": "232.0.3",
+      "versionDate": "2026-06-12T08:56:11.153Z",
+      "size": 225900194,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.uqxuwtxbbu.parkingjam_popuprifty_232.0.3.ipa",
       "recommended": false
     },
     {
@@ -3333,6 +3333,55 @@
       "versionDate": "2026-06-05T01:03:32.808Z",
       "size": 371888415,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.zynga.FarmVille2CountryEscape_29.10.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Twitch (TwitchControl)",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "Twitch Interactive, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/0b/86/c90b86d4-a447-0cfc-a1f9-aa0bc02d7b68/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @zeroxdeadbeef |\n----------------\nTwitch Control v0.0.5 is now live.\n\nChanges:\n- Added full support for Twitch version 29.5 and the new Composable Skyline UI.\n- Implemented advanced Recap stories, autopost cards, and grids suppression.\n- Added Zero-Latency stream playlist loading, allowing streams to launch under 1-2 seconds.\n- Integrated an in-memory Stateful Ad-Break scanner to prevent endless black screens.\n- Added a dual-layer Telemetry Shield using network blocking and runtime class swizzling.\n- improved background recovery connections and optimized local transport sockets.\n- Enabled TCP Keep-Alive and implemented UI pipeline hardening to ensure zero interface lag.\n\nThe official .dylib and .ipa are attached below.\n\nFull detailed changelog and guide are posted right below.",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/58/1b/22581b48-e7bb-f8e4-d4bd-347ea0c89a58/77c505ba-b565-443b-83da-642a3bbc96f8_03-1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/05/c7/2c05c7b6-d986-1dc2-a55b-f25286b12cce/f1b8408a-d231-4e9a-aeff-9bcc55be2d34_04-1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/80/90/0f80906b-8d06-719f-cd2b-ea5a6bc6233e/d09d7800-f33b-4f91-b9a7-1c0a8a9fc7bb_05-1242x2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f1/f9/baf1f966-1509-e84f-c830-bae9c2aa1dc0/5cd0dff7-0dad-4dc2-9ad8-dfdb3afe5fe6_06-1242x2208.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/58/1b/22581b48-e7bb-f8e4-d4bd-347ea0c89a58/77c505ba-b565-443b-83da-642a3bbc96f8_03-1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/05/c7/2c05c7b6-d986-1dc2-a55b-f25286b12cce/f1b8408a-d231-4e9a-aeff-9bcc55be2d34_04-1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/80/90/0f80906b-8d06-719f-cd2b-ea5a6bc6233e/d09d7800-f33b-4f91-b9a7-1c0a8a9fc7bb_05-1242x2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f1/f9/baf1f966-1509-e84f-c830-bae9c2aa1dc0/5cd0dff7-0dad-4dc2-9ad8-dfdb3afe5fe6_06-1242x2208.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "29.5",
+          "date": "2026-06-12",
+          "size": 147449419,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/tv.twitch_TwitchControl_29.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "29.5",
+      "versionDate": "2026-06-12T08:56:30.340Z",
+      "size": 147449419,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/tv.twitch_TwitchControl_29.5.ipa",
       "recommended": false
     },
     {
@@ -8358,75 +8407,6 @@
       "recommended": false
     },
     {
-      "name": "Spotify (EeveeSpotify)",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "Spotify",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from github:NotDarkn/EeveeReincarnatedIPA (9.1.50-417d747) |\n----------------\n# EeveeSpotifyReincarnated [`417d747`](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated/commit/8e619c4)\r\nThis version pulls the latest changes made up to the commit `417d747` in the [EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) repo. \r\n\r\n## Changelogs (vs. [9.1.48-ad9ab7c](https://github.com/NotDarkn/EeveeReincarnatedIPAs/releases/tag/9.1.48-ad9ab7c))\r\n- Updated Spotify to version `9.1.50`!\r\n- Improved lyrics handling\r\n- Improved lyrics fallback\r\n\r\n## Unpatched vs. Patched\r\nUnpatched → Use if you're using a **Free Developer Account** to sideload. (e.g. [Sideloadly](https://sideloadly.io) / [PlumeImpactor](https://github.com/claration/Impactor))\r\n\r\nPatched → Use if you're using **TrollStore** or a **Paid Developer Certificate** to sideload.\r\n\r\n## Credits\r\n@whoeevee - [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn)\r\n@jaydenjcpy - [EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated)\r\n@estrogencat - [EeveeIPA](https://github.com/estrogencat/EeveeIPA)\r\n\r\n> [!NOTE]\r\n> the `.deb` files are just the tweak files if you want to inject EeveeSpotifyReincarnated into your own **decrypted** Spotify app.",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "9.1.50",
-          "date": "2026-06-12",
-          "size": 120104794,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_EeveeSpotify_9.1.50.ipa"
-        },
-        {
-          "version": "9.1.48",
-          "date": "2026-06-12",
-          "size": 115473210,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_EeveeSpotify_9.1.48.ipa"
-        },
-        {
-          "version": "9.1.22",
-          "date": "2026-06-02",
-          "size": 99334975,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.spotify.client_EeveeSpotify_9.1.22.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "9.1.50",
-      "versionDate": "2026-06-12T07:20:33.481Z",
-      "size": 120104794,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_EeveeSpotify_9.1.50.ipa",
-      "recommended": true
-    },
-    {
       "name": "MySwimPro",
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "MySwimPro, Inc.",
@@ -8459,6 +8439,65 @@
       "versionDate": "2026-06-03T12:08:57.500Z",
       "size": 47250110,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.3.ipa",
+      "recommended": false
+    },
+    {
+      "name": "edjing Mix",
+      "bundleIdentifier": "com.edjing.edjingdjturntable",
+      "developerName": "MWM",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/ec/06/44ec066c-5f1d-cb96-4276-438985ef3be4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nEdjing Mix: DJ Music Mixer App\n\n• Bundle ID: com.edjing.edjingdjturntable\n• Updated to: 9.0.2\n• Minimum iOS: 18.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8b/3a/4f8b3ae0-5283-85fd-ee16-7b28136dc9ee/dd8bb763-2f99-4e88-ac16-e67199db5d0e_en-01.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ec/0c/86ec0cf7-7302-3af3-821a-3cbebbcde98b/93679357-390c-45fe-94cf-5773e846a4fb_en-02.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ef/cc/39efcc6b-5c66-b8af-0302-d9158fded289/dba377bf-8722-4f13-9496-9f7b4c152f98_en-03.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/b8/2a/e7b82abc-7508-f44c-d09d-f17fa135d2d9/95e898d1-c39e-4b37-aeef-dcdf83cc89ae_en-04.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/fc/4b/bdfc4bd9-26fa-a956-9929-8f62eef07547/752f5a92-bddc-476a-acb2-870508f25f6d_en-05.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cc/64/dccc64a6-5335-a446-ad76-11de3cff5677/33ac3a41-aaf1-4115-9834-2e7f9b246077_en-06.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/7f/46/837f462b-10dc-89fe-a391-d4fd3f533efe/262818d8-413f-4e4c-97ca-97f1838669ff_en-07.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8b/3a/4f8b3ae0-5283-85fd-ee16-7b28136dc9ee/dd8bb763-2f99-4e88-ac16-e67199db5d0e_en-01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ec/0c/86ec0cf7-7302-3af3-821a-3cbebbcde98b/93679357-390c-45fe-94cf-5773e846a4fb_en-02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ef/cc/39efcc6b-5c66-b8af-0302-d9158fded289/dba377bf-8722-4f13-9496-9f7b4c152f98_en-03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/b8/2a/e7b82abc-7508-f44c-d09d-f17fa135d2d9/95e898d1-c39e-4b37-aeef-dcdf83cc89ae_en-04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/fc/4b/bdfc4bd9-26fa-a956-9929-8f62eef07547/752f5a92-bddc-476a-acb2-870508f25f6d_en-05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cc/64/dccc64a6-5335-a446-ad76-11de3cff5677/33ac3a41-aaf1-4115-9834-2e7f9b246077_en-06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/7f/46/837f462b-10dc-89fe-a391-d4fd3f533efe/262818d8-413f-4e4c-97ca-97f1838669ff_en-07.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "9.0.2",
+          "date": "2026-06-12",
+          "size": 324024632,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.edjing.edjingdjturntable_DJMixer_9.0.2.ipa"
+        },
+        {
+          "version": "9.0.1",
+          "date": "2026-06-09",
+          "size": 144370407,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.edjing.edjingdjturntable_DJMixer_9.0.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.0.2",
+      "versionDate": "2026-06-12T08:55:43.130Z",
+      "size": 324024632,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.edjing.edjingdjturntable_DJMixer_9.0.2.ipa",
       "recommended": false
     },
     {
@@ -8502,59 +8541,6 @@
       "versionDate": "2026-06-05T09:15:26.617Z",
       "size": 45484222,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.jps.gpspeedhud_StopReviews_9.0.2.ipa",
-      "recommended": false
-    },
-    {
-      "name": "edjing Mix",
-      "bundleIdentifier": "com.edjing.edjingdjturntable",
-      "developerName": "MWM",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/ec/06/44ec066c-5f1d-cb96-4276-438985ef3be4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nEdjing Mix - DJ Music Mixer\n\n• Bundle ID: com.edjing.edjingdjturntable\n• Updated to: 9.0.1\n• Minimum iOS: 18.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8b/3a/4f8b3ae0-5283-85fd-ee16-7b28136dc9ee/dd8bb763-2f99-4e88-ac16-e67199db5d0e_en-01.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ec/0c/86ec0cf7-7302-3af3-821a-3cbebbcde98b/93679357-390c-45fe-94cf-5773e846a4fb_en-02.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ef/cc/39efcc6b-5c66-b8af-0302-d9158fded289/dba377bf-8722-4f13-9496-9f7b4c152f98_en-03.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/b8/2a/e7b82abc-7508-f44c-d09d-f17fa135d2d9/95e898d1-c39e-4b37-aeef-dcdf83cc89ae_en-04.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/fc/4b/bdfc4bd9-26fa-a956-9929-8f62eef07547/752f5a92-bddc-476a-acb2-870508f25f6d_en-05.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cc/64/dccc64a6-5335-a446-ad76-11de3cff5677/33ac3a41-aaf1-4115-9834-2e7f9b246077_en-06.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/7f/46/837f462b-10dc-89fe-a391-d4fd3f533efe/262818d8-413f-4e4c-97ca-97f1838669ff_en-07.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8b/3a/4f8b3ae0-5283-85fd-ee16-7b28136dc9ee/dd8bb763-2f99-4e88-ac16-e67199db5d0e_en-01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ec/0c/86ec0cf7-7302-3af3-821a-3cbebbcde98b/93679357-390c-45fe-94cf-5773e846a4fb_en-02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ef/cc/39efcc6b-5c66-b8af-0302-d9158fded289/dba377bf-8722-4f13-9496-9f7b4c152f98_en-03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/b8/2a/e7b82abc-7508-f44c-d09d-f17fa135d2d9/95e898d1-c39e-4b37-aeef-dcdf83cc89ae_en-04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/fc/4b/bdfc4bd9-26fa-a956-9929-8f62eef07547/752f5a92-bddc-476a-acb2-870508f25f6d_en-05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cc/64/dccc64a6-5335-a446-ad76-11de3cff5677/33ac3a41-aaf1-4115-9834-2e7f9b246077_en-06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/7f/46/837f462b-10dc-89fe-a391-d4fd3f533efe/262818d8-413f-4e4c-97ca-97f1838669ff_en-07.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "9.0.1",
-          "date": "2026-06-09",
-          "size": 144370407,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.edjing.edjingdjturntable_DJMixer_9.0.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "9.0.1",
-      "versionDate": "2026-06-09T19:06:22.473Z",
-      "size": 144370407,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.edjing.edjingdjturntable_DJMixer_9.0.1.ipa",
       "recommended": false
     },
     {
@@ -18842,35 +18828,6 @@
       "versionDate": "2026-06-02T17:17:16.894Z",
       "size": 90445600,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.reveri.reverihealth_Sideloadbypass2_4.6.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "SpotiFLAC Mobile",
-      "bundleIdentifier": "com.zarz.spotiflacAndroid",
-      "developerName": "Unknown Developer",
-      "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nSpotiFLAC\nVersion: 4.5.5\nBundle ID: com.zarz.spotiflacAndroid\nApp by zarzet\n\nMobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Spotify tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscription.\n\n⚠️In-app audio playback has been removed. Use this version to retain the feature\nChangelog",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.5.5",
-          "date": "2026-06-02",
-          "size": 34915749,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.zarz.spotiflacAndroid_4.5.5.ipa"
-        },
-        {
-          "version": "4.5.1",
-          "date": "2026-06-02",
-          "size": 37201987,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.zarz.spotiflacAndroid_4.5.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.5.5",
-      "versionDate": "2026-06-02T16:45:41.470Z",
-      "size": 34915749,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.zarz.spotiflacAndroid_4.5.5.ipa",
       "recommended": false
     },
     {
