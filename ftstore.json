@@ -18831,6 +18831,41 @@
       "recommended": false
     },
     {
+      "name": "SpotiFLAC Mobile",
+      "bundleIdentifier": "com.zarz.spotiflacAndroid",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from github:spotiflacapp/SpotiFLAC-Mobile (v4.5.6) |\n----------------\n\n### New Features\n\n- Polish search empty state and share caching\n- Rebuild cross-extension sharing and queue controls\n\n### Bug Fixes\n\n- Align ios deployment target for file picker\n- Prevent queue header action clipping\n- Align cross-service sharing and fallback routing\n- Harden download errors and re-enrich sidecars\n- Resolve album-only autofill and placeholder re-enrich regressions\n- Stricter metadata matching, respect embedLyrics setting, improve Apple Music lyrics\n\n### Chores\n\n- Update flutter and native dependencies\n- Bump version to 4.5.6 (build 133)\n- Update AltStore source to v4.5.5 by [@github-actions[bot]](https://github.com/github-actions[bot])\n- Update AltStore source to v4.5.1 by [@github-actions[bot]](https://github.com/github-actions[bot])\n\n\n\n\n**Full Changelog**: [v4.5.5...v4.5.6](https://github.com/spotiflacapp/SpotiFLAC-Mobile/compare/v4.5.5...v4.5.6)\n\n---\n\n### Downloads\n\n#### Android\n- **arm64**: `SpotiFLAC-v4.5.6-arm64.apk` (recommended for modern devices)\n- **arm32**: `SpotiFLAC-v4.5.6-arm32.apk` (older devices)\n\n#### iOS\n- **iOS**: `SpotiFLAC-v4.5.6-ios-unsigned.ipa` (sideload required)\n\n### Installation\n**Android**: Enable \"Install from unknown sources\" and install the APK\n**iOS**: Use AltStore, Sideloadly, or similar tools to sideload the IPA\n\n![arm64](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.5.6/SpotiFLAC-v4.5.6-arm64.apk?style=flat-square&logo=android&label=arm64&color=3DDC84) ![arm32](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.5.6/SpotiFLAC-v4.5.6-arm32.apk?style=flat-square&logo=android&label=arm32&color=3DDC84) ![iOS](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.5.6/SpotiFLAC-v4.5.6-ios-unsigned.ipa?style=flat-square&logo=apple&label=iOS&color=0078D6)\n",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.5.6",
+          "date": "2026-06-12",
+          "size": 34059797,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.6.ipa"
+        },
+        {
+          "version": "4.5.5",
+          "date": "2026-06-12",
+          "size": 34915749,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.5.ipa"
+        },
+        {
+          "version": "4.5.1",
+          "date": "2026-06-12",
+          "size": 37201987,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.5.6",
+      "versionDate": "2026-06-12T08:59:29.699Z",
+      "size": 34059797,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.6.ipa",
+      "recommended": false
+    },
+    {
       "name": "Terraria",
       "bundleIdentifier": "com.505games.terraria",
       "developerName": "505 Games (US), Inc.",
