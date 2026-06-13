@@ -5230,7 +5230,7 @@
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/36/5e/2c365e0a-3c3f-821c-08f7-09531a512ced/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBazaart: Design, Photo & Video\n\nPro features unlocked\n\n⚠️ Not working in LiveContainer\n\nTweak made by Никита\n\nMinimum OS version 16\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nBazaart AI Photo Editor Design\n\n• Bundle ID: co.bazaart.app\n• Updated to: 26.3.5\n• Minimum iOS: 16\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/35/88/463588d7-7511-bcbd-fdc6-28c433cfaf43/EN_ipad_1_Remove_people.jpg/1320x2868bb.jpg"
@@ -5245,6 +5245,12 @@
       ],
       "versions": [
         {
+          "version": "26.3.5",
+          "date": "2026-06-13",
+          "size": 104831502,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/co.bazaart.app_Bazaart_26.3.5.ipa"
+        },
+        {
           "version": "26.3.4",
           "date": "2026-06-12",
           "size": 80099098,
@@ -5255,19 +5261,13 @@
           "date": "2026-06-07",
           "size": 80754565,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/co.bazaart.app_Bazaart_26.3.3.ipa"
-        },
-        {
-          "version": "26.3.2",
-          "date": "2026-06-12",
-          "size": 83770518,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/co.bazaart.app_Bazaart_26.3.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "26.3.4",
-      "versionDate": "2026-06-12T09:44:23.560Z",
-      "size": 80099098,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/co.bazaart.app_BazaartAIPhotoEditorDesignPatch_26.3.4.ipa",
+      "version": "26.3.5",
+      "versionDate": "2026-06-13T17:55:46.346Z",
+      "size": 104831502,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/co.bazaart.app_Bazaart_26.3.5.ipa",
       "recommended": false
     },
     {
@@ -20227,6 +20227,41 @@
       "recommended": false
     },
     {
+      "name": "SpotiFLAC Mobile",
+      "bundleIdentifier": "com.zarz.spotiflacAndroid",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from github:spotiflacapp/SpotiFLAC-Mobile (v4.6.0) |\n----------------\n\n### New Features\n\n- **playlist**: Blurred backdrop with full cover in playlist header\n- **ui**: Add bottom inset so scrollable content clears the transparent navbar\n- **library**: Show active downloads inside the library grid\n- **ui**: Reduce bottom navbar height\n- **ui**: Frosted translucent bottom navbar\n- **lyrics**: Show actual lyrics source in metadata\n- **audio**: Add WAV and AIFF support + settings-style metadata menu\n- **lyrics,replaygain**: Add LyricsPlus provider and ReplayGain batch scanning\n- **l10n**: Enable French and German locales\n\n### Bug Fixes\n\n- **metadata**: Use high-res cover in track metadata header\n- **download**: Honor selected provider when it equals the track source\n- **download**: Request fallback provider's own highest quality\n- **downloads/extensions**: IOS background task, serialize extension mutations, safer batch convert sheet\n- **ui**: Center modals on large screens, modernize edit-metadata + convert sheets, themed badges, fix artist skeleton and format-editor crash\n- **l10n**: Remove redundant ICU plural categories causing gen-l10n warnings\n- **android**: Override predictive-back page transition\n- **queue**: Simplify queue header and rate-limit indicator layout\n\n### Refactoring\n\n- Generalize Tidal-specific naming to legacy/DASH terminology\n- **download**: Remove concurrent download option\n\n### Dependencies\n\n- **deps**: Update Flutter and Go dependencies\n\n### Chores\n\n- **ios**: Strip CRLF from ffmpeg plugin scripts before pod install\n- Bump version to 4.6.0\n- Trim redundant comments\n- **about**: Credit Mickael81 as French translator\n- Update AltStore source to v4.5.6 by [@github-actions[bot]](https://github.com/github-actions[bot])\n\n### ﻿fix\n\n- **l10n**: Correct crowdin language mapping\n\n\n\n\n**Full Changelog**: [v4.5.6...v4.6.0](https://github.com/spotiflacapp/SpotiFLAC-Mobile/compare/v4.5.6...v4.6.0)\n\n---\n\n### Downloads\n\n#### Android\n- **arm64**: `SpotiFLAC-v4.6.0-arm64.apk` (recommended for modern devices)\n- **arm32**: `SpotiFLAC-v4.6.0-arm32.apk` (older devices)\n\n#### iOS\n- **iOS**: `SpotiFLAC-v4.6.0-ios-unsigned.ipa` (sideload required)\n\n### Installation\n**Android**: Enable \"Install from unknown sources\" and install the APK\n**iOS**: Use AltStore, Sideloadly, or similar tools to sideload the IPA\n\n![arm64](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.6.0/SpotiFLAC-v4.6.0-arm64.apk?style=flat-square&logo=android&label=arm64&color=3DDC84) ![arm32](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.6.0/SpotiFLAC-v4.6.0-arm32.apk?style=flat-square&logo=android&label=arm32&color=3DDC84) ![iOS](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.6.0/SpotiFLAC-v4.6.0-ios-unsigned.ipa?style=flat-square&logo=apple&label=iOS&color=0078D6)\n",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.6.0",
+          "date": "2026-06-13",
+          "size": 34347687,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.zarz.spotiflacAndroid_4.6.0.ipa"
+        },
+        {
+          "version": "4.5.6",
+          "date": "2026-06-12",
+          "size": 34059797,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.6.ipa"
+        },
+        {
+          "version": "4.5.5",
+          "date": "2026-06-12",
+          "size": 34915749,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.6.0",
+      "versionDate": "2026-06-13T20:55:40.316Z",
+      "size": 34347687,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.zarz.spotiflacAndroid_4.6.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "VivaCut",
       "bundleIdentifier": "com.vivacut.videoeditor",
       "developerName": "Hangzhou Quwei Technology Co., Ltd",
@@ -20287,41 +20322,6 @@
       "versionDate": "2026-06-11T04:07:00.168Z",
       "size": 203109116,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/com.vivacut.videoeditor_sideloadKeychainfix_4.6.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "SpotiFLAC Mobile",
-      "bundleIdentifier": "com.zarz.spotiflacAndroid",
-      "developerName": "Unknown Developer",
-      "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from github:spotiflacapp/SpotiFLAC-Mobile (v4.5.6) |\n----------------\n\n### New Features\n\n- Polish search empty state and share caching\n- Rebuild cross-extension sharing and queue controls\n\n### Bug Fixes\n\n- Align ios deployment target for file picker\n- Prevent queue header action clipping\n- Align cross-service sharing and fallback routing\n- Harden download errors and re-enrich sidecars\n- Resolve album-only autofill and placeholder re-enrich regressions\n- Stricter metadata matching, respect embedLyrics setting, improve Apple Music lyrics\n\n### Chores\n\n- Update flutter and native dependencies\n- Bump version to 4.5.6 (build 133)\n- Update AltStore source to v4.5.5 by [@github-actions[bot]](https://github.com/github-actions[bot])\n- Update AltStore source to v4.5.1 by [@github-actions[bot]](https://github.com/github-actions[bot])\n\n\n\n\n**Full Changelog**: [v4.5.5...v4.5.6](https://github.com/spotiflacapp/SpotiFLAC-Mobile/compare/v4.5.5...v4.5.6)\n\n---\n\n### Downloads\n\n#### Android\n- **arm64**: `SpotiFLAC-v4.5.6-arm64.apk` (recommended for modern devices)\n- **arm32**: `SpotiFLAC-v4.5.6-arm32.apk` (older devices)\n\n#### iOS\n- **iOS**: `SpotiFLAC-v4.5.6-ios-unsigned.ipa` (sideload required)\n\n### Installation\n**Android**: Enable \"Install from unknown sources\" and install the APK\n**iOS**: Use AltStore, Sideloadly, or similar tools to sideload the IPA\n\n![arm64](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.5.6/SpotiFLAC-v4.5.6-arm64.apk?style=flat-square&logo=android&label=arm64&color=3DDC84) ![arm32](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.5.6/SpotiFLAC-v4.5.6-arm32.apk?style=flat-square&logo=android&label=arm32&color=3DDC84) ![iOS](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.5.6/SpotiFLAC-v4.5.6-ios-unsigned.ipa?style=flat-square&logo=apple&label=iOS&color=0078D6)\n",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.5.6",
-          "date": "2026-06-12",
-          "size": 34059797,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.6.ipa"
-        },
-        {
-          "version": "4.5.5",
-          "date": "2026-06-12",
-          "size": 34915749,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.5.ipa"
-        },
-        {
-          "version": "4.5.1",
-          "date": "2026-06-12",
-          "size": 37201987,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.5.6",
-      "versionDate": "2026-06-12T08:59:29.699Z",
-      "size": 34059797,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.6.ipa",
       "recommended": false
     },
     {
@@ -30110,11 +30110,17 @@
       "name": "Phlow",
       "bundleIdentifier": "com.app.phlow",
       "developerName": "Phlow, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/04/4a/c6044ab1-e72b-a9a9-8028-7fa2246509b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhlow: Camera & Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2.1.15\n\nNotes: press restore purchase\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.app.phlow\nDeveloper: Phlow, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/78/18/337818e6-1d50-0036-2c46-b1172e6c486a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhlow: Camera & Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2.1.16\n\nNotes: press restore purchase\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.app.phlow\nDeveloper: Phlow, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.1.16",
+          "date": "2026-06-13",
+          "size": 191981433,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.app.phlow_Sideloadbypass2_2.1.16.ipa"
+        },
         {
           "version": "2.1.15",
           "date": "2026-06-10",
@@ -30126,19 +30132,13 @@
           "date": "2026-06-12",
           "size": 186033086,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.app.phlow_Sideloadbypass2_2.1.14.ipa"
-        },
-        {
-          "version": "2.1.13",
-          "date": "2026-06-02",
-          "size": 190926214,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.app.phlow_Sideloadbypass2_2.1.13.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.1.15",
-      "versionDate": "2026-06-10T04:23:16.745Z",
-      "size": 186059152,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/com.app.phlow_Sideloadbypass2_2.1.15.ipa",
+      "version": "2.1.16",
+      "versionDate": "2026-06-13T17:56:14.656Z",
+      "size": 191981433,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.app.phlow_Sideloadbypass2_2.1.16.ipa",
       "recommended": false
     },
     {
@@ -34099,7 +34099,7 @@
       "bundleIdentifier": "br.com.marcosatanaka.musicbox",
       "developerName": "Loop Apps LTDA",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/43/09/87430987-2b4f-ee12-2d0a-b2270172d39f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMusicBox: Save Music for Later\n\nTweak: Subscription Unlocked\n\nVersion: 1.7.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: br.com.marcosatanaka.musicbox\nDeveloper: Loop Apps LTDA",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMusicBox: Save Music for Later\n\nTweak: Subscription Unlocked\n\nVersion: 1.7.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: br.com.marcosatanaka.musicbox\nDeveloper: Loop Apps LTDA",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/26/ab/d226ab9c-e408-4a1e-d951-ea190b12f4ec/ba4f6ede-d5ac-4ff8-a58d-509f83282a24_slice1.png/1320x2868bb.png"
@@ -34146,6 +34146,12 @@
       ],
       "versions": [
         {
+          "version": "1.7.5",
+          "date": "2026-06-13",
+          "size": 31133677,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/br.com.marcosatanaka.musicbox_Sideloadbypass2_1.7.5.ipa"
+        },
+        {
           "version": "1.7.4",
           "date": "2026-06-10",
           "size": 32031177,
@@ -34156,19 +34162,13 @@
           "date": "2026-06-12",
           "size": 25481370,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/br.com.marcosatanaka.musicbox_Sideloadbypass2_1.7.2.ipa"
-        },
-        {
-          "version": "1.7.1",
-          "date": "2026-06-05",
-          "size": 28134957,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/br.com.marcosatanaka.musicbox_Sideloadbypass2_1.7.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.7.4",
-      "versionDate": "2026-06-10T01:23:26.668Z",
-      "size": 32031177,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/br.com.marcosatanaka.musicbox_Sideloadbypass2_1.7.4.ipa",
+      "version": "1.7.5",
+      "versionDate": "2026-06-13T20:55:46.788Z",
+      "size": 31133677,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/br.com.marcosatanaka.musicbox_Sideloadbypass2_1.7.5.ipa",
       "recommended": false
     },
     {
