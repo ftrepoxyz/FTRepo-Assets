@@ -9065,11 +9065,17 @@
       "name": "MySwimPro",
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "MySwimPro, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/32/89/7432894a-3d10-c39b-2201-b6d0d01c848a/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMySwimPro: #1 Swim Workout App\n\nTweak: Subscription Unlocked\n\nVersion: 9.0.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.myswimpro.apps.MySwimPro\nDeveloper: MySwimPro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b2/4a/5eb24a82-f166-acf8-fcce-52df9560417f/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMySwimPro: #1 Swim Workout App\n\nTweak: Subscription Unlocked\n\nVersion: 9.0.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.myswimpro.apps.MySwimPro\nDeveloper: MySwimPro, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "9.0.6",
+          "date": "2026-06-14",
+          "size": 47339416,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.6.ipa"
+        },
         {
           "version": "9.0.3",
           "date": "2026-06-03",
@@ -9081,19 +9087,13 @@
           "date": "2026-06-03",
           "size": 47215208,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.2.ipa"
-        },
-        {
-          "version": "9.0.1",
-          "date": "2026-06-05",
-          "size": 46877988,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.0.3",
-      "versionDate": "2026-06-03T12:08:57.500Z",
-      "size": 47250110,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.3.ipa",
+      "version": "9.0.6",
+      "versionDate": "2026-06-14T02:56:12.595Z",
+      "size": 47339416,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.6.ipa",
       "recommended": false
     },
     {
@@ -17418,7 +17418,7 @@
       "bundleIdentifier": "com.moodtools.thoughtdiary",
       "developerName": "Inquiry Health LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/11/05/8b11052e-adef-2bcc-b346-9b72621d9e91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nClarity - CBT Thought Diary\n\nPro features unlocked\n\nTweak made by blatant\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nClarity: CBT Self Help Journal\n\n• Bundle ID: com.moodtools.thoughtdiary\n• Updated to: 5.5.22\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg"
@@ -17449,6 +17449,12 @@
       ],
       "versions": [
         {
+          "version": "5.5.22",
+          "date": "2026-06-14",
+          "size": 180422404,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.moodtools.thoughtdiary_Clarity_5.5.22.ipa"
+        },
+        {
           "version": "5.5.21",
           "date": "2026-06-12",
           "size": 178411682,
@@ -17462,10 +17468,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.5.21",
-      "versionDate": "2026-06-12T09:44:45.430Z",
-      "size": 178411682,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.moodtools.thoughtdiary_Clarity_5.5.21.ipa",
+      "version": "5.5.22",
+      "versionDate": "2026-06-14T02:56:04.059Z",
+      "size": 180422404,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.moodtools.thoughtdiary_Clarity_5.5.22.ipa",
       "recommended": false
     },
     {
@@ -18777,6 +18783,67 @@
       "recommended": false
     },
     {
+      "name": "JournalCircle",
+      "bundleIdentifier": "com.genau.JournalCircle",
+      "developerName": "Genau Factory",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/be/6c/d7be6cab-6cbc-4875-e8f2-260eb21cfdfa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nJournalCircle: Diary & Tracker\n\nTweak: Premium Unlocked\n\nVersion: 5.0.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.JournalCircle\nDeveloper: Genau Factory",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/6f/b0fb6f8c-73b9-9ec0-9beb-57237b2acf3a/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/4c/23/f24c238f-1e6e-7538-6b14-cf1a525fe87a/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/18/bf/3918bf41-c65e-4a7e-6e41-ccb637664150/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d5/38/67d538f0-5f1f-2aa1-463a-463ff1023c7a/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d3/8c/a3d38c9c-3afc-b690-1289-77f202def507/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/3d/15/a23d15f5-86f4-1ab5-9e0e-62ba61d58014/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/6f/b0fb6f8c-73b9-9ec0-9beb-57237b2acf3a/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/4c/23/f24c238f-1e6e-7538-6b14-cf1a525fe87a/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/18/bf/3918bf41-c65e-4a7e-6e41-ccb637664150/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d5/38/67d538f0-5f1f-2aa1-463a-463ff1023c7a/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d3/8c/a3d38c9c-3afc-b690-1289-77f202def507/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/3d/15/a23d15f5-86f4-1ab5-9e0e-62ba61d58014/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.0.1",
+          "date": "2026-06-13",
+          "size": 13486211,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.genau.JournalCircle_Sideloadbypass2_5.0.1.ipa"
+        },
+        {
+          "version": "3.3.8",
+          "date": "2026-06-12",
+          "size": 12677218,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.genau.JournalCircle_Sideloadbypass2_3.3.8.ipa"
+        },
+        {
+          "version": "3.3.7",
+          "date": "2026-06-04",
+          "size": 13432301,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.genau.JournalCircle_Sideloadbypass2_3.3.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.0.1",
+      "versionDate": "2026-06-13T23:56:08.165Z",
+      "size": 13486211,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.genau.JournalCircle_Sideloadbypass2_5.0.1.ipa",
+      "recommended": false
+    },
+    {
       "name": "Disney+",
       "bundleIdentifier": "com.disney.disneyplus",
       "developerName": "Disney",
@@ -19299,6 +19366,35 @@
       "versionDate": "2026-06-12T09:14:16.740Z",
       "size": 175028988,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.lake.coloring_AutoRcSideload_4.26.2.ipa",
+      "recommended": false
+    },
+    {
+      "name": "咔皮Action",
+      "bundleIdentifier": "com.future.kapi",
+      "developerName": "TETRAS.AI HONGKONG CO., LIMITED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/76/71/b17671f6-15ea-c813-9282-df35de436d15/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nKapi Cam - Y2K & CCD Camera\n\n• Bundle ID: com.future.kapi\n• Updated to: 4.26.0\n• Minimum iOS: 12.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.26.0",
+          "date": "2026-06-13",
+          "size": 201451713,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.future.kapi_KapiCam_4.26.0.ipa"
+        },
+        {
+          "version": "3.39.1",
+          "date": "2026-06-02",
+          "size": 140867384,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.future.kapi_KapiCam_3.39.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.26.0",
+      "versionDate": "2026-06-13T23:56:03.814Z",
+      "size": 201451713,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.future.kapi_KapiCam_4.26.0.ipa",
       "recommended": false
     },
     {
@@ -22451,29 +22547,6 @@
       "recommended": false
     },
     {
-      "name": "咔皮Action",
-      "bundleIdentifier": "com.future.kapi",
-      "developerName": "Shanghai Yuhuan Technology Co., LTD",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/cf/27/cdcf2763-37de-1622-5735-d3b427208fbb/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nKapi Cam - Y2K & CCD Camera\n\n• Bundle ID: com.future.kapi\n• Updated to: 3.39.1\n• Minimum iOS: 12.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "3.39.1",
-          "date": "2026-06-02",
-          "size": 140867384,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.future.kapi_KapiCam_3.39.1.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.39.1",
-      "versionDate": "2026-06-02T14:37:31.404Z",
-      "size": 140867384,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.future.kapi_KapiCam_3.39.1.ipa",
-      "recommended": false
-    },
-    {
       "name": "Wallcraft",
       "bundleIdentifier": "com.wallpaperscraft.wallpapers",
       "developerName": "VOLKRAFT",
@@ -24493,67 +24566,6 @@
       "versionDate": "2026-06-02T16:42:46.381Z",
       "size": 9120318,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.voidlinkextreme.iOS_3.3.9.ipa",
-      "recommended": false
-    },
-    {
-      "name": "JournalCircle",
-      "bundleIdentifier": "com.genau.JournalCircle",
-      "developerName": "Genau Factory",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/be/6c/d7be6cab-6cbc-4875-e8f2-260eb21cfdfa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nJournalCircle: Diary & Tracker\n\nTweak: Premium Unlocked\n\nVersion: 3.3.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.JournalCircle\nDeveloper: Genau Factory",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/6f/b0fb6f8c-73b9-9ec0-9beb-57237b2acf3a/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/4c/23/f24c238f-1e6e-7538-6b14-cf1a525fe87a/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/18/bf/3918bf41-c65e-4a7e-6e41-ccb637664150/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d5/38/67d538f0-5f1f-2aa1-463a-463ff1023c7a/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d3/8c/a3d38c9c-3afc-b690-1289-77f202def507/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/3d/15/a23d15f5-86f4-1ab5-9e0e-62ba61d58014/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/6f/b0fb6f8c-73b9-9ec0-9beb-57237b2acf3a/7071d242-e330-433f-a8fd-1914f711067a_JC-ipad-1.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/4c/23/f24c238f-1e6e-7538-6b14-cf1a525fe87a/39ea4660-bcdb-4b6b-8efe-1191ef3687c8_JC-ipad-2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/18/bf/3918bf41-c65e-4a7e-6e41-ccb637664150/19abd126-adb8-4544-9d14-971f63bf3737_JC-ipad-3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d5/38/67d538f0-5f1f-2aa1-463a-463ff1023c7a/0b187d18-39b4-454b-9c12-20a6d4f86eac_JC-ipad-4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d3/8c/a3d38c9c-3afc-b690-1289-77f202def507/be44dc7c-20e8-4033-a586-baaef0743f7f_JC-ipad-5.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/3d/15/a23d15f5-86f4-1ab5-9e0e-62ba61d58014/1e5086f3-ecf5-4212-9bab-27e75c633983_JC-ipad-6.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "3.3.8",
-          "date": "2026-06-12",
-          "size": 12677218,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.genau.JournalCircle_Sideloadbypass2_3.3.8.ipa"
-        },
-        {
-          "version": "3.3.7",
-          "date": "2026-06-04",
-          "size": 13432301,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.genau.JournalCircle_Sideloadbypass2_3.3.7.ipa"
-        },
-        {
-          "version": "3.3.6",
-          "date": "2026-06-03",
-          "size": 12652054,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.genau.JournalCircle_Sideloadbypass2_3.3.6.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.3.8",
-      "versionDate": "2026-06-12T11:54:14.723Z",
-      "size": 12677218,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.genau.JournalCircle_Sideloadbypass2_3.3.8.ipa",
       "recommended": false
     },
     {
