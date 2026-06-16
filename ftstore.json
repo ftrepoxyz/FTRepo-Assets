@@ -2068,7 +2068,7 @@
       "bundleIdentifier": "com.calculated.laurene",
       "developerName": "Calculated Industries",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/25/8c/a1258ce1-c958-7c97-1c83-37389c74b1d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nConstruction Master Pro Calc\n\n• Bundle ID: com.calculated.laurene\n• Updated to: 12.11.10\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nConstruction Master Pro Calc\n\n• Bundle ID: com.calculated.laurene\n• Updated to: 12.11.11\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/d4/d4/08d4d46e-4ec0-f9f4-18cd-284ed7c50fd6/853e623c-97b1-4560-ae3f-7c84902e89fc_3880-4125-ASO_1242x2208_New_UI_01.jpg/1320x2868bb.jpg"
@@ -2115,6 +2115,12 @@
       ],
       "versions": [
         {
+          "version": "322",
+          "date": "2026-06-16",
+          "size": 56947300,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.calculated.laurene_cmprocalc_322.ipa"
+        },
+        {
           "version": "321",
           "date": "2026-06-04",
           "size": 55977447,
@@ -2128,10 +2134,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "321",
-      "versionDate": "2026-06-04T15:27:30.230Z",
-      "size": 55977447,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.calculated.laurene_cmprocalc_321.ipa",
+      "version": "322",
+      "versionDate": "2026-06-16T04:07:43.488Z",
+      "size": 56947300,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.calculated.laurene_cmprocalc_322.ipa",
       "recommended": false
     },
     {
@@ -8997,7 +9003,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @compiledipas",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nEeveeSpotify\n\nA tweak to get Spotify Premium for free, just like Spotilife\n\nIf you find any bugs please report it here\n\nMinimum OS version 16.1\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
@@ -9036,6 +9042,12 @@
       ],
       "versions": [
         {
+          "version": "9.1.56",
+          "date": "2026-06-16",
+          "size": 118396730,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.spotify.client_EeveeSpotify_9.1.56.ipa"
+        },
+        {
           "version": "9.1.52",
           "date": "2026-06-12",
           "size": 114062956,
@@ -9046,19 +9058,13 @@
           "date": "2026-06-12",
           "size": 116822113,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_zxPluginsInject_9.1.50.ipa"
-        },
-        {
-          "version": "9.1.48",
-          "date": "2026-06-12",
-          "size": 113640523,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_EeveeSpotify_9.1.48.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.1.52",
-      "versionDate": "2026-06-12T13:44:33.149Z",
-      "size": 114062956,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_zxPluginsInject_9.1.52.ipa",
+      "version": "9.1.56",
+      "versionDate": "2026-06-16T07:08:25.249Z",
+      "size": 118396730,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.spotify.client_EeveeSpotify_9.1.56.ipa",
       "recommended": true
     },
     {
@@ -13677,11 +13683,17 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/a2/88/e9a288d1-b2b1-5f85-4551-d0a5b21cf875/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.13\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/cd/9f/a6cd9f51-d4ce-33ee-e615-8728c21d8ef4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "6.14",
+          "date": "2026-06-16",
+          "size": 98166355,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.sfun.snapedit_SnapEdit_6.14.ipa"
+        },
         {
           "version": "6.13",
           "date": "2026-06-12",
@@ -13693,19 +13705,13 @@
           "date": "2026-06-12",
           "size": 98009351,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.sfun.snapedit_SnapEdit_6.12.ipa"
-        },
-        {
-          "version": "6.11",
-          "date": "2026-06-05",
-          "size": 101966552,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.sfun.snapedit_SnapEdit_6.11.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.13",
-      "versionDate": "2026-06-12T09:04:25.512Z",
-      "size": 98494862,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.sfun.snapedit_SnapEdit_6.13.ipa",
+      "version": "6.14",
+      "versionDate": "2026-06-16T07:07:51.815Z",
+      "size": 98166355,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.sfun.snapedit_SnapEdit_6.14.ipa",
       "recommended": false
     },
     {
@@ -24844,6 +24850,71 @@
       "recommended": false
     },
     {
+      "name": "Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nApollo-Reborn Liquid Glass\n\nPlease carefully read the tutorial that appears when you open the app\n\nTweak changelog\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "3.2.0",
+          "date": "2026-06-16",
+          "size": 111308292,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.christianselig.Apollo_ApolloOpenInFix_3.2.0.ipa"
+        },
+        {
+          "version": "3.1.1",
+          "date": "2026-06-12",
+          "size": 116110719,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.christianselig.Apollo_ApolloOpenInFix_3.1.1.ipa"
+        },
+        {
+          "version": "3.1.0",
+          "date": "2026-06-12",
+          "size": 116104976,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.christianselig.Apollo_ApolloOpenInFix_3.1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.2.0",
+      "versionDate": "2026-06-16T07:08:48.477Z",
+      "size": 111308292,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.christianselig.Apollo_ApolloOpenInFix_3.2.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "#DRIVE",
       "bundleIdentifier": "com.pixelperfectdude.htdrive",
       "developerName": "Pixel Perfect Dude S.A.",
@@ -25254,71 +25325,6 @@
       "versionDate": "2026-06-08T16:06:08.965Z",
       "size": 275074144,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.ideation.Stress_StressWatch_3.1.6.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Apollo",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "Christian Selig",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/f6/43/d4f64356-1e02-894d-e2d7-5ecf8f6c0dd8/7ad6efc2-3a3c-465a-b511-38e359330ee3_Widgets1.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/e8/c7/e8e8c707-e4c7-48a6-b990-6f472e3eb247/3f7176e4-8b1b-4d15-8a0a-d4029205b937_Widgets2.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "3.1.1",
-          "date": "2026-06-12",
-          "size": 116110719,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.christianselig.Apollo_ApolloOpenInFix_3.1.1.ipa"
-        },
-        {
-          "version": "3.1.0",
-          "date": "2026-06-12",
-          "size": 116104976,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.christianselig.Apollo_ApolloOpenInFix_3.1.0.ipa"
-        },
-        {
-          "version": "3.0.0",
-          "date": "2026-06-03",
-          "size": 137808818,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.christianselig.Apollo_ApolloReborn_3.0.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "3.1.1",
-      "versionDate": "2026-06-12T10:56:47.092Z",
-      "size": 116110719,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.christianselig.Apollo_ApolloOpenInFix_3.1.1.ipa",
       "recommended": false
     },
     {
