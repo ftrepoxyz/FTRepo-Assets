@@ -15384,6 +15384,67 @@
       "recommended": false
     },
     {
+      "name": "Ora Weather",
+      "bundleIdentifier": "com.itwcalculator.worldradarfree",
+      "developerName": "Impala Studios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/b2/14/4eb2141c-1c6d-c326-3889-6e4a9da61574/NordAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nOra Weather - Radar Channel\n\n• Bundle ID: com.itwcalculator.worldradarfree\n• Updated to: 6.0.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/5b/c8/4a5bc876-018f-91f2-1f0c-5860ecc9745b/d4728989-f20d-4c8b-aea9-4416524952fa_iPhone5.5_01.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/82/87/c18287c6-35f8-9e16-b447-c0acd5b20bdb/3f20bc18-77a9-417f-a7a7-36fccb4a11e7_iPhone5.5_02.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/bd/c0/53bdc0c7-2e6c-286a-1e4e-0aacd8fa9baf/8b637c52-4fe4-40d8-b84d-376b7d1fc3a3_iPhone5.5_10.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/6e/a4/786ea4e1-33a4-2699-f108-4917c10c80e5/80b3d651-4d9f-417b-b905-8eed524f1d93_iPhone5.5_04.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/42/e9/3442e949-3166-9cac-e87a-9272449b750d/88dfdd53-3b56-4d1b-96a4-4fd8f744e34e_iPhone5.5_03.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/cc/a8/2acca8f0-9123-5be0-5dcd-679e25870f67/7e4fd081-c053-4add-8c4e-b81634db2a46_iPhone5.5_07.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/09/5b/be095bbe-e527-93e8-2917-14e48da874da/d9182719-ade0-493a-b4d8-6ba7fb3231f2_iPhone5.5_05.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/3b/95/7e3b9528-35ec-684f-4f2c-263e8d7f252c/6e04d5cc-3f37-42c0-adfa-046a27f75368_iPhone5.5_06.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/cc/1a/63cc1a25-64b7-b7d1-645f-5d74da59a1e2/160c90ac-027c-487d-b6ee-20354c16b3d9_iPhone5.5_08.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/5b/c8/4a5bc876-018f-91f2-1f0c-5860ecc9745b/d4728989-f20d-4c8b-aea9-4416524952fa_iPhone5.5_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/82/87/c18287c6-35f8-9e16-b447-c0acd5b20bdb/3f20bc18-77a9-417f-a7a7-36fccb4a11e7_iPhone5.5_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/bd/c0/53bdc0c7-2e6c-286a-1e4e-0aacd8fa9baf/8b637c52-4fe4-40d8-b84d-376b7d1fc3a3_iPhone5.5_10.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/6e/a4/786ea4e1-33a4-2699-f108-4917c10c80e5/80b3d651-4d9f-417b-b905-8eed524f1d93_iPhone5.5_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/42/e9/3442e949-3166-9cac-e87a-9272449b750d/88dfdd53-3b56-4d1b-96a4-4fd8f744e34e_iPhone5.5_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/cc/a8/2acca8f0-9123-5be0-5dcd-679e25870f67/7e4fd081-c053-4add-8c4e-b81634db2a46_iPhone5.5_07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/09/5b/be095bbe-e527-93e8-2917-14e48da874da/d9182719-ade0-493a-b4d8-6ba7fb3231f2_iPhone5.5_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/3b/95/7e3b9528-35ec-684f-4f2c-263e8d7f252c/6e04d5cc-3f37-42c0-adfa-046a27f75368_iPhone5.5_06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/cc/1a/63cc1a25-64b7-b7d1-645f-5d74da59a1e2/160c90ac-027c-487d-b6ee-20354c16b3d9_iPhone5.5_08.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "6.0.0",
+          "date": "2026-06-17",
+          "size": 102841920,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.itwcalculator.worldradarfree_WeatherRadar_6.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.0.0",
+      "versionDate": "2026-06-17T13:08:25.786Z",
+      "size": 102841920,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.itwcalculator.worldradarfree_WeatherRadar_6.0.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Inspo",
       "bundleIdentifier": "com.kmoney.compile",
       "developerName": "Pinecone Labs LLC",
@@ -28358,7 +28419,7 @@
       "bundleIdentifier": "com.moonly.Moonly",
       "developerName": "Cosmic Vibrations, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/46/a3/0e46a324-644f-5f1e-792b-8b9f51607d4b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMoonly: Moon Phases & Calendar\n\n• Bundle ID: com.moonly.Moonly\n• Updated to: 2.7.9\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nClick \"Restore Purchases\".\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nMoonly: Moon Phases & Calendar\n\n• Bundle ID: com.moonly.Moonly\n• Updated to: 2.8.2\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nClick \"Restore Purchases\".\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/df/cb/1cdfcb69-48e0-0602-99f5-cbc5f694d6eb/1763a805-2657-47a8-b660-4ca84c4f773e_1_cover_EN_8.jpg/1320x2868bb.jpg"
@@ -28405,6 +28466,12 @@
       ],
       "versions": [
         {
+          "version": "2.8.2",
+          "date": "2026-06-17",
+          "size": 126637007,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.moonly.Moonly_Moonly_2.8.2.ipa"
+        },
+        {
           "version": "2.7.9",
           "date": "2026-06-03",
           "size": 122870714,
@@ -28412,10 +28479,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.7.9",
-      "versionDate": "2026-06-03T09:37:54.381Z",
-      "size": 122870714,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.moonly.Moonly_Moonly_2.7.9.ipa",
+      "version": "2.8.2",
+      "versionDate": "2026-06-17T10:08:34.039Z",
+      "size": 126637007,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.moonly.Moonly_Moonly_2.8.2.ipa",
       "recommended": false
     },
     {
