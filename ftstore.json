@@ -10461,10 +10461,16 @@
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Firecore, LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/46/dc/d046dc0f-326e-e2f0-b20b-af6f02e2d935/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.4.6\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.5\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Tweak core has been fully rewritten\n• Settings have been optimized for iPad\n• Improved gesture interaction\n• Fixed an issue with the loop button visibility\n• Added overlay lock feature\n• Added vertical and horizontal video mirroring\n• Added an option to mute the player only\n• Added support for Infuse 8.2.5+\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nInfuse\n\n• Bundle ID: com.firecore.infuse\n• Updated to: 8.4.7\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Infuse Plus v2.5\n• Tweaked by @blatants\n\n• Note:\nChangelog:\n\n• Tweak by @dvntms\n• Tweak core has been fully rewritten\n• Settings have been optimized for iPad\n• Improved gesture interaction\n• Fixed an issue with the loop button visibility\n• Added overlay lock feature\n• Added vertical and horizontal video mirroring\n• Added an option to mute the player only\n• Added support for Infuse 8.2.5+\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "8.4.7",
+          "date": "2026-06-16",
+          "size": 102022476,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.firecore.infuse_InfusePlus_8.4.7.ipa"
+        },
         {
           "version": "8.4.6",
           "date": "2026-06-12",
@@ -10476,19 +10482,13 @@
           "date": "2026-06-04",
           "size": 92100828,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.firecore.infuse_InfusePlus_8.4.5.ipa"
-        },
-        {
-          "version": "8.3.9",
-          "date": "2026-06-05",
-          "size": 74592875,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.firecore.infuse_InfusePlus_8.3.9.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "8.4.6",
-      "versionDate": "2026-06-12T09:27:41.172Z",
-      "size": 102001470,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.firecore.infuse_InfusePlus_8.4.6.ipa",
+      "version": "8.4.7",
+      "versionDate": "2026-06-16T22:08:09.619Z",
+      "size": 102022476,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.firecore.infuse_InfusePlus_8.4.7.ipa",
       "recommended": false
     },
     {
@@ -33980,6 +33980,59 @@
       "versionDate": "2026-06-03T12:22:29.937Z",
       "size": 284409713,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/au.com.michaeltigas.MiniOS_Sideloadbypass2_1.11.10.ipa",
+      "recommended": false
+    },
+    {
+      "name": "LEMO FM",
+      "bundleIdentifier": "com.LEMO.LemoFM",
+      "developerName": "FocusPomo Apps",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/90/02/72900222-e3d9-34f6-e3fc-1e0e26c71c1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLEMO FM - relax & sleep sound\n\n• Bundle ID: com.LEMO.LemoFM\n• Updated to: 1.11.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/06/fc/f706fce8-5a94-d5ea-ca56-5bf02c890cf1/d36b8b67-851e-4b5c-bc99-7da3b6d6cb6e__U82f1-_U5956_U9879.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/e7/23/07e72313-bd00-dc17-0f7c-1e573dcd9b96/e90bd5f5-2a6d-4a40-81c3-a326f3bfc836__U753b_U677f_U5907_U4efd_6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/24/47/ba/2447ba36-6f78-86c0-38b4-004c7343f107/bf00f0d2-fed5-488e-a301-d2eef3c863f9__U82f1-_U5b9a_U65f6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/dc/46/0cdc46c0-ec38-7265-9754-90d40e5e8d1d/dcc84ad4-53de-4815-a184-aeb3645c0cab__U82f1-_U5b9a_U65f6_U5907_U4efd.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/fe/7a/defe7a47-a06d-6b59-2321-6f63fdfa2fe3/7e048cb2-209f-4fbd-9995-8cdd81a5d615__U753b_U677f_U5907_U4efd_9.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/37/a0/ae37a01c-4233-af0e-0fe4-16d2bd351b9c/ee6b2719-de54-4e62-9aef-c2decd212d15__U753b_U677f_U5907_U4efd_10.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/9e/09/979e09bd-81a1-c54f-421a-9301fb52f8ed/1bfb8263-a18b-4f3f-b2a0-46b6558bdb0a__U753b_U677f_U5907_U4efd_11.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/06/fc/f706fce8-5a94-d5ea-ca56-5bf02c890cf1/d36b8b67-851e-4b5c-bc99-7da3b6d6cb6e__U82f1-_U5956_U9879.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/e7/23/07e72313-bd00-dc17-0f7c-1e573dcd9b96/e90bd5f5-2a6d-4a40-81c3-a326f3bfc836__U753b_U677f_U5907_U4efd_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/24/47/ba/2447ba36-6f78-86c0-38b4-004c7343f107/bf00f0d2-fed5-488e-a301-d2eef3c863f9__U82f1-_U5b9a_U65f6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/dc/46/0cdc46c0-ec38-7265-9754-90d40e5e8d1d/dcc84ad4-53de-4815-a184-aeb3645c0cab__U82f1-_U5b9a_U65f6_U5907_U4efd.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/fe/7a/defe7a47-a06d-6b59-2321-6f63fdfa2fe3/7e048cb2-209f-4fbd-9995-8cdd81a5d615__U753b_U677f_U5907_U4efd_9.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/37/a0/ae37a01c-4233-af0e-0fe4-16d2bd351b9c/ee6b2719-de54-4e62-9aef-c2decd212d15__U753b_U677f_U5907_U4efd_10.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/9e/09/979e09bd-81a1-c54f-421a-9301fb52f8ed/1bfb8263-a18b-4f3f-b2a0-46b6558bdb0a__U753b_U677f_U5907_U4efd_11.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.11.2",
+          "date": "2026-06-17",
+          "size": 101861825,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.LEMO.LemoFM_LemoFM_1.11.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.11.2",
+      "versionDate": "2026-06-17T01:08:10.961Z",
+      "size": 101861825,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.LEMO.LemoFM_LemoFM_1.11.2.ipa",
       "recommended": false
     },
     {
