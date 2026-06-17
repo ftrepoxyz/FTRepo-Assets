@@ -1191,7 +1191,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/f6/e9/3bf6e9f2-c756-8ab4-f1f5-0dfac3836636/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @compiledipas |\n----------------\nGlow 1.3.1\nFB v565.0.0",
+      "localizedDescription": "from @compiledipas |\n----------------\nGlow 1.3.1\nFB 566.0.0",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/c0/fa/e2c0faf7-2613-0ead-3c3a-193d992e3930/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/1320x2868bb.png"
@@ -1238,6 +1238,12 @@
       ],
       "versions": [
         {
+          "version": "566.0.0",
+          "date": "2026-06-17",
+          "size": 202507184,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.facebook.Facebook_Glow_566.0.0.ipa"
+        },
+        {
           "version": "565.0.0",
           "date": "2026-06-12",
           "size": 201297227,
@@ -1248,19 +1254,13 @@
           "date": "2026-06-12",
           "size": 188877165,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.facebook.Facebook_Glow_564.0.0.ipa"
-        },
-        {
-          "version": "563.0.0",
-          "date": "2026-06-12",
-          "size": 206369806,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.facebook.Facebook_Glow_563.0.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "565.0.0",
-      "versionDate": "2026-06-12T12:09:22.273Z",
-      "size": 201297227,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.facebook.Facebook_Glow_565.0.0.ipa",
+      "version": "566.0.0",
+      "versionDate": "2026-06-17T04:08:26.245Z",
+      "size": 202507184,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.facebook.Facebook_Glow_566.0.0.ipa",
       "recommended": false
     },
     {
@@ -3542,7 +3542,7 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/86/9e/0f869ee2-ca40-a713-6cc4-4cb2bcdc82de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 30.1.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 30.1.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/e4/01/dbe40197-b6c8-19e2-2db3-38e8044a2cc4/9.Collage___iPhone_6.5.jpg/1320x2868bb.jpg"
@@ -3609,6 +3609,12 @@
       ],
       "versions": [
         {
+          "version": "30.1.3",
+          "date": "2026-06-17",
+          "size": 111971460,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.picsart.studio_Picsart_30.1.3.ipa"
+        },
+        {
           "version": "30.1.1",
           "date": "2026-06-15",
           "size": 111968371,
@@ -3619,19 +3625,13 @@
           "date": "2026-06-05",
           "size": 105703512,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.picsart.studio_Picsart_30.0.2.ipa"
-        },
-        {
-          "version": "30.0.1",
-          "date": "2026-06-02",
-          "size": 108153324,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.picsart.studio_Picsart_30.0.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "30.1.1",
-      "versionDate": "2026-06-15T07:07:48.897Z",
-      "size": 111968371,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.picsart.studio_Picsart_30.1.1.ipa",
+      "version": "30.1.3",
+      "versionDate": "2026-06-17T07:08:18.943Z",
+      "size": 111971460,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.picsart.studio_Picsart_30.1.3.ipa",
       "recommended": false
     },
     {
