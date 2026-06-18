@@ -5396,11 +5396,17 @@
       "name": "Fitia",
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/97/07/1f97076d-87ae-9c5e-323e-b6f05469000e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 23.1.9\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/a3/bb/66a3bb00-2694-8dc5-62fa-2e12f99b8b75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 23.1.12\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "23.1.12",
+          "date": "2026-06-18",
+          "size": 105108658,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.ulisesolave.Fitia_Fitia_23.1.12.ipa"
+        },
         {
           "version": "23.1.9",
           "date": "2026-06-12",
@@ -5412,19 +5418,13 @@
           "date": "2026-06-12",
           "size": 80096487,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.ulisesolave.Fitia_Fitia_23.1.8.ipa"
-        },
-        {
-          "version": "23.1.5",
-          "date": "2026-06-02",
-          "size": 82692303,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.ulisesolave.Fitia_Fitia_23.1.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "23.1.9",
-      "versionDate": "2026-06-12T09:04:51.853Z",
-      "size": 79384900,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.ulisesolave.Fitia_Fitia_23.1.9.ipa",
+      "version": "23.1.12",
+      "versionDate": "2026-06-18T04:08:53.898Z",
+      "size": 105108658,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.ulisesolave.Fitia_Fitia_23.1.12.ipa",
       "recommended": false
     },
     {
@@ -5432,7 +5432,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @compiledipas",
+      "localizedDescription": "from @binnichtaktivsipas",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg"
@@ -5460,9 +5460,9 @@
       "versions": [
         {
           "version": "21.24.3",
-          "date": "2026-06-17",
+          "date": "2026-06-18",
           "size": 131263730,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.google.ios.youtube_YTKHelper_21.24.3.ipa"
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.google.ios.youtube_YTKHelper_21.24.3.ipa"
         },
         {
           "version": "21.22.4",
@@ -5479,9 +5479,9 @@
       ],
       "appPermissions": {},
       "version": "21.24.3",
-      "versionDate": "2026-06-17T22:08:57.635Z",
+      "versionDate": "2026-06-18T07:08:59.241Z",
       "size": 131263730,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.google.ios.youtube_YTKHelper_21.24.3.ipa",
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.google.ios.youtube_YTKHelper_21.24.3.ipa",
       "recommended": false
     },
     {
