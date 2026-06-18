@@ -7448,7 +7448,7 @@
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/99/9f/6a999fe6-8406-d4a3-bc10-32a4941b8730/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFlightradar24 | Flight Tracker\n\n• Bundle ID: se.resenatverket.FlightRadar24-Free\n• Updated to: 11.6.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Lifetime\n• Tweaked by @blatants\n\n• Note:\nLogin and restart to activate.\nMost Features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nFlightradar24 | Flight Tracker\n\n• Bundle ID: se.resenatverket.FlightRadar24-Free\n• Updated to: 11.6.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Lifetime\n• Tweaked by @blatants\n\n• Note:\nLogin and restart to activate.\nMost Features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/1320x2868bb.jpg"
@@ -7495,6 +7495,12 @@
       ],
       "versions": [
         {
+          "version": "11.6.1",
+          "date": "2026-06-18",
+          "size": 225111742,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.6.1.ipa"
+        },
+        {
           "version": "11.6.0",
           "date": "2026-06-12",
           "size": 188002756,
@@ -7505,19 +7511,13 @@
           "date": "2026-06-02",
           "size": 225225201,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.1.ipa"
-        },
-        {
-          "version": "11.5.0",
-          "date": "2026-06-03",
-          "size": 222034559,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "11.6.0",
-      "versionDate": "2026-06-12T09:07:59.298Z",
-      "size": 188002756,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.6.0.ipa",
+      "version": "11.6.1",
+      "versionDate": "2026-06-18T13:09:17.028Z",
+      "size": 225111742,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.6.1.ipa",
       "recommended": false
     },
     {
@@ -13689,11 +13689,17 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/cd/9f/a6cd9f51-d4ce-33ee-e615-8728c21d8ef4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/d7/fd/12d7fd7d-45cf-8414-a2ef-c2db5f650b24/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "6.14.2",
+          "date": "2026-06-18",
+          "size": 97866716,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.sfun.snapedit_SnapEdit_6.14.2.ipa"
+        },
         {
           "version": "6.14.1",
           "date": "2026-06-16",
@@ -13705,19 +13711,13 @@
           "date": "2026-06-16",
           "size": 98166355,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.sfun.snapedit_SnapEdit_6.14.ipa"
-        },
-        {
-          "version": "6.13",
-          "date": "2026-06-12",
-          "size": 98494862,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.sfun.snapedit_SnapEdit_6.13.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.14.1",
-      "versionDate": "2026-06-16T19:08:06.283Z",
-      "size": 98170950,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.sfun.snapedit_SnapEdit_6.14.1.ipa",
+      "version": "6.14.2",
+      "versionDate": "2026-06-18T10:08:57.931Z",
+      "size": 97866716,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.sfun.snapedit_SnapEdit_6.14.2.ipa",
       "recommended": false
     },
     {
