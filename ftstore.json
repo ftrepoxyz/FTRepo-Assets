@@ -5461,7 +5461,7 @@
         {
           "version": "21.24.3",
           "date": "2026-06-17",
-          "size": 131261747,
+          "size": 131263730,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.google.ios.youtube_YTKHelper_21.24.3.ipa"
         },
         {
@@ -5479,8 +5479,8 @@
       ],
       "appPermissions": {},
       "version": "21.24.3",
-      "versionDate": "2026-06-17T19:08:58.638Z",
-      "size": 131261747,
+      "versionDate": "2026-06-17T22:08:57.635Z",
+      "size": 131263730,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.google.ios.youtube_YTKHelper_21.24.3.ipa",
       "recommended": false
     },
@@ -6220,6 +6220,79 @@
       "recommended": false
     },
     {
+      "name": "B612",
+      "bundleIdentifier": "com.linecorp.b612",
+      "developerName": "SNOW Corporation",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/51/61/40516193-9b1e-0f21-37f1-3cba4e676853/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nB612 AI Photo&Video Editor\n\n• Bundle ID: com.linecorp.b612\n• Updated to: 15.2.1\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/90/af/ca/90afcae4-5ffc-c03b-bd81-68160de39fba/c602a0cc-9168-4dca-b0e0-443e76620fb3_01_2__U00283_U0029.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/02/0a/60020af4-6784-d55a-1d6d-ff3dbbd42acf/48553c9d-ffb9-4da2-a91a-3c254eb038dd_02.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/1f/7d/cd1f7d91-7cc9-72ea-8e0f-c9f9424bc1e6/dca64d2f-a0e8-4f64-851a-eae83a6bf28d_03.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/99/ce/07/99ce0774-15bc-e45f-94e7-53880702ab3d/003130c4-8214-4c18-b8ca-7610c1e7cac9_04.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/0e/5f/3a0e5f0d-f6ab-b13a-a09e-9605bf74e48e/d1189f05-7fe7-48fa-ae44-ca7b1b6a033a_05.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/92/6b/32/926b32ce-8d79-5fa3-74d7-ee3a4263686a/cdd879b7-0169-4999-879e-4ed157db7cb2_06.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/68/58/4e685884-0bd8-a8ee-1115-c8b3261144b7/8edf5105-fac7-4301-88b2-d00a35db4b9a_07.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/9b/ff/da9bff6d-fe97-d8f2-bdd5-75871f2d3425/1437cccd-24f3-452b-bafb-d1f162b651aa_08.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/35/96/6b359605-728f-2f81-9ec3-78ed27d6af0f/7d8023c4-41e7-47bc-8caa-47689e0585b6_09.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/90/af/ca/90afcae4-5ffc-c03b-bd81-68160de39fba/c602a0cc-9168-4dca-b0e0-443e76620fb3_01_2__U00283_U0029.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/02/0a/60020af4-6784-d55a-1d6d-ff3dbbd42acf/48553c9d-ffb9-4da2-a91a-3c254eb038dd_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/1f/7d/cd1f7d91-7cc9-72ea-8e0f-c9f9424bc1e6/dca64d2f-a0e8-4f64-851a-eae83a6bf28d_03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/99/ce/07/99ce0774-15bc-e45f-94e7-53880702ab3d/003130c4-8214-4c18-b8ca-7610c1e7cac9_04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/0e/5f/3a0e5f0d-f6ab-b13a-a09e-9605bf74e48e/d1189f05-7fe7-48fa-ae44-ca7b1b6a033a_05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/92/6b/32/926b32ce-8d79-5fa3-74d7-ee3a4263686a/cdd879b7-0169-4999-879e-4ed157db7cb2_06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/68/58/4e685884-0bd8-a8ee-1115-c8b3261144b7/8edf5105-fac7-4301-88b2-d00a35db4b9a_07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/9b/ff/da9bff6d-fe97-d8f2-bdd5-75871f2d3425/1437cccd-24f3-452b-bafb-d1f162b651aa_08.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/35/96/6b359605-728f-2f81-9ec3-78ed27d6af0f/7d8023c4-41e7-47bc-8caa-47689e0585b6_09.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "15.2.1",
+          "date": "2026-06-17",
+          "size": 149336213,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.linecorp.b612_B612_15.2.1.ipa"
+        },
+        {
+          "version": "15.1.6",
+          "date": "2026-06-09",
+          "size": 144552817,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.linecorp.b612_B612_15.1.6.ipa"
+        },
+        {
+          "version": "15.1.5",
+          "date": "2026-06-04",
+          "size": 148748087,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.linecorp.b612_B612_15.1.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "15.2.1",
+      "versionDate": "2026-06-17T22:08:40.146Z",
+      "size": 149336213,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.linecorp.b612_B612_15.2.1.ipa",
+      "recommended": false
+    },
+    {
       "name": "FarOut",
       "bundleIdentifier": "com.guthookhikes.ATHiker",
       "developerName": "Atlas Guides DE, Inc.",
@@ -6347,73 +6420,6 @@
       "versionDate": "2026-06-12T09:13:28.122Z",
       "size": 145034563,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.campmobile.snow_SNOW_15.1.6.ipa",
-      "recommended": false
-    },
-    {
-      "name": "B612",
-      "bundleIdentifier": "com.linecorp.b612",
-      "developerName": "SNOW Corporation",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/51/61/40516193-9b1e-0f21-37f1-3cba4e676853/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nB612 AI Photo&Video Editor\n\n• Bundle ID: com.linecorp.b612\n• Updated to: 15.1.6\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/90/af/ca/90afcae4-5ffc-c03b-bd81-68160de39fba/c602a0cc-9168-4dca-b0e0-443e76620fb3_01_2__U00283_U0029.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/02/0a/60020af4-6784-d55a-1d6d-ff3dbbd42acf/48553c9d-ffb9-4da2-a91a-3c254eb038dd_02.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/1f/7d/cd1f7d91-7cc9-72ea-8e0f-c9f9424bc1e6/dca64d2f-a0e8-4f64-851a-eae83a6bf28d_03.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/99/ce/07/99ce0774-15bc-e45f-94e7-53880702ab3d/003130c4-8214-4c18-b8ca-7610c1e7cac9_04.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/0e/5f/3a0e5f0d-f6ab-b13a-a09e-9605bf74e48e/d1189f05-7fe7-48fa-ae44-ca7b1b6a033a_05.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/92/6b/32/926b32ce-8d79-5fa3-74d7-ee3a4263686a/cdd879b7-0169-4999-879e-4ed157db7cb2_06.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/68/58/4e685884-0bd8-a8ee-1115-c8b3261144b7/8edf5105-fac7-4301-88b2-d00a35db4b9a_07.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/9b/ff/da9bff6d-fe97-d8f2-bdd5-75871f2d3425/1437cccd-24f3-452b-bafb-d1f162b651aa_08.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/35/96/6b359605-728f-2f81-9ec3-78ed27d6af0f/7d8023c4-41e7-47bc-8caa-47689e0585b6_09.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/90/af/ca/90afcae4-5ffc-c03b-bd81-68160de39fba/c602a0cc-9168-4dca-b0e0-443e76620fb3_01_2__U00283_U0029.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/02/0a/60020af4-6784-d55a-1d6d-ff3dbbd42acf/48553c9d-ffb9-4da2-a91a-3c254eb038dd_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/1f/7d/cd1f7d91-7cc9-72ea-8e0f-c9f9424bc1e6/dca64d2f-a0e8-4f64-851a-eae83a6bf28d_03.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/99/ce/07/99ce0774-15bc-e45f-94e7-53880702ab3d/003130c4-8214-4c18-b8ca-7610c1e7cac9_04.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/0e/5f/3a0e5f0d-f6ab-b13a-a09e-9605bf74e48e/d1189f05-7fe7-48fa-ae44-ca7b1b6a033a_05.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/92/6b/32/926b32ce-8d79-5fa3-74d7-ee3a4263686a/cdd879b7-0169-4999-879e-4ed157db7cb2_06.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/68/58/4e685884-0bd8-a8ee-1115-c8b3261144b7/8edf5105-fac7-4301-88b2-d00a35db4b9a_07.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/9b/ff/da9bff6d-fe97-d8f2-bdd5-75871f2d3425/1437cccd-24f3-452b-bafb-d1f162b651aa_08.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/35/96/6b359605-728f-2f81-9ec3-78ed27d6af0f/7d8023c4-41e7-47bc-8caa-47689e0585b6_09.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "15.1.6",
-          "date": "2026-06-09",
-          "size": 144552817,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.linecorp.b612_B612_15.1.6.ipa"
-        },
-        {
-          "version": "15.1.5",
-          "date": "2026-06-04",
-          "size": 148748087,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.linecorp.b612_B612_15.1.5.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "15.1.6",
-      "versionDate": "2026-06-09T04:06:06.544Z",
-      "size": 144552817,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.linecorp.b612_B612_15.1.6.ipa",
       "recommended": false
     },
     {
@@ -23627,12 +23633,6 @@
           "date": "2026-06-05",
           "size": 134409060,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.pixite.pigment_Sideloadbypass2_3.11.1.ipa"
-        },
-        {
-          "version": "3.11",
-          "date": "2026-06-05",
-          "size": 134409191,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.pixite.pigment_Sideloadbypass2_3.11.ipa"
         }
       ],
       "appPermissions": {},
