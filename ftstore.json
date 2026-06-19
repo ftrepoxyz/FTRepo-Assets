@@ -26732,10 +26732,16 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/1b/85/e11b85bd-8b11-a7de-d934-af9307ea2df0/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.51.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nLocket Widget\n\n• Bundle ID: com.locket.Locket\n• Updated to: 2.52.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Locket Gold\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2.52.0",
+          "date": "2026-06-19",
+          "size": 337263328,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.locket.Locket_AutoRcSideload_2.52.0.ipa"
+        },
         {
           "version": "2.51.0",
           "date": "2026-06-12",
@@ -26747,19 +26753,13 @@
           "date": "2026-06-06",
           "size": 151177399,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.locket.Locket_AutoRcSideload_2.50.1.ipa"
-        },
-        {
-          "version": "2.50.0",
-          "date": "2026-06-05",
-          "size": 338049183,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.locket.Locket_AutoRcSideload_2.50.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.51.0",
-      "versionDate": "2026-06-12T20:55:35.334Z",
-      "size": 337184216,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.locket.Locket_AutoRcSideload_2.51.0.ipa",
+      "version": "2.52.0",
+      "versionDate": "2026-06-19T01:09:33.690Z",
+      "size": 337263328,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.locket.Locket_AutoRcSideload_2.52.0.ipa",
       "recommended": false
     },
     {
@@ -32988,6 +32988,71 @@
       "recommended": false
     },
     {
+      "name": "YouCut",
+      "bundleIdentifier": "com.shantanu.YouCut",
+      "developerName": "SHANTANU PTE. LTD.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/99/37/149937ff-5d0c-1ec4-9317-611ef153ed16/appicon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nYouCut - AI Video Editor\n\n• Bundle ID: com.shantanu.YouCut\n• Updated to: 1.30.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/49/6f/da496f29-1779-38b9-7929-119cb0d1218a/IMG_0950.jpeg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/5e/94/905e9445-385d-3c4f-0607-4dcf5fb0cbee/IMG_0955.jpeg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/48/e3/7b48e3df-519f-67d6-b3b0-4ef6284076d2/IMG_0957.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/1a/28/8d1a2877-fc7c-f024-a93f-c34cbbff9b94/IMG_0951.jpeg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/17/92/371792ae-27f8-508d-357d-6a9b2d5ce98e/IMG_0953.jpeg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/8d/13/f88d130e-a8b1-0ce6-851e-89cc71c97d1f/IMG_0952.jpeg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/75/ff/5f75ffc3-2f26-2a7f-a84a-434a069f59fc/IMG_0949.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/be/00/71be0099-77a6-a86d-53dd-5819568ade12/IMG_0956.jpeg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/74/9d/f1749d86-dc67-0ba4-8298-f82f3ba18590/IMG_0954.jpeg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/c3/d8/0ac3d8af-c2bf-c7ba-48db-301f21366a68/IMG_0948.jpeg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/49/6f/da496f29-1779-38b9-7929-119cb0d1218a/IMG_0950.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/5e/94/905e9445-385d-3c4f-0607-4dcf5fb0cbee/IMG_0955.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/48/e3/7b48e3df-519f-67d6-b3b0-4ef6284076d2/IMG_0957.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/1a/28/8d1a2877-fc7c-f024-a93f-c34cbbff9b94/IMG_0951.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/17/92/371792ae-27f8-508d-357d-6a9b2d5ce98e/IMG_0953.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/8d/13/f88d130e-a8b1-0ce6-851e-89cc71c97d1f/IMG_0952.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/75/ff/5f75ffc3-2f26-2a7f-a84a-434a069f59fc/IMG_0949.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/be/00/71be0099-77a6-a86d-53dd-5819568ade12/IMG_0956.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/74/9d/f1749d86-dc67-0ba4-8298-f82f3ba18590/IMG_0954.jpeg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/c3/d8/0ac3d8af-c2bf-c7ba-48db-301f21366a68/IMG_0948.jpeg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.30.0",
+          "date": "2026-06-18",
+          "size": 89511495,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.shantanu.YouCut_YouCut_1.30.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.30.0",
+      "versionDate": "2026-06-18T22:09:15.797Z",
+      "size": 89511495,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.shantanu.YouCut_YouCut_1.30.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Coin ID",
       "bundleIdentifier": "com.aiby.wtcoin",
       "developerName": "AIBY",
@@ -36985,22 +37050,22 @@
       "bundleIdentifier": "app.ftstore.manager",
       "developerName": "Unknown Developer",
       "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from github:Felitendo/FTStore-Manager (dev) |\n----------------\nRolling development build of FTStore Manager from the latest `main` commit (12a02c4b2cfbd8b727c07b39ad1c5c352bcdd1b3). FTStore Manager installs and updates FTStore on-device. Unsigned — sign it on-device at install (e.g. with your own certificate).",
+      "localizedDescription": "from github:Felitendo/FTStore-Manager (dev) |\n----------------\nRolling development build of FTStore Manager from the latest `main` commit (0816dd5b86fe06b541b7c4cb9cf87e1b738e0d80). FTStore Manager installs and updates FTStore on-device. Unsigned — sign it on-device at install (e.g. with your own certificate).",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-06-11",
-          "size": 14165760,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/app.ftstore.manager_1.0.ipa"
+          "date": "2026-06-18",
+          "size": 13236498,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/app.ftstore.manager_1.0.ipa"
         }
       ],
       "appPermissions": {},
       "version": "1.0",
-      "versionDate": "2026-06-11T13:06:54.777Z",
-      "size": 14165760,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-11/app.ftstore.manager_1.0.ipa",
+      "versionDate": "2026-06-18T22:09:03.347Z",
+      "size": 13236498,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/app.ftstore.manager_1.0.ipa",
       "recommended": false
     },
     {
