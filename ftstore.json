@@ -1368,6 +1368,71 @@
       "recommended": false
     },
     {
+      "name": "Instagram (Ryukgram)",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Instagram, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @ryukgram |\n----------------\nRyukGram v1.3.2\n\nDownloads\n• 📲 IPA — RyukGram (main · with plugins)\n• 🧩 IPA — no plugins (SideStore / AltStore)\n• 🛠 TrollFools bundle (.zip)\n\n📦 Source (SideStore / Feather):\nhttps://source.ryuksign.com\n☕ Donate  ·  🐛 Report bugs · Group\n\nFull changelog above ⬆",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/64/4d/38644df4-f5fc-97d6-61d1-94cf27762b1e/3_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/58/d9/4758d91e-4359-b964-c83a-70c47762a1d3/4_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/53/68/c55368ac-3b36-e9ec-c67f-8ca303dc659f/5_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/63/51/b0635181-466e-2cd2-a8d0-f2c24650603a/6_iOS_5.5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/36/76/f43676f2-f6a9-e6dd-c838-5580b72c5802/7_iOS_5.5.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/64/4d/38644df4-f5fc-97d6-61d1-94cf27762b1e/3_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/58/d9/4758d91e-4359-b964-c83a-70c47762a1d3/4_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/53/68/c55368ac-3b36-e9ec-c67f-8ca303dc659f/5_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/63/51/b0635181-466e-2cd2-a8d0-f2c24650603a/6_iOS_5.5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/36/76/f43676f2-f6a9-e6dd-c838-5580b72c5802/7_iOS_5.5.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "434.0.0",
+          "date": "2026-06-19",
+          "size": 325069159,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.burbn.instagram_RyukGram_434.0.0.ipa"
+        },
+        {
+          "version": "430.0.0",
+          "date": "2026-06-19",
+          "size": 318126524,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.burbn.instagram_RyukGram_430.0.0.ipa"
+        },
+        {
+          "version": "426.0.0",
+          "date": "2026-06-02",
+          "size": 323994423,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.burbn.instagram_RyukGram_426.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "434.0.0",
+      "versionDate": "2026-06-19T10:10:27.438Z",
+      "size": 325069159,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.burbn.instagram_RyukGram_434.0.0.ipa",
+      "recommended": true
+    },
+    {
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
@@ -1755,65 +1820,6 @@
       "size": 257561654,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.fouadraheb.regram_Regram_431.0.0.ipa",
       "recommended": false
-    },
-    {
-      "name": "Instagram (Ryukgram)",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Instagram, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @ryukgram |\n----------------\nRyukGram v1.3.0 | Instagram 430.0.0\n\n• IPA — with plugins (sideloaded)\n• IPA — no plugins (SideStore / AltStore)\n• TrollFools bundle (.zip)\n\nSee changelog above ⬆️\n\nBug reports / Feature requests here \nhttps://t.me/+zZvEA1SluWFjYWY0",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/64/4d/38644df4-f5fc-97d6-61d1-94cf27762b1e/3_iOS_5.5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/58/d9/4758d91e-4359-b964-c83a-70c47762a1d3/4_iOS_5.5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/53/68/c55368ac-3b36-e9ec-c67f-8ca303dc659f/5_iOS_5.5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/63/51/b0635181-466e-2cd2-a8d0-f2c24650603a/6_iOS_5.5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/36/76/f43676f2-f6a9-e6dd-c838-5580b72c5802/7_iOS_5.5.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/64/4d/38644df4-f5fc-97d6-61d1-94cf27762b1e/3_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/58/d9/4758d91e-4359-b964-c83a-70c47762a1d3/4_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/53/68/c55368ac-3b36-e9ec-c67f-8ca303dc659f/5_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/63/51/b0635181-466e-2cd2-a8d0-f2c24650603a/6_iOS_5.5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/36/76/f43676f2-f6a9-e6dd-c838-5580b72c5802/7_iOS_5.5.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "430.0.0",
-          "date": "2026-06-19",
-          "size": 318126524,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.burbn.instagram_RyukGram_430.0.0.ipa"
-        },
-        {
-          "version": "426.0.0",
-          "date": "2026-06-02",
-          "size": 323994423,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.burbn.instagram_RyukGram_426.0.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "430.0.0",
-      "versionDate": "2026-06-19T09:05:29.765Z",
-      "size": 318126524,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.burbn.instagram_RyukGram_430.0.0.ipa",
-      "recommended": true
     },
     {
       "name": "Instagram (InstaLRD)",
@@ -16736,6 +16742,83 @@
       "recommended": false
     },
     {
+      "name": "GOWOD",
+      "bundleIdentifier": "eu.gowod",
+      "developerName": "Mobility First Group",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/19/c8/9a19c852-6f12-0310-f6cb-b7615df143d7/icon_liquid-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nGOWOD – Mobility & Stretching\n\n• Bundle ID: eu.gowod\n• Updated to: 5.10.1\n• Minimum iOS: 16.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3e/c9/d03ec9dd-91ab-0464-08e8-3fad8159dbe3/01.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/25/4c/47254c74-61b1-1d30-fdcc-820b70e40932/02.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/4a/c3/2d4ac3bd-3688-2e7f-5556-27da5a4cb854/03.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/28/dd/2d28dda7-6632-407d-160c-41ebfd47640d/04.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/c7/5a/75c75a7b-f677-376c-d4a7-2a13586e825e/05.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ac/43/e0ac4382-3ad9-0a09-4e94-a1b644103449/06.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/4a/8b/864a8be2-b417-4ec7-e220-9507278fd5e2/07.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/93/63/d493630b-4b07-85b4-590c-7016ea76c2a3/08.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c4/71/3fc471c9-33e4-dc9b-b32d-16f8a949a90d/09.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/81/5d/52815ddc-3f50-1b14-2b4a-f88fa706501f/10.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3e/c9/d03ec9dd-91ab-0464-08e8-3fad8159dbe3/01.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/25/4c/47254c74-61b1-1d30-fdcc-820b70e40932/02.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/4a/c3/2d4ac3bd-3688-2e7f-5556-27da5a4cb854/03.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/28/dd/2d28dda7-6632-407d-160c-41ebfd47640d/04.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/c7/5a/75c75a7b-f677-376c-d4a7-2a13586e825e/05.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ac/43/e0ac4382-3ad9-0a09-4e94-a1b644103449/06.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/4a/8b/864a8be2-b417-4ec7-e220-9507278fd5e2/07.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/93/63/d493630b-4b07-85b4-590c-7016ea76c2a3/08.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c4/71/3fc471c9-33e4-dc9b-b32d-16f8a949a90d/09.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/81/5d/52815ddc-3f50-1b14-2b4a-f88fa706501f/10.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.10.1",
+          "date": "2026-06-19",
+          "size": 61473019,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/eu.gowod_gowod_5.10.1.ipa"
+        },
+        {
+          "version": "5.9.0",
+          "date": "2026-06-12",
+          "size": 57685156,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/eu.gowod_gowod_5.9.0.ipa"
+        },
+        {
+          "version": "5.8.5",
+          "date": "2026-06-02",
+          "size": 59575257,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/eu.gowod_gowod_5.8.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.10.1",
+      "versionDate": "2026-06-19T10:09:26.211Z",
+      "size": 61473019,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/eu.gowod_gowod_5.10.1.ipa",
+      "recommended": false
+    },
+    {
       "name": "Smart Quiz",
       "bundleIdentifier": "smquiz.smquiz.smquiz",
       "developerName": "Unknown Developer",
@@ -16821,83 +16904,6 @@
       "versionDate": "2026-06-12T13:20:00.126Z",
       "size": 124693140,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.efehelvaci.Daily-Affirmation_Sideloadbypass2_5.9.5.ipa",
-      "recommended": false
-    },
-    {
-      "name": "GOWOD",
-      "bundleIdentifier": "eu.gowod",
-      "developerName": "Mobility First Group",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/19/c8/9a19c852-6f12-0310-f6cb-b7615df143d7/icon_liquid-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nGOWOD\n\nPremium features unlocked\n\nOnly login with Google/Facebook/Apple is supported at the moment\n\nTweak made by Blatant\n\nMinimum OS version 16.4\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3e/c9/d03ec9dd-91ab-0464-08e8-3fad8159dbe3/01.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/25/4c/47254c74-61b1-1d30-fdcc-820b70e40932/02.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/4a/c3/2d4ac3bd-3688-2e7f-5556-27da5a4cb854/03.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/28/dd/2d28dda7-6632-407d-160c-41ebfd47640d/04.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/c7/5a/75c75a7b-f677-376c-d4a7-2a13586e825e/05.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ac/43/e0ac4382-3ad9-0a09-4e94-a1b644103449/06.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/4a/8b/864a8be2-b417-4ec7-e220-9507278fd5e2/07.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/93/63/d493630b-4b07-85b4-590c-7016ea76c2a3/08.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c4/71/3fc471c9-33e4-dc9b-b32d-16f8a949a90d/09.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/81/5d/52815ddc-3f50-1b14-2b4a-f88fa706501f/10.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3e/c9/d03ec9dd-91ab-0464-08e8-3fad8159dbe3/01.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/25/4c/47254c74-61b1-1d30-fdcc-820b70e40932/02.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/4a/c3/2d4ac3bd-3688-2e7f-5556-27da5a4cb854/03.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/28/dd/2d28dda7-6632-407d-160c-41ebfd47640d/04.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/c7/5a/75c75a7b-f677-376c-d4a7-2a13586e825e/05.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ac/43/e0ac4382-3ad9-0a09-4e94-a1b644103449/06.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/4a/8b/864a8be2-b417-4ec7-e220-9507278fd5e2/07.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/93/63/d493630b-4b07-85b4-590c-7016ea76c2a3/08.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c4/71/3fc471c9-33e4-dc9b-b32d-16f8a949a90d/09.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/81/5d/52815ddc-3f50-1b14-2b4a-f88fa706501f/10.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "5.9.0",
-          "date": "2026-06-12",
-          "size": 57685156,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/eu.gowod_gowod_5.9.0.ipa"
-        },
-        {
-          "version": "5.8.5",
-          "date": "2026-06-02",
-          "size": 59575257,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/eu.gowod_gowod_5.8.5.ipa"
-        },
-        {
-          "version": "5.8.4",
-          "date": "2026-06-04",
-          "size": 61054425,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/eu.gowod_gowod_5.8.4.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.9.0",
-      "versionDate": "2026-06-12T09:38:48.088Z",
-      "size": 57685156,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/eu.gowod_gowod_5.9.0.ipa",
       "recommended": false
     },
     {
@@ -17566,72 +17572,11 @@
       "recommended": false
     },
     {
-      "name": "Clarity",
-      "bundleIdentifier": "com.moodtools.thoughtdiary",
-      "developerName": "Inquiry Health LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/11/05/8b11052e-adef-2bcc-b346-9b72621d9e91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nClarity: CBT Self Help Journal\n\n• Bundle ID: com.moodtools.thoughtdiary\n• Updated to: 5.5.22\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/83/aca183f1-d602-5f78-3b38-58593a632ed3/bec62a60-9135-43e2-a01a-19096eb7eb3f_ipad3v2.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/ee/bd6fee6d-22aa-bbdc-7203-d5fcac2b0dd8/c745c6d5-00b6-4c19-b0f7-5d2f24c5c5f6_ipad4.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/c6/ae48c6e4-b733-3664-c5e7-e28ef0b212ef/3337e524-262b-4275-ba03-43ab4cf69b5c_ipad5v3.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e1/05/dce1059c-1bfa-5730-7a10-c58ff6288217/simulator_screenshot_85EAE2C5-6E5B-46C8-B6B0-EEB34D037932.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/0b/c5/430bc5e8-e353-3790-f070-a4d256c10013/simulator_screenshot_394DD1D3-A428-4D68-9448-19CA9C810F0E.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/83/aca183f1-d602-5f78-3b38-58593a632ed3/bec62a60-9135-43e2-a01a-19096eb7eb3f_ipad3v2.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/ee/bd6fee6d-22aa-bbdc-7203-d5fcac2b0dd8/c745c6d5-00b6-4c19-b0f7-5d2f24c5c5f6_ipad4.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/c6/ae48c6e4-b733-3664-c5e7-e28ef0b212ef/3337e524-262b-4275-ba03-43ab4cf69b5c_ipad5v3.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e1/05/dce1059c-1bfa-5730-7a10-c58ff6288217/simulator_screenshot_85EAE2C5-6E5B-46C8-B6B0-EEB34D037932.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/0b/c5/430bc5e8-e353-3790-f070-a4d256c10013/simulator_screenshot_394DD1D3-A428-4D68-9448-19CA9C810F0E.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "5.5.22",
-          "date": "2026-06-14",
-          "size": 180422404,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.moodtools.thoughtdiary_Clarity_5.5.22.ipa"
-        },
-        {
-          "version": "5.5.21",
-          "date": "2026-06-12",
-          "size": 178411682,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.moodtools.thoughtdiary_Clarity_5.5.21.ipa"
-        },
-        {
-          "version": "5.5.20",
-          "date": "2026-06-12",
-          "size": 180205399,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.moodtools.thoughtdiary_Clarity_5.5.20.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.5.22",
-      "versionDate": "2026-06-14T02:56:04.059Z",
-      "size": 180422404,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.moodtools.thoughtdiary_Clarity_5.5.22.ipa",
-      "recommended": false
-    },
-    {
       "name": "Detail",
       "bundleIdentifier": "co.detail.duo",
       "developerName": "Detail Technologies B.V.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/3e/89/0c3e8991-a51c-c3a9-bb54-bd418dc9f3f2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nDetail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 5.5.21\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nDetail: Camera & Video Editor\n\nTweak: Pro Unlocked\n\nVersion: 5.5.22\n\nNotes: restart app if it isnt pro\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: co.detail.duo\nDeveloper: Detail Technologies B.V.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/e0/4a/fce04ae9-ab17-5b9d-d29e-6744fa60bfd2/EN_-_Screenshot_0.jpg/1320x2868bb.webp"
@@ -17726,6 +17671,12 @@
       ],
       "versions": [
         {
+          "version": "5.5.22",
+          "date": "2026-06-19",
+          "size": 228580734,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/co.detail.duo_Sideloadbypass2_5.5.22.ipa"
+        },
+        {
           "version": "5.5.21",
           "date": "2026-06-06",
           "size": 192369956,
@@ -17736,19 +17687,74 @@
           "date": "2026-06-03",
           "size": 247274102,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/co.detail.duo_Detail_5.5.20.ipa"
-        },
-        {
-          "version": "5.5.19",
-          "date": "2026-06-05",
-          "size": 183810378,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/co.detail.duo_Detail_5.5.19.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.5.21",
-      "versionDate": "2026-06-06T07:07:29.555Z",
-      "size": 192369956,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/co.detail.duo_Detail_5.5.21.ipa",
+      "version": "5.5.22",
+      "versionDate": "2026-06-19T13:10:17.329Z",
+      "size": 228580734,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/co.detail.duo_Sideloadbypass2_5.5.22.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Clarity",
+      "bundleIdentifier": "com.moodtools.thoughtdiary",
+      "developerName": "Inquiry Health LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/11/05/8b11052e-adef-2bcc-b346-9b72621d9e91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nClarity: CBT Self Help Journal\n\n• Bundle ID: com.moodtools.thoughtdiary\n• Updated to: 5.5.22\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/83/aca183f1-d602-5f78-3b38-58593a632ed3/bec62a60-9135-43e2-a01a-19096eb7eb3f_ipad3v2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/ee/bd6fee6d-22aa-bbdc-7203-d5fcac2b0dd8/c745c6d5-00b6-4c19-b0f7-5d2f24c5c5f6_ipad4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/c6/ae48c6e4-b733-3664-c5e7-e28ef0b212ef/3337e524-262b-4275-ba03-43ab4cf69b5c_ipad5v3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e1/05/dce1059c-1bfa-5730-7a10-c58ff6288217/simulator_screenshot_85EAE2C5-6E5B-46C8-B6B0-EEB34D037932.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/0b/c5/430bc5e8-e353-3790-f070-a4d256c10013/simulator_screenshot_394DD1D3-A428-4D68-9448-19CA9C810F0E.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/1c/68581c15-1364-1a6e-7a1f-c171c915a0ba/9c3f2bd0-0236-4659-91fe-6805ef919be5_ipad2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a1/83/aca183f1-d602-5f78-3b38-58593a632ed3/bec62a60-9135-43e2-a01a-19096eb7eb3f_ipad3v2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6f/ee/bd6fee6d-22aa-bbdc-7203-d5fcac2b0dd8/c745c6d5-00b6-4c19-b0f7-5d2f24c5c5f6_ipad4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/c6/ae48c6e4-b733-3664-c5e7-e28ef0b212ef/3337e524-262b-4275-ba03-43ab4cf69b5c_ipad5v3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e1/05/dce1059c-1bfa-5730-7a10-c58ff6288217/simulator_screenshot_85EAE2C5-6E5B-46C8-B6B0-EEB34D037932.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/0b/c5/430bc5e8-e353-3790-f070-a4d256c10013/simulator_screenshot_394DD1D3-A428-4D68-9448-19CA9C810F0E.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.5.22",
+          "date": "2026-06-14",
+          "size": 180422404,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.moodtools.thoughtdiary_Clarity_5.5.22.ipa"
+        },
+        {
+          "version": "5.5.21",
+          "date": "2026-06-12",
+          "size": 178411682,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.moodtools.thoughtdiary_Clarity_5.5.21.ipa"
+        },
+        {
+          "version": "5.5.20",
+          "date": "2026-06-12",
+          "size": 180205399,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.moodtools.thoughtdiary_Clarity_5.5.20.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.5.22",
+      "versionDate": "2026-06-14T02:56:04.059Z",
+      "size": 180422404,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.moodtools.thoughtdiary_Clarity_5.5.22.ipa",
       "recommended": false
     },
     {
