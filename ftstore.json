@@ -8428,7 +8428,7 @@
       "bundleIdentifier": "io.stampapp.Stamp",
       "developerName": "Hernas OÜ",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e5/57/3ee557be-c209-d92b-7b05-bb7eb7f55afc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFreeYourMusic: Move Playlists\n\n• Bundle ID: io.stampapp.Stamp\n• Updated to: 9.28.0\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nFreeYourMusic: Move Playlists\n\n• Bundle ID: io.stampapp.Stamp\n• Updated to: 9.29.0\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/6d/25/cc6d2554-9194-029d-04a4-80d5fc522eaa/ios-01.png/1320x2868bb.png"
@@ -8451,6 +8451,12 @@
       ],
       "versions": [
         {
+          "version": "9.29.0",
+          "date": "2026-06-19",
+          "size": 27821351,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/io.stampapp.Stamp_FreeYourMusic_9.29.0.ipa"
+        },
+        {
           "version": "9.28.0",
           "date": "2026-06-02",
           "size": 26524123,
@@ -8464,10 +8470,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.28.0",
-      "versionDate": "2026-06-02T14:56:55.830Z",
-      "size": 26524123,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/io.stampapp.Stamp_FreeYourMusic_9.28.0.ipa",
+      "version": "9.29.0",
+      "versionDate": "2026-06-19T07:09:12.411Z",
+      "size": 27821351,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/io.stampapp.Stamp_FreeYourMusic_9.29.0.ipa",
       "recommended": false
     },
     {
@@ -18264,6 +18270,29 @@
       "versionDate": "2026-06-14T23:56:22.077Z",
       "size": 166193401,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.mfagency.nurture_riftysedentweak_5.3.0.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Stronger",
+      "bundleIdentifier": "com.strongermobileapp.stronger",
+      "developerName": "Atlas Smart Technologies LTD",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/3e/02/3f3e021e-c06b-2272-2bf5-f9c93b4074e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nStronger - Gym Workout Planner\n\nTweak: Premium Unlocked\n\nVersion: 5.2.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: com.strongermobileapp.stronger\nDeveloper: Atlas Smart Technologies LTD",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "5.2.7",
+          "date": "2026-06-19",
+          "size": 109137427,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.strongermobileapp.stronger_popuprifty_5.2.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.2.7",
+      "versionDate": "2026-06-19T07:09:27.768Z",
+      "size": 109137427,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.strongermobileapp.stronger_popuprifty_5.2.7.ipa",
       "recommended": false
     },
     {
