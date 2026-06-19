@@ -9009,7 +9009,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nEeveeSpotify\n\nA tweak to get Spotify Premium for free, just like Spotilife\n\nIf you find any bugs please report it here\n\nMinimum OS version 16.1\n\nAppStore link | Donate",
+      "localizedDescription": "from @compiledipas",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
@@ -9048,12 +9048,6 @@
       ],
       "versions": [
         {
-          "version": "9.1.56",
-          "date": "2026-06-16",
-          "size": 118396730,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.spotify.client_EeveeSpotify_9.1.56.ipa"
-        },
-        {
           "version": "9.1.52",
           "date": "2026-06-12",
           "size": 114062956,
@@ -9067,10 +9061,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.1.56",
-      "versionDate": "2026-06-16T07:08:25.249Z",
-      "size": 118396730,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.spotify.client_EeveeSpotify_9.1.56.ipa",
+      "version": "9.1.52",
+      "versionDate": "2026-06-12T13:44:33.149Z",
+      "size": 114062956,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_zxPluginsInject_9.1.52.ipa",
       "recommended": true
     },
     {
@@ -31222,11 +31216,17 @@
       "name": "Balance",
       "bundleIdentifier": "com.elevateapp.kamino.kamino",
       "developerName": "The Mind Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/5d/dd/be5dddae-54fe-7125-c219-88ffed26392d/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBalance: Meditation & Sleep\n\nTweak: Subscription Unlocked\n\nVersion: 1.204.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.kamino.kamino\nDeveloper: The Mind Company",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/22/c1/5422c19d-a1e6-c914-fd91-4df6d92bf45a/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBalance: Meditation & Sleep\n\nTweak: Subscription Unlocked\n\nVersion: 1.204.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.kamino.kamino\nDeveloper: The Mind Company",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.204.1",
+          "date": "2026-06-19",
+          "size": 116977992,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.elevateapp.kamino.kamino_Sideloadbypass2_1.204.1.ipa"
+        },
         {
           "version": "1.204.0",
           "date": "2026-06-15",
@@ -31238,19 +31238,13 @@
           "date": "2026-06-05",
           "size": 116943407,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.elevateapp.kamino.kamino_Sideloadbypass2_1.203.0.ipa"
-        },
-        {
-          "version": "1.202.0",
-          "date": "2026-06-12",
-          "size": 116871845,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.elevateapp.kamino.kamino_Sideloadbypass2_1.202.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.204.0",
-      "versionDate": "2026-06-15T16:08:07.181Z",
-      "size": 116950106,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.elevateapp.kamino.kamino_Sideloadbypass2_1.204.0.ipa",
+      "version": "1.204.1",
+      "versionDate": "2026-06-19T04:09:20.833Z",
+      "size": 116977992,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.elevateapp.kamino.kamino_Sideloadbypass2_1.204.1.ipa",
       "recommended": false
     },
     {
