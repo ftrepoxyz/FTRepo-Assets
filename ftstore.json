@@ -6948,7 +6948,7 @@
       "bundleIdentifier": "ph.telegra.Telegraph",
       "developerName": "Telegram FZ-LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/c0/1b/57c01b2f-70b3-cfee-4cfa-03aac0ea2b8d/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @compiledipas |\n----------------\nTelegram 12.8 + Lead 1.4.2\n\nUpdated Telegram to 12.8\nTo enable Lead: \n1.) Go to Telegram Settings \n2.) Press and hold Ask a Question\n*Ignore 1.4.1 in settings, it’s version 1.4.2\nAs usual follow the steps here if doing a clean install: https://t.me/ipavault/4 \nBuild by: @ipavault\n\nCredits: \n@Leadgramm for Lead",
+      "localizedDescription": "from @compiledipas |\n----------------\nTelegram 12.8 + Lead 1.4.3\n\nUpdated Lead to 1.4.3\nTo enable Lead: \n1.) Go to Telegram Settings \n2.) Press and hold Ask a Question\nAs usual follow the steps here if doing a clean install: https://t.me/ipavault/4 \nBuild by: @ipavault\n\nCredits: \n@Leadgramm for Lead",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/b1/b9/e6b1b943-d7ea-73cc-69e7-9d9e22a27a5b/0_APP_IPHONE_55_0.png/1320x2868bb.png"
@@ -6984,9 +6984,9 @@
       "versions": [
         {
           "version": "12.8",
-          "date": "2026-06-12",
-          "size": 81838019,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/ph.telegra.Telegraph_TelegramNotificationFix_12.8.ipa"
+          "date": "2026-06-20",
+          "size": 86575514,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/ph.telegra.Telegraph_TelegramNotificationFix_12.8.ipa"
         },
         {
           "version": "12.7",
@@ -7003,9 +7003,9 @@
       ],
       "appPermissions": {},
       "version": "12.8",
-      "versionDate": "2026-06-12T12:09:35.254Z",
-      "size": 81838019,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/ph.telegra.Telegraph_TelegramNotificationFix_12.8.ipa",
+      "versionDate": "2026-06-20T10:10:04.066Z",
+      "size": 86575514,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/ph.telegra.Telegraph_TelegramNotificationFix_12.8.ipa",
       "recommended": false
     },
     {
@@ -13707,11 +13707,17 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/d7/fd/12d7fd7d-45cf-8414-a2ef-c2db5f650b24/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/60/f4/db60f409-b689-a854-c3b9-1adccde7e6d7/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "6.14.3",
+          "date": "2026-06-20",
+          "size": 96337057,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.sfun.snapedit_SnapEdit_6.14.3.ipa"
+        },
         {
           "version": "6.14.2",
           "date": "2026-06-18",
@@ -13723,19 +13729,13 @@
           "date": "2026-06-16",
           "size": 98170950,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.sfun.snapedit_SnapEdit_6.14.1.ipa"
-        },
-        {
-          "version": "6.14",
-          "date": "2026-06-16",
-          "size": 98166355,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.sfun.snapedit_SnapEdit_6.14.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.14.2",
-      "versionDate": "2026-06-18T10:08:57.931Z",
-      "size": 97866716,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.sfun.snapedit_SnapEdit_6.14.2.ipa",
+      "version": "6.14.3",
+      "versionDate": "2026-06-20T10:09:52.320Z",
+      "size": 96337057,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.sfun.snapedit_SnapEdit_6.14.3.ipa",
       "recommended": false
     },
     {
