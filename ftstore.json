@@ -2045,9 +2045,9 @@
         },
         {
           "version": "331.0",
-          "date": "2026-06-12",
-          "size": 94128639,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.hammerandchisel.discord_KettuTweak_331.0.ipa"
+          "date": "2026-06-20",
+          "size": 107515564,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.hammerandchisel.discord_appstorehelper_331.0.ipa"
         },
         {
           "version": "330.0",
@@ -17067,11 +17067,17 @@
       "name": "Gratitude",
       "bundleIdentifier": "com.northstar.gratitude",
       "developerName": "Hapjoy Technologies Private Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/7b/7f/a87b7f77-ddd7-cf27-9237-e176ec17193a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.7.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/23/a1/f123a127-41e4-dd1e-d2e4-324746cfe205/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nGratitude: Self-Care Journal\n\nTweak: Pro Unlocked\n\nVersion: 5.7.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.northstar.gratitude\nDeveloper: Hapjoy Technologies Private Limited",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "5.7.2",
+          "date": "2026-06-20",
+          "size": 64472978,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.northstar.gratitude_Sideloadbypass2_5.7.2.ipa"
+        },
         {
           "version": "5.7.1",
           "date": "2026-06-12",
@@ -17083,19 +17089,13 @@
           "date": "2026-06-02",
           "size": 64360494,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.northstar.gratitude_Sideloadbypass2_5.7.ipa"
-        },
-        {
-          "version": "5.6.9",
-          "date": "2026-06-02",
-          "size": 64913556,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.northstar.gratitude_Sideloadbypass2_5.6.9.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.7.1",
-      "versionDate": "2026-06-12T07:08:47.187Z",
-      "size": 64371265,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.northstar.gratitude_Sideloadbypass2_5.7.1.ipa",
+      "version": "5.7.2",
+      "versionDate": "2026-06-20T07:10:13.025Z",
+      "size": 64472978,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.northstar.gratitude_Sideloadbypass2_5.7.2.ipa",
       "recommended": false
     },
     {
@@ -19080,7 +19080,7 @@
       "bundleIdentifier": "com.oribot.origami",
       "developerName": "Andreas Bauer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/36/962d367f-dc17-08d9-1246-c6e2359701de/AppIconGlass-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nOrigami - Fold & Learn\n\n• Bundle ID: com.oribot.origami\n• Updated to: 4.77\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nOrigami - Fold & Learn\n\n• Bundle ID: com.oribot.origami\n• Updated to: 4.78\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/b1/ae/20b1ae7d-a20f-1e3b-33b5-873f054ef407/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-04-11_at_13.17.53.png/1320x2868bb.webp"
@@ -19099,6 +19099,12 @@
       ],
       "versions": [
         {
+          "version": "4.78",
+          "date": "2026-06-20",
+          "size": 199774100,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.oribot.origami_Origami_4.78.ipa"
+        },
+        {
           "version": "4.77",
           "date": "2026-06-04",
           "size": 198727102,
@@ -19109,19 +19115,13 @@
           "date": "2026-06-02",
           "size": 198690781,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.oribot.origami_Origami_4.76.ipa"
-        },
-        {
-          "version": "4.75",
-          "date": "2026-06-05",
-          "size": 196684799,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.oribot.origami_Origami_4.75.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.77",
-      "versionDate": "2026-06-04T21:22:34.578Z",
-      "size": 198727102,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.oribot.origami_Origami_4.77.ipa",
+      "version": "4.78",
+      "versionDate": "2026-06-20T07:10:00.965Z",
+      "size": 199774100,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.oribot.origami_Origami_4.78.ipa",
       "recommended": false
     },
     {
@@ -24292,7 +24292,7 @@
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
       "developerName": "Triple Glazed Studios LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/4b/41/9e4b41f2-c1af-2a71-33f5-6dccbd3c698a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nMercury Weather\n\n• Bundle ID: com.tripleglazedstudios.Weather\n• Updated to: 3.5.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when installed with a certificate with Appgroups enabled.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nMercury Weather\n\n• Bundle ID: com.tripleglazedstudios.Weather\n• Updated to: 3.5.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nWidgets work when installed with a certificate with Appgroups enabled.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/06/17/eb0617e1-3ddf-c259-0388-15097aa73909/0fc24c54-17ee-43a0-bc3b-05e244f1f110_Screen_1.png/1320x2868bb.jpg"
@@ -24327,6 +24327,12 @@
       ],
       "versions": [
         {
+          "version": "3.5.3",
+          "date": "2026-06-20",
+          "size": 73365875,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.tripleglazedstudios.Weather_MercuryWeather_3.5.3.ipa"
+        },
+        {
           "version": "3.5.1",
           "date": "2026-06-03",
           "size": 46881609,
@@ -24337,19 +24343,13 @@
           "date": "2026-06-03",
           "size": 67198990,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.tripleglazedstudios.Weather_MercuryWeather_3.5.ipa"
-        },
-        {
-          "version": "3.4.9",
-          "date": "2026-06-05",
-          "size": 67131300,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.tripleglazedstudios.Weather_MercuryWeather_3.4.9.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.5.1",
-      "versionDate": "2026-06-03T09:34:15.293Z",
-      "size": 46881609,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.tripleglazedstudios.Weather_MercuryWeather_3.5.1.ipa",
+      "version": "3.5.3",
+      "versionDate": "2026-06-20T04:09:45.002Z",
+      "size": 73365875,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.tripleglazedstudios.Weather_MercuryWeather_3.5.3.ipa",
       "recommended": false
     },
     {
