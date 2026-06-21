@@ -5438,7 +5438,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nYouTube 21.24.3\nYTKillerPlus 5.7 cracked by @itzzace0\nInjected with:\nDontEatMyContent\nGonerino\nSideloadkeychainfix\nVolumeBoostYT\nYouChooseQuality\nYouGetCaption\nYouGroupSettings\nYouPiP\nYouQuality\nYouTubeDislikesReturn\nYouTubeNativeShare\nYTABConfig\nYTHoldForSpeed\nYTKPlus\nYTUHD\nYTVideoErrorAlert\nYTVideoOverlay\nOpenYouTubeSafariExtension",
+      "localizedDescription": "from @compiledipas |\n----------------\nYTKP 5.7 cracked by @itzzace0\nInjected with:\nDontEatMyContent\nGonerino\nSideloadkeychainfix\nVolumeBoostYT\nYouChooseQuality\nYouGetCaption\nYouGroupSettings\nYouPiP\nYouQuality\nYouTubeDislikesReturn\nYouTubeNativeShare\nYTABConfig\nYTHoldForSpeed\nYTKPlus\nYTUHD\nYTVideoErrorAlert\nYTVideoOverlay\nOpenYouTubeSafariExtension",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/1320x2868bb.jpg"
@@ -5466,9 +5466,9 @@
       "versions": [
         {
           "version": "21.24.3",
-          "date": "2026-06-20",
-          "size": 132404930,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.google.ios.youtube_sideloadkeychainfix_21.24.3.ipa"
+          "date": "2026-06-21",
+          "size": 131627992,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-21/com.google.ios.youtube_YouQuality_21.24.3.ipa"
         },
         {
           "version": "21.22.4",
@@ -5485,9 +5485,9 @@
       ],
       "appPermissions": {},
       "version": "21.24.3",
-      "versionDate": "2026-06-20T22:10:48.950Z",
-      "size": 132404930,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.google.ios.youtube_sideloadkeychainfix_21.24.3.ipa",
+      "versionDate": "2026-06-21T01:10:21.363Z",
+      "size": 131627992,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-21/com.google.ios.youtube_YouQuality_21.24.3.ipa",
       "recommended": false
     },
     {
@@ -37844,10 +37844,16 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "Unknown Developer",
       "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from github:luqmanfadlli/NuvioMobile-iOS (0.2.9) |\n----------------\n# 🚀 Release v0.2.9\r\n\r\nThis release is based on the upstream **Nuvio v0.2.9**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.9).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Notification, Lockscreen, and Widget playback control with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Changed the \"Play\" button to \"Watch Again\" for already-watched movies to improve tracking clarity.\r\n* Relocated Trakt configuration into the Integrations Settings menu.\r\n* Implemented a dynamic, platform-aware `User-Agent` injection for device-side plugin streams to bypass aggressive CDN throttling.\r\n* ~Implemented Picture-in-Picture (PiP) support for iOS.~\r\n> Note: PiP support is removed in this release because of HDR playback issue. Need more time to fix.\r\n\r\n**Bug Fixes:**\r\n* Fixed animated GIF support for Profile Avatars.\r\n* Fixed animated GIF support for Stream Badge.\r\n* ~Fixed the in-app trailer playback layout and interactivity.~ (merged to the upstream)\r\n\r\n**What's New:**\r\n* Live TV: watch progress/history no longer stored in Continue Watching\r\n* Live TV: multiple playlists\r\n* Live TV: local m3u support\r\n* Live TV: search channels\r\n* Live TV: categorized channels\r\n\r\n> **💡 Note for iOS Users:**\r\nSince Nuvio embeds heavy media frameworks, sideloading tools like AltStore, SideStore, or Sideloadly have to manually re-sign thousands of internal components with your Apple ID certificate. If the installation progress bar looks stuck, please don't close it! Just give it a few minutes to process the signing in the background, and it will install successfully. Use cable connection to speed-up sideloading process.\r\n\r\n> **💡 Note for Android Users:** Unsigned debug APKs are included in the assets below if you want to test the Enhanced features on Android. You may not able to install this apk because it's unsigned.\r\n\r\n---\r\n\r\n## 📥 Downloads\r\n\r\n| Variant | Platform | Architecture | File |\r\n| :--- | :--- | :--- | :--- |\r\n| **Nuvio Full** | iOS | Universal | [Nuvio-v0.2.9-Full.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.9/Nuvio-v0.2.9-Full.ipa) |\r\n| **Nuvio Enhanced** | iOS | Universal | [Nuvio-v0.2.9-Enhanced.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.9/Nuvio-v0.2.9-Enhanced.ipa) |\r\n| **Nuvio Enhanced** | Android | Universal | [Nuvio-v0.2.9-Enhanced.apk](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.9/Nuvio-v0.2.9-Enhanced.apk) |",
+      "localizedDescription": "from github:luqmanfadlli/NuvioMobile-iOS (0.2.11) |\n----------------\n# 🚀 Release v0.2.11\r\n\r\nThis release is based on the upstream **Nuvio v0.2.11**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.11).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Notification, Lockscreen, and Widget playback control with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Changed the \"Play\" button to \"Watch Again\" for already-watched movies to improve tracking clarity.\r\n* Relocated Trakt configuration into the Integrations Settings menu.\r\n\r\n**Bug Fixes:**\r\n* Fixed animated GIF support for Profile Avatars.\r\n* Fixed animated GIF support for Stream Badge.\r\n* Fixed Plugin Runtime Dispatcher on iOS.\r\n\r\n> **💡 Note for iOS Users:**\r\nSince Nuvio embeds heavy media frameworks, sideloading tools like AltStore, SideStore, or Sideloadly have to manually re-sign thousands of internal components with your Apple ID certificate. If the installation progress bar looks stuck, please don't close it! Just give it a few minutes to process the signing in the background, and it will install successfully. Use cable connection to speed-up sideloading process.\r\n\r\n> **💡 Note for Android Users:** Unsigned debug APKs are included in the assets below if you want to test the Enhanced features on Android. You may not able to install this apk because it's unsigned.\r\n\r\n---\r\n\r\n## 📥 Downloads\r\n\r\n| Variant | Platform | Architecture | File |\r\n| :--- | :--- | :--- | :--- |\r\n| **Nuvio Full** | iOS | Universal | [Nuvio-v0.2.11-Full.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.11/Nuvio-v0.2.11-Full.ipa) |\r\n| **Nuvio Enhanced** | iOS | Universal | [Nuvio-v0.2.11-Enhanced.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.11/Nuvio-v0.2.11-Enhanced.ipa) |\r\n| **Nuvio Enhanced** | Android | Universal | [Nuvio-v0.2.11-Enhanced.apk](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.11/Nuvio-v0.2.11-Enhanced.apk) |",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.2.11",
+          "date": "2026-06-21",
+          "size": 38516764,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-21/com.nuvio.media_0.2.11.ipa"
+        },
         {
           "version": "0.2.9",
           "date": "2026-06-19",
@@ -37859,19 +37865,13 @@
           "date": "2026-06-15",
           "size": 37849749,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.nuvio.media_0.2.8.ipa"
-        },
-        {
-          "version": "0.2.5",
-          "date": "2026-06-12",
-          "size": 37946802,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.nuvio.media_0.2.5.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.2.9",
-      "versionDate": "2026-06-19T19:09:32.120Z",
-      "size": 38532842,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.nuvio.media_0.2.9.ipa",
+      "version": "0.2.11",
+      "versionDate": "2026-06-21T01:10:03.806Z",
+      "size": 38516764,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-21/com.nuvio.media_0.2.11.ipa",
       "recommended": false
     },
     {
