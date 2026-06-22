@@ -231,11 +231,17 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/f7/f220f7f8-bd02-a063-c3ab-fa783121128e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPhotoroom: AI Photo Editor\n\n• Bundle ID: com.dr1ven.eraser\n• Updated to: 2026.25.02\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Max Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nImage generation might still be limited.\nIgnore any purchase pages and restart the app once.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/51/ab/1d51ab9d-d36f-6845-4cb6-37303905e1da/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhotoroom: AI Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2026.26.01\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.dr1ven.eraser\nDeveloper: Photoroom",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2026.26.01",
+          "date": "2026-06-22",
+          "size": 172811570,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.dr1ven.eraser_Sideloadbypass2_2026.26.01.ipa"
+        },
         {
           "version": "2026.25.02",
           "date": "2026-06-16",
@@ -247,19 +253,13 @@
           "date": "2026-06-15",
           "size": 176542556,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.dr1ven.eraser_Photoroom_2026.25.01.ipa"
-        },
-        {
-          "version": "2026.24.02",
-          "date": "2026-06-12",
-          "size": 129907823,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.dr1ven.eraser_Photoroom_2026.24.02.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2026.25.02",
-      "versionDate": "2026-06-16T10:08:13.606Z",
-      "size": 176559728,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.dr1ven.eraser_Photoroom_2026.25.02.ipa",
+      "version": "2026.26.01",
+      "versionDate": "2026-06-22T13:11:02.934Z",
+      "size": 172811570,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.dr1ven.eraser_Sideloadbypass2_2026.26.01.ipa",
       "recommended": false
     },
     {
@@ -4019,6 +4019,75 @@
       "recommended": false
     },
     {
+      "name": "Yazio",
+      "bundleIdentifier": "com.yazio.ios.YAZIO",
+      "developerName": "YAZIO",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/59/e3/bc59e3b4-0f2e-8d11-d3d8-115ee9429886/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 26.25.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/2b/ae/6d2bae5e-a199-52ef-7e43-12e8b925afa5/4c582818-8bc7-470a-93e5-8906f963a69a_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a0/3d/87a03d09-706e-23c3-9fca-a9fe0b921db2/de9e490b-dbcb-491b-af7a-61e7288a6009_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d8/c2/a2d8c2d9-b9c0-05fd-677f-3806364fa224/740cc4bd-bcb5-4962-b867-d2f8e8e11b7c_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/90/f6/f290f6f1-0d85-eb7c-1940-8660b5b2f8ea/eea1ab0a-87f9-4f65-a494-f033aa7c677f_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/2c/99/4e2c99f4-81d3-e208-4cef-e0bc8118cdb4/93824828-57f7-44cc-9832-718f1fcee761_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/45/ebea4531-5f5c-b8b1-a8c5-67ee9a673041/ec9802ad-92ca-40f9-811a-8498eaf5bf23_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/2b/ae/6d2bae5e-a199-52ef-7e43-12e8b925afa5/4c582818-8bc7-470a-93e5-8906f963a69a_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a0/3d/87a03d09-706e-23c3-9fca-a9fe0b921db2/de9e490b-dbcb-491b-af7a-61e7288a6009_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d8/c2/a2d8c2d9-b9c0-05fd-677f-3806364fa224/740cc4bd-bcb5-4962-b867-d2f8e8e11b7c_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/90/f6/f290f6f1-0d85-eb7c-1940-8660b5b2f8ea/eea1ab0a-87f9-4f65-a494-f033aa7c677f_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/2c/99/4e2c99f4-81d3-e208-4cef-e0bc8118cdb4/93824828-57f7-44cc-9832-718f1fcee761_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/45/ebea4531-5f5c-b8b1-a8c5-67ee9a673041/ec9802ad-92ca-40f9-811a-8498eaf5bf23_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "26.25.0",
+          "date": "2026-06-22",
+          "size": 209870275,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.yazio.ios.YAZIO_Yazio_26.25.0.ipa"
+        },
+        {
+          "version": "12.88.1",
+          "date": "2026-06-12",
+          "size": 127454769,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.yazio.ios.YAZIO_Yazio_12.88.1.ipa"
+        },
+        {
+          "version": "12.88.0",
+          "date": "2026-06-12",
+          "size": 127433327,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.yazio.ios.YAZIO_Yazio_12.88.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.25.0",
+      "versionDate": "2026-06-22T10:10:46.330Z",
+      "size": 209870275,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.yazio.ios.YAZIO_Yazio_26.25.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Lingokids",
       "bundleIdentifier": "es.monkimun.lingokids",
       "developerName": "Monkimun Inc",
@@ -6779,75 +6848,6 @@
       "versionDate": "2026-06-12T11:36:59.013Z",
       "size": 101678649,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/boomer.Smart-Video_Sideloadbypass2_13.21.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Yazio",
-      "bundleIdentifier": "com.yazio.ios.YAZIO",
-      "developerName": "YAZIO",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/59/e3/bc59e3b4-0f2e-8d11-d3d8-115ee9429886/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nAI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 12.88.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/2b/ae/6d2bae5e-a199-52ef-7e43-12e8b925afa5/4c582818-8bc7-470a-93e5-8906f963a69a_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a0/3d/87a03d09-706e-23c3-9fca-a9fe0b921db2/de9e490b-dbcb-491b-af7a-61e7288a6009_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d8/c2/a2d8c2d9-b9c0-05fd-677f-3806364fa224/740cc4bd-bcb5-4962-b867-d2f8e8e11b7c_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/90/f6/f290f6f1-0d85-eb7c-1940-8660b5b2f8ea/eea1ab0a-87f9-4f65-a494-f033aa7c677f_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/2c/99/4e2c99f4-81d3-e208-4cef-e0bc8118cdb4/93824828-57f7-44cc-9832-718f1fcee761_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/45/ebea4531-5f5c-b8b1-a8c5-67ee9a673041/ec9802ad-92ca-40f9-811a-8498eaf5bf23_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/2b/ae/6d2bae5e-a199-52ef-7e43-12e8b925afa5/4c582818-8bc7-470a-93e5-8906f963a69a_2_APP_IPHONE_55_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a0/3d/87a03d09-706e-23c3-9fca-a9fe0b921db2/de9e490b-dbcb-491b-af7a-61e7288a6009_3_APP_IPHONE_55_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d8/c2/a2d8c2d9-b9c0-05fd-677f-3806364fa224/740cc4bd-bcb5-4962-b867-d2f8e8e11b7c_4_APP_IPHONE_55_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/90/f6/f290f6f1-0d85-eb7c-1940-8660b5b2f8ea/eea1ab0a-87f9-4f65-a494-f033aa7c677f_5_APP_IPHONE_55_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/2c/99/4e2c99f4-81d3-e208-4cef-e0bc8118cdb4/93824828-57f7-44cc-9832-718f1fcee761_6_APP_IPHONE_55_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/45/ebea4531-5f5c-b8b1-a8c5-67ee9a673041/ec9802ad-92ca-40f9-811a-8498eaf5bf23_7_APP_IPHONE_55_7.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "12.88.1",
-          "date": "2026-06-12",
-          "size": 127454769,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.yazio.ios.YAZIO_Yazio_12.88.1.ipa"
-        },
-        {
-          "version": "12.88.0",
-          "date": "2026-06-12",
-          "size": 127433327,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.yazio.ios.YAZIO_Yazio_12.88.0.ipa"
-        },
-        {
-          "version": "12.87.0",
-          "date": "2026-06-02",
-          "size": 126485703,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.yazio.ios.YAZIO_Yazio_12.87.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "12.88.1",
-      "versionDate": "2026-06-12T09:04:11.103Z",
-      "size": 127454769,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.yazio.ios.YAZIO_Yazio_12.88.1.ipa",
       "recommended": false
     },
     {
@@ -31345,11 +31345,17 @@
       "name": "Lyfta",
       "bundleIdentifier": "com.lyftaios",
       "developerName": "Lindberg Development AS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/b0/a9/33b0a948-1d99-ab95-658e-46d3cea414a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nLyfta: Gym Workout Tracker Log\n\n• Bundle ID: com.lyftaios\n• Updated to: 1.149\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/15/a8/c615a862-b510-5336-a340-91a9bbef28b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nLyfta: Gym Workout Tracker Log\n\n• Bundle ID: com.lyftaios\n• Updated to: 1.150\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.150",
+          "date": "2026-06-22",
+          "size": 65451609,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.lyftaios_Lyfta_1.150.ipa"
+        },
         {
           "version": "1.149",
           "date": "2026-06-12",
@@ -31361,19 +31367,13 @@
           "date": "2026-06-04",
           "size": 66092673,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.lyftaios_Lyfta_1.148.ipa"
-        },
-        {
-          "version": "1.147",
-          "date": "2026-06-05",
-          "size": 66241354,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.lyftaios_Lyfta_1.147.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.149",
-      "versionDate": "2026-06-12T09:23:27.814Z",
-      "size": 64441243,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.lyftaios_Lyfta_1.149.ipa",
+      "version": "1.150",
+      "versionDate": "2026-06-22T13:10:40.041Z",
+      "size": 65451609,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.lyftaios_Lyfta_1.150.ipa",
       "recommended": false
     },
     {
@@ -34542,6 +34542,61 @@
       "recommended": false
     },
     {
+      "name": "Piano Star",
+      "bundleIdentifier": "com.piano.star.tiles.music.circles.dancing.beat.magic",
+      "developerName": "TINYMAX HONGKONG LIMITED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/4f/cc/a74fcc1d-6a36-b6b0-32c4-8f7f706d79a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPiano Star - Tap Your Music\n\nTweak: Premium Unlocked\n\nVersion: 1.7.4\n\nNotes: When you first open piano star after installing, you must be offline, otherwise you won’t get VIP. You will only need to do this once.\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.piano.star.tiles.music.circles.dancing.beat.magic\nDeveloper: TINYMAX HONGKONG LIMITED",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/8c/0f/e48c0fe2-797e-737c-0ab7-e891183ff1c4/51490eb7-a98b-4b1d-8775-bd3af301e00b_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/4a/af/294aaf79-27a4-5d53-c123-0b64a4b5acc9/b1c999f6-b5b3-40b8-a66e-c6361f091419_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/7c/6a/2a7c6a9b-3cdd-b9b0-0566-dc84a30bc145/40ee8fde-2ead-4ba1-893e-cb27d9860639_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/bd/a3/a7bda391-a5a5-7647-7673-678bdb144081/5b7715c9-0ec6-498d-a962-c742496be31b_6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/8c/11/b38c1117-be27-2b3f-fdc4-40eb9762b3ff/a54233c4-ed8a-4a43-a422-cc89db03a283_PS-XQ-EN-OY-Robert-SDT-01-0320-1242x2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5c/7a/03/5c7a0316-3b48-e659-14e5-38ef2469a4b2/e9e39372-8e3f-447f-9131-dc7b0e3b25c4_PS-XQ-EN-OY-Robert-SDT-02-0320-1242x2208.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/8c/0f/e48c0fe2-797e-737c-0ab7-e891183ff1c4/51490eb7-a98b-4b1d-8775-bd3af301e00b_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/4a/af/294aaf79-27a4-5d53-c123-0b64a4b5acc9/b1c999f6-b5b3-40b8-a66e-c6361f091419_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/7c/6a/2a7c6a9b-3cdd-b9b0-0566-dc84a30bc145/40ee8fde-2ead-4ba1-893e-cb27d9860639_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/bd/a3/a7bda391-a5a5-7647-7673-678bdb144081/5b7715c9-0ec6-498d-a962-c742496be31b_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/8c/11/b38c1117-be27-2b3f-fdc4-40eb9762b3ff/a54233c4-ed8a-4a43-a422-cc89db03a283_PS-XQ-EN-OY-Robert-SDT-01-0320-1242x2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5c/7a/03/5c7a0316-3b48-e659-14e5-38ef2469a4b2/e9e39372-8e3f-447f-9131-dc7b0e3b25c4_PS-XQ-EN-OY-Robert-SDT-02-0320-1242x2208.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "1.7.4",
+          "date": "2026-06-22",
+          "size": 169278575,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.piano.star.tiles.music.circles.dancing.beat.magic_riftyspianostar_1.7.4.ipa"
+        },
+        {
+          "version": "1.7.3",
+          "date": "2026-06-03",
+          "size": 172066755,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.piano.star.tiles.music.circles.dancing.beat.magic_riftyspianostar_1.7.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.7.4",
+      "versionDate": "2026-06-22T10:11:05.763Z",
+      "size": 169278575,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.piano.star.tiles.music.circles.dancing.beat.magic_riftyspianostar_1.7.4.ipa",
+      "recommended": false
+    },
+    {
       "name": "Recify",
       "bundleIdentifier": "com.bakeryscent.recipeai",
       "developerName": "MIRO CONSULTING SRL",
@@ -34574,55 +34629,6 @@
       "versionDate": "2026-06-12T11:52:50.523Z",
       "size": 37491158,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.bakeryscent.recipeai_Sideloadbypass2_1.7.3.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Piano Star",
-      "bundleIdentifier": "com.piano.star.tiles.music.circles.dancing.beat.magic",
-      "developerName": "TINYMAX HONGKONG LIMITED",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/4f/cc/a74fcc1d-6a36-b6b0-32c4-8f7f706d79a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPiano Star - Tap Your Music\n\nTweak: Premium Unlocked\n\nVersion: 1.7.3\n\nNotes: When you first open piano star after installing, you must be offline, otherwise you won’t get VIP. You will only need to do this once.\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.piano.star.tiles.music.circles.dancing.beat.magic\nDeveloper: TINYMAX HONGKONG LIMITED",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/8c/0f/e48c0fe2-797e-737c-0ab7-e891183ff1c4/51490eb7-a98b-4b1d-8775-bd3af301e00b_2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/4a/af/294aaf79-27a4-5d53-c123-0b64a4b5acc9/b1c999f6-b5b3-40b8-a66e-c6361f091419_3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/7c/6a/2a7c6a9b-3cdd-b9b0-0566-dc84a30bc145/40ee8fde-2ead-4ba1-893e-cb27d9860639_5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/bd/a3/a7bda391-a5a5-7647-7673-678bdb144081/5b7715c9-0ec6-498d-a962-c742496be31b_6.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/8c/11/b38c1117-be27-2b3f-fdc4-40eb9762b3ff/a54233c4-ed8a-4a43-a422-cc89db03a283_PS-XQ-EN-OY-Robert-SDT-01-0320-1242x2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5c/7a/03/5c7a0316-3b48-e659-14e5-38ef2469a4b2/e9e39372-8e3f-447f-9131-dc7b0e3b25c4_PS-XQ-EN-OY-Robert-SDT-02-0320-1242x2208.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/8c/0f/e48c0fe2-797e-737c-0ab7-e891183ff1c4/51490eb7-a98b-4b1d-8775-bd3af301e00b_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/4a/af/294aaf79-27a4-5d53-c123-0b64a4b5acc9/b1c999f6-b5b3-40b8-a66e-c6361f091419_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/7c/6a/2a7c6a9b-3cdd-b9b0-0566-dc84a30bc145/40ee8fde-2ead-4ba1-893e-cb27d9860639_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/bd/a3/a7bda391-a5a5-7647-7673-678bdb144081/5b7715c9-0ec6-498d-a962-c742496be31b_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/8c/11/b38c1117-be27-2b3f-fdc4-40eb9762b3ff/a54233c4-ed8a-4a43-a422-cc89db03a283_PS-XQ-EN-OY-Robert-SDT-01-0320-1242x2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5c/7a/03/5c7a0316-3b48-e659-14e5-38ef2469a4b2/e9e39372-8e3f-447f-9131-dc7b0e3b25c4_PS-XQ-EN-OY-Robert-SDT-02-0320-1242x2208.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "1.7.3",
-          "date": "2026-06-03",
-          "size": 172066755,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.piano.star.tiles.music.circles.dancing.beat.magic_riftyspianostar_1.7.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.7.3",
-      "versionDate": "2026-06-03T12:19:20.077Z",
-      "size": 172066755,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.piano.star.tiles.music.circles.dancing.beat.magic_riftyspianostar_1.7.3.ipa",
       "recommended": false
     },
     {
