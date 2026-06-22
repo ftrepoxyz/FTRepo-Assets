@@ -6993,12 +6993,6 @@
           "date": "2026-06-12",
           "size": 80648235,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/ph.telegra.Telegraph_TelegramNotificationFix_12.7.ipa"
-        },
-        {
-          "version": "12.4.1",
-          "date": "2026-06-02",
-          "size": 76440060,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/ph.telegra.Telegraph_TelegramChatFixer_12.4.1.ipa"
         }
       ],
       "appPermissions": {},
@@ -10100,7 +10094,7 @@
       "bundleIdentifier": "com.pungme.combyne",
       "developerName": "combyne GmbH",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/86/ba/1486ba52-d138-ce34-3f81-f33013c971f2/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nCombyne - your perfect Outfit\n\nTweak: Subscription Unlocked\n\nVersion: 8.6.15\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.pungme.combyne\nDeveloper: combyne GmbH",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nCombyne - your perfect Outfit\n\nTweak: Subscription Unlocked\n\nVersion: 8.7.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.6\nBundle ID: com.pungme.combyne\nDeveloper: combyne GmbH",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/15/78/75/15787554-0946-bcde-2f47-35415875631c/38a71243-8f1d-4010-8700-85eae20ce3f1_ios-img-5.5-1.jpeg/1320x2868bb.jpg"
@@ -10135,6 +10129,12 @@
       ],
       "versions": [
         {
+          "version": "8.7.0",
+          "date": "2026-06-22",
+          "size": 58128564,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.pungme.combyne_Sideloadbypass2_8.7.0.ipa"
+        },
+        {
           "version": "8.6.15",
           "date": "2026-06-13",
           "size": 57463816,
@@ -10145,19 +10145,13 @@
           "date": "2026-06-12",
           "size": 48284978,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.pungme.combyne_Sideloadbypass2_8.6.14.ipa"
-        },
-        {
-          "version": "8.6.11",
-          "date": "2026-06-12",
-          "size": 46557829,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.pungme.combyne_Sideloadbypass2_8.6.11.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "8.6.15",
-      "versionDate": "2026-06-13T14:55:57.312Z",
-      "size": 57463816,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.pungme.combyne_Sideloadbypass2_8.6.15.ipa",
+      "version": "8.7.0",
+      "versionDate": "2026-06-22T16:11:36.284Z",
+      "size": 58128564,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.pungme.combyne_Sideloadbypass2_8.7.0.ipa",
       "recommended": false
     },
     {
@@ -13707,11 +13701,17 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/60/f4/db60f409-b689-a854-c3b9-1adccde7e6d7/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/51/29/a7512971-d947-30b9-78ad-609d2932dd28/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "6.14.4",
+          "date": "2026-06-22",
+          "size": 96340259,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.sfun.snapedit_SnapEdit_6.14.4.ipa"
+        },
         {
           "version": "6.14.3",
           "date": "2026-06-20",
@@ -13723,19 +13723,13 @@
           "date": "2026-06-18",
           "size": 97866716,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.sfun.snapedit_SnapEdit_6.14.2.ipa"
-        },
-        {
-          "version": "6.14.1",
-          "date": "2026-06-16",
-          "size": 98170950,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.sfun.snapedit_SnapEdit_6.14.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.14.3",
-      "versionDate": "2026-06-20T10:09:52.320Z",
-      "size": 96337057,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.sfun.snapedit_SnapEdit_6.14.3.ipa",
+      "version": "6.14.4",
+      "versionDate": "2026-06-22T19:10:47.223Z",
+      "size": 96340259,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.sfun.snapedit_SnapEdit_6.14.4.ipa",
       "recommended": false
     },
     {
@@ -15537,11 +15531,17 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/0f/8e/000f8e7d-9c84-2241-fd80-c098f0ef379c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nElevate - Brain Training Games\n\nTweak: Subscription Unlocked\n\nVersion: 5.243.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.elevate\nDeveloper: The Mind Company",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/66/ea/7466ea57-b83b-9c2e-221a-6310221acf5b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nElevate - Brain Training Games\n\n• Bundle ID: com.elevateapp.elevate\n• Updated to: 5.245.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "5.245.0",
+          "date": "2026-06-22",
+          "size": 404442887,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.elevateapp.elevate_AutoRcSideload_5.245.0.ipa"
+        },
         {
           "version": "5.243.0",
           "date": "2026-06-12",
@@ -15553,19 +15553,13 @@
           "date": "2026-06-02",
           "size": 123034283,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.elevateapp.elevate_Sideloadbypass2_5.242.1.ipa"
-        },
-        {
-          "version": "5.242.0",
-          "date": "2026-06-02",
-          "size": 123034369,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.elevateapp.elevate_Sideloadbypass2_5.242.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.243.0",
-      "versionDate": "2026-06-12T11:48:47.288Z",
-      "size": 123145894,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.elevateapp.elevate_Sideloadbypass2_5.243.0.ipa",
+      "version": "5.245.0",
+      "versionDate": "2026-06-22T16:11:25.281Z",
+      "size": 404442887,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.elevateapp.elevate_AutoRcSideload_5.245.0.ipa",
       "recommended": false
     },
     {
@@ -23854,7 +23848,7 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/b1/97/20b19776-66b5-a5a0-246a-eb43ec6a821f/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.69\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.71\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/26/08/fe2608eb-a316-8167-35f3-59ffcb02d374/Glucobit_Reframe_iOS_6.9_Screenshots_V1_250625_01.jpg/1320x2868bb.webp"
@@ -23901,6 +23895,12 @@
       ],
       "versions": [
         {
+          "version": "3.9.71",
+          "date": "2026-06-22",
+          "size": 236636673,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.71.ipa"
+        },
+        {
           "version": "3.9.69",
           "date": "2026-06-12",
           "size": 232552738,
@@ -23911,19 +23911,13 @@
           "date": "2026-06-04",
           "size": 228966056,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.66.ipa"
-        },
-        {
-          "version": "3.9.65",
-          "date": "2026-06-02",
-          "size": 229952070,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.65.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "3.9.69",
-      "versionDate": "2026-06-12T11:38:53.476Z",
-      "size": 232552738,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.69.ipa",
+      "version": "3.9.71",
+      "versionDate": "2026-06-22T19:11:27.459Z",
+      "size": 236636673,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.glucobit.cravingBuster.CravingBuster_Sideloadbypass2_3.9.71.ipa",
       "recommended": false
     },
     {
