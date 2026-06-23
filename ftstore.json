@@ -267,7 +267,7 @@
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/dd/5f/4add5f09-0adc-36a8-8dd0-9bce69ca2813/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nRedditDeluxe 2026.23.0\n- Reddit 2026.23.0\n- RedditFilter (MoeReddit) hold 3 fingers down to get the menu\n- redditColorComments\n- OledKeyboard\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nRedditDeluxe 2026.25.0\n- Reddit 2026.25.0\n- RedditFilter (MoeReddit) hold 3 fingers down to get the menu\n- redditColorComments\n- OledKeyboard\n- RedditSideloadFix\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/96/98/329698ab-2974-8905-d261-5edb5c4c4850/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/1320x2868bb.png"
@@ -298,6 +298,12 @@
       ],
       "versions": [
         {
+          "version": "2026.25.0",
+          "date": "2026-06-23",
+          "size": 145768329,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/com.reddit.Reddit_redditColorComments_2026.25.0.ipa"
+        },
+        {
           "version": "2026.23.0",
           "date": "2026-06-12",
           "size": 151353124,
@@ -308,19 +314,13 @@
           "date": "2026-06-12",
           "size": 157359894,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.reddit.Reddit_redditColorComments_2026.22.0.ipa"
-        },
-        {
-          "version": "2026.21.1",
-          "date": "2026-06-03",
-          "size": 158139410,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.reddit.Reddit_redditColorComments_2026.21.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2026.23.0",
-      "versionDate": "2026-06-12T10:56:13.313Z",
-      "size": 151353124,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.reddit.Reddit_redditColorComments_2026.23.0.ipa",
+      "version": "2026.25.0",
+      "versionDate": "2026-06-23T16:11:16.459Z",
+      "size": 145768329,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/com.reddit.Reddit_redditColorComments_2026.25.0.ipa",
       "recommended": true
     },
     {
@@ -18015,6 +18015,107 @@
       "recommended": false
     },
     {
+      "name": "Solid Starts",
+      "bundleIdentifier": "com.digitas.solidstarts",
+      "developerName": "SolidStarts LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/a0/e3/dfa0e3fa-e0bd-f11d-9724-fb02be4bdabe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSolid Starts: Baby First Foods\n\nTweak: Subscription Unlocked\n\nVersion: 5.4.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.digitas.solidstarts\nDeveloper: SolidStarts LLC",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/1b/36/d41b36f0-4d65-1206-b54b-3d117b1ef46f/store_v3_screen_1.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/3d/df/7b3ddfa3-02ef-8a44-b4c9-edfc14b4cc9d/store_v3_screen_2.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ec/43/51ec438c-43f3-f12d-2f92-5d8a2bf1b929/store_v3_screen_3.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/bd/33/afbd337b-567d-4690-e968-21acbf5e1afe/store_v3_screen_4.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/b5/2c/13b52c29-a852-7b16-7aa8-18cfb3101fd6/store_v3_screen_5.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/c8/f9/fbc8f935-53f0-edb8-22cb-1f028503a813/store_v3_screen_6.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/d4/3e/6dd43e05-fe77-c654-433a-140b1b329bcf/store_v3_screen_7.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/ad/46/4ead4600-9aaf-41aa-57f6-9ce25b14a4ab/store_v3_screen_8.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/ee/1c/f4ee1cc3-0d51-6cb3-34f2-d93ed7b3eaba/store_v2_screen_1_2064__U00d7_2753.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/da/9f/beda9f03-2ebe-2ee9-4272-f93455887e89/store_v2_screen_2_2064__U00d7_2754.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/2d/0e/c32d0ea4-ab0a-b8d8-c823-6adf1e602cf3/store_v2_screen_3_2064__U00d7_2752.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/35/ba/f035ba95-b2e6-877d-f0c5-24b51b8bd9f7/store_v2_screen_4_2064__U00d7_2755.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/a6/f1/bba6f1e4-1486-b82e-ebd8-dcfd35fc317d/store_v2_screen_5_2064__U00d7_2756.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/99/67/ed9967fb-8f33-96ce-29bc-39d1d10cd5b0/store_v2_screen_6_2064__U00d7_2757.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/b8/a1/31b8a161-c6d9-0592-582c-0556d7bebd4b/store_v2_screen_7_2064__U00d7_2758.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/1d/0c/a51d0c8d-6a02-25d3-985e-beefc2fced50/store_v2_screen_8_2064__U00d7_2759.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/1b/36/d41b36f0-4d65-1206-b54b-3d117b1ef46f/store_v3_screen_1.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/3d/df/7b3ddfa3-02ef-8a44-b4c9-edfc14b4cc9d/store_v3_screen_2.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ec/43/51ec438c-43f3-f12d-2f92-5d8a2bf1b929/store_v3_screen_3.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/bd/33/afbd337b-567d-4690-e968-21acbf5e1afe/store_v3_screen_4.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/b5/2c/13b52c29-a852-7b16-7aa8-18cfb3101fd6/store_v3_screen_5.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/c8/f9/fbc8f935-53f0-edb8-22cb-1f028503a813/store_v3_screen_6.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/d4/3e/6dd43e05-fe77-c654-433a-140b1b329bcf/store_v3_screen_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/ad/46/4ead4600-9aaf-41aa-57f6-9ce25b14a4ab/store_v3_screen_8.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/ee/1c/f4ee1cc3-0d51-6cb3-34f2-d93ed7b3eaba/store_v2_screen_1_2064__U00d7_2753.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/da/9f/beda9f03-2ebe-2ee9-4272-f93455887e89/store_v2_screen_2_2064__U00d7_2754.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/2d/0e/c32d0ea4-ab0a-b8d8-c823-6adf1e602cf3/store_v2_screen_3_2064__U00d7_2752.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/35/ba/f035ba95-b2e6-877d-f0c5-24b51b8bd9f7/store_v2_screen_4_2064__U00d7_2755.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/a6/f1/bba6f1e4-1486-b82e-ebd8-dcfd35fc317d/store_v2_screen_5_2064__U00d7_2756.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/99/67/ed9967fb-8f33-96ce-29bc-39d1d10cd5b0/store_v2_screen_6_2064__U00d7_2757.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/b8/a1/31b8a161-c6d9-0592-582c-0556d7bebd4b/store_v2_screen_7_2064__U00d7_2758.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/1d/0c/a51d0c8d-6a02-25d3-985e-beefc2fced50/store_v2_screen_8_2064__U00d7_2759.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.4.1",
+          "date": "2026-06-23",
+          "size": 81697831,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/com.digitas.solidstarts_Sideloadbypass2_5.4.1.ipa"
+        },
+        {
+          "version": "5.2.0",
+          "date": "2026-06-12",
+          "size": 79841721,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.digitas.solidstarts_Sideloadbypass2_5.2.0.ipa"
+        },
+        {
+          "version": "5.1.0",
+          "date": "2026-06-02",
+          "size": 79829128,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.digitas.solidstarts_Sideloadbypass2_5.1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.4.1",
+      "versionDate": "2026-06-23T19:11:28.726Z",
+      "size": 81697831,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/com.digitas.solidstarts_Sideloadbypass2_5.4.1.ipa",
+      "recommended": false
+    },
+    {
       "name": "Yogger",
       "bundleIdentifier": "io.yogger.Yogger",
       "developerName": "Yogger Corporation",
@@ -18600,107 +18701,6 @@
       "versionDate": "2026-06-12T11:51:38.407Z",
       "size": 77009230,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.sublime.capture_Sideloadbypass2_5.2.2.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Solid Starts",
-      "bundleIdentifier": "com.digitas.solidstarts",
-      "developerName": "SolidStarts LLC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/a0/e3/dfa0e3fa-e0bd-f11d-9724-fb02be4bdabe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSolid Starts: Baby First Foods\n\nTweak: Subscription Unlocked\n\nVersion: 5.2.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.1\nBundle ID: com.digitas.solidstarts\nDeveloper: SolidStarts LLC",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/1b/36/d41b36f0-4d65-1206-b54b-3d117b1ef46f/store_v3_screen_1.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/3d/df/7b3ddfa3-02ef-8a44-b4c9-edfc14b4cc9d/store_v3_screen_2.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ec/43/51ec438c-43f3-f12d-2f92-5d8a2bf1b929/store_v3_screen_3.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/bd/33/afbd337b-567d-4690-e968-21acbf5e1afe/store_v3_screen_4.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/b5/2c/13b52c29-a852-7b16-7aa8-18cfb3101fd6/store_v3_screen_5.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/c8/f9/fbc8f935-53f0-edb8-22cb-1f028503a813/store_v3_screen_6.png/1320x2868bb.webp"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/d4/3e/6dd43e05-fe77-c654-433a-140b1b329bcf/store_v3_screen_7.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/ad/46/4ead4600-9aaf-41aa-57f6-9ce25b14a4ab/store_v3_screen_8.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/ee/1c/f4ee1cc3-0d51-6cb3-34f2-d93ed7b3eaba/store_v2_screen_1_2064__U00d7_2753.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/da/9f/beda9f03-2ebe-2ee9-4272-f93455887e89/store_v2_screen_2_2064__U00d7_2754.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/2d/0e/c32d0ea4-ab0a-b8d8-c823-6adf1e602cf3/store_v2_screen_3_2064__U00d7_2752.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/35/ba/f035ba95-b2e6-877d-f0c5-24b51b8bd9f7/store_v2_screen_4_2064__U00d7_2755.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/a6/f1/bba6f1e4-1486-b82e-ebd8-dcfd35fc317d/store_v2_screen_5_2064__U00d7_2756.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/99/67/ed9967fb-8f33-96ce-29bc-39d1d10cd5b0/store_v2_screen_6_2064__U00d7_2757.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/b8/a1/31b8a161-c6d9-0592-582c-0556d7bebd4b/store_v2_screen_7_2064__U00d7_2758.png/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/1d/0c/a51d0c8d-6a02-25d3-985e-beefc2fced50/store_v2_screen_8_2064__U00d7_2759.png/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/1b/36/d41b36f0-4d65-1206-b54b-3d117b1ef46f/store_v3_screen_1.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/3d/df/7b3ddfa3-02ef-8a44-b4c9-edfc14b4cc9d/store_v3_screen_2.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/ec/43/51ec438c-43f3-f12d-2f92-5d8a2bf1b929/store_v3_screen_3.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/bd/33/afbd337b-567d-4690-e968-21acbf5e1afe/store_v3_screen_4.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/b5/2c/13b52c29-a852-7b16-7aa8-18cfb3101fd6/store_v3_screen_5.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/c8/f9/fbc8f935-53f0-edb8-22cb-1f028503a813/store_v3_screen_6.png/1320x2868bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/d4/3e/6dd43e05-fe77-c654-433a-140b1b329bcf/store_v3_screen_7.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/ad/46/4ead4600-9aaf-41aa-57f6-9ce25b14a4ab/store_v3_screen_8.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/ee/1c/f4ee1cc3-0d51-6cb3-34f2-d93ed7b3eaba/store_v2_screen_1_2064__U00d7_2753.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/da/9f/beda9f03-2ebe-2ee9-4272-f93455887e89/store_v2_screen_2_2064__U00d7_2754.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/2d/0e/c32d0ea4-ab0a-b8d8-c823-6adf1e602cf3/store_v2_screen_3_2064__U00d7_2752.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/35/ba/f035ba95-b2e6-877d-f0c5-24b51b8bd9f7/store_v2_screen_4_2064__U00d7_2755.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/a6/f1/bba6f1e4-1486-b82e-ebd8-dcfd35fc317d/store_v2_screen_5_2064__U00d7_2756.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/99/67/ed9967fb-8f33-96ce-29bc-39d1d10cd5b0/store_v2_screen_6_2064__U00d7_2757.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/b8/a1/31b8a161-c6d9-0592-582c-0556d7bebd4b/store_v2_screen_7_2064__U00d7_2758.png/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/1d/0c/a51d0c8d-6a02-25d3-985e-beefc2fced50/store_v2_screen_8_2064__U00d7_2759.png/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "5.2.0",
-          "date": "2026-06-12",
-          "size": 79841721,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.digitas.solidstarts_Sideloadbypass2_5.2.0.ipa"
-        },
-        {
-          "version": "5.1.0",
-          "date": "2026-06-02",
-          "size": 79829128,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.digitas.solidstarts_Sideloadbypass2_5.1.0.ipa"
-        },
-        {
-          "version": "5.0.2",
-          "date": "2026-06-05",
-          "size": 47487989,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.digitas.solidstarts_Sideloadbypass2_5.0.2.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.2.0",
-      "versionDate": "2026-06-12T11:48:58.504Z",
-      "size": 79841721,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.digitas.solidstarts_Sideloadbypass2_5.2.0.ipa",
       "recommended": false
     },
     {
@@ -28091,7 +28091,7 @@
       "bundleIdentifier": "com.camerasideas.Peachy",
       "developerName": "SHANTANU PTE. LTD.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/7b/1b/6f7b1b3a-865d-d799-7732-7e0c2cde750a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPeachy - AI Face & Body Editor\n\n• Bundle ID: com.camerasideas.Peachy\n• Updated to: 2.12.0\n• Minimum iOS: 16.1\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nPeachy - AI Face & Body Editor\n\n• Bundle ID: com.camerasideas.Peachy\n• Updated to: 2.12.1\n• Minimum iOS: 16.1\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/2d/e7/682de75f-a162-3eed-b86f-56fe1f1d7a2c/iPhonex-3.jpg/1320x2868bb.webp"
@@ -28134,6 +28134,12 @@
       ],
       "versions": [
         {
+          "version": "2.12.1",
+          "date": "2026-06-23",
+          "size": 190793611,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/com.camerasideas.Peachy_Peachy_2.12.1.ipa"
+        },
+        {
           "version": "2.12.0",
           "date": "2026-06-19",
           "size": 190787073,
@@ -28147,10 +28153,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.12.0",
-      "versionDate": "2026-06-19T22:09:51.819Z",
-      "size": 190787073,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.camerasideas.Peachy_Peachy_2.12.0.ipa",
+      "version": "2.12.1",
+      "versionDate": "2026-06-23T19:11:18.055Z",
+      "size": 190793611,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/com.camerasideas.Peachy_Peachy_2.12.1.ipa",
       "recommended": false
     },
     {
@@ -28494,6 +28500,29 @@
       "versionDate": "2026-06-05T02:44:13.853Z",
       "size": 40756573,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.br.12min.mobile_Sideloadbypass2_2.9.3.ipa",
+      "recommended": false
+    },
+    {
+      "name": "RyukSign",
+      "bundleIdentifier": "ryuk2.anoxclan.com",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @compiledipas |\n----------------\n🎉 New Release Available!\n\n🚀 Latest Release: RyukSign Build 293e1e5 (07:05)\n\n📅 Released: 2026-06-23 06:09 UTC\n\n📝 Release Notes:\n🚀 Automated Release\n\nBuild Date: 2026-06-23 07:05:37\nCommit: 293e1e5b11a4813f68e05e84c190fe7af3f70d9b\n\n## 📦 Changes\n- Version 2.9.0\n- Added Tweak Manager\n- Support multiple tweak versions\n- Auto-inject tweaks by bundle ID\n- Configurable injection targets\n- Edit tweaks before signing\n- Dedicated Tweaks section in Advanced\n- Added local File Transfer server\n- Browser drag-and-drop uploads\n- WebDAV support for Finder and Files\n- Optional File Transfer password protection\n- Keep Alive ba...\n\n📦 RyukSign Build 293e1e5 (07:33)\n\n👤 Author: @axryuk\n💾 Size: 15.96 MB\n🏷 Version: v20260623-293e1e5\n📅 Released: 2026-06-23",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.9.0",
+          "date": "2026-06-23",
+          "size": 16733833,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/ryuk2.anoxclan.com_2.9.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.9.0",
+      "versionDate": "2026-06-23T16:11:21.843Z",
+      "size": 16733833,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/ryuk2.anoxclan.com_2.9.0.ipa",
       "recommended": false
     },
     {
