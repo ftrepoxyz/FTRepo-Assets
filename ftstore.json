@@ -5471,11 +5471,17 @@
       "name": "Fitia",
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/a3/bb/66a3bb00-2694-8dc5-62fa-2e12f99b8b75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 23.1.12\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/db/1b/e7db1b78-4f2c-7af0-595a-c50313a80989/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nFitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 23.1.17\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "23.1.17",
+          "date": "2026-06-24",
+          "size": 124878117,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-24/com.ulisesolave.Fitia_Fitia_23.1.17.ipa"
+        },
         {
           "version": "23.1.12",
           "date": "2026-06-18",
@@ -5487,19 +5493,13 @@
           "date": "2026-06-12",
           "size": 79384900,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.ulisesolave.Fitia_Fitia_23.1.9.ipa"
-        },
-        {
-          "version": "23.1.8",
-          "date": "2026-06-12",
-          "size": 80096487,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.ulisesolave.Fitia_Fitia_23.1.8.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "23.1.12",
-      "versionDate": "2026-06-18T04:08:53.898Z",
-      "size": 105108658,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.ulisesolave.Fitia_Fitia_23.1.12.ipa",
+      "version": "23.1.17",
+      "versionDate": "2026-06-24T13:11:31.988Z",
+      "size": 124878117,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-24/com.ulisesolave.Fitia_Fitia_23.1.17.ipa",
       "recommended": false
     },
     {
@@ -6119,7 +6119,7 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/bb/53/c5bb532b-ac3c-9cee-42d7-6cef3e3bab8b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNotability: Notes, PDF\n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 16.5.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png"
@@ -6146,6 +6146,12 @@
       ],
       "versions": [
         {
+          "version": "16.5.1",
+          "date": "2026-06-24",
+          "size": 263434897,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-24/com.gingerlabs.Notability_Notability_16.5.1.ipa"
+        },
+        {
           "version": "16.3.2",
           "date": "2026-06-12",
           "size": 197360283,
@@ -6156,19 +6162,13 @@
           "date": "2026-06-02",
           "size": 216915586,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.gingerlabs.Notability_Notability_16.3.1.ipa"
-        },
-        {
-          "version": "16.3",
-          "date": "2026-06-03",
-          "size": 256914887,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.gingerlabs.Notability_Notability_16.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "16.3.2",
-      "versionDate": "2026-06-12T09:40:31.930Z",
-      "size": 197360283,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.gingerlabs.Notability_NotabilitySmarterAINotesPatch_16.3.2.ipa",
+      "version": "16.5.1",
+      "versionDate": "2026-06-24T10:11:36.820Z",
+      "size": 263434897,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-24/com.gingerlabs.Notability_Notability_16.5.1.ipa",
       "recommended": false
     },
     {
@@ -18511,11 +18511,17 @@
       "name": "Stronger",
       "bundleIdentifier": "com.strongermobileapp.stronger",
       "developerName": "Atlas Smart Technologies LTD",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/3e/02/3f3e021e-c06b-2272-2bf5-f9c93b4074e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nStronger - Gym Workout Planner\n\nTweak: Premium Unlocked\n\nVersion: 5.2.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: com.strongermobileapp.stronger\nDeveloper: Atlas Smart Technologies LTD",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/94/48/85944859-b3db-c9dd-0852-1a826dd63bde/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nStronger - Gym Workout Planner\n\nTweak: Premium Unlocked\n\nVersion: 5.2.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: com.strongermobileapp.stronger\nDeveloper: Atlas Smart Technologies LTD",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "5.2.9",
+          "date": "2026-06-24",
+          "size": 109149581,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-24/com.strongermobileapp.stronger_popuprifty_5.2.9.ipa"
+        },
         {
           "version": "5.2.7",
           "date": "2026-06-19",
@@ -18524,10 +18530,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.2.7",
-      "versionDate": "2026-06-19T07:09:27.768Z",
-      "size": 109137427,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.strongermobileapp.stronger_popuprifty_5.2.7.ipa",
+      "version": "5.2.9",
+      "versionDate": "2026-06-24T13:11:47.493Z",
+      "size": 109149581,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-24/com.strongermobileapp.stronger_popuprifty_5.2.9.ipa",
       "recommended": false
     },
     {
