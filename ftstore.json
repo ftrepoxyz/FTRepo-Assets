@@ -23106,7 +23106,7 @@
       "bundleIdentifier": "videoeditor.app",
       "developerName": "Luni",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/f7/25/6df7257e-e056-5e47-adba-615070bfe0ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nVideo Editor ·\n\n• Bundle ID: videoeditor.app\n• Updated to: 3.21.1\n• Minimum iOS: 15.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nVideo Editor ·\n\n• Bundle ID: videoeditor.app\n• Updated to: 3.21.3\n• Minimum iOS: 15.4\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/e7/f5/9be7f5ba-a680-f2a7-f44a-f285e6aaa8ee/1a347d5e-46d2-465f-aa09-5d541862d0e7_V1-8-Screenshot-01-EN.png/1320x2868bb.png"
@@ -23129,6 +23129,12 @@
       ],
       "versions": [
         {
+          "version": "3.21.3",
+          "date": "2026-06-25",
+          "size": 211601476,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/videoeditor.app_VideoStudio_3.21.3.ipa"
+        },
+        {
           "version": "3.21.1",
           "date": "2026-06-04",
           "size": 211389825,
@@ -23136,10 +23142,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.21.1",
-      "versionDate": "2026-06-04T21:16:28.987Z",
-      "size": 211389825,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/videoeditor.app_VideoStudio_3.21.1.ipa",
+      "version": "3.21.3",
+      "versionDate": "2026-06-25T01:11:51.216Z",
+      "size": 211601476,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/videoeditor.app_VideoStudio_3.21.3.ipa",
       "recommended": false
     },
     {
@@ -29475,6 +29481,67 @@
       "recommended": false
     },
     {
+      "name": "Phone Tracker",
+      "bundleIdentifier": "phone.location.tracker",
+      "developerName": "Webpeak OU",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2d/8f/dc2d8fb6-ffc7-7811-7293-f84344265aa5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhone Tracker - Family Locator\n\nTweak: Subscription Unlocked\n\nVersion: 2.5.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: phone.location.tracker\nDeveloper: Webpeak OU",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/2d/e9/412de99a-b02f-a520-173f-0d811e8976da/LT3_Screens_iPad_Pro_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/13/2e/22132e18-46d2-787a-9533-e13a536da344/LT3_Screens_iPad_Pro_3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/61/3b/84613b16-ae3e-1254-37dc-61dc421364e0/LT3_Screens_iPad_Pro_4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/b7/1c/1cb71c10-6fa5-1fa6-b622-a8b59ab9c402/LT3_Screens_iPad_Pro_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/4a/cc/494acc6f-bae1-5bf8-6004-b78dea2884b7/LT3_Screens_iPad_Pro_7.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/e7/a2/36e7a261-774d-fd4c-bd8f-d4874e0ce8b0/LT3_Screens_iPad_Pro_6.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/2d/e9/412de99a-b02f-a520-173f-0d811e8976da/LT3_Screens_iPad_Pro_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/13/2e/22132e18-46d2-787a-9533-e13a536da344/LT3_Screens_iPad_Pro_3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/61/3b/84613b16-ae3e-1254-37dc-61dc421364e0/LT3_Screens_iPad_Pro_4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/b7/1c/1cb71c10-6fa5-1fa6-b622-a8b59ab9c402/LT3_Screens_iPad_Pro_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/4a/cc/494acc6f-bae1-5bf8-6004-b78dea2884b7/LT3_Screens_iPad_Pro_7.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/e7/a2/36e7a261-774d-fd4c-bd8f-d4874e0ce8b0/LT3_Screens_iPad_Pro_6.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.5.0",
+          "date": "2026-06-25",
+          "size": 60968233,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/phone.location.tracker_Sideloadbypass2_2.5.0.ipa"
+        },
+        {
+          "version": "2.4.1",
+          "date": "2026-06-02",
+          "size": 59819948,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/phone.location.tracker_Sideloadbypass2_2.4.1.ipa"
+        },
+        {
+          "version": "2.4.0",
+          "date": "2026-06-05",
+          "size": 59668499,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/phone.location.tracker_Sideloadbypass2_2.4.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.5.0",
+      "versionDate": "2026-06-25T01:12:00.854Z",
+      "size": 60968233,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/phone.location.tracker_Sideloadbypass2_2.5.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Wallpapers",
       "bundleIdentifier": "com.ispazio.Wallpapers-Central",
       "developerName": "iSpazio S.r.l.",
@@ -29626,61 +29693,6 @@
       "versionDate": "2026-06-12T09:05:10.143Z",
       "size": 143752042,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.thenovik.Presets_Edith_2.4.17.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Phone Tracker",
-      "bundleIdentifier": "phone.location.tracker",
-      "developerName": "Webpeak OU",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2d/8f/dc2d8fb6-ffc7-7811-7293-f84344265aa5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhone Tracker - Family Locator\n\nTweak: Subscription Unlocked\n\nVersion: 2.4.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: phone.location.tracker\nDeveloper: Webpeak OU",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/2d/e9/412de99a-b02f-a520-173f-0d811e8976da/LT3_Screens_iPad_Pro_1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/13/2e/22132e18-46d2-787a-9533-e13a536da344/LT3_Screens_iPad_Pro_3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/61/3b/84613b16-ae3e-1254-37dc-61dc421364e0/LT3_Screens_iPad_Pro_4.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/b7/1c/1cb71c10-6fa5-1fa6-b622-a8b59ab9c402/LT3_Screens_iPad_Pro_5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/4a/cc/494acc6f-bae1-5bf8-6004-b78dea2884b7/LT3_Screens_iPad_Pro_7.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/e7/a2/36e7a261-774d-fd4c-bd8f-d4874e0ce8b0/LT3_Screens_iPad_Pro_6.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/2d/e9/412de99a-b02f-a520-173f-0d811e8976da/LT3_Screens_iPad_Pro_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/13/2e/22132e18-46d2-787a-9533-e13a536da344/LT3_Screens_iPad_Pro_3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/61/3b/84613b16-ae3e-1254-37dc-61dc421364e0/LT3_Screens_iPad_Pro_4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/b7/1c/1cb71c10-6fa5-1fa6-b622-a8b59ab9c402/LT3_Screens_iPad_Pro_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/4a/cc/494acc6f-bae1-5bf8-6004-b78dea2884b7/LT3_Screens_iPad_Pro_7.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/e7/a2/36e7a261-774d-fd4c-bd8f-d4874e0ce8b0/LT3_Screens_iPad_Pro_6.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "2.4.1",
-          "date": "2026-06-02",
-          "size": 59819948,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/phone.location.tracker_Sideloadbypass2_2.4.1.ipa"
-        },
-        {
-          "version": "2.4.0",
-          "date": "2026-06-05",
-          "size": 59668499,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/phone.location.tracker_Sideloadbypass2_2.4.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "2.4.1",
-      "versionDate": "2026-06-02T17:36:49.554Z",
-      "size": 59819948,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/phone.location.tracker_Sideloadbypass2_2.4.1.ipa",
       "recommended": false
     },
     {
