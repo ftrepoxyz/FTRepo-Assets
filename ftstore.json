@@ -13835,11 +13835,17 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/51/29/a7512971-d947-30b9-78ad-609d2932dd28/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/42/ec/7942ec30-319e-f68b-e770-61d1fdb97f3f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "6.14.5",
+          "date": "2026-06-25",
+          "size": 96341707,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.sfun.snapedit_SnapEdit_6.14.5.ipa"
+        },
         {
           "version": "6.14.4",
           "date": "2026-06-22",
@@ -13851,19 +13857,13 @@
           "date": "2026-06-20",
           "size": 96337057,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.sfun.snapedit_SnapEdit_6.14.3.ipa"
-        },
-        {
-          "version": "6.14.2",
-          "date": "2026-06-18",
-          "size": 97866716,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.sfun.snapedit_SnapEdit_6.14.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.14.4",
-      "versionDate": "2026-06-22T19:10:47.223Z",
-      "size": 96340259,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.sfun.snapedit_SnapEdit_6.14.4.ipa",
+      "version": "6.14.5",
+      "versionDate": "2026-06-25T04:11:39.400Z",
+      "size": 96341707,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.sfun.snapedit_SnapEdit_6.14.5.ipa",
       "recommended": false
     },
     {
