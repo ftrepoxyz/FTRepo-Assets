@@ -8392,7 +8392,7 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/7a/66/607a665f-39fe-10f2-3d2f-ef0ecd165707/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.40.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.42\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg"
@@ -8427,6 +8427,12 @@
       ],
       "versions": [
         {
+          "version": "9.42",
+          "date": "2026-06-25",
+          "size": 63983576,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.dopedevelopment.Panels_Sideloadbypass2_9.42.ipa"
+        },
+        {
           "version": "9.40.1",
           "date": "2026-06-12",
           "size": 77261494,
@@ -8437,19 +8443,13 @@
           "date": "2026-06-12",
           "size": 77272505,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.dopedevelopment.Panels_AutoRcSideload_9.40.ipa"
-        },
-        {
-          "version": "9.39",
-          "date": "2026-06-02",
-          "size": 72456989,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.dopedevelopment.Panels_Sideloadbypass2_9.39.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.40.1",
-      "versionDate": "2026-06-12T09:09:33.595Z",
-      "size": 77261494,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.dopedevelopment.Panels_AutoRcSideload_9.40.1.ipa",
+      "version": "9.42",
+      "versionDate": "2026-06-25T13:11:58.009Z",
+      "size": 63983576,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.dopedevelopment.Panels_Sideloadbypass2_9.42.ipa",
       "recommended": false
     },
     {
@@ -9112,11 +9112,17 @@
       "name": "MySwimPro",
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "MySwimPro, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b2/4a/5eb24a82-f166-acf8-fcce-52df9560417f/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMySwimPro: #1 Swim Workout App\n\nTweak: Subscription Unlocked\n\nVersion: 9.0.6\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.myswimpro.apps.MySwimPro\nDeveloper: MySwimPro, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/73/ec/5773ecf9-b1d9-2423-c20e-a72b3e45cdda/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMySwimPro: #1 Swim Workout App\n\nTweak: Subscription Unlocked\n\nVersion: 9.0.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.myswimpro.apps.MySwimPro\nDeveloper: MySwimPro, Inc.",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "9.0.7",
+          "date": "2026-06-25",
+          "size": 47466663,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.7.ipa"
+        },
         {
           "version": "9.0.6",
           "date": "2026-06-14",
@@ -9128,19 +9134,13 @@
           "date": "2026-06-03",
           "size": 47250110,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.3.ipa"
-        },
-        {
-          "version": "9.0.2",
-          "date": "2026-06-03",
-          "size": 47215208,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.0.6",
-      "versionDate": "2026-06-14T02:56:12.595Z",
-      "size": 47339416,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.6.ipa",
+      "version": "9.0.7",
+      "versionDate": "2026-06-25T10:11:54.012Z",
+      "size": 47466663,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.myswimpro.apps.MySwimPro_Sideloadbypass2_9.0.7.ipa",
       "recommended": false
     },
     {
@@ -9249,6 +9249,41 @@
       "versionDate": "2026-06-05T09:15:26.617Z",
       "size": 45484222,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.jps.gpspeedhud_StopReviews_9.0.2.ipa",
+      "recommended": false
+    },
+    {
+      "name": "KetoDiet",
+      "bundleIdentifier": "com.lappir.keto",
+      "developerName": "Zinaida Davydova",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/c1/0f/c4c10fab-4ebd-6c58-de79-1b772f05c475/KetoIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nKeto diet app－Low carb manager\n\n• Bundle ID: com.lappir.keto\n• Updated to: 9.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "9.0",
+          "date": "2026-06-25",
+          "size": 52508704,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.lappir.keto_KetoDiet_9.0.ipa"
+        },
+        {
+          "version": "8.5",
+          "date": "2026-06-03",
+          "size": 47178160,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.lappir.keto_KetoDiet_8.5.ipa"
+        },
+        {
+          "version": "8.4.4",
+          "date": "2026-06-04",
+          "size": 46386145,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.lappir.keto_KetoDiet_8.4.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.0",
+      "versionDate": "2026-06-25T19:11:54.243Z",
+      "size": 52508704,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.lappir.keto_KetoDiet_9.0.ipa",
       "recommended": false
     },
     {
@@ -10516,35 +10551,6 @@
       "versionDate": "2026-06-03T10:06:32.597Z",
       "size": 127037160,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.alohabrowser.alohabrowser_AlohaBrowser_8.5.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "KetoDiet",
-      "bundleIdentifier": "com.lappir.keto",
-      "developerName": "Zinaida Davydova",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/7d/9e/017d9eca-f4fe-d3ae-d6f0-26cbabc23069/KetoIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nKeto diet app－Low carb manager\n\n• Bundle ID: com.lappir.keto\n• Updated to: 8.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "8.5",
-          "date": "2026-06-03",
-          "size": 47178160,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.lappir.keto_KetoDiet_8.5.ipa"
-        },
-        {
-          "version": "8.4.4",
-          "date": "2026-06-04",
-          "size": 46386145,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.lappir.keto_KetoDiet_8.4.4.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "8.5",
-      "versionDate": "2026-06-03T09:35:00.436Z",
-      "size": 47178160,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.lappir.keto_KetoDiet_8.5.ipa",
       "recommended": false
     },
     {
@@ -15998,7 +16004,7 @@
       "bundleIdentifier": "com.SixThree.POV",
       "developerName": "Untitled Tech, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/14/67/9214672a-8be3-6b95-7a25-b9f5e9c8ee2e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPOV – Disposable Camera Events\n\nTweak: Unlimited Guests\n\nVersion: 5.69\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.SixThree.POV\nDeveloper: Untitled Tech, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPOV – Disposable Camera Events\n\nTweak: Unlimited Guests\n\nVersion: 5.70\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.SixThree.POV\nDeveloper: Untitled Tech, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/19/50/961950f4-4094-a2a6-cb52-e332b81db5df/1_55.png/1320x2868bb.png"
@@ -16037,6 +16043,12 @@
       ],
       "versions": [
         {
+          "version": "5.70",
+          "date": "2026-06-25",
+          "size": 48827065,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.SixThree.POV_Sideloadbypass2_5.70.ipa"
+        },
+        {
           "version": "5.69",
           "date": "2026-06-03",
           "size": 48750236,
@@ -16047,19 +16059,13 @@
           "date": "2026-06-03",
           "size": 48746245,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.SixThree.POV_Sideloadbypass2_5.68.ipa"
-        },
-        {
-          "version": "5.67",
-          "date": "2026-06-03",
-          "size": 48737062,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.SixThree.POV_Sideloadbypass2_5.67.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.69",
-      "versionDate": "2026-06-03T12:11:02.853Z",
-      "size": 48750236,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.SixThree.POV_Sideloadbypass2_5.69.ipa",
+      "version": "5.70",
+      "versionDate": "2026-06-25T16:13:38.436Z",
+      "size": 48827065,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.SixThree.POV_Sideloadbypass2_5.70.ipa",
       "recommended": false
     },
     {
@@ -19578,7 +19584,7 @@
       "bundleIdentifier": "com.path36.SpliceFree",
       "developerName": "Bending Spoons Apps ApS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/dd/fe/38ddfe01-3ee4-bb6f-f64e-4acfcd43ed01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSplice - Video Editor & Maker\n\n• Bundle ID: com.path36.SpliceFree\n• Updated to: 4.28.65\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart app if Subscriptions isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSplice - Video Editor & Maker\n\n• Bundle ID: com.path36.SpliceFree\n• Updated to: 4.28.66\n• Minimum iOS: 14.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart app if Subscriptions isn't activated.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/c6/55/7ec65571-75e0-9235-8d78-25da5db63139/47812a97-29e7-4dde-a132-3dd884a04530_default__screenshots__iOS-5.5-in__01.jpg/1320x2868bb.jpg"
@@ -19613,6 +19619,12 @@
       ],
       "versions": [
         {
+          "version": "4.28.66",
+          "date": "2026-06-25",
+          "size": 102851795,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.path36.SpliceFree_ScanHero_4.28.66.ipa"
+        },
+        {
           "version": "4.28.65",
           "date": "2026-06-03",
           "size": 102841676,
@@ -19620,10 +19632,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "4.28.65",
-      "versionDate": "2026-06-03T09:38:35.918Z",
-      "size": 102841676,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.path36.SpliceFree_ScanHero_4.28.65.ipa",
+      "version": "4.28.66",
+      "versionDate": "2026-06-25T13:11:49.165Z",
+      "size": 102851795,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.path36.SpliceFree_ScanHero_4.28.66.ipa",
       "recommended": false
     },
     {
@@ -21033,6 +21045,41 @@
       "recommended": false
     },
     {
+      "name": "superagent",
+      "bundleIdentifier": "com.agent.super.extension.safari",
+      "developerName": "Super Agent, Inc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/5c/d9/ce5cd993-14b6-1319-78c1-4a4fd804e75e/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSuper Agent for Safari\n\n• Bundle ID: com.agent.super.extension.safari\n• Updated to: 4.4\n• Minimum iOS: 17\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⚠️Use esign + paid certificate.\n>Ignore purchase page and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.4.0",
+          "date": "2026-06-25",
+          "size": 25835088,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.agent.super.extension.safari_AutoRcSideload_4.4.0.ipa"
+        },
+        {
+          "version": "4.2.0",
+          "date": "2026-06-02",
+          "size": 23195928,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.agent.super.extension.safari_SuperAgentForSafariPatch_4.2.0.ipa"
+        },
+        {
+          "version": "4.1.0",
+          "date": "2026-06-03",
+          "size": 22843543,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.agent.super.extension.safari_AutoRcSideload_4.1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.4.0",
+      "versionDate": "2026-06-25T10:11:37.817Z",
+      "size": 25835088,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.agent.super.extension.safari_AutoRcSideload_4.4.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "intoLive",
       "bundleIdentifier": "me.imgbase.intolive",
       "developerName": "ImgBase, Inc.",
@@ -21453,46 +21500,11 @@
       "recommended": false
     },
     {
-      "name": "superagent",
-      "bundleIdentifier": "com.agent.super.extension.safari",
-      "developerName": "Super Agent, Inc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/b6/51/15b65158-89cb-d0a2-5af5-7440be0bde38/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nSuper Agent for Safari\n\nUnlimited features unlocked\n\nGreat safari addon that automatically fills out website’s cookie consent forms for you based on your preferences\n\nTweak made by Никитаy\n\nMinimum OS version 17\n\nAppStore link | Donate",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.2.0",
-          "date": "2026-06-02",
-          "size": 23195928,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.agent.super.extension.safari_SuperAgentForSafariPatch_4.2.0.ipa"
-        },
-        {
-          "version": "4.1.0",
-          "date": "2026-06-03",
-          "size": 22843543,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.agent.super.extension.safari_AutoRcSideload_4.1.0.ipa"
-        },
-        {
-          "version": "4.0.0",
-          "date": "2026-06-04",
-          "size": 22987968,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.agent.super.extension.safari_SuperAgentForSafariPatch_4.0.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.2.0",
-      "versionDate": "2026-06-02T15:15:09.376Z",
-      "size": 23195928,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.agent.super.extension.safari_SuperAgentForSafariPatch_4.2.0.ipa",
-      "recommended": false
-    },
-    {
       "name": "Bill Tracker",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/0e/99/c50e99d2-6a65-f1ea-b25d-388fd95ef656/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.94\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.95\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/e2/ca/56e2caff-0df7-a277-bf22-923a08b89b9d/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp"
@@ -21507,6 +21519,12 @@
       ],
       "versions": [
         {
+          "version": "4.1.95",
+          "date": "2026-06-25",
+          "size": 150507269,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.95.ipa"
+        },
+        {
           "version": "4.1.94",
           "date": "2026-06-03",
           "size": 95107419,
@@ -21517,19 +21535,13 @@
           "date": "2026-06-02",
           "size": 95107574,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.93.ipa"
-        },
-        {
-          "version": "4.1.92",
-          "date": "2026-06-02",
-          "size": 150343558,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.92.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.94",
-      "versionDate": "2026-06-03T12:01:33.154Z",
-      "size": 95107419,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.94.ipa",
+      "version": "4.1.95",
+      "versionDate": "2026-06-25T19:12:12.347Z",
+      "size": 150507269,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.95.ipa",
       "recommended": false
     },
     {
@@ -21900,54 +21912,11 @@
       "recommended": false
     },
     {
-      "name": "OrNET Browser",
-      "bundleIdentifier": "ch.b-eng.tor",
-      "developerName": "Stronger Apps",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/08/cc/4608cce8-c59c-5250-c6c8-fd8145a57388/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTOR Browser: OrNET Onion + VPN\n\nPremium features unlocked\n\nYour certificate needs VPN entitlements. It doesnt work with Altstore or Sideloadly\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bd/16/84/bd1684e7-e88c-7c44-fcb6-8e5b97b26aae/a750325e-6d72-4952-9d23-d6cf8ce9294c_02.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/8e/bb/3c8ebb58-0f65-1c09-c7ca-83e37c5ee060/f12d62c3-dd05-4aae-b4be-c9de19ae3663_01.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5d/e9/87/5de98779-063c-8d66-97ee-65a0b03334e1/fad6b99b-7f3d-43d5-9682-1c04850002b8_03.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bd/16/84/bd1684e7-e88c-7c44-fcb6-8e5b97b26aae/a750325e-6d72-4952-9d23-d6cf8ce9294c_02.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/8e/bb/3c8ebb58-0f65-1c09-c7ca-83e37c5ee060/f12d62c3-dd05-4aae-b4be-c9de19ae3663_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5d/e9/87/5de98779-063c-8d66-97ee-65a0b03334e1/fad6b99b-7f3d-43d5-9682-1c04850002b8_03.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "4.0.6",
-          "date": "2026-06-02",
-          "size": 129040093,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/ch.b-eng.tor_TORBrowserPatch_4.0.6.ipa"
-        },
-        {
-          "version": "4.0.5",
-          "date": "2026-06-03",
-          "size": 127604089,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/ch.b-eng.tor_TORBrowserPatch_4.0.5.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.0.6",
-      "versionDate": "2026-06-02T15:20:56.761Z",
-      "size": 129040093,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/ch.b-eng.tor_TORBrowserPatch_4.0.6.ipa",
-      "recommended": false
-    },
-    {
       "name": "BoldVoice",
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 4.0.5\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBoldVoice: Accent Training\n\n• Bundle ID: com.wellocution.iosapp\n• Updated to: 4.0.7\n• Minimum iOS: 15.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/0b/bc/0c0bbcdd-bb57-7364-5298-72aef8d41192/BoldVoice_iPad_Color_-_1.jpg/1320x2868bb.jpg"
@@ -21994,6 +21963,12 @@
       ],
       "versions": [
         {
+          "version": "4.0.7",
+          "date": "2026-06-25",
+          "size": 147235129,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.wellocution.iosapp_BoldVoice_4.0.7.ipa"
+        },
+        {
           "version": "4.0.5",
           "date": "2026-06-20",
           "size": 147188018,
@@ -22004,19 +21979,56 @@
           "date": "2026-06-18",
           "size": 147186931,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/com.wellocution.iosapp_BoldVoice_4.0.3.ipa"
-        },
-        {
-          "version": "4.0.0",
-          "date": "2026-06-12",
-          "size": 147091181,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.wellocution.iosapp_BoldVoice_4.0.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.0.5",
-      "versionDate": "2026-06-20T19:10:09.760Z",
-      "size": 147188018,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.wellocution.iosapp_BoldVoice_4.0.5.ipa",
+      "version": "4.0.7",
+      "versionDate": "2026-06-25T16:13:14.432Z",
+      "size": 147235129,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.wellocution.iosapp_BoldVoice_4.0.7.ipa",
+      "recommended": false
+    },
+    {
+      "name": "OrNET Browser",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "developerName": "Stronger Apps",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/08/cc/4608cce8-c59c-5250-c6c8-fd8145a57388/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nTOR Browser: OrNET Onion + VPN\n\nPremium features unlocked\n\nYour certificate needs VPN entitlements. It doesnt work with Altstore or Sideloadly\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bd/16/84/bd1684e7-e88c-7c44-fcb6-8e5b97b26aae/a750325e-6d72-4952-9d23-d6cf8ce9294c_02.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/8e/bb/3c8ebb58-0f65-1c09-c7ca-83e37c5ee060/f12d62c3-dd05-4aae-b4be-c9de19ae3663_01.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5d/e9/87/5de98779-063c-8d66-97ee-65a0b03334e1/fad6b99b-7f3d-43d5-9682-1c04850002b8_03.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bd/16/84/bd1684e7-e88c-7c44-fcb6-8e5b97b26aae/a750325e-6d72-4952-9d23-d6cf8ce9294c_02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/8e/bb/3c8ebb58-0f65-1c09-c7ca-83e37c5ee060/f12d62c3-dd05-4aae-b4be-c9de19ae3663_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5d/e9/87/5de98779-063c-8d66-97ee-65a0b03334e1/fad6b99b-7f3d-43d5-9682-1c04850002b8_03.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "4.0.6",
+          "date": "2026-06-02",
+          "size": 129040093,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/ch.b-eng.tor_TORBrowserPatch_4.0.6.ipa"
+        },
+        {
+          "version": "4.0.5",
+          "date": "2026-06-03",
+          "size": 127604089,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/ch.b-eng.tor_TORBrowserPatch_4.0.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.0.6",
+      "versionDate": "2026-06-02T15:20:56.761Z",
+      "size": 129040093,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/ch.b-eng.tor_TORBrowserPatch_4.0.6.ipa",
       "recommended": false
     },
     {
@@ -28453,7 +28465,7 @@
       "bundleIdentifier": "com.bigwinepot.nwdn.international",
       "developerName": "Bending Spoons Apps ApS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/a3/e8/2ca3e8e2-97b6-0296-be10-50eddff74c54/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\n[P] Remini - AI Photo Enhancer\n\n— Bundle ID: com.bigwinepot.nwdn.international\n— Updated to: 2.10.198\n— Minimum iOS: 15.0\n— Modifier: Subscription unlocked\n— Tweaked by @BillyMooree\n\nNotes:\n\n— Watermarks removed in the [AI Photo] and [AI Video] categories\n— Large watermark fixed in the [AI Filters] category\n— Photo enhancement quality ≈ 100%\n— Custom photo saving added when using the [Photo Enhancement] category to bypass the 5-photo saving limit\n\nJoin Telegram Channel | Buy Certificate",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\n[P] Remini - AI Photo Enhancer\n\n— Bundle ID: com.bigwinepot.nwdn.international\n— Updated to: 2.10.206\n— Minimum iOS: 15.0\n— Modifier: Subscription unlocked\n— Tweaked by @BillyMooree\n\nNotes:\n\n— Watermarks removed in the [AI Photo] and [AI Video] categories\n— Large watermark fixed in the [AI Filters] category\n— Photo enhancement quality ≈ 100%\n— Custom photo saving added when using the [Photo Enhancement] category to bypass the 5-photo saving limit\n\nJoin Telegram Channel | Buy Certificate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/65/ab/6265ab3c-7057-f6e9-887f-5fb105f3c495/1.jpg/1320x2868bb.jpg"
@@ -28500,6 +28512,12 @@
       ],
       "versions": [
         {
+          "version": "2.10.206",
+          "date": "2026-06-25",
+          "size": 119830175,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.bigwinepot.nwdn.international_ReminiAIPhotoEnhancerPatch_2.10.206.ipa"
+        },
+        {
           "version": "2.10.198",
           "date": "2026-06-03",
           "size": 77788179,
@@ -28507,10 +28525,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.10.198",
-      "versionDate": "2026-06-03T10:31:18.769Z",
-      "size": 77788179,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.bigwinepot.nwdn.international_ReminiAIPhotoEnhancerPatch_2.10.198.ipa",
+      "version": "2.10.206",
+      "versionDate": "2026-06-25T16:13:30.206Z",
+      "size": 119830175,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.bigwinepot.nwdn.international_ReminiAIPhotoEnhancerPatch_2.10.206.ipa",
       "recommended": false
     },
     {
@@ -38096,10 +38114,16 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "Unknown Developer",
       "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from github:luqmanfadlli/NuvioMobile-iOS (0.2.12) |\n----------------\n# 🚀 Release v0.2.12\r\n\r\nThis release is based on the upstream **Nuvio v0.2.12**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.12).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Notification, Lockscreen, and Widget playback control with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Changed the \"Play\" button to \"Watch Again\" for already-watched movies to improve tracking clarity.\r\n* Relocated Trakt configuration into the Integrations Settings menu.\r\n* In-app debug logs (go to Settings -> Advanced -> Debug Logs)\r\n\r\n**Bug Fixes:**\r\n* Fixed animated GIF support for Profile Avatars.\r\n* Fixed animated GIF support for Stream Badge.\r\n\r\n> **💡 Note for iOS Users:**\r\nSince Nuvio embeds heavy media frameworks, sideloading tools like AltStore, SideStore, or Sideloadly have to manually re-sign thousands of internal components with your Apple ID certificate. If the installation progress bar looks stuck, please don't close it! Just give it a few minutes to process the signing in the background, and it will install successfully. Use cable connection to speed-up sideloading process.\r\n\r\n> **💡 Note for Android Users:** Unsigned debug APKs are included in the assets below if you want to test the Enhanced features on Android. You may not able to install this apk because it's unsigned. Android apk is significantly bigger because of libmpv engine integration.\r\n\r\n---\r\n\r\n## 📥 Downloads\r\n\r\n| Variant | Platform | Architecture | File |\r\n| :--- | :--- | :--- | :--- |\r\n| **Nuvio Full** | iOS | Universal | [Nuvio-v0.2.12-Full.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Full.ipa) |\r\n| **Nuvio Enhanced** | iOS | Universal | [Nuvio-v0.2.12-Enhanced.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Enhanced.ipa) |\r\n| **Nuvio Enhanced** | Android | Universal | [Nuvio-v0.2.12-Enhanced.apk](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Enhanced.apk) |",
+      "localizedDescription": "from github:luqmanfadlli/NuvioMobile-iOS (0.2.13) |\n----------------\n# 🚀 Release v0.2.13\r\n\r\nThis release is based on the upstream **Nuvio v0.2.13**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.13).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Relocated Trakt configuration into the Integrations Settings menu.\r\n* Added in-app debug logs (go to Settings -> Advanced -> Debug Logs).\r\n* Changed the \"Play\" button to \"Watch Again\" for already-watched movies to improve tracking clarity by @AdityasahuX07.\r\n* Added Library Calendar by @yesnt10.\r\n* Added playback info by @anilabhadatta.\r\n* Added \"Content Warning\" toggle in Settings by @siriusvoid.\r\n\r\n**Bug Fixes:**\r\n* Fixed animated GIF support for Profile Avatars.\r\n* Fixed animated GIF support for Stream Badge.\r\n* Fixed iPad rotation by @anilabhadatta.\r\n\r\n> **💡 Note for iOS Users:**\r\nSince Nuvio embeds heavy media frameworks, sideloading tools like AltStore, SideStore, or Sideloadly have to manually re-sign thousands of internal components with your Apple ID certificate. If the installation progress bar looks stuck, please don't close it! Just give it a few minutes to process the signing in the background, and it will install successfully. Use cable connection to speed-up sideloading process.\r\n\r\n> **💡 Note for Android Users:** Unsigned debug APKs are included in the assets below if you want to test the Enhanced features on Android. You may not able to install this apk because it's unsigned. Android apk is significantly bigger because of libmpv engine integration.\r\n\r\n---\r\n\r\n## 📥 Downloads\r\n\r\n| Variant | Platform | Architecture | File |\r\n| :--- | :--- | :--- | :--- |\r\n| **Nuvio Full** | iOS | Universal | [Nuvio-v0.2.13-Full.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.13/Nuvio-v0.2.13-Full.ipa) |\r\n| **Nuvio Enhanced** | iOS | Universal | [Nuvio-v0.2.13-Enhanced.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.13/Nuvio-v0.2.13-Enhanced.ipa) |\r\n| **Nuvio Enhanced** | Android | Universal | [Nuvio-v0.2.13-Enhanced.apk](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.13/Nuvio-v0.2.13-Enhanced.apk) |",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.2.13",
+          "date": "2026-06-25",
+          "size": 38416902,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.nuvio.media_0.2.13.ipa"
+        },
         {
           "version": "0.2.12",
           "date": "2026-06-23",
@@ -38111,19 +38135,13 @@
           "date": "2026-06-21",
           "size": 38619614,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-21/com.nuvio.media_0.2.11.ipa"
-        },
-        {
-          "version": "0.2.9",
-          "date": "2026-06-19",
-          "size": 38532842,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.nuvio.media_0.2.9.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.2.12",
-      "versionDate": "2026-06-23T10:11:00.702Z",
-      "size": 38346885,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/com.nuvio.media_0.2.12.ipa",
+      "version": "0.2.13",
+      "versionDate": "2026-06-25T16:11:53.836Z",
+      "size": 38416902,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.nuvio.media_0.2.13.ipa",
       "recommended": false
     },
     {
