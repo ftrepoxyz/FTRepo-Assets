@@ -18049,7 +18049,7 @@
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/45/39/a64539ec-1521-9f96-fcd0-c7ac15a753ec/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nLumaFusion\nPaid app $29.99\nVersion: 5.4.3\nBundle ID: com.luma-touch.LumaFusion\nAppStore link: https://apps.apple.com/app/id1062022008\nRequires iOS 26.0 or later\nDecrypted by user_hidden",
+      "localizedDescription": "from @thescholarslounge |\n----------------\nLumaFusion\nPaid app: $29.99\nVersion: 5.4.4\nBundle ID: com.luma-touch.LumaFusion\nAppStore link: https://apps.apple.com/app/id1062022008\nRequires iOS 26.0 or later\nDecrypted by user_hidden",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/cd/45/a7cd45e2-8bad-9e31-c90e-61f30f056d4d/iPhone-en-1-Awards.png/1320x2868bb.webp"
@@ -18136,6 +18136,12 @@
       ],
       "versions": [
         {
+          "version": "5.4.4",
+          "date": "2026-06-27",
+          "size": 172104026,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.luma-touch.LumaFusion_5.4.4.ipa"
+        },
+        {
           "version": "5.4.3",
           "date": "2026-06-05",
           "size": 172103406,
@@ -18149,10 +18155,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "5.4.3",
-      "versionDate": "2026-06-05T02:08:24.773Z",
-      "size": 172103406,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.luma-touch.LumaFusion_5.4.3.ipa",
+      "version": "5.4.4",
+      "versionDate": "2026-06-27T13:12:43.511Z",
+      "size": 172104026,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.luma-touch.LumaFusion_5.4.4.ipa",
       "recommended": false
     },
     {
