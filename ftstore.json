@@ -8054,7 +8054,7 @@
       "bundleIdentifier": "com.snowcorp.soda",
       "developerName": "SNOW Corporation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/23/41/c1234154-9a3c-a50d-72c2-f85934ee7c54/GlobalAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSODA - Natural Beauty Camera\n\n• Bundle ID: com.snowcorp.soda\n• Updated to: 10.2.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSODA - Natural Beauty Camera\n\n• Bundle ID: com.snowcorp.soda\n• Updated to: 10.2.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/c8/47/89c8479c-70b7-9763-919e-412ebb4156f8/5.5inch_AI_beauty_EN.jpg/1320x2868bb.jpg"
@@ -8093,6 +8093,12 @@
       ],
       "versions": [
         {
+          "version": "10.2.2",
+          "date": "2026-06-26",
+          "size": 154034660,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-26/com.snowcorp.soda_SODA_10.2.2.ipa"
+        },
+        {
           "version": "10.2.1",
           "date": "2026-06-12",
           "size": 153998870,
@@ -8103,19 +8109,13 @@
           "date": "2026-06-02",
           "size": 152120067,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.snowcorp.soda_SODA_10.2.0.ipa"
-        },
-        {
-          "version": "10.1.13",
-          "date": "2026-06-04",
-          "size": 152419537,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.snowcorp.soda_SODA_10.1.13.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "10.2.1",
-      "versionDate": "2026-06-12T09:12:49.593Z",
-      "size": 153998870,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.snowcorp.soda_SODA_10.2.1.ipa",
+      "version": "10.2.2",
+      "versionDate": "2026-06-26T22:12:35.057Z",
+      "size": 154034660,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-26/com.snowcorp.soda_SODA_10.2.2.ipa",
       "recommended": false
     },
     {
@@ -13805,6 +13805,41 @@
       "recommended": false
     },
     {
+      "name": "SnapEdit",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "developerName": "SilverAI Joint Stock Company",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/d8/49/15d8499e-62ff-ab09-6a44-edc9b77a0ae8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.15\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "6.15.0",
+          "date": "2026-06-27",
+          "size": 103729405,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.sfun.snapedit_SnapEdit_6.15.0.ipa"
+        },
+        {
+          "version": "6.14.5",
+          "date": "2026-06-25",
+          "size": 96341707,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.sfun.snapedit_SnapEdit_6.14.5.ipa"
+        },
+        {
+          "version": "6.14.4",
+          "date": "2026-06-22",
+          "size": 96340259,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.sfun.snapedit_SnapEdit_6.14.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "6.15.0",
+      "versionDate": "2026-06-27T01:12:40.206Z",
+      "size": 103729405,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.sfun.snapedit_SnapEdit_6.15.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Relive",
       "bundleIdentifier": "cc.relive.reliveapp",
       "developerName": "Relive B.V.",
@@ -13847,41 +13882,6 @@
       "versionDate": "2026-06-03T10:36:49.331Z",
       "size": 61477193,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/cc.relive.reliveapp_ReliveHikeRideMemoriesPatch_6.15.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "SnapEdit",
-      "bundleIdentifier": "com.sfun.snapedit",
-      "developerName": "SilverAI Joint Stock Company",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/42/ec/7942ec30-319e-f68b-e770-61d1fdb97f3f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSnapEdit: Photo Editor AI\n\n• Bundle ID: com.sfun.snapedit\n• Updated to: 6.14.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "6.14.5",
-          "date": "2026-06-25",
-          "size": 96341707,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.sfun.snapedit_SnapEdit_6.14.5.ipa"
-        },
-        {
-          "version": "6.14.4",
-          "date": "2026-06-22",
-          "size": 96340259,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.sfun.snapedit_SnapEdit_6.14.4.ipa"
-        },
-        {
-          "version": "6.14.3",
-          "date": "2026-06-20",
-          "size": 96337057,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-20/com.sfun.snapedit_SnapEdit_6.14.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "6.14.5",
-      "versionDate": "2026-06-25T04:11:39.400Z",
-      "size": 96341707,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.sfun.snapedit_SnapEdit_6.14.5.ipa",
       "recommended": false
     },
     {
@@ -18469,7 +18469,7 @@
       "bundleIdentifier": "com.mfagency.nurture",
       "developerName": "Millefeuille Agency",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/18/17/f418179a-202b-3bcd-5aa1-3be28240faff/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nEden: Daily Self Care Routine\n\nTweak: Subscription Unlocked\n\nVersion: 5.3.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14\nBundle ID: com.mfagency.nurture\nDeveloper: Millefeuille Agency",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nEden: Daily Self Care Routine\n\nTweak: Subscription Unlocked\n\nVersion: 5.3.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14\nBundle ID: com.mfagency.nurture\nDeveloper: Millefeuille Agency",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/3c/70/233c70b6-f678-9122-4cca-b821c0487762/69c8cff7-92ce-4c18-8237-64e430c5cb9c_iPhone01.jpg/1320x2868bb.jpg"
@@ -18512,6 +18512,12 @@
       ],
       "versions": [
         {
+          "version": "5.3.2",
+          "date": "2026-06-26",
+          "size": 166269423,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-26/com.mfagency.nurture_riftysedentweak_5.3.2.ipa"
+        },
+        {
           "version": "5.3.1",
           "date": "2026-06-19",
           "size": 166268962,
@@ -18522,19 +18528,13 @@
           "date": "2026-06-14",
           "size": 166193401,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.mfagency.nurture_riftysedentweak_5.3.0.ipa"
-        },
-        {
-          "version": "5.2.9",
-          "date": "2026-06-12",
-          "size": 106624445,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.mfagency.nurture_riftysedentweak_5.2.9.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.3.1",
-      "versionDate": "2026-06-19T22:10:11.980Z",
-      "size": 166268962,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.mfagency.nurture_riftysedentweak_5.3.1.ipa",
+      "version": "5.3.2",
+      "versionDate": "2026-06-26T22:13:11.370Z",
+      "size": 166269423,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-26/com.mfagency.nurture_riftysedentweak_5.3.2.ipa",
       "recommended": false
     },
     {
@@ -21415,6 +21415,41 @@
       "recommended": false
     },
     {
+      "name": "Opal",
+      "bundleIdentifier": "com.withopal.opal",
+      "developerName": "Opal OS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/dd/8c/a5dd8c0e-ef78-7f4d-3c09-35473ed465ee/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpal: Screen Time Control\n\nTweak: Subscription Unlocked\n\nVersion: 4.2.2\n\nNotes: trollstore only\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.withopal.opal\nDeveloper: Opal OS",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.2.2",
+          "date": "2026-06-27",
+          "size": 166662260,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.withopal.opal_Sideloadbypass2_4.2.2.ipa"
+        },
+        {
+          "version": "4.0.5",
+          "date": "2026-06-08",
+          "size": 134291436,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.withopal.opal_Sideloadbypass2_4.0.5.ipa"
+        },
+        {
+          "version": "4.0.4",
+          "date": "2026-06-02",
+          "size": 133556713,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.withopal.opal_Sideloadbypass2_4.0.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.2.2",
+      "versionDate": "2026-06-27T01:13:03.055Z",
+      "size": 166662260,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.withopal.opal_Sideloadbypass2_4.2.2.ipa",
+      "recommended": false
+    },
+    {
       "name": "Imposter",
       "bundleIdentifier": "at.vucak.impostor",
       "developerName": "Sven Vucak",
@@ -22041,41 +22076,6 @@
       "versionDate": "2026-06-02T15:20:56.761Z",
       "size": 129040093,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/ch.b-eng.tor_TORBrowserPatch_4.0.6.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Opal",
-      "bundleIdentifier": "com.withopal.opal",
-      "developerName": "Opal OS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/58/5b/0e585b86-96fa-ae2e-a468-09b1c47161f9/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nOpal: Screen Time Control\n\nTweak: Subscription Unlocked\n\nVersion: 4.0.5\n\nNotes: trollstore only\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.withopal.opal\nDeveloper: Opal OS",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.0.5",
-          "date": "2026-06-08",
-          "size": 134291436,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.withopal.opal_Sideloadbypass2_4.0.5.ipa"
-        },
-        {
-          "version": "4.0.4",
-          "date": "2026-06-02",
-          "size": 133556713,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.withopal.opal_Sideloadbypass2_4.0.4.ipa"
-        },
-        {
-          "version": "4.0.3",
-          "date": "2026-06-02",
-          "size": 133010777,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.withopal.opal_Sideloadbypass2_4.0.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.0.5",
-      "versionDate": "2026-06-08T16:06:27.681Z",
-      "size": 134291436,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-08/com.withopal.opal_Sideloadbypass2_4.0.5.ipa",
       "recommended": false
     },
     {
@@ -23215,6 +23215,51 @@
       "versionDate": "2026-06-12T09:20:55.129Z",
       "size": 68442256,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.apalonapps.alarmclockfree_sideloadKeychainfix_3.19.22.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Picsew",
+      "bundleIdentifier": "com.sugarmo.ScrollClip",
+      "developerName": "Yojio, Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/c9/dd/d0c9ddbb-2d7d-804f-35df-284c043309dd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPicsew - Screenshot Stitching\n\n• Bundle ID: com.sugarmo.ScrollClip\n• Updated to: 3.17.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Picsew Pro\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/88/01/4788012f-1f5f-bb9e-eeda-1df8131fa000/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/1e/9a/5d1e9a23-9cd3-b8af-192d-fa7c016ddda8/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/a5/e4/f9a5e47e-dd15-4273-1fac-b7f63d801dd8/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/28/14/61281452-bb7c-317d-1a20-b57ce7242d9e/pr_source.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/cc/b5/3bccb5de-c9ee-4d32-73b0-0f0113c60806/pr_source.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/88/01/4788012f-1f5f-bb9e-eeda-1df8131fa000/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/1e/9a/5d1e9a23-9cd3-b8af-192d-fa7c016ddda8/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/a5/e4/f9a5e47e-dd15-4273-1fac-b7f63d801dd8/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/28/14/61281452-bb7c-317d-1a20-b57ce7242d9e/pr_source.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/cc/b5/3bccb5de-c9ee-4d32-73b0-0f0113c60806/pr_source.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "3.17.2",
+          "date": "2026-06-26",
+          "size": 39190637,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-26/com.sugarmo.ScrollClip_Picsew_3.17.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "3.17.2",
+      "versionDate": "2026-06-26T22:12:16.557Z",
+      "size": 39190637,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-26/com.sugarmo.ScrollClip_Picsew_3.17.2.ipa",
       "recommended": false
     },
     {
