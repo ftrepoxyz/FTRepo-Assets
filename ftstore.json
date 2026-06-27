@@ -21563,7 +21563,7 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/0e/99/c50e99d2-6a65-f1ea-b25d-388fd95ef656/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.95\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.96\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/e2/ca/56e2caff-0df7-a277-bf22-923a08b89b9d/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp"
@@ -21578,6 +21578,12 @@
       ],
       "versions": [
         {
+          "version": "4.1.96",
+          "date": "2026-06-27",
+          "size": 150503508,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.96.ipa"
+        },
+        {
           "version": "4.1.95",
           "date": "2026-06-25",
           "size": 150507269,
@@ -21588,19 +21594,13 @@
           "date": "2026-06-03",
           "size": 95107419,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.94.ipa"
-        },
-        {
-          "version": "4.1.93",
-          "date": "2026-06-02",
-          "size": 95107574,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.93.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.95",
-      "versionDate": "2026-06-25T19:12:12.347Z",
-      "size": 150507269,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.95.ipa",
+      "version": "4.1.96",
+      "versionDate": "2026-06-27T16:12:51.959Z",
+      "size": 150503508,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.96.ipa",
       "recommended": false
     },
     {
@@ -35388,6 +35388,75 @@
       "recommended": false
     },
     {
+      "name": "Turrit",
+      "bundleIdentifier": "com.seastar.turrit",
+      "developerName": "SEASTAR FUTURE HOLDING PTE. LTD.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/98/28/989828aa-a470-3852-5607-12112ea09692/Turrit-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @compiledipas |\n----------------\nTurrit 1.5.0 + Lead 1.4.3\n\nUpdated to Turrit 1.5.0\nTo enable Lead: \n1.) Go to Turrit Settings \n2.) Press and hold About Turrit\nBuild by: @ipavault\n\nCredits: \n@Leadgramm for Lead",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/39/5f/7d395fa6-c795-29af-5c2a-53f2e310e4ea/1242_2208_1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/72/67/6772670f-722c-4219-3353-b172c1e3b052/1242_2208_2.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/06/72/85067294-0992-284c-0b88-ae44c0dda8c1/1242_2208_6-3.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/82/2c/6e822c39-5993-52e7-761c-0a79a2d23c33/1242_2208_5.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/ee/3b/5cee3bef-3104-bc8d-c02f-7b6ccbf43643/1242_2208_6-4.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/18/b4/0c18b4d5-b701-8b66-ac49-5d848396de8f/1242_2208_6.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/44/13/de441378-cec5-e482-99b6-3171c2c4d068/1242_2208_6-1.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/d4/95/1ad49526-57a6-095e-2a33-46f95b907f3a/1242_2208_6-2.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/39/5f/7d395fa6-c795-29af-5c2a-53f2e310e4ea/1242_2208_1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/72/67/6772670f-722c-4219-3353-b172c1e3b052/1242_2208_2.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/06/72/85067294-0992-284c-0b88-ae44c0dda8c1/1242_2208_6-3.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/82/2c/6e822c39-5993-52e7-761c-0a79a2d23c33/1242_2208_5.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/ee/3b/5cee3bef-3104-bc8d-c02f-7b6ccbf43643/1242_2208_6-4.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/18/b4/0c18b4d5-b701-8b66-ac49-5d848396de8f/1242_2208_6.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/44/13/de441378-cec5-e482-99b6-3171c2c4d068/1242_2208_6-1.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/d4/95/1ad49526-57a6-095e-2a33-46f95b907f3a/1242_2208_6-2.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.5.0",
+          "date": "2026-06-27",
+          "size": 97031591,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.seastar.turrit_TelegramNotificationFix_1.5.0.ipa"
+        },
+        {
+          "version": "1.4.9",
+          "date": "2026-06-12",
+          "size": 101878009,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.seastar.turrit_TelegramNotificationFix_1.4.9.ipa"
+        },
+        {
+          "version": "1.4.8",
+          "date": "2026-06-12",
+          "size": 100920848,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.seastar.turrit_TelegramNotificationFix_1.4.8.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.5.0",
+      "versionDate": "2026-06-27T19:12:49.564Z",
+      "size": 97031591,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.seastar.turrit_TelegramNotificationFix_1.5.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "OTJ",
       "bundleIdentifier": "com.one.tap.journal.en.ios",
       "developerName": "Unknown Developer",
@@ -35582,75 +35651,6 @@
       "versionDate": "2026-06-09T07:06:31.502Z",
       "size": 273862968,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.pronetis.ironballride2_Sideloadbypass2_1.4.29.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Turrit",
-      "bundleIdentifier": "com.seastar.turrit",
-      "developerName": "SEASTAR FUTURE HOLDING PTE. LTD.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/98/28/989828aa-a470-3852-5607-12112ea09692/Turrit-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @compiledipas |\n----------------\nTurrit 1.4.9 + Lead 1.4.2\n\nUpdated Turrit to 1.4.9\nTo enable Lead: \n1.) Go to Turrit Settings \n2.) Press and hold About Turrit \n*Ignore 1.4.1 in settings, it’s version 1.4.2\nI fixed the constant “Updating…” at the top of the chat list on this build, so you should now be able to enable all the features in Lead.\nBuild by: @ipavault\n\nCredits: \n@Leadgramm for Lead",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/39/5f/7d395fa6-c795-29af-5c2a-53f2e310e4ea/1242_2208_1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/72/67/6772670f-722c-4219-3353-b172c1e3b052/1242_2208_2.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/06/72/85067294-0992-284c-0b88-ae44c0dda8c1/1242_2208_6-3.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/82/2c/6e822c39-5993-52e7-761c-0a79a2d23c33/1242_2208_5.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/ee/3b/5cee3bef-3104-bc8d-c02f-7b6ccbf43643/1242_2208_6-4.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/18/b4/0c18b4d5-b701-8b66-ac49-5d848396de8f/1242_2208_6.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/44/13/de441378-cec5-e482-99b6-3171c2c4d068/1242_2208_6-1.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/d4/95/1ad49526-57a6-095e-2a33-46f95b907f3a/1242_2208_6-2.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/39/5f/7d395fa6-c795-29af-5c2a-53f2e310e4ea/1242_2208_1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/72/67/6772670f-722c-4219-3353-b172c1e3b052/1242_2208_2.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/06/72/85067294-0992-284c-0b88-ae44c0dda8c1/1242_2208_6-3.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/82/2c/6e822c39-5993-52e7-761c-0a79a2d23c33/1242_2208_5.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/ee/3b/5cee3bef-3104-bc8d-c02f-7b6ccbf43643/1242_2208_6-4.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/18/b4/0c18b4d5-b701-8b66-ac49-5d848396de8f/1242_2208_6.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/44/13/de441378-cec5-e482-99b6-3171c2c4d068/1242_2208_6-1.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/d4/95/1ad49526-57a6-095e-2a33-46f95b907f3a/1242_2208_6-2.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "1.4.9",
-          "date": "2026-06-12",
-          "size": 101878009,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.seastar.turrit_TelegramNotificationFix_1.4.9.ipa"
-        },
-        {
-          "version": "1.4.8",
-          "date": "2026-06-12",
-          "size": 100920848,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.seastar.turrit_TelegramNotificationFix_1.4.8.ipa"
-        },
-        {
-          "version": "1.4.7",
-          "date": "2026-06-02",
-          "size": 89410689,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.seastar.turrit_TelegramChatFixer_1.4.7.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.4.9",
-      "versionDate": "2026-06-12T12:16:27.934Z",
-      "size": 101878009,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.seastar.turrit_TelegramNotificationFix_1.4.9.ipa",
       "recommended": false
     },
     {
