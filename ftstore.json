@@ -9056,7 +9056,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @compiledipas |\n----------------\n#EeveeSpotify\n\nEeveeSpotify v6.6.5 (build 1)\n\nRelease Notes:\n\nImproved :\n- Support for Spotify 9.1.56\n- LRCLIB lyrics\n\nNew Icons:\n- EvilSpotify \n- SpotifyMonochrome\n- Greenify\n- Eevify\n- SmallvileSpotify\n- MikuSpotify\n- SpotifyDarkBlue\n- SpotifyDeepGreen\n- SpotifyFrieren\n- Supermanify\n\nPatched vs Not Patched\nUse patched if you use a paid cert or troll store\n\nUse the non patched one for other methods like Sideloadly/Altstore/Sidestore\n\nCredits for this update:\n@axryuk\n@Mohamed_elkofory\n@softgaypaws\n\nGitHub release: https://github.com/jaydenjcpy/EeveeSpotifyReincarnated/releases/tag/v6.6.5\n\nBy the way. thanks for over 200 stars on GitHub",
+      "localizedDescription": "from @compiledipas |\n----------------\n#EeveeSpotify\n\nESRv6.6.6\nSpotify v9.1.60\n\nRelease Notes:\n\n\nNew Features:\n\nSpicyLyrics\n\nImproved :\n\nSupport for Spotify 9.1.60\n\nAll lyrics sources\n\nNew icons, thx to all submitters\n\nNon-Patched for SideStore, AltStore, sideloadly, LiveContainer, free leaked enterprise cert.”\n\nPatched = for jailbroken, or paid cert\n\nESign will cause crash\n\nCredits:\n\n@axryuk\n\n@Mohamed_Elkofory\n\n@softgaypaws\n\nIcon requests are still welcome in the other pinned message\n\nESR GitHub",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/1320x2868bb.png"
@@ -9095,6 +9095,12 @@
       ],
       "versions": [
         {
+          "version": "9.1.60",
+          "date": "2026-06-28",
+          "size": 124448466,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.spotify.client_EeveeSpotify_9.1.60.ipa"
+        },
+        {
           "version": "9.1.56",
           "date": "2026-06-19",
           "size": 116450722,
@@ -9105,19 +9111,13 @@
           "date": "2026-06-12",
           "size": 114062956,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_zxPluginsInject_9.1.52.ipa"
-        },
-        {
-          "version": "9.1.50",
-          "date": "2026-06-12",
-          "size": 116822113,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.spotify.client_zxPluginsInject_9.1.50.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.1.56",
-      "versionDate": "2026-06-19T06:26:24.835Z",
-      "size": 116450722,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-19/com.spotify.client_EeveeSpotify_9.1.56.ipa",
+      "version": "9.1.60",
+      "versionDate": "2026-06-28T04:13:23.719Z",
+      "size": 124448466,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.spotify.client_EeveeSpotify_9.1.60.ipa",
       "recommended": true
     },
     {
@@ -38217,10 +38217,16 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "Unknown Developer",
       "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from github:luqmanfadlli/NuvioMobile-iOS (0.2.13(2)) |\n----------------\n# 🚀 Release v0.2.13(2)\r\n\r\n---\r\n\r\n# Added Stream Quality Chooser for HLS Playback in Enhanced Version\r\n\r\n<img width=\"1266\" height=\"585\" alt=\"IMG_2547\" src=\"https://github.com/user-attachments/assets/30a4ebfe-dde4-4d7d-967b-2c94eaf45d97\" />\r\n\r\nhttps://github.com/user-attachments/assets/297b8535-e07c-43c8-9f5f-a320353440e1\r\n\r\n---\r\n\r\n## 📥 Downloads\r\n\r\n| Variant | Platform | Architecture | File |\r\n| :--- | :--- | :--- | :--- |\r\n| **Nuvio Enhanced** | iOS | Universal | [Nuvio-v0.2.13-Enhanced.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.13/Nuvio-v0.2.13-Enhanced.ipa) |\r\n| **Nuvio Enhanced** | Android | Universal | [Nuvio-v0.2.13-Enhanced.apk](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.13/Nuvio-v0.2.13-Enhanced.apk) |",
+      "localizedDescription": "from github:luqmanfadlli/NuvioMobile-iOS (0.2.14) |\n----------------\n# 🚀 Release v0.2.14\r\n\r\nThis release is based on the upstream **Nuvio v0.2.14**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.14).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added Live TV playlists management.\r\n* Added Stream Quality Chooser for HLS Playback.\r\n* Relocated Trakt configuration into the Integrations Settings menu.\r\n* Added in-app debug logs (go to Settings -> Advanced -> Debug Logs).\r\n* Changed the \"Play\" button to \"Watch Again\" for already-watched movies to improve tracking clarity by @AdityasahuX07.\r\n* Added Library Calendar by @yesnt10.\r\n* Added playback info by @anilabhadatta.\r\n* Added \"Content Warning\" toggle in Settings by @siriusvoid.\r\n\r\n**Bug Fixes:**\r\n* Fixed animated GIF support for Profile Avatars.\r\n* Fixed animated GIF support for Stream Badge.\r\n* Fixed iPad rotation by @anilabhadatta.\r\n\r\n> **💡 Note for iOS Users:**\r\nSince Nuvio embeds heavy media frameworks, sideloading tools like AltStore, SideStore, or Sideloadly have to manually re-sign thousands of internal components with your Apple ID certificate. If the installation progress bar looks stuck, please don't close it! Just give it a few minutes to process the signing in the background, and it will install successfully. Use cable connection to speed-up sideloading process.\r\n\r\n> **💡 Note for Android Users:** Unsigned debug APKs are included in the assets below if you want to test the Enhanced features on Android. You may not able to install this apk because it's unsigned.\r\n\r\n---\r\n\r\n## 📥 Downloads\r\n\r\n| Variant | Platform | Architecture | File |\r\n| :--- | :--- | :--- | :--- |\r\n| **Nuvio Full** | iOS | Universal | [Nuvio-v0.2.14-Full.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.14/Nuvio-v0.2.14-Full.ipa) |\r\n| **Nuvio Enhanced** | iOS | Universal | [Nuvio-v0.2.14-Enhanced.ipa](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.14/Nuvio-v0.2.14-Enhanced.ipa) |\r\n| **Nuvio Enhanced** | Android | Universal | [Nuvio-v0.2.14-Enhanced.apk](https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.14/Nuvio-v0.2.14-Enhanced.apk) |",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.2.14",
+          "date": "2026-06-28",
+          "size": 38756816,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.nuvio.media_0.2.14.ipa"
+        },
         {
           "version": "0.2.13",
           "date": "2026-06-26",
@@ -38232,19 +38238,13 @@
           "date": "2026-06-23",
           "size": 38346885,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-23/com.nuvio.media_0.2.12.ipa"
-        },
-        {
-          "version": "0.2.11",
-          "date": "2026-06-21",
-          "size": 38619614,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-21/com.nuvio.media_0.2.11.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.2.13",
-      "versionDate": "2026-06-26T04:12:03.018Z",
-      "size": 38788200,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-26/com.nuvio.media_0.2.13.ipa",
+      "version": "0.2.14",
+      "versionDate": "2026-06-28T04:12:52.216Z",
+      "size": 38756816,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.nuvio.media_0.2.14.ipa",
       "recommended": false
     },
     {
