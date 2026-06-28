@@ -5791,7 +5791,7 @@
       "bundleIdentifier": "com.madarsoft.fitness",
       "developerName": "Madar Al Parmaga",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/18/b7/ba18b7ea-5d5a-df46-eecd-9eeaabbfdd77/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nرشاقة: حساب السعرات، خطوات مشي\n\n• Bundle ID: com.madarsoft.fitness\n• Updated to: 18.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore the \"Premium\" button all features should work.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nرشاقة: حساب السعرات، خطوات مشي\n\n• Bundle ID: com.madarsoft.fitness\n• Updated to: 18.6\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore the \"Premium\" button all features should work.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/d2/cc/35d2cc5d-45ba-8aa5-8619-1f9b0c08bb89/Home_screen_iphone_6_copy.jpg/1320x2868bb.webp"
@@ -5834,6 +5834,12 @@
       ],
       "versions": [
         {
+          "version": "18.6",
+          "date": "2026-06-28",
+          "size": 233418513,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.madarsoft.fitness_sideloadKeychainfix_18.6.ipa"
+        },
+        {
           "version": "18.4",
           "date": "2026-06-10",
           "size": 173153658,
@@ -5844,19 +5850,13 @@
           "date": "2026-06-12",
           "size": 174664344,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.madarsoft.fitness_sideloadKeychainfix_18.3.ipa"
-        },
-        {
-          "version": "18.1",
-          "date": "2026-06-03",
-          "size": 234662657,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.madarsoft.fitness_sideloadKeychainfix_18.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "18.4",
-      "versionDate": "2026-06-10T20:10:36.535Z",
-      "size": 173153658,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-10/com.madarsoft.fitness_sideloadKeychainfix_18.4.ipa",
+      "version": "18.6",
+      "versionDate": "2026-06-28T19:13:28.476Z",
+      "size": 233418513,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.madarsoft.fitness_sideloadKeychainfix_18.6.ipa",
       "recommended": false
     },
     {
@@ -16097,7 +16097,7 @@
       "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
       "developerName": "Kolibri Games GmbH",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b2/22/05b2228a-f54f-6c71-adb6-fd703a20e0d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nIdle Miner Tycoon\n\nTweak: Free iAP\n\nVersion: 5.56.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.2\nBundle ID: com.fluffyfairygames.idleminertycoon\nDeveloper: Kolibri Games GmbH",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nIdle Miner Tycoon\n\nTweak: Free iAP\n\nVersion: 5.58.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.2\nBundle ID: com.fluffyfairygames.idleminertycoon\nDeveloper: Kolibri Games GmbH",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/8a/66/bc8a6665-21f7-2f0f-feaa-9e67488bfd42/01_CVR_1242x2208_EN.jpg/1320x2868bb.jpg"
@@ -16136,6 +16136,12 @@
       ],
       "versions": [
         {
+          "version": "5.58.0",
+          "date": "2026-06-28",
+          "size": 144616011,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.fluffyfairygames.idleminertycoon_popuprifty_5.58.0.ipa"
+        },
+        {
           "version": "5.56.0",
           "date": "2026-06-12",
           "size": 143039990,
@@ -16146,19 +16152,13 @@
           "date": "2026-06-12",
           "size": 143037236,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.fluffyfairygames.idleminertycoon_popuprifty_5.55.0.ipa"
-        },
-        {
-          "version": "5.54.0",
-          "date": "2026-06-02",
-          "size": 142763844,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.fluffyfairygames.idleminertycoon_popuprifty_5.54.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.56.0",
-      "versionDate": "2026-06-12T11:39:29.671Z",
-      "size": 143039990,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.fluffyfairygames.idleminertycoon_popuprifty_5.56.0.ipa",
+      "version": "5.58.0",
+      "versionDate": "2026-06-28T19:13:46.197Z",
+      "size": 144616011,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.fluffyfairygames.idleminertycoon_popuprifty_5.58.0.ipa",
       "recommended": false
     },
     {
@@ -21591,7 +21591,7 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/0e/99/c50e99d2-6a65-f1ea-b25d-388fd95ef656/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.96\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.97\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/e2/ca/56e2caff-0df7-a277-bf22-923a08b89b9d/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp"
@@ -21606,6 +21606,12 @@
       ],
       "versions": [
         {
+          "version": "4.1.97",
+          "date": "2026-06-28",
+          "size": 150509293,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.97.ipa"
+        },
+        {
           "version": "4.1.96",
           "date": "2026-06-27",
           "size": 150503508,
@@ -21616,19 +21622,13 @@
           "date": "2026-06-25",
           "size": 150507269,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.95.ipa"
-        },
-        {
-          "version": "4.1.94",
-          "date": "2026-06-03",
-          "size": 95107419,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.94.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.96",
-      "versionDate": "2026-06-27T16:12:51.959Z",
-      "size": 150503508,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.96.ipa",
+      "version": "4.1.97",
+      "versionDate": "2026-06-28T16:13:45.191Z",
+      "size": 150509293,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.97.ipa",
       "recommended": false
     },
     {
@@ -22618,7 +22618,7 @@
       "bundleIdentifier": "net.mkswap.Dropshare-iOS",
       "developerName": "Timo Josten",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b2/cd/88b2cdec-37ac-a0a0-76f6-dee9589aebca/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nDropshare - File Sharing Tool\n\nPro features unlocked\n\nTweak made by blatant\n\nMinimum OS version 14.5\n\nAppStore link | Donate",
+      "localizedDescription": "from @blatants |\n----------------\nDropshare - File Sharing Tool\n\n• Bundle ID: net.mkswap.Dropshare-iOS\n• Updated to: 3.63\n• Minimum iOS: 14.5\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/9d/5f/cc9d5fc6-ebaa-b969-b563-26e627af95e9/fe21a11e-b843-418e-b4a5-97f2af685482_ios-phone-screenshot-1-small.png/1320x2868bb.png"
@@ -22637,6 +22637,12 @@
       ],
       "versions": [
         {
+          "version": "3.63",
+          "date": "2026-06-28",
+          "size": 68600541,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/net.mkswap.Dropshare-iOS_Dropshare_3.63.ipa"
+        },
+        {
           "version": "3.62",
           "date": "2026-06-02",
           "size": 66878309,
@@ -22650,10 +22656,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "3.62",
-      "versionDate": "2026-06-02T15:20:02.780Z",
-      "size": 66878309,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/net.mkswap.Dropshare-iOS_Dropshare_3.62.ipa",
+      "version": "3.63",
+      "versionDate": "2026-06-28T16:13:09.535Z",
+      "size": 68600541,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/net.mkswap.Dropshare-iOS_Dropshare_3.63.ipa",
       "recommended": false
     },
     {
