@@ -2145,7 +2145,7 @@
       "bundleIdentifier": "com.bpmhealth.boostfitness",
       "developerName": "BPM Health Co.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/cb/b4/2dcbb419-b912-df7c-1e43-f5f78d5e8f30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBoostcamp: Workout Programs\n\n• Bundle ID: com.bpmhealth.boostfitness\n• Updated to: 260\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nBoostcamp: Workout Programs\n\n• Bundle ID: com.bpmhealth.boostfitness\n• Updated to: 262\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/1320x2868bb.png"
@@ -2176,6 +2176,12 @@
       ],
       "versions": [
         {
+          "version": "262",
+          "date": "2026-06-29",
+          "size": 91963338,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.bpmhealth.boostfitness_AutoRcSideload_262.ipa"
+        },
+        {
           "version": "260",
           "date": "2026-06-06",
           "size": 80864505,
@@ -2186,19 +2192,13 @@
           "date": "2026-06-03",
           "size": 79897671,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.bpmhealth.boostfitness_AutoRcSideload_259.ipa"
-        },
-        {
-          "version": "258",
-          "date": "2026-06-04",
-          "size": 79678711,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.bpmhealth.boostfitness_AutoRcSideload_258.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "260",
-      "versionDate": "2026-06-06T04:07:15.391Z",
-      "size": 80864505,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.bpmhealth.boostfitness_AutoRcSideload_260.ipa",
+      "version": "262",
+      "versionDate": "2026-06-29T19:13:37.331Z",
+      "size": 91963338,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.bpmhealth.boostfitness_AutoRcSideload_262.ipa",
       "recommended": false
     },
     {
@@ -8387,46 +8387,11 @@
       "recommended": false
     },
     {
-      "name": "Radarbot",
-      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
-      "developerName": "Iteration Mobile S.L",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/55/2e/fe552e78-089e-4f0c-95e0-7f9aee8b00d9/AppIcon-lite-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nRadarbot: Speed Camera GPS App\n\n• Bundle ID: com.iteration-mobile.radarbot-free-ww\n• Updated to: 9.43\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Click 'Restore Purchase' if subscription isn't active.\n>Carplay works with Trollstore/jailbreak only.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "9.43",
-          "date": "2026-06-15",
-          "size": 148911591,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.iteration-mobile.radarbot-free-ww_Radarbot_9.43.ipa"
-        },
-        {
-          "version": "9.42",
-          "date": "2026-06-05",
-          "size": 148243170,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.iteration-mobile.radarbot-free-ww_Radarbot_9.42.ipa"
-        },
-        {
-          "version": "9.41",
-          "date": "2026-06-04",
-          "size": 140121369,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.iteration-mobile.radarbot-free-ww_RadarbotGold_9.41.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "9.43",
-      "versionDate": "2026-06-15T22:07:51.025Z",
-      "size": 148911591,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.iteration-mobile.radarbot-free-ww_Radarbot_9.43.ipa",
-      "recommended": false
-    },
-    {
       "name": "SCRL",
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/7a/66/607a665f-39fe-10f2-3d2f-ef0ecd165707/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.42\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.43\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg"
@@ -8461,6 +8426,12 @@
       ],
       "versions": [
         {
+          "version": "9.43",
+          "date": "2026-06-29",
+          "size": 67036826,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.dopedevelopment.Panels_Sideloadbypass2_9.43.ipa"
+        },
+        {
           "version": "9.42",
           "date": "2026-06-25",
           "size": 63983576,
@@ -8471,19 +8442,48 @@
           "date": "2026-06-12",
           "size": 77261494,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.dopedevelopment.Panels_AutoRcSideload_9.40.1.ipa"
-        },
-        {
-          "version": "9.40",
-          "date": "2026-06-12",
-          "size": 77272505,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.dopedevelopment.Panels_AutoRcSideload_9.40.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.42",
-      "versionDate": "2026-06-25T13:11:58.009Z",
-      "size": 63983576,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.dopedevelopment.Panels_Sideloadbypass2_9.42.ipa",
+      "version": "9.43",
+      "versionDate": "2026-06-29T16:14:01.727Z",
+      "size": 67036826,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.dopedevelopment.Panels_Sideloadbypass2_9.43.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Radarbot",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "developerName": "Iteration Mobile S.L",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/55/2e/fe552e78-089e-4f0c-95e0-7f9aee8b00d9/AppIcon-lite-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nRadarbot: Speed Camera GPS App\n\n• Bundle ID: com.iteration-mobile.radarbot-free-ww\n• Updated to: 9.43\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Click 'Restore Purchase' if subscription isn't active.\n>Carplay works with Trollstore/jailbreak only.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "9.43",
+          "date": "2026-06-15",
+          "size": 148911591,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.iteration-mobile.radarbot-free-ww_Radarbot_9.43.ipa"
+        },
+        {
+          "version": "9.42",
+          "date": "2026-06-05",
+          "size": 148243170,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.iteration-mobile.radarbot-free-ww_Radarbot_9.42.ipa"
+        },
+        {
+          "version": "9.41",
+          "date": "2026-06-04",
+          "size": 140121369,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.iteration-mobile.radarbot-free-ww_RadarbotGold_9.41.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "9.43",
+      "versionDate": "2026-06-15T22:07:51.025Z",
+      "size": 148911591,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.iteration-mobile.radarbot-free-ww_Radarbot_9.43.ipa",
       "recommended": false
     },
     {
@@ -11853,7 +11853,7 @@
       "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
       "developerName": "Moreno Maio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/41/ca/7c41caba-c4ad-cb32-45fa-d8df848b458f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\n2 Player Games : the Challenge\n\nTweak: No Ads, All Games Unlocked\n\nVersion: 7.16.5\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.JindoBlu.TwoPlayerGamesChallengeIOS\nDeveloper: Moreno Maio",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\n2 Player Games : the Challenge\n\nTweak: No Ads, All Games Unlocked\n\nVersion: 7.18.4\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.JindoBlu.TwoPlayerGamesChallengeIOS\nDeveloper: Moreno Maio",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/4c/2e/5b4c2e15-6c8b-4189-cf08-f45753a50222/3ee1b73b-4bee-4809-aa54-3847a99ab286_2PG_1242x2208_01.png/1320x2868bb.png"
@@ -11896,6 +11896,12 @@
       ],
       "versions": [
         {
+          "version": "7.18.4",
+          "date": "2026-06-29",
+          "size": 90837425,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.JindoBlu.TwoPlayerGamesChallengeIOS_Sideloadbypass2_7.18.4.ipa"
+        },
+        {
           "version": "7.16.5",
           "date": "2026-06-04",
           "size": 89466800,
@@ -11909,10 +11915,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "7.16.5",
-      "versionDate": "2026-06-04T23:59:16.157Z",
-      "size": 89466800,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.JindoBlu.TwoPlayerGamesChallengeIOS_Sideloadbypass2_7.16.5.ipa",
+      "version": "7.18.4",
+      "versionDate": "2026-06-29T19:14:08.504Z",
+      "size": 90837425,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.JindoBlu.TwoPlayerGamesChallengeIOS_Sideloadbypass2_7.18.4.ipa",
       "recommended": false
     },
     {
@@ -13514,7 +13520,7 @@
       "bundleIdentifier": "com.lexwarelabs.goodmorning",
       "developerName": "Sleep Cycle AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/9f/9b/499f9bf0-512b-de36-f05c-2c50c3e10d55/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.22\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSleep Cycle - Tracker & Sounds\n\n• Bundle ID: com.lexwarelabs.goodmorning\n• Updated to: 6.26.25\n• Minimum iOS: 16.2\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase page and restart once to activate premium.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/34/10/3034100b-4c93-5831-fd26-272f37bf6ff7/6.9__Non-EN_Master_ASO_iPhone_Screen_1.jpg/1320x2868bb.webp"
@@ -13589,6 +13595,12 @@
       ],
       "versions": [
         {
+          "version": "6.26.25",
+          "date": "2026-06-29",
+          "size": 341737659,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.lexwarelabs.goodmorning_SleepCycle_6.26.25.ipa"
+        },
+        {
           "version": "6.26.22",
           "date": "2026-06-12",
           "size": 269498101,
@@ -13599,19 +13611,13 @@
           "date": "2026-06-02",
           "size": 269407582,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.lexwarelabs.goodmorning_SleepCycle_6.26.21.ipa"
-        },
-        {
-          "version": "6.26.20",
-          "date": "2026-06-03",
-          "size": 341070915,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.lexwarelabs.goodmorning_SleepCycle_6.26.20.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "6.26.22",
-      "versionDate": "2026-06-12T09:20:02.378Z",
-      "size": 269498101,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.lexwarelabs.goodmorning_SleepCycle_6.26.22.ipa",
+      "version": "6.26.25",
+      "versionDate": "2026-06-29T16:13:51.238Z",
+      "size": 341737659,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.lexwarelabs.goodmorning_SleepCycle_6.26.25.ipa",
       "recommended": false
     },
     {
@@ -21625,7 +21631,7 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/0e/99/c50e99d2-6a65-f1ea-b25d-388fd95ef656/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.97\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nBill Tracker Pro\n\nTweak: Full Version Unlocked\n\nVersion: 4.1.98\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.unofficialcalculators.payplan\nDeveloper: Bill Tracker Pro, Inc.",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/e2/ca/56e2caff-0df7-a277-bf22-923a08b89b9d/apple_-_English__U0028en-US_U0029_-_iPhones__6.5_-_01.png/1320x2868bb.webp"
@@ -21640,6 +21646,12 @@
       ],
       "versions": [
         {
+          "version": "4.1.98",
+          "date": "2026-06-29",
+          "size": 147990835,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.98.ipa"
+        },
+        {
           "version": "4.1.97",
           "date": "2026-06-28",
           "size": 150509293,
@@ -21650,19 +21662,13 @@
           "date": "2026-06-27",
           "size": 150503508,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-27/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.96.ipa"
-        },
-        {
-          "version": "4.1.95",
-          "date": "2026-06-25",
-          "size": 150507269,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.95.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.97",
-      "versionDate": "2026-06-28T16:13:45.191Z",
-      "size": 150509293,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-28/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.97.ipa",
+      "version": "4.1.98",
+      "versionDate": "2026-06-29T19:13:55.528Z",
+      "size": 147990835,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.unofficialcalculators.payplan_Sideloadbypass2_4.1.98.ipa",
       "recommended": false
     },
     {
