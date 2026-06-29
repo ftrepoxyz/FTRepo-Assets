@@ -231,11 +231,17 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/51/ab/1d51ab9d-d36f-6845-4cb6-37303905e1da/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhotoroom: AI Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2026.26.01\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.dr1ven.eraser\nDeveloper: Photoroom",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/2a/c5/452ac5c3-307b-344f-5681-98ae60776cd5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nPhotoroom: AI Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 2026.27.01\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.dr1ven.eraser\nDeveloper: Photoroom",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "2026.27.01",
+          "date": "2026-06-29",
+          "size": 173083140,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.dr1ven.eraser_Sideloadbypass2_2026.27.01.ipa"
+        },
         {
           "version": "2026.26.01",
           "date": "2026-06-22",
@@ -247,19 +253,13 @@
           "date": "2026-06-16",
           "size": 176559728,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.dr1ven.eraser_Photoroom_2026.25.02.ipa"
-        },
-        {
-          "version": "2026.25.01",
-          "date": "2026-06-15",
-          "size": 176542556,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.dr1ven.eraser_Photoroom_2026.25.01.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2026.26.01",
-      "versionDate": "2026-06-22T13:11:02.934Z",
-      "size": 172811570,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-22/com.dr1ven.eraser_Sideloadbypass2_2026.26.01.ipa",
+      "version": "2026.27.01",
+      "versionDate": "2026-06-29T13:14:04.714Z",
+      "size": 173083140,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.dr1ven.eraser_Sideloadbypass2_2026.27.01.ipa",
       "recommended": false
     },
     {
@@ -4094,6 +4094,83 @@
       "recommended": false
     },
     {
+      "name": "PS Express",
+      "bundleIdentifier": "com.adobe.PSMobile",
+      "developerName": "Adobe Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/04/6e/9b046ef8-a2a3-cef3-0490-14f92cbd1549/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nPhotoshop Express Photo Editor\n\n• Bundle ID: com.adobe.PSMobile\n• Updated to: 26.26.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/8e/e5/b28ee5f8-59e8-a224-53f1-ce12470a4411/5356e424-df7c-4726-867e-7001bfe18a13_TEST_7_03_PsX_iOS_5.5_Gen_Fill_1242x2208_US_01.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/0e/7f/260e7f56-8bde-ff7e-744e-d25646e96703/54f9de5a-de0d-4e33-b1ca-a12041aa252b_C_03_Adobe_PsX_iOS_5.5_AI_1242x2208_CA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/32/f8/9932f87a-2305-a6b3-ae83-ce857b1557da/f6607561-1ac5-429b-9fc6-0d6b34d4e22b_01_PsX_iOS_5.5_Collages_1242x2208_CA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/06/b2/3806b2a0-18c1-4e7e-3dbc-5712906c1bc9/6de65868-57df-4f4f-8e94-f5c5ea4757d0_02_PsX_iOS_5.5_Eyes_1242x2208_CA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/59/db/2f59db72-b665-9d2c-928b-f2591e5b3f5d/d0394801-f850-45d1-ada8-2b8ffe3332c8_03_PsX_iOS_5.5_Filters_1242x2208_CA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/df/22/3bdf2203-1391-7f0b-b014-80fcb16428d7/3b2786a4-e9c2-4f95-b37e-6bd359d0cc82_04_PsX_iOS_5.5_Makeup_1242x2208_CA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/1e/ee/de1eee94-62ea-1795-53a0-d59aef751c85/b4dcfce3-9138-4713-b372-378241ab5ee1_05_PsX_iOS_5.5_Multi-Object_1242x2208_CA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/d2/84/95d284ee-e34b-723b-2ff1-c533e462ee8e/e06d4c39-9ae4-4c37-b746-accfaeddf853_06_PsX_iOS_5.5_Retouch_1242x2208_CA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/44/f0/2444f02c-141e-31a6-796d-c02d11956d12/c2532e3b-91bb-4f13-9803-6a2e22cb2588_07_PsX_iOS_5.5_Stickers_1242x2208_CA.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/16/0f/e5160f49-468e-6d2f-bf30-f264bc69faa5/7b5ff025-218a-4eb7-b570-6b18e18760f4_08_PsX_iOS_5.5_Healing_1242x2208_CA.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/8e/e5/b28ee5f8-59e8-a224-53f1-ce12470a4411/5356e424-df7c-4726-867e-7001bfe18a13_TEST_7_03_PsX_iOS_5.5_Gen_Fill_1242x2208_US_01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/0e/7f/260e7f56-8bde-ff7e-744e-d25646e96703/54f9de5a-de0d-4e33-b1ca-a12041aa252b_C_03_Adobe_PsX_iOS_5.5_AI_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/32/f8/9932f87a-2305-a6b3-ae83-ce857b1557da/f6607561-1ac5-429b-9fc6-0d6b34d4e22b_01_PsX_iOS_5.5_Collages_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/06/b2/3806b2a0-18c1-4e7e-3dbc-5712906c1bc9/6de65868-57df-4f4f-8e94-f5c5ea4757d0_02_PsX_iOS_5.5_Eyes_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/59/db/2f59db72-b665-9d2c-928b-f2591e5b3f5d/d0394801-f850-45d1-ada8-2b8ffe3332c8_03_PsX_iOS_5.5_Filters_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/df/22/3bdf2203-1391-7f0b-b014-80fcb16428d7/3b2786a4-e9c2-4f95-b37e-6bd359d0cc82_04_PsX_iOS_5.5_Makeup_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/1e/ee/de1eee94-62ea-1795-53a0-d59aef751c85/b4dcfce3-9138-4713-b372-378241ab5ee1_05_PsX_iOS_5.5_Multi-Object_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/d2/84/95d284ee-e34b-723b-2ff1-c533e462ee8e/e06d4c39-9ae4-4c37-b746-accfaeddf853_06_PsX_iOS_5.5_Retouch_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/44/f0/2444f02c-141e-31a6-796d-c02d11956d12/c2532e3b-91bb-4f13-9803-6a2e22cb2588_07_PsX_iOS_5.5_Stickers_1242x2208_CA.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/16/0f/e5160f49-468e-6d2f-bf30-f264bc69faa5/7b5ff025-218a-4eb7-b570-6b18e18760f4_08_PsX_iOS_5.5_Healing_1242x2208_CA.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "26.26.0",
+          "date": "2026-06-29",
+          "size": 168421581,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.adobe.PSMobile_PSExpress_26.26.0.ipa"
+        },
+        {
+          "version": "26.23.0",
+          "date": "2026-06-02",
+          "size": 158028904,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.adobe.PSMobile_PSExpress_26.23.0.ipa"
+        },
+        {
+          "version": "26.20.0",
+          "date": "2026-06-04",
+          "size": 167437863,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.adobe.PSMobile_PSExpress_26.20.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "26.26.0",
+      "versionDate": "2026-06-29T10:13:36.682Z",
+      "size": 168421581,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.adobe.PSMobile_PSExpress_26.26.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Lingokids",
       "bundleIdentifier": "es.monkimun.lingokids",
       "developerName": "Monkimun Inc",
@@ -4356,83 +4433,6 @@
       "versionDate": "2026-06-06T19:07:53.049Z",
       "size": 100542440,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/com.o-p-e-n.open_Sideloadbypass2_26.23.ipa",
-      "recommended": false
-    },
-    {
-      "name": "PS Express",
-      "bundleIdentifier": "com.adobe.PSMobile",
-      "developerName": "Adobe Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/04/6e/9b046ef8-a2a3-cef3-0490-14f92cbd1549/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPhotoshop Express Photo Editor\n\n• Bundle ID: com.adobe.PSMobile\n• Updated to: 26.23.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/8e/e5/b28ee5f8-59e8-a224-53f1-ce12470a4411/5356e424-df7c-4726-867e-7001bfe18a13_TEST_7_03_PsX_iOS_5.5_Gen_Fill_1242x2208_US_01.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/0e/7f/260e7f56-8bde-ff7e-744e-d25646e96703/54f9de5a-de0d-4e33-b1ca-a12041aa252b_C_03_Adobe_PsX_iOS_5.5_AI_1242x2208_CA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/32/f8/9932f87a-2305-a6b3-ae83-ce857b1557da/f6607561-1ac5-429b-9fc6-0d6b34d4e22b_01_PsX_iOS_5.5_Collages_1242x2208_CA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/06/b2/3806b2a0-18c1-4e7e-3dbc-5712906c1bc9/6de65868-57df-4f4f-8e94-f5c5ea4757d0_02_PsX_iOS_5.5_Eyes_1242x2208_CA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/59/db/2f59db72-b665-9d2c-928b-f2591e5b3f5d/d0394801-f850-45d1-ada8-2b8ffe3332c8_03_PsX_iOS_5.5_Filters_1242x2208_CA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/df/22/3bdf2203-1391-7f0b-b014-80fcb16428d7/3b2786a4-e9c2-4f95-b37e-6bd359d0cc82_04_PsX_iOS_5.5_Makeup_1242x2208_CA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/1e/ee/de1eee94-62ea-1795-53a0-d59aef751c85/b4dcfce3-9138-4713-b372-378241ab5ee1_05_PsX_iOS_5.5_Multi-Object_1242x2208_CA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/d2/84/95d284ee-e34b-723b-2ff1-c533e462ee8e/e06d4c39-9ae4-4c37-b746-accfaeddf853_06_PsX_iOS_5.5_Retouch_1242x2208_CA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/44/f0/2444f02c-141e-31a6-796d-c02d11956d12/c2532e3b-91bb-4f13-9803-6a2e22cb2588_07_PsX_iOS_5.5_Stickers_1242x2208_CA.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/16/0f/e5160f49-468e-6d2f-bf30-f264bc69faa5/7b5ff025-218a-4eb7-b570-6b18e18760f4_08_PsX_iOS_5.5_Healing_1242x2208_CA.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/8e/e5/b28ee5f8-59e8-a224-53f1-ce12470a4411/5356e424-df7c-4726-867e-7001bfe18a13_TEST_7_03_PsX_iOS_5.5_Gen_Fill_1242x2208_US_01.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/0e/7f/260e7f56-8bde-ff7e-744e-d25646e96703/54f9de5a-de0d-4e33-b1ca-a12041aa252b_C_03_Adobe_PsX_iOS_5.5_AI_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/32/f8/9932f87a-2305-a6b3-ae83-ce857b1557da/f6607561-1ac5-429b-9fc6-0d6b34d4e22b_01_PsX_iOS_5.5_Collages_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/06/b2/3806b2a0-18c1-4e7e-3dbc-5712906c1bc9/6de65868-57df-4f4f-8e94-f5c5ea4757d0_02_PsX_iOS_5.5_Eyes_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/59/db/2f59db72-b665-9d2c-928b-f2591e5b3f5d/d0394801-f850-45d1-ada8-2b8ffe3332c8_03_PsX_iOS_5.5_Filters_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/df/22/3bdf2203-1391-7f0b-b014-80fcb16428d7/3b2786a4-e9c2-4f95-b37e-6bd359d0cc82_04_PsX_iOS_5.5_Makeup_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/1e/ee/de1eee94-62ea-1795-53a0-d59aef751c85/b4dcfce3-9138-4713-b372-378241ab5ee1_05_PsX_iOS_5.5_Multi-Object_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/d2/84/95d284ee-e34b-723b-2ff1-c533e462ee8e/e06d4c39-9ae4-4c37-b746-accfaeddf853_06_PsX_iOS_5.5_Retouch_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/44/f0/2444f02c-141e-31a6-796d-c02d11956d12/c2532e3b-91bb-4f13-9803-6a2e22cb2588_07_PsX_iOS_5.5_Stickers_1242x2208_CA.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/16/0f/e5160f49-468e-6d2f-bf30-f264bc69faa5/7b5ff025-218a-4eb7-b570-6b18e18760f4_08_PsX_iOS_5.5_Healing_1242x2208_CA.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "26.23.0",
-          "date": "2026-06-02",
-          "size": 158028904,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.adobe.PSMobile_PSExpress_26.23.0.ipa"
-        },
-        {
-          "version": "26.20.0",
-          "date": "2026-06-04",
-          "size": 167437863,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.adobe.PSMobile_PSExpress_26.20.0.ipa"
-        },
-        {
-          "version": "26.17.0",
-          "date": "2026-06-02",
-          "size": 154986741,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.adobe.PSMobile_PhotoshopExpressPremium_26.17.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "26.23.0",
-      "versionDate": "2026-06-02T14:40:58.211Z",
-      "size": 158028904,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.adobe.PSMobile_PSExpress_26.23.0.ipa",
       "recommended": false
     },
     {
@@ -7603,10 +7603,50 @@
       "bundleIdentifier": "com.duuro.moneyCoach",
       "developerName": "MoneyCoach UG",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/63/78/9b637860-abaf-f448-0df6-81c48cf56ac8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoney Coach My Budget Planner\n\nTweak: Subscription Unlocked\n\nVersion: 11.4.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.duuro.moneyCoach\nDeveloper: MoneyCoach UG",
-      "screenshots": [],
-      "screenshotURLs": [],
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMoney Coach My Budget Planner\n\nTweak: Subscription Unlocked\n\nVersion: 11.4.3\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.duuro.moneyCoach\nDeveloper: MoneyCoach UG",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/f1/ac/6af1acb0-9100-d46c-2d42-7fe4e5d9f1d1/iPad_US_1.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/51/81/2451815f-e2e6-70f0-e638-55907916594d/iPad_US_4.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/2a/d5/f32ad534-eceb-3b39-fd06-d3d3004bab0e/iPad_US_2.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/db/13/dbdb1385-86aa-a573-322f-08baaf85dddd/iPad_US_3.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/2e/3e/862e3e9f-deec-25f6-d402-08aff62bb72d/iPad_US_7.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/2b/53/6b2b53fb-9982-d3e9-bef0-1e641991e8ce/iPad_US_6.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/d2/84/63d28427-0e3c-491e-e4d9-8d63fe320def/iPad_US_5.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/99/88/e2998881-58a4-c8b8-0589-5e653bc59e61/iPad_US_8.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/f1/ac/6af1acb0-9100-d46c-2d42-7fe4e5d9f1d1/iPad_US_1.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/51/81/2451815f-e2e6-70f0-e638-55907916594d/iPad_US_4.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/2a/d5/f32ad534-eceb-3b39-fd06-d3d3004bab0e/iPad_US_2.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/db/13/dbdb1385-86aa-a573-322f-08baaf85dddd/iPad_US_3.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/2e/3e/862e3e9f-deec-25f6-d402-08aff62bb72d/iPad_US_7.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/2b/53/6b2b53fb-9982-d3e9-bef0-1e641991e8ce/iPad_US_6.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/d2/84/63d28427-0e3c-491e-e4d9-8d63fe320def/iPad_US_5.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/99/88/e2998881-58a4-c8b8-0589-5e653bc59e61/iPad_US_8.png/1320x2868bb.jpg"
+      ],
       "versions": [
+        {
+          "version": "11.4.3",
+          "date": "2026-06-29",
+          "size": 107234236,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.duuro.moneyCoach_Sideloadbypass2_11.4.3.ipa"
+        },
         {
           "version": "11.4.1",
           "date": "2026-06-02",
@@ -7618,19 +7658,13 @@
           "date": "2026-06-02",
           "size": 108283070,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.duuro.moneyCoach_Sideloadbypass2_11.4.ipa"
-        },
-        {
-          "version": "11.3.3",
-          "date": "2026-06-05",
-          "size": 97601594,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.duuro.moneyCoach_Sideloadbypass2_11.3.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "11.4.1",
-      "versionDate": "2026-06-02T17:25:06.713Z",
-      "size": 107787374,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.duuro.moneyCoach_Sideloadbypass2_11.4.1.ipa",
+      "version": "11.4.3",
+      "versionDate": "2026-06-29T10:13:51.915Z",
+      "size": 107234236,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.duuro.moneyCoach_Sideloadbypass2_11.4.3.ipa",
       "recommended": false
     },
     {
@@ -16750,7 +16784,7 @@
       "bundleIdentifier": "app.gentler.activity",
       "developerName": "Gentler Stories LLC",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/25/b5/8725b537-d7ff-58eb-789f-4bc1272f3275/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nGentler Streak Workout Tracker\n\n• Bundle ID: app.gentler.activity\n• Updated to: 5.12.6\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nGentler Streak Workout Tracker\n\n• Bundle ID: app.gentler.activity\n• Updated to: 5.12.7\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/43/dc/fc43dc40-f5df-a46d-3799-521f962107df/Valera_English_iPhone1.png/1320x2868bb.webp"
@@ -16829,6 +16863,12 @@
       ],
       "versions": [
         {
+          "version": "5.12.7",
+          "date": "2026-06-29",
+          "size": 199298302,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/app.gentler.activity_AutoRcSideload_5.12.7.ipa"
+        },
+        {
           "version": "5.12.6",
           "date": "2026-06-06",
           "size": 104419220,
@@ -16839,19 +16879,13 @@
           "date": "2026-06-12",
           "size": 195892185,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/app.gentler.activity_AutoRcSideload_5.12.5.ipa"
-        },
-        {
-          "version": "5.12.4",
-          "date": "2026-06-05",
-          "size": 191823860,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/app.gentler.activity_AutoRcSideload_5.12.4.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "5.12.6",
-      "versionDate": "2026-06-06T10:07:24.037Z",
-      "size": 104419220,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-06/app.gentler.activity_AutoRcSideload_5.12.6.ipa",
+      "version": "5.12.7",
+      "versionDate": "2026-06-29T13:13:42.774Z",
+      "size": 199298302,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/app.gentler.activity_AutoRcSideload_5.12.7.ipa",
       "recommended": false
     },
     {
