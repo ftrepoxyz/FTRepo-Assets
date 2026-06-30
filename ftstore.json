@@ -3268,6 +3268,71 @@
       "recommended": false
     },
     {
+      "name": "Unified Dictionary",
+      "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
+      "developerName": "Bravolol Limited",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/a8/98/bca898b9-da1a-335a-2c5b-8a6bbecdef58/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nDictionary & Translator\n\n• Bundle ID: com.bravolol.bravoLang.chineseDictionary\n• Updated to: 35.6\n• Minimum iOS: 12.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/52/bc/9652bc48-de94-af62-0268-4b15dd64303e/40dbdff4-634e-453e-8ea8-a5ea3772af96_iPhone-Plus-02.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/4b/91/394b9125-a3d5-af51-409f-ddb078a31fc0/52e2b53d-44e9-4cdc-ba1e-e1faf57c479d_iPhone-Plus-03.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/25/dc/9225dcc3-3961-0ed1-b104-c5a251ec25b3/02512f1f-96f1-4411-be22-5d96c3d7fb18_iPhone-Plus-10.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/a5/64/14a56496-4134-58c9-f9c9-a07a226f022c/21e9c72b-efef-4b5d-ad9f-48ce594d8da4_iPhone-Plus-08.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/c9/3e/fdc93e9b-5b4e-d2ad-48ee-04d9781da36a/c6c8b02e-2d05-4ad6-b311-e4fbf77a5112_iPhone-Plus-04.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/65/9b/ec659bfa-c516-c142-0b17-7e64084b60d6/5c07edc0-6f83-4e93-a543-0633848ce5b9_iPhone-Plus-07.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1a/c9/e41ac9ed-6998-8437-f75c-0fba2364e139/02859db3-0c5f-443a-88bc-1dcbfe3c7b99_iPhone-Plus-01.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/7c/5b/1a7c5b5e-b8f0-6287-d4fd-6fe338b2f446/e443b697-df1f-487a-a353-9bdf29a8c969_iPhone-Plus-05.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/19/b3/c819b3f7-2234-030b-8051-53d3cd983e5f/54dda40c-3c8d-4d69-bf4b-420c68be4b7c_iPhone-Plus-06.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/f9/42/c7f9426c-b9d1-6fc4-28ff-6ccb29c9b636/6d046657-2449-4a8f-9b72-51d34159cfd6_iPhone-Plus-09.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/52/bc/9652bc48-de94-af62-0268-4b15dd64303e/40dbdff4-634e-453e-8ea8-a5ea3772af96_iPhone-Plus-02.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/4b/91/394b9125-a3d5-af51-409f-ddb078a31fc0/52e2b53d-44e9-4cdc-ba1e-e1faf57c479d_iPhone-Plus-03.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/25/dc/9225dcc3-3961-0ed1-b104-c5a251ec25b3/02512f1f-96f1-4411-be22-5d96c3d7fb18_iPhone-Plus-10.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/a5/64/14a56496-4134-58c9-f9c9-a07a226f022c/21e9c72b-efef-4b5d-ad9f-48ce594d8da4_iPhone-Plus-08.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/c9/3e/fdc93e9b-5b4e-d2ad-48ee-04d9781da36a/c6c8b02e-2d05-4ad6-b311-e4fbf77a5112_iPhone-Plus-04.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/65/9b/ec659bfa-c516-c142-0b17-7e64084b60d6/5c07edc0-6f83-4e93-a543-0633848ce5b9_iPhone-Plus-07.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1a/c9/e41ac9ed-6998-8437-f75c-0fba2364e139/02859db3-0c5f-443a-88bc-1dcbfe3c7b99_iPhone-Plus-01.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/7c/5b/1a7c5b5e-b8f0-6287-d4fd-6fe338b2f446/e443b697-df1f-487a-a353-9bdf29a8c969_iPhone-Plus-05.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/19/b3/c819b3f7-2234-030b-8051-53d3cd983e5f/54dda40c-3c8d-4d69-bf4b-420c68be4b7c_iPhone-Plus-06.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/f9/42/c7f9426c-b9d1-6fc4-28ff-6ccb29c9b636/6d046657-2449-4a8f-9b72-51d34159cfd6_iPhone-Plus-09.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "35.6",
+          "date": "2026-06-30",
+          "size": 21044378,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.bravolol.bravoLang.chineseDictionary_UnifiedDictionary_35.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "35.6",
+      "versionDate": "2026-06-30T07:13:40.511Z",
+      "size": 21044378,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.bravolol.bravoLang.chineseDictionary_UnifiedDictionary_35.6.ipa",
+      "recommended": false
+    },
+    {
       "name": "Photomyne",
       "bundleIdentifier": "com.photomyne.photomyneapplite",
       "developerName": "Photomyne LTD",
@@ -3310,6 +3375,77 @@
       "versionDate": "2026-06-03T10:39:01.211Z",
       "size": 192102961,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.photomyne.photomyneapplite_StopReviews_34.0.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Water Sort",
+      "bundleIdentifier": "com.gma.water.sort.puzzle",
+      "developerName": "IEC GLOBAL PTY LTD",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/cb/b5/69cbb533-ea05-2597-7067-00ef6122a86b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nWater Sort Puzzle\n\nTweak: Free IAP\n\nVersion: 32.0.0\n\nNotes: restart if app freezes\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.gma.water.sort.puzzle\nDeveloper: IEC GLOBAL PTY LTD",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2f/7a/48/2f7a4823-562b-3bd4-d35c-39e30c271e75/dd6cbb98-d86c-4f6f-9407-592fe09e19d5_WSP_SCR_1_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/32/57/d9/3257d950-ecde-4f57-7185-782734e57360/170fa6e3-0230-495d-ba6b-aaf643ce17da_WSP_SCR_2_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/26/22/71/262271a6-e56d-d0a2-5f0b-1f7becd23849/96bae75e-774b-4cc4-a4b5-ee11ca257ce6_WSP_SCR_3_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b1/65/12/b16512c8-0d78-2288-efe9-f034a35f66bc/faee3aa0-614d-4cb9-9800-3b1a13dc76eb_WSP_SCR_4_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/61/bb/8b/61bb8bf5-97e6-5336-f185-d2c52060fa95/1ba7977e-27b5-4e6f-a6e3-4206fb92273f_WSP_SCR_5_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f1/b3/f1/f1b3f15c-2b64-6ae9-2f66-9717ed2de43e/4ce50902-9b7c-4efa-99f4-aaa640beca26_WSP_SCR_6_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/62/9a/2f/629a2fd1-6bf6-df9d-d3f1-e8d4178e304c/40cf364f-1be4-4425-9ecc-8af878771ffa_WSP_SCR_7_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/02/5f/f4025fc8-a039-04a7-9795-69f34a5394b3/20d166a4-28f7-431f-a101-85763e73069e_WSP_SCR_8_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/99/f7/b999f7ac-b67a-e1f5-f53c-058763136e2f/a5f6abab-d2dc-4009-8907-782ad393ebc6_WSP_SCR_9_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a9/c1/2a/a9c12a11-a6ce-cac8-a4ed-40287a0e101d/692d6a10-696f-4719-a57d-f24d0095ce87_WSP_SCR_10_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2f/7a/48/2f7a4823-562b-3bd4-d35c-39e30c271e75/dd6cbb98-d86c-4f6f-9407-592fe09e19d5_WSP_SCR_1_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/32/57/d9/3257d950-ecde-4f57-7185-782734e57360/170fa6e3-0230-495d-ba6b-aaf643ce17da_WSP_SCR_2_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/26/22/71/262271a6-e56d-d0a2-5f0b-1f7becd23849/96bae75e-774b-4cc4-a4b5-ee11ca257ce6_WSP_SCR_3_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b1/65/12/b16512c8-0d78-2288-efe9-f034a35f66bc/faee3aa0-614d-4cb9-9800-3b1a13dc76eb_WSP_SCR_4_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/61/bb/8b/61bb8bf5-97e6-5336-f185-d2c52060fa95/1ba7977e-27b5-4e6f-a6e3-4206fb92273f_WSP_SCR_5_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f1/b3/f1/f1b3f15c-2b64-6ae9-2f66-9717ed2de43e/4ce50902-9b7c-4efa-99f4-aaa640beca26_WSP_SCR_6_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/62/9a/2f/629a2fd1-6bf6-df9d-d3f1-e8d4178e304c/40cf364f-1be4-4425-9ecc-8af878771ffa_WSP_SCR_7_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/02/5f/f4025fc8-a039-04a7-9795-69f34a5394b3/20d166a4-28f7-431f-a101-85763e73069e_WSP_SCR_8_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/99/f7/b999f7ac-b67a-e1f5-f53c-058763136e2f/a5f6abab-d2dc-4009-8907-782ad393ebc6_WSP_SCR_9_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a9/c1/2a/a9c12a11-a6ce-cac8-a4ed-40287a0e101d/692d6a10-696f-4719-a57d-f24d0095ce87_WSP_SCR_10_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "32.0.0",
+          "date": "2026-06-30",
+          "size": 119231338,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.gma.water.sort.puzzle_Sideloadbypass2_32.0.0.ipa"
+        },
+        {
+          "version": "30.0.0",
+          "date": "2026-06-02",
+          "size": 114663939,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.gma.water.sort.puzzle_Sideloadbypass2_30.0.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "32.0.0",
+      "versionDate": "2026-06-30T04:14:27.111Z",
+      "size": 119231338,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.gma.water.sort.puzzle_Sideloadbypass2_32.0.0.ipa",
       "recommended": false
     },
     {
@@ -3701,71 +3837,6 @@
       "versionDate": "2026-06-12T09:39:13.947Z",
       "size": 293612509,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zynga.FarmVille2CountryEscape_30.1.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Water Sort",
-      "bundleIdentifier": "com.gma.water.sort.puzzle",
-      "developerName": "IEC GLOBAL PTY LTD",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/cb/b5/69cbb533-ea05-2597-7067-00ef6122a86b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nWater Sort Puzzle\n\nTweak: Free IAP\n\nVersion: 30.0.0\n\nNotes: restart if app freezes\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.gma.water.sort.puzzle\nDeveloper: IEC GLOBAL PTY LTD",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2f/7a/48/2f7a4823-562b-3bd4-d35c-39e30c271e75/dd6cbb98-d86c-4f6f-9407-592fe09e19d5_WSP_SCR_1_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/32/57/d9/3257d950-ecde-4f57-7185-782734e57360/170fa6e3-0230-495d-ba6b-aaf643ce17da_WSP_SCR_2_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/26/22/71/262271a6-e56d-d0a2-5f0b-1f7becd23849/96bae75e-774b-4cc4-a4b5-ee11ca257ce6_WSP_SCR_3_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b1/65/12/b16512c8-0d78-2288-efe9-f034a35f66bc/faee3aa0-614d-4cb9-9800-3b1a13dc76eb_WSP_SCR_4_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/61/bb/8b/61bb8bf5-97e6-5336-f185-d2c52060fa95/1ba7977e-27b5-4e6f-a6e3-4206fb92273f_WSP_SCR_5_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f1/b3/f1/f1b3f15c-2b64-6ae9-2f66-9717ed2de43e/4ce50902-9b7c-4efa-99f4-aaa640beca26_WSP_SCR_6_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/62/9a/2f/629a2fd1-6bf6-df9d-d3f1-e8d4178e304c/40cf364f-1be4-4425-9ecc-8af878771ffa_WSP_SCR_7_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/02/5f/f4025fc8-a039-04a7-9795-69f34a5394b3/20d166a4-28f7-431f-a101-85763e73069e_WSP_SCR_8_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/99/f7/b999f7ac-b67a-e1f5-f53c-058763136e2f/a5f6abab-d2dc-4009-8907-782ad393ebc6_WSP_SCR_9_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a9/c1/2a/a9c12a11-a6ce-cac8-a4ed-40287a0e101d/692d6a10-696f-4719-a57d-f24d0095ce87_WSP_SCR_10_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2f/7a/48/2f7a4823-562b-3bd4-d35c-39e30c271e75/dd6cbb98-d86c-4f6f-9407-592fe09e19d5_WSP_SCR_1_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/32/57/d9/3257d950-ecde-4f57-7185-782734e57360/170fa6e3-0230-495d-ba6b-aaf643ce17da_WSP_SCR_2_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/26/22/71/262271a6-e56d-d0a2-5f0b-1f7becd23849/96bae75e-774b-4cc4-a4b5-ee11ca257ce6_WSP_SCR_3_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b1/65/12/b16512c8-0d78-2288-efe9-f034a35f66bc/faee3aa0-614d-4cb9-9800-3b1a13dc76eb_WSP_SCR_4_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/61/bb/8b/61bb8bf5-97e6-5336-f185-d2c52060fa95/1ba7977e-27b5-4e6f-a6e3-4206fb92273f_WSP_SCR_5_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f1/b3/f1/f1b3f15c-2b64-6ae9-2f66-9717ed2de43e/4ce50902-9b7c-4efa-99f4-aaa640beca26_WSP_SCR_6_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/62/9a/2f/629a2fd1-6bf6-df9d-d3f1-e8d4178e304c/40cf364f-1be4-4425-9ecc-8af878771ffa_WSP_SCR_7_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/02/5f/f4025fc8-a039-04a7-9795-69f34a5394b3/20d166a4-28f7-431f-a101-85763e73069e_WSP_SCR_8_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/99/f7/b999f7ac-b67a-e1f5-f53c-058763136e2f/a5f6abab-d2dc-4009-8907-782ad393ebc6_WSP_SCR_9_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a9/c1/2a/a9c12a11-a6ce-cac8-a4ed-40287a0e101d/692d6a10-696f-4719-a57d-f24d0095ce87_WSP_SCR_10_V28.1_BGNight_Castle_1242x2208.jpg/1320x2868bb.jpg"
-      ],
-      "versions": [
-        {
-          "version": "30.0.0",
-          "date": "2026-06-02",
-          "size": 114663939,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.gma.water.sort.puzzle_Sideloadbypass2_30.0.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "30.0.0",
-      "versionDate": "2026-06-02T17:14:49.895Z",
-      "size": 114663939,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.gma.water.sort.puzzle_Sideloadbypass2_30.0.0.ipa",
       "recommended": false
     },
     {
@@ -6125,7 +6196,7 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/bb/53/c5bb532b-ac3c-9cee-42d7-6cef3e3bab8b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 16.5.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nNotability: AI Notes & PDF app\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 16.5.2\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/1320x2868bb.png"
@@ -6153,9 +6224,9 @@
       "versions": [
         {
           "version": "16.5.1",
-          "date": "2026-06-24",
+          "date": "2026-06-30",
           "size": 263434897,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-24/com.gingerlabs.Notability_Notability_16.5.1.ipa"
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.gingerlabs.Notability_Notability_16.5.1.ipa"
         },
         {
           "version": "16.3.2",
@@ -6172,9 +6243,9 @@
       ],
       "appPermissions": {},
       "version": "16.5.1",
-      "versionDate": "2026-06-24T10:11:36.820Z",
+      "versionDate": "2026-06-30T04:14:12.642Z",
       "size": 263434897,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-24/com.gingerlabs.Notability_Notability_16.5.1.ipa",
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.gingerlabs.Notability_Notability_16.5.1.ipa",
       "recommended": false
     },
     {
@@ -20062,6 +20133,75 @@
       "versionDate": "2026-06-04T21:34:32.559Z",
       "size": 101553369,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/com.mwm.sampler-app_BeatsMakerPro_4.17.01.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Tachimanga",
+      "bundleIdentifier": "com.mangacrush.ios",
+      "developerName": "Tekbrio LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/d3/72/84d37208-5ce9-a70b-b1f8-f8deb37512c7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nTachimanga\n\n• Bundle ID: com.mangacrush.ios\n• Updated to: 4.16\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Restart app until subscription is unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/83/d6/c683d602-af6e-2856-2bcf-bd889491f41c/iPhone_17_Pro_Max-01.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/31/35/b33135e1-93d2-e49c-651d-72bd91352640/iPhone_17_Pro_Max-02.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/67/21/a26721e4-64d9-0fe3-0c34-36580206246a/iPhone_17_Pro_Max-03.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/91/90/8191904a-f3c7-800d-5b59-ede6f54c62c1/iPhone_17_Pro_Max-04.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/bf/b8/35bfb8b3-f44f-c5fd-c00d-46b5ea0650b9/iPhone_17_Pro_Max-06.png/1320x2868bb.webp"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/7f/1a/b27f1ac0-676f-cede-3c5e-620d0bc54c79/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-01.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/8f/f8/118ff88f-378b-ec63-df75-dc901b7be055/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-02.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/5e/04/365e04b4-ba42-ff65-1738-9783ec0ddb61/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-03.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/ba/e8/ffbae8c2-c4cc-cb63-2f98-7f4da53a3082/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-04.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/d8/dc/3bd8dc6d-cfae-19a2-b200-a6ba7a9f8f29/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-05.png/1320x2868bb.jpg"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/61/47/b2614739-fd7c-c2ae-2903-7ed477d5590a/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-06.png/1320x2868bb.jpg"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/83/d6/c683d602-af6e-2856-2bcf-bd889491f41c/iPhone_17_Pro_Max-01.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/31/35/b33135e1-93d2-e49c-651d-72bd91352640/iPhone_17_Pro_Max-02.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/67/21/a26721e4-64d9-0fe3-0c34-36580206246a/iPhone_17_Pro_Max-03.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/91/90/8191904a-f3c7-800d-5b59-ede6f54c62c1/iPhone_17_Pro_Max-04.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/bf/b8/35bfb8b3-f44f-c5fd-c00d-46b5ea0650b9/iPhone_17_Pro_Max-06.png/1320x2868bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/7f/1a/b27f1ac0-676f-cede-3c5e-620d0bc54c79/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-01.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/8f/f8/118ff88f-378b-ec63-df75-dc901b7be055/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-02.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/5e/04/365e04b4-ba42-ff65-1738-9783ec0ddb61/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-03.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/ba/e8/ffbae8c2-c4cc-cb63-2f98-7f4da53a3082/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-04.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/d8/dc/3bd8dc6d-cfae-19a2-b200-a6ba7a9f8f29/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-05.png/1320x2868bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/61/47/b2614739-fd7c-c2ae-2903-7ed477d5590a/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-06.png/1320x2868bb.jpg"
+      ],
+      "versions": [
+        {
+          "version": "4.16",
+          "date": "2026-06-30",
+          "size": 126961216,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.mangacrush.ios_Tachimanga_4.16.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.16",
+      "versionDate": "2026-06-30T04:13:49.311Z",
+      "size": 126961216,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.mangacrush.ios_Tachimanga_4.16.ipa",
       "recommended": false
     },
     {
