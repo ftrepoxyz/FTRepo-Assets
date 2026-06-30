@@ -7554,7 +7554,7 @@
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/99/9f/6a999fe6-8406-d4a3-bc10-32a4941b8730/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nFlightradar24 | Flight Tracker\n\n• Bundle ID: se.resenatverket.FlightRadar24-Free\n• Updated to: 11.6.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Lifetime\n• Tweaked by @blatants\n\n• Note:\nLogin and restart to activate.\nMost Features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nFlightradar24 | Flight Tracker\n\n• Bundle ID: se.resenatverket.FlightRadar24-Free\n• Updated to: 11.7.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Gold Lifetime\n• Tweaked by @blatants\n\n• Note:\nLogin and restart to activate.\nMost Features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/1320x2868bb.jpg"
@@ -7601,6 +7601,12 @@
       ],
       "versions": [
         {
+          "version": "11.7.0",
+          "date": "2026-06-30",
+          "size": 226230441,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.7.0.ipa"
+        },
+        {
           "version": "11.6.1",
           "date": "2026-06-18",
           "size": 225111742,
@@ -7611,19 +7617,13 @@
           "date": "2026-06-12",
           "size": 188002756,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.6.0.ipa"
-        },
-        {
-          "version": "11.5.1",
-          "date": "2026-06-02",
-          "size": 225225201,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.5.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "11.6.1",
-      "versionDate": "2026-06-18T13:09:17.028Z",
-      "size": 225111742,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-18/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.6.1.ipa",
+      "version": "11.7.0",
+      "versionDate": "2026-06-30T16:14:10.866Z",
+      "size": 226230441,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/se.resenatverket.FlightRadar24-Free_FlightRadar24_11.7.0.ipa",
       "recommended": false
     },
     {
@@ -8468,7 +8468,7 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/7a/66/607a665f-39fe-10f2-3d2f-ef0ecd165707/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.43\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
+      "localizedDescription": "from @blatants |\n----------------\nSCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.43.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg"
@@ -8503,6 +8503,12 @@
       ],
       "versions": [
         {
+          "version": "9.43.1",
+          "date": "2026-06-30",
+          "size": 71581398,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.dopedevelopment.Panels_AutoRcSideload_9.43.1.ipa"
+        },
+        {
           "version": "9.43",
           "date": "2026-06-29",
           "size": 67036826,
@@ -8513,19 +8519,13 @@
           "date": "2026-06-25",
           "size": 63983576,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.dopedevelopment.Panels_Sideloadbypass2_9.42.ipa"
-        },
-        {
-          "version": "9.40.1",
-          "date": "2026-06-12",
-          "size": 77261494,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.dopedevelopment.Panels_AutoRcSideload_9.40.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.43",
-      "versionDate": "2026-06-29T16:14:01.727Z",
-      "size": 67036826,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-29/com.dopedevelopment.Panels_Sideloadbypass2_9.43.ipa",
+      "version": "9.43.1",
+      "versionDate": "2026-06-30T19:13:55.709Z",
+      "size": 71581398,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.dopedevelopment.Panels_AutoRcSideload_9.43.1.ipa",
       "recommended": false
     },
     {
@@ -9047,7 +9047,7 @@
       "bundleIdentifier": "com.sadpuppy.lemmings",
       "developerName": "SAD PUPPY",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fb/ec/b8fbec01-9cc3-0392-8e75-2f990fd05d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nLemmings: Strategy & Puzzle\n\nTweak: Premium Unlocked\n\nVersion: 9.3.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 14.0\nBundle ID: com.sadpuppy.lemmings\nDeveloper: SAD PUPPY",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nLemmings: Strategy & Puzzle\n\nTweak: Premium Unlocked\n\nVersion: 9.4.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.sadpuppy.lemmings\nDeveloper: SAD PUPPY",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e4/7c/ede47c92-98b6-832b-9f27-6fc9ed19546f/cf6c4041-a14e-454c-a56d-aaafb1c5843c_1_Eng_1242x2208_iPhone6_COMPLETE.png/1320x2868bb.png"
@@ -9094,6 +9094,12 @@
       ],
       "versions": [
         {
+          "version": "9.4.0",
+          "date": "2026-06-30",
+          "size": 127559696,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.sadpuppy.lemmings_popuprifty_9.4.0.ipa"
+        },
+        {
           "version": "9.3.1",
           "date": "2026-06-05",
           "size": 122409357,
@@ -9101,10 +9107,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "9.3.1",
-      "versionDate": "2026-06-05T03:00:49.548Z",
-      "size": 122409357,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.sadpuppy.lemmings_popuprifty_9.3.1.ipa",
+      "version": "9.4.0",
+      "versionDate": "2026-06-30T16:14:26.666Z",
+      "size": 127559696,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.sadpuppy.lemmings_popuprifty_9.4.0.ipa",
       "recommended": false
     },
     {
@@ -27409,7 +27415,7 @@
       "bundleIdentifier": "com.rockwellventures.mesmerize",
       "developerName": "Rockwell Ventures",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/86/73/438673ca-86c3-01cc-4e12-c5793fad4463/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nMesmerize - Visual Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 2.41\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.rockwellventures.mesmerize\nDeveloper: Rockwell Ventures",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nMesmerize - Visual Meditation\n\nTweak: Subscription Unlocked\n\nVersion: 2.42\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 18.0\nBundle ID: com.rockwellventures.mesmerize\nDeveloper: Rockwell Ventures",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/91/2a/b3912ac2-30e0-905e-7417-3e59f287a755/4c25d08d-b3e1-4ae7-945b-f92e18005ec2_11.jpg/1320x2868bb.jpg"
@@ -27456,6 +27462,12 @@
       ],
       "versions": [
         {
+          "version": "2.42",
+          "date": "2026-06-30",
+          "size": 236422286,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.rockwellventures.mesmerize_Sideloadbypass2_2.42.ipa"
+        },
+        {
           "version": "2.41",
           "date": "2026-06-09",
           "size": 228074129,
@@ -27469,10 +27481,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "2.41",
-      "versionDate": "2026-06-09T19:06:49.775Z",
-      "size": 228074129,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-09/com.rockwellventures.mesmerize_Sideloadbypass2_2.41.ipa",
+      "version": "2.42",
+      "versionDate": "2026-06-30T19:14:24.472Z",
+      "size": 236422286,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.rockwellventures.mesmerize_Sideloadbypass2_2.42.ipa",
       "recommended": false
     },
     {
