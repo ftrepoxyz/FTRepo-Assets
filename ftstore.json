@@ -8468,7 +8468,7 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/7a/66/607a665f-39fe-10f2-3d2f-ef0ecd165707/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.43.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSCRL: Photo Collage Maker\n\nTweak: Premium Unlocked\n\nVersion: 9.43.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.dopedevelopment.Panels\nDeveloper: Appostrophe AB",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/1320x2868bb.jpg"
@@ -8505,8 +8505,8 @@
         {
           "version": "9.43.1",
           "date": "2026-06-30",
-          "size": 71581398,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.dopedevelopment.Panels_AutoRcSideload_9.43.1.ipa"
+          "size": 67002072,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.dopedevelopment.Panels_Sideloadbypass2_9.43.1.ipa"
         },
         {
           "version": "9.43",
@@ -8523,9 +8523,9 @@
       ],
       "appPermissions": {},
       "version": "9.43.1",
-      "versionDate": "2026-06-30T19:13:55.709Z",
-      "size": 71581398,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.dopedevelopment.Panels_AutoRcSideload_9.43.1.ipa",
+      "versionDate": "2026-06-30T22:14:03.603Z",
+      "size": 67002072,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.dopedevelopment.Panels_Sideloadbypass2_9.43.1.ipa",
       "recommended": false
     },
     {
@@ -9443,7 +9443,7 @@
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "Vulcan Labs Company Limited",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/85/d1/1b85d166-1890-823e-e833-fd6e5b7c6ead/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Chatbot: AI Chat Smith 5.0\n\nTweak: Satella injected for unlocking subscription\n\nVersion: 8.260601.2\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: co.vulcanlabs.moodtracker\nDeveloper: Vulcan Labs Company Limited",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nAI Chatbot: AI Chat Smith 5.0\n\nTweak: Satella injected for unlocking subscription\n\nVersion: 8.260622.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: co.vulcanlabs.moodtracker\nDeveloper: Vulcan Labs Company Limited",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/72/00/5e7200de-15d9-51de-0f9f-84b0bece731a/Screenshot-2.png/1320x2868bb.webp"
@@ -9526,6 +9526,12 @@
       ],
       "versions": [
         {
+          "version": "8.260622.1",
+          "date": "2026-07-01",
+          "size": 576278535,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260622.1.ipa"
+        },
+        {
           "version": "8.260601.2",
           "date": "2026-06-12",
           "size": 564310551,
@@ -9536,19 +9542,13 @@
           "date": "2026-06-03",
           "size": 530740238,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260518.2.ipa"
-        },
-        {
-          "version": "8.260511.1",
-          "date": "2026-06-05",
-          "size": 530615570,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260511.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "8.260601.2",
-      "versionDate": "2026-06-12T11:59:08.537Z",
-      "size": 564310551,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260601.2.ipa",
+      "version": "8.260622.1",
+      "versionDate": "2026-07-01T01:14:44.153Z",
+      "size": 576278535,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/co.vulcanlabs.moodtracker_Sideloadbypass2_8.260622.1.ipa",
       "recommended": false
     },
     {
@@ -20760,6 +20760,41 @@
       "recommended": false
     },
     {
+      "name": "SpotiFLAC Mobile",
+      "bundleIdentifier": "com.zarz.spotiflacAndroid",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from github:spotiflacapp/SpotiFLAC-Mobile (v4.7.0) |\n----------------\n\n### New Features\n\n- **extension-repo**: Preserve package suffix from download URL\n- **extensions**: Route Deezer metadata through enabled extension\n- **ui**: Stabilize album and playlist header layouts\n- **extension-health**: Lengthen cache TTL and honor per-check minimum\n- Apply lossless conversion quality cap to album screen batch convert\n- Reorderable up-next queue + playback stability\n- Cap bit depth/sample rate on lossless conversion + WAV/AIFF\n- **ui**: Hide audio quality badge on downloading queue items\n- **ui**: Redesign local/downloaded album and folder screen headers\n- Playback queue, preview exclusivity, player bug fixes\n- Add new playback experience and media integration\n- **go**: Verification early-abort in fallback + album metadata from tracks\n- **banner**: HLS motion-artwork header banners and audio-quality badges\n- **preview**: Play short track preview snippets in lists\n- **extension-health**: Cache results, force refresh, treat lookup errors as transient\n- **ui**: Polish album folder structure picker bottom sheet\n- **ui**: Add Beta badge to Backup & Restore settings entry\n- **network**: Add opt-in allow local/private network setting\n- **backup**: Include installed extensions and settings in backup/restore\n- **settings**: Add backup and restore for settings, history and library\n- **library**: Add rename action to playlist folder screen\n- **download**: Add {playlist_position} filename placeholder\n- Handle extension verification and retry-after on download\n- Extension runtime and provider improvements\n- **download**: AC-4 passthrough support\n- **replaygain**: Add Opus R128 gain tags\n- **queue**: Tap a failed download to view its error details\n\n### Bug Fixes\n\n- **download**: Track verification retries per service\n- **extensions**: Scope signed session files by endpoint and app context\n- **lyrics**: Sync provider priority to backend on save\n- **lyrics**: Prefer workers.dev LyricsPlus mirror first\n- **banner**: Allow motion artwork video to mix with other audio\n- **queue**: Resolve local album tracks by album_key\n- **lyrics**: Sync provider settings to backend before fetch\n- **go**: Widen lyrics priority grace to 5s so priority provider wins\n- Preview player lifecycle and minor safety cleanups\n- **go**: Classify transient timeout/5xx in extension health as unknown (grey)\n- **ui**: Prevent home search skeleton row from overflowing on narrow screens\n- **lyrics**: Improve provider fallback and health handling\n- **deps**: Keep file_picker on 12.x beta to stay win32 6 compatible\n- **download**: Detect actual output format from audio codec on fallback\n- Navigate to correct artist when tapping artist name\n- **metadata**: Cap oversized cover art and support QuickTime/MP4 tags\n- **android**: Disable Impeller on Sony audio players and Vivante GPUs\n- **metadata**: Write M4A ISRC/label natively and read all edited fields from file\n- **download**: Honor requested quality when fallback provider recognizes it\n\n### Performance\n\n- Optimize queue/library pagination, counts, scan, and extension runtime\n\n### Refactoring\n\n- Hoist lossless labels before async convert paths\n- **track-provider**: Rework verification retry, parse preview/header video\n- **ui**: Make backup/restore page consistent with other settings\n\n### Dependencies\n\n- **deps**: Update Flutter and Go dependencies to latest stable\n\n### Chores\n\n- **player**: Log internal pause and audio interruption events\n- Bump version to 4.7.0+136\n- Clean up redundant comments across Go backend and Flutter sources\n- Move website to spotiflacapp/Website repo\n- Update AltStore source to v4.6.0 by [@github-actions[bot]](https://github.com/github-actions[bot])\n\n### Build\n\n- **android**: Bump Java to 25 and targetSdk to 37\n- **android**: Bump compileSdk to 37 and pin file_picker to beta.5\n\n### L10n\n\n- Localize settings, store, and metadata UI strings\n- Localize audio conversion labels and confirmations\n- Localize library settings and announcements\n- Add localization keys for hardcoded UI strings\n\n\n\n\n**Full Changelog**: [v4.6.0...v4.7.0](https://github.com/spotiflacapp/SpotiFLAC-Mobile/compare/v4.6.0...v4.7.0)\n\n---\n\n### Downloads\n\n#### Android\n- **arm64**: `SpotiFLAC-v4.7.0-arm64.apk` (recommended for modern devices)\n- **arm32**: `SpotiFLAC-v4.7.0-arm32.apk` (older devices)\n\n#### iOS\n- **iOS**: `SpotiFLAC-v4.7.0-ios-unsigned.ipa` (sideload required)\n\n### Installation\n**Android**: Enable \"Install from unknown sources\" and install the APK\n**iOS**: Use AltStore, Sideloadly, or similar tools to sideload the IPA\n",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.7.0",
+          "date": "2026-06-30",
+          "size": 37442462,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.zarz.spotiflacAndroid_4.7.0.ipa"
+        },
+        {
+          "version": "4.6.0",
+          "date": "2026-06-13",
+          "size": 34347687,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.zarz.spotiflacAndroid_4.6.0.ipa"
+        },
+        {
+          "version": "4.5.6",
+          "date": "2026-06-12",
+          "size": 34059797,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.7.0",
+      "versionDate": "2026-06-30T22:13:53.246Z",
+      "size": 37442462,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/com.zarz.spotiflacAndroid_4.7.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "WordPal",
       "bundleIdentifier": "com.dynamicapps.Vocab-Builder",
       "developerName": "Dynamic Apps Ltd",
@@ -20909,41 +20944,6 @@
       "versionDate": "2026-06-05T02:56:14.463Z",
       "size": 91965150,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.przemyslawbobak.filtru_Sideloadbypass2_4.6.11.ipa",
-      "recommended": false
-    },
-    {
-      "name": "SpotiFLAC Mobile",
-      "bundleIdentifier": "com.zarz.spotiflacAndroid",
-      "developerName": "Unknown Developer",
-      "iconURL": "https://placehold.co/128",
-      "localizedDescription": "from github:spotiflacapp/SpotiFLAC-Mobile (v4.6.0) |\n----------------\n\n### New Features\n\n- **playlist**: Blurred backdrop with full cover in playlist header\n- **ui**: Add bottom inset so scrollable content clears the transparent navbar\n- **library**: Show active downloads inside the library grid\n- **ui**: Reduce bottom navbar height\n- **ui**: Frosted translucent bottom navbar\n- **lyrics**: Show actual lyrics source in metadata\n- **audio**: Add WAV and AIFF support + settings-style metadata menu\n- **lyrics,replaygain**: Add LyricsPlus provider and ReplayGain batch scanning\n- **l10n**: Enable French and German locales\n\n### Bug Fixes\n\n- **metadata**: Use high-res cover in track metadata header\n- **download**: Honor selected provider when it equals the track source\n- **download**: Request fallback provider's own highest quality\n- **downloads/extensions**: IOS background task, serialize extension mutations, safer batch convert sheet\n- **ui**: Center modals on large screens, modernize edit-metadata + convert sheets, themed badges, fix artist skeleton and format-editor crash\n- **l10n**: Remove redundant ICU plural categories causing gen-l10n warnings\n- **android**: Override predictive-back page transition\n- **queue**: Simplify queue header and rate-limit indicator layout\n\n### Refactoring\n\n- Generalize Tidal-specific naming to legacy/DASH terminology\n- **download**: Remove concurrent download option\n\n### Dependencies\n\n- **deps**: Update Flutter and Go dependencies\n\n### Chores\n\n- **ios**: Strip CRLF from ffmpeg plugin scripts before pod install\n- Bump version to 4.6.0\n- Trim redundant comments\n- **about**: Credit Mickael81 as French translator\n- Update AltStore source to v4.5.6 by [@github-actions[bot]](https://github.com/github-actions[bot])\n\n### ﻿fix\n\n- **l10n**: Correct crowdin language mapping\n\n\n\n\n**Full Changelog**: [v4.5.6...v4.6.0](https://github.com/spotiflacapp/SpotiFLAC-Mobile/compare/v4.5.6...v4.6.0)\n\n---\n\n### Downloads\n\n#### Android\n- **arm64**: `SpotiFLAC-v4.6.0-arm64.apk` (recommended for modern devices)\n- **arm32**: `SpotiFLAC-v4.6.0-arm32.apk` (older devices)\n\n#### iOS\n- **iOS**: `SpotiFLAC-v4.6.0-ios-unsigned.ipa` (sideload required)\n\n### Installation\n**Android**: Enable \"Install from unknown sources\" and install the APK\n**iOS**: Use AltStore, Sideloadly, or similar tools to sideload the IPA\n\n![arm64](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.6.0/SpotiFLAC-v4.6.0-arm64.apk?style=flat-square&logo=android&label=arm64&color=3DDC84) ![arm32](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.6.0/SpotiFLAC-v4.6.0-arm32.apk?style=flat-square&logo=android&label=arm32&color=3DDC84) ![iOS](https://img.shields.io/github/downloads/spotiflacapp/SpotiFLAC-Mobile/v4.6.0/SpotiFLAC-v4.6.0-ios-unsigned.ipa?style=flat-square&logo=apple&label=iOS&color=0078D6)\n",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.6.0",
-          "date": "2026-06-13",
-          "size": 34347687,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.zarz.spotiflacAndroid_4.6.0.ipa"
-        },
-        {
-          "version": "4.5.6",
-          "date": "2026-06-12",
-          "size": 34059797,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.6.ipa"
-        },
-        {
-          "version": "4.5.5",
-          "date": "2026-06-12",
-          "size": 34915749,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zarz.spotiflacAndroid_4.5.5.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.6.0",
-      "versionDate": "2026-06-13T20:55:40.316Z",
-      "size": 34347687,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/com.zarz.spotiflacAndroid_4.6.0.ipa",
       "recommended": false
     },
     {
@@ -21292,11 +21292,17 @@
       "name": "superagent",
       "bundleIdentifier": "com.agent.super.extension.safari",
       "developerName": "Super Agent, Inc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/5c/d9/ce5cd993-14b6-1319-78c1-4a4fd804e75e/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSuper Agent for Safari\n\n• Bundle ID: com.agent.super.extension.safari\n• Updated to: 4.4\n• Minimum iOS: 17\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⚠️Use esign + paid certificate.\n>Ignore purchase page and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/33/4b/a2334b04-5b7a-e06c-e6de-388ecc265c28/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nSuper Agent for Safari\n\n• Bundle ID: com.agent.super.extension.safari\n• Updated to: 4.4.1\n• Minimum iOS: 17\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⚠️Use esign + paid certificate.\n>Ignore purchase page and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "4.4.1",
+          "date": "2026-07-01",
+          "size": 25835039,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.agent.super.extension.safari_AutoRcSideload_4.4.1.ipa"
+        },
         {
           "version": "4.4.0",
           "date": "2026-06-25",
@@ -21308,19 +21314,13 @@
           "date": "2026-06-02",
           "size": 23195928,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.agent.super.extension.safari_SuperAgentForSafariPatch_4.2.0.ipa"
-        },
-        {
-          "version": "4.1.0",
-          "date": "2026-06-03",
-          "size": 22843543,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.agent.super.extension.safari_AutoRcSideload_4.1.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.4.0",
-      "versionDate": "2026-06-25T10:11:37.817Z",
-      "size": 25835088,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-25/com.agent.super.extension.safari_AutoRcSideload_4.4.0.ipa",
+      "version": "4.4.1",
+      "versionDate": "2026-07-01T01:13:57.185Z",
+      "size": 25835039,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.agent.super.extension.safari_AutoRcSideload_4.4.1.ipa",
       "recommended": false
     },
     {
