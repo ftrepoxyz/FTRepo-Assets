@@ -2739,6 +2739,71 @@
       "recommended": false
     },
     {
+      "name": "BHTikTokPlus TikTok (BHTikTok)",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBHTikTokPlus\n\nAn awesome tweak for \n\nFeatures\n\nFix was made by choco\n\nMinimum OS version 14.0\n\nAppStore link | Donate",
+      "screenshots": [
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png"
+        },
+        {
+          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+        }
+      ],
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
+      ],
+      "versions": [
+        {
+          "version": "45.8.0",
+          "date": "2026-07-01",
+          "size": 434535936,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.zhiliaoapp.musically_AutoCacheDelete_45.8.0.ipa"
+        },
+        {
+          "version": "45.6.0",
+          "date": "2026-06-16",
+          "size": 410549770,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.zhiliaoapp.musically_BHTikTok_45.6.0.ipa"
+        },
+        {
+          "version": "45.5.0",
+          "date": "2026-06-12",
+          "size": 402988278,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zhiliaoapp.musically_BHTikTok_45.5.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "45.8.0",
+      "versionDate": "2026-07-01T07:21:20.896Z",
+      "size": 434535936,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.zhiliaoapp.musically_AutoCacheDelete_45.8.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "TikTok (VibeTok)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
@@ -2866,71 +2931,6 @@
       "versionDate": "2026-06-21T13:11:03.229Z",
       "size": 454687552,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-21/com.zhiliaoapp.musically_ASDTweak_45.6.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "TikTok (BHTikTok)",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "TikTok Ltd.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @compiledipas |\n----------------\nBHTT+ 1.2.1\nTiktok v45.6.0",
-      "screenshots": [
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png"
-        },
-        {
-          "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/1320x2868bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/1320x2868bb.png"
-      ],
-      "versions": [
-        {
-          "version": "45.6.0",
-          "date": "2026-06-16",
-          "size": 410549770,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.zhiliaoapp.musically_BHTikTok_45.6.0.ipa"
-        },
-        {
-          "version": "45.5.0",
-          "date": "2026-06-12",
-          "size": 402988278,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zhiliaoapp.musically_BHTikTok_45.5.0.ipa"
-        },
-        {
-          "version": "45.4.0",
-          "date": "2026-06-12",
-          "size": 410254100,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.zhiliaoapp.musically_BHTikTok_45.4.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "45.6.0",
-      "versionDate": "2026-06-16T07:11:47.932Z",
-      "size": 410549770,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.zhiliaoapp.musically_BHTikTok_45.6.0.ipa",
       "recommended": false
     },
     {
@@ -3696,7 +3696,7 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/86/9e/0f869ee2-ca40-a713-6cc4-4cb2bcdc82de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nPicsart AI Photo Editor, Video\n\n• Bundle ID: com.picsart.studio\n• Updated to: 30.1.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nPicsart AI Photo Video Editor\n\nPro features unlocked\n\n⚠️ AI is NOT unlocked!\n\nTweak made by blatant\n\nMinimum OS version 15.0\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/e4/01/dbe40197-b6c8-19e2-2db3-38e8044a2cc4/9.Collage___iPhone_6.5.jpg/1320x2868bb.jpg"
@@ -3763,6 +3763,12 @@
       ],
       "versions": [
         {
+          "version": "30.2.1",
+          "date": "2026-07-01",
+          "size": 105474135,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.picsart.studio_Picsart_30.2.1.ipa"
+        },
+        {
           "version": "30.1.3",
           "date": "2026-06-17",
           "size": 111971460,
@@ -3773,19 +3779,13 @@
           "date": "2026-06-15",
           "size": 111968371,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-15/com.picsart.studio_Picsart_30.1.1.ipa"
-        },
-        {
-          "version": "30.0.2",
-          "date": "2026-06-05",
-          "size": 105703512,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.picsart.studio_Picsart_30.0.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "30.1.3",
-      "versionDate": "2026-06-17T07:08:18.943Z",
-      "size": 111971460,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.picsart.studio_Picsart_30.1.3.ipa",
+      "version": "30.2.1",
+      "versionDate": "2026-07-01T07:22:28.458Z",
+      "size": 105474135,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.picsart.studio_Picsart_30.2.1.ipa",
       "recommended": false
     },
     {
@@ -5005,11 +5005,17 @@
       "name": "AllTrails",
       "bundleIdentifier": "com.alltrails.AllTrails",
       "developerName": "AllTrails, Inc.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/c0/52/cec052b3-8250-9122-1ed9-c36323e02cc0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/64/15/fc64153f-e775-1440-3763-7a6da48978d4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "from @binnichtaktivsipas |\n----------------\nAllTrails \n\nPro features unlocked\n\nTweak made by Никита\n\nMinimum OS version 17.0\n\nAppStore link | Donate",
       "screenshots": [],
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "26.6.41",
+          "date": "2026-07-01",
+          "size": 142088573,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.alltrails.AllTrails_AllTrailsPatch_26.6.41.ipa"
+        },
         {
           "version": "26.6.10",
           "date": "2026-06-05",
@@ -5021,19 +5027,13 @@
           "date": "2026-06-02",
           "size": 128973393,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.alltrails.AllTrails_AllTrailsPatch_26.5.40.ipa"
-        },
-        {
-          "version": "26.5.20",
-          "date": "2026-06-03",
-          "size": 127214682,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.alltrails.AllTrails_AllTrailsPatch_26.5.20.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "26.6.10",
-      "versionDate": "2026-06-05T09:14:04.260Z",
-      "size": 131033844,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.alltrails.AllTrails_AllTrailsPatch_26.6.10.ipa",
+      "version": "26.6.41",
+      "versionDate": "2026-07-01T07:22:06.817Z",
+      "size": 142088573,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.alltrails.AllTrails_AllTrailsPatch_26.6.41.ipa",
       "recommended": false
     },
     {
@@ -5394,7 +5394,7 @@
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/36/5e/2c365e0a-3c3f-821c-08f7-09531a512ced/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nBazaart AI Photo Editor Design\n\n• Bundle ID: co.bazaart.app\n• Updated to: 26.3.5\n• Minimum iOS: 16\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nBazaart: Design, Photo & Video\n\nPro features unlocked\n\n⚠️ Not working in LiveContainer\n\nTweak made by Никита\n\nMinimum OS version 16\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/35/88/463588d7-7511-bcbd-fdc6-28c433cfaf43/EN_ipad_1_Remove_people.jpg/1320x2868bb.jpg"
@@ -5409,6 +5409,12 @@
       ],
       "versions": [
         {
+          "version": "26.3.7",
+          "date": "2026-07-01",
+          "size": 102836614,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/co.bazaart.app_BazaartAIPhotoEditorDesignPatch_26.3.7.ipa"
+        },
+        {
           "version": "26.3.5",
           "date": "2026-06-13",
           "size": 104831502,
@@ -5419,19 +5425,13 @@
           "date": "2026-06-12",
           "size": 80099098,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/co.bazaart.app_BazaartAIPhotoEditorDesignPatch_26.3.4.ipa"
-        },
-        {
-          "version": "26.3.3",
-          "date": "2026-06-07",
-          "size": 80754565,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-07/co.bazaart.app_Bazaart_26.3.3.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "26.3.5",
-      "versionDate": "2026-06-13T17:55:46.346Z",
-      "size": 104831502,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-13/co.bazaart.app_Bazaart_26.3.5.ipa",
+      "version": "26.3.7",
+      "versionDate": "2026-07-01T07:21:49.585Z",
+      "size": 102836614,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/co.bazaart.app_BazaartAIPhotoEditorDesignPatch_26.3.7.ipa",
       "recommended": false
     },
     {
@@ -5867,6 +5867,29 @@
       "versionDate": "2026-06-03T12:14:13.089Z",
       "size": 113815636,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.puresignal.strides_Sideloadbypass2_19.9.ipa",
+      "recommended": false
+    },
+    {
+      "name": "NC v18.400.7",
+      "bundleIdentifier": "nt.nc.ios",
+      "developerName": "Unknown Developer",
+      "iconURL": "https://placehold.co/128",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nNull's Clash\n\nYou have unlimited gems, gold and elixir! Even the dark one.\n\nMinimum OS version 15.0\n\nApp is not in the AppStore | Donate",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "18.400.7",
+          "date": "2026-07-01",
+          "size": 461276778,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/nt.nc.ios_18.400.7.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "18.400.7",
+      "versionDate": "2026-07-01T07:23:11.076Z",
+      "size": 461276778,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/nt.nc.ios_18.400.7.ipa",
       "recommended": false
     },
     {
@@ -8413,6 +8436,29 @@
       "recommended": false
     },
     {
+      "name": "IPTV Expert",
+      "bundleIdentifier": "com.iptv.player",
+      "developerName": "LIFTOFF",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/6c/23/fe6c2355-3695-a8bd-b8e0-6a3d629e3af5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nIPTV Smarters Player Expert\n\nPro features unlocked\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "10.0.5",
+          "date": "2026-07-01",
+          "size": 47137175,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.iptv.player_RevenueCatFix26_10.0.5.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "10.0.5",
+      "versionDate": "2026-07-01T07:22:14.670Z",
+      "size": 47137175,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.iptv.player_RevenueCatFix26_10.0.5.ipa",
+      "recommended": false
+    },
+    {
       "name": "Flo",
       "bundleIdentifier": "org.iggymedia.periodtracker",
       "developerName": "FLO HEALTH UK LIMITED",
@@ -8486,7 +8532,7 @@
       "bundleIdentifier": "com.fishbrain.app",
       "developerName": "FishBrain",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7f/8a/5f7f8a30-1543-59a7-deb6-f468b011dc6a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nFishbrain - Fishing App\n\nTweak: Pro Unlocked\n\nVersion: 9.55.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.fishbrain.app\nDeveloper: FishBrain",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nFishbrain - Fishing App\n\nTweak: Pro Unlocked\n\nVersion: 9.57.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.fishbrain.app\nDeveloper: FishBrain",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/91/94/349194cb-6260-048c-8706-410bd747c510/587a1251-897c-4222-b374-174bfde201ec_Lake_dock_1.png/1320x2868bb.png"
@@ -8533,6 +8579,12 @@
       ],
       "versions": [
         {
+          "version": "9.57.1",
+          "date": "2026-07-01",
+          "size": 104908011,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.fishbrain.app_Sideloadbypass2_9.57.1.ipa"
+        },
+        {
           "version": "9.55.1",
           "date": "2026-06-02",
           "size": 95764662,
@@ -8543,19 +8595,13 @@
           "date": "2026-06-02",
           "size": 95869691,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.fishbrain.app_Sideloadbypass2_9.55.0.ipa"
-        },
-        {
-          "version": "9.54.0",
-          "date": "2026-06-05",
-          "size": 93746361,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.fishbrain.app_Sideloadbypass2_9.54.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.55.1",
-      "versionDate": "2026-06-02T17:16:01.837Z",
-      "size": 95764662,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.fishbrain.app_Sideloadbypass2_9.55.1.ipa",
+      "version": "9.57.1",
+      "versionDate": "2026-07-01T10:14:35.381Z",
+      "size": 104908011,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.fishbrain.app_Sideloadbypass2_9.57.1.ipa",
       "recommended": false
     },
     {
@@ -8773,7 +8819,7 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/77/a5/c777a50a-7115-02c7-5987-c932b877fbcb/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @thescholarslounge |\n----------------\nBuild of YouTube Music 📀\n\n🪧Build Version: 9.24.2\n⭐️YU: YTMusicUltimate\n➡️Repost Policy: t.me/iosdecrypted/15\n\n🛠On iOS 26 you should use Feather with “Replace Substrate with Ellekit”\n📊Other tweaks: \n📦Return YouTube Music Dislikes, YTMABConfig.\n\n📁Changelog: Updated the build.\n\n📢@iosdecrypted | @iosdecryptedchat💬",
+      "localizedDescription": "from @binnichtaktivsipas |\n----------------\nYTMusicUltimate\n\nThe best tweak for YouTube Music on iOS.\n\nRelease information\n\nIf you're on iOS 14-15, download this version\n\nDownloading only works on 9.14.2 and lower. The developer has to update his tweak to fix this problem\n\nMinimum OS version 16.0\n\nAppStore link | Donate",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/1320x2868bb.png"
@@ -8800,6 +8846,12 @@
       ],
       "versions": [
         {
+          "version": "9.26.2",
+          "date": "2026-07-01",
+          "size": 100227409,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.26.2.ipa"
+        },
+        {
           "version": "9.24.2",
           "date": "2026-06-16",
           "size": 97579144,
@@ -8810,19 +8862,13 @@
           "date": "2026-06-12",
           "size": 97597550,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.23.4.ipa"
-        },
-        {
-          "version": "9.22.2",
-          "date": "2026-06-12",
-          "size": 101564169,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/com.google.ios.youtubemusic_YTMusicUltimate_9.22.2.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.24.2",
-      "versionDate": "2026-06-16T07:09:14.439Z",
-      "size": 97579144,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-16/com.google.ios.youtubemusic_YTMusicUltimate_9.24.2.ipa",
+      "version": "9.26.2",
+      "versionDate": "2026-07-01T07:21:36.167Z",
+      "size": 100227409,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.google.ios.youtubemusic_ReturnYouTubeMusicDislikes_9.26.2.ipa",
       "recommended": false
     },
     {
@@ -9004,7 +9050,7 @@
       "bundleIdentifier": "com.joytunes.asla",
       "developerName": "Simply Ltd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/6f/3c/146f3c0c-b2f4-c1e0-12de-f83d3dcd6517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nSimply Piano: Learn Piano Fast\n\n• Bundle ID: com.joytunes.asla\n• Updated to: 9.10.74\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nSimply Piano: Learn Piano Fast\n\n• Bundle ID: com.joytunes.asla\n• Updated to: 9.10.76\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/df/82/08df8229-bd28-58e7-798d-ef8b9cf7c494/01.jpg/1320x2868bb.jpg"
@@ -9035,6 +9081,12 @@
       ],
       "versions": [
         {
+          "version": "9.10.76",
+          "date": "2026-07-01",
+          "size": 167639831,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.joytunes.asla_SimplyCrack_9.10.76.ipa"
+        },
+        {
           "version": "9.10.74",
           "date": "2026-06-21",
           "size": 167409260,
@@ -9045,19 +9097,13 @@
           "date": "2026-06-17",
           "size": 166093356,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-17/com.joytunes.asla_SimplyCrack_9.10.73.ipa"
-        },
-        {
-          "version": "9.10.72",
-          "date": "2026-06-14",
-          "size": 166092293,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-14/com.joytunes.asla_SimplyCrack_9.10.72.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "9.10.74",
-      "versionDate": "2026-06-21T13:10:22.986Z",
-      "size": 167409260,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-21/com.joytunes.asla_SimplyCrack_9.10.74.ipa",
+      "version": "9.10.76",
+      "versionDate": "2026-07-01T10:14:19.889Z",
+      "size": 167639831,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.joytunes.asla_SimplyCrack_9.10.76.ipa",
       "recommended": false
     },
     {
@@ -10254,7 +10300,7 @@
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/9d/bf/d69dbf7c-847b-656e-b00e-206c33533f73/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nStepsApp Pedometer\n\nTweak: Pro Unlocked\n\nVersion: 8.9.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.gunthermarktl.stepapp\nDeveloper: StepsApp GmbH",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nStepsApp Pedometer\n\nTweak: Pro Unlocked\n\nVersion: 8.11.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.gunthermarktl.stepapp\nDeveloper: StepsApp GmbH",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/94/5e/63945ee0-33a0-de35-a71e-297dd4a183cc/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/1320x2868bb.png"
@@ -10297,6 +10343,12 @@
       ],
       "versions": [
         {
+          "version": "8.11.0",
+          "date": "2026-07-01",
+          "size": 219200158,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.gunthermarktl.stepapp_Sideloadbypass2_8.11.0.ipa"
+        },
+        {
           "version": "8.9.1",
           "date": "2026-06-02",
           "size": 216688505,
@@ -10307,19 +10359,13 @@
           "date": "2026-06-03",
           "size": 216671206,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.gunthermarktl.stepapp_Sideloadbypass2_8.9.0.ipa"
-        },
-        {
-          "version": "8.8.7",
-          "date": "2026-06-05",
-          "size": 215674034,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.gunthermarktl.stepapp_Sideloadbypass2_8.8.7.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "8.9.1",
-      "versionDate": "2026-06-02T17:34:20.991Z",
-      "size": 216688505,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.gunthermarktl.stepapp_Sideloadbypass2_8.9.1.ipa",
+      "version": "8.11.0",
+      "versionDate": "2026-07-01T13:14:39.742Z",
+      "size": 219200158,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.gunthermarktl.stepapp_Sideloadbypass2_8.11.0.ipa",
       "recommended": false
     },
     {
@@ -16696,6 +16742,41 @@
       "recommended": false
     },
     {
+      "name": "Smart Receipts",
+      "bundleIdentifier": "co.smartreceipts.ios",
+      "developerName": "REACTIVE APPS CORP.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c0/13/79c013a2-b496-9a35-0535-002f68a305c0/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "from @riftysipalibrary |\n----------------\nSmart Receipts: Expenses & Tax\n\nTweak: Pro Unlocked\n\nVersion: 5.18.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: co.smartreceipts.ios\nDeveloper: REACTIVE APPS CORP.",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "5.18.0",
+          "date": "2026-07-01",
+          "size": 40148321,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/co.smartreceipts.ios_AutoRevenueCat_5.18.0.ipa"
+        },
+        {
+          "version": "5.17.1",
+          "date": "2026-06-04",
+          "size": 38159174,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/co.smartreceipts.ios_AutoRevenueCat_5.17.1.ipa"
+        },
+        {
+          "version": "5.16.1",
+          "date": "2026-06-02",
+          "size": 35009032,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/co.smartreceipts.ios_AutoRevenueCat_5.16.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.18.0",
+      "versionDate": "2026-07-01T07:23:18.640Z",
+      "size": 40148321,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/co.smartreceipts.ios_AutoRevenueCat_5.18.0.ipa",
+      "recommended": false
+    },
+    {
       "name": "Shapeyard",
       "bundleIdentifier": "app.chudo",
       "developerName": "Magic Unicorn Inc.",
@@ -16881,41 +16962,6 @@
       "versionDate": "2026-06-03T11:54:03.043Z",
       "size": 94627653,
       "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.waze.iphone_WazePlus_5.18.0.ipa",
-      "recommended": false
-    },
-    {
-      "name": "Smart Receipts",
-      "bundleIdentifier": "co.smartreceipts.ios",
-      "developerName": "REACTIVE APPS CORP.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/c8/ce/61c8ce8f-6f25-4441-a8fc-0f5f427e4cce/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @riftysipalibrary |\n----------------\nSmart Receipts: Expenses & Tax\n\nTweak: Pro Unlocked\n\nVersion: 5.17.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.6\nBundle ID: co.smartreceipts.ios\nDeveloper: REACTIVE APPS CORP.",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "5.17.1",
-          "date": "2026-06-04",
-          "size": 38159174,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/co.smartreceipts.ios_AutoRevenueCat_5.17.1.ipa"
-        },
-        {
-          "version": "5.16.1",
-          "date": "2026-06-02",
-          "size": 35009032,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/co.smartreceipts.ios_AutoRevenueCat_5.16.1.ipa"
-        },
-        {
-          "version": "5.16.0",
-          "date": "2026-06-03",
-          "size": 34993993,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/co.smartreceipts.ios_AutoRevenueCat_5.16.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "5.17.1",
-      "versionDate": "2026-06-04T23:54:26.789Z",
-      "size": 38159174,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-04/co.smartreceipts.ios_AutoRevenueCat_5.17.1.ipa",
       "recommended": false
     },
     {
@@ -22031,29 +22077,6 @@
       "recommended": false
     },
     {
-      "name": "Weather ·",
-      "bundleIdentifier": "com.yoyoapps.weather",
-      "developerName": "BUCKET LIST LABS S.L.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/91/46/819146d6-f4c2-a8b2-835c-38e6f8927c57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nWeather Pro · Radar Alerts\n\n• Bundle ID: com.yoyoapps.weather\n• Updated to: 4.1.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
-      "screenshots": [],
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.1.6",
-          "date": "2026-06-02",
-          "size": 95964623,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.yoyoapps.weather_Weather_4.1.6.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "4.1.6",
-      "versionDate": "2026-06-02T15:11:29.614Z",
-      "size": 95964623,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.yoyoapps.weather_Weather_4.1.6.ipa",
-      "recommended": false
-    },
-    {
       "name": "Phone Diagnostics",
       "bundleIdentifier": "com.diagnostics.ios",
       "developerName": "HITEK_NOVA",
@@ -22097,6 +22120,12 @@
       ],
       "versions": [
         {
+          "version": "4.1.7",
+          "date": "2026-07-01",
+          "size": 12919012,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.diagnostics.ios_SatellaJailed_4.1.7.ipa"
+        },
+        {
           "version": "4.1.3",
           "date": "2026-06-03",
           "size": 17009850,
@@ -22107,19 +22136,36 @@
           "date": "2026-06-05",
           "size": 17004696,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.diagnostics.ios_SatellaJailed_4.1.2.ipa"
-        },
-        {
-          "version": "4.1.1",
-          "date": "2026-06-05",
-          "size": 17004185,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-05/com.diagnostics.ios_SatellaJailed_4.1.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "4.1.3",
-      "versionDate": "2026-06-03T10:40:12.634Z",
-      "size": 17009850,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-03/com.diagnostics.ios_SatellaJailed_4.1.3.ipa",
+      "version": "4.1.7",
+      "versionDate": "2026-07-01T07:22:32.414Z",
+      "size": 12919012,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/com.diagnostics.ios_SatellaJailed_4.1.7.ipa",
+      "recommended": false
+    },
+    {
+      "name": "Weather ·",
+      "bundleIdentifier": "com.yoyoapps.weather",
+      "developerName": "BUCKET LIST LABS S.L.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/91/46/819146d6-f4c2-a8b2-835c-38e6f8927c57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "from @blatants |\n----------------\nWeather Pro · Radar Alerts\n\n• Bundle ID: com.yoyoapps.weather\n• Updated to: 4.1.4\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "screenshots": [],
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.1.6",
+          "date": "2026-06-02",
+          "size": 95964623,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.yoyoapps.weather_Weather_4.1.6.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "4.1.6",
+      "versionDate": "2026-06-02T15:11:29.614Z",
+      "size": 95964623,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-02/com.yoyoapps.weather_Weather_4.1.6.ipa",
       "recommended": false
     },
     {
@@ -31065,7 +31111,7 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "from @blatants |\n----------------\nNutrition Coach: Food tracker\n\n• Bundle ID: nutrition.coach\n• Updated to: 2.1.6\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
+      "localizedDescription": "from @blatants |\n----------------\nNutrition Coach: Food tracker\n\n• Bundle ID: nutrition.coach\n• Updated to: 2.1.7\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert",
       "screenshots": [
         {
           "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5c/7d/c65c7d42-9758-a9f6-b97b-864d52e346df/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/1320x2868bb.jpg"
@@ -31092,6 +31138,12 @@
       ],
       "versions": [
         {
+          "version": "2.1.7",
+          "date": "2026-07-01",
+          "size": 73428952,
+          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/nutrition.coach_NutriCoach_2.1.7.ipa"
+        },
+        {
           "version": "2.1.6",
           "date": "2026-06-30",
           "size": 73426397,
@@ -31102,19 +31154,13 @@
           "date": "2026-06-12",
           "size": 73173884,
           "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/nutrition.coach_NutriCoach_2.1.0.ipa"
-        },
-        {
-          "version": "2.0.0",
-          "date": "2026-06-12",
-          "size": 57367493,
-          "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-12/nutrition.coach_NutriCoach_2.0.0.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.1.6",
-      "versionDate": "2026-06-30T10:13:48.038Z",
-      "size": 73426397,
-      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-06-30/nutrition.coach_NutriCoach_2.1.6.ipa",
+      "version": "2.1.7",
+      "versionDate": "2026-07-01T13:14:12.870Z",
+      "size": 73428952,
+      "downloadURL": "https://github.com/ftrepoxyz/FTRepo-Assets/releases/download/2026-07-01/nutrition.coach_NutriCoach_2.1.7.ipa",
       "recommended": false
     },
     {
